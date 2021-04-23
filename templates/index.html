@@ -12,9 +12,9 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Stories</a></li>
-          <li><a class="nav-link scrollto " href="#photographs">Photographs</a></li>
           <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li>
+          <li><a class="nav-link scrollto" href="#interviews">Interviews</a></li>
+          <li><a class="nav-link scrollto " href="#photographs">Photographs</a></li>
           <li style="margin-left:15px;"><input type="search" class="form-control ds-input" id="search-input" placeholder="Search..." aria-label="Search docs for..." autocomplete="off" data-bd-docs-version="5.0" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;"></li>
           
           
@@ -81,7 +81,7 @@
 
   <main id="main">
  
-<!-- ======= Why Us Section ======= -->
+<!-- ======= About Section ======= -->
 <section id="about" class="why-us section-bg">
     <div class="container-fluid" data-aos="fade-up">
 
@@ -142,7 +142,7 @@
         </div>
 
       </div>
-     
+    
     </div>
   </section><!-- End About Section -->
 
@@ -154,7 +154,46 @@
         <h2>Teaching Materials</h2>
         <p></p>
       </div>
-
+      <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+        <div class="container" data-aos="fade-up">
+  
+          <div class="row no-gutters">
+  
+            <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <i class="bi bi-person-square"></i>
+                <span data-purecounter-start="0" data-purecounter-end="422" data-purecounter-duration="1" class="purecounter"></span>
+                <p><strong>Oral Histories</strong></p>
+                <a href="#">Find out more &raquo;</a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <i class="bi bi-file-earmark-text"></i>
+                <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="1" class="purecounter"></span>
+                <p><strong>Pages of Testimony</strong></p>
+                <a href="#">Find out more &raquo;</a>
+              </div>
+          </div>
+  
+            <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <i class="bi bi-headset"></i>
+                <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
+                <p><strong>Hours Of Audio</strong> </p>
+                <a href="#">Find out more &raquo;</a>
+              </div>
+            </div>
+  
+           
+          </div>
+  
+        </div>
+      </section><!-- End Counts Section -->
+  
+      
       <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon-box">
@@ -209,54 +248,177 @@
     </div>
   </section><!-- End Teaching Section -->
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
-      <div class="container" data-aos="fade-up">
 
-        <div class="row no-gutters">
+  <!-- ======= Interviews Section ======= -->
+<section id="interviews" class="cta">
+    <div class="container" data-aos="zoom-in">
 
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-person-square"></i>
-              <span data-purecounter-start="0" data-purecounter-end="422" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Oral Histories</strong></p>
-              <a href="#">Find out more &raquo;</a>
-            </div>
+      <div class="text-center">
+        <h3>Interviews</h3>
+        <p> </p>
+      </div>
+
+      <div class="mx-auto cta-inner0 text-center">
+        
+
+          <div class="filters-group mx-auto">
+            <label for="filters-search-input" class="filter-label">Search</label>
+            <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input" />
           </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-file-earmark-text"></i>
-              <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Pages of Testimony</strong></p>
-              <a href="#">Find out more &raquo;</a>
-            </div>
         </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hours Of Audio</strong> </p>
-              <a href="#">Find out more &raquo;</a>
+        <div id="grid" class=" row my-shuffle-container mx-auto">
+          <style>.border-3 {
+            border-width:4px !important;
+            border-color: #d1ded9;
+        }
+        </style>
+          {% for item in interviews %}
+          <figure style="padding-right:10px;" class="rounded js-item img-item col-4@sm col-4@xs" data-groups='{{ item.subjects }}'
+          data-date-created="{{ item.start_year }}" data-title="{{ item.title }}"
+          data-author="{{ item.author }}">
+            <div >
+              <div>
+                <div class="aspect aspect--16x9">
+                    <div class="aspect__inner">
+                <a href="" target="_blank" rel="noopener"
+                    title="{{ item.title }}"><img 
+                      src="assets/img/participants/{{ item.file }}" alt="{{ item.title }}" /></a>
+              </div>
+              </div></div>
             </div>
-          </div>
+            <figcaption style="color:white;" class="picture-item__title">{{ item.title }}</figcaption>
+          </figure>
+          
+          {% endfor %}
+
+
+
 
          
+        </div>
+      </div>
 
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Volunteers</strong></p>
-              <a href="#">Find out more &raquo;</a>
+
+    </div>
+  </section><!-- End Cta Section -->
+
+    <!-- ======= Photographs Section ======= -->
+    <section id="photographs" class="portfolio">
+        <div class="container" data-aos="fade-up">
+  
+          <div class="section-title">
+            <h2>Photographs</h2>
+            <p></p>
+          </div>
+  
+          <div class="row" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-lg-12 d-flex justify-content-center">
+              <ul id="portfolio-flters">
+                <li data-filter="*" class="filter-active">All</li>
+                <li data-filter=".filter-app">App</li>
+                <li data-filter=".filter-card">Card</li>
+                <li data-filter=".filter-web">Web</li>
+              </ul>
             </div>
           </div>
+  
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 1</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 2</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 2</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 2</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 3</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 1</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 3</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+  
+          </div>
+  
         </div>
-
-      </div>
-    </section><!-- End Counts Section -->
-
+      </section><!-- End Portfolio Section -->
+  
 <!-- ======= Team Section ======= -->
 <section id="team" class="team section-bg">
     <div class="container" data-aos="fade-up">
@@ -366,140 +528,80 @@
   
     
 
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
-    <!-- ======= Photographs Section ======= -->
-    <section id="photographs" class="portfolio">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Photographs</h2>
-          <p></p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
-
+    
+    
     
     
     
 
     
+
+    {% endblock %}
+
+    {% block extrajs %}
+    <script>
+        var Shuffle = window.Shuffle;
+    
+    
+        
+    
+        class Demo {
+          constructor(element) {
+            this.element = element;
+            this.shuffle = new Shuffle(element, {
+              itemSelector: '.js-item',
+              sizer: element.querySelector('.my-sizer-element'),
+            });
+    
+            // Log events.
+            this.addShuffleEventListeners();
+            this._activeFilters = [];
+            this.addSearchFilter();
+          }
+    
+          /**
+           * Shuffle uses the CustomEvent constructor to dispatch events. You can listen
+           * for them like you normally would (with jQuery for example).
+           */
+          addShuffleEventListeners() {
+            this.shuffle.on(Shuffle.EventType.LAYOUT, (data) => {
+              console.log('layout. data:', data);
+            });
+            this.shuffle.on(Shuffle.EventType.REMOVED, (data) => {
+              console.log('removed. data:', data);
+            });
+          }
+    
+    
+          // Advanced filtering
+          addSearchFilter() {
+            const searchInput = document.querySelector('.js-shuffle-search');
+            if (!searchInput) {
+              return;
+            }
+            searchInput.addEventListener('keyup', this._handleSearchKeyup.bind(this));
+          }
+    
+          /**
+           * Filter the shuffle instance by items with a title that matches the search input.
+           * @param {Event} evt Event object.
+           */
+          _handleSearchKeyup(evt) {
+            const searchText = evt.target.value.toLowerCase();
+            this.shuffle.filter((element, shuffle) => {
+             
+              const titleElement = element.querySelector('.picture-item__title');
+              const titleText = titleElement.textContent.toLowerCase().trim();
+              return titleText.indexOf(searchText) !== -1;
+            });
+          }
+        }
+    
+        document.addEventListener('DOMContentLoaded', () => {
+          window.demo = new Demo(document.getElementById('grid'));
+        });
+    
+    
+      </script>
 
     {% endblock %}

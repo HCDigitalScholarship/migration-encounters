@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 import random
-
+from pathlib import Path
 app = FastAPI()
 app.mount("/assets", StaticFiles(directory="assets"), name="assets")
 
@@ -27,10 +27,12 @@ photos = [
         "Zayuri_6-10-2019_Portrait.jpg",
         ]
 
+interviews = Path.cwd() / "assets"/ "img" / "participants"
+interviews = [{"file":a.name,"title":a.stem,"subjects":["Migration"],"start_year":2018} for a in interviews.iterdir() if "Thumbnail" in a.name]
 
 @app.get("/")
 def index(request:Request):
     #choose three random images from the photographs with a green background
     oral_histories, photographs, teaching = random.sample(photos, 3)
     
-    return templates.TemplateResponse("index.html", {"request": request, "oral_histories": oral_histories, "photographs":photographs, "teaching":teaching})
+    return templates.TemplateResponse("index.html", {"request": request, "interviews":interviews,"oral_histories": oral_histories, "photographs":photographs, "teaching":teaching})
