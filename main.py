@@ -27,8 +27,8 @@ photos = [
         "Zayuri_6-10-2019_Portrait.jpg",
         ]
 
-interviews = Path.cwd() / "assets"/ "img" / "participants"
-interviews = [{"file":a.name,"title":a.stem,"subjects":["Migration"],"start_year":2018} for a in interviews.iterdir() if "Thumbnail" in a.name]
+interviews = Path.cwd() / "assets"/ "img" / "thumbnails"
+interviews = [{"file":a.name,"title":a.stem,"subjects":["Migration"],"start_year":2018} for a in interviews.iterdir()]
 
 @app.get("/")
 def index(request:Request):
