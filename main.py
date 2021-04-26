@@ -3,7 +3,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
 from typing import Optional, List
-
+import json 
 import random
 from pathlib import Path
 app = FastAPI()
@@ -58,7 +58,8 @@ temp = ["Migration","Mexico City","ICE","California", "Nogales", "Dallas"]
 for i in interviews:
     eek = random.randrange(len(temp))
     i['subjects'].append(temp[eek])
-
+interviews = json.loads(str(interviews))
+print(interviews)
 filters = []
 for interview in interviews:
     for subject in interview["subjects"]:

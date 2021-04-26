@@ -195,7 +195,8 @@
         <div class="container">
           <div id="grid" class="row my-shuffle-container">          
             {% for item in interviews %}
-          <figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups='{{ item.subjects }}'
+            
+          <figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups="{{ item.subjects }}"
           data-date-created="{{ item.date }}" data-title="{{ item.title }}"
           data-author="{{ item.author }}">
             <div >
