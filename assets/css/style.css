@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ed502e;
+  border: 6px solid #00e8fd;
   border-top-color: white;
   border-radius: 50%;
   width: 60px;
@@ -1070,17 +1070,17 @@ section {
 --------------------------------------------------------------*/
 .cta {
   padding: 80px 0;
-  background: #0b2341;
+  background: #fff;
 }
 
 .cta h3 {
-  color: #fff;
+  color: black;
   font-size: 28px;
   font-weight: 700;
 }
 
 .cta p {
-  color: #fff;
+  color: black;
 }
 
 .cta .cta-btn {
@@ -1093,13 +1093,13 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #ed502e;
-  color: #fff;
+  border: 2px solid #0068f0;
+  
 }
 
 .cta .cta-btn:hover {
-  background: #ed502e;
-  border: 2px solid #ed502e;
+  background: 0068f0;
+  border: 2px solid 0068f0;
 }
 
 /*--------------------------------------------------------------

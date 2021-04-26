@@ -12,9 +12,10 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li>
           <li><a class="nav-link scrollto" href="#interviews">Interviews</a></li>
           <li><a class="nav-link scrollto " href="#photographs">Photographs</a></li>
+          <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li>
+
           <li style="margin-left:15px;"><input type="search" class="form-control ds-input" id="search-input" placeholder="Search..." aria-label="Search docs for..." autocomplete="off" data-bd-docs-version="5.0" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;"></li>
           
           
@@ -158,36 +159,39 @@
       <div class="mx-auto cta-inner0 text-center">
         <div class="container">
           <div class="row">
-            <div class="col-4@sm col-3@md">
+            <div class="col-12@sm col-3@md">
               <div class="filters-group">
-                <h4 for="filters-search-input" class="filter-label text-light">Search</h4>
+                <h4 for="filters-search-input" class="filter-label">Search</h4>
                 <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input" />
               </div>
             </div>
+
+            <fieldset class="filters-group">
+              
+              <div class="btn-group sort-options">
+                <label class="btn active">
+                  <input type="radio" name="sort-value" value="dom" checked /> Default
+                </label>
+                <label class="btn">
+                  <input type="radio" name="sort-value" value="title" /> Title
+                </label>
+                <label class="btn">
+                  <input type="radio" name="sort-value" value="date-created" /> Date Created
+                </label>
+              </div>
+            </fieldset>
+
           </div>
           <div class="row">
             <div class="col-12@sm filters-group-wrap">
               <div class="filters-group">
                 <div class="btn-group filter-options">
                   {% for filter in filters %}
-                  <a class="cta-btn" data-group="{{ filter }}">{{ filter }}</a>
+                  <p class="cta-btn" data-group="{{ filter }}">{{ filter }}</p>
                   {% endfor %}
                 </div>
               </div>
-              <fieldset class="filters-group">
-                <h4 class="filter-label text-light">Sort</h4>
-                <div class="btn-group sort-options">
-                  <label class="btn active text-light">
-                    <input type="radio" name="sort-value" value="dom" checked /> Default
-                  </label>
-                  <label class="btn text-light">
-                    <input type="radio" name="sort-value" value="title" /> Title
-                  </label>
-                  <label class="btn text-light">
-                    <input type="radio" name="sort-value" value="date-created" /> Date Created
-                  </label>
-                </div>
-              </fieldset>
+              
             </div>
           </div>
         </div>
@@ -209,7 +213,7 @@
               </div>
               </div></div>
             </div>
-            <figcaption style="color:white;" class="picture-item__title">{{ item.title }}</figcaption>
+            <figcaption class="picture-item__title">{{ item.title }}</figcaption>
           </figure>
           
           {% endfor %}
@@ -221,7 +225,7 @@
         </div>
       </div>
 
-
+      </div>
     </div>
   </section><!-- End Interviews Section -->
 
