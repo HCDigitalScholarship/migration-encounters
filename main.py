@@ -52,19 +52,15 @@ brick = [
 photos = brick
 
 interviews = Path.cwd() / "assets"/ "img" / "thumbnails"
-interviews = [{"file":a.name,"title":a.stem,"subjects":[],"date":2018} for a in interviews.iterdir()]
+interviews = [{"file":a.name,"title":a.stem,"subjects":"","date":2018} for a in interviews.iterdir()]
 #add random subjects 
 temp = ["Migration","Mexico City","ICE","California", "Nogales", "Dallas"]
 for i in interviews:
     eek = random.randrange(len(temp))
-    i['subjects'].append(temp[eek])
-interviews = json.loads(str(interviews))
-print(interviews)
-filters = []
-for interview in interviews:
-    for subject in interview["subjects"]:
-        if subject not in filters:
-            filters.append(subject)
+    i['subjects'] = f'"[{temp[eek]}]"'
+
+filters = temp
+
 #TODO, change interviews to list of Interview objects, which load from TEI files in a data directory
 @app.get("/")
 def index(request:Request):
