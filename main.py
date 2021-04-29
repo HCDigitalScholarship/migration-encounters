@@ -1,10 +1,12 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request,HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
 from typing import Optional, List
+from functools import cache
 import json 
 import random
+import srsly
 from pathlib import Path
 app = FastAPI()
 app.mount("/assets", StaticFiles(directory="assets"), name="assets")
@@ -12,17 +14,26 @@ app.mount("/assets", StaticFiles(directory="assets"), name="assets")
 templates = Jinja2Templates(directory="templates")
 
 class Interview(BaseModel):
-    nombre: str
-    apellido_paterno: str
-    apellido_materno: str
+    name: str
+    date: str
+    location: str
+    interviewer: str
     portrait: str
     thumbnail: str
-    date: str
-    short_bio:str
-    text: str
-    annotations: Json
+    text: Optional[str] = ''
+    annotations: List[dict] #for both audio, text and images
+    audio: Optional[List[dict]] = None
     subjects: Optional[List[str]] = None
-    
+
+@cache
+def load_data():
+    interviews = []
+    data_dir = Path.cwd() / 'data'  
+    for item in data_dir.iterdir():
+        data = srsly.read_json(item)
+        i = Interview(**data)
+        interviews.append(i)
+    return interviews
 
 green = [
         "Abel_6-2-2019_Portrait.jpg", #
@@ -74,3 +85,12 @@ def index(request:Request):
         photographs=photographs, 
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
+
+@app.get("/interview_json/{person}")
+def index(person:str):
+    interviews = load_data()
+    person = [i for i in interviews if i.name.lower() == person.lower()]
+    if person:
+        return person[0]
+    else: 
+        raise HTTPException(status_code=404, detail="Interview not found")
