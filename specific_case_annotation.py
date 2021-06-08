@@ -6,8 +6,8 @@ def hypothesisgrabber(interview_name, offset):
     data = httpx.get(
         'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name + '&limit=200' + '&offset=' + str(offset))
     grabbed_datadict = data.json()
-    grabbed_datadictrows = grabbed_datadict.get("rows")
-    return grabbed_datadictrows
+    grabbed_annotations = grabbed_datadict.get("rows")
+    return grabbed_annotations
 
 def main():
     """This program reformats a *specific* annotation from a *specific* hypothesis interview into a form that aligns
@@ -23,21 +23,22 @@ def main():
     datadict = data.json()
     total_remaining_annotations = int(datadict.get("total"))
 
-    #initializing our vairables.
+    # initializing our vairables
     offset = 0
-    datadictrows = []
+    annotations_list = []
 
     while total_remaining_annotations > 0:
         grabbed_annotations = hypothesisgrabber(interview_name, offset)
         for n in range(0, len(grabbed_annotations)):
-            datadictrows.append(grabbed_annotations[n])
+            annotations_list.append(grabbed_annotations[n])
         offset = offset + 200
         total_remaining_annotations = total_remaining_annotations - 200
+
 
     # from the list of annotations, inputting the number of a specific annotation and pulling that specific
     # annotation from the list of annotations
     annotation_number = int(input("Enter number of annotation: "))
-    specific_annotation = datadictrows[annotation_number - 1]
+    specific_annotation = annotations_list[annotation_number - 1]
 
     # creating a dictionary for the relevant information from the annotation
     result_dictionary = {}
