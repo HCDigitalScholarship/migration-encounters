@@ -22,7 +22,7 @@ def main():
         'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name + '&limit=1')
     datadict = data.json()
     total_remaining_annotations = int(datadict.get("total"))
- 
+
     #initializing our vairables.
     offset = 0
     datadictrows = []
@@ -33,9 +33,6 @@ def main():
             datadictrows.append(grabbed_annotations[n])
         offset = offset + 200
         total_remaining_annotations = total_remaining_annotations - 200
-
-    print(len(datadictrows))
-    exit()
 
     # from the list of annotations, inputting the number of a specific annotation and pulling that specific
     # annotation from the list of annotations
