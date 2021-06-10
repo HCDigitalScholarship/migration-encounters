@@ -1,16 +1,54 @@
 import httpx
+import re
+
 
 def hypothesisgrabber(interview_name, offset):
     """This program takes two variables, the interview name and the offset. Starting at the offset,
-     it returns the next 200 annotations as a list."""
+     it returns the next 200 annotations (or as many as available) as a list."""
+
     data = httpx.get(
-        'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name + '&limit=200' + '&offset=' + str(offset))
+        'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name +
+        '&limit=200' + '&offset=' + str(offset))
     grabbed_datadict = data.json()
     grabbed_annotations = grabbed_datadict.get("rows")
     return grabbed_annotations
 
+
+def regex_search_ignore_space(pattern_text, string):
+    """This program takes two variables, a string to search (pattern_text) within a larger string (string). It matches
+    (pattern_text) within (string), ignoring all whitespace characters [^ \t\n\r\f\v]. It then returns the matched 
+    string with whitespace characters included, as well as the start and end character locations of 
+    (pattern_text) in (string)"""
+
+    no_spaces = ''
+    char_positions = []
+
+    for pos, char in enumerate(string):
+        if re.match(r'\S', char):  # upper \S matches non-whitespace chars
+            no_spaces += char
+            char_positions.append(pos)
+
+    # removing whitespace from pattern text
+    whitespace_characters = ['^', ' ', '\t', '\n', '\r', '\f', '\v']
+    for char in whitespace_characters:
+        pattern_text = pattern_text.replace(char, '')
+
+    matched_string_start = no_spaces.find(pattern_text)
+    matched_string_end = matched_string_start + len(pattern_text)
+
+    # match.start() and match.end() are indices of start and end
+    # of the found string in the spaceless string
+    # (as we have searched in it).
+    start = char_positions[matched_string_start]  # in the original string
+    end = char_positions[matched_string_end]-1  # in the original string
+    matched_string = string[start:end]
+
+    # the match WITH spaces, and the start and end locations in the original string is returned.
+    return [matched_string, start, end]
+
+
 def main():
-    """This program reformats a *specific* annotation from a *specific* hypothesis interview into a form that aligns
+    """This program re-formats a *specific* annotation from a *specific* hypothesis interview into a form that aligns
     more closely with the JSON files for the interview."""
 
     # asking for an interview name to append to end of URL
@@ -19,21 +57,22 @@ def main():
 
     # finding the number of annotations
     data = httpx.get(
-        'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name + '&limit=1')
+        'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name +
+        '&limit=1')
     datadict = data.json()
     total_remaining_annotations = int(datadict.get("total"))
 
-    # initializing our vairables
+    # initializing our variables
     offset = 0
     annotations_list = []
 
+    # grabbing our annotations 200 at a time and appending them to annotations_list
     while total_remaining_annotations > 0:
         grabbed_annotations = hypothesisgrabber(interview_name, offset)
         for n in range(0, len(grabbed_annotations)):
             annotations_list.append(grabbed_annotations[n])
         offset = offset + 200
         total_remaining_annotations = total_remaining_annotations - 200
-
 
     # from the list of annotations, inputting the number of a specific annotation and pulling that specific
     # annotation from the list of annotations
@@ -51,21 +90,16 @@ def main():
     result_dictionary['label_tags'] = annotation_tags
 
     # inputting the text being referenced to our dictionary
-    # TODO perhaps resolve typos/ incomplete words here?
     target = specific_annotation.get("target")
     target_dictionary = target[0]
     selector = target_dictionary.get('selector')
     referenced_text = selector[2]
-    html_exact_text = referenced_text.get('exact')
-    result_dictionary['exact_text'] = html_exact_text
+    exact_text = referenced_text.get('exact')  # from the hypothesis api
 
-    html_exact_text_reformatted = html_exact_text.replace('?', '? ')
-
+    # TODO put in a checker using the prefix and suffix
     # defining the prefix and suffix of our exact text
-    prefix = referenced_text.get("prefix")
-    suffix = referenced_text.get("suffix")
-
-    # TODO resolve this with the actual start and end characters of our json files.
+    prefix = referenced_text.get("prefix")  # from the hypothesis api
+    suffix = referenced_text.get("suffix")  # from the hypothesis api
 
     # TODO the following line only works with single word names.
     # retrieving the raw text of the interviews
@@ -74,13 +108,10 @@ def main():
     raw_text_document = raw_text_document.json()
     raw_text_document = raw_text_document.get('text')
 
-    # TODO put a checker on this one using prefix and suffix
-    string_location = raw_text_document.find(html_exact_text)
-
-    start = string_location
-    result_dictionary['start'] = start
-    end = string_location + len(html_exact_text)
-    result_dictionary['end'] = end
+    string_location = regex_search_ignore_space(exact_text, raw_text_document)
+    result_dictionary['exact_text'] = string_location[0]
+    result_dictionary['start'] = string_location[1]
+    result_dictionary['end'] = string_location[2]
 
     # printing our completed dictionary for a specific annotation
     print(result_dictionary)
