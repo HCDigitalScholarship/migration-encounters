@@ -7,8 +7,8 @@ def hypothesis_grabber(interview_name, offset):
      it returns the next 200 annotations (or as many as available) as a list."""
 
     data = httpx.get(
-        'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name +
-        '&limit=200' + '&offset=' + str(offset))
+        "https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/" + interview_name +
+        "&limit=200" + "&offset=" + str(offset))
     grabbed_datadict = data.json()
     grabbed_annotations = grabbed_datadict.get("rows")
     return grabbed_annotations
@@ -109,11 +109,6 @@ def main():
             referenced_text = selector[2]
             exact_text = referenced_text.get('exact')  # from the hypothesis api
 
-            # TODO put in a checker using the prefix and suffix
-            # defining the prefix and suffix of our exact text
-            prefix = referenced_text.get("prefix")  # from the hypothesis api
-            suffix = referenced_text.get("suffix")  # from the hypothesis api
-
             # finding the location of the annotation in the larger text and adding to our dictionary
             string_location = search_ignore_space(exact_text, raw_text_document)
             result_dictionary['exact_text'] = string_location[0]
@@ -122,14 +117,52 @@ def main():
 
             # appending our resultant dictionary to our list of annotations
             annotations.append(result_dictionary)
-
+            
         except:
-            pass
+            # the above code sometimes fails if the string is too short, in that case, we can append a prefix and a
+            # suffix to the annotation and try again.
+            try:
+                specific_annotation = annotations_list[annotation_number - 1]
+
+                # creating a dictionary for the relevant information from the annotation
+                result_dictionary = {}
+
+                # inputting the text of the annotation and the relevant tags to our dictionary
+                # TODO perhaps split each of these text labels and tags into separate entries.
+                annotation_text = specific_annotation.get('text')
+                result_dictionary['label_text'] = annotation_text
+                annotation_tags = specific_annotation.get('tags')
+                result_dictionary['label_tags'] = annotation_tags
+
+                # finding the referenced text in the annotation
+                target = specific_annotation.get("target")
+                target_dictionary = target[0]
+                selector = target_dictionary.get('selector')
+                referenced_text = selector[2]
+                exact_text = referenced_text.get('exact')  # from the hypothesis api
+
+                # defining the prefix and suffix of our exact text
+                prefix = referenced_text.get("prefix")  # from the hypothesis api
+                suffix = referenced_text.get("suffix")  # from the hypothesis api
+
+                exact_text_in_context = prefix + exact_text + suffix
+
+                # finding the location of the annotation in the larger text and adding to our dictionary
+                string_location = search_ignore_space(exact_text_in_context, raw_text_document)
+                result_dictionary['exact_text'] = string_location[0]
+                result_dictionary['start'] = string_location[1]
+                result_dictionary['end'] = string_location[2]
+
+                # appending our resultant dictionary to our list of annotations
+                annotations.append(result_dictionary)
+
+            except:
+                # if it still fails, we discard the annotation
+                pass
 
     print(annotations)
 
 
 if __name__ == '__main__':
     main()
-
 
