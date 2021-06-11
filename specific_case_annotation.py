@@ -49,8 +49,8 @@ def search_ignore_space(pattern_text, string):
 
 
 def main():
-    """This program re-formats a *specific* annotation from a *specific* hypothesis interview into a form that aligns
-    more closely with the JSON files for the interview."""
+    """This program re-formats the annotations from a *specific* hypothesis interview into a list of dictionaries that
+    align more closely with the JSON files for the interview."""
 
     # asking for an interview name to append to end of URL
     interview_name = input("Enter name of Interview: ")
@@ -131,4 +131,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
