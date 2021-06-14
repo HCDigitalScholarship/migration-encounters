@@ -84,31 +84,30 @@ def main():
     raw_text_document = raw_text_document.json()
     raw_text_document = raw_text_document.get('text')
 
-    # creating a list for our final output
-    annotations = []
+    # creating a list of un-parsed annotations
+    unparsed_annotations = []
 
     # appending each reformatted annotation to the final list.
     for annotation_number in range(0, int(total_annotations)):
+        specific_annotation = annotations_list[annotation_number - 1]
+
+        # creating a dictionary for the relevant information from the annotation
+        result_dictionary = {}
+
+        # inputting the text of the annotation and the relevant tags to our dictionary
+        annotation_text = specific_annotation.get('text')
+        result_dictionary['label_text'] = annotation_text
+        annotation_tags = specific_annotation.get('tags')
+        result_dictionary['label_tags'] = annotation_tags
+
+        # finding the referenced text in the annotation
+        target = specific_annotation.get("target")
+        target_dictionary = target[0]
+        selector = target_dictionary.get('selector')
+        referenced_text = selector[2]
+        exact_text = referenced_text.get('exact')  # from the hypothesis api
+
         try:
-            specific_annotation = annotations_list[annotation_number - 1]
-
-            # creating a dictionary for the relevant information from the annotation
-            result_dictionary = {}
-
-            # inputting the text of the annotation and the relevant tags to our dictionary
-            # TODO perhaps split each of these text labels and tags into separate entries.
-            annotation_text = specific_annotation.get('text')
-            result_dictionary['label_text'] = annotation_text
-            annotation_tags = specific_annotation.get('tags')
-            result_dictionary['label_tags'] = annotation_tags
-
-            # finding the referenced text in the annotation
-            target = specific_annotation.get("target")
-            target_dictionary = target[0]
-            selector = target_dictionary.get('selector')
-            referenced_text = selector[2]
-            exact_text = referenced_text.get('exact')  # from the hypothesis api
-
             # finding the location of the annotation in the larger text and adding to our dictionary
             string_location = search_ignore_space(exact_text, raw_text_document)
             result_dictionary['exact_text'] = string_location[0]
@@ -116,31 +115,12 @@ def main():
             result_dictionary['end'] = string_location[2]
 
             # appending our resultant dictionary to our list of annotations
-            annotations.append(result_dictionary)
-            
+            unparsed_annotations.append(result_dictionary)
+
         except:
             # the above code sometimes fails if the string is too short, in that case, we can append a prefix and a
             # suffix to the annotation and try again.
             try:
-                specific_annotation = annotations_list[annotation_number - 1]
-
-                # creating a dictionary for the relevant information from the annotation
-                result_dictionary = {}
-
-                # inputting the text of the annotation and the relevant tags to our dictionary
-                # TODO perhaps split each of these text labels and tags into separate entries.
-                annotation_text = specific_annotation.get('text')
-                result_dictionary['label_text'] = annotation_text
-                annotation_tags = specific_annotation.get('tags')
-                result_dictionary['label_tags'] = annotation_tags
-
-                # finding the referenced text in the annotation
-                target = specific_annotation.get("target")
-                target_dictionary = target[0]
-                selector = target_dictionary.get('selector')
-                referenced_text = selector[2]
-                exact_text = referenced_text.get('exact')  # from the hypothesis api
-
                 # defining the prefix and suffix of our exact text
                 prefix = referenced_text.get("prefix")  # from the hypothesis api
                 suffix = referenced_text.get("suffix")  # from the hypothesis api
@@ -154,15 +134,48 @@ def main():
                 result_dictionary['end'] = string_location[2]
 
                 # appending our resultant dictionary to our list of annotations
-                annotations.append(result_dictionary)
+                unparsed_annotations.append(result_dictionary)
 
             except:
                 # if it still fails, we discard the annotation
                 pass
 
-    print(annotations)
+    # defining a list of finalized annotations
+    annotations = []
 
+    # separating each un-parsed annotation into several annotations by parsing by semicolons
+    # when there are several separate ideas in one annotation, this for loop will separate them into different entries
+    # each of which references the same point in the text.
+    for annotation_number in range(0, len(unparsed_annotations)):
+        working_annotation = unparsed_annotations[annotation_number]  # working with a specific annotation
+        working_annotation_text = working_annotation["label_text"]
+        
+        # separating into a list of strings by splitting with semicolons
+        working_annotation_text = working_annotation_text.split(";")
+        
+        # appending the tags (which are already formatted as a list of strings)
+        working_annotation_tags = working_annotation["label_tags"]
+        working_annotation_total = working_annotation_text + working_annotation_tags
+
+        for text in range(0, len(working_annotation_total)):
+            # working with one group of tags at a time
+            specific_working_annotation_text = working_annotation_total[text]
+            specific_working_annotation_text = specific_working_annotation_text.strip()  # removing whitespace
+            
+            # defining a dictionary for our parsed annotation
+            parsed_annotation = {}
+            
+            # adding the relevant data to our parsed data dictionary
+            parsed_annotation["label_text"] = str(specific_working_annotation_text)
+            # uncomment the following line to include the referenced text in the final annotation
+            # parsed_annotation["exact_text"] = working_annotation["exact_text"]
+            parsed_annotation["start"] = working_annotation["start"]
+            parsed_annotation["end"] = working_annotation["end"]
+            
+            # appending this parsed annotation to our list of finalized annotations
+            annotations.append(parsed_annotation)
+
+    print(annotations)
 
 if __name__ == '__main__':
     main()
-
