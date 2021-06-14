@@ -53,7 +53,7 @@ def main():
     align more closely with the JSON files for the interview."""
 
     # asking for an interview name to append to end of URL
-    interview_name = input("Enter name of Interview: ")
+    interview_name = input("Enter name of Interview (spaces are underscores): ")
     interview_name = str(interview_name).lower()
 
     # finding the number of annotations
@@ -76,8 +76,14 @@ def main():
         offset = offset + 200
         total_remaining_annotations = total_remaining_annotations - 200
 
-    # TODO the following line only works with single word names.
+    # replacing underscores with spaces, in order to align with the github raw text data
+    if '_' in interview_name:
+        interview_name = interview_name.replace("_", "%20")
+        # making the last initial upper case when necessary
+        interview_name = interview_name[:-1]+interview_name[-1].upper()
+
     # retrieving the raw text of the interviews
+    print(interview_name)
     raw_text_document = httpx.get(
         'https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounters/main'
         '/data/' + interview_name[0].upper() + interview_name[1:] + '.json')
@@ -145,7 +151,7 @@ def main():
         working_annotation_text = working_annotation["label_text"]
 
         # separating into a list of strings by splitting with semicolons
-        working_annotation_text = working_annotation_text.split(";")
+        working_annotation_text = re.split(";|\n", working_annotation_text)
 
         # appending the tags (which are already formatted as a list of strings)
         working_annotation_tags = working_annotation["label_tags"]
