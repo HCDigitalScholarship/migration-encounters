@@ -157,10 +157,14 @@ def main():
         working_annotation_total = working_annotation_text + working_annotation_tags
 
         for text in range(0, len(working_annotation_total)):
-            # working with one group of tags at a time
+            # working with one tag at a time
             specific_working_annotation_text = working_annotation_total[text]
             specific_working_annotation_text = specific_working_annotation_text.strip()  # removing whitespace
 
+            # removing any blank annotations created in the previous processes
+            if specific_working_annotation_text == "":
+                continue
+            
             # defining a dictionary for our parsed annotation
             parsed_annotation = {}
 
