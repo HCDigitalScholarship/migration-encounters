@@ -83,7 +83,6 @@ def main():
         interview_name = interview_name[:-1]+interview_name[-1].upper()
 
     # retrieving the raw text of the interviews
-    print(interview_name)
     raw_text_document = httpx.get(
         'https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounters/main'
         '/data/' + interview_name[0].upper() + interview_name[1:] + '.json')
