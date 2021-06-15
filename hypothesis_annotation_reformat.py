@@ -76,19 +76,23 @@ def main():
         offset = offset + 200
         total_remaining_annotations = total_remaining_annotations - 200
 
-    # replacing underscores with spaces, in order to align with the github raw text data
+    # reformatting the interview name in order to align with the github link
+    interview_name = interview_name[0].upper() + interview_name[1:]
+
+    # replacing underscores with spaces, in order to align with the github link
     if '_' in interview_name:
         interview_name = interview_name.replace("_", "%20")
         # making the last initial upper case when necessary
-        interview_name = interview_name[:-1]+interview_name[-1].upper()
+        interview_name = interview_name[:-1] + interview_name[-1].upper()
 
     # retrieving the raw text of the interviews
     raw_text_document = httpx.get(
         'https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounters/main'
-        '/data/' + interview_name[0].upper() + interview_name[1:] + '.json')
+        '/data/' + interview_name + '.json')
     raw_text_document = raw_text_document.json()
     raw_text_document = raw_text_document.get('text')
-    # creating a list of un-parsed annotations
+
+    # defining a list of un-parsed annotations
     unparsed_annotations = []
 
     # appending each reformatted annotation to the final list.
@@ -164,16 +168,17 @@ def main():
             # removing any blank annotations created in the previous processes
             if specific_working_annotation_text == "":
                 continue
-            
+
             # defining a dictionary for our parsed annotation
             parsed_annotation = {}
 
             # adding the relevant data to our parsed data dictionary
-            parsed_annotation["label_text"] = str(specific_working_annotation_text)
-            # uncomment the following line to include the referenced text in the final annotation
-            # parsed_annotation["exact_text"] = working_annotation["exact_text"]
+            parsed_annotation["type"] = "text"
             parsed_annotation["start"] = working_annotation["start"]
             parsed_annotation["end"] = working_annotation["end"]
+            # uncomment the following line to include the referenced text in the final annotation
+            # parsed_annotation["text"] = working_annotation["exact_text"]
+            parsed_annotation["label"] = str(specific_working_annotation_text)
 
             # appending this parsed annotation to our list of finalized annotations
             annotations.append(parsed_annotation)
@@ -183,3 +188,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
