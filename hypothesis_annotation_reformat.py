@@ -1,6 +1,6 @@
 import httpx
 import re
-
+from rapidfuzz import process, fuzz
 
 def hypothesis_grabber(interview_name, offset):
     """This program takes two variables, the interview name and the offset. Starting at the offset,
@@ -98,7 +98,6 @@ def main():
     # appending each reformatted annotation to the final list.
     for annotation_number in range(0, int(total_annotations)):
         specific_annotation = annotations_list[annotation_number - 1]
-
         # creating a dictionary for the relevant information from the annotation
         result_dictionary = {}
 
@@ -143,8 +142,16 @@ def main():
                 # if it still fails, we discard the annotation
                 pass
 
+    # putting our pre-defined index themes into a list
+    index_themes = open("index_themes.txt").read().splitlines()
+
     # defining a list of finalized annotations
     annotations = []
+
+    # FOR DEBUGGING OUR FUZZ MATCHER
+    matched = []
+    unmatched = []
+    # END
 
     # separating each un-parsed annotation into several annotations by parsing by semicolons
     # when there are several separate ideas in one annotation, this for loop will separate them into different entries
@@ -162,12 +169,31 @@ def main():
 
         for text in range(0, len(working_annotation_total)):
             # working with one tag at a time
-            specific_working_annotation_text = working_annotation_total[text]
-            specific_working_annotation_text = specific_working_annotation_text.strip()  # removing whitespace
+            annotation_text = working_annotation_total[text]
+            annotation_text = annotation_text.strip()  # removing whitespace
 
             # removing any blank annotations created in the previous processes
-            if specific_working_annotation_text == "":
+            if annotation_text == "":
                 continue
+
+            matched_annotation = ""
+
+            # splitting our annotation by the commas, in order to align with the index themes
+            index_split = re.split(",", annotation_text)
+            for n in range(0, len(index_split)):
+
+                # finding the most similar index theme to our annotation by accounting for typos/ different spellings
+                index_spelling_matcher = process.extractOne(index_split[n], index_themes, scorer=fuzz.WRatio)
+
+                # if the annotation is at least an 85% match, we replace it with its matched index theme
+                if index_spelling_matcher[1] >= 85:
+                    matched_annotation = matched_annotation + index_spelling_matcher[0] + ", "
+                    matched.append([index_split[n], index_spelling_matcher[0]])
+                # if the annotation is less than an 85% match, we don't change anything
+                else:
+                    matched_annotation = matched_annotation + index_split[n] + ", "
+                    unmatched.append([index_split[n]])
+            matched_annotation = matched_annotation[:-2] # removing the final comma
 
             # defining a dictionary for our parsed annotation
             parsed_annotation = {}
@@ -178,13 +204,12 @@ def main():
             parsed_annotation["end"] = working_annotation["end"]
             # uncomment the following line to include the referenced text in the final annotation
             # parsed_annotation["text"] = working_annotation["exact_text"]
-            parsed_annotation["label"] = str(specific_working_annotation_text)
+            parsed_annotation["label"] = str(matched_annotation)
 
             # appending this parsed annotation to our list of finalized annotations
             annotations.append(parsed_annotation)
 
     print(annotations)
-
 
 if __name__ == '__main__':
     main()
