@@ -121,7 +121,7 @@ def search_ignore_space(pattern_text, string):
 
 def collect_annotations(interview_name:str):
     """This program re-formats the annotations from a *specific* hypothesis interview into a list of dictionaries that
-    align more closely with the JSON files for the interview."""
+    align more closely with the Spacy auto-generated annotations."""
 
     # asking for an interview name to append to end of URL
     interview_name = interview_name #input("Enter name of Interview (spaces are underscores): ")
@@ -150,7 +150,7 @@ def collect_annotations(interview_name:str):
     # reformatting the interview name in order to align with the github link
     interview_name = interview_name[0].upper() + interview_name[1:]
 
-    # replacing underscores with spaces, in order to align with the github link
+    # replacing underscores with spaces, in order to align with the github formatting
     if '_' in interview_name:
         interview_name = interview_name.replace("_", "%20")
         # making the last initial upper case when necessary
@@ -259,34 +259,39 @@ def collect_annotations(interview_name:str):
             matched_annotation = ""
             matching_success_flag = False
 
-            # splitting our annotation by the commas, in order to align with the index themes
+            # splitting our annotation by the commas in order to work with one phrase at a time
             index_split = re.split(",", annotation_text)
             for n in range(0, len(index_split)):
                 if index_split[n] == "":
                     continue
 
                 # finding the most similar index theme to our annotation by accounting for typos/ different spellings
-                index_spelling_matcher = process.extractOne(index_split[n], index_themes, scorer=fuzz.WRatio)
+                index_fuzzy_matcher = process.extractOne(index_split[n], index_themes, scorer=fuzz.WRatio)
 
                 # if the annotation is at least an 85% match, we replace it with its matched index theme
-                if index_spelling_matcher[1] >= 85:
-                    matched_annotation = matched_annotation + index_spelling_matcher[0] + ", "
-                    matched.append([index_split[n], index_spelling_matcher[0]]) # this line is for testing
+                if index_fuzzy_matcher[1] >= 85:
+                    matched_annotation = matched_annotation + index_fuzzy_matcher[0] + ", "
+                    matched.append([index_split[n], index_fuzzy_matcher[0]]) # this line is for testing
 
                 # if the annotation is less than an 85% match, we attempt a semantic search
                 else:
-                    max_semantic_similarity = 0
-                    most_similar_index = ""
+                    max_semantic_similarity = 0  # initializing our variables
+                    most_similar_index = ""  # initializing our variable
                     for m in range(0, len(index_themes)):
+                        # performing our semantic search
                         semantic_similarity = nlp(index_split[n]).similarity(nlp(index_themes[m])) * 100
+
+                        # finding the most similar term from our index
                         if semantic_similarity > max_semantic_similarity:
                             most_similar_index = index_themes[m]
                             max_semantic_similarity = semantic_similarity
 
-                    if max_semantic_similarity >= 70:
+                    if max_semantic_similarity >= 70:  # a 70% confidence tells us to match our annotation
                         matched_annotation = matched_annotation + most_similar_index + ", "
                         semanticmatched.append([index_split[n], most_similar_index, max_semantic_similarity]) # this line is for testing
 
+                    # if neither the fuzzy search nor the semantic search return anything, we simply append the
+                    # original term
                     else:
                         matched_annotation = matched_annotation + index_split[n] + ", "
                         unmatched.append([index_split[n], most_similar_index, max_semantic_similarity]) # this line is for testing
@@ -316,13 +321,13 @@ def collect_annotations(interview_name:str):
 
 
 def load_data(): 
-    all_data = []
-    interviews = list(Path('../data').iterdir())
+    all_data = []  # initializing our list
+    interviews = list(Path('../data').iterdir())  # iterating over our /data folder
     for interview in tqdm(interviews):
-        data = srsly.read_json(interview)
-        name = names_files[interview.stem]
-        annotations = collect_annotations(name)
-        data['annotations'].extend(annotations)
+        data = srsly.read_json(interview)  # opening our interview .txt file.
+        name = names_files[interview.stem]  # correlating the /data folder names with the website path names
+        annotations = collect_annotations(name)  # collecting the annotations for our specific interview
+        data['annotations'].extend(annotations)  # appending our annotations to our interview text
         all_data.append(data)
     return all_data
 
