@@ -72,6 +72,7 @@ names_files = {'Joseph':'joseph',
  'Kevin':'kevin',
  'Julio Cesar':'julio'}
 
+
 def hypothesis_grabber(interview_name, offset):
     """This program takes two variables, the interview name and the offset. Starting at the offset,
      it returns the next 200 annotations (or as many as available) as a list."""
