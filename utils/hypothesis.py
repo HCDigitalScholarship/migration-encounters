@@ -156,48 +156,37 @@ def collect_annotations(interview_name:str):
     raw_text_document = httpx.get(
         'https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounters/main'
         '/data/' + interview_name + '.json')
-    raw_text_document = raw_text_document.json()
-    raw_text_document = raw_text_document.get('text')
-
+    if raw_text_document.status_code == 200:
+        raw_text_document = raw_text_document.json()
+        raw_text_document = raw_text_document.get('text')
+    else: # error loading json file
+        return "error"
     # defining a list of un-parsed annotations
     unparsed_annotations = []
 
     # appending each reformatted annotation to the final list.
     for annotation_number in range(0, int(total_annotations)):
-        specific_annotation = annotations_list[annotation_number - 1]
-        # creating a dictionary for the relevant information from the annotation
-        result_dictionary = {}
-
-        # inputting the text of the annotation and the relevant tags to our dictionary
-        annotation_text = specific_annotation.get('text')
-        result_dictionary['label_text'] = annotation_text
-        annotation_tags = specific_annotation.get('tags')
-        result_dictionary['label_tags'] = annotation_tags
-
-        # finding the referenced text in the annotation
-        target = specific_annotation.get("target")
-        target_dictionary = target[0]
-        selector = target_dictionary.get('selector')
-        referenced_text = selector[2]
-        exact_text = referenced_text.get('exact')  # from the hypothesis api
-
         try:
-            # finding the location of the annotation in the larger text and adding to our dictionary
-            string_location = search_ignore_space(exact_text, raw_text_document)
-            result_dictionary['exact_text'] = string_location[0]
-            result_dictionary['start'] = string_location[1]
-            result_dictionary['end'] = string_location[2]
+            specific_annotation = annotations_list[annotation_number - 1]
+            # creating a dictionary for the relevant information from the annotation
+            result_dictionary = {}
 
-            # appending our resultant dictionary to our list of annotations
-            unparsed_annotations.append(result_dictionary)
+            # inputting the text of the annotation and the relevant tags to our dictionary
+            annotation_text = specific_annotation.get('text')
+            result_dictionary['label_text'] = annotation_text
+            annotation_tags = specific_annotation.get('tags')
+            result_dictionary['label_tags'] = annotation_tags
 
-        except:
-            # the above code sometimes fails if the string overflows, in that case, we can remove a few characters
-            # from the end of the string and try again.
+            # finding the referenced text in the annotation
+            target = specific_annotation.get("target")
+            target_dictionary = target[0]
+            selector = target_dictionary.get('selector')
+            referenced_text = selector[2]
+            exact_text = referenced_text.get('exact')  # from the hypothesis api
+
             try:
-                # Dealing with overflow cases (when the annotation reference goes past the raw text)
-                overflow_fix_text = exact_text[:-3]
-                string_location = search_ignore_space(overflow_fix_text, raw_text_document)
+                # finding the location of the annotation in the larger text and adding to our dictionary
+                string_location = search_ignore_space(exact_text, raw_text_document)
                 result_dictionary['exact_text'] = string_location[0]
                 result_dictionary['start'] = string_location[1]
                 result_dictionary['end'] = string_location[2]
@@ -206,9 +195,24 @@ def collect_annotations(interview_name:str):
                 unparsed_annotations.append(result_dictionary)
 
             except:
-                # if it still fails, we discard the annotation
-                pass
+                # the above code sometimes fails if the string overflows, in that case, we can remove a few characters
+                # from the end of the string and try again.
+                try:
+                    # Dealing with overflow cases (when the annotation reference goes past the raw text)
+                    overflow_fix_text = exact_text[:-3]
+                    string_location = search_ignore_space(overflow_fix_text, raw_text_document)
+                    result_dictionary['exact_text'] = string_location[0]
+                    result_dictionary['start'] = string_location[1]
+                    result_dictionary['end'] = string_location[2]
 
+                    # appending our resultant dictionary to our list of annotations
+                    unparsed_annotations.append(result_dictionary)
+
+                except:
+                    # if it still fails, we discard the annotation
+                    pass
+        except Exception as e:
+            print(e)
     # putting our pre-defined index themes into a list
     index_themes = open("../index_themes.txt").read().splitlines()
 
