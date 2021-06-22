@@ -4,6 +4,8 @@ from rapidfuzz import process, fuzz
 from pathlib import Path 
 from tqdm import tqdm 
 import srsly
+import pandas as pd
+from typing import List
 
 names_files = {'Joseph':'joseph',
  'Jesus A':'jesus_a',
@@ -294,3 +296,17 @@ def load_data():
         all_data.append(data)
     return all_data
 
+
+def make_csv(data:List[dict]):
+    df_data = [] 
+    for row in data: 
+        for i in  row['annotations']:  
+            if isinstance(i,str): 
+                pass 
+            else: 
+                i['name'] = row['name'] 
+                i['text'] = row['text'][i['start']:i['end']] 
+                df_data.append(i)   
+
+    df = pd.DataFrame(df_data) 
+    return df
