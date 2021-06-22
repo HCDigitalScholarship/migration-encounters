@@ -1,5 +1,6 @@
 import httpx
 import re
+import spacy
 from rapidfuzz import process, fuzz
 from pathlib import Path 
 from tqdm import tqdm 
@@ -215,14 +216,19 @@ def collect_annotations(interview_name:str):
                     pass
         except Exception as e:
             print(e)
+    
     # putting our pre-defined index themes into a list
     index_themes = open("../index_themes.txt").read().splitlines()
 
+    # importing our semantic search vocabulary
+    nlp = spacy.load("en_core_web_lg")
+    
     # defining a list of finalized annotations
     annotations = []
 
-    # FOR DEBUGGING OUR FUZZ MATCHER
+    # FOR DEBUGGING OUR MATCHER
     matched = []
+    semanticmatched = []
     unmatched = []
     # END
 
@@ -250,10 +256,13 @@ def collect_annotations(interview_name:str):
                 continue
 
             matched_annotation = ""
+            matching_success_flag = False
 
             # splitting our annotation by the commas, in order to align with the index themes
             index_split = re.split(",", annotation_text)
             for n in range(0, len(index_split)):
+                if index_split[n] == "":
+                    continue
 
                 # finding the most similar index theme to our annotation by accounting for typos/ different spellings
                 index_spelling_matcher = process.extractOne(index_split[n], index_themes, scorer=fuzz.WRatio)
@@ -261,12 +270,27 @@ def collect_annotations(interview_name:str):
                 # if the annotation is at least an 85% match, we replace it with its matched index theme
                 if index_spelling_matcher[1] >= 85:
                     matched_annotation = matched_annotation + index_spelling_matcher[0] + ", "
-                    matched.append([index_split[n], index_spelling_matcher[0]])
-                # if the annotation is less than an 85% match, we don't change anything
+                    matched.append([index_split[n], index_spelling_matcher[0]]) # this line is for testing
+
+                # if the annotation is less than an 85% match, we attempt a semantic search
                 else:
-                    matched_annotation = matched_annotation + index_split[n] + ", "
-                    unmatched.append([index_split[n]])
-            matched_annotation = matched_annotation[:-2] # removing the final comma
+                    max_semantic_similarity = 0
+                    most_similar_index = ""
+                    for m in range(0, len(index_themes)):
+                        semantic_similarity = nlp(index_split[n]).similarity(nlp(index_themes[m])) * 100
+                        if semantic_similarity > max_semantic_similarity:
+                            most_similar_index = index_themes[m]
+                            max_semantic_similarity = semantic_similarity
+
+                    if max_semantic_similarity >= 70:
+                        matched_annotation = matched_annotation + most_similar_index + ", "
+                        semanticmatched.append([index_split[n], most_similar_index, max_semantic_similarity]) # this line is for testing
+
+                    else:
+                        matched_annotation = matched_annotation + index_split[n] + ", "
+                        unmatched.append([index_split[n], most_similar_index, max_semantic_similarity]) # this line is for testing
+
+            matched_annotation = matched_annotation[:-2]  # removing the final comma
 
             # defining a dictionary for our parsed annotation
             parsed_annotation = {}
@@ -281,7 +305,12 @@ def collect_annotations(interview_name:str):
 
             # appending this parsed annotation to our list of finalized annotations
             annotations.append(parsed_annotation)
-
+    
+    # FOR DEBUGGING OUR MATCHER
+    # print(annotations)
+    # print(matched)
+    # print(semanticmatched)
+    # print(unmatched)
     return annotations
 
 
