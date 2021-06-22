@@ -1,72 +1,77 @@
-Mexico before the US
+Mexico, Before the US
+Time in the US
+Leaving the US
+Return to Mexico
+Reflections
+Feelings
 Mexican childhood
 Memories
 Family
+Family Separation
 School
+Friends
 Migration from Mexico
 Reasons
 Violence
 Domestic violence
 Economic
 Family reunification
-Feelings
-Sadness
-Fear
-Excitement
-Hope
-Happiness
-Choicelessness
+Other
 Border crossing
 General
 Coyotes
 Border patrol
-Time in the US
+Migrants
+Injury/Illness
 Arriving in the United States
 First impressions
+Restaurants
 Living situation
 Learning English
 Age
-Elementary
-Middle school
-High school
-Learning English / ESL
-Teachers
-Mentors
-Fitting in / belonging
-Making friends
-Extracurricular activities
-band
-theatre
-debate
-sports
-clubs
-teams
-art
-Favorite subjects
-Working hard
-getting good grades
-Struggling, Suspension, Dropping out
-Coaches
-Graduation
-Bullying
-Field Trips
-Discrimination / stigmatization
-Lack of mental health resources
+Awareness of what was happening
+States
+Arkansas
+California
+New York
+North Carolina
+Oklahoma
+Texas
+Georgia
 Immigration status
 Being secretive
 Broken system
-Hiding / lying
+Hiding/lying
 In the shadows
 Lost opportunities
+Lack of mental health resources
+Living undocumented
+Not knowing status
+Learning status
+School
+Kindergarten
+Elementary
+Middle school
+High school
+Learning English/ ESL
+Teachers
+Coaches
+Mentors
+Fitting in/belonging
+Making friends
+Extracurricular activities
+Favorite subjects
+Working hard, getting good grades
+Struggling, Suspension, Dropping out
+Graduation
+Field Trips
+Bullying
+Discrimination/stigmatization
 Lack of mental health resources
 Family
 Rejection
 Children
-Homelife
-Being alone
-Keeping Secrets
-Telling lies
-Parents / step-parents
+Parents/step-parents
 Expectations
 Translating for
 Jobs
@@ -76,28 +81,31 @@ Discipline
 Violence
 Grandparents
 Siblings
-Caring for them
-Being cared for by them
+ Caring for them
+ Being cared for by them
+Teenage rebellion
+Arguments/Estrangement
+Homelife
+Being alone
+Keeping Secrets
+Telling lies
 Mexican traditions
-Spanish language
-Food
-Holidays
+ Spanish language
+ Food
+ Holidays
 US traditions
-Holidays
-Food
+ Holidays
+ Food
 Living situation
+Moving
+Mixed-status
+Language Spoken/Bi-Lingual
 Pastimes
 Music
 Playing
 Favorite
 Sports
 Playing
-Skateboarding
-football
-baseball
-track
-swimming
-soccer
 Favorite teams
 Reading
 Favorite books
@@ -108,28 +116,43 @@ Poetry
 Short Stories
 Music
 Art
-Painting
-sculpture
-drawing
+Painting, sculpture, drawing
 Academic
 Philosophy
 Science
+Volunteering
+Working
+Hiking
+Fishing
+Camping
+Running/exercising
 Friends
 Hanging out
 Best friends
 Diversity
 Social acceptance
-Volunteering
-Mentors
-Boys and Girls Club
-Police: US
-Coaches / teachers
-Illness
-Healthcare
-Jobs / employment / work
+Relationships
+Falling in love
+Having Children
+Creating families
+Break-ups
+Domestic Abuse
+Higher Education
+Dreaming about
+Applying
+Attending
+Paying For
+Opportunities from
+Discrimination/stigmatization
+Racism
+Profiling
+Stereotypes
+Xenophobia
+Bullying
+Jobs/employment/work
 Documents
 Driver’s license
-Social security card / ID
+Social security card/ ID
 Small business owner
 Occupations
 Earnings
@@ -137,32 +160,27 @@ Paying Taxes
 Discrimination
 Gangs
 Affiliation
-Camaraderie / family
+Camaraderie/family
 Fitting in
 Activity
-Resisting
-affiliation
+Resisting affiliation
 Fights
 Bullying
 Drugs
 Selling
 Taking
 Addiction
-Tatoos
+Tattoos
 Meaning
 Arrests
 Misdemeanors
-Traffic
-Offenses
-Immigration
-Offenses
+Traffic Offenses
+Immigration Offenses
 Felonies
-Drug
-Offenses
-Violent
-crimes
-Police
-raids
+Drug Offenses
+Violent crimes
+Police: US
+Police raids
 False Accusations
 Framed by Police
 Racial profiling
@@ -177,50 +195,8 @@ Acceptance
 Continuation
 Fear
 Advantages
-Losing DACA
-Higher Education (Colleges and Universities)
-Dreaming about
-Applying
-Attending
-Paying For
-Opportunities from
-Relationships
-Falling in love
-Having
-Children
-Complications
-Creating families
-Break-ups
-Domestic Abuse
-Discrimination / stigmatization
-Feelings
-Sadness
-Fear
-Legal
-status
-Hope
-Tragedy
-Joy
-Pride
-Legal status
-Excitement
-Disappointment
-Disorientation
-Determination
-Dreams
-Love
-Frustration
-Despair
-Legal
-status
-Freedom
-Compassion
-Solidarity
-Empathy
-Friendship
-Dignity
-Regret
-Leaving the US
+Illness
+Healthcare
 Reasons for Exit
 Family reunification
 Economic
@@ -232,6 +208,7 @@ Voluntary Departure
 Ice
 Fear of
 Treatment by
+Mistreatment by
 Detention
 Reasons
 Raid
@@ -242,38 +219,45 @@ Felony
 Framed
 Alcohol
 Juvenile
+Arrest
+Police
+Fear of
+Treatment by
 Court Proceedings
 Judge
 Lawyer
+Case
+Trial
 Imprisonment
 Guards
 Other inmates
 Treatment
 Age
-Journey back to Mexico
-Return to Mexico
 Challenges
-Discrimination / stigmatization
-Employment
-Economic well-being
-Family Separation
-Drugs and Addiction
+Addiction
 Bureaucracy
 Continuing education
-Mental Health
-Language
+Records/Transcripts/Diploma
+Crime and Violence
 Cultural differences
+Discrimination/stigmatization
+Economic well-being
+Employment
+Family Separation
+Language
+Spanish
+Mental Health
 Family Relationships
 Those who stayed in Mexico
-Those who remained in the US
+Those who stayed in the US
 New family formation
 Jobs
 Occupation
 Earnings
 Call Centers
-Dead end
 Community
 Opportunity
+Dead end
 Education
 High school
 College
@@ -288,28 +272,12 @@ Imprisonment
 Bribes
 Assistance
 Corruption
-Feelings
-Sadness
-Fear
-Hope
-Joy
-Excitement
-Disappointment
-Dreams
-Love
-Frustration
-Despair
-Freedom
-Compassion
-Solidarity
-Empathy
-Friendship
-Dignity
-Reflections
+Profiling
+Mistrust
 The United States
-Favorite parts, missing
+Favorite parts
 Worst parts
-US government and immigrant (immigration)
+US government and immigration
 Growing up undocumented
 Reasons for getting in trouble
 Deportation
@@ -317,39 +285,54 @@ What the US has lost
 Policy to help migrants
 Policy to help those left behind
 Mexico
-Best parts about  being back
+Best parts aboutbeing back
 Worst parts about being back
 What Mexico has gained
-Policy to help integrate migrants back into Mexican society
+Policy for reintegration
 Language
 Jobs
+School
 Social acceptance
-Ending corruption
 Identity
 Mexican
+Chicano
 American
 Texan
-Global / Human
-Feelings
-Sadness
-Fear
+Bi-cultural
+Global/Human
+Dreams
+Values
+Positive Emotions
+Compassion
+Determination
+Dignity
+Dreams
+Empathy
+Excitement
 Faith
+Freedom
+Friendship
+Happiness
 Hope
 Joy
+Love
 Pride
-Excitement
+Legal Status
+Cultural
+Solidarity
+Negative Emotions
+Choicelessness
+Despair
+Legal Status
 Disappointment
 Discouragement
-Determination
-Dreams
-Love
+Disorientation
+Fear
+Legal Status
 Frustration
-Despair
-Freedom
-Compassion
-Solidarity
-Empathy
-Friendship
-Dignity
+Isolation
 Jaded
 Regret
+Sadness
+Tragedy
+Unbelonging
