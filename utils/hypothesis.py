@@ -343,8 +343,6 @@ def make_csv(data:List[dict]):
                 i['text'] = row['text'][i['start']:i['end']] 
                 df_data.append(i)
     df = pd.DataFrame(df_data)
-    drop = ['CARDINAL', 'DATE', 'EVENT', 'FAC', 'GPE', 'LANGUAGE', 'LAW', 'LOC', 'MONEY', 'NORP', 'ORDINAL', 'ORG','PERCENT', 'PERSON', 'PRODUCT', 'QUANTITY', 'TIME', 'WORK_OF_ART']
-    df = df[~df['label'].isin(drop)]
     return df
 
 # Remove spacy ents
