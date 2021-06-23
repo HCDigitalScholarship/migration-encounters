@@ -3,3 +3,5 @@ uvicorn
 jinja2
 spacy
 rapidfuzz
+streamlit
+pandas
