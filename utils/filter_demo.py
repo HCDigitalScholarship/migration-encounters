@@ -15,9 +15,9 @@ def nonempty_checker(index_themes, hypothesis_annotations):
     return [nonempty_index_themes, number_of_occurrences]
 
 
-hypothesis_annotations = pd.read_csv("migration-encounters/utils/hypothesis_data.csv")
+hypothesis_annotations = pd.read_csv("utils/hypothesis_data.csv")
 
-index_themes = open("migration-encounters/index_themes.txt").read().splitlines()
+index_themes = open("index_themes.txt").read().splitlines()
 
 index_themes = list(set(index_themes))  # removing duplicates
 filters = st.multiselect("Choose Labels", list(index_themes))
@@ -58,3 +58,4 @@ else:
         st.write(labels)
         st.write(text)
         st.write("---")
+
