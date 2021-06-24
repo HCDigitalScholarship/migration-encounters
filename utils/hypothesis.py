@@ -233,34 +233,31 @@ def collect_annotations(interview_name:str):
     unmatched = []
     # END
 
-    # separating each un-parsed annotation into several annotations by parsing by semicolons
-    # when there are several separate ideas in one annotation, this for loop will separate them into different entries
-    # each of which references the same point in the text.
     for annotation_number in range(0, len(unparsed_annotations)):
         working_annotation = unparsed_annotations[annotation_number]  # working with a specific annotation
         working_annotation_text = working_annotation["label_text"]
 
-        # separating into a list of strings by splitting with semicolons
-        working_annotation_text = re.split(";|\n", working_annotation_text)
+        # Turning our annotation text into a 1 element list, so that we can concatenate it later.
+        working_annotation_text = [str(working_annotation_text)]
 
         # appending the tags (which are already formatted as a list of strings)
         working_annotation_tags = working_annotation["label_tags"]
         working_annotation_total = working_annotation_text + working_annotation_tags
 
         for text in range(0, len(working_annotation_total)):
+
             # working with one tag at a time
             annotation_text = working_annotation_total[text]
             annotation_text = annotation_text.strip()  # removing whitespace
 
-            # removing any blank annotations created in the previous processes
+            # removing any blank texts or tags created in the previous processes
             if annotation_text == "":
                 continue
 
             matched_annotation = ""
-            matching_success_flag = False
 
-            # splitting our annotation by the commas in order to work with one phrase at a time
-            index_split = re.split(",", annotation_text)
+            # splitting our annotation by the commas (*and semicolons*) in order to work with one phrase at a time
+            index_split = re.split(",|;|\n", annotation_text)
             for n in range(0, len(index_split)):
                 if index_split[n] == "":
                     continue
@@ -347,4 +344,4 @@ def make_csv(data:List[dict]):
 
 # Remove spacy ents
 # drop = ['CARDINAL', 'DATE', 'EVENT', 'FAC', 'GPE', 'LANGUAGE', 'LAW', 'LOC', 'MONEY', 'NORP','ORDINAL', 'ORG', 'PERCENT', 'PERSON', 'PRODUCT', 'QUANTITY', 'TIME', 'WORK_OF_ART']
-# df = df[~df['label'].isin(drop)]1
+# df = df[~df['label'].isin(drop)]
