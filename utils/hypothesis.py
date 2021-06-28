@@ -259,6 +259,8 @@ def collect_annotations(interview_name:str):
             # splitting our annotation by the commas (*and semicolons*) in order to work with one phrase at a time
             index_split = re.split(",|;|\n", annotation_text)
             for n in range(0, len(index_split)):
+
+                # removing any blank texts created in the previous processes
                 if index_split[n] == "":
                     continue
 
