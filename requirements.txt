@@ -5,3 +5,5 @@ spacy
 rapidfuzz
 streamlit
 pandas
+srsly
+tqdm
