@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-
 def nonempty_checker(index_themes, hypothesis_annotations):
     """ This function takes two variables, a list of index themes and a CSV of annotations. It outputs
     a list of lists, each of which gives us an index theme that appears in our annotations - and the
@@ -19,7 +18,17 @@ def nonempty_checker(index_themes, hypothesis_annotations):
             nonempty_index_themes.append(index_themes[theme])
             number_of_occurrences.append(len(non_empty_checker))
 
-    return [nonempty_index_themes, number_of_occurrences]
+    pre_dataframe = []
+
+    for n in range(0, len(nonempty_index_themes)):
+        nonempty_reorganizer = [nonempty_index_themes[n],number_of_occurrences[n]]
+        pre_dataframe.append(nonempty_reorganizer)
+
+    output = pd.DataFrame(pre_dataframe, columns= ['Theme', 'Frequency'])
+    output = output.sort_values(by=['Frequency'], ascending=False)
+    output = output.reset_index(drop=True)
+
+    return output
 
 
 # opening our CSV of hypothesis annotations - this notation only works on the deployed Streamlit platform.
@@ -27,10 +36,13 @@ def nonempty_checker(index_themes, hypothesis_annotations):
 hypothesis_annotations = pd.read_csv("utils/hypothesis_data.csv")
 
 index_themes = open("index_themes.txt").read().splitlines()
-
 index_themes = list(set(index_themes))  # removing duplicates
+
 filters = st.multiselect("Choose Labels", list(index_themes))  # creating an input field.
+
 st.write("---")  # including a horizontal line for readability.
+
+sidebar_click = ""
 
 if not filters:  # An error message for when there is no input.
     st.error("Please select at least one filter.")
@@ -47,8 +59,10 @@ else:
 
     # creating a sidebar for the non-empty labels.
     st.sidebar.title("These Labels Are Paired With:")
-    for entry in range(0, len(nonempty_index[0])):  # writing each of our non-empty labels and their frequency.
-        st.sidebar.write(nonempty_index[0][entry], nonempty_index[1][entry])
+    for entry in range(0, len(nonempty_index)):  # writing each of our non-empty labels and their frequency.
+        if st.sidebar.button(str(nonempty_index.loc[entry, 'Theme']) + " (" + str(nonempty_index.loc[entry, 'Frequency']) + ")", str(entry)):
+            sidebar_click = str(nonempty_index.loc[entry, 'Theme'])
+            st.write(sidebar_click)
 
     for m in range(0, len(hypothesis_annotations)):
         # Turning our relevant values into strings.
@@ -73,4 +87,3 @@ else:
         st.write(labels)
         st.write(text)
         st.write("---")
-
