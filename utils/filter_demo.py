@@ -38,11 +38,11 @@ hypothesis_annotations = pd.read_csv("utils/hypothesis_data.csv")
 index_themes = open("index_themes.txt").read().splitlines()
 index_themes = list(set(index_themes))  # removing duplicates
 
-filters = st.multiselect("Choose Labels", list(index_themes))  # creating an input field.
+sidebar_click = ""
+
+filters = st.multiselect("Choose Labels", list(index_themes))
 
 st.write("---")  # including a horizontal line for readability.
-
-sidebar_click = ""
 
 if not filters:  # An error message for when there is no input.
     st.error("Please select at least one filter.")
@@ -62,7 +62,6 @@ else:
     for entry in range(0, len(nonempty_index)):  # writing each of our non-empty labels and their frequency.
         if st.sidebar.button(str(nonempty_index.loc[entry, 'Theme']) + " (" + str(nonempty_index.loc[entry, 'Frequency']) + ")", str(entry)):
             sidebar_click = str(nonempty_index.loc[entry, 'Theme'])
-            st.write(sidebar_click)
 
     for m in range(0, len(hypothesis_annotations)):
         # Turning our relevant values into strings.
