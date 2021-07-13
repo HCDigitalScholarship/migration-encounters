@@ -86,11 +86,11 @@ def index(request:Request):
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
-@app.get("/interview_json/{person}")
-def index(person:str):
-    interviews = load_data()
-    person = [i for i in interviews if i.name.lower() == person.lower()]
-    if person:
-        return person[0]
-    else: 
-        raise HTTPException(status_code=404, detail="Interview not found")
+# @app.get("/interview_json/{person}")
+# def index(person:str):
+#     interviews = load_data()
+#     person = [i for i in interviews if i.name.lower() == str(person).lower()]
+#     if person:
+#         return person[0]
+#     else: 
+#         raise HTTPException(status_code=404, detail="Interview not found")
