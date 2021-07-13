@@ -3,7 +3,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
 from typing import Optional, List
-#from functools import cache
+from functools import cache
 import json 
 import random
 import srsly
@@ -12,6 +12,19 @@ app = FastAPI()
 app.mount("/assets", StaticFiles(directory="assets"), name="assets")
 
 templates = Jinja2Templates(directory="templates")
+
+import re
+from markupsafe import Markup, escape
+
+def nl2br(value):
+    br = "<br>\n"
+
+    result = "\n\n".join(
+        f"<p>{br.join(p.splitlines())}<\p>"
+        for p in re.split(r"(?:\r\n|\r(?!\n)|\n){2,}", value)
+    )
+    return result
+
 
 class Interview(BaseModel):
     name: str
@@ -25,7 +38,7 @@ class Interview(BaseModel):
     audio: Optional[List[dict]] = None
     subjects: Optional[List[str]] = None
 
-#@cache
+@cache
 def load_data():
     interviews = []
     data_dir = Path.cwd() / 'data'  
@@ -86,11 +99,27 @@ def index(request:Request):
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
-# @app.get("/interview_json/{person}")
-# def index(person:str):
-#     interviews = load_data()
-#     person = [i for i in interviews if i.name.lower() == str(person).lower()]
-#     if person:
-#         return person[0]
-#     else: 
-#         raise HTTPException(status_code=404, detail="Interview not found")
+@app.get("/interview/{person}")
+def interview(request:Request,person:str):
+    context = {}
+    context['request'] =request
+    interviews = load_data()
+    person = [i for i in interviews if i.name.lower() == str(person).lower()]
+    context['person'] = person[0]
+    context['person'].text = nl2br(context['person'].text)
+    context['portrait'] = request.url_for("assets", path=f"/img/portraits/{person[0].portrait}")
+    return templates.TemplateResponse("interview.html", context)
+
+@app.get("/interview_json/{person}")
+def index(person:str):
+    interviews = load_data()
+    person = [i for i in interviews if i.name.lower() == str(person).lower()]
+    if person:
+        return person[0]
+    else: 
+        raise HTTPException(status_code=404, detail="Interview not found")
+
+@app.get("/add_interview")
+def add_interview(request:Request):
+    return templates.TemplateResponse("add_interview.html", {'request': request})
+

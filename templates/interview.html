@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+{% block extra_style %}
+<link href="{{ url_for('assets', path='css/interview.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block content %}
+<div id="sticky_image_div">
+    <img id="column_image" src="{{ portrait }}" 
+    alt="image">
+</div>
+
+<div style="margin-top:5%;" id="container_div">
+    <div class="container-column text-left" id="right_column">
+        <h1>{{ person.name }} </h1>
+        <h4>{{ person.location }}</h4>
+        <h4>{{ person.interviewer }}</h4>
+        <h4>{{ person.date }}</h4>
+        <br>
+        <audio src=""></audio>
+        <br>
+        <div class="content">
+            <p>{{ person.text|safe }}</p>
+            
+
+        </div>
+    </div>
+</div>
+
+<!-- overall gallery div -->
+<div id="gallery_overall">
+    <!-- gallery div -- smaller than the overall (scalable) -->
+    <div id="gallery_div">
+        <!-- galllery header -->
+        <div id="gallery_headliner">
+            <h1>More pictures:</h1>
+        </div>
+
+        <!-- gallery row -->
+        <div class="gallery_row">
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/mono-lake-picture-id1155551033?s=612x612" alt="Image 1" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/tiger-stripes-in-green-picture-id1084196150?s=612x612" alt="Image 2" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/underwater-shot-of-green-turtle-swimming-picture-id1295501748?s=612x612" alt="Image 3" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/common-kingfisher-with-fish-picture-id1139764290?s=612x612" alt="Image 4" onclick="openScaled(this);">
+            </div>
+        </div>
+        
+        <!-- expanded image -->
+        <div id="gallery_container">
+            <span onclick="this.parentElement.style.display='none'" id="close_img_btn"></span>
+            <img id="expandedImg" style="width:100%">
+            <div id="imgtext"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js%}
+
+<script src="{{ url_for('assets', path='js/interactive.js') }}"></script>
+{% endblock %}

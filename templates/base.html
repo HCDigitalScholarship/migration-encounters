@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="{{ url_for('assets', path='img/favicon.png') }}" rel="icon">
+    <link href="{{ url_for('assets', path='img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
@@ -21,20 +21,20 @@
         <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
         
     <!-- Vendor CSS Files -->
-    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/animate.css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/aos/aos.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/remixicon/remixicon.css') }}" rel="stylesheet">
+    <link href="{{ url_for('assets', path='vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
-    <link rel="stylesheet" href="assets/css/shuffle.css">
+    <link rel="stylesheet" href="{{ url_for('assets', path='css/shuffle.css') }}">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
-
+    <link href="{{ url_for('assets', path='css/style.css') }}" rel="stylesheet">
+    {% block extra_style %}{% endblock %}
     <!-- =======================================================
   * Template Name: Multi - v4.1.0
   * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
@@ -45,6 +45,7 @@
 
 <body>
     <main id="main">
+        {% include 'navbar.html' %}
         {% block content %}{% endblock %}
     </main><!-- End #main -->
 
@@ -118,19 +119,19 @@
             class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/purecounter/purecounter.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="{{ url_for('assets', path='vendor/aos/aos.js') }}"></script>
+    <script src="{{ url_for('assets', path='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url_for('assets', path='vendor/glightbox/js/glightbox.min.js') }}"></script>
+    <script src="{{ url_for('assets', path='vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ url_for('assets', path='vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ url_for('assets', path='/vendor/purecounter/purecounter.js') }}"></script>
+    <script src="{{ url_for('assets', path='vendor/swiper/swiper-bundle.min.js') }}"></script>
 
     <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
+    <script src="{{ url_for('assets', path='/js/main.js') }}"></script>
 
-    <script src="assets/js/shuffle.js"></script>
-    {% block extrajs %}{% endblock %}
+    <script src="{{ url_for('assets', path='/js/shuffle.js') }}"></script>
+    {% block extra_js %}{% endblock %}
 </body>
 
 </html>
