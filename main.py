@@ -3,7 +3,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
 from typing import Optional, List
-from functools import cache
+#from functools import cache
 import json 
 import random
 import srsly
@@ -25,7 +25,7 @@ class Interview(BaseModel):
     audio: Optional[List[dict]] = None
     subjects: Optional[List[str]] = None
 
-@cache
+#@cache
 def load_data():
     interviews = []
     data_dir = Path.cwd() / 'data'  
