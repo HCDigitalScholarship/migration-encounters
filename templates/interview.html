@@ -1,11 +1,11 @@
 {% extends 'base.html' %}
 {% block extra_style %}
-<link href="{{ url_for('assets', path='css/interview.css') }}" rel="stylesheet">
+<link href="../assets/css/interview.css" rel="stylesheet">
 {% endblock %}
 
 {% block content %}
 <div class="img-fluid" id="sticky_image_div">
-    <img  class="img-fluid" src="{{ portrait }}" 
+    <img  class="img-fluid" src="../assets/img/portraits/{{ person.portrait }}" 
     alt="portrait of {{ person.name }}">
 </div>
 
@@ -63,5 +63,5 @@
 
 {% block extra_js%}
 
-<script src="{{ url_for('assets', path='js/interactive.js') }}"></script>
+<script src="../assets/js/interactive.js"></script>
 {% endblock %}

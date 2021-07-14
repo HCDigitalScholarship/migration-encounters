@@ -34,7 +34,9 @@
 
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet">
-    {% block extra_style %}{% endblock %}
+    
+<link href="../assets/css/interview.css" rel="stylesheet">
+
     <!-- =======================================================
   * Template Name: Multi - v4.1.0
   * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
@@ -45,8 +47,87 @@
 
 <body>
     <main id="main">
-        {% include 'navbar.html' %}
-        {% block content %}{% endblock %}
+        <!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="/">Migration Encounters</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#interviews">Interviews</a></li>
+          <!-- <li><a class="nav-link scrollto " href="#photographs">Things We Left Behind</a></li> -->
+          <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li>
+
+          <li style="margin-left:15px;"><input type="search" class="form-control ds-input" id="search-input" placeholder="Search..." aria-label="Search docs for..." autocomplete="off" data-bd-docs-version="5.0" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;"></li>
+          
+          
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+        
+<div class="img-fluid" id="sticky_image_div">
+    <img  class="img-fluid" src="../assets/img/portraits/Angel_6-7-2019_Portrait.jpg" 
+    alt="portrait of Angel">
+</div>
+
+<div style="margin-top:12%;" id="container_div">
+    <div class="container-column text-left" id="right_column">
+        <h1>Angel </h1>
+        <h4>Mexico City, Mexico</h4>
+        <h4>Anita Isaacs</h4>
+        <h4>June 7, 2019</h4>
+        <br>
+        <audio src=""></audio>
+        <br>
+        <div class="content">
+            <p><p><\p></p>
+            
+
+        </div>
+    </div>
+</div>
+
+<!-- overall gallery div -->
+<div id="gallery_overall">
+    <!-- gallery div -- smaller than the overall (scalable) -->
+    <div id="gallery_div">
+        <!-- galllery header -->
+        <div id="gallery_headliner">
+            <h1>More pictures:</h1>
+        </div>
+
+        <!-- gallery row -->
+        <div class="gallery_row">
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/mono-lake-picture-id1155551033?s=612x612" alt="Image 1" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/tiger-stripes-in-green-picture-id1084196150?s=612x612" alt="Image 2" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/underwater-shot-of-green-turtle-swimming-picture-id1295501748?s=612x612" alt="Image 3" onclick="openScaled(this);">
+            </div>
+            <div class="gallery_column">
+                <img src="https://media.istockphoto.com/photos/common-kingfisher-with-fish-picture-id1139764290?s=612x612" alt="Image 4" onclick="openScaled(this);">
+            </div>
+        </div>
+        
+        <!-- expanded image -->
+        <div id="gallery_container">
+            <span onclick="this.parentElement.style.display='none'" id="close_img_btn"></span>
+            <img id="expandedImg" style="width:100%">
+            <div id="imgtext"></div>
+        </div>
+    </div>
+</div>
+
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
@@ -131,7 +212,10 @@
     <script src="../assets//js/main.js"></script>
 
     <script src="../assets//js/shuffle.js"></script>
-    {% block extra_js %}{% endblock %}
+    
+
+<script src="../assets/js/interactive.js"></script>
+
 </body>
 
 </html>

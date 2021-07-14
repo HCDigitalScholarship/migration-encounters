@@ -13,6 +13,8 @@ def build_interviews():
     for person in interviews:
         page = interview(Request, person.name)
         interviews_path = Path.cwd() / 'site' / 'interview'
+        if not interviews_path.exists():
+            interviews_path.mkdir(parents=True, exist_ok=True)
         (interviews_path / (person.name +'.html')).write_bytes(page.body)
 
 if __name__ == '__main__':
@@ -29,3 +31,4 @@ if __name__ == '__main__':
         shutil.copytree((Path.cwd() / 'assets'), (site_path / 'assets')) 
 
     build_index()
+    build_interviews()

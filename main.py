@@ -110,7 +110,6 @@ def interview(request:Request,person:str):
     interviews = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     context['person'] = person[0]
-    context['portrait'] = request.url_for("assets", path=f"/img/portraits/{person[0].portrait}")
     return templates.TemplateResponse("interview.html", context)
 
 @app.get("/interview_json/{person}")

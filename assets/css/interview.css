@@ -35,6 +35,7 @@
 }
 
 #container_div{
+    width: 50%;
     overflow: hidden;
 }
 
