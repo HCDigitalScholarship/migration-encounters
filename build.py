@@ -1,5 +1,5 @@
 from fastapi import Request
-from main import index
+from main import index, interview,load_data
 import shutil
 from pathlib import Path 
 
@@ -7,6 +7,13 @@ from pathlib import Path
 def build_index():
     page = index(Request)
     (site_path / 'index.html').write_bytes(page.body)
+    
+def build_interviews():
+    interviews = load_data()
+    for person in interviews:
+        page = interview(Request, person.name)
+        interviews_path = Path.cwd() / 'site' / 'interview'
+        (interviews_path / (person.name +'.html')).write_bytes(page.body)
 
 if __name__ == '__main__':
     # Create site directory

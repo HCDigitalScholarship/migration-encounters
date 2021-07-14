@@ -24,8 +24,7 @@
     position:sticky; 
     top: 8%; 
     float:left;
-    height: 100%;
-    width: 48%;
+    width: 50%;
     z-index: -1;
 }
 

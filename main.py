@@ -8,22 +8,26 @@ import json
 import random
 import srsly
 from pathlib import Path
+import re
+from markupsafe import Markup, escape
+
 app = FastAPI()
 app.mount("/assets", StaticFiles(directory="assets"), name="assets")
 
 templates = Jinja2Templates(directory="templates")
 
-import re
-from markupsafe import Markup, escape
-
+#Register custom filter to convert \n to <br>
 def nl2br(value):
     br = "<br>\n"
-
     result = "\n\n".join(
         f"<p>{br.join(p.splitlines())}<\p>"
         for p in re.split(r"(?:\r\n|\r(?!\n)|\n){2,}", value)
     )
     return result
+templates.env.filters['nl2br'] = nl2br
+
+
+
 
 
 class Interview(BaseModel):
@@ -106,12 +110,11 @@ def interview(request:Request,person:str):
     interviews = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     context['person'] = person[0]
-    context['person'].text = nl2br(context['person'].text)
     context['portrait'] = request.url_for("assets", path=f"/img/portraits/{person[0].portrait}")
     return templates.TemplateResponse("interview.html", context)
 
 @app.get("/interview_json/{person}")
-def index(person:str):
+def interview_json(person:str):
     interviews = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     if person:

@@ -4,12 +4,12 @@
 {% endblock %}
 
 {% block content %}
-<div id="sticky_image_div">
-    <img id="column_image" src="{{ portrait }}" 
-    alt="image">
+<div class="img-fluid" id="sticky_image_div">
+    <img  class="img-fluid" src="{{ portrait }}" 
+    alt="portrait of {{ person.name }}">
 </div>
 
-<div style="margin-top:5%;" id="container_div">
+<div style="margin-top:12%;" id="container_div">
     <div class="container-column text-left" id="right_column">
         <h1>{{ person.name }} </h1>
         <h4>{{ person.location }}</h4>
@@ -19,7 +19,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p>{{ person.text|safe }}</p>
+            <p>{{ person.text|nl2br|safe }}</p>
             
 
         </div>
