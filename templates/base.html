@@ -131,7 +131,17 @@
     <script src="../assets//js/main.js"></script>
 
     <script src="../assets//js/shuffle.js"></script>
-    
+    <script>
+        // Search bar, on key enter GET search page with query 
+
+        document.querySelector('#search-input').addEventListener('keyup', function() {
+          let val = this.value;
+          if (event.keyCode === 13) {
+              console.log(val)
+              window.location.replace("/search?q="+val);
+          }
+      });
+      </script>
 
     {% block extra_js %}{% endblock %}
 </body>

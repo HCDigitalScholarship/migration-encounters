@@ -19,7 +19,7 @@
                 <h2></h2>
                 <p></p>
               </div>
-            <h3>Search Results</h3>
+            <h3 id='result_title'>Search Results</h3>
             <p>
               
             </p>
@@ -28,11 +28,11 @@
           <div class="accordion-list">
             <ul>
               <li>
-                <a id="interview_results"data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span id="interview_results_count">01</span> Interviews<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
-                  <p>
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                  </p>
+                <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span id="interview_results_count">00</span> Interviews <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                <div id="accordion-list-2" class="collapse show interview_results" data-bs-parent=".accordion-list">
+               <p>
+               
+                </p>
                 </div>
               </li>
 
@@ -99,6 +99,7 @@
     const query = urlParams.get('q')
     let interview_results;
     if (query) {
+        document.querySelector('#result_title').innerHTML = 'Search Results for: ' + query;
             // Load the inverted index for interviews
            
         fetch('../assets/lunr/interviews.json').then(
@@ -109,9 +110,11 @@
                 interview_results = interview_idx.search(query);
                 for (i in interview_results) { 
                     if (interview_results[i].score > 0) {
+                        document.querySelector('.interview_results').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
                     console.log(interview_results[i].ref, interview_results[i].score) 
                     }
                 };
+                document.querySelector('#interview_results_count').innerText = interview_results.length;
                 return interview_results
             })
             fetch('../assets/lunr/annotations.json').then(
