@@ -11,6 +11,8 @@
 
 <div style="margin-top:12%;" id="container_div">
     <div class="container-column text-left" id="right_column">
+        
+        
         <h1>{{ person.name }} </h1>
         <h4>{{ person.location }}</h4>
         <h4>{{ person.interviewer }}</h4>
@@ -19,7 +21,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p>{{ person.text|nl2br|safe }}</p>
+            <p>{{ text|nl2br|safe }}</p>
             
 
         </div>

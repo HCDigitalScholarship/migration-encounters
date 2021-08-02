@@ -172,7 +172,7 @@
           </div>
         </div>
         
-        <div class="container">
+        <div class="container-fluid">
           <div id="grid" class="row my-shuffle-container">          
             {% for item in interviews %}
             
@@ -627,5 +627,15 @@
     
     
       </script>
+      <script>
+        // Search bar, on key enter GET search page with query 
 
+        document.querySelector('#search-input').addEventListener('keyup', function() {
+          let val = this.value;
+          if (event.keyCode === 13) {
+              console.log(val)
+              window.location.replace("/search?q="+val);
+          }
+      });
+      </script>
     {% endblock %}

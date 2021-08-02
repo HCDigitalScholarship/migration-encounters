@@ -5,6 +5,11 @@ from pydantic import BaseModel, Json
 from typing import Optional, List
 from functools import cache
 import json 
+import spacy
+from spacy import displacy
+from spacy.displacy import EntityRenderer,parse_ents
+from spacy.lang.en import English
+
 import random
 import srsly
 from pathlib import Path
@@ -26,7 +31,18 @@ def nl2br(value):
     return result
 templates.env.filters['nl2br'] = nl2br
 
+# def textrank_me(item:dict):
+#     text = item['name']
+#     nlp = spacy.load("en_core_web_sm")
+#     nlp.add_pipe("textrank")
+#     doc = nlp(text)
+#     # TODO add item annotations to doc.ents
 
+#     # examine the top-ranked phrases in the document
+#     for phrase in doc._.phrases:
+#         print(phrase.text)
+#         print(phrase.rank, phrase.count)
+#         print(phrase.chunks)
 
 
 
@@ -48,8 +64,11 @@ def load_data():
     data_dir = Path.cwd() / 'data'  
     for item in data_dir.iterdir():
         data = srsly.read_json(item)
-        i = Interview(**data)
-        interviews.append(i)
+        if data:
+            i = Interview(**data)
+            interviews.append(i)
+        else:
+            print('error',data)
     return interviews
 
 green = [
@@ -89,6 +108,20 @@ for i in interviews:
 
 filters = temp
 
+def add_spans_to_text(interview:Interview):
+    renderer = EntityRenderer()
+    renderer.colors = {"PERSON": "#03fc41"}
+    renderer.ent_template = """<span style="background: {bg}" class="entity" value="{label}">{text}</span>"""
+    parsed = dict(text=interview.text,ents=interview.annotations, title=interview.name, settings={'lang': 'en', 'direction': 'ltr'})
+    return renderer.render([parsed], page=True, minify=True).strip()
+    
+
+            
+
+
+
+
+
 #TODO, change interviews to list of Interview objects, which load from TEI files in a data directory
 @app.get("/")
 def index(request:Request):
@@ -110,6 +143,7 @@ def interview(request:Request,person:str):
     interviews = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     context['person'] = person[0]
+    context['text'] = add_spans_to_text(person[0])
     return templates.TemplateResponse("interview.html", context)
 
 @app.get("/interview_json/{person}")
@@ -120,6 +154,12 @@ def interview_json(person:str):
         return person[0]
     else: 
         raise HTTPException(status_code=404, detail="Interview not found")
+
+@app.get("/search")
+def add_interview(request:Request, q:str=None):
+    print(q)
+    return templates.TemplateResponse("search.html", {'request': request})
+
 
 @app.get("/add_interview")
 def add_interview(request:Request):

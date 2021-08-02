@@ -1,0 +1,157 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  
+  
+  <main id="main">
+ 
+<!-- ======= About Section ======= -->
+<section id="about" class="why-us section-bg">
+    <div class="container-fluid" data-aos="fade-up">
+
+      <div class="row">
+
+    
+        <div class="col-lg-12 d-flex flex-column justify-content-center align-items-stretch">
+
+          <div class="content">
+            <div class="section-title" >
+                <h2></h2>
+                <p></p>
+              </div>
+            <h3>Search Results</h3>
+            <p>
+              
+            </p>
+          </div>
+
+          <div class="accordion-list">
+            <ul>
+              <li>
+                <a id="interview_results"data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span id="interview_results_count">01</span> Interviews<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                  <p>
+                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Quotes <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                  <p>
+                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Places, People, and More <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                  <p>
+                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  </p>
+                </div>
+              </li>
+
+           
+            
+        
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+    
+    </div>
+  </section><!-- End About Section -->
+
+
+    {% endblock %}
+
+    {% block extra_js %}
+    
+       <!-- search engine  -->
+     <script src="https://unpkg.com/lunr/lunr.js"></script>
+     <script>
+        function htmlToElement(html) {
+            var template = document.createElement('template');
+            html = html.trim(); // Never return a text node of whitespace as the result
+            template.innerHTML = html;
+            return template.content.firstChild;
+        }
+        
+        async function getData(url) {
+            const response = await fetch(url);
+          
+            return   lunr.Index.load(response.json());
+          }
+          
+    function search(query) {
+        interview_results = interview_idx.search(query);
+    }; 
+    
+
+    // Access query from the URL 
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const query = urlParams.get('q')
+    let interview_results;
+    if (query) {
+            // Load the inverted index for interviews
+           
+        fetch('../assets/lunr/interviews.json').then(
+            function(u){ return u.json();}
+            ).then(
+                function(json){
+                const interview_idx = lunr.Index.load(json);
+                interview_results = interview_idx.search(query);
+                for (i in interview_results) { 
+                    if (interview_results[i].score > 0) {
+                    console.log(interview_results[i].ref, interview_results[i].score) 
+                    }
+                };
+                return interview_results
+            })
+            fetch('../assets/lunr/annotations.json').then(
+                function(u){ return u.json();}
+                ).then(
+                    function(json){
+                    const annotations_idx = lunr.Index.load(json);
+                    annotations_results = annotations_idx.search(query);
+                    for (i in annotations_results) { 
+                        if (annotations_results[i].score > 0) {
+                        console.log(annotations_results[i].ref, annotations_results[i].score) 
+                        }
+                    };
+                })
+                // result ref needs to be mapped to result data 
+                function getSearchResults(query) {
+                    return searchIndex.search(query).flatMap((hit) => {
+                      if (hit.ref == "undefined") return [];
+                      let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+                      pageMatch.score = hit.score;
+                      return [pageMatch];
+                    });
+                  }
+    }
+    else { 
+            console.log('no query');
+    }
+
+
+    document.querySelector('#search-input').addEventListener('keyup', function() {
+        let val = this.value;
+        if (event.keyCode === 13) {
+            console.log('return')
+        }
+        if (val.length > 0) {
+            let results = idx.search(val);
+            console.log(results)
+        }
+    });
+    
+    
+    </script>
+    {% endblock %}

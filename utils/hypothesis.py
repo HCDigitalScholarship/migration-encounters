@@ -219,7 +219,7 @@ def collect_annotations(interview_name: str):
             print(e)
 
     # putting our pre-defined index themes into a list
-    index_themes = open("../index_themes.txt").read().splitlines()
+    index_themes = open("./index_themes.txt").read().splitlines()
 
     # importing our semantic search vocabulary
     nlp = spacy.load("en_core_web_lg")
@@ -325,7 +325,7 @@ def load_data():
     """This program takes every interview in the data directory, runs collect_annotations on each one, and then
     returns a list of dictonaries, each of which corresponds to a specific interview."""
     all_data = []  # initializing our list
-    interviews = list(Path('../data').iterdir())  # iterating over our /data folder
+    interviews = list(Path('./data').iterdir())  # iterating over our /data folder
     for interview in tqdm(interviews):
         data = srsly.read_json(interview)  # opening our interview .txt file.
         name = names_files[interview.stem]  # correlating the /data folder names with the website path names
