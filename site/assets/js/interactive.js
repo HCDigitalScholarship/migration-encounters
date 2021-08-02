@@ -16,10 +16,9 @@ function openScaled(imgs) {
 
 
 function search_transcript(){
-    console.log("buttonPress") 
     let input = document.getElementById('search_text').value
     input=input.toLowerCase();
-    let pArray = document.getElementsByClassName('body-text-p');
+    let pArray = document.getElementsByName('p');
     let resultsParagraph = document.getElementById("search_results");
     resultsParagraph.innerHTML = ""
   
