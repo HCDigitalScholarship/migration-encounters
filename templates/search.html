@@ -4,7 +4,55 @@
   
   
   <main id="main">
- 
+ <!-- ======= Counts Section ======= -->
+ <section id="counts" class="counts" style="margin-top:120px;">
+    <div class="container-flex" data-aos="fade-up">
+
+      <div class="row no-gutters">
+        <h3 id='result_title'>Search Results</h3>
+        
+        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+          <div class="count-box interview_count_box">
+          
+            <h4>Interviews</h4>
+            
+          </div>
+        </div>
+       
+        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+          <div class="count-box annotations_count_box">
+            
+            <h4>Quotes</h4>
+            
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+          <div class="count-box ents_count_box">
+            
+            <h4>People, Places and More</h4>
+            
+          </div>
+        </div>
+
+
+      </div>
+
+      <div class="row no-gutters" style="margin-top:30px;">
+        <div class="col-lg-12 col-md-12 d-md-flex align-items-md-stretch">
+            <div class="interviews count-box">
+              
+              
+            </div>
+          </div>
+
+      </div>
+
+    </div>
+
+
+  </section><!-- End Counts Section -->
+
 <!-- ======= About Section ======= -->
 <section id="about" class="why-us section-bg">
     <div class="container-fluid" data-aos="fade-up">
@@ -19,7 +67,7 @@
                 <h2></h2>
                 <p></p>
               </div>
-            <h3 id='result_title'>Search Results</h3>
+            
             <p>
               
             </p>
@@ -29,7 +77,7 @@
             <ul>
               <li>
                 <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span id="interview_results_count">00</span> Interviews <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                <div id="accordion-list-2" class="collapse show interview_results" data-bs-parent=".accordion-list">
+                <div id="accordion-list-1" class="collapse show interview_results" data-bs-parent=".accordion-list">
                <p>
                
                 </p>
@@ -82,15 +130,8 @@
             return template.content.firstChild;
         }
         
-        async function getData(url) {
-            const response = await fetch(url);
+        
           
-            return   lunr.Index.load(response.json());
-          }
-          
-    function search(query) {
-        interview_results = interview_idx.search(query);
-    }; 
     
 
     // Access query from the URL 
@@ -110,11 +151,13 @@
                 interview_results = interview_idx.search(query);
                 for (i in interview_results) { 
                     if (interview_results[i].score > 0) {
-                        document.querySelector('.interview_results').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
-                    console.log(interview_results[i].ref, interview_results[i].score) 
+                        document.querySelector('.interviews').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+                        
                     }
                 };
                 document.querySelector('#interview_results_count').innerText = interview_results.length;
+                document.querySelector('.interview_count_box').appendChild(htmlToElement('<h4>'+interview_results.length+'</h4>'));
+                
                 return interview_results
             })
             fetch('../assets/lunr/annotations.json').then(
@@ -125,9 +168,29 @@
                     annotations_results = annotations_idx.search(query);
                     for (i in annotations_results) { 
                         if (annotations_results[i].score > 0) {
-                        console.log(annotations_results[i].ref, annotations_results[i].score) 
+                         //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+
                         }
                     };
+                    console.log(annotations_results.length);
+                     document.querySelector('.annotations_count_box').appendChild(htmlToElement('<h4>'+annotations_results.length+'</h4>'));
+
+                })
+                fetch('../assets/lunr/ents.json').then(
+                function(u){ return u.json();}
+                ).then(
+                    function(json){
+                    const ents_idx = lunr.Index.load(json);
+                    ents_results = ents_idx.search(query);
+                    for (i in ents_results) { 
+                        if (ents_results[i].score > 0) {
+                         //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+
+                        }
+                    };
+                    console.log(ents_results.length);
+                     document.querySelector('.ents_count_box').appendChild(htmlToElement('<h4>'+ents_results.length+'</h4>'));
+
                 })
                 // result ref needs to be mapped to result data 
                 function getSearchResults(query) {
