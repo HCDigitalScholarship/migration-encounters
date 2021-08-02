@@ -156,8 +156,7 @@ def interview_json(person:str):
         raise HTTPException(status_code=404, detail="Interview not found")
 
 @app.get("/search")
-def add_interview(request:Request, q:str=None):
-    print(q)
+def search(request:Request, q:str=None):
     return templates.TemplateResponse("search.html", {'request': request})
 
 

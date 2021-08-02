@@ -1,5 +1,5 @@
 from fastapi import Request
-from main import index, interview,load_data
+from main import index, interview,load_data, search
 import shutil
 from pathlib import Path 
 
@@ -16,6 +16,10 @@ def build_interviews():
         if not interviews_path.exists():
             interviews_path.mkdir(parents=True, exist_ok=True)
         (interviews_path / (person.name +'.html')).write_bytes(page.body)
+
+def build_search():
+    page = search(Request)
+    (site_path / 'search.html').write_bytes(page.body)
 
 if __name__ == '__main__':
     # Create site directory
