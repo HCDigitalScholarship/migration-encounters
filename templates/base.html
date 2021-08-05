@@ -138,7 +138,7 @@
           let val = this.value;
           if (event.keyCode === 13) {
               console.log(val)
-              window.location.replace("/search.html?q="+val);
+              window.location.replace(`/search.html?q=${val}&type=interviews`);
           }
       });
       </script>
