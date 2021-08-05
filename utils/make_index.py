@@ -1,4 +1,5 @@
 import srsly
+import uuid 
 from pathlib import Path
 from lunr import lunr
 from tqdm import tqdm
@@ -20,14 +21,34 @@ for interview in tqdm(interviews):
             snippet['text'] = interview['text'][snippet['start']:snippet['end']]
             ents.append(snippet) 
         else:
+            snippet['id'] = str(uuid.uuid4())
             snippet['name'] = interview['name']
             snippet['text'] = interview['text'][snippet['start']:snippet['end']]
             annos.append(snippet)
    
-idx = lunr(ref="name", fields=["label","text"], documents=annos)
+idx = lunr(ref="id", fields=["label","text"], documents=annos)
 serialized_idx = idx.serialize()
 annos_path = data = Path.cwd().parents[0] / 'assets' / 'lunr' / 'annotations.json'
 srsly.write_json(annos_path, serialized_idx)
+
+quotes_path = Path.cwd().parents[0] / 'assets' / 'quotes'
+if not quotes_path.exists():
+    quotes_path.mkdir(parents=True, exist_ok=True)
+
+print('writing quote json files')
+for quote in tqdm(annos):
+    quote_path = quotes_path / quote['id']
+    srsly.write_json(quote_path, quote) 
+
+# create lookup for labels and quote files
+data = {}
+for quote in tqdm(annos):
+    if quote['label'] not in list(data.keys()):
+        data[quote['label']] = [quote['id']]
+    else:
+        data[quote['label']].append(quote['id'])
+
+srsly.write_json((quotes_path / 'quote_lookup.json'), data)
 
 idx = lunr(ref="name", fields=["label","text"], documents=ents)
 serialized_idx = idx.serialize()
