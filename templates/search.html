@@ -90,9 +90,9 @@
 
     if (query) {
       document.querySelector("#result_title").innerHTML =
-        "Search Results for: " + query;
-      // Load the inverted index for interviews
+      "Search Results for: " + query;
 
+      // Load the inverted index for interviews
       fetch("../assets/lunr/interviews.json")
         .then(function (u) {
           return u.json();
@@ -144,21 +144,31 @@
             .appendChild(
               htmlToElement("<h4>" + annotations_results.length + "</h4>")
             );
-            
+
             if (type == "quotes") {
             for (i in annotations_results) {
               if (annotations_results[i].score > 0) {
-                document
+                let url = '../assets/quotes/'+annotations_results[i].ref;
+                fetch(url).then((resp) => resp.json())
+                .then(function(data) {
+                  document
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      '<a href="../interview/' +
-                        annotations_results[i].ref +
-                        '">' +
-                        annotations_results[i].ref +
-                        "</a>"
+                      `<div class="quote">
+                        <p>${data.text}</p>
+                        <a href="../interview/${data.name}">${data.name}</a>
+
+                      </div>`
                     )
                   );
+                })
+                //fetch quote json
+                //text
+                // link to interview from name
+                // label
+
+                
               } else {
                 if (annotations_results[i].score == 0) {
                   document
