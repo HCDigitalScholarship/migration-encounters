@@ -69,89 +69,76 @@
     </div>
   </header><!-- End Header -->
         
-  
-  
-  <main id="main">
- <!-- ======= Counts Section ======= -->
- <section id="counts" class="counts" style="margin-top:120px;">
+
+<main id="main">
+  <!-- ======= Counts Section ======= -->
+  <section id="counts" class="counts" style="margin-top: 120px">
     <div class="container-flex" data-aos="fade-up">
-
       <div class="row no-gutters">
-        <h3 id='result_title'>Search Results</h3>
-        
+        <h3 id="result_title">Search Results</h3>
+
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-          <div onclick="set_interview_results();" class="count-box interview_count_box">
-          
+          <div
+            onclick="set_type('interviews');"
+            class="count-box interview_count_box"
+          >
             <h4>Interviews</h4>
-            
           </div>
         </div>
-       
+
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-          <div onclick="set_quotes_results();" class="count-box annotations_count_box">
-            
+          <div
+            onclick="set_type('quotes');"
+            class="count-box annotations_count_box"
+          >
             <h4>Quotes</h4>
-            
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-          <div onclick="set_ents_results();" class="count-box ents_count_box">
-            
+          <div onclick="set_type('ents');" class="count-box ents_count_box">
             <h4>People, Places and More</h4>
-            
           </div>
         </div>
-
-
       </div>
 
-      <div class="row no-gutters" style="margin-top:30px;">
+      <div class="row no-gutters" style="margin-top: 30px">
         <div class="col-lg-12 col-md-12 d-md-flex align-items-md-stretch">
-            <div class="interviews count-box">
-              
-              
-            </div>
-          </div>
-
-      </div>
-
-    </div>
-
-
-  </section><!-- End Counts Section -->
-
-<!-- ======= About Section ======= -->
-<section id="about" class="why-us section-bg">
-    <div class="container-fluid" data-aos="fade-up">
-
-      <div class="row">
-
-    
-        <div class="col-lg-12 d-flex flex-column justify-content-center align-items-stretch">
-
-          <div class="content">
-            <div class="section-title" >
-                <h2></h2>
-                <p></p>
-              </div>
-            
-            <p>
-              
-            </p>
-          </div>
-
-         
-
+          <div class="interviews count-box"></div>
         </div>
-
       </div>
-    
     </div>
-  </section><!-- End About Section -->
+  </section>
+  <!-- End Counts Section -->
 
+  <!-- ======= About Section ======= -->
+  <section id="about" class="why-us section-bg">
+    <div class="container-fluid" data-aos="fade-up">
+      <div class="row">
+        <div
+          class="
+            col-lg-12
+            d-flex
+            flex-column
+            justify-content-center
+            align-items-stretch
+          "
+        >
+          <div class="content">
+            <div class="section-title">
+              <h2></h2>
+              <p></p>
+            </div>
 
-    
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
+
+  
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
@@ -249,188 +236,168 @@
       </script>
 
     
-    
-       <!-- search engine  -->
-     <script src="https://unpkg.com/lunr/lunr.js"></script>
-     <script>
-        function htmlToElement(html) {
-            var template = document.createElement('template');
-            html = html.trim(); // Never return a text node of whitespace as the result
-            template.innerHTML = html;
-            return template.content.firstChild;
-        }
-        
-        
-          
+
+  <!-- search engine  -->
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script>
     
 
-    // Access query from the URL 
+    function htmlToElement(html) {
+      var template = document.createElement("template");
+      html = html.trim(); // Never return a text node of whitespace as the result
+      template.innerHTML = html;
+      return template.content.firstChild;
+    }
+
+    // Access query from the URL
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    const query = urlParams.get('q')
-    const type = urlParams.get('type')
+    const query = urlParams.get("q");
+    const type = urlParams.get("type");
+    function set_type(type){
+      window.open(`../search?q=${query}&type=${type}`); 
+    };
     
     let interview_results;
 
-    function set_interview_results(interview_results) {
-      console.log('interviews!',interview_results)
-    
-    };
-    function set_quotes_results(quotes_results) {
-      console.log('quotes!')
-    }
-    function set_ents_results(){
-      console.log('ents!')
-    }
     if (query) {
-        document.querySelector('#result_title').innerHTML = 'Search Results for: ' + query;
-            // Load the inverted index for interviews
-           
-        fetch('../assets/lunr/interviews.json').then(
-            function(u){ return u.json();}
-            ).then(
-                function(json){
-                const interview_idx = lunr.Index.load(json);
-                interview_results = interview_idx.search(query);
-                for (i in interview_results) { 
-                    if (interview_results[i].score > 0) {
-                        document.querySelector('.interviews').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
-                        
-                    }
-                    if (interview_results[i].score == 0) {
-                      document.querySelector('.interviews').appendChild(htmlToElement('<h4>No results</h4>'));
-                    }
-                };
-                document.querySelector('#interview_results_count').innerText = interview_results.length;
-                document.querySelector('.interview_count_box').appendChild(htmlToElement('<h4>'+interview_results.length+'</h4>'));
-                
-                return interview_results
-            })
-            fetch('../assets/lunr/annotations.json').then(
-                function(u){ return u.json();}
-                ).then(
-                    function(json){
-                    const annotations_idx = lunr.Index.load(json);
-                    annotations_results = annotations_idx.search(query);
-                    for (i in annotations_results) { 
-                        if (annotations_results[i].score > 0) {
-                         //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+      document.querySelector("#result_title").innerHTML =
+      "Search Results for: " + query;
 
-                        }
-                    };
-                    console.log(annotations_results.length);
-                     document.querySelector('.annotations_count_box').appendChild(htmlToElement('<h4>'+annotations_results.length+'</h4>'));
+      // Load the inverted index for interviews
+      fetch("../assets/lunr/interviews.json")
+        .then(function (u) {
+          return u.json();
+        })
+        .then(function (json) {
+          const interview_idx = lunr.Index.load(json);
+          interview_results = interview_idx.search(query);
+          document
+            .querySelector(".interview_count_box")
+            .appendChild(
+              htmlToElement("<h4>" + interview_results.length + "</h4>")
+            );
+          if (type == "interviews") {
+            //set box as active 
+            document.querySelector(".interview_count_box").classList.add("active");
+            for (i in interview_results) {
+              if (interview_results[i].score > 0) {
+                document
+                  .querySelector(".interviews")
+                  .appendChild(
+                    htmlToElement(
+                      `<div>
+                        <a style="border-bottom: 1px solid #010203;
+                        border-radius: 0px 0px 0px 8px;" href="../interview/${interview_results[i].ref}">${interview_results[i].ref}</a>
+                      </div>`
+                    )
+                  );
+              }
+            }
+            if (interview_results[i].score == 0) {
+              document
+                .querySelector(".interviews")
+                .appendChild(htmlToElement("<h4>No results</h4>"));
+            }
+          }
 
+          return interview_results;
+        });
+
+      fetch("../assets/lunr/annotations.json")
+        .then(function (u) {
+          return u.json();
+        })
+        .then(function (json) {
+          
+            const annotations_idx = lunr.Index.load(json);
+            annotations_results = annotations_idx.search(query);
+            document
+            .querySelector(".annotations_count_box")
+            .appendChild(
+              htmlToElement("<h4>" + annotations_results.length + "</h4>")
+            );
+
+            if (type == "quotes") {
+            document.querySelector(".annotations_count_box").classList.add("active");
+
+            for (i in annotations_results) {
+              if (annotations_results[i].score > 0) {
+                let url = '../assets/quotes/'+annotations_results[i].ref;
+                fetch(url).then((resp) => resp.json())
+                .then(function(data) {
+                  document
+                  .querySelector(".interviews")
+                  .appendChild(
+                    htmlToElement(
+                      `<div style="border-bottom: 1px solid #010203;
+                      border-radius: 0px 0px 0px 8px;">
+                        <p>${data.text}</p>
+                        <a href="../interview/${data.name}">${data.name}</a>
+
+                      </div>`
+                    )
+                  );
                 })
-                fetch('../assets/lunr/ents.json').then(
-                function(u){ return u.json();}
-                ).then(
-                    function(json){
-                    const ents_idx = lunr.Index.load(json);
-                    ents_results = ents_idx.search(query);
-                    for (i in ents_results) { 
-                        if (ents_results[i].score > 0) {
-                         //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+                //fetch quote json
+                //text
+                // link to interview from name
+                // label
 
-                        }
-                    };
-                    console.log(ents_results.length);
-                     document.querySelector('.ents_count_box').appendChild(htmlToElement('<h4>'+ents_results.length+'</h4>'));
-
-                })
-                // result ref needs to be mapped to result data 
-                function getSearchResults(query) {
-                    return searchIndex.search(query).flatMap((hit) => {
-                      if (hit.ref == "undefined") return [];
-                      let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-                      pageMatch.score = hit.score;
-                      return [pageMatch];
-                    });
-                  }
-    }
-    if (query && type == 'quotes') {
-      document.querySelector('#result_title').innerHTML = 'Search Results for: ' + query;
-            // Load the inverted index for interviews
-           
-        fetch('../assets/lunr/interviews.json').then(
-            function(u){ return u.json();}
-            ).then(
-                function(json){
-                const interview_idx = lunr.Index.load(json);
-                interview_results = interview_idx.search(query);
-                for (i in interview_results) { 
-                    if (interview_results[i].score > 0) {
-                        document.querySelector('.interviews').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
-                        
-                    }
-                };
-                document.querySelector('.interview_count_box').appendChild(htmlToElement('<h4>'+interview_results.length+'</h4>'));
                 
-                return interview_results
-            })
-            fetch('../assets/lunr/annotations.json').then(
-            function(u){ return u.json();}
-            ).then(
-                function(json){
-                const annotations_idx = lunr.Index.load(json);
-                annotation_results = annotations_idx.search(query);
-                for (i in annotation_results) { 
-                    if (annotation_results[i].score > 0) {
-                        document.querySelector('.interviews').appendChild(htmlToElement('<a href="../interview/'+annotation_results[i].ref+ '">'+annotation_results[i].ref+'</a>'));
-                        
-                    }
-                };
+              } else {
+                if (annotations_results[i].score == 0) {
+                  document
+                    .querySelector(".interviews")
+                    .appendChild(htmlToElement("<h4>No results</h4>"));
+                }
+              }
+            }
+          }
 
-                document.querySelector('.annotations_count_box').appendChild(htmlToElement('<h4>'+annotation_results.length+'</h4>'));
-                
-                return annotation_results
-            })
-            
-                fetch('../assets/lunr/ents.json').then(
-                function(u){ return u.json();}
-                ).then(
-                    function(json){
-                    const ents_idx = lunr.Index.load(json);
-                    ents_results = ents_idx.search(query);
-                    for (i in ents_results) { 
-                        if (ents_results[i].score > 0) {
-                         //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+          
+        });
 
-                        }
-                    };
-                    console.log(ents_results.length);
-                     document.querySelector('.ents_count_box').appendChild(htmlToElement('<h4>'+ents_results.length+'</h4>'));
+      fetch("../assets/lunr/ents.json")
+        .then(function (u) {
+          return u.json();
+        })
+        .then(function (json) {
+          const ents_idx = lunr.Index.load(json);
+          ents_results = ents_idx.search(query);
+          for (i in ents_results) {
+            if (ents_results[i].score > 0) {
+              //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
+            }
+          }
+          console.log(ents_results.length);
+          document
+            .querySelector(".ents_count_box")
+            .appendChild(htmlToElement("<h4>" + ents_results.length + "</h4>"));
+        });
 
-                })
-                // result ref needs to be mapped to result data 
-                function getSearchResults(query) {
-                    return searchIndex.search(query).flatMap((hit) => {
-                      if (hit.ref == "undefined") return [];
-                      let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-                      pageMatch.score = hit.score;
-                      return [pageMatch];
-                    });
-                  }
-    }
-    else { 
-            console.log('no query');
+      if (query && type == "quotes") {
+      }
+      if (query && type == "ents") {
+      }
+    } else {
+      console.log("no query");
     }
 
-
-    document.querySelector('#search-input').addEventListener('keyup', function() {
+    document
+      .querySelector("#search-input")
+      .addEventListener("keyup", function () {
         let val = this.value;
         if (event.keyCode === 13) {
-            console.log('return')
+          console.log("return");
         }
         if (val.length > 0) {
-            let results = idx.search(val);
-            console.log(results)
+          let results = idx.search(val);
+          console.log(results);
         }
-    });
-    
-    
-    </script>
-    
+      });
+  </script>
+  
 </body>
 
 </html>
