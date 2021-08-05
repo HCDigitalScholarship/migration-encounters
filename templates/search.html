@@ -9,7 +9,7 @@
 
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
           <div
-            onclick="set_interview_results();"
+            onclick="set_type('interviews');"
             class="count-box interview_count_box"
           >
             <h4>Interviews</h4>
@@ -18,7 +18,7 @@
 
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
           <div
-            onclick="set_quotes_results();"
+            onclick="set_type('quotes');"
             class="count-box annotations_count_box"
           >
             <h4>Quotes</h4>
@@ -26,7 +26,7 @@
         </div>
 
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-          <div onclick="set_ents_results();" class="count-box ents_count_box">
+          <div onclick="set_type('ents');" class="count-box ents_count_box">
             <h4>People, Places and More</h4>
           </div>
         </div>
@@ -73,6 +73,8 @@
   <!-- search engine  -->
   <script src="https://unpkg.com/lunr/lunr.js"></script>
   <script>
+    
+
     function htmlToElement(html) {
       var template = document.createElement("template");
       html = html.trim(); // Never return a text node of whitespace as the result
@@ -85,7 +87,10 @@
     const urlParams = new URLSearchParams(queryString);
     const query = urlParams.get("q");
     const type = urlParams.get("type");
-
+    function set_type(type){
+      window.open(`../search?q=${query}&type=${type}`); 
+    };
+    
     let interview_results;
 
     if (query) {
@@ -106,17 +111,18 @@
               htmlToElement("<h4>" + interview_results.length + "</h4>")
             );
           if (type == "interviews") {
+            //set box as active 
+            document.querySelector(".interview_count_box").classList.add("active");
             for (i in interview_results) {
               if (interview_results[i].score > 0) {
                 document
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      '<a href="../interview/' +
-                        interview_results[i].ref +
-                        '">' +
-                        interview_results[i].ref +
-                        "</a>"
+                      `<div>
+                        <a style="border-bottom: 1px solid #010203;
+                        border-radius: 0px 0px 0px 8px;" href="../interview/${interview_results[i].ref}">${interview_results[i].ref}</a>
+                      </div>`
                     )
                   );
               }
@@ -146,6 +152,8 @@
             );
 
             if (type == "quotes") {
+            document.querySelector(".annotations_count_box").classList.add("active");
+
             for (i in annotations_results) {
               if (annotations_results[i].score > 0) {
                 let url = '../assets/quotes/'+annotations_results[i].ref;
@@ -155,7 +163,8 @@
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      `<div class="quote">
+                      `<div style="border-bottom: 1px solid #010203;
+                      border-radius: 0px 0px 0px 8px;">
                         <p>${data.text}</p>
                         <a href="../interview/${data.name}">${data.name}</a>
 
