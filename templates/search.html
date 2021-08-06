@@ -88,7 +88,7 @@
     const query = urlParams.get("q");
     const type = urlParams.get("type");
     function set_type(type){
-      window.open(`../search?q=${query}&type=${type}`); 
+      window.location.href =`../search?q=${query}&type=${type}`; 
     };
     
     let interview_results;
