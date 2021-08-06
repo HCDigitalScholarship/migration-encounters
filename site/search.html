@@ -97,7 +97,7 @@
 
         <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
           <div onclick="set_type('ents');" class="count-box ents_count_box">
-            <h4>People, Places and More</h4>
+            <h4>Topics</h4>
           </div>
         </div>
       </div>
@@ -332,8 +332,7 @@
                       `<div style="border-bottom: 1px solid #010203;
                       border-radius: 0px 0px 0px 8px;">
                         <p>${data.text}</p>
-                        <a href="../interview/${data.name}">${data.name}</a>
-
+                        <a href="../interview/${data.name}">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
                       </div>`
                     )
                   );
