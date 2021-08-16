@@ -4,7 +4,6 @@ from main import index, interview,load_data, search
 import shutil
 from pathlib import Path 
 
-
 def build_home():
     page = index(Request)
     (site_path / 'index.html').write_bytes(page.body)

@@ -3,7 +3,7 @@
 <main id="main">
   <!-- ======= Counts Section ======= -->
   <section id="counts" class="counts" style="margin-top: 120px">
-    <div class="container-flex" data-aos="fade-up">
+    <div class="container-fluid" data-aos="fade-up">
       <div class="row no-gutters">
         <h3 id="result_title">Search Results</h3>
 
@@ -119,9 +119,9 @@
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      `<div>
-                        <a style="border-bottom: 1px solid #010203;
-                        border-radius: 0px 0px 0px 8px;" href="../interview/${interview_results[i].ref}">${interview_results[i].ref}</a>
+                      `<div style="border: 1px inset rgba(95,81,164,0.26);
+                      border-radius: 20px; padding:50px;" onclick="window.location.href='../interview/${interview_results[i].ref}'">
+                      <h4>${interview_results[i].ref}</h4>
                       </div>`
                     )
                   );
@@ -163,10 +163,11 @@
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      `<div style="border-bottom: 1px solid #010203;
-                      border-radius: 0px 0px 0px 8px;">
-                        <p>${data.text}</p>
-                        <a href="../interview/${data.name}">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
+                      `<div style="border: 1px inset rgba(95,81,164,0.26);
+                      border-radius: 20px; padding:50px;">
+                      <a href="../interview/${data.name}">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
+                        <p>${data.text.replace(/\n/g, "<br />")}</p>
+                        <p></p>
                       </div>`
                     )
                   );
@@ -197,21 +198,43 @@
         .then(function (json) {
           const ents_idx = lunr.Index.load(json);
           ents_results = ents_idx.search(query);
+          
           for (i in ents_results) {
-            if (ents_results[i].score > 0) {
-              //document.querySelector('.quotes').appendChild(htmlToElement('<a href="../interview/'+interview_results[i].ref+ '">'+interview_results[i].ref+'</a>'));
-            }
+            console.log(ents_results[i].ref,ents_results[i].score);
+            
+              let url = '../assets/ents/'+ents_results[i].ref;
+              fetch(url).then((resp) => resp.json())
+              .then(function(data) {
+                document
+                .querySelector(".interviews")
+                .appendChild(
+                  htmlToElement(
+                    `<div style="border: 1px inset rgba(95,81,164,0.26);
+                    border-radius: 20px; padding:50px;">
+                    <p>${ents_results[i].score}</p>
+                    <a href="../interview/${data.name}">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
+                      <p>${data.text.replace(/\n/g, "<br />")}</p>
+                      <p></p>
+                    </div>`
+                  )
+                );
+              })
+              //fetch quote json
+              //text
+              // link to interview from name
+              // label
+
+              
+            
           }
-          console.log(ents_results.length);
+          
+          
           document
             .querySelector(".ents_count_box")
             .appendChild(htmlToElement("<h4>" + ents_results.length + "</h4>"));
         });
 
-      if (query && type == "quotes") {
-      }
-      if (query && type == "ents") {
-      }
+      
     } else {
       console.log("no query");
     }
