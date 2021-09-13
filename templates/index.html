@@ -21,7 +21,7 @@
           </div>
         </div>
 
-        <!-- Slide 2 -->
+        <!-- Slide 2
         <div class="carousel-item" style="background-image: url(assets/img/participants/{{ photographs }})">
           <div class="carousel-container">
             <div class="container">
@@ -32,7 +32,6 @@
           </div>
         </div>
 
-        <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url(assets/img/participants/{{ teaching }})">
           <div class="carousel-container">
             <div class="container">
@@ -41,7 +40,7 @@
               <a href="#teaching" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
 
@@ -72,15 +71,14 @@
                 <h2>About</h2>
                 <p></p>
               </div>
-            <h3>Migration Encounters is an oral history project launched in 2018 as a collaborative research and outreach initiative focusing on returning Mexican migrants.</h3>
+            <h3>Migrant Voices is an oral history project launched in 2018 as a collaborative research and outreach initiative focusing on returning Mexican migrants.</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
             </p>
           </div>
 
           <div class="accordion-list">
             <ul>
-              <li>
+              <!-- <li>
                 <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                 <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                   <p>
@@ -105,7 +103,7 @@
                     Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
                   </p>
                 </div>
-              </li>
+              </li> -->
 
            
             <li><img src="assets/img/research/migrants-by-states.png" class="img-fluid" alt="Migrants by state">
@@ -125,7 +123,7 @@
 
   <!-- ======= Interviews Section ======= -->
 <section id="interviews" class="cta">
-    <div class="container" data-aos="zoom-in">
+    <div class="container-fluid" data-aos="zoom-in">
 
       <div class="text-center">
         <h3>Interviews</h3>
@@ -142,7 +140,7 @@
               </div>
             </div>
 
-            <fieldset class="filters-group">
+            <!-- <fieldset class="filters-group">
               
               <div class="btn-group sort-options">
                 <label class="btn active">
@@ -155,41 +153,41 @@
                   <input type="radio" name="sort-value" value="date-created" /> Date Created
                 </label>
               </div>
-            </fieldset>
+            </fieldset> -->
 
           </div>
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-12@sm filters-group-wrap">
               <div class="filters-group">
                 <div class="btn-group filter-options">
-                  {% for filter in filters %}
-                  <p class="cta-btn" data-group="{{ filter }}">{{ filter }}</p>
+                  {% for subject in subjects %}
+                  <p class="cta-btn" data-group="{{ subject|safe }}">{{ subject }}</p>
                   {% endfor %}
                 </div>
               </div>
               
             </div>
-          </div>
+          </div> -->
         </div>
         
-        <div class="container-fluid">
+        
           <div id="grid" class="row my-shuffle-container">          
             {% for item in interviews %}
             
-          <figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups="{{ item.subjects }}"
+          <figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups="{{ item.subjects|tojson }}"
           data-date-created="{{ item.date }}" data-title="{{ item.title }}"
-          data-author="{{ item.author }}">
+          data-author="{{ item.interviewer }}">
             <div >
               <div>
                 <div class="aspect aspect--16x9">
                     <div class="aspect__inner">
-                <a href="/interview/{{ item.title }}" target="_blank" rel="noopener"
-                    title="{{ item.title }}"><img 
-                      src="assets/img/thumbnails/{{ item.file }}" alt="{{ item.title }}" /></a>
+                <a href="/interview/{{ item.name }}"  rel="noopener"
+                    title="{{ item.name }}"><img 
+                      src="assets/img/thumbnails/{{ item.thumbnail }}" alt="{{ item.name }}" /></a>
               </div>
               </div></div>
             </div>
-            <figcaption class="picture-item__title">{{ item.title }}</figcaption>
+            <figcaption class="picture-item__title">{{ item.name }}</figcaption>
           </figure>
           
           {% endfor %}
@@ -199,114 +197,14 @@
 
          
         </div>
-      </div>
+     
 
       </div>
     </div>
   </section><!-- End Interviews Section -->
 
     
-    <!-- ======= Teaching Section ======= -->
-    <section id="teaching" class="services">
-        <div class="container" data-aos="fade-up">
     
-          <div class="section-title">
-            <h2>Teaching Materials</h2>
-            <p></p>
-          </div>
-          <!-- ======= Counts Section ======= -->
-        <section id="counts" class="counts">
-            <div class="container" data-aos="fade-up">
-      
-              <div class="row no-gutters">
-      
-                <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-person-square"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="422" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Oral Histories</strong></p>
-                    <a href="#">Find out more &raquo;</a>
-                  </div>
-                </div>
-      
-                <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-file-earmark-text"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Pages of Testimony</strong></p>
-                    <a href="#">Find out more &raquo;</a>
-                  </div>
-              </div>
-      
-                <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-headset"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Hours Of Audio</strong> </p>
-                    <a href="#">Find out more &raquo;</a>
-                  </div>
-                </div>
-      
-               
-              </div>
-      
-            </div>
-          </section><!-- End Counts Section -->
-      
-          
-          <div class="row">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                <h4><a href="">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-file"></i></div>
-                <h4><a href="">Sed ut perspiciatis</a></h4>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-tachometer"></i></div>
-                <h4><a href="">Magni Dolores</a></h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-world"></i></div>
-                <h4><a href="">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-slideshow"></i></div>
-                <h4><a href="">Dele cardo</a></h4>
-                <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon-box">
-                <div class="icon"><i class="bx bx-arch"></i></div>
-                <h4><a href="">Divera don</a></h4>
-                <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-              </div>
-            </div>
-    
-          </div>
-    
-        </div>
-      </section><!-- End Teaching Section -->
     
 <!-- ======= Team Section ======= -->
 <section id="team" class="team section-bg">
@@ -613,10 +511,13 @@
               return false;
             }
           }
+          
       
           var titleElement = element.querySelector('.picture-item__title');
           var titleText = titleElement.textContent.toLowerCase().trim();
       
+
+
           return titleText.indexOf(searchText) !== -1;
         });
       };

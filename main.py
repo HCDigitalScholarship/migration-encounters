@@ -9,7 +9,7 @@ import spacy
 from spacy import displacy
 from spacy.displacy import EntityRenderer,parse_ents
 from spacy.lang.en import English
-
+import uuid
 import random
 import srsly
 from pathlib import Path
@@ -61,15 +61,18 @@ class Interview(BaseModel):
 @cache
 def load_data():
     interviews = []
+    subjects = []
     data_dir = Path.cwd() / 'data'  
     for item in data_dir.iterdir():
         data = srsly.read_json(item)
         if data:
             i = Interview(**data)
+            i.subjects = list(set([a['label'] for a in i.annotations if a['label'] !='SENT']))
             interviews.append(i)
+            subjects.extend(i.subjects)
         else:
             print('error',data)
-    return interviews
+    return interviews, list(set(subjects))
 
 green = [
         "Abel_6-2-2019_Portrait.jpg", #
@@ -108,18 +111,14 @@ for i in interviews:
 
 filters = temp
 
+
 def add_spans_to_text(interview:Interview):
     renderer = EntityRenderer()
-    renderer.colors = {"PERSON": "#03fc41"}
-    renderer.ent_template = """<span style="background: {bg}" class="entity" value="{label}">{text}</span>"""
+    renderer.colors = {"PERSON": "#03fc41", "SENT":"transparent" }
+    renderer.ent_template = """<span id="{id}" style="background: {bg}" class="entity" value="{label}">{text}</span>"""
     parsed = dict(text=interview.text,ents=interview.annotations, title=interview.name, settings={'lang': 'en', 'direction': 'ltr'})
-    return renderer.render([parsed], page=True, minify=True).strip()
+    return renderer.render([parsed], page=False, minify=False).strip()
     
-
-            
-
-
-
 
 
 #TODO, change interviews to list of Interview objects, which load from TEI files in a data directory
@@ -127,12 +126,14 @@ def add_spans_to_text(interview:Interview):
 def index(request:Request):
     #choose three random images from the photographs with a green background
     oral_histories, photographs, teaching = random.sample(photos, 3)
+    interviews, subjects = load_data()
     context = dict(
         request=request,
         interviews=interviews,
         filters= filters,
         oral_histories= oral_histories, 
-        photographs=photographs, 
+        photographs=photographs,
+        subjects=subjects, 
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
@@ -140,15 +141,16 @@ def index(request:Request):
 def interview(request:Request,person:str):
     context = {}
     context['request'] =request
-    interviews = load_data()
+    interviews, subjects = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     context['person'] = person[0]
+    #mark_sentence_spans_with_ids(person[0])
     context['text'] = add_spans_to_text(person[0])
     return templates.TemplateResponse("interview.html", context)
 
 @app.get("/interview_json/{person}")
 def interview_json(person:str):
-    interviews = load_data()
+    interviews, subjects = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     if person:
         return person[0]

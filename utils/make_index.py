@@ -27,6 +27,7 @@ for interview in tqdm(interviews):
             snippet['name'] = interview['name']
             snippet['text'] = interview['text'][snippet['start']:snippet['end']]
             annos.append(snippet)
+            ents.append(snippet) 
    
 idx = lunr(ref="id", fields=["label","text"], documents=annos)
 serialized_idx = idx.serialize()
@@ -53,13 +54,15 @@ for quote in tqdm(annos):
 srsly.write_json((quotes_path / 'quote_lookup.json'), data)
 
 ### ENTS
-
+# for Topics search tab, should include all labels
+# from both ents and annos
+#  
 idx = lunr(ref="id", fields=["label","text"], documents=ents)
 serialized_idx = idx.serialize()
 ents_path = data = Path.cwd().parents[0] / 'assets' / 'lunr' / 'ents.json'
 srsly.write_json(ents_path, serialized_idx)
 
-ents_path = Path.cwd().parents[0] / 'assets' / 'ents'
+ents_path = Path.cwd().parents[0] / 'assets' / 'quotes'
 if not ents_path.exists():
     ents_path.mkdir(parents=True, exist_ok=True)
 

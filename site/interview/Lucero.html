@@ -51,7 +51,7 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migration Encounters</a></h1>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -60,7 +60,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#interviews">Interviews</a></li>
           <!-- <li><a class="nav-link scrollto " href="#photographs">Things We Left Behind</a></li> -->
-          <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#teaching">Teaching Materials</a></li> -->
 
           <li style="margin-left:15px;"><input type="search" class="form-control ds-input" id="search-input" placeholder="Search..." aria-label="Search docs for..." autocomplete="off" data-bd-docs-version="5.0" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;"></li>
            
@@ -88,7 +88,9 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><!DOCTYPE html><html lang="en"><head><title>displaCy</title></head><body style="font-size: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; padding: 4rem 2rem; direction: ltr"><figure style="margin-bottom: 6rem"><h2 style="margin: 0">Lucero</h2><div class="entities" style="line-height: 2.5; direction: ltr"></div></figure></body></html><\p></p>
+            <p><p><h2 style="margin: 0">Lucero</h2><\p>
+
+<p><div class="entities" style="line-height: 2.5; direction: ltr"></div><\p></p>
             
 
         </div>
@@ -137,17 +139,10 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-12 col-md-12">
                         <div class="footer-info">
-                            <h1>Migration Encounters</h1>
-                            <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam
-                                    excepturi quod.</em></p>
-                            <p>
-                                A108 Adam Street <br>
-                                NY 535022, USA<br><br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
-                            </p>
+                            <h1>Migrant Voices</h1>
+                            
                             <div class="social-links mt-3">
                                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -158,36 +153,9 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                        </ul>
-                    </div>
+                   
 
-                    <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Our Services</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Our Newsletter</h4>
-                        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                        <form action="" method="post">
-                            <input type="email" name="email"><input type="submit" value="Subscribe">
-                        </form>
-
-                    </div>
+                    
 
                 </div>
             </div>
@@ -219,7 +187,14 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
+              if (window.location.hostname === 'localhost'){
+                // running as application
+                window.location.replace(`/search?q=${val}&type=interviews`);
+              }
+              else {
+                // running after build
               window.location.replace(`/search.html?q=${val}&type=interviews`);
+              }
           }
       });
       </script>

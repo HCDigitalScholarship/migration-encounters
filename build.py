@@ -9,7 +9,7 @@ def build_home():
     (site_path / 'index.html').write_bytes(page.body)
     
 def build_interviews():
-    interviews = load_data()
+    interviews, subjects = load_data()
     for person in interviews:
         page = interview(Request, person.name)
         interviews_path = Path.cwd() / 'site' / 'interview'
@@ -17,9 +17,18 @@ def build_interviews():
             interviews_path.mkdir(parents=True, exist_ok=True)
         (interviews_path / (person.name +'.html')).write_bytes(page.body)
 
+# serve interview as data
+def build_interviews_json():
+    interviews_path = Path.cwd() / 'site' / 'assets' / 'interviews'
+    if interviews_path.exists():
+        shutil.rmtree(interviews_path)
+    
+    shutil.copytree((Path.cwd() / 'data'), interviews_path)
+
 def build_search():
     page = search(Request)
     (site_path / 'search.html').write_bytes(page.body)
+
 
 if __name__ == '__main__':
     start_time = time.time()
@@ -37,5 +46,6 @@ if __name__ == '__main__':
 
     build_home()
     build_interviews()
+    build_interviews_json()
     build_search()
     print(f"--- {time.time() - start_time} seconds ---")
