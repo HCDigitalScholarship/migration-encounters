@@ -116,7 +116,7 @@ def add_spans_to_text(interview:Interview):
     renderer = EntityRenderer()
     renderer.colors = {"PERSON": "#03fc41", "SENT":"transparent" }
     renderer.ent_template = """<span id="{id}" style="background: {bg}" class="entity" value="{label}">{text}</span>"""
-    parsed = dict(text=interview.text,ents=interview.annotations, title=interview.name, settings={'lang': 'en', 'direction': 'ltr'})
+    parsed = dict(text=interview.text,ents=interview.annotations, settings={'lang': 'en', 'direction': 'ltr'})
     return renderer.render([parsed], page=False, minify=False).strip()
     
 
