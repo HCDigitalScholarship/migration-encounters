@@ -12,22 +12,21 @@ serialized_idx = idx.serialize()
 index_path = data = Path.cwd().parents[0] / 'assets' / 'lunr' / 'interviews.json'
 srsly.write_json(index_path, serialized_idx)
 
-# process student hypothesis annotations and spacy ents
+# process student hypothesis annotations and sentence spans
 annos = []
-ents = []
+sents = []
 for interview in tqdm(interviews):
     for snippet in interview['annotations']: 
-        if snippet['label'].isupper():
+        if snippet['label'] == 'SENT':
             snippet['id'] = str(uuid.uuid4())
             snippet['name'] = interview['name']
             snippet['text'] = interview['text'][snippet['start']:snippet['end']]
-            ents.append(snippet) 
+            sents.append(snippet) 
         else:
             snippet['id'] = str(uuid.uuid4())
             snippet['name'] = interview['name']
             snippet['text'] = interview['text'][snippet['start']:snippet['end']]
             annos.append(snippet)
-            ents.append(snippet) 
    
 idx = lunr(ref="id", fields=["label","text"], documents=annos)
 serialized_idx = idx.serialize()
@@ -53,33 +52,24 @@ for quote in tqdm(annos):
 
 srsly.write_json((quotes_path / 'quote_lookup.json'), data)
 
-### ENTS
-# for Topics search tab, should include all labels
-# from both ents and annos
-#  
-idx = lunr(ref="id", fields=["label","text"], documents=ents)
+### SENTS
+
+idx = lunr(ref="id", fields=["name","text"], documents=sents)
 serialized_idx = idx.serialize()
-ents_path = data = Path.cwd().parents[0] / 'assets' / 'lunr' / 'ents.json'
+ents_path = data = Path.cwd().parents[0] / 'assets' / 'lunr' / 'sents.json'
 srsly.write_json(ents_path, serialized_idx)
 
-ents_path = Path.cwd().parents[0] / 'assets' / 'quotes'
-if not ents_path.exists():
-    ents_path.mkdir(parents=True, exist_ok=True)
-
-# create lookup for ents and interview files
-data = {}
-for quote in tqdm(ents):
-    if quote['label'] not in list(data.keys()):
-        data[quote['label']] = [quote['id']]
-    else:
-        data[quote['label']].append(quote['id'])
-srsly.write_json((ents_path / 'ents_lookup.json'), data)
+sents_path = Path.cwd().parents[0] / 'assets' / 'sents'
+if not sents_path.exists():
+    sents_path.mkdir(parents=True, exist_ok=True)
 
 
-print('writing ent json files')
-for ent in tqdm(ents):
-    ent_path = ents_path / ent['id']
-    srsly.write_json(ent_path, ent)
+
+print('writing sent json files')
+for sent in tqdm(sents):
+    sent_path = sents_path / (sent['id'] + '.json')
+    srsly.write_json(sent_path, sent) 
+
 # lunr only returns the ids of the documents, so we need to fetch data
 # for snippets, create  a json file for each with the snippet text, nave of interviewee and snippet id
 

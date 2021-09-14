@@ -103,11 +103,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-             let goto = window.location.href + `search.html?q=${val}&type=interviews`
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
               window.location.assign(goto);
               }
-          }
-      });
+          });
       </script>
 
     {% block extra_js %}{% endblock %}

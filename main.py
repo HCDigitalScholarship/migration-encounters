@@ -137,7 +137,7 @@ def index(request:Request):
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
-@app.get("/interview/{person}")
+@app.get("/interview/{person}.html")
 def interview(request:Request,person:str):
     context = {}
     context['request'] =request
