@@ -50,7 +50,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <!-- <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a> -->
       <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
@@ -213,7 +213,7 @@
 
     async function fetchSentText(id) {
       try {
-        const response = await fetch(new Request(`../assets/sents/${id}`, {
+        const response = await fetch(new Request(`../assets/sents/${id}.json`, {
           method: 'GET'
         }))
         const json = await response.json()

@@ -6,6 +6,14 @@
 */
 
 /*--------------------------------------------------------------
+# Special 
+--------------------------------------------------------------*/
+
+.search-term {
+
+}
+
+/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
@@ -656,14 +664,14 @@ section {
   float: left;
 }
 
-.counts .count-box span {
+/* .counts .count-box span {
   font-size: 42px;
   line-height: 24px;
   display: block;
   font-weight: 700;
   color: #0b2341;
   margin-left: 50px;
-}
+} */
 
 .counts .count-box p {
   padding: 30px 0 0 0;

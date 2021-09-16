@@ -100,19 +100,27 @@
           ).then(
             function(json){
               sent_idx = lunr.Index.load(json);
-              let sents = sent_idx.search(`+name:${element.id} +text:${query}~1`);
+              let sents = sent_idx.search(`+name:${element.id} +text:${query}`);
               let results = []
               for (i in sents){
-                fetchSentText(sents[i].ref).then(data => {
-                  // #TODO highlight search term in result
-                  element.appendChild(
-                    htmlToElement(
-                      `<a href="../interview/${element.id}.html#${sents[i].ref}">${data.text}</a>`
-                    )
-                  );
-                });
+                // limit to the first 10 results, page freezes if you have 40 interviews with dozens of sents each.
+                if (i < 10) {
+                  fetchSentText(sents[i].ref).then(data => {
+                    // #TODO highlight search term in result
+                    let text = data.text;
+                    if (text.includes(query)) {
+                    
+                      text = text.replace(query, `<mark>${query}</mark>`);
+
+                    }
+                    element.appendChild(
+                      htmlToElement(
+                        `<a href="../interview/${element.id}.html#${sents[i].ref}">${text}</a>`
+                      )
+                    );
+                  });
                 
-            
+                }
               }
               element.children[1].classList.remove('spinner-border');
               return results
