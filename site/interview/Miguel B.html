@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Miguel B</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b7243af4-cc6f-4209-b7e3-5bf723d8b52c" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b7243af4-cc6f-4209-b7e3-5bf723d8b52c" style="background: transparent" class="entity" value="SENT"><br>
    Introduction in Miguel’s words:</span> <span id="5e24283b-108c-4f51-9aab-8e8be976d635" style="background: transparent" class="entity" value="SENT">I came back to Mexico filled with excitement and started to work on myself.</span> <span id="ee507ea8-4522-4738-ab0e-d74eb2c35b41" style="background: transparent" class="entity" value="SENT">I started my changes, I am a man.</span> <span id="6250feb8-87fd-4f3e-bbdd-b4245c59f70e" style="background: transparent" class="entity" value="SENT"> I have always been a man.</span> <span id="664e8f09-dcd3-4ae4-b413-21c6a11792be" style="background: transparent" class="entity" value="SENT">I am more healthy mentally, I feel amazing and blessed.</span> <span id="7b240316-92c8-4d94-bfec-9710a951e481" style="background: transparent" class="entity" value="SENT">Now with a beautiful family.</span> <span id="a51bce9c-0e02-4f1a-aa34-b22a27a44331" style="background: transparent" class="entity" value="SENT">A gorgeous wife, Josselin and a handsome son Emir.</span> <span id="7d551c41-91ec-4760-b512-6ddafc413452" style="background: transparent" class="entity" value="SENT">I am Miguel.</span><span id="1e7776e3-04e6-47e6-9501-3f5840646ed7" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  <br>
@@ -677,7 +675,7 @@
  <br>
  <br>
    </span><span id="89b84c66-9482-49b9-b25e-995494a52f6a" style="background: transparent" class="entity" value="SENT">Sergio:</span> <span id="2c164ba7-0a25-4913-8d9d-4264127b57e4" style="background: transparent" class="entity" value="SENT">Okay.</span> <span id="e01afae8-1ad6-470e-9263-f3399242a67d" style="background: transparent" class="entity" value="SENT">Thank you so much for your time Miguel.</span><span id="b9d08079-f84e-42a2-9db3-8e8b3671ce4a" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -774,16 +772,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

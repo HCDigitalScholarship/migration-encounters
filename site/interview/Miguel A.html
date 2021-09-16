@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Miguel A</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="5319d1c3-f65e-4272-831a-bb387bbfa328" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="5319d1c3-f65e-4272-831a-bb387bbfa328" style="background: transparent" class="entity" value="SENT"><br>
    </span><span id="16bc0c65-f6e3-484e-b5e9-22418e184e65" style="background: transparent" class="entity" value="SENT">Anita: How old are you Miguel?<br>
  <br>
  &lt;br/&gt;<br>
@@ -1696,7 +1694,7 @@
  </span><span id="a533681e-580d-42f7-8fc8-6c8331f2db06" style="background: transparent" class="entity" value="SENT">&lt;br/&gt;<br>
  <br>
    </span><span id="64defb3f-692e-4b38-9149-125de0f6e277" style="background: transparent" class="entity" value="SENT">Anita:</span> <span id="a9f11e7a-e588-4fdc-a593-c6c12bda7f68" style="background: transparent" class="entity" value="SENT">Thank you so much.</span><span id="69355033-2a7a-4b1d-b44a-026099bd2a75" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -1793,16 +1791,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

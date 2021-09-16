@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Laura B</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="078b0574-b473-4c2f-8096-b9eb8745e561" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="078b0574-b473-4c2f-8096-b9eb8745e561" style="background: transparent" class="entity" value="SENT"><br>
    Anne:</span> <span id="bc752098-df1a-4179-adf5-1c3367ebe9ec" style="background: transparent" class="entity" value="SENT">Could you tell us the circumstances of your coming to U.S.?</span> <span id="590afc23-8f82-4408-bae5-1bc758adb7a4" style="background: transparent" class="entity" value="SENT">Why you<br>
    came, why your parents might have brought you, how old you were, your first<br>
    impressions</span><span id="84585e63-0177-4a0e-85a3-7fe2545544a5" style="background: transparent" class="entity" value="SENT">?</span><span id="7a5293c8-c6ca-4b5e-ac51-7e1cd3e8a052" style="background: transparent" class="entity" value="SENT"><br>
@@ -1086,7 +1084,7 @@
  <br>
  <br>
    </span><span id="7b4313cf-6284-4194-9f39-9868e77f38df" style="background: transparent" class="entity" value="SENT">Laura:</span> <span id="f8c219d4-644c-4b4b-bccd-fcdf220a4dc3" style="background: transparent" class="entity" value="SENT">Yeah, they didn't know what to do with me.</span><span id="f467edf2-7c20-4343-ab4c-b8d6b3bf1834" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -1183,16 +1181,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

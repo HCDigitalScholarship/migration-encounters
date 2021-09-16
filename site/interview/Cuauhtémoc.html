@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Cuauhtémoc</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="4e47e340-6385-4f3b-adf5-ea9cfec5d9e2" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="4e47e340-6385-4f3b-adf5-ea9cfec5d9e2" style="background: transparent" class="entity" value="SENT"><br>
    Claudia:</span> <span id="b3e83465-81ec-4e0a-ba3e-cb51f4eb2faa" style="background: transparent" class="entity" value="SENT">My first question is how old were you when you went to the United<br>
    States?</span><span id="6d8d6393-0170-4c32-be33-27574d6f29cd" style="background: transparent" class="entity" value="SENT"><br>
  <br>
@@ -2431,7 +2429,7 @@
    <br>
    <br>
      Cuauhtémoc : You're welcome.</span><span id="e22b8da4-9f46-41ab-bcc3-184b70f0d2d7" style="background: transparent" class="entity" value="SENT"><br>
-   </span></div><\p></p>
+   </span></div><\p>
             
 
         </div>
@@ -2528,16 +2526,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

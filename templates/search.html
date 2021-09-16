@@ -80,7 +80,7 @@
 
     async function fetchSentText(id) {
       try {
-        const response = await fetch(new Request(`../assets/sents/${id}`, {
+        const response = await fetch(new Request(`../assets/sents/${id}.json`, {
           method: 'GET'
         }))
         const json = await response.json()
@@ -100,7 +100,7 @@
           ).then(
             function(json){
               sent_idx = lunr.Index.load(json);
-              let sents = sent_idx.search(`+name:${element.id} +text:${query}~2`);
+              let sents = sent_idx.search(`+name:${element.id} +text:${query}~1`);
               let results = []
               for (i in sents){
                 fetchSentText(sents[i].ref).then(data => {
@@ -127,7 +127,7 @@
     const query = urlParams.get("q");
     const type = urlParams.get("type");
     function set_type(type){
-      window.location.href =`../search?q=${query}&type=${type}`; 
+      window.location.href =`../search.html?q=${query}&type=${type}`; 
     };
     
     let interview_results;

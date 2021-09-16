@@ -1,5 +1,7 @@
 import httpx
 import re
+import uuid 
+
 import spacy
 from rapidfuzz import process, fuzz
 from pathlib import Path
@@ -302,7 +304,7 @@ def collect_annotations(interview_name: str):
 
             # defining a dictionary for our parsed annotation
             parsed_annotation = {}
-
+            parsed_annotation['id'] = str(uuid.uuid4())
             # adding the relevant data to our parsed data dictionary
             parsed_annotation["type"] = "text"
             parsed_annotation["start"] = working_annotation["start"]

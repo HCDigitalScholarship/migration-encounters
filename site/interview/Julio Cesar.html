@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Julio Cesar</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="97df2112-2c07-42f2-8b9c-4ae5c1936c03" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="97df2112-2c07-42f2-8b9c-4ae5c1936c03" style="background: transparent" class="entity" value="SENT"><br>
    </span><span id="b8fb7734-60df-47a4-b085-9b0d6591c154" style="background: transparent" class="entity" value="SENT">Claudia:</span> <span id="9a41d920-0bfd-43f2-b1ac-52cdd9db5748" style="background: transparent" class="entity" value="SENT">It's really your time to speak and go on and tell me your story.</span><span id="e3a6c0f5-5e6c-4feb-9b56-608fd8aa383a" style="background: transparent" class="entity" value="SENT"><br>
    But I want to tell you how important this story is not just for the study,<br>
    but just in general, to have people know it and hear it and understand the<br>
@@ -1182,7 +1180,7 @@
  <br>
  <br>
    </span><span id="3bafd941-c380-49c0-84b6-9a07a90b48be" style="background: transparent" class="entity" value="SENT">Claudia:</span> <span id="ecfb122d-d3f4-4e26-b069-d43fdcbd9ca6" style="background: transparent" class="entity" value="SENT">No, thank you.</span><span id="1f3d21ca-0090-44eb-b58a-aa6701b53ca3" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -1279,16 +1277,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

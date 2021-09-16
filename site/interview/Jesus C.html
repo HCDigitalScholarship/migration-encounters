@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Jesus C</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="3457a266-235d-4ab6-bb2e-bccfc48b7184" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="3457a266-235d-4ab6-bb2e-bccfc48b7184" style="background: transparent" class="entity" value="SENT"><br>
  </span><span id="459fd2af-b6b9-4929-aad0-2d38e8b99a78" style="background: transparent" class="entity" value="SENT">Lizzy:</span> <span id="1eba2b46-e4b7-4e67-a411-bc3805342336" style="background: transparent" class="entity" value="SENT">How old were you when you came to the US?</span><span id="3dc10e79-c8f9-4d0b-8498-29113cb1a0e6" style="background: transparent" class="entity" value="SENT"><br>
       <br>
       <br>
@@ -1204,7 +1202,7 @@
       <br>
  Jesus:</span> <span id="11af07f9-f464-4ebf-91ce-9340e8c41745" style="background: transparent" class="entity" value="SENT">And you change the world.</span> <span id="9effa219-447a-4f9c-8af1-62977b0e6277" style="background: transparent" class="entity" value="SENT">It's by unifying everybody.</span> <span id="9d4a6bf6-5c53-45bf-bbb8-5967d473c34f" style="background: transparent" class="entity" value="SENT">I think<br>
  everybody would be happy and everybody would be good.</span><span id="6012860b-d265-49ce-acb0-b021f2fd9550" style="background: transparent" class="entity" value="SENT"><br>
-      </span></div><\p></p>
+      </span></div><\p>
             
 
         </div>
@@ -1301,16 +1299,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

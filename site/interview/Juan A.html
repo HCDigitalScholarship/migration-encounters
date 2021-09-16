@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Juan A</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="20d6da72-ae8e-4545-8981-f85bcced8329" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="20d6da72-ae8e-4545-8981-f85bcced8329" style="background: transparent" class="entity" value="SENT"><br>
    Adrian:</span> <span id="389c1047-1f51-4a26-b301-d32e80352842" style="background: transparent" class="entity" value="SENT">Can you tell me about your first day in the United States, please?</span><span id="ce08f613-5b48-4918-b3e4-9a269d718298" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  <br>
@@ -500,7 +498,7 @@
    for this government to really get their act together and do something about<br>
    it.</span> <span id="0007b5c5-0627-4081-a42c-225e1c4767fa" style="background: transparent" class="entity" value="SENT">Enough is enough, and they really need to start doing their jobs and<br>
    getting their hands out of their pockets and do something about it.</span><span id="3c66200b-4121-4dc2-8b6d-56d5ddca84fc" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -597,16 +595,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

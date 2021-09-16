@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Luis B</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="ea07934f-cb82-4f45-b88f-99b743943a14" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="ea07934f-cb82-4f45-b88f-99b743943a14" style="background: transparent" class="entity" value="SENT"><br>
    Anita:</span> <span id="2eb51a6a-99f7-4b83-8f13-c2bda8269cf5" style="background: transparent" class="entity" value="SENT">If you could think back on your experience in the U.S. what would<br>
    you say is the best part of it, and what was the worst?</span><span id="61740c10-7d4d-44c4-8403-ae39c8ee3246" style="background: transparent" class="entity" value="SENT"><br>
  <br>
@@ -746,7 +744,7 @@
  <br>
  <br>
    </span><span id="dbf1a915-a3ec-4eb9-b0a1-50fb72ad39d5" style="background: transparent" class="entity" value="SENT">Luis:</span> <span id="846c8bc0-4165-4e9a-a0f5-9deb3c39ee82" style="background: transparent" class="entity" value="SENT">Thank you.</span> <span id="7f2bcd16-2110-4ad7-8bbb-e8509d39c2ad" style="background: transparent" class="entity" value="SENT">I don't know.</span><span id="88d16402-6065-48d6-ae12-fdf98281790e" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -843,16 +841,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Laura A</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="ce531209-7e3b-4a9b-833c-233a35c55c67" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="ce531209-7e3b-4a9b-833c-233a35c55c67" style="background: transparent" class="entity" value="SENT"><br>
    Anne:</span> <span id="f599c370-231d-4fba-b10b-91166d01998b" style="background: transparent" class="entity" value="SENT">How old were you when you went to the US?</span><span id="1bf966ac-0a87-40d5-9e12-bba12e1313a6" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  <br>
@@ -655,7 +653,7 @@
    life, you don't have to go through any other people, and ask them to help<br>
    you.</span> <span id="5357f13d-b6a4-49b7-96b8-fd1b78976bd1" style="background: transparent" class="entity" value="SENT">Because people are never going to help you.</span> <span id="c46d9abf-5a78-483b-a89b-81c56f24d164" style="background: transparent" class="entity" value="SENT">Nobody is going to help<br>
    you if you don't make it work</span><span id="248a5ced-7e55-4b3f-8c2a-ea47eaf84c3b" style="background: transparent" class="entity" value="SENT">.</span><span id="0a4081a8-5594-465b-9f34-0e38ef708f73" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -752,16 +750,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

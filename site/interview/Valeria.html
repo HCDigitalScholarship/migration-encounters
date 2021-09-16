@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Valeria</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b3b4b875-b428-434f-a251-b91c3f8768c6" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b3b4b875-b428-434f-a251-b91c3f8768c6" style="background: transparent" class="entity" value="SENT"><br>
    Anita: I don't want to make you relive horrible experiences or talking<br>
    about it.</span> <span id="a2782ed4-13b8-41ce-bb1c-90c90ff24311" style="background: transparent" class="entity" value="SENT">So it's up to you what you want to share or not.</span> <span id="6b1b6709-9d88-4d0d-9372-de73bdca53e3" style="background: transparent" class="entity" value="SENT">But if you were<br>
    willing to share a little bit the reasons for you leaving for the United<br>
@@ -859,7 +857,7 @@
  </span><span id="1408e504-43e6-448c-a009-789fefdb3f28" style="background: transparent" class="entity" value="SENT">&lt;br/&gt;<br>
  <br>
    Valeria:</span> <span id="e2f91ac1-5c5f-4f79-b809-03b48dcb25d3" style="background: transparent" class="entity" value="SENT">Yeah, I could always do that, but I want to be prepared first.</span><span id="cd799d9f-dc0d-4526-a9c2-b288198e42c8" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -956,16 +954,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

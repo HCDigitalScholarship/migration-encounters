@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Joseph</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="51914340-8ba8-4a08-81fd-cd2ffb316efe" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="51914340-8ba8-4a08-81fd-cd2ffb316efe" style="background: transparent" class="entity" value="SENT"><br>
    </span><span id="a44e6dff-42da-4417-9723-5ce26aa124da" style="background: transparent" class="entity" value="SENT">Anne:</span> <span id="bdadd941-3c0f-4d87-bf1c-a919f7a62e3f" style="background: transparent" class="entity" value="SENT">So Joseph, thank you so much for agreeing to talk to us.</span><span id="644c7503-3b1e-4fb8-aee0-17ee4a45ccc8" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  <br>
@@ -1512,7 +1510,7 @@
    <br>
    <br>
      </span><span id="df003871-c6e2-4cff-a319-a831d047f8df" style="background: transparent" class="entity" value="SENT">Joseph: Hopefully.</span> <span id="4dc3e2ac-22ec-40c4-bdf0-02dc7ce1aac2" style="background: transparent" class="entity" value="SENT">I wish that.</span><span id="6a80c115-33b1-41e5-883a-62dda06b5b65" style="background: transparent" class="entity" value="SENT"><br>
-   </span></div><\p></p>
+   </span></div><\p>
             
 
         </div>
@@ -1609,16 +1607,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

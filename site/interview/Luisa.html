@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Luisa</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b9d1ddc2-11c4-4aee-a31f-c83168509d8b" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="b9d1ddc2-11c4-4aee-a31f-c83168509d8b" style="background: transparent" class="entity" value="SENT"><br>
    Anita: Let’s begin by you telling me a little bit about migrating to the<br>
    United States.</span><span id="89d57508-ed2e-45b0-8d60-35fea836eab9" style="background: transparent" class="entity" value="SENT"><br>
  <br>
@@ -5391,7 +5389,7 @@
    lot of cases where they're like, &quot;Dude, it's just too hard. It's too hard<br>
    to keep going. They're asking me to do everything that I've already done,<br>
    and what they're asking me to do is subpar compared to the education that<br>
-   I've had.&quot; So it's extremely discourag</span>ing.</br> </div><\p></p>
+   I've had.&quot; So it's extremely discourag</span>ing.</br> </div><\p>
             
 
         </div>
@@ -5488,16 +5486,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

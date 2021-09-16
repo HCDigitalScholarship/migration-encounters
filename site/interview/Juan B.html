@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Juan B</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="71515579-4ee3-4c0e-a46a-ae4b7cf102d4" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="71515579-4ee3-4c0e-a46a-ae4b7cf102d4" style="background: transparent" class="entity" value="SENT"><br>
    Anne:</span> <span id="bebc101a-a8b0-47c1-bf01-801004371dc7" style="background: transparent" class="entity" value="SENT">Let’s start by you telling me a little bit about the circumstances<br>
    behind you coming to the United States, whenever you came, and how old you<br>
    were, what your impressions were, what motivated you or your family to<br>
@@ -877,7 +875,7 @@
  <br>
  <br>
    Juan:</span> <span id="3190aff5-bf47-4518-bf13-8fa392dfd853" style="background: transparent" class="entity" value="SENT">Yeah, no problem.</span><span id="f7048230-711f-40b1-aab4-b00f5f4e8f5d" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -974,16 +972,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

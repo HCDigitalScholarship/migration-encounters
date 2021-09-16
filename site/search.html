@@ -49,9 +49,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -77,7 +77,7 @@
       <div class="row no-gutters">
         <h3 id="result_title">Search Results</h3>
 
-        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+        <div class="col-lg-6 col-md-6 d-md-flex align-items-md-stretch">
           <div
             onclick="set_type('interviews');"
             class="count-box interview_count_box"
@@ -86,7 +86,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+        <div class="col-lg-6 col-md-6 d-md-flex align-items-md-stretch">
           <div
             onclick="set_type('quotes');"
             class="count-box annotations_count_box"
@@ -95,11 +95,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
-          <div onclick="set_type('ents');" class="count-box ents_count_box">
-            <h4>Topics</h4>
-          </div>
-        </div>
+        
       </div>
 
       <div class="row no-gutters" style="margin-top: 30px">
@@ -108,35 +104,31 @@
         </div>
       </div>
     </div>
-  </section>
-  <!-- End Counts Section -->
 
-  <!-- ======= About Section ======= -->
-  <section id="about" class="why-us section-bg">
-    <div class="container-fluid" data-aos="fade-up">
-      <div class="row">
-        <div
-          class="
-            col-lg-12
-            d-flex
-            flex-column
-            justify-content-center
-            align-items-stretch
-          "
-        >
-          <div class="content">
-            <div class="section-title">
-              <h2></h2>
-              <p></p>
-            </div>
-
+    <div class="row">
+      <div
+        class="
+          col-lg-12
+          d-flex
+          flex-column
+          justify-content-center
+          align-items-stretch
+        "
+      >
+        <div class="content">
+          <div class="section-title">
+            <h2></h2>
             <p></p>
           </div>
+
+          <p></p>
         </div>
       </div>
     </div>
   </section>
-  <!-- End About Section -->
+  <!-- End Counts Section -->
+
+  
 
   
     </main><!-- End #main -->
@@ -195,16 +187,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     
@@ -213,29 +199,68 @@
   <script src="https://unpkg.com/lunr/lunr.js"></script>
   <script>
     
-
+ 
     function htmlToElement(html) {
       var template = document.createElement("template");
       html = html.trim(); // Never return a text node of whitespace as the result
       template.innerHTML = html;
       return template.content.firstChild;
     }
-    function get_result_in_context(interview) {
-      fetch(`../assets/interviews/${interview}.json`)
-        .then(function (u) {
-          return u.json();
-        })
-        .then(function (json) {
-          console.log(json)
-        })
+
+
+    
+
+
+    async function fetchSentText(id) {
+      try {
+        const response = await fetch(new Request(`../assets/sents/${id}`, {
+          method: 'GET'
+        }))
+        const json = await response.json()
+        return json
+      } catch (e) {
+        console.error('Something went wrong', e)
+      }
     }
+    
+    
+
+
+    async function interview_sents(element, query){
+          let sent_idx;    
+          fetch("../assets/lunr/sents.json").then(
+            function(u){ return u.json();}
+          ).then(
+            function(json){
+              sent_idx = lunr.Index.load(json);
+              let sents = sent_idx.search(`+name:${element.id} +text:${query}~1`);
+              let results = []
+              for (i in sents){
+                fetchSentText(sents[i].ref).then(data => {
+                  // #TODO highlight search term in result
+                  element.appendChild(
+                    htmlToElement(
+                      `<a href="../interview/${element.id}.html#${sents[i].ref}">${data.text}</a>`
+                    )
+                  );
+                });
+                
+            
+              }
+              element.children[1].classList.remove('spinner-border');
+              return results
+            }
+          )
+    }
+    
+
     // Access query from the URL
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     const query = urlParams.get("q");
     const type = urlParams.get("type");
     function set_type(type){
-      window.location.href =`../search?q=${query}&type=${type}`; 
+      window.location.href =`../search.html?q=${query}&type=${type}`; 
     };
     
     let interview_results;
@@ -252,6 +277,7 @@
         .then(function (json) {
           const interview_idx = lunr.Index.load(json);
           interview_results = interview_idx.search(query);
+          
           document
             .querySelector(".interview_count_box")
             .appendChild(
@@ -259,17 +285,23 @@
             );
           if (type == "interviews") {
             //set box as active 
+           
+
             document.querySelector(".interview_count_box").classList.add("active");
             for (i in interview_results) {
               if (interview_results[i].score > 0) {
-                let result_in_context = get_result_in_context(interview_results[i].ref);
+                // get sents for each interview in results
+                
                 document
                   .querySelector(".interviews")
                   .appendChild(
                     htmlToElement(
-                      `<div style="border: 1px inset rgba(95,81,164,0.26);
-                      border-radius: 20px; padding:50px;" onclick="window.location.href='../interview/${interview_results[i].ref}'">
-                      <h4>${interview_results[i].ref}</h4>
+                      `<div id="${interview_results[i].ref}" style="border: 1px inset rgba(95,81,164,0.26);
+                      border-radius: 20px; padding:50px;" onclick="window.location.href='../interview/${interview_results[i].ref}.html'">
+                      <h4>${interview_results[i].ref}</h4> 
+                      <div class="spinner-border spinner-border-sm" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                      </div>
                       </div>`
                     )
                   );
@@ -281,6 +313,15 @@
                 .appendChild(htmlToElement("<h4>No results</h4>"));
             }
           }
+
+          // For each of the interview results, populate sentence links 
+          let interview_elems = document.querySelector(".interviews").children; 
+          [].forEach.call(interview_elems, function(e) {
+            interview_sents(e, query);
+            
+            
+            
+          });
 
           return interview_results;
         });
@@ -313,7 +354,7 @@
                     htmlToElement(
                       `<div style="border: 1px inset rgba(95,81,164,0.26);
                       border-radius: 20px; padding:50px;">
-                      <a href="../interview/${data.name}">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
+                      <a href="../interview/${data.name}.html">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
                         <p>${data.text.replace(/\n/g, "<br />")}</p>
                         <p></p>
                       </div>`
@@ -339,53 +380,7 @@
           
         });
 
-      fetch("../assets/lunr/ents.json")
-        .then(function (u) {
-          return u.json();
-        })
-        .then(function (json) {
-          const ents_idx = lunr.Index.load(json);
-          ents_results = ents_idx.search(query);
-          
-        if (type == "ents") {
-          for (i in ents_results) {
-            console.log(ents_results[i].ref,ents_results[i].score);
-            
-              let url = '../assets/quotes/'+ents_results[i].ref;
-              fetch(url).then((resp) => resp.json())
-              .then(function(data) {
-                document
-                .querySelector(".interviews")
-                .appendChild(
-                  htmlToElement(
-                    `<div style="border: 1px inset rgba(95,81,164,0.26);
-                    border-radius: 20px; padding:50px;">
-                    <p>${ents_results[i].score}</p>
-                    
-                    <a href="../label/${data.id}">${data.label}</a>
-                      <p>${data.text.replace(/\n/g, "<br />")}</p>
-                      <p></p>
-                    </div>`
-                  )
-                );
-              })
-              //fetch quote json
-              //text
-              // link to interview from name
-              // label
-
-              
-            
-          }
-          
-          
-          
-        }
-        document
-        .querySelector(".ents_count_box")
-        .appendChild(htmlToElement("<h4>" + ents_results.length + "</h4>"));
-      });
-
+      
       
     } else {
       console.log("no query");

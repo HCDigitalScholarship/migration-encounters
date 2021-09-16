@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Ivan B</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="324f8205-8e8b-4fd3-9b8c-88d1f97ab2fb" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="324f8205-8e8b-4fd3-9b8c-88d1f97ab2fb" style="background: transparent" class="entity" value="SENT"><br>
    </span><span id="337512a0-85e0-4bdb-aea2-c6ce6c3576b6" style="background: transparent" class="entity" value="SENT">Anne:</span> <span id="f434f8db-c683-42e7-a8ee-b3f7e6fabb29" style="background: transparent" class="entity" value="SENT">Okay, so this is Anne again.</span><span id="f359bc5e-ff89-4b99-96e9-00945ceaf085" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  </span><span id="9d0e9a46-6ec8-40e1-a9fb-68b90528b3e6" style="background: transparent" class="entity" value="SENT">&lt;br/&gt;<br>
@@ -1149,7 +1147,7 @@
  &lt;br/&gt;</span><span id="561da969-9329-4991-8ad0-bf5d3f2db85a" style="background: transparent" class="entity" value="SENT"><br>
  <br>
    </span><span id="56746e19-00ed-41db-a3c4-a1ebe8fb5e07" style="background: transparent" class="entity" value="SENT">Anne:</span> <span id="9b0a708f-4a5f-4971-a082-9929ac2eff16" style="background: transparent" class="entity" value="SENT">Well, thank you.</span> <span id="47bd61a8-a867-45e4-959e-9370871d96b0" style="background: transparent" class="entity" value="SENT">That was great.</span> <span id="efca5387-6cc1-4b62-bc0a-3a140fb7ec99" style="background: transparent" class="entity" value="SENT">That was great.</span> <span id="9df4e08c-5a60-4643-b730-a05ae9290f3a" style="background: transparent" class="entity" value="SENT">Thank you so much.</span><span id="566af776-2cbc-4fb3-a67c-f70ae191e352" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -1246,16 +1244,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     

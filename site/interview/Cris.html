@@ -51,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo"><img src="../assets/img/mv_idea1.png" alt="" class="img-fluid"></a>
+      <h1 class="logo"><a href="/">Migrant Voices</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -88,9 +88,7 @@
         <audio src=""></audio>
         <br>
         <div class="content">
-            <p><p><h2 style="margin: 0">Cris</h2><\p>
-
-<p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="3f9bf1dc-44c9-481b-a8df-0780125da68b" style="background: transparent" class="entity" value="SENT"><br>
+            <p><div class="entities" style="line-height: 2.5; direction: ltr"><span id="3f9bf1dc-44c9-481b-a8df-0780125da68b" style="background: transparent" class="entity" value="SENT"><br>
    Lizzy:</span> <span id="37ed078a-3dde-454c-a15a-63d7e63544d4" style="background: transparent" class="entity" value="SENT">How old were you when you left Mexico?</span><span id="3c07ac67-d055-4b9c-84dd-97e4fc05ce6c" style="background: transparent" class="entity" value="SENT"><br>
  <br>
  <br>
@@ -1906,7 +1904,7 @@
  <br>
  <br>
    </span><span id="66965d47-1be3-471e-81f4-69482992160c" style="background: transparent" class="entity" value="SENT">Cris:</span> <span id="19200291-389a-4b6f-91f8-d84a84349dba" style="background: transparent" class="entity" value="SENT">Yeah.</span> <span id="65f9c74a-cdf7-42ac-8a0e-fb921ff927e5" style="background: transparent" class="entity" value="SENT">I'm a carnivore.</span> <span id="31a5953a-20de-4e40-9aa9-5b885a671c4e" style="background: transparent" class="entity" value="SENT">[Laughs].</span><span id="a4beb441-5783-4ba8-a61f-10f65061874e" style="background: transparent" class="entity" value="SENT"><br>
- </span></div><\p></p>
+ </span></div><\p>
             
 
         </div>
@@ -2003,16 +2001,10 @@
         document.querySelector('#search-input').addEventListener('keyup', function() {
           let val = this.value;
           if (event.keyCode === 13) {
-              if (window.location.hostname === 'localhost'){
-                // running as application
-                window.location.replace(`/search?q=${val}&type=interviews`);
+             let goto = window.location.origin + `/search.html?q=${val}&type=interviews`
+              window.location.assign(goto);
               }
-              else {
-                // running after build
-              window.location.replace(`/search.html?q=${val}&type=interviews`);
-              }
-          }
-      });
+          });
       </script>
 
     
