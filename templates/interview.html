@@ -3,11 +3,11 @@
 <!-- hello there -->
 <link href="../assets/css/interview.css" rel="stylesheet">
 {% endblock %}
-
+{% block content %}
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-                {% block content %}
+                
                 <div class="img-fluid" id="sticky_image_div">
                 <img  class="img-fluid" src="../assets/img/portraits/{{ person.portrait }}" 
                 alt="portrait of {{ person.name }}">
