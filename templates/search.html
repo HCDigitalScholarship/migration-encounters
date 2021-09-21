@@ -93,9 +93,12 @@
     
 
 
-    async function interview_sents(element, name, query){
-          let sent_idx;
-              
+  async function interview_sents(element, name, query){
+      
+      
+      let sent_idx;
+      element.classList.remove("bi-arrow-bar-right")
+      element.classList.add("bi-arrow-bar-down")
           fetch("../assets/lunr/sents.json").then(
             function(u){ return u.json();}
           ).then(
@@ -114,20 +117,22 @@
                       text = text.replace(query, `<mark>${query}</mark>`);
 
                     }
-                    element.parentElement.appendChild(
+                    element.parentElement.querySelector("ul").appendChild(
                       htmlToElement(
-                        `<a style="color:black;" href="../interview/${name}.html#${sents[i].ref}">${text}</a>`
+                        `<li><a style="color:black;" href="../interview/${name}.html#${sents[i].ref}">${text}</a></li>`
                       )
                     );
                   });
                 
                 }
               }
-              
+              element.style.display = "none";
               return results
             }
           )
     }
+    
+      
     
 
     // Access query from the URL
@@ -175,6 +180,7 @@
                       `<div id="${interview_results[i].ref}" style="border: 1px inset rgba(95,81,164,0.26);
                       border-radius: 20px; padding:50px;">
                       <h4 onclick="window.location.href='../interview/${interview_results[i].ref}.html'">${interview_results[i].ref}</h4><i onclick="interview_sents(this, interview_results[i].ref, query);"class="bi bi-arrow-bar-right"></i>
+                      <ul></ul>
                       </div>`
                     )
                   );
