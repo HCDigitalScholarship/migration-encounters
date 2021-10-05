@@ -27,16 +27,16 @@ fetch('../assets/lunr/shuffle.json')
   .then(function (response) {
     // Store the total number of pages so we know when to disable the "load more" button.
     totalPages = response.interviews.length;
-    let counter = 9;
+    let counter = 12;
     // Create and insert the markup.
-    var markup = getItemMarkup(response.interviews.slice(0, 9));
+    var markup = getItemMarkup(response.interviews.slice(0, 12));
     appendMarkupToGrid(markup);
     function addMore() {
         if (counter <= totalPages) {
-        var markup = getItemMarkup(response.interviews.slice(counter, counter+9));
+        var markup = getItemMarkup(response.interviews.slice(counter, counter+12));
         appendMarkupToGrid(markup);
         // Save the total number of new items returned from the API.
-      var itemsFromResponse = 9;
+      var itemsFromResponse = 12;
       // Get an array of elements that were just added to the grid above.
       var allItemsInGrid = Array.from(gridContainerElement.children);
       // Use negative beginning index to extract items from the end of the array.
@@ -44,7 +44,7 @@ fetch('../assets/lunr/shuffle.json')
 
       // Notify the shuffle instance that new items were added.
       shuffleInstance.add(newItems);
-        counter += 9;
+        counter += 12;
        
         }
     }
@@ -77,12 +77,12 @@ function getMarkupFromData(dataForSingleItem) {
   if (dataGroups === undefined) {
     dataGroups = "";
   }
-  return `<figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups='${dataGroups}'
+  return `<figure  class="picture-item rounded js-item img-item col-3@sm col-3@xs" data-groups='${dataGroups}'
   data-date-created="${dataForSingleItem.date}" data-title=""
   data-author="Anne Preston">
     <div >
       <div>
-        <div class="aspect aspect--16x9">
+        <div class="aspect aspect--16x9"> 
             <div class="aspect__inner">
         <a href="/interview/${dataForSingleItem.name}.html"  rel="noopener"
             title="${dataForSingleItem.name}"><img 
@@ -96,7 +96,7 @@ function getMarkupFromData(dataForSingleItem) {
 
 
 
-/**
+/** 
  * Convert an array of item objects to HTML markup.
  * @param {object[]} items Items array.
  * @return {string}
