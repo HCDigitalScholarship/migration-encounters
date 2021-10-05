@@ -1,9 +1,0 @@
-{
-  "type":"text",
-  "start":29412,
-  "end":29418,
-  "text":"     something that will help you.\"\n   \n   \n     Conversation briefly interrupted.\n   \n   \n     Joseph: And so, decided to leave that company.\n   \n   \n     Anne: How long were you there?\n   \n   \n     Joseph: Six months. I was there six months, but then someone corrupted\n     me. They're like, \"Hey, we can use a business analyst like you.\" And\n     I'm like, \"Ooh, I want to go.\" And like, \"Can you help m",
-  "label":"PERSON",
-  "id":"321478f6-6838-495d-befe-ebac755b671d",
-  "name":"Joseph"
-}

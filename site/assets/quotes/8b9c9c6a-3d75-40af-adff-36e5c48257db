@@ -1,9 +1,0 @@
-{
-  "type":"text",
-  "start":51419,
-  "end":51423,
-  "text":"     Anne: Do you ever see them?\n   \n   \n     Joseph: Mom and dad, no. Brother and sister, maybe sometimes.\n   \n   \n     Anne: Do you have relatives in Mexico?\n   \n   \n     Joseph: Yeah.\n   \n   \n     Anne: Grandparents?\n   \n   \n     Joseph: Grandma, only.\n   \n   \n     Anne: Do you see her?\n   \n   \n     Joseph: Try to every weekend. I try too.\n   \n   \n     Anne: So, you would never go to the US again?\n",
-  "label":"PERSON",
-  "id":"8b9c9c6a-3d75-40af-adff-36e5c48257db",
-  "name":"Joseph"
-}

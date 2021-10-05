@@ -1,9 +1,0 @@
-{
-  "type":"text",
-  "start":51181,
-  "end":51183,
-  "text":"urrently live with anyone or do you live alone?\n   \n   \n     Joseph: I found roommates.\n   \n   \n     Anne: So, friends?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you still have relatives in the US?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you ever see them?\n   \n   \n     Joseph: Mom and dad, no. Brother and sister, maybe sometimes.\n   \n   \n     Anne: Do you have relatives in Mexico?\n   \n",
-  "label":"GPE",
-  "id":"dbe0ce02-0f5d-4be3-b038-6e6c51a04cbe",
-  "name":"Joseph"
-}

@@ -1,9 +1,0 @@
-{
-  "type":"text",
-  "start":3878,
-  "end":3884,
-  "text":"\n   Anne: Are any of your relatives U.S. citizens?\n \n \n   Jesus: My brother.\n \n \n   Anne: He was born there?\n \n \n   Jesus: Well, no, he was born here. Oh, and my sister too. My brother was\n   born in Mexico.\n \n \n   Anne: But he became a citizen?\n \n \n   Jesus: Yes, just recently.\n \n \n   Anne: So, it\u2019s your brother and your sister?\n \n \n   Jesus: Yeah.\n \n \n   Anne: Have they come to visit you?\n \n \n   Jesus",
-  "label":"GPE",
-  "id":"ec28ae74-327e-4ea9-b0b3-15282d3f3bba",
-  "name":"Jesus A"
-}

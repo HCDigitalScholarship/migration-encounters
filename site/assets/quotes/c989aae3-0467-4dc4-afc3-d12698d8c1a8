@@ -1,9 +1,0 @@
-{
-  "type":"text",
-  "start":8259,
-  "end":8266,
-  "text":"well, just driving without the seat belt.\n \n \n   Anita: Wow. But, were you living in Maryland?\n \n \n   Erik: Georgia.\n \n \n   Anita: Did you have a Maryland license?\n \n \n   Erik: Yep. But, if you go to Georgia, they ask you for green card and\n   social security which I don't have. So I was driving with my Maryland\n   license.\n \n \n   Anita: Got it. So then, he turned you over to ICE?\n \n \n   Erik: Yeah.\n \n \n",
-  "label":"GPE",
-  "id":"c989aae3-0467-4dc4-afc3-d12698d8c1a8",
-  "name":"Erik"
-}

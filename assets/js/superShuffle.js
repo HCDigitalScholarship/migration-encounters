@@ -26,14 +26,14 @@ fetch('../assets/lunr/shuffle.json')
   })
   .then(function (response) {
     // Store the total number of pages so we know when to disable the "load more" button.
-    totalPages = response.length;
+    totalPages = response.interviews.length;
     let counter = 9;
     // Create and insert the markup.
-    var markup = getItemMarkup(response.slice(0, 9));
+    var markup = getItemMarkup(response.interviews.slice(0, 9));
     appendMarkupToGrid(markup);
     function addMore() {
         if (counter <= totalPages) {
-        var markup = getItemMarkup(response.slice(counter, counter+9));
+        var markup = getItemMarkup(response.interviews.slice(counter, counter+9));
         appendMarkupToGrid(markup);
         // Save the total number of new items returned from the API.
       var itemsFromResponse = 9;
