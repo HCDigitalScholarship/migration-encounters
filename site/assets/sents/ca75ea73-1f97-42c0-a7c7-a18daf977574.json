@@ -1,0 +1,13 @@
+{
+  "start":30603,
+  "end":30617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lost a year.",
+  "id":"ca75ea73-1f97-42c0-a7c7-a18daf977574",
+  "params":{
+    "id":"ca75ea73-1f97-42c0-a7c7-a18daf977574",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

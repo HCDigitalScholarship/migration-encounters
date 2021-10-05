@@ -1,0 +1,12 @@
+{
+  "start":1900,
+  "end":2005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We moved to Chicago with my grandparents because my grandparents\n   were my second parents by this point.",
+  "id":"03caa5a5-753d-402c-a26c-4d8cf393d177",
+  "params":{
+    "id":"2bb64523-1f05-4f24-b4e2-8b3c934956c5"
+  },
+  "name":"Luisa"
+}

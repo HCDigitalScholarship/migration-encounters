@@ -1,0 +1,12 @@
+{
+  "start":30031,
+  "end":30113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n see him every day or I see him every two days, but I seen him a couple\n times.\"",
+  "id":"23b0c66a-3620-48d0-916b-17191295fae4",
+  "params":{
+    "id":"efff9488-5ee1-4671-9f5e-745747622555"
+  },
+  "name":"Axel"
+}

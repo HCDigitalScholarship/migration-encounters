@@ -1,0 +1,12 @@
+{
+  "start":20716,
+  "end":20736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I crossed the fence.",
+  "id":"303ce6d8-693e-4481-90b1-d4d86446d0e7",
+  "params":{
+    "id":"cb3319b4-e17b-43f2-8241-8d65b514d206"
+  },
+  "name":"Luis B"
+}

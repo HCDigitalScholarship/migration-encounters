@@ -1,0 +1,12 @@
+{
+  "start":4115,
+  "end":4191,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Of course, you see in the news,\n   you start seeing people getting deported.",
+  "id":"c0f2ce69-6d15-4efa-864a-310aad6597d7",
+  "params":{
+    "id":"d96b3ff7-541d-47bb-9d29-4cd987683d13"
+  },
+  "name":"Sylent"
+}

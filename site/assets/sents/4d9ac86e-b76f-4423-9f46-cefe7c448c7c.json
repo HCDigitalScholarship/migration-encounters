@@ -1,0 +1,13 @@
+{
+  "start":13712,
+  "end":13740,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just know it was deported.",
+  "id":"4d9ac86e-b76f-4423-9f46-cefe7c448c7c",
+  "params":{
+    "id":"4d9ac86e-b76f-4423-9f46-cefe7c448c7c",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":56760,
+  "end":56795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But this time,\n it's actually jail.",
+  "id":"32fd2468-34f0-49d9-bf92-9273f663a813",
+  "params":{
+    "id":"32fd2468-34f0-49d9-bf92-9273f663a813",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

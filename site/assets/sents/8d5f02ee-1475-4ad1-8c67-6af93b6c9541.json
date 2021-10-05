@@ -1,0 +1,13 @@
+{
+  "start":25852,
+  "end":25873,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't ask for more.",
+  "id":"8d5f02ee-1475-4ad1-8c67-6af93b6c9541",
+  "params":{
+    "id":"8d5f02ee-1475-4ad1-8c67-6af93b6c9541",
+    "class":"anno"
+  },
+  "name":"Many"
+}

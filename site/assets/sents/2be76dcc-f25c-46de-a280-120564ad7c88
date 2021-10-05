@@ -1,0 +1,12 @@
+{
+  "start":27115,
+  "end":27136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to be patient.",
+  "id":"2be76dcc-f25c-46de-a280-120564ad7c88",
+  "params":{
+    "id":"97881d6b-aa8c-4afb-8440-9dbfefd45782"
+  },
+  "name":"Many"
+}

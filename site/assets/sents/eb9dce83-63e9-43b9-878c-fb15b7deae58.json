@@ -1,0 +1,13 @@
+{
+  "start":37320,
+  "end":37348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You work nine hours per day?",
+  "id":"eb9dce83-63e9-43b9-878c-fb15b7deae58",
+  "params":{
+    "id":"eb9dce83-63e9-43b9-878c-fb15b7deae58",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

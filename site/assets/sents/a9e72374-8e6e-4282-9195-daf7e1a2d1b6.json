@@ -1,0 +1,13 @@
+{
+  "start":9791,
+  "end":9865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could say that my grandma saved my life because she\n \n \n   grabbed me.",
+  "id":"a9e72374-8e6e-4282-9195-daf7e1a2d1b6",
+  "params":{
+    "id":"a9e72374-8e6e-4282-9195-daf7e1a2d1b6",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

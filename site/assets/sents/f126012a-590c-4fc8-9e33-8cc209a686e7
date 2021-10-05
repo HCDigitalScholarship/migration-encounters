@@ -1,0 +1,12 @@
+{
+  "start":4632,
+  "end":4670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I\n   started working when I was 15.",
+  "id":"f126012a-590c-4fc8-9e33-8cc209a686e7",
+  "params":{
+    "id":"ee6fddf6-c751-4c98-b704-7d59e1a4adf9"
+  },
+  "name":"Pablo"
+}

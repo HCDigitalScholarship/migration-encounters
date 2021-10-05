@@ -1,0 +1,13 @@
+{
+  "start":65495,
+  "end":65538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You should be happy\n that you didn't angry.",
+  "id":"e2a3bb3a-5855-4a31-adca-2cbb9806c222",
+  "params":{
+    "id":"e2a3bb3a-5855-4a31-adca-2cbb9806c222",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

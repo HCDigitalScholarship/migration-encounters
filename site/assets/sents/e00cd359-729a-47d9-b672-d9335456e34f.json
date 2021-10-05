@@ -1,0 +1,13 @@
+{
+  "start":2373,
+  "end":2394,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were those like?",
+  "id":"e00cd359-729a-47d9-b672-d9335456e34f",
+  "params":{
+    "id":"e00cd359-729a-47d9-b672-d9335456e34f",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

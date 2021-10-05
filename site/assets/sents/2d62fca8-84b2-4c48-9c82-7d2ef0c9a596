@@ -1,0 +1,12 @@
+{
+  "start":53199,
+  "end":53219,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was a year ago?",
+  "id":"2d62fca8-84b2-4c48-9c82-7d2ef0c9a596",
+  "params":{
+    "id":"5853fe64-05bd-4820-bf99-2de5c53ebfec"
+  },
+  "name":"Cris"
+}

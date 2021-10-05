@@ -1,0 +1,12 @@
+{
+  "start":3575,
+  "end":3598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I looked for a job.",
+  "id":"5cc3286c-f127-4e95-8491-51e1ce5b5d58",
+  "params":{
+    "id":"791df2cb-ecae-4d19-9511-a26001cca78f"
+  },
+  "name":"Mike"
+}

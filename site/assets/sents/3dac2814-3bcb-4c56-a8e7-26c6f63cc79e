@@ -1,0 +1,12 @@
+{
+  "start":20121,
+  "end":20150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Buy my little sister a house.",
+  "id":"3dac2814-3bcb-4c56-a8e7-26c6f63cc79e",
+  "params":{
+    "id":"9a98d5a1-5dde-4167-aa10-1fd5d10c91b1"
+  },
+  "name":"Jose"
+}

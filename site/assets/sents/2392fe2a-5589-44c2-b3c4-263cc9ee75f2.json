@@ -1,0 +1,12 @@
+{
+  "start":30051,
+  "end":30080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's what you're doing.",
+  "id":"2392fe2a-5589-44c2-b3c4-263cc9ee75f2",
+  "params":{
+    "id":"c42a5984-6e8a-4e9a-a5d6-f94c1e85c7ac"
+  },
+  "name":"Hugo"
+}

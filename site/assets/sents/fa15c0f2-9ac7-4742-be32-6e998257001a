@@ -1,0 +1,12 @@
+{
+  "start":22194,
+  "end":22212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did he work?",
+  "id":"fa15c0f2-9ac7-4742-be32-6e998257001a",
+  "params":{
+    "id":"cfa894ca-b412-456b-aeca-e147e37e16a4"
+  },
+  "name":"Melani"
+}

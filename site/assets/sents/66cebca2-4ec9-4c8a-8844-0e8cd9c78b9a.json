@@ -1,0 +1,13 @@
+{
+  "start":10210,
+  "end":10232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you enjoy college?",
+  "id":"66cebca2-4ec9-4c8a-8844-0e8cd9c78b9a",
+  "params":{
+    "id":"66cebca2-4ec9-4c8a-8844-0e8cd9c78b9a",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

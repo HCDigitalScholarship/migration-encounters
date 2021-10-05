@@ -1,0 +1,12 @@
+{
+  "start":24549,
+  "end":24573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to middle school.",
+  "id":"291cabb1-7041-4dbf-8214-2b3f6b0b7f0b",
+  "params":{
+    "id":"bd0633eb-5e3d-4fa8-8533-eadbfae7b37f"
+  },
+  "name":"Beto"
+}

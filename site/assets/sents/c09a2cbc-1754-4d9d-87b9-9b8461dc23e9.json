@@ -1,0 +1,13 @@
+{
+  "start":27122,
+  "end":27137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a laptop.",
+  "id":"c09a2cbc-1754-4d9d-87b9-9b8461dc23e9",
+  "params":{
+    "id":"c09a2cbc-1754-4d9d-87b9-9b8461dc23e9",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

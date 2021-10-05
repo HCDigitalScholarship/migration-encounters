@@ -1,0 +1,12 @@
+{
+  "start":32029,
+  "end":32058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It sounds bad, but it's true.",
+  "id":"5d46f5b2-6cc8-450f-bad1-5d2405306e74",
+  "params":{
+    "id":"3c518a1b-ff35-441b-87c8-db50f44296e8"
+  },
+  "name":"Luisa"
+}

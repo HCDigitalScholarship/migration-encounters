@@ -1,0 +1,12 @@
+{
+  "start":20899,
+  "end":20926,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Started getting in trouble.",
+  "id":"576e3a53-7cc9-4d0e-9532-29090c8e70a5",
+  "params":{
+    "id":"2c1ed1fd-f275-459b-b6c3-2bea2569b9bd"
+  },
+  "name":"Mike"
+}

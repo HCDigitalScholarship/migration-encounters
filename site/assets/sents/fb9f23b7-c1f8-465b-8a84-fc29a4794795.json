@@ -1,0 +1,13 @@
+{
+  "start":6351,
+  "end":6511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took me to the hospital and I\n   guess they didn't have the tools to help with that, to help with the\n   overdose, so they transported me to another place.",
+  "id":"fb9f23b7-c1f8-465b-8a84-fc29a4794795",
+  "params":{
+    "id":"fb9f23b7-c1f8-465b-8a84-fc29a4794795",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

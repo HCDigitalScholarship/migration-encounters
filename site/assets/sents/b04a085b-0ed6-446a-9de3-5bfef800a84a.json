@@ -1,0 +1,13 @@
+{
+  "start":34748,
+  "end":34827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when my baby,\n   I knew he was going to be born, or he was born already.",
+  "id":"b04a085b-0ed6-446a-9de3-5bfef800a84a",
+  "params":{
+    "id":"b04a085b-0ed6-446a-9de3-5bfef800a84a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

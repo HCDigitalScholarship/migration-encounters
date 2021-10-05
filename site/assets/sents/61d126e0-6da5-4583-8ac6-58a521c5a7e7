@@ -1,0 +1,12 @@
+{
+  "start":8683,
+  "end":8749,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me, how old\n   were you and what it was like\n \n \n   Ruben:",
+  "id":"61d126e0-6da5-4583-8ac6-58a521c5a7e7",
+  "params":{
+    "id":"7c934aa3-dbbc-4b85-8180-1b3c42ab657e"
+  },
+  "name":"Ruben"
+}

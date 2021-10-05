@@ -1,0 +1,12 @@
+{
+  "start":72850,
+  "end":72947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If it didn't work over there when I was there\n physically, it's not going to work over the phone.",
+  "id":"965c9e45-ec2a-452d-9532-5e9d53e1dd62",
+  "params":{
+    "id":"87d054b6-afea-4afa-9651-a55a90a6140e"
+  },
+  "name":"Axel"
+}

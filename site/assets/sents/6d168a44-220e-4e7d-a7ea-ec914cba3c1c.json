@@ -1,0 +1,13 @@
+{
+  "start":10179,
+  "end":10213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it\u2019s like, \"Okay, let me know.\"",
+  "id":"6d168a44-220e-4e7d-a7ea-ec914cba3c1c",
+  "params":{
+    "id":"6d168a44-220e-4e7d-a7ea-ec914cba3c1c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

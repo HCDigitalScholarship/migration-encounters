@@ -1,0 +1,13 @@
+{
+  "start":33722,
+  "end":33797,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because you're\n dumping people there with no money, no food, nowhere to go.",
+  "id":"a1d7b85f-f420-42a4-a4be-d5ebb6ada393",
+  "params":{
+    "id":"a1d7b85f-f420-42a4-a4be-d5ebb6ada393",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

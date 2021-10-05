@@ -1,0 +1,13 @@
+{
+  "start":1155,
+  "end":1180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My last job was painting.",
+  "id":"74ea2226-cbc9-4b76-b3f0-ff0a7061d296",
+  "params":{
+    "id":"74ea2226-cbc9-4b76-b3f0-ff0a7061d296",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

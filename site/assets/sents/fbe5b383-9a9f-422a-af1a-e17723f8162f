@@ -1,0 +1,12 @@
+{
+  "start":63591,
+  "end":63600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The cops.",
+  "id":"fbe5b383-9a9f-422a-af1a-e17723f8162f",
+  "params":{
+    "id":"a2c44bde-5ec2-4d03-a571-326daa132fbb"
+  },
+  "name":"Cris"
+}

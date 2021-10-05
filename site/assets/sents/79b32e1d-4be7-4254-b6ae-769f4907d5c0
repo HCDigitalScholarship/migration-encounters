@@ -1,0 +1,12 @@
+{
+  "start":4818,
+  "end":4916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They actually told me, \"Well, you're right about some things,\n   but wrong about different things.",
+  "id":"79b32e1d-4be7-4254-b6ae-769f4907d5c0",
+  "params":{
+    "id":"e86853f8-7711-4b88-9a50-30356e017bef"
+  },
+  "name":"Sylent"
+}

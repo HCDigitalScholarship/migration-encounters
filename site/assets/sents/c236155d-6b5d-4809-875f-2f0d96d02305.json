@@ -1,0 +1,13 @@
+{
+  "start":30085,
+  "end":30104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n   Valeria:",
+  "id":"c236155d-6b5d-4809-875f-2f0d96d02305",
+  "params":{
+    "id":"c236155d-6b5d-4809-875f-2f0d96d02305",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

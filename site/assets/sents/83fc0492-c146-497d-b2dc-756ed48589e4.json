@@ -1,0 +1,12 @@
+{
+  "start":3569,
+  "end":3600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to school in the US?",
+  "id":"83fc0492-c146-497d-b2dc-756ed48589e4",
+  "params":{
+    "id":"18640927-61bd-41ea-b7bf-320265a02881"
+  },
+  "name":"Josue"
+}

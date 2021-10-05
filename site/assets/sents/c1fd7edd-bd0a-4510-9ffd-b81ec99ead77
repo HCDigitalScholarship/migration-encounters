@@ -1,0 +1,12 @@
+{
+  "start":35350,
+  "end":35393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's always somebody taking care of you.",
+  "id":"c1fd7edd-bd0a-4510-9ffd-b81ec99ead77",
+  "params":{
+    "id":"c282f6f7-68c0-4855-8ef0-c3cc72d917fc"
+  },
+  "name":"Carlos"
+}

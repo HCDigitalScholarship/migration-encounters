@@ -1,0 +1,13 @@
+{
+  "start":15565,
+  "end":15590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I'm in my house.\"",
+  "id":"fe9292c9-e311-4bba-ae01-f06c76fc3a1e",
+  "params":{
+    "id":"fe9292c9-e311-4bba-ae01-f06c76fc3a1e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

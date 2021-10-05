@@ -1,0 +1,12 @@
+{
+  "start":30351,
+  "end":30382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They only ate the spring rolls.",
+  "id":"7e929b23-28d3-43a3-9895-251118b279e0",
+  "params":{
+    "id":"a5d0e7e7-ea9d-4fa3-bcf2-6445432df0aa"
+  },
+  "name":"Noe"
+}

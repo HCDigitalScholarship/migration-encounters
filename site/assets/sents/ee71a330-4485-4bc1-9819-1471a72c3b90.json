@@ -1,0 +1,13 @@
+{
+  "start":11,
+  "end":135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you could think back on your experience in the U.S. what would\n   you say is the best part of it, and what was the worst?",
+  "id":"ee71a330-4485-4bc1-9819-1471a72c3b90",
+  "params":{
+    "id":"ee71a330-4485-4bc1-9819-1471a72c3b90",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

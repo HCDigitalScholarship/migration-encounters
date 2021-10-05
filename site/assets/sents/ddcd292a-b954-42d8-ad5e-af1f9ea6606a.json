@@ -1,0 +1,13 @@
+{
+  "start":6092,
+  "end":6169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would learn the songs and\n stayed up all night like, \"Dad, I can play now.\"",
+  "id":"ddcd292a-b954-42d8-ad5e-af1f9ea6606a",
+  "params":{
+    "id":"ddcd292a-b954-42d8-ad5e-af1f9ea6606a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

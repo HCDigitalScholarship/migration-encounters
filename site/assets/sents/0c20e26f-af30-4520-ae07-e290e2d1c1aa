@@ -1,0 +1,12 @@
+{
+  "start":34907,
+  "end":34926,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: Thank you.",
+  "id":"0c20e26f-af30-4520-ae07-e290e2d1c1aa",
+  "params":{
+    "id":"f330434e-8c2b-4a85-a7f6-320ff1318c42"
+  },
+  "name":"Rodrigo"
+}

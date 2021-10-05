@@ -1,0 +1,12 @@
+{
+  "start":30163,
+  "end":30181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm working on it.",
+  "id":"24c1a8f1-a4dd-4dc3-baa1-e1674ca27f6c",
+  "params":{
+    "id":"4589e51a-d42d-406d-83f5-f2e77752d725"
+  },
+  "name":"Noe"
+}

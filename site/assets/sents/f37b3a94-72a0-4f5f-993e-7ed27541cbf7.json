@@ -1,0 +1,13 @@
+{
+  "start":7355,
+  "end":7431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did play soccer\u2014my cousin who lives here\n   with me, he has a soccer team.",
+  "id":"f37b3a94-72a0-4f5f-993e-7ed27541cbf7",
+  "params":{
+    "id":"f37b3a94-72a0-4f5f-993e-7ed27541cbf7",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

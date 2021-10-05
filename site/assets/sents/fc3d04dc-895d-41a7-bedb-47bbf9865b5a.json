@@ -1,0 +1,13 @@
+{
+  "start":19088,
+  "end":19113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I\n   paint, as well.",
+  "id":"fc3d04dc-895d-41a7-bedb-47bbf9865b5a",
+  "params":{
+    "id":"fc3d04dc-895d-41a7-bedb-47bbf9865b5a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

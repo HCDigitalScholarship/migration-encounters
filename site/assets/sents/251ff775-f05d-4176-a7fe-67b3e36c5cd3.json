@@ -1,0 +1,13 @@
+{
+  "start":10331,
+  "end":10357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were they friendly to you?",
+  "id":"251ff775-f05d-4176-a7fe-67b3e36c5cd3",
+  "params":{
+    "id":"251ff775-f05d-4176-a7fe-67b3e36c5cd3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

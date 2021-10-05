@@ -1,0 +1,13 @@
+{
+  "start":34112,
+  "end":34183,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got to\n   Mexico, I would see this old lady: \"Oh I remember you.",
+  "id":"2f4ec69c-c52e-4857-ae1c-9754027f5f24",
+  "params":{
+    "id":"2f4ec69c-c52e-4857-ae1c-9754027f5f24",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

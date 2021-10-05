@@ -1,0 +1,12 @@
+{
+  "start":76190,
+  "end":76223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's going to be the star dish?",
+  "id":"cfc14939-ca41-487b-ba69-8bbf3c862f94",
+  "params":{
+    "id":"b825f77f-7a24-4fe5-b026-eff99941c504"
+  },
+  "name":"Cris"
+}

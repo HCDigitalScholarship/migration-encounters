@@ -1,0 +1,12 @@
+{
+  "start":53486,
+  "end":53590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want to move to a happier subject, or do you want to\n   continuing talking about it?\n \n \n   Cris:",
+  "id":"8366317b-c686-4c7e-80df-9a4386e7f346",
+  "params":{
+    "id":"86df2a19-947d-4060-ba9c-1a22d44870ce"
+  },
+  "name":"Cris"
+}

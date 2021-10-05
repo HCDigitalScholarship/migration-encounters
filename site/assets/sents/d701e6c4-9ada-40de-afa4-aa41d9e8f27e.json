@@ -1,0 +1,13 @@
+{
+  "start":7107,
+  "end":7133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I lost my friends.",
+  "id":"d701e6c4-9ada-40de-afa4-aa41d9e8f27e",
+  "params":{
+    "id":"d701e6c4-9ada-40de-afa4-aa41d9e8f27e",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

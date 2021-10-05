@@ -1,0 +1,13 @@
+{
+  "start":19171,
+  "end":19229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"That's fine,\n but it costs a lot more money.\"",
+  "id":"2dbc1e9f-ed20-4a30-8333-c9fffb6250db",
+  "params":{
+    "id":"2dbc1e9f-ed20-4a30-8333-c9fffb6250db",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

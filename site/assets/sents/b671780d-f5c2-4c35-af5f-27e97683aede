@@ -1,0 +1,12 @@
+{
+  "start":23752,
+  "end":23772,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got a phone call.",
+  "id":"b671780d-f5c2-4c35-af5f-27e97683aede",
+  "params":{
+    "id":"a744b004-77bd-46dd-aa60-b4749ff73328"
+  },
+  "name":"Luisa"
+}

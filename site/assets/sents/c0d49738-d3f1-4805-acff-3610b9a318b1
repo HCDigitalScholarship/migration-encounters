@@ -1,0 +1,12 @@
+{
+  "start":22588,
+  "end":22612,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything messed me up.",
+  "id":"c0d49738-d3f1-4805-acff-3610b9a318b1",
+  "params":{
+    "id":"2643e446-8e8d-4964-846d-db0f6ca7633e"
+  },
+  "name":"Mike"
+}

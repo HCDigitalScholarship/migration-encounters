@@ -1,0 +1,13 @@
+{
+  "start":7723,
+  "end":7728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nokia",
+  "id":"cc243ab9-5a68-4ee9-a50b-2b07221953de",
+  "params":{
+    "id":"cc243ab9-5a68-4ee9-a50b-2b07221953de",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

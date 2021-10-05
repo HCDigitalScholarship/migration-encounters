@@ -1,0 +1,13 @@
+{
+  "start":11991,
+  "end":12010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Fueron cinco horas.",
+  "id":"3b385a42-8b98-4729-9ed9-2ef74741f68d",
+  "params":{
+    "id":"3b385a42-8b98-4729-9ed9-2ef74741f68d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

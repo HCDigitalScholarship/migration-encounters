@@ -1,0 +1,13 @@
+{
+  "start":33012,
+  "end":33090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't have a phone, you don't have access to\n   WhatsApp and Messenger.",
+  "id":"db46c6e6-18c7-419a-bc1b-93de9ffc975f",
+  "params":{
+    "id":"db46c6e6-18c7-419a-bc1b-93de9ffc975f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18488,
+  "end":18509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's just like\n   us.",
+  "id":"693b952a-a837-4a63-8d7a-21e78cbe521c",
+  "params":{
+    "id":"441707ba-5aa9-417b-be61-9b553f861a64"
+  },
+  "name":"Sylent"
+}

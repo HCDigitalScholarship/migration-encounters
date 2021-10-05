@@ -1,0 +1,13 @@
+{
+  "start":8049,
+  "end":8085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was going\n   through your mind?",
+  "id":"ef08943c-e5c9-4ce9-8802-957c783edf2d",
+  "params":{
+    "id":"ef08943c-e5c9-4ce9-8802-957c783edf2d",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

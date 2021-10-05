@@ -1,0 +1,12 @@
+{
+  "start":19305,
+  "end":19474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really, really appreciate you coming in and talking and\n   being so honest about your experiences and I know some of it's\n   uncomfortable to talk about.\n \n \n   Frank:",
+  "id":"621f2113-f6cf-4265-b87a-95fbe3326621",
+  "params":{
+    "id":"f4938b18-575b-4c47-b513-6f220c0d3224"
+  },
+  "name":"Frank"
+}

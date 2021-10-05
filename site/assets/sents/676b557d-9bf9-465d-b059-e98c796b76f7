@@ -1,0 +1,12 @@
+{
+  "start":64334,
+  "end":64360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know what I am saying?",
+  "id":"676b557d-9bf9-465d-b059-e98c796b76f7",
+  "params":{
+    "id":"17092e91-7d3c-413b-a31e-3c3f1569d3ac"
+  },
+  "name":"Daniel B"
+}

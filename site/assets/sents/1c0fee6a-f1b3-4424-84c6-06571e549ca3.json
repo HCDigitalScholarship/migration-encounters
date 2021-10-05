@@ -1,0 +1,12 @@
+{
+  "start":24895,
+  "end":24914,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You're Mexican.",
+  "id":"1c0fee6a-f1b3-4424-84c6-06571e549ca3",
+  "params":{
+    "id":"bb82ccec-19fc-412e-b36d-530c7aa48bd6"
+  },
+  "name":"Yair"
+}

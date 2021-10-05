@@ -1,0 +1,13 @@
+{
+  "start":67160,
+  "end":67180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They take the bacon.",
+  "id":"ab62610c-eaa3-4653-b2df-071629c1aabe",
+  "params":{
+    "id":"ab62610c-eaa3-4653-b2df-071629c1aabe",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

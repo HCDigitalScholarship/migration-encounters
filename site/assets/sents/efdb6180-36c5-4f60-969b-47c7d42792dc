@@ -1,0 +1,12 @@
+{
+  "start":23344,
+  "end":23373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have a good car, have a wife.",
+  "id":"efdb6180-36c5-4f60-969b-47c7d42792dc",
+  "params":{
+    "id":"c80695ad-05fc-40ed-a732-95b4346b0922"
+  },
+  "name":"Edgar"
+}

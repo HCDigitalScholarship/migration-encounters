@@ -1,0 +1,13 @@
+{
+  "start":3440,
+  "end":3519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was too, but I still miss the graduation experience\n and all that.",
+  "id":"6e672c02-bfa6-4857-b11f-38e0355ce934",
+  "params":{
+    "id":"6e672c02-bfa6-4857-b11f-38e0355ce934",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

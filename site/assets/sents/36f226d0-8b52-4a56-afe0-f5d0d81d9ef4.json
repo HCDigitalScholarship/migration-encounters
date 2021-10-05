@@ -1,0 +1,13 @@
+{
+  "start":29984,
+  "end":30010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, hay\n     que ayudarse.",
+  "id":"36f226d0-8b52-4a56-afe0-f5d0d81d9ef4",
+  "params":{
+    "id":"36f226d0-8b52-4a56-afe0-f5d0d81d9ef4",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

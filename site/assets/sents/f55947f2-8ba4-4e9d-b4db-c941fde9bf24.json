@@ -1,0 +1,13 @@
+{
+  "start":15545,
+  "end":15572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do not get your question.",
+  "id":"f55947f2-8ba4-4e9d-b4db-c941fde9bf24",
+  "params":{
+    "id":"f55947f2-8ba4-4e9d-b4db-c941fde9bf24",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

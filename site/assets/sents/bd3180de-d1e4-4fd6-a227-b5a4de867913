@@ -1,0 +1,12 @@
+{
+  "start":11783,
+  "end":11817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're like, \u201cI don't belong here.",
+  "id":"bd3180de-d1e4-4fd6-a227-b5a4de867913",
+  "params":{
+    "id":"e0177b7c-0360-40b4-9883-c3543c3f12c4"
+  },
+  "name":"Donovan"
+}

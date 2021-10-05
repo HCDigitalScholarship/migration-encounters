@@ -1,0 +1,13 @@
+{
+  "start":54051,
+  "end":54116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's going to be under my name, so\n you have to take care of it.\"",
+  "id":"a568fc85-4b6d-4451-9f74-b4e369c9dfa2",
+  "params":{
+    "id":"a568fc85-4b6d-4451-9f74-b4e369c9dfa2",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":68602,
+  "end":68620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cris: My favorite?",
+  "id":"5ecd21d4-59b9-4b87-9192-14f6d007bb16",
+  "params":{
+    "id":"45b8973f-454e-4426-b229-826228a2966b"
+  },
+  "name":"Cris"
+}

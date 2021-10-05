@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":7144,
+  "end":7209,
+  "label":"Time in the US, Arrest",
+  "id":"acc6dbd7-2c4d-4095-bcb8-53b7fa68fe87",
+  "params":{
+    "id":"1d89df83-91d8-4501-ac6c-b2bef66c8d60"
+  },
+  "name":"Mike",
+  "text":"Mike: And it took a whole month for the cops to come to my house."
+}

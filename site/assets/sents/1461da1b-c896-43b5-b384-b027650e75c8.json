@@ -1,0 +1,13 @@
+{
+  "start":28776,
+  "end":28898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But my son will go alone to the\n   school, where I will have to pay a taxi, but I will go to pick him up out\n   of school.",
+  "id":"1461da1b-c896-43b5-b384-b027650e75c8",
+  "params":{
+    "id":"1461da1b-c896-43b5-b384-b027650e75c8",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

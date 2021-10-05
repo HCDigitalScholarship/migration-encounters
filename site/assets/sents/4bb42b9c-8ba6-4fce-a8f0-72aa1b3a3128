@@ -1,0 +1,12 @@
+{
+  "start":31944,
+  "end":31980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've always been a hard-working man.",
+  "id":"4bb42b9c-8ba6-4fce-a8f0-72aa1b3a3128",
+  "params":{
+    "id":"296ed7aa-8b4b-4e9b-854b-1f012c5c3f44"
+  },
+  "name":"Cris"
+}

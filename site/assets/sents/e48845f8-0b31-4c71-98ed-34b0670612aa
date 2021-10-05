@@ -1,0 +1,12 @@
+{
+  "start":12395,
+  "end":12420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when did you meet her?",
+  "id":"e48845f8-0b31-4c71-98ed-34b0670612aa",
+  "params":{
+    "id":"d6fa6535-713b-4af9-a1ef-6151075c0e68"
+  },
+  "name":"Abel"
+}

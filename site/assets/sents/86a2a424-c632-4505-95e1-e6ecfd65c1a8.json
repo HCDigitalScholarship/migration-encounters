@@ -1,0 +1,13 @@
+{
+  "start":28151,
+  "end":28231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n   building anything, underground, whatever, and we're still coming over.",
+  "id":"86a2a424-c632-4505-95e1-e6ecfd65c1a8",
+  "params":{
+    "id":"86a2a424-c632-4505-95e1-e6ecfd65c1a8",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

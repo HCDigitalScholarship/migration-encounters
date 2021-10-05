@@ -1,0 +1,12 @@
+{
+  "start":7694,
+  "end":7754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been a year,\n   year and a half, since I played soccer.",
+  "id":"cbdc1ccd-0451-4032-96ed-9dfa47d060ab",
+  "params":{
+    "id":"db595c81-b470-4e4f-ab6a-97bbe06e4553"
+  },
+  "name":"Juan B"
+}

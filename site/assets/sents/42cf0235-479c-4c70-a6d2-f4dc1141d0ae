@@ -1,0 +1,12 @@
+{
+  "start":31340,
+  "end":31359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You don't work.",
+  "id":"42cf0235-479c-4c70-a6d2-f4dc1141d0ae",
+  "params":{
+    "id":"fdde62a9-9956-4170-b07c-9434716707c0"
+  },
+  "name":"Carlos"
+}

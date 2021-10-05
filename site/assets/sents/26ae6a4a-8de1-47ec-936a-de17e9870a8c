@@ -1,0 +1,12 @@
+{
+  "start":9418,
+  "end":9447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah,\n   but it's a good job.",
+  "id":"26ae6a4a-8de1-47ec-936a-de17e9870a8c",
+  "params":{
+    "id":"21a77e0d-00b4-4315-97a5-fdb32dddc79e"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19877,
+  "end":19937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I need to either get a new job or go\n   live somewhere else.",
+  "id":"dfcb1f7e-1f79-4c71-bfc0-4364e62f8396",
+  "params":{
+    "id":"dfcb1f7e-1f79-4c71-bfc0-4364e62f8396",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

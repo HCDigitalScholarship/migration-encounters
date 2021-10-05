@@ -1,0 +1,13 @@
+{
+  "start":19994,
+  "end":20000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Never.",
+  "id":"9a2f755e-decb-41c0-964e-de95d9d7aafe",
+  "params":{
+    "id":"9a2f755e-decb-41c0-964e-de95d9d7aafe",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

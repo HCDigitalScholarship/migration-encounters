@@ -1,0 +1,13 @@
+{
+  "start":13041,
+  "end":13069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I took my own decisions.",
+  "id":"9f750e87-c76d-44b8-b8b4-e55331b52e7b",
+  "params":{
+    "id":"9f750e87-c76d-44b8-b8b4-e55331b52e7b",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

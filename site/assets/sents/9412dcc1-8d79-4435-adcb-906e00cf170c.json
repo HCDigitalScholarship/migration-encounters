@@ -1,0 +1,13 @@
+{
+  "start":32305,
+  "end":32450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, we used to get all together, like family, and fireworks, and\n   it was the long weekend, so we would go swimming, we would go to the river.",
+  "id":"9412dcc1-8d79-4435-adcb-906e00cf170c",
+  "params":{
+    "id":"9412dcc1-8d79-4435-adcb-906e00cf170c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30505,
+  "end":30561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Luisa: Being undocumented affected my education.",
+  "id":"2fc126a7-ca02-4d1d-95d5-04441ba0cc46",
+  "params":{
+    "id":"2fc126a7-ca02-4d1d-95d5-04441ba0cc46",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3069,
+  "end":3121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n   second time I was detained for almost a year.",
+  "id":"8a31e753-b30a-43d2-9631-abea48c375f0",
+  "params":{
+    "id":"a2f5ae9e-0c8f-4162-a2f0-e2b2a37bffc0"
+  },
+  "name":"Ivan"
+}

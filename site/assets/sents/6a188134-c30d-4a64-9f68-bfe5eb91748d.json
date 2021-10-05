@@ -1,0 +1,13 @@
+{
+  "start":21456,
+  "end":21501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When\n   I got here, I finished middle school.",
+  "id":"6a188134-c30d-4a64-9f68-bfe5eb91748d",
+  "params":{
+    "id":"6a188134-c30d-4a64-9f68-bfe5eb91748d",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

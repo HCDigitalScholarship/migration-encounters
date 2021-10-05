@@ -1,0 +1,12 @@
+{
+  "start":28925,
+  "end":28981,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo le dec\u00eda, \u201cPu\u00e9s vas a\n     ser buen negociante mijo\u201d.",
+  "id":"236438ed-b2d6-4d44-adae-aa606911c9db",
+  "params":{
+    "id":"16bc419e-2c44-454b-a669-40c031b1b359"
+  },
+  "name":"Maria"
+}

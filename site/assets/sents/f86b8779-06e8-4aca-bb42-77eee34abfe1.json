@@ -1,0 +1,13 @@
+{
+  "start":15461,
+  "end":15481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's my Jacob.",
+  "id":"f86b8779-06e8-4aca-bb42-77eee34abfe1",
+  "params":{
+    "id":"f86b8779-06e8-4aca-bb42-77eee34abfe1",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

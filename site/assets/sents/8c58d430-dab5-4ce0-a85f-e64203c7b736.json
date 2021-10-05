@@ -1,0 +1,13 @@
+{
+  "start":47252,
+  "end":47274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfHablaste con Natalie?",
+  "id":"8c58d430-dab5-4ce0-a85f-e64203c7b736",
+  "params":{
+    "id":"8c58d430-dab5-4ce0-a85f-e64203c7b736",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

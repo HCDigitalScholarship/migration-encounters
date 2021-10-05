@@ -1,0 +1,13 @@
+{
+  "start":51050,
+  "end":51068,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I found roommates.",
+  "id":"657c6c43-e439-41fb-992f-ce46e6769683",
+  "params":{
+    "id":"657c6c43-e439-41fb-992f-ce46e6769683",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

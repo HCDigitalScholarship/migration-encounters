@@ -1,0 +1,12 @@
+{
+  "start":15021,
+  "end":15070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some beef and chicken and all that kind of stuff.",
+  "id":"bd783227-5eae-40f7-8567-00c83f8eb5a6",
+  "params":{
+    "id":"c07ce098-ad07-40cd-8c29-9e45c307a7b6"
+  },
+  "name":"Juan A"
+}

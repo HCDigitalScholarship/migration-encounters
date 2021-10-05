@@ -1,0 +1,13 @@
+{
+  "start":9064,
+  "end":9135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could have got the license to drive but I don't know why I\n   didn't.",
+  "id":"27e138ba-5831-44cf-b3c2-a9ecb5e6f525",
+  "params":{
+    "id":"27e138ba-5831-44cf-b3c2-a9ecb5e6f525",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

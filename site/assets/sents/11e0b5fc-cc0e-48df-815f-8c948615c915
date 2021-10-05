@@ -1,0 +1,12 @@
+{
+  "start":48016,
+  "end":48088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I ended up moving\n   from that apartment because I found out some stuff.",
+  "id":"11e0b5fc-cc0e-48df-815f-8c948615c915",
+  "params":{
+    "id":"84dae4c5-37bc-412a-9603-1ef440dc12e3"
+  },
+  "name":"Mike"
+}

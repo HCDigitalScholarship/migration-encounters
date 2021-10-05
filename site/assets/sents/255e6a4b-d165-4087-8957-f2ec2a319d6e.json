@@ -1,0 +1,13 @@
+{
+  "start":10486,
+  "end":10503,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n   drink.",
+  "id":"255e6a4b-d165-4087-8957-f2ec2a319d6e",
+  "params":{
+    "id":"255e6a4b-d165-4087-8957-f2ec2a319d6e",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9200,
+  "end":9340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you said you became a chef\u2014you started at Applebee's\u2014can you\n tell me what the restaurant experience was like becoming a chef and moving",
+  "id":"a2b92d52-8897-4a14-8b69-c0643d1ebcf2",
+  "params":{
+    "id":"155471c4-8c9e-4aca-9bd2-038ac218d7ed"
+  },
+  "name":"Angelo"
+}

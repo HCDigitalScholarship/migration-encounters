@@ -1,0 +1,12 @@
+{
+  "start":8265,
+  "end":8343,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me that I had to go get my passport because I was\n coming to Mexico.",
+  "id":"e54b6b04-0583-4291-983e-9e1b2e100103",
+  "params":{
+    "id":"4b898d35-c38a-4197-87a7-35e5ae6d589c"
+  },
+  "name":"Ana"
+}

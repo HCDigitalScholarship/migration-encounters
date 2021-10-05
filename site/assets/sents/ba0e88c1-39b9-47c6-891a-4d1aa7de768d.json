@@ -1,0 +1,13 @@
+{
+  "start":11903,
+  "end":12008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then fourth of July was more like everybody doing firecrackers and\n   of course I wanted to do that, too.",
+  "id":"ba0e88c1-39b9-47c6-891a-4d1aa7de768d",
+  "params":{
+    "id":"ba0e88c1-39b9-47c6-891a-4d1aa7de768d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

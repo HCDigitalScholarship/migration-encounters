@@ -1,0 +1,12 @@
+{
+  "start":7460,
+  "end":7587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But he named me after\n Billy the Kid, which, he was a killer and a robber, but it's a very\n important part of American history.",
+  "id":"7150fc47-e651-4c38-873a-188e07beeb55",
+  "params":{
+    "id":"df339553-35ed-44da-8611-47134e706ffa"
+  },
+  "name":"Billy"
+}

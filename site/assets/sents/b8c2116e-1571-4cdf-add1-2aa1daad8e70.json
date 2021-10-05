@@ -1,0 +1,13 @@
+{
+  "start":9073,
+  "end":9112,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to call me Bill or\n something.",
+  "id":"b8c2116e-1571-4cdf-add1-2aa1daad8e70",
+  "params":{
+    "id":"b8c2116e-1571-4cdf-add1-2aa1daad8e70",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8204,
+  "end":8314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For example, we can talk about the color TV everyone uses on\n   the whole world, but it became from a Mexican.",
+  "id":"79ed10fa-e767-4d7b-ad6c-63462c4af905",
+  "params":{
+    "id":"f59de255-68e6-4a43-bb9f-e0d3ea556ffd"
+  },
+  "name":"Frank"
+}

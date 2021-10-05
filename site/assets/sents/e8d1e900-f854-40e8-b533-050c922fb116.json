@@ -1,0 +1,13 @@
+{
+  "start":7711,
+  "end":7735,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't trust anybody.",
+  "id":"e8d1e900-f854-40e8-b533-050c922fb116",
+  "params":{
+    "id":"e8d1e900-f854-40e8-b533-050c922fb116",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

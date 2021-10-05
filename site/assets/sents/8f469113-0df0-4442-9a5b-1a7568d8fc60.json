@@ -1,0 +1,13 @@
+{
+  "start":19498,
+  "end":19513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was amazing.",
+  "id":"8f469113-0df0-4442-9a5b-1a7568d8fc60",
+  "params":{
+    "id":"8f469113-0df0-4442-9a5b-1a7568d8fc60",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

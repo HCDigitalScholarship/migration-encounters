@@ -1,0 +1,13 @@
+{
+  "start":28295,
+  "end":28324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We paid whatever they ask us.",
+  "id":"c6587ace-6a9d-46ae-9f1d-723355bff1e2",
+  "params":{
+    "id":"c6587ace-6a9d-46ae-9f1d-723355bff1e2",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

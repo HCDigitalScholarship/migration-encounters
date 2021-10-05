@@ -1,0 +1,12 @@
+{
+  "start":10023,
+  "end":10041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"De all\u00ed empezamos.",
+  "id":"63430cc7-6d2c-4e28-b80f-8712a329019f",
+  "params":{
+    "id":"8f92fcf4-1911-4fcb-9c6b-ac5f94ba44bd"
+  },
+  "name":"Maria"
+}

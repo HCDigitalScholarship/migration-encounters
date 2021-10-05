@@ -1,0 +1,12 @@
+{
+  "start":28279,
+  "end":28304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This happened last month.",
+  "id":"e4318a99-5e90-471c-b1f5-dfe5eaf1afcd",
+  "params":{
+    "id":"f4edbe01-8fd3-46d4-8cdd-4114f2adc8b7"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":222,
+  "end":255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you give up your studies?",
+  "id":"b04dbcde-9695-4f65-bd68-c19694acf90a",
+  "params":{
+    "id":"6977e871-ac9b-489e-b711-89439c522c9b"
+  },
+  "name":"Erik"
+}

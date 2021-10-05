@@ -1,0 +1,12 @@
+{
+  "start":1501,
+  "end":1557,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was young, I used to like playing football a lot.",
+  "id":"63a375c3-0725-4aa9-ada6-9f378388630b",
+  "params":{
+    "id":"941d203b-6471-420d-8400-0ace1875679d"
+  },
+  "name":"Kevin"
+}

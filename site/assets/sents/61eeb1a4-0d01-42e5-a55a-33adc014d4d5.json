@@ -1,0 +1,13 @@
+{
+  "start":26693,
+  "end":26715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I came to Mexico.",
+  "id":"61eeb1a4-0d01-42e5-a55a-33adc014d4d5",
+  "params":{
+    "id":"61eeb1a4-0d01-42e5-a55a-33adc014d4d5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

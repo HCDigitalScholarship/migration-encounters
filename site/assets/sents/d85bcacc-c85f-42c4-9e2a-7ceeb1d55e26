@@ -1,0 +1,12 @@
+{
+  "start":8969,
+  "end":9005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that what your pa told you to do?",
+  "id":"d85bcacc-c85f-42c4-9e2a-7ceeb1d55e26",
+  "params":{
+    "id":"0d603679-3aa4-4239-9356-c85c5d18da10"
+  },
+  "name":"Luis B"
+}

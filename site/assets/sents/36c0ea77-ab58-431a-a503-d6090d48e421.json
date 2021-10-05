@@ -1,0 +1,13 @@
+{
+  "start":6500,
+  "end":6521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was that a good move?",
+  "id":"36c0ea77-ab58-431a-a503-d6090d48e421",
+  "params":{
+    "id":"36c0ea77-ab58-431a-a503-d6090d48e421",
+    "class":"anno"
+  },
+  "name":"Many"
+}

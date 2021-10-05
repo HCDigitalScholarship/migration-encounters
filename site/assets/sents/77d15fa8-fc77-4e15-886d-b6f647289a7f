@@ -1,0 +1,12 @@
+{
+  "start":46348,
+  "end":46387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think you can find some tissues?",
+  "id":"77d15fa8-fc77-4e15-886d-b6f647289a7f",
+  "params":{
+    "id":"2dc0be61-f463-4ced-91b0-9205e73abc96"
+  },
+  "name":"Cris"
+}

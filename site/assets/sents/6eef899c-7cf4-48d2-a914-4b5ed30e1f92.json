@@ -1,0 +1,13 @@
+{
+  "start":51007,
+  "end":51039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't\n   even receive help.",
+  "id":"6eef899c-7cf4-48d2-a914-4b5ed30e1f92",
+  "params":{
+    "id":"6eef899c-7cf4-48d2-a914-4b5ed30e1f92",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

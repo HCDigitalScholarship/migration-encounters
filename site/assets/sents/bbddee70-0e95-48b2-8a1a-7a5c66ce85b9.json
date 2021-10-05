@@ -1,0 +1,13 @@
+{
+  "start":11201,
+  "end":11279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't go to school, because my dad thought that if something\n   happened...",
+  "id":"bbddee70-0e95-48b2-8a1a-7a5c66ce85b9",
+  "params":{
+    "id":"bbddee70-0e95-48b2-8a1a-7a5c66ce85b9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

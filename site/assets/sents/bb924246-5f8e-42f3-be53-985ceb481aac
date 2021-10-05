@@ -1,0 +1,12 @@
+{
+  "start":15260,
+  "end":15271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it fun?",
+  "id":"bb924246-5f8e-42f3-be53-985ceb481aac",
+  "params":{
+    "id":"8caf44b4-0df3-4aed-95d5-ef2433d0c91f"
+  },
+  "name":"Edgar"
+}

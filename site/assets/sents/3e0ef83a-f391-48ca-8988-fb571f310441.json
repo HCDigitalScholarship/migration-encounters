@@ -1,0 +1,13 @@
+{
+  "start":32688,
+  "end":32705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I kind of got it.",
+  "id":"3e0ef83a-f391-48ca-8988-fb571f310441",
+  "params":{
+    "id":"3e0ef83a-f391-48ca-8988-fb571f310441",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

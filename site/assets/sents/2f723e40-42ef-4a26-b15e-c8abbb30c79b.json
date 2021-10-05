@@ -1,0 +1,13 @@
+{
+  "start":3756,
+  "end":3784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I had issues, you know.",
+  "id":"2f723e40-42ef-4a26-b15e-c8abbb30c79b",
+  "params":{
+    "id":"2f723e40-42ef-4a26-b15e-c8abbb30c79b",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

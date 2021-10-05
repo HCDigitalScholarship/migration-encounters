@@ -1,0 +1,13 @@
+{
+  "start":14083,
+  "end":14109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told\n   me ten years.",
+  "id":"82b78119-68f5-456d-8a63-34bcfcad8d8f",
+  "params":{
+    "id":"82b78119-68f5-456d-8a63-34bcfcad8d8f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

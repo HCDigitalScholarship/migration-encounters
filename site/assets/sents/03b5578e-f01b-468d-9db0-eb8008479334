@@ -1,0 +1,12 @@
+{
+  "start":49466,
+  "end":49506,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Would you consider going back to the US?",
+  "id":"03b5578e-f01b-468d-9db0-eb8008479334",
+  "params":{
+    "id":"cc4cf6e7-05f3-460e-a346-28eb01ee4cc9"
+  },
+  "name":"Rodrigo"
+}

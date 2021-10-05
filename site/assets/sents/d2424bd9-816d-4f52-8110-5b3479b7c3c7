@@ -1,0 +1,12 @@
+{
+  "start":7239,
+  "end":7324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they\n   charged me for all the drugs because they didn't want to take the charge.",
+  "id":"d2424bd9-816d-4f52-8110-5b3479b7c3c7",
+  "params":{
+    "id":"753f047b-0e5b-401b-bfd3-033caf8b05a3"
+  },
+  "name":"Ivan"
+}

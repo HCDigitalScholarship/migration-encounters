@@ -1,0 +1,13 @@
+{
+  "start":25935,
+  "end":25950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Leave the room.",
+  "id":"a9b2e391-da83-4553-b221-1b8b93ced96c",
+  "params":{
+    "id":"a9b2e391-da83-4553-b221-1b8b93ced96c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

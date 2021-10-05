@@ -1,0 +1,13 @@
+{
+  "start":17313,
+  "end":17331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"'I don't like you.",
+  "id":"677273ad-6f3d-4c1d-ad05-58fc0946256b",
+  "params":{
+    "id":"677273ad-6f3d-4c1d-ad05-58fc0946256b",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

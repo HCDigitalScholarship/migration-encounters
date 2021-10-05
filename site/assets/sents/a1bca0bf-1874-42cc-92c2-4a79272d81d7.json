@@ -1,0 +1,12 @@
+{
+  "start":32479,
+  "end":32512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   started looking for schools.",
+  "id":"a1bca0bf-1874-42cc-92c2-4a79272d81d7",
+  "params":{
+    "id":"57ba3335-4bf4-4820-a487-c9aa59e4d9d6"
+  },
+  "name":"Sylent"
+}

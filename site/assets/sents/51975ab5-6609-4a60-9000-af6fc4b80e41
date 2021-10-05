@@ -1,0 +1,12 @@
+{
+  "start":70500,
+  "end":70516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All right, cool.",
+  "id":"51975ab5-6609-4a60-9000-af6fc4b80e41",
+  "params":{
+    "id":"537ecc4f-9519-415d-bcfa-202083c1ed67"
+  },
+  "name":"Axel"
+}

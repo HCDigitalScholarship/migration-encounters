@@ -1,0 +1,13 @@
+{
+  "start":33090,
+  "end":33193,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think living in the US made you a different person than you\n   would've been if you stayed here?",
+  "id":"72ba6dd0-895b-403f-89d7-739a2906c370",
+  "params":{
+    "id":"72ba6dd0-895b-403f-89d7-739a2906c370",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

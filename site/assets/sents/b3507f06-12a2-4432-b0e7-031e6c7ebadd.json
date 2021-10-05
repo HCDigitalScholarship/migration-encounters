@@ -1,0 +1,13 @@
+{
+  "start":21309,
+  "end":21339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I recognize that was my fault.",
+  "id":"b3507f06-12a2-4432-b0e7-031e6c7ebadd",
+  "params":{
+    "id":"b3507f06-12a2-4432-b0e7-031e6c7ebadd",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

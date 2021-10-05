@@ -1,0 +1,13 @@
+{
+  "start":10437,
+  "end":10469,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love my brother, he's awesome.",
+  "id":"f9390cba-204f-4902-bf22-fe1e289edd6e",
+  "params":{
+    "id":"f9390cba-204f-4902-bf22-fe1e289edd6e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25654,
+  "end":25699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's another one, but I really don't know.",
+  "id":"e18f8809-4e8e-4e6f-8b68-c64d0c029ca8",
+  "params":{
+    "id":"f18289c0-67e1-47fa-9611-c1489ae7c1f9"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13326,
+  "end":13397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"Because you don't have a state ID,\n   you're not from here.\"",
+  "id":"6e684c10-7a74-4758-afd2-52f79cdfae4b",
+  "params":{
+    "id":"0999329e-141d-4120-acd2-1f914b848704"
+  },
+  "name":"Rodolfo"
+}

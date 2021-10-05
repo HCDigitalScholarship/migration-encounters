@@ -1,0 +1,13 @@
+{
+  "start":3086,
+  "end":3111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad had been living in",
+  "id":"242093e3-13d0-422b-96b0-901e5d6a5974",
+  "params":{
+    "id":"242093e3-13d0-422b-96b0-901e5d6a5974",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

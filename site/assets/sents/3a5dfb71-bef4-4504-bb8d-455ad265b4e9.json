@@ -1,0 +1,13 @@
+{
+  "start":30715,
+  "end":30739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n   always afraid.",
+  "id":"3a5dfb71-bef4-4504-bb8d-455ad265b4e9",
+  "params":{
+    "id":"3a5dfb71-bef4-4504-bb8d-455ad265b4e9",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

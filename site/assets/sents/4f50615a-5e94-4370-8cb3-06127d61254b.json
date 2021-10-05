@@ -1,0 +1,13 @@
+{
+  "start":8558,
+  "end":8584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our relation, it was fine.",
+  "id":"4f50615a-5e94-4370-8cb3-06127d61254b",
+  "params":{
+    "id":"4f50615a-5e94-4370-8cb3-06127d61254b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

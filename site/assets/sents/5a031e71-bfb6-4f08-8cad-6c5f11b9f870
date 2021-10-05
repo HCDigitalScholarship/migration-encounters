@@ -1,0 +1,12 @@
+{
+  "start":5633,
+  "end":5674,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were hiking through a little\n   ranch.",
+  "id":"5a031e71-bfb6-4f08-8cad-6c5f11b9f870",
+  "params":{
+    "id":"07503d90-bfdf-4e14-8f11-6f63ae571a51"
+  },
+  "name":"Ruben"
+}

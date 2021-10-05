@@ -1,0 +1,13 @@
+{
+  "start":9604,
+  "end":9641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were just really nice, you know?",
+  "id":"c15c3fa4-1e50-4170-8cff-e8d4e45dcafc",
+  "params":{
+    "id":"c15c3fa4-1e50-4170-8cff-e8d4e45dcafc",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

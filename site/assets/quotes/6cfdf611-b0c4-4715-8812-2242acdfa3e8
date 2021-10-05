@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":200,
+  "end":204,
+  "text":"\n   Anita: How old are you Ivan?\n \n \n   Ivan: How old? I'm twenty-seven years old.\n \n \n   Anita: You were born in Mexico?\n \n \n   Ivan: Yes. I was born in Mexico.\n \n \n   Anita: Where in Mexico?\n \n \n   Ivan: In the city of Mexico.\n \n \n   Anita: Why did you migrate to the United States?\n \n \n   Ivan: I didn't. Well, my parents took me when I was a kid. I was only like\n   three years old and so they took m",
+  "label":"PERSON",
+  "id":"6cfdf611-b0c4-4715-8812-2242acdfa3e8",
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20515,
+  "end":20546,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a\n   very sad situation.",
+  "id":"2670e4d5-84be-435a-a57a-946454e08e69",
+  "params":{
+    "id":"2670e4d5-84be-435a-a57a-946454e08e69",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

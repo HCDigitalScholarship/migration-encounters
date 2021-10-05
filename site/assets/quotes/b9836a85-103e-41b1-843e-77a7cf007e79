@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":3937,
+  "end":3941,
+  "text":"d.\n \n \n   Anne: And you graduated.\n \n \n   Joseph: Yes.\n \n \n   Anne: Congratulations.\n \n \n   Joseph: Thank you.\n \n \n   Anne: Wow. That's great. What did you major in?\n \n \n   Joseph: Psychology.\n \n \n   Anne: Wow.\n \n \n   Joseph: Yes.\n \n \n   Anne: What a success story.\n \n \n   Joseph: Not really. I mean, people come and look at me and they don't see\n   your typical Mexican that was deported because of drug",
+  "label":"PERSON",
+  "id":"b9836a85-103e-41b1-843e-77a7cf007e79",
+  "name":"Joseph"
+}

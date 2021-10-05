@@ -1,0 +1,13 @@
+{
+  "start":7124,
+  "end":7161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, we would\n move a lot in the city.",
+  "id":"bc974f27-a7be-45fd-bb2f-4e224fd2e0aa",
+  "params":{
+    "id":"bc974f27-a7be-45fd-bb2f-4e224fd2e0aa",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6565,
+  "end":6599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still remember the whole action.",
+  "id":"cdcbc651-307c-4d41-8908-31da31c23979",
+  "params":{
+    "id":"cdcbc651-307c-4d41-8908-31da31c23979",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

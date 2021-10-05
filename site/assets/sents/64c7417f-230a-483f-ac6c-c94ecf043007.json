@@ -1,0 +1,13 @@
+{
+  "start":22156,
+  "end":22276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, we've been trying to do the same work in the U.S.\n   and we can't because people are too afraid to talk to us.",
+  "id":"64c7417f-230a-483f-ac6c-c94ecf043007",
+  "params":{
+    "id":"64c7417f-230a-483f-ac6c-c94ecf043007",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

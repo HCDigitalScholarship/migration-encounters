@@ -1,0 +1,13 @@
+{
+  "start":53856,
+  "end":53876,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's very strange.",
+  "id":"1fc808e2-e943-46c9-8182-4a215908eb72",
+  "params":{
+    "id":"1fc808e2-e943-46c9-8182-4a215908eb72",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

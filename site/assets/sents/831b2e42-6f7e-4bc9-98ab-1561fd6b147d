@@ -1,0 +1,12 @@
+{
+  "start":28549,
+  "end":28629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I'm half Nicaraguan and I lived in\n Nicaragua for two years with my grandma.",
+  "id":"831b2e42-6f7e-4bc9-98ab-1561fd6b147d",
+  "params":{
+    "id":"b102693e-ab49-4b90-8822-cd738e19db35"
+  },
+  "name":"Billy"
+}

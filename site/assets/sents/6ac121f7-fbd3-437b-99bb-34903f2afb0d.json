@@ -1,0 +1,13 @@
+{
+  "start":22074,
+  "end":22092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just\nway out.",
+  "id":"6ac121f7-fbd3-437b-99bb-34903f2afb0d",
+  "params":{
+    "id":"6ac121f7-fbd3-437b-99bb-34903f2afb0d",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

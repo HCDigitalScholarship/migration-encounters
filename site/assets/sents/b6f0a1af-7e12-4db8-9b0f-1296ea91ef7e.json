@@ -1,0 +1,13 @@
+{
+  "start":15660,
+  "end":15680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't either,\n   ",
+  "id":"b6f0a1af-7e12-4db8-9b0f-1296ea91ef7e",
+  "params":{
+    "id":"b6f0a1af-7e12-4db8-9b0f-1296ea91ef7e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

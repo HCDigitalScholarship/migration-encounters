@@ -1,0 +1,13 @@
+{
+  "start":12601,
+  "end":12661,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to get 2000 pesos, I don't know, every two weeks.\"",
+  "id":"fff01d57-55bd-4bc9-a7fd-4478eb0e7b50",
+  "params":{
+    "id":"fff01d57-55bd-4bc9-a7fd-4478eb0e7b50",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2257,
+  "end":2266,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He works.",
+  "id":"22f986dd-7524-455d-ac9c-d75519045a60",
+  "params":{
+    "id":"22f986dd-7524-455d-ac9c-d75519045a60",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

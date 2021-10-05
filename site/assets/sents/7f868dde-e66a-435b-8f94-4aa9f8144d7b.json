@@ -1,0 +1,13 @@
+{
+  "start":15555,
+  "end":15585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll give you another example.",
+  "id":"7f868dde-e66a-435b-8f94-4aa9f8144d7b",
+  "params":{
+    "id":"7f868dde-e66a-435b-8f94-4aa9f8144d7b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16705,
+  "end":16719,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She did great.",
+  "id":"f20949e8-7e11-41cd-a3fd-9c2e659e0488",
+  "params":{
+    "id":"f20949e8-7e11-41cd-a3fd-9c2e659e0488",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

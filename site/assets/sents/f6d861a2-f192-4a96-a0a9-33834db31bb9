@@ -1,0 +1,12 @@
+{
+  "start":6060,
+  "end":6103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was one\n   of the very first memories.",
+  "id":"f6d861a2-f192-4a96-a0a9-33834db31bb9",
+  "params":{
+    "id":"4129244a-956e-43e6-bd5e-37095697d0a9"
+  },
+  "name":"Rodolfo"
+}

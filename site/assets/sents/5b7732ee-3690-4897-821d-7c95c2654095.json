@@ -1,0 +1,13 @@
+{
+  "start":26637,
+  "end":26692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I told her, \"Hey, I think I'm going to go\n   back.\"",
+  "id":"5b7732ee-3690-4897-821d-7c95c2654095",
+  "params":{
+    "id":"5b7732ee-3690-4897-821d-7c95c2654095",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

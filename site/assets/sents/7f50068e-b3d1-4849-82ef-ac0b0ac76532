@@ -1,0 +1,12 @@
+{
+  "start":17571,
+  "end":17597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that stressful for you?",
+  "id":"7f50068e-b3d1-4849-82ef-ac0b0ac76532",
+  "params":{
+    "id":"c1af0afb-e3a0-4cf0-b5a7-2bb6952bbe78"
+  },
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30950,
+  "end":30993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been single ever since\n   I came back.",
+  "id":"c9f5f10d-5869-4ce0-a6c5-103c24d78ab4",
+  "params":{
+    "id":"c9f5f10d-5869-4ce0-a6c5-103c24d78ab4",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

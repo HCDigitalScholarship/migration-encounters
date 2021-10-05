@@ -1,0 +1,12 @@
+{
+  "start":26300,
+  "end":26349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He just approached me, and he was really\n   nice.",
+  "id":"5d36c4c5-72cb-493b-a2da-390c79d79187",
+  "params":{
+    "id":"6892bb98-9c1f-4b87-b1d3-c6a982890308"
+  },
+  "name":"Luis A"
+}

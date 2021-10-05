@@ -1,0 +1,13 @@
+{
+  "start":425,
+  "end":489,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember when your parents told you or how you found out?",
+  "id":"cb0be922-8f2b-4845-80ff-d1b9357fdd84",
+  "params":{
+    "id":"cb0be922-8f2b-4845-80ff-d1b9357fdd84",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

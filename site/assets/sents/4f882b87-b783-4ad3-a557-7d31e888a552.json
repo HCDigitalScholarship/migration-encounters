@@ -1,0 +1,13 @@
+{
+  "start":12209,
+  "end":12227,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go to Mexico.\"",
+  "id":"4f882b87-b783-4ad3-a557-7d31e888a552",
+  "params":{
+    "id":"4f882b87-b783-4ad3-a557-7d31e888a552",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

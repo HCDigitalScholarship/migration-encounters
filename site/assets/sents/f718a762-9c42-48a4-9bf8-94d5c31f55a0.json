@@ -1,0 +1,12 @@
+{
+  "start":835,
+  "end":857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you went to school?",
+  "id":"f718a762-9c42-48a4-9bf8-94d5c31f55a0",
+  "params":{
+    "id":"bd75e6d0-f323-4fec-b851-7998aadcc798"
+  },
+  "name":"Ivan"
+}

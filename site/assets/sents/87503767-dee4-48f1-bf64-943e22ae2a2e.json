@@ -1,0 +1,13 @@
+{
+  "start":14351,
+  "end":14393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I'm going to try to make a\n   deal.\"",
+  "id":"87503767-dee4-48f1-bf64-943e22ae2a2e",
+  "params":{
+    "id":"87503767-dee4-48f1-bf64-943e22ae2a2e",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

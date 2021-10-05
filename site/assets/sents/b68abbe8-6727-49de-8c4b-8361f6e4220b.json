@@ -1,0 +1,13 @@
+{
+  "start":5738,
+  "end":5825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, she was\n   crying and happy at the same time, because she was really worried.",
+  "id":"b68abbe8-6727-49de-8c4b-8361f6e4220b",
+  "params":{
+    "id":"b68abbe8-6727-49de-8c4b-8361f6e4220b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23994,
+  "end":24015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   But I'm going to.",
+  "id":"844da993-ede0-4e15-a2d3-b0385e229b3e",
+  "params":{
+    "id":"844da993-ede0-4e15-a2d3-b0385e229b3e",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

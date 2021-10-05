@@ -1,0 +1,13 @@
+{
+  "start":77340,
+  "end":77411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's not there physically, but he's there when I need him\n emotionally.",
+  "id":"2e402ef0-3965-47a9-9d66-faee40871515",
+  "params":{
+    "id":"2e402ef0-3965-47a9-9d66-faee40871515",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

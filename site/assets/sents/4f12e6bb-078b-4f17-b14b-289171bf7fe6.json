@@ -1,0 +1,13 @@
+{
+  "start":44734,
+  "end":44762,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's an actor or an actress.",
+  "id":"4f12e6bb-078b-4f17-b14b-289171bf7fe6",
+  "params":{
+    "id":"4f12e6bb-078b-4f17-b14b-289171bf7fe6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

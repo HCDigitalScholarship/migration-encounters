@@ -1,0 +1,13 @@
+{
+  "start":10650,
+  "end":10724,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those are numbers, and that's\n   something that can't be denied, you know?",
+  "id":"911d0028-51e3-4eac-95a9-bf5722245619",
+  "params":{
+    "id":"911d0028-51e3-4eac-95a9-bf5722245619",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

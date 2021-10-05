@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":9223,
+  "end":9231,
+  "text":": And you live with other relatives besides just your mom?\n \n \n   Carolina: My grandma.\n \n \n   Anne: Your grandma. So her mother?\n \n \n   Carolina: Yes.\n \n \n   Anne: Oh, the one who raised you?\n \n \n   Carolina: Yes, the one who raised me.\n \n \n   Anne: So that must have been nice to see her.\n \n \n   Carolina: It was really nice. Whenever we got here, she cried because of\n   happiness I guess. She was happy. ",
+  "label":"PERSON",
+  "id":"2a67de49-cce1-4050-b7b1-b28e03e4c7a3",
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26379,
+  "end":26423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These are really new concept here in Mexico.",
+  "id":"0e30625f-db93-4efb-9f3e-cc03adfb9539",
+  "params":{
+    "id":"0e30625f-db93-4efb-9f3e-cc03adfb9539",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

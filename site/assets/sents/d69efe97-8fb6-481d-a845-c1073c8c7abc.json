@@ -1,0 +1,13 @@
+{
+  "start":22330,
+  "end":22387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I met my wife, I had all my stuff, my cooking stuff.",
+  "id":"d69efe97-8fb6-481d-a845-c1073c8c7abc",
+  "params":{
+    "id":"d69efe97-8fb6-481d-a845-c1073c8c7abc",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

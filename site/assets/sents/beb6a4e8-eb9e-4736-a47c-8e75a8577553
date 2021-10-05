@@ -1,0 +1,12 @@
+{
+  "start":37564,
+  "end":37613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had to show that\n they were doing something.",
+  "id":"beb6a4e8-eb9e-4736-a47c-8e75a8577553",
+  "params":{
+    "id":"c99bb2f0-25a8-40d7-9474-4d58fcaadaa7"
+  },
+  "name":"Ben"
+}

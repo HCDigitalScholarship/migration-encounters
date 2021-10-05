@@ -1,0 +1,13 @@
+{
+  "start":34350,
+  "end":34379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry I get out of track.",
+  "id":"32d99e4d-ad8b-4ff8-95f6-fdac59b6fbd1",
+  "params":{
+    "id":"32d99e4d-ad8b-4ff8-95f6-fdac59b6fbd1",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

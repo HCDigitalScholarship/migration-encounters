@@ -1,0 +1,15 @@
+{
+  "start":1717,
+  "end":1791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I still have the envelope, as a memory, and I\n   have all those papers.",
+  "id":"c90075d7-cb86-4e87-9692-b11e36aa66b1",
+  "params":{
+    "id":"c90075d7-cb86-4e87-9692-b11e36aa66b1",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

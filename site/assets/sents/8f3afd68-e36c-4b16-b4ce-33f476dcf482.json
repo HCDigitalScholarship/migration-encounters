@@ -1,0 +1,13 @@
+{
+  "start":20817,
+  "end":20876,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I ditched like three times and\n   they put me on probation.",
+  "id":"8f3afd68-e36c-4b16-b4ce-33f476dcf482",
+  "params":{
+    "id":"8f3afd68-e36c-4b16-b4ce-33f476dcf482",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

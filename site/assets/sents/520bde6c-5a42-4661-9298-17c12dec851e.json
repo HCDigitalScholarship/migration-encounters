@@ -1,0 +1,13 @@
+{
+  "start":19475,
+  "end":19490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey my friend.",
+  "id":"520bde6c-5a42-4661-9298-17c12dec851e",
+  "params":{
+    "id":"520bde6c-5a42-4661-9298-17c12dec851e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

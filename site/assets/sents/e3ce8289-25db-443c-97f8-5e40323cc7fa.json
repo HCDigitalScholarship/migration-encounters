@@ -1,0 +1,13 @@
+{
+  "start":3908,
+  "end":3937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have one boy and two girls.",
+  "id":"e3ce8289-25db-443c-97f8-5e40323cc7fa",
+  "params":{
+    "id":"e3ce8289-25db-443c-97f8-5e40323cc7fa",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

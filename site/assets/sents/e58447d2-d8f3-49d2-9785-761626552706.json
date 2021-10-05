@@ -1,0 +1,12 @@
+{
+  "start":10946,
+  "end":10964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't do that.",
+  "id":"e58447d2-d8f3-49d2-9785-761626552706",
+  "params":{
+    "id":"f6e5c99f-f28c-4a10-877d-6dd3f38565a4"
+  },
+  "name":"Hugo"
+}

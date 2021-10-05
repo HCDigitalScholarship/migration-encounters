@@ -1,0 +1,13 @@
+{
+  "start":2418,
+  "end":2469,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it's Drivers Cruising, something like that.",
+  "id":"f0a2763c-5e40-43ef-a1d2-2cb4dda48f86",
+  "params":{
+    "id":"f0a2763c-5e40-43ef-a1d2-2cb4dda48f86",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

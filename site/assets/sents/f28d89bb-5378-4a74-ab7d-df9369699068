@@ -1,0 +1,12 @@
+{
+  "start":53976,
+  "end":54005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which is good, for\n   Mexico.",
+  "id":"f28d89bb-5378-4a74-ab7d-df9369699068",
+  "params":{
+    "id":"dd40d19e-d0a3-4c3d-a12a-13690056de5d"
+  },
+  "name":"Miguel A"
+}

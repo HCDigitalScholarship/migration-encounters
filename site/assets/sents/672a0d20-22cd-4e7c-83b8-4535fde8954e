@@ -1,0 +1,12 @@
+{
+  "start":38100,
+  "end":38120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll raise\n my hand.",
+  "id":"672a0d20-22cd-4e7c-83b8-4535fde8954e",
+  "params":{
+    "id":"bc30f3df-27f4-420a-bceb-a1de9023b63d"
+  },
+  "name":"Axel"
+}

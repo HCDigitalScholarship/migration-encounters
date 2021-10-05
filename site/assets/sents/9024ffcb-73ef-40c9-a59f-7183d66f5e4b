@@ -1,0 +1,12 @@
+{
+  "start":28334,
+  "end":28409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dijo, \u201cMami yo no puedo estar aqu\u00ed, yo necesito estar con mi\n     hermano\u201d.",
+  "id":"9024ffcb-73ef-40c9-a59f-7183d66f5e4b",
+  "params":{
+    "id":"46dc1796-c618-4651-bfe0-4517620fa4a5"
+  },
+  "name":"Maria"
+}

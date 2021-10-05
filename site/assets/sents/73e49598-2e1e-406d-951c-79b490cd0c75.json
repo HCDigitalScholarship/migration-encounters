@@ -1,0 +1,13 @@
+{
+  "start":23933,
+  "end":23984,
+  "label":"SENT",
+  "type":"sent",
+  "text":"that\n he went, that's to say a lot for two parents.",
+  "id":"73e49598-2e1e-406d-951c-79b490cd0c75",
+  "params":{
+    "id":"73e49598-2e1e-406d-951c-79b490cd0c75",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

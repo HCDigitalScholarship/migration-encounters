@@ -1,0 +1,13 @@
+{
+  "start":5585,
+  "end":5682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   loner, and then you come here and they segregate you because you can't talk\n   good Spanish.",
+  "id":"2f49ebfe-86f2-46ae-86d5-84e4968308f9",
+  "params":{
+    "id":"2f49ebfe-86f2-46ae-86d5-84e4968308f9",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8733,
+  "end":8788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took all my money,\n   thousand dollars every time.",
+  "id":"e0108d7b-8c9a-4745-b6db-7c0789be16fd",
+  "params":{
+    "id":"e0108d7b-8c9a-4745-b6db-7c0789be16fd",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

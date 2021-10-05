@@ -1,0 +1,12 @@
+{
+  "start":22567,
+  "end":22587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just weird man.",
+  "id":"e6dffc02-3ee8-4681-b105-115d3f3b53b7",
+  "params":{
+    "id":"b3c59c5e-9d6b-4a52-bfd6-369abfd46749"
+  },
+  "name":"Mike"
+}

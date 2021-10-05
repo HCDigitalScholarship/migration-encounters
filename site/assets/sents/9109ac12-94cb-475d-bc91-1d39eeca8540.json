@@ -1,0 +1,13 @@
+{
+  "start":24014,
+  "end":24089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Christmas parties where the company invites the whole\n   co-workers to eat.",
+  "id":"9109ac12-94cb-475d-bc91-1d39eeca8540",
+  "params":{
+    "id":"9109ac12-94cb-475d-bc91-1d39eeca8540",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

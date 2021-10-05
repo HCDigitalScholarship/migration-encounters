@@ -1,0 +1,12 @@
+{
+  "start":37449,
+  "end":37490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, right now, the gross pay is $8,000.",
+  "id":"a4d98cb5-d405-4e91-9f58-e5f8105efe22",
+  "params":{
+    "id":"cc2610ce-f5ac-4264-a8b4-d5723bd877a9"
+  },
+  "name":"Rodrigo"
+}

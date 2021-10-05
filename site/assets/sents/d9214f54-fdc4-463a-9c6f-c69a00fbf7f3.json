@@ -1,0 +1,13 @@
+{
+  "start":5656,
+  "end":5714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Did you do any sports or anything like that?",
+  "id":"d9214f54-fdc4-463a-9c6f-c69a00fbf7f3",
+  "params":{
+    "id":"d9214f54-fdc4-463a-9c6f-c69a00fbf7f3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

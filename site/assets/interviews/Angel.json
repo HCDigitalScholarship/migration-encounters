@@ -1,0 +1,31 @@
+{
+  "name":"Angel",
+  "date":"June 7, 2019",
+  "location":"Mexico City, Mexico",
+  "interviewer":"Anita Isaacs",
+  "portrait":"Angel_6-7-2019_Portrait.jpg",
+  "thumbnail":"Angel_6-7-2019_Thumbnail.jpg",
+  "text":"",
+  "annotations":[
+
+  ],
+  "audio":[
+    {
+      "name":"Dashed dreams and hopes for the future",
+      "src":"Angel_On_dashed_dreams_and_hopes_for_the_future.mp3"
+    },
+    {
+      "name":"Dashed dreams and hopes for the future 1",
+      "src":"Angel_On_dashed_dreams_and_hopes_for_the_future_1.mp3"
+    },
+    {
+      "name":"Getting into trouble",
+      "src":"Angel_On_getting_into_trouble.mp3"
+    },
+    {
+      "name":"Why he, and others like him, get into trouble",
+      "src":"Angel_On_why_he,_and_others_like_him,_get_into_trouble.mp3"
+    }
+  ],
+  "subjects":null
+}

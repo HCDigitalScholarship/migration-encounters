@@ -1,0 +1,12 @@
+{
+  "start":25451,
+  "end":25531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I know how they\n   feel because, some of them, they have the same situation.",
+  "id":"2455f945-b005-4e8e-a815-6792e7dbd7b2",
+  "params":{
+    "id":"ed9f655e-4116-4040-8319-feab262d3876"
+  },
+  "name":"Many"
+}

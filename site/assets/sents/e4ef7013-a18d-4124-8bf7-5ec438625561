@@ -1,0 +1,12 @@
+{
+  "start":21895,
+  "end":21922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you feel safe in Mexico?",
+  "id":"e4ef7013-a18d-4124-8bf7-5ec438625561",
+  "params":{
+    "id":"006da125-2a70-4c55-9f53-51d212e7bef2"
+  },
+  "name":"Josue"
+}

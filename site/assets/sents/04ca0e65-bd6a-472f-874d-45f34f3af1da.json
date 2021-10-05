@@ -1,0 +1,13 @@
+{
+  "start":17808,
+  "end":17826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really\n   don't.",
+  "id":"04ca0e65-bd6a-472f-874d-45f34f3af1da",
+  "params":{
+    "id":"04ca0e65-bd6a-472f-874d-45f34f3af1da",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

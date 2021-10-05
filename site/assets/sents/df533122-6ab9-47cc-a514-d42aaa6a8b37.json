@@ -1,0 +1,13 @@
+{
+  "start":23072,
+  "end":23098,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody's getting a job.",
+  "id":"df533122-6ab9-47cc-a514-d42aaa6a8b37",
+  "params":{
+    "id":"df533122-6ab9-47cc-a514-d42aaa6a8b37",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

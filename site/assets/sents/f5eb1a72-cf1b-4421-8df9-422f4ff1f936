@@ -1,0 +1,12 @@
+{
+  "start":37051,
+  "end":37074,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's close to my house.",
+  "id":"f5eb1a72-cf1b-4421-8df9-422f4ff1f936",
+  "params":{
+    "id":"dbd34aed-48af-4940-8181-bd64a1159adc"
+  },
+  "name":"Rodrigo"
+}

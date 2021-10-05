@@ -1,0 +1,13 @@
+{
+  "start":24915,
+  "end":24967,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"No,\n   that's not happening with us.\"",
+  "id":"55a8fbee-1c7e-4f17-8bcd-cb1cd47e30dc",
+  "params":{
+    "id":"55a8fbee-1c7e-4f17-8bcd-cb1cd47e30dc",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

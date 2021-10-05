@@ -1,0 +1,13 @@
+{
+  "start":43793,
+  "end":43815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's basically a wrap.",
+  "id":"4ebc42ac-4915-4de8-a886-17216e225676",
+  "params":{
+    "id":"4ebc42ac-4915-4de8-a886-17216e225676",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

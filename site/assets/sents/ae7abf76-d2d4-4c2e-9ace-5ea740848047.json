@@ -1,0 +1,13 @@
+{
+  "start":30988,
+  "end":31017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started\n   working on that.",
+  "id":"ae7abf76-d2d4-4c2e-9ace-5ea740848047",
+  "params":{
+    "id":"ae7abf76-d2d4-4c2e-9ace-5ea740848047",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

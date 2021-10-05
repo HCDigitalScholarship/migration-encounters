@@ -1,0 +1,12 @@
+{
+  "start":7898,
+  "end":7972,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And they're like,\n   \"Yeah, it's a little boring, but yes, we understand.\"",
+  "id":"90f48b98-38a1-4e6b-b0e2-f10daa8cfd21",
+  "params":{
+    "id":"88ba0275-18c0-4c21-ba4e-d751760ba1f8"
+  },
+  "name":"Hugo"
+}

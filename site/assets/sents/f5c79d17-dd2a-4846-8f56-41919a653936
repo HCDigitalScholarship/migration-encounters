@@ -1,0 +1,12 @@
+{
+  "start":74479,
+  "end":74568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something that\n   I did with my own hands from my own knowledge, something that I learned",
+  "id":"f5c79d17-dd2a-4846-8f56-41919a653936",
+  "params":{
+    "id":"d8d79328-c6cf-4fbb-8307-bf8f7e5f2172"
+  },
+  "name":"Cris"
+}

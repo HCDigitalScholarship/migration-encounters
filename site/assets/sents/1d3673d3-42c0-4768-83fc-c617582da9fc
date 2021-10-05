@@ -1,0 +1,12 @@
+{
+  "start":18241,
+  "end":18280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\" Oh, you've never been to this place?\"",
+  "id":"1d3673d3-42c0-4768-83fc-c617582da9fc",
+  "params":{
+    "id":"840d94b1-c643-4cf7-a601-d1a8ff42e29c"
+  },
+  "name":"Beto"
+}

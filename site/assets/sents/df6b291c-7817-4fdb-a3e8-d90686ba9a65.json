@@ -1,0 +1,13 @@
+{
+  "start":48130,
+  "end":48208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The only thing is that when you don't\n   have a job, that's a little bit hard.",
+  "id":"df6b291c-7817-4fdb-a3e8-d90686ba9a65",
+  "params":{
+    "id":"df6b291c-7817-4fdb-a3e8-d90686ba9a65",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

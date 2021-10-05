@@ -1,0 +1,13 @@
+{
+  "start":39044,
+  "end":39070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've always\n wanted to go.",
+  "id":"59a208e9-5b4d-4cf8-bebd-5c9701dae576",
+  "params":{
+    "id":"59a208e9-5b4d-4cf8-bebd-5c9701dae576",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

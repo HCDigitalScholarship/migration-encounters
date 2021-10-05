@@ -1,0 +1,13 @@
+{
+  "start":15352,
+  "end":15405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You got there when you\n   were nine, 10?\n \n \n   Yair:",
+  "id":"c7c46441-4ddf-4cae-a869-6cada35c6d9a",
+  "params":{
+    "id":"c7c46441-4ddf-4cae-a869-6cada35c6d9a",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

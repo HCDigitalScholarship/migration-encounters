@@ -1,0 +1,13 @@
+{
+  "start":32793,
+  "end":32827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every day for 12 years of my life.",
+  "id":"43bc120e-cdf0-41df-b069-92c9f069c679",
+  "params":{
+    "id":"43bc120e-cdf0-41df-b069-92c9f069c679",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

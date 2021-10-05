@@ -1,0 +1,13 @@
+{
+  "start":10773,
+  "end":10825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things got difficult for you guys after that, right?",
+  "id":"ca30c462-1fcf-48cc-9074-746fd3676274",
+  "params":{
+    "id":"ca30c462-1fcf-48cc-9074-746fd3676274",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

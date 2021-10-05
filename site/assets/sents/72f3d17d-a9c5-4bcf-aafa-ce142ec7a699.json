@@ -1,0 +1,13 @@
+{
+  "start":12566,
+  "end":12624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She needs to have somebody that takes care of her\n   24/7.",
+  "id":"72f3d17d-a9c5-4bcf-aafa-ce142ec7a699",
+  "params":{
+    "id":"72f3d17d-a9c5-4bcf-aafa-ce142ec7a699",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11991,
+  "end":12045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You get caught in this robbery that you're unaware of.",
+  "id":"c3c2b0d5-49b5-4de5-92af-e847f1cb300d",
+  "params":{
+    "id":"0d5f3e7e-147c-492a-a839-eb5c07219b53"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29023,
+  "end":29056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I totally get what you're saying.",
+  "id":"a8d2d109-0c29-4ce4-a550-8069f773fd05",
+  "params":{
+    "id":"a8d2d109-0c29-4ce4-a550-8069f773fd05",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

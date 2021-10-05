@@ -1,0 +1,13 @@
+{
+  "start":25108,
+  "end":25125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, probably not.",
+  "id":"95d969ee-5b3d-4fe2-9e93-fc58b656ac66",
+  "params":{
+    "id":"95d969ee-5b3d-4fe2-9e93-fc58b656ac66",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15977,
+  "end":16001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I'm not taking that.",
+  "id":"40bb49c9-6cd9-43d5-a755-5b2f77021bf3",
+  "params":{
+    "id":"40bb49c9-6cd9-43d5-a755-5b2f77021bf3",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

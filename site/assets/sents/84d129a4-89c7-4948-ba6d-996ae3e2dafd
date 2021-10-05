@@ -1,0 +1,12 @@
+{
+  "start":23360,
+  "end":23407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you feel American or Mexican?",
+  "id":"84d129a4-89c7-4948-ba6d-996ae3e2dafd",
+  "params":{
+    "id":"c9f373d2-7977-4f89-87f1-582dc171b3ea"
+  },
+  "name":"Joana"
+}

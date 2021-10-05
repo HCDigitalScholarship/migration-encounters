@@ -1,0 +1,13 @@
+{
+  "start":5318,
+  "end":5435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You never know who's going to\n   come through that door or who's going to be sleeping with you on the next\n   bunker.",
+  "id":"a7e001c4-443b-4bd1-86f7-3a095dbcfbca",
+  "params":{
+    "id":"a7e001c4-443b-4bd1-86f7-3a095dbcfbca",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

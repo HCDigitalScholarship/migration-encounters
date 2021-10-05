@@ -1,0 +1,13 @@
+{
+  "start":54013,
+  "end":54034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You left your family.",
+  "id":"0e903430-bf2f-4827-a0ec-555a94c0da58",
+  "params":{
+    "id":"0e903430-bf2f-4827-a0ec-555a94c0da58",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

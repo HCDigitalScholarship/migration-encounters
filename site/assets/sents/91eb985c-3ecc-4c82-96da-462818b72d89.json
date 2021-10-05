@@ -1,0 +1,15 @@
+{
+  "start":5181,
+  "end":5266,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once you get out you\n   have to pay the service and you start getting a lot of ranks.",
+  "id":"91eb985c-3ecc-4c82-96da-462818b72d89",
+  "params":{
+    "id":"91eb985c-3ecc-4c82-96da-462818b72d89",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

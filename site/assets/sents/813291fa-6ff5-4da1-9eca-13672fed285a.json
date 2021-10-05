@@ -1,0 +1,13 @@
+{
+  "start":33781,
+  "end":33823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I needed it, she\n   was there for me.",
+  "id":"813291fa-6ff5-4da1-9eca-13672fed285a",
+  "params":{
+    "id":"813291fa-6ff5-4da1-9eca-13672fed285a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

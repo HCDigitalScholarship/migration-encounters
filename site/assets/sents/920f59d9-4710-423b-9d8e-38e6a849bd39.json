@@ -1,0 +1,15 @@
+{
+  "start":20212,
+  "end":20275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Frank: As equal because compassion you are feeling bad.",
+  "id":"920f59d9-4710-423b-9d8e-38e6a849bd39",
+  "params":{
+    "id":"920f59d9-4710-423b-9d8e-38e6a849bd39",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

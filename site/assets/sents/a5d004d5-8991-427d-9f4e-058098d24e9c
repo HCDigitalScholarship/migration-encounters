@@ -1,0 +1,12 @@
+{
+  "start":8095,
+  "end":8110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"she\n   lost it.",
+  "id":"a5d004d5-8991-427d-9f4e-058098d24e9c",
+  "params":{
+    "id":"006c97cb-824e-420d-bcb1-d961d9035b99"
+  },
+  "name":"Pablo"
+}

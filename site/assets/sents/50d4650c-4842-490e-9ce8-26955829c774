@@ -1,0 +1,12 @@
+{
+  "start":4000,
+  "end":4018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A blunt in my ear.",
+  "id":"50d4650c-4842-490e-9ce8-26955829c774",
+  "params":{
+    "id":"03de076c-7f40-4e11-964b-c690262beb24"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1953,
+  "end":1986,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something new from the beginning.",
+  "id":"9a4b085f-e925-4279-91d8-369b2bc7c4c0",
+  "params":{
+    "id":"9a4b085f-e925-4279-91d8-369b2bc7c4c0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

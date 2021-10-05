@@ -1,0 +1,13 @@
+{
+  "start":10333,
+  "end":10357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Edgar: Drop out?",
+  "id":"ea58c8a3-0bdd-4c3b-9971-89a82462d20d",
+  "params":{
+    "id":"ea58c8a3-0bdd-4c3b-9971-89a82462d20d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

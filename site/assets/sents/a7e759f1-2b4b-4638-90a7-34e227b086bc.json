@@ -1,0 +1,13 @@
+{
+  "start":43214,
+  "end":43395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"So you're going to have to go before\n the judge again so he can see what we're going to have to do, if he's going\n to extend your probation or see what his judgment is.\"",
+  "id":"a7e759f1-2b4b-4638-90a7-34e227b086bc",
+  "params":{
+    "id":"a7e759f1-2b4b-4638-90a7-34e227b086bc",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

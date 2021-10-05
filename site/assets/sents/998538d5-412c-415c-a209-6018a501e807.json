@@ -1,0 +1,13 @@
+{
+  "start":770,
+  "end":790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He is living here in",
+  "id":"998538d5-412c-415c-a209-6018a501e807",
+  "params":{
+    "id":"998538d5-412c-415c-a209-6018a501e807",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

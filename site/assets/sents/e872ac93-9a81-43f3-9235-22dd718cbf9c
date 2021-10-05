@@ -1,0 +1,12 @@
+{
+  "start":9627,
+  "end":9676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was a very good cook, so he brought me\n along.",
+  "id":"e872ac93-9a81-43f3-9235-22dd718cbf9c",
+  "params":{
+    "id":"6608a0e4-db39-491d-baf9-feb2e3e6ceef"
+  },
+  "name":"Angelo"
+}

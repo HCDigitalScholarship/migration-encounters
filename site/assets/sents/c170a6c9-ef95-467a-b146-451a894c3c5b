@@ -1,0 +1,12 @@
+{
+  "start":5601,
+  "end":5623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It's a stop light.",
+  "id":"c170a6c9-ef95-467a-b146-451a894c3c5b",
+  "params":{
+    "id":"442678ef-6c19-4a1f-bd56-79230eb789c2"
+  },
+  "name":"Kevin"
+}

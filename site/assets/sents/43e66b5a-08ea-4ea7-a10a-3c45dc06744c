@@ -1,0 +1,12 @@
+{
+  "start":5175,
+  "end":5192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love Taco Bell.",
+  "id":"43e66b5a-08ea-4ea7-a10a-3c45dc06744c",
+  "params":{
+    "id":"64ddb6f8-9ce0-4477-9d46-0fee348fe63d"
+  },
+  "name":"Mike"
+}

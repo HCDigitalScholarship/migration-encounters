@@ -1,0 +1,12 @@
+{
+  "start":809,
+  "end":838,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Joseph: 22 years old.",
+  "id":"8e91b54d-d239-4186-a820-2da94528fe41",
+  "params":{
+    "id":"c73a540a-5a06-48e8-ae58-6c53f20302ba"
+  },
+  "name":"Joseph"
+}

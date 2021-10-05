@@ -1,0 +1,13 @@
+{
+  "start":23323,
+  "end":23359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think it was the best thing.",
+  "id":"3a6f0d93-aae0-4d50-95d2-162ca5ad39d4",
+  "params":{
+    "id":"3a6f0d93-aae0-4d50-95d2-162ca5ad39d4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36330,
+  "end":36426,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just trying to do the right\n   thing, because I felt like the world owed me all the time I lost.",
+  "id":"1a29ba5e-23a2-4531-ae83-c87060dc5675",
+  "params":{
+    "id":"b663099e-040d-4de6-b194-cae75267e830"
+  },
+  "name":"Mike"
+}

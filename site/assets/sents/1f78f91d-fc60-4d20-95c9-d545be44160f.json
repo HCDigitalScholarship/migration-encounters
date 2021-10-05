@@ -1,0 +1,13 @@
+{
+  "start":2469,
+  "end":2550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why\n he went to California because he had an uncle that was there already.",
+  "id":"1f78f91d-fc60-4d20-95c9-d545be44160f",
+  "params":{
+    "id":"1f78f91d-fc60-4d20-95c9-d545be44160f",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

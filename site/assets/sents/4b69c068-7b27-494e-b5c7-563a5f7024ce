@@ -1,0 +1,12 @@
+{
+  "start":902,
+  "end":915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a kid.",
+  "id":"4b69c068-7b27-494e-b5c7-563a5f7024ce",
+  "params":{
+    "id":"57c2e125-1e5d-4b23-b97f-4260f0ad8643"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19514,
+  "end":19553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something that we don't\n     have here.",
+  "id":"ccf7bacf-6f9c-41de-94af-aac76d9f9688",
+  "params":{
+    "id":"d7154498-58a0-4726-88d2-0545cb2667be"
+  },
+  "name":"Beto"
+}

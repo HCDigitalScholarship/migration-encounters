@@ -1,0 +1,13 @@
+{
+  "start":22142,
+  "end":22159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not really...",
+  "id":"bd70b372-16c5-4cdd-a6a6-a758372bff88",
+  "params":{
+    "id":"bd70b372-16c5-4cdd-a6a6-a758372bff88",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2950,
+  "end":3000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Did you start first grade in the US?",
+  "id":"29556dc1-a142-460d-b34f-18f3e7e876a0",
+  "params":{
+    "id":"73c89cd8-f93f-4347-a61f-7179ec7e2fca"
+  },
+  "name":"Carlos"
+}

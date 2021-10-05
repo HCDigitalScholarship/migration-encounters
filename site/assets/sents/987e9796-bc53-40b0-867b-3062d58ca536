@@ -1,0 +1,12 @@
+{
+  "start":5222,
+  "end":5312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We ran out of water,\n   we ran out of food, we ran out of everything; the coyote got lost.",
+  "id":"987e9796-bc53-40b0-867b-3062d58ca536",
+  "params":{
+    "id":"f022faf2-bc18-4b33-bf6b-b56e1d8ba918"
+  },
+  "name":"Ilse"
+}

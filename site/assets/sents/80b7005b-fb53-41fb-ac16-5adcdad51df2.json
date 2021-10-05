@@ -1,0 +1,13 @@
+{
+  "start":5715,
+  "end":5771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the same time, I wanted to learn about my\n   culture.",
+  "id":"80b7005b-fb53-41fb-ac16-5adcdad51df2",
+  "params":{
+    "id":"80b7005b-fb53-41fb-ac16-5adcdad51df2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15774,
+  "end":15802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you bring to Mexico?",
+  "id":"faa20b3e-f5e4-43a6-bdb8-235072187230",
+  "params":{
+    "id":"faa20b3e-f5e4-43a6-bdb8-235072187230",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

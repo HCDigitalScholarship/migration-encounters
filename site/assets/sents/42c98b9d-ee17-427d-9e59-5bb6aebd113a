@@ -1,0 +1,12 @@
+{
+  "start":5084,
+  "end":5113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They manage a similar system.",
+  "id":"42c98b9d-ee17-427d-9e59-5bb6aebd113a",
+  "params":{
+    "id":"705ff9a5-10e9-4adf-9070-840d39272b5b"
+  },
+  "name":"Beto"
+}

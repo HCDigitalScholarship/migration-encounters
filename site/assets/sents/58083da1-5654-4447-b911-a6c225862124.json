@@ -1,0 +1,13 @@
+{
+  "start":22980,
+  "end":23050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't receive any help from the government when you came\n   back?",
+  "id":"58083da1-5654-4447-b911-a6c225862124",
+  "params":{
+    "id":"58083da1-5654-4447-b911-a6c225862124",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

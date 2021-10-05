@@ -1,0 +1,13 @@
+{
+  "start":9795,
+  "end":9833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long have you been back in Mexico?",
+  "id":"34960d9c-e5a6-41f3-a700-cc6674fab0f8",
+  "params":{
+    "id":"34960d9c-e5a6-41f3-a700-cc6674fab0f8",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26977,
+  "end":27026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She stayed all by herself for another five years?",
+  "id":"ea4ea191-4009-4671-b89b-16d64d99ab4e",
+  "params":{
+    "id":"ea4ea191-4009-4671-b89b-16d64d99ab4e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

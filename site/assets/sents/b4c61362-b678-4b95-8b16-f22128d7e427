@@ -1,0 +1,12 @@
+{
+  "start":33756,
+  "end":33789,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not going against the law.",
+  "id":"b4c61362-b678-4b95-8b16-f22128d7e427",
+  "params":{
+    "id":"dcf0af0f-375a-456e-beec-75340f5d9b5d"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19291,
+  "end":19315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You live in Mexico City?",
+  "id":"a3c285ef-be32-4b03-bb53-0b58a78241ae",
+  "params":{
+    "id":"43a02be0-2a0a-443f-84de-4715cbca9567"
+  },
+  "name":"Melani"
+}

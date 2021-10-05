@@ -1,0 +1,12 @@
+{
+  "start":26232,
+  "end":26265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And at the same time, he's a man.",
+  "id":"8d3d0cd7-409d-4366-9658-1d20f5b2d351",
+  "params":{
+    "id":"967222e8-75fe-4678-a438-726f9f8c73ec"
+  },
+  "name":"Billy"
+}

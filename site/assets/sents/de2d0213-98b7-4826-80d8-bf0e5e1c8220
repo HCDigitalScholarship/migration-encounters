@@ -1,0 +1,12 @@
+{
+  "start":10791,
+  "end":10826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents don't like none of that.",
+  "id":"de2d0213-98b7-4826-80d8-bf0e5e1c8220",
+  "params":{
+    "id":"5e7061ee-c2b6-4e22-9895-b8985945ab5c"
+  },
+  "name":"Hugo"
+}

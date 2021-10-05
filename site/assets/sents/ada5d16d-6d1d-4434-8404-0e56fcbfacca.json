@@ -1,0 +1,12 @@
+{
+  "start":28803,
+  "end":28841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't\n want to let me go outside.",
+  "id":"ada5d16d-6d1d-4434-8404-0e56fcbfacca",
+  "params":{
+    "id":"7b34a6ad-f5eb-4e8a-8ad2-7f430fcc2714"
+  },
+  "name":"Billy"
+}

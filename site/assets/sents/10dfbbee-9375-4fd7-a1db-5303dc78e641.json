@@ -1,0 +1,13 @@
+{
+  "start":10079,
+  "end":10268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: Since my grandma\u2014I mostly lived with my grandma back in the\n   States\u2014didn't know English, every time I was in trouble, my grandma had to\n   go for me to school and stuff like that.",
+  "id":"10dfbbee-9375-4fd7-a1db-5303dc78e641",
+  "params":{
+    "id":"10dfbbee-9375-4fd7-a1db-5303dc78e641",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

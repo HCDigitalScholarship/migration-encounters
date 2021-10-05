@@ -1,0 +1,13 @@
+{
+  "start":30680,
+  "end":30768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Before I actually came into this, I was working other jobs, passing\n     back and forth.",
+  "id":"8fd0c8db-cc4e-4b7d-92f7-22d561c8f0aa",
+  "params":{
+    "id":"8fd0c8db-cc4e-4b7d-92f7-22d561c8f0aa",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

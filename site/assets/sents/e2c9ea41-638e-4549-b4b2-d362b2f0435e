@@ -1,0 +1,12 @@
+{
+  "start":1998,
+  "end":2005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, 13.",
+  "id":"e2c9ea41-638e-4549-b4b2-d362b2f0435e",
+  "params":{
+    "id":"b00fad48-6b9c-4c53-bd06-b078544afa64"
+  },
+  "name":"Kevin"
+}

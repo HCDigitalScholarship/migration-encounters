@@ -1,0 +1,12 @@
+{
+  "start":3280,
+  "end":3344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You finished high school in the US and you started working then.",
+  "id":"60c0585d-1727-4c71-b755-31c4c59dd2c8",
+  "params":{
+    "id":"c7d512cb-64cc-4646-8dd7-99b4d2b287a0"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17077,
+  "end":17096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pablo: Pretty much.",
+  "id":"e28b5cf8-63a8-4d7d-acf1-33768606d796",
+  "params":{
+    "id":"e28b5cf8-63a8-4d7d-acf1-33768606d796",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

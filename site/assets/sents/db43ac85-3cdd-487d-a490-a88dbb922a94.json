@@ -1,0 +1,13 @@
+{
+  "start":12965,
+  "end":13004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   would go, \"No, I want some pizza.",
+  "id":"db43ac85-3cdd-487d-a490-a88dbb922a94",
+  "params":{
+    "id":"db43ac85-3cdd-487d-a490-a88dbb922a94",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

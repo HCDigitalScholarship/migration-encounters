@@ -1,0 +1,13 @@
+{
+  "start":17876,
+  "end":17917,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had a huge discussion about that book.",
+  "id":"6f5612c6-ae52-4c2f-89b9-c288994b238d",
+  "params":{
+    "id":"6f5612c6-ae52-4c2f-89b9-c288994b238d",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

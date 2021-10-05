@@ -1,0 +1,13 @@
+{
+  "start":2339,
+  "end":2346,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad?",
+  "id":"a8422715-e43f-4e01-9ae1-eaa0c4f51313",
+  "params":{
+    "id":"a8422715-e43f-4e01-9ae1-eaa0c4f51313",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

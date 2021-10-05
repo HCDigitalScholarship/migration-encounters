@@ -1,0 +1,12 @@
+{
+  "start":4494,
+  "end":4517,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was the age limit?",
+  "id":"3e97d6c9-1be9-48b3-9468-b0a45945a82a",
+  "params":{
+    "id":"aedd09f1-4966-49f4-b9f0-35f6d384afd0"
+  },
+  "name":"Frank"
+}

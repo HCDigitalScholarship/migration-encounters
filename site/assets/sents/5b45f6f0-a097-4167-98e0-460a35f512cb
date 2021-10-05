@@ -1,0 +1,12 @@
+{
+  "start":3812,
+  "end":3909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   And that coyote delivered us from Texas to ____, where I've been living for\n   like 16 years.",
+  "id":"5b45f6f0-a097-4167-98e0-460a35f512cb",
+  "params":{
+    "id":"ae31dc40-acac-457a-8739-8c6ac050bb38"
+  },
+  "name":"Jose"
+}

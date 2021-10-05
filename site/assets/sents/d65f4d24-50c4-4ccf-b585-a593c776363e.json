@@ -1,0 +1,13 @@
+{
+  "start":30608,
+  "end":30658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of these guys think, \"Oh, I'm a gang member.",
+  "id":"d65f4d24-50c4-4ccf-b585-a593c776363e",
+  "params":{
+    "id":"d65f4d24-50c4-4ccf-b585-a593c776363e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

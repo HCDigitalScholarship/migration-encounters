@@ -1,0 +1,13 @@
+{
+  "start":37463,
+  "end":37491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to investigate first.",
+  "id":"42b7d2c1-0a68-4489-8ff3-a589b2c0a8c5",
+  "params":{
+    "id":"42b7d2c1-0a68-4489-8ff3-a589b2c0a8c5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

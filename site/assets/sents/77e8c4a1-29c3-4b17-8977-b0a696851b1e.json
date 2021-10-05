@@ -1,0 +1,13 @@
+{
+  "start":24080,
+  "end":24116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot\n   of jealousy, right?",
+  "id":"77e8c4a1-29c3-4b17-8977-b0a696851b1e",
+  "params":{
+    "id":"77e8c4a1-29c3-4b17-8977-b0a696851b1e",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20584,
+  "end":20659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"If you want to be a millionaire,\n   hang around millionaires.",
+  "id":"d6a6d24f-8e15-4e3e-a6d7-ac3454321668",
+  "params":{
+    "id":"d6a6d24f-8e15-4e3e-a6d7-ac3454321668",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

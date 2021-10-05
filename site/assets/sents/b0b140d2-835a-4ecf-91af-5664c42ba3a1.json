@@ -1,0 +1,13 @@
+{
+  "start":20004,
+  "end":20019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Miguel:",
+  "id":"b0b140d2-835a-4ecf-91af-5664c42ba3a1",
+  "params":{
+    "id":"b0b140d2-835a-4ecf-91af-5664c42ba3a1",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

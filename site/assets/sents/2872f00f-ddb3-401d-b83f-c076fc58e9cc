@@ -1,0 +1,12 @@
+{
+  "start":17453,
+  "end":17470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's an American.",
+  "id":"2872f00f-ddb3-401d-b83f-c076fc58e9cc",
+  "params":{
+    "id":"3dd2cf64-ed2a-49f8-9e1c-3b72495f40d5"
+  },
+  "name":"Rodrigo"
+}

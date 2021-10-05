@@ -1,0 +1,13 @@
+{
+  "start":23441,
+  "end":23547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"but if I were to just stretch you a little bit, what would your\n   hopes be if you were still in the U.S.?",
+  "id":"8c54cb05-79a6-4eb9-89ee-1c2512d277fa",
+  "params":{
+    "id":"8c54cb05-79a6-4eb9-89ee-1c2512d277fa",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

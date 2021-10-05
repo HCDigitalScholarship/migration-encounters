@@ -1,0 +1,13 @@
+{
+  "start":31603,
+  "end":31664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over here, it's all mainly, not\n homemade, but it's handmade.",
+  "id":"2ea9dbe6-6f3d-4451-94a3-2dfcb177ce03",
+  "params":{
+    "id":"2ea9dbe6-6f3d-4451-94a3-2dfcb177ce03",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

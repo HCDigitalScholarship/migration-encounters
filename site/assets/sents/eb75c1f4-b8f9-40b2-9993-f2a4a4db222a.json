@@ -1,0 +1,13 @@
+{
+  "start":29403,
+  "end":29570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was there, America, they gave me a lot\n   of chances, a lot of opportunities to be a better person, to be a better\n   father, to be a better son and everything.",
+  "id":"eb75c1f4-b8f9-40b2-9993-f2a4a4db222a",
+  "params":{
+    "id":"eb75c1f4-b8f9-40b2-9993-f2a4a4db222a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

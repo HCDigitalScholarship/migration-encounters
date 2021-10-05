@@ -1,0 +1,13 @@
+{
+  "start":17099,
+  "end":17125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \u201cI want to go.",
+  "id":"ed8e7b39-2f6f-4798-b352-f0222c0662fe",
+  "params":{
+    "id":"ed8e7b39-2f6f-4798-b352-f0222c0662fe",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15454,
+  "end":15475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have a record?",
+  "id":"6d5d343e-676d-47b8-b555-b05734995a6d",
+  "params":{
+    "id":"f4f140fa-8da3-4812-a30c-e4ef2e009f59"
+  },
+  "name":"Carlos"
+}

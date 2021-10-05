@@ -1,0 +1,13 @@
+{
+  "start":26022,
+  "end":26100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So whenever that happened, it was a little shot to the\n   head, made me think.",
+  "id":"3eb9b622-a339-438e-b604-f06fa6e96644",
+  "params":{
+    "id":"3eb9b622-a339-438e-b604-f06fa6e96644",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

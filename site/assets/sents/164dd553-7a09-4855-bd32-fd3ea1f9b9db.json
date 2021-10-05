@@ -1,0 +1,12 @@
+{
+  "start":6456,
+  "end":6498,
+  "label":"SENT",
+  "type":"sent",
+  "text":"First\n   thing I did was punch the window.",
+  "id":"164dd553-7a09-4855-bd32-fd3ea1f9b9db",
+  "params":{
+    "id":"17ae9a35-3e79-4e45-b4bb-173c0f4ff627"
+  },
+  "name":"Kevin"
+}

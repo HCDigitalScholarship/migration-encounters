@@ -1,0 +1,13 @@
+{
+  "start":6234,
+  "end":6302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I was like, \"Oh my God,\n   this would not happen in the States.\"",
+  "id":"93c043ea-c41c-49e7-8fd8-654a87d30b77",
+  "params":{
+    "id":"93c043ea-c41c-49e7-8fd8-654a87d30b77",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

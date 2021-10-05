@@ -1,0 +1,12 @@
+{
+  "start":20187,
+  "end":20201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Similar?",
+  "id":"fe7910da-aeee-40fb-b9fc-1cec97fa3546",
+  "params":{
+    "id":"d871c18e-7811-42d3-9d21-d497e82c71a0"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2303,
+  "end":2335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going back to my regular pay",
+  "id":"50c24223-df21-4f99-9b87-5abfb7553c2c",
+  "params":{
+    "id":"065e280f-93ec-4a72-b062-396e2ca092d1"
+  },
+  "name":"Beto"
+}

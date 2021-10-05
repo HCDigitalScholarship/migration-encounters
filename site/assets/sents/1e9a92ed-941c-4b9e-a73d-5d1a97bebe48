@@ -1,0 +1,12 @@
+{
+  "start":26971,
+  "end":27073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So on the police report it said Angelo ____ brought the baby to\n the hospital because he feels guilty.",
+  "id":"1e9a92ed-941c-4b9e-a73d-5d1a97bebe48",
+  "params":{
+    "id":"4aac41f4-e9cf-456d-87da-acba4c0f7ad9"
+  },
+  "name":"Angelo"
+}

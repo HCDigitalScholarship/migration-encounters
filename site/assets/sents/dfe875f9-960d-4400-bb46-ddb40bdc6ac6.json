@@ -1,0 +1,13 @@
+{
+  "start":35724,
+  "end":35785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess I\n   started to do it the same just to be part of it.",
+  "id":"dfe875f9-960d-4400-bb46-ddb40bdc6ac6",
+  "params":{
+    "id":"dfe875f9-960d-4400-bb46-ddb40bdc6ac6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

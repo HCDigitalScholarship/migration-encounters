@@ -1,0 +1,12 @@
+{
+  "start":24043,
+  "end":24063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grades were good.",
+  "id":"2f19832d-c04b-46e6-bbe3-bbb31f5731ec",
+  "params":{
+    "id":"358ed8dc-25aa-47d3-a7e5-79343889c09a"
+  },
+  "name":"Carlos"
+}

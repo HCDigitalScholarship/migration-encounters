@@ -1,0 +1,12 @@
+{
+  "start":25851,
+  "end":25899,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going to go to\n   California by yourself.",
+  "id":"71287d7a-a091-43b0-943b-77a5d51d734b",
+  "params":{
+    "id":"7251f5de-b515-441c-8bb7-f07a56871725"
+  },
+  "name":"Laila"
+}

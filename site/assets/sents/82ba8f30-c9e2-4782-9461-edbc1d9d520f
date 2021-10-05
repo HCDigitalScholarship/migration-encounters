@@ -1,0 +1,12 @@
+{
+  "start":2564,
+  "end":2585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was born in Mexico.",
+  "id":"82ba8f30-c9e2-4782-9461-edbc1d9d520f",
+  "params":{
+    "id":"807f9957-9598-421f-b046-d054b0c9d7e9"
+  },
+  "name":"Daniel B"
+}

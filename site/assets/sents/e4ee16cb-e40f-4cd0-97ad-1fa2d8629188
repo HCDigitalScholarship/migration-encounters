@@ -1,0 +1,12 @@
+{
+  "start":49987,
+  "end":50049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like to speak\n   about politics, and you can get in trouble.",
+  "id":"e4ee16cb-e40f-4cd0-97ad-1fa2d8629188",
+  "params":{
+    "id":"7f388d71-1fe5-4131-9640-ea814cb475d1"
+  },
+  "name":"Miguel A"
+}

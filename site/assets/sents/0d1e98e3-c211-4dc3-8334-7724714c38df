@@ -1,0 +1,12 @@
+{
+  "start":7229,
+  "end":7250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have\n   your dad.",
+  "id":"0d1e98e3-c211-4dc3-8334-7724714c38df",
+  "params":{
+    "id":"3c77ea99-ad35-40ee-889f-fcfea9e52ce1"
+  },
+  "name":"Rocio"
+}

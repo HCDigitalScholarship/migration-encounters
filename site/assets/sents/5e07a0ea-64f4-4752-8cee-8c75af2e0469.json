@@ -1,0 +1,13 @@
+{
+  "start":25807,
+  "end":25870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n   I'm studying in the States but I'm from Puerto Rico.",
+  "id":"5e07a0ea-64f4-4752-8cee-8c75af2e0469",
+  "params":{
+    "id":"5e07a0ea-64f4-4752-8cee-8c75af2e0469",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

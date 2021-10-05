@@ -1,0 +1,12 @@
+{
+  "start":15701,
+  "end":15745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I told him,\n   \"You need to stop please.",
+  "id":"b6902d09-a602-4b7c-bdfe-d339ef33d7da",
+  "params":{
+    "id":"e98d3e4a-dec9-4d57-9678-25d94acce2cc"
+  },
+  "name":"Luis A"
+}

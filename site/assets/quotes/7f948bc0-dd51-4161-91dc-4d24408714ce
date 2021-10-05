@@ -1,0 +1,13 @@
+{
+  "id":"7f948bc0-dd51-4161-91dc-4d24408714ce",
+  "type":"text",
+  "start":2666,
+  "end":3025,
+  "label":"Immigration status, Not knowing status, Learning status",
+  "params":{
+    "id":"7f948bc0-dd51-4161-91dc-4d24408714ce",
+    "class":"anno"
+  },
+  "name":"Roberto",
+  "text":"Sergio: When you were there, did you always know you were undocumented, or\n   was there a day that you realized-\n \n \n   Roberto: No. I never knew that I was... never knew, since like when I came\n   here to Mexico, my dad told me. I thought like we did have you know\n   documents to be there, but then he told me, \"No\" like, \"You were there\n   illegal.\"\n \n \n  "
+}

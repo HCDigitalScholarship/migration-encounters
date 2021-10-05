@@ -1,0 +1,13 @@
+{
+  "start":11844,
+  "end":11865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They put me in a van.",
+  "id":"2443aec2-34ae-4358-83a0-685f53d912fa",
+  "params":{
+    "id":"2443aec2-34ae-4358-83a0-685f53d912fa",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

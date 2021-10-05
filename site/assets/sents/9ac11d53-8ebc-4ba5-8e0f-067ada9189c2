@@ -1,0 +1,12 @@
+{
+  "start":34104,
+  "end":34149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you consider yourself Mexican or American?",
+  "id":"9ac11d53-8ebc-4ba5-8e0f-067ada9189c2",
+  "params":{
+    "id":"48c6bc49-14d6-4cab-a6f8-83b2c40fc3e1"
+  },
+  "name":"Kevin"
+}

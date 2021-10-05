@@ -1,0 +1,13 @@
+{
+  "start":1148,
+  "end":1182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, now\n   it's called bullying.",
+  "id":"86f1c61c-8afd-4e5c-a7e7-9803485b4a79",
+  "params":{
+    "id":"86f1c61c-8afd-4e5c-a7e7-9803485b4a79",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2020,
+  "end":2027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel:",
+  "id":"cf5d7fe7-5a9d-4170-bfc3-89e7efb75601",
+  "params":{
+    "id":"cf5d7fe7-5a9d-4170-bfc3-89e7efb75601",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

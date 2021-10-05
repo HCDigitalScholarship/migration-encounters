@@ -1,0 +1,12 @@
+{
+  "start":2001,
+  "end":2025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you grew up in ____?",
+  "id":"ebcfa34a-4d03-4c01-8a5f-0b3b797978f5",
+  "params":{
+    "id":"6c58f6bb-9f53-4f12-9f58-fff54e8b5537"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17932,
+  "end":17982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My big brother actually moved with my grandfather.",
+  "id":"31bff9e0-7ddc-4b4a-b137-3b04abd17119",
+  "params":{
+    "id":"31bff9e0-7ddc-4b4a-b137-3b04abd17119",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

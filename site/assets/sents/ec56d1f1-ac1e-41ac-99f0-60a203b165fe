@@ -1,0 +1,12 @@
+{
+  "start":7150,
+  "end":7173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I was too busy.",
+  "id":"ec56d1f1-ac1e-41ac-99f0-60a203b165fe",
+  "params":{
+    "id":"306837c1-dfa7-459a-8ca7-17abb4268f6c"
+  },
+  "name":"Jose"
+}

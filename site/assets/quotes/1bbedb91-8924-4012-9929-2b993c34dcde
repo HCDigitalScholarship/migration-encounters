@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":1535,
+  "end":1627,
+  "label":"Time in the US, Arriving in the United States, Age",
+  "id":"1bbedb91-8924-4012-9929-2b993c34dcde",
+  "params":{
+    "id":"56fd6dc0-5755-48c5-982d-2f17f8c928c2"
+  },
+  "name":"Mike",
+  "text":"Mike: I was in kindergarten when I crossed the border and, yeah, I remember\n   it was tough."
+}

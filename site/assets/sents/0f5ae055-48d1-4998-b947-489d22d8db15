@@ -1,0 +1,12 @@
+{
+  "start":1883,
+  "end":1938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was letting me know, \"You know what, you're healthy.",
+  "id":"0f5ae055-48d1-4998-b947-489d22d8db15",
+  "params":{
+    "id":"df1ec1d5-77a3-4a48-9cc9-a735229bf9fa"
+  },
+  "name":"Billy"
+}

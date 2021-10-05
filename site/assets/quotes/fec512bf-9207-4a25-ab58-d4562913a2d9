@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":17001,
+  "end":17011,
+  "text":"\n   Sergio: So, you've been back in Mexico eight years or nine?\n \n \n   Josue: No, five.\n \n \n   Sergio: Five years. And what city and town are you living in now?\n \n \n   Josue: Right now, I'm living in Ixtapaluca.\n \n \n   Sergio: And that's in Mexico, the state of Mexico?\n \n \n   Josue: State, yep.\n \n \n   Sergio: And who do you live with?\n \n \n   Josue: My mom.\n \n \n   Sergio: Is it just your mom or do you have a",
+  "label":"GPE",
+  "id":"fec512bf-9207-4a25-ab58-d4562913a2d9",
+  "name":"Josue"
+}

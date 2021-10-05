@@ -1,0 +1,12 @@
+{
+  "start":512,
+  "end":536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, no that was great.",
+  "id":"1bfc6357-91e7-4d7d-a6bb-bcf5d10e99e2",
+  "params":{
+    "id":"b9927c76-14dc-49f5-a335-66a895f7356b"
+  },
+  "name":"Billy"
+}

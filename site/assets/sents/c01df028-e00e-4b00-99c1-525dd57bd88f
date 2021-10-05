@@ -1,0 +1,12 @@
+{
+  "start":34330,
+  "end":34357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"No, that's not me.",
+  "id":"c01df028-e00e-4b00-99c1-525dd57bd88f",
+  "params":{
+    "id":"5238bae2-1dfe-4321-882f-a2c592208a7a"
+  },
+  "name":"Sylent"
+}

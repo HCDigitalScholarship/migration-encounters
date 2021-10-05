@@ -1,0 +1,13 @@
+{
+  "start":28687,
+  "end":28763,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was very surprised, and he wanted to know how, and\n     I showed him how.",
+  "id":"9ff46309-391e-4b2f-96dc-eea99fe97d5d",
+  "params":{
+    "id":"9ff46309-391e-4b2f-96dc-eea99fe97d5d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

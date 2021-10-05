@@ -1,0 +1,12 @@
+{
+  "start":256,
+  "end":279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm a very good person.",
+  "id":"b0280b4d-5a58-4411-94f0-3666d463e6da",
+  "params":{
+    "id":"4d31d874-065d-448b-99b3-9537177b1f04"
+  },
+  "name":"Donovan"
+}

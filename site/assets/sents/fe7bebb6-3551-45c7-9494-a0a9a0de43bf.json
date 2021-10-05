@@ -1,0 +1,13 @@
+{
+  "start":11522,
+  "end":11671,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually had to finish high school, well, my last high\n   school, my last year of high school here because I didn't get to finish it\n   over there.",
+  "id":"fe7bebb6-3551-45c7-9494-a0a9a0de43bf",
+  "params":{
+    "id":"fe7bebb6-3551-45c7-9494-a0a9a0de43bf",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

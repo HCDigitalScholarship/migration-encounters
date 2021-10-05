@@ -1,0 +1,13 @@
+{
+  "start":7390,
+  "end":7409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, some of them.",
+  "id":"60363c86-b54c-4f9d-8d4b-9910daee7f63",
+  "params":{
+    "id":"60363c86-b54c-4f9d-8d4b-9910daee7f63",
+    "class":"anno"
+  },
+  "name":"Many"
+}

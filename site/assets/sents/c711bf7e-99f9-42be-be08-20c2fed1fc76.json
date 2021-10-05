@@ -1,0 +1,13 @@
+{
+  "start":2979,
+  "end":3010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad took off to work at\ntwo.",
+  "id":"c711bf7e-99f9-42be-be08-20c2fed1fc76",
+  "params":{
+    "id":"c711bf7e-99f9-42be-be08-20c2fed1fc76",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

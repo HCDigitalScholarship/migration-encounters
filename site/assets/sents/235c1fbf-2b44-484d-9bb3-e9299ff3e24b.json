@@ -1,0 +1,13 @@
+{
+  "start":16300,
+  "end":16347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean,\n   you're not even from over there.",
+  "id":"235c1fbf-2b44-484d-9bb3-e9299ff3e24b",
+  "params":{
+    "id":"235c1fbf-2b44-484d-9bb3-e9299ff3e24b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

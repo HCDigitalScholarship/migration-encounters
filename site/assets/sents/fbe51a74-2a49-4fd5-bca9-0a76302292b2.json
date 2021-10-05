@@ -1,0 +1,13 @@
+{
+  "start":13709,
+  "end":13755,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, let me do a quick search, just\n random.\"",
+  "id":"fbe51a74-2a49-4fd5-bca9-0a76302292b2",
+  "params":{
+    "id":"fbe51a74-2a49-4fd5-bca9-0a76302292b2",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

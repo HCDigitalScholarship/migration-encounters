@@ -1,0 +1,12 @@
+{
+  "start":21752,
+  "end":21823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to hang out with people that they didn't\n   care for themselves.",
+  "id":"4b2f9c64-95a5-46d7-88db-a5cb03521fdc",
+  "params":{
+    "id":"fcb1dcc9-b92c-44fd-bf35-7cf9767d34a6"
+  },
+  "name":"Mike"
+}

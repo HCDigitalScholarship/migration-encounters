@@ -1,0 +1,13 @@
+{
+  "start":14893,
+  "end":14978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If they don't come to\n   pick you up, INS, by 8:00 in the morning, we'll let you go.\"",
+  "id":"8de83460-7960-4faa-8ec3-c32c980d13dc",
+  "params":{
+    "id":"8de83460-7960-4faa-8ec3-c32c980d13dc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

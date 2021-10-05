@@ -1,0 +1,13 @@
+{
+  "start":24108,
+  "end":24141,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dude, you don't need a paperwork.",
+  "id":"4cd0d7b8-e5f7-4446-a1b7-17f10f213164",
+  "params":{
+    "id":"4cd0d7b8-e5f7-4446-a1b7-17f10f213164",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

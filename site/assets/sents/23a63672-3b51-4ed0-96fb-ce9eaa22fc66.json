@@ -1,0 +1,13 @@
+{
+  "start":1521,
+  "end":1569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The hotel, it's called the Omni Hotel right now.",
+  "id":"23a63672-3b51-4ed0-96fb-ce9eaa22fc66",
+  "params":{
+    "id":"23a63672-3b51-4ed0-96fb-ce9eaa22fc66",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

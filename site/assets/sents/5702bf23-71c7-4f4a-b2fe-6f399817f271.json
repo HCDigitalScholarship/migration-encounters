@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":24,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     Anita: We're good.",
+  "id":"5702bf23-71c7-4f4a-b2fe-6f399817f271",
+  "params":{
+    "id":"f4dc9264-613d-4087-a775-a1acddc868be"
+  },
+  "name":"Beto"
+}

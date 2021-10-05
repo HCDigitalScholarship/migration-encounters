@@ -1,0 +1,13 @@
+{
+  "start":282,
+  "end":338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad had been in the States\n   for two or three years.",
+  "id":"4114e720-6e96-4dac-8f1b-d982d2459c59",
+  "params":{
+    "id":"4114e720-6e96-4dac-8f1b-d982d2459c59",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

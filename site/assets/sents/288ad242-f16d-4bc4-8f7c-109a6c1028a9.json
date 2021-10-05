@@ -1,0 +1,13 @@
+{
+  "start":26572,
+  "end":26591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're so American.",
+  "id":"288ad242-f16d-4bc4-8f7c-109a6c1028a9",
+  "params":{
+    "id":"288ad242-f16d-4bc4-8f7c-109a6c1028a9",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

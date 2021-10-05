@@ -1,0 +1,13 @@
+{
+  "start":52580,
+  "end":52663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you have to\n     understand that you joined for a reason.\"\n   \n   \n     Joseph:",
+  "id":"f60fcd8d-d614-4e14-a4d8-bdeb52e5192f",
+  "params":{
+    "id":"f60fcd8d-d614-4e14-a4d8-bdeb52e5192f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

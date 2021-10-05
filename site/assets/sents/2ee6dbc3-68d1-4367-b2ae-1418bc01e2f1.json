@@ -1,0 +1,12 @@
+{
+  "start":15123,
+  "end":15138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got deported.",
+  "id":"2ee6dbc3-68d1-4367-b2ae-1418bc01e2f1",
+  "params":{
+    "id":"01be3529-fb56-43e9-a23a-ff914adbdad2"
+  },
+  "name":"Rodrigo"
+}

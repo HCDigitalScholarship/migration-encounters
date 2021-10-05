@@ -1,0 +1,12 @@
+{
+  "start":15725,
+  "end":15741,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm an example.\"",
+  "id":"b97e36c7-fcc9-4677-aa6d-5e86aefd56ab",
+  "params":{
+    "id":"0cbcecf6-2cf5-490f-ab2f-7f97e1a40491"
+  },
+  "name":"Billy"
+}

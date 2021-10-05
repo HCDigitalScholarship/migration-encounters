@@ -1,0 +1,13 @@
+{
+  "start":4855,
+  "end":4880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One thing led to another.",
+  "id":"cd06cbfc-9152-4b07-a9e3-edb3f008f7ec",
+  "params":{
+    "id":"cd06cbfc-9152-4b07-a9e3-edb3f008f7ec",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

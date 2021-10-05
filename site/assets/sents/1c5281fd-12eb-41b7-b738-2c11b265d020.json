@@ -1,0 +1,13 @@
+{
+  "start":11601,
+  "end":11639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   had a trampoline and everything.",
+  "id":"1c5281fd-12eb-41b7-b738-2c11b265d020",
+  "params":{
+    "id":"1c5281fd-12eb-41b7-b738-2c11b265d020",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

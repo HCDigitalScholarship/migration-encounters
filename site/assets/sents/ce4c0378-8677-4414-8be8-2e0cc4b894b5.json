@@ -1,0 +1,13 @@
+{
+  "start":3166,
+  "end":3231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember what your first day of school was like in the US?",
+  "id":"ce4c0378-8677-4414-8be8-2e0cc4b894b5",
+  "params":{
+    "id":"ce4c0378-8677-4414-8be8-2e0cc4b894b5",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

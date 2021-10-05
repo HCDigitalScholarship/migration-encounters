@@ -1,0 +1,12 @@
+{
+  "start":6530,
+  "end":6561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She went MIA for about a month.",
+  "id":"b4b0e8b6-f045-4a2d-8240-6a39935ab41f",
+  "params":{
+    "id":"dd286379-a8b4-4691-b7f2-3cdf5d1df0db"
+  },
+  "name":"Joseph"
+}

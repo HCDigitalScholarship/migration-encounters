@@ -1,0 +1,13 @@
+{
+  "start":28171,
+  "end":28189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   after that\u2026",
+  "id":"0d45dc08-bc09-4aa9-a947-74253c496628",
+  "params":{
+    "id":"0d45dc08-bc09-4aa9-a947-74253c496628",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

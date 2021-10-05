@@ -1,0 +1,12 @@
+{
+  "start":30405,
+  "end":30441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like being\n   in a golden cage.",
+  "id":"8c1c6fb0-55ad-4a81-8bfe-c042aaee0528",
+  "params":{
+    "id":"72f8efe3-e798-4a25-843a-86e002665d50"
+  },
+  "name":"Luisa"
+}

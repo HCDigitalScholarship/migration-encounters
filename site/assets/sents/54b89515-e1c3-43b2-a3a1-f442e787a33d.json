@@ -1,0 +1,13 @@
+{
+  "start":55727,
+  "end":55768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people wish that they had a job.",
+  "id":"54b89515-e1c3-43b2-a3a1-f442e787a33d",
+  "params":{
+    "id":"54b89515-e1c3-43b2-a3a1-f442e787a33d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

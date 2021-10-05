@@ -1,0 +1,12 @@
+{
+  "start":26705,
+  "end":26760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wanted to be an architect and help my mom and my dad.",
+  "id":"43e31610-55c2-4f1c-bd86-d5ce22f4d64c",
+  "params":{
+    "id":"c3af4fed-d9aa-43f0-ba2c-a6aefcd2b34e"
+  },
+  "name":"Hugo"
+}

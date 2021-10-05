@@ -1,0 +1,13 @@
+{
+  "start":67361,
+  "end":67383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I thought.",
+  "id":"32d493a2-df08-4267-99d6-52b27b385db7",
+  "params":{
+    "id":"32d493a2-df08-4267-99d6-52b27b385db7",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67029,
+  "end":67049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I dress comfortably.",
+  "id":"d9cb0f45-6f63-4340-9cb1-45b33cc8769b",
+  "params":{
+    "id":"d9cb0f45-6f63-4340-9cb1-45b33cc8769b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

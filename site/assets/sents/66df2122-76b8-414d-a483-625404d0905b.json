@@ -1,0 +1,13 @@
+{
+  "start":1529,
+  "end":1554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's called\n   Reynosa.",
+  "id":"66df2122-76b8-414d-a483-625404d0905b",
+  "params":{
+    "id":"66df2122-76b8-414d-a483-625404d0905b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

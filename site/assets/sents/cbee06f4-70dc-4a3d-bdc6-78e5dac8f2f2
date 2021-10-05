@@ -1,0 +1,12 @@
+{
+  "start":9599,
+  "end":9658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They said they were\n   US Marshalls or something like that.",
+  "id":"cbee06f4-70dc-4a3d-bdc6-78e5dac8f2f2",
+  "params":{
+    "id":"a851351f-5d3d-46e9-882a-2accdff8d991"
+  },
+  "name":"Mike"
+}

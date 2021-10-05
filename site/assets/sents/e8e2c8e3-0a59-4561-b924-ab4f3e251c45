@@ -1,0 +1,12 @@
+{
+  "start":9990,
+  "end":10016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long have you done it?",
+  "id":"e8e2c8e3-0a59-4561-b924-ab4f3e251c45",
+  "params":{
+    "id":"dd6c115a-a5e1-4113-9de7-0674ccf9d573"
+  },
+  "name":"Carolina"
+}

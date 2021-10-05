@@ -1,0 +1,13 @@
+{
+  "start":9065,
+  "end":9183,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said, \"Well, you've been talking too much, I\u2019m going to put you in\n   the group and we're going to beat your head.\"",
+  "id":"3d19f05a-3c15-4341-b17e-7984c82e0fbb",
+  "params":{
+    "id":"3d19f05a-3c15-4341-b17e-7984c82e0fbb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

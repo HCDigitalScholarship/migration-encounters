@@ -1,0 +1,13 @@
+{
+  "start":13349,
+  "end":13385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She sent the kids to my mom's house.",
+  "id":"85de7ce8-8bda-4e66-b96b-641b4d3fbfb3",
+  "params":{
+    "id":"85de7ce8-8bda-4e66-b96b-641b4d3fbfb3",
+    "class":"anno"
+  },
+  "name":"Many"
+}

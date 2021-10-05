@@ -1,0 +1,13 @@
+{
+  "start":10358,
+  "end":10395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it like\n   in Miss S. class?",
+  "id":"9739aa04-7be1-4dd9-9a53-d14adecc2cfc",
+  "params":{
+    "id":"9739aa04-7be1-4dd9-9a53-d14adecc2cfc",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

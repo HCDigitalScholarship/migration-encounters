@@ -1,0 +1,12 @@
+{
+  "start":11042,
+  "end":11095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's actually\n   planning on coming to Mexico maybe.",
+  "id":"d1b770c8-059f-45f6-90e7-b3c4031d2ed6",
+  "params":{
+    "id":"add8eab5-4a64-4f93-9fb6-6ee41e796201"
+  },
+  "name":"Jose"
+}

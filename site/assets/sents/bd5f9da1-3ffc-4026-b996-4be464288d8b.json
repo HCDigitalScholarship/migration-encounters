@@ -1,0 +1,13 @@
+{
+  "start":34822,
+  "end":34845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's wrong with you?\"",
+  "id":"bd5f9da1-3ffc-4026-b996-4be464288d8b",
+  "params":{
+    "id":"bd5f9da1-3ffc-4026-b996-4be464288d8b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

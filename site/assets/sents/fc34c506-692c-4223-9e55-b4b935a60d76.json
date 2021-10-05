@@ -1,0 +1,13 @@
+{
+  "start":100042,
+  "end":100102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The part seems very similar but with way\n     less violence.",
+  "id":"fc34c506-692c-4223-9e55-b4b935a60d76",
+  "params":{
+    "id":"fc34c506-692c-4223-9e55-b4b935a60d76",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

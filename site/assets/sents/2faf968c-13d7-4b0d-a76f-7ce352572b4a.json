@@ -1,0 +1,13 @@
+{
+  "start":13094,
+  "end":13115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to school?",
+  "id":"2faf968c-13d7-4b0d-a76f-7ce352572b4a",
+  "params":{
+    "id":"2faf968c-13d7-4b0d-a76f-7ce352572b4a",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

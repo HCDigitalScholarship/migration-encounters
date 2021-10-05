@@ -1,0 +1,12 @@
+{
+  "start":147,
+  "end":221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents had an extremely\n   bad divorce - very, very, very bad divorce.",
+  "id":"02447bfd-d2b0-4aea-b45e-75ff53699960",
+  "params":{
+    "id":"315c15c2-4051-4df1-82be-038d26d1254b"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3718,
+  "end":3750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was like, \"You know what?",
+  "id":"b0dc1daf-61dd-4ed9-a333-8eb23f498400",
+  "params":{
+    "id":"b0dc1daf-61dd-4ed9-a333-8eb23f498400",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

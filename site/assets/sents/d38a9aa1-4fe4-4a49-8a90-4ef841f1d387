@@ -1,0 +1,12 @@
+{
+  "start":20237,
+  "end":20307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They make you feel like\n     you are part of that specific restaurant.",
+  "id":"d38a9aa1-4fe4-4a49-8a90-4ef841f1d387",
+  "params":{
+    "id":"fd156441-fa82-4070-b42a-fcec31682b03"
+  },
+  "name":"Beto"
+}

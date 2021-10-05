@@ -1,0 +1,12 @@
+{
+  "start":3633,
+  "end":3701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I would understand everything, but I\n   didn't speak at all.",
+  "id":"7fcf4f2e-c6e2-4df6-bce0-83175e9317d5",
+  "params":{
+    "id":"bb2859a0-316c-4c5a-86ce-e3c66e6b7db1"
+  },
+  "name":"Luis A"
+}

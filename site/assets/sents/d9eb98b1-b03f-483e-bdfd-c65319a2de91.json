@@ -1,0 +1,13 @@
+{
+  "start":13579,
+  "end":13589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Excrement.",
+  "id":"d9eb98b1-b03f-483e-bdfd-c65319a2de91",
+  "params":{
+    "id":"d9eb98b1-b03f-483e-bdfd-c65319a2de91",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21556,
+  "end":21587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, she never went to the U.S.?",
+  "id":"da792e01-5616-46b2-81cf-796b5142bc4a",
+  "params":{
+    "id":"da792e01-5616-46b2-81cf-796b5142bc4a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

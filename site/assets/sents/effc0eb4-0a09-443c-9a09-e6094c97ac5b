@@ -1,0 +1,12 @@
+{
+  "start":5357,
+  "end":5409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've only went to my\n   grandma's house three times.",
+  "id":"effc0eb4-0a09-443c-9a09-e6094c97ac5b",
+  "params":{
+    "id":"bf46090c-95a4-4a37-8092-4acebfca396c"
+  },
+  "name":"Cris"
+}

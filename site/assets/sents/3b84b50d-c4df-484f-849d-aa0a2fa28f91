@@ -1,0 +1,12 @@
+{
+  "start":31545,
+  "end":31564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Really?\"",
+  "id":"3b84b50d-c4df-484f-849d-aa0a2fa28f91",
+  "params":{
+    "id":"79bfcb4a-d3e4-4cf1-92ef-5283426c19f0"
+  },
+  "name":"Daniel"
+}

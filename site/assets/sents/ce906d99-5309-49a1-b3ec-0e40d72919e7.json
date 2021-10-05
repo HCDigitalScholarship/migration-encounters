@@ -1,0 +1,13 @@
+{
+  "start":6172,
+  "end":6190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The way you dress.",
+  "id":"ce906d99-5309-49a1-b3ec-0e40d72919e7",
+  "params":{
+    "id":"ce906d99-5309-49a1-b3ec-0e40d72919e7",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

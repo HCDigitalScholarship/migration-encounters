@@ -1,0 +1,13 @@
+{
+  "start":18496,
+  "end":18522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is why I talk to you.",
+  "id":"3f1b1c27-c4b9-4520-ba85-7a68440f71b8",
+  "params":{
+    "id":"3f1b1c27-c4b9-4520-ba85-7a68440f71b8",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":47670,
+  "end":47685,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's back here?",
+  "id":"1045ad35-a790-436f-9375-de983b532cff",
+  "params":{
+    "id":"a5df8833-751c-45a6-9ce8-bb4c7747c443"
+  },
+  "name":"Mike"
+}

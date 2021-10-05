@@ -1,0 +1,12 @@
+{
+  "start":23542,
+  "end":23573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n They're on the same page now.",
+  "id":"4ded89e5-d9e4-487e-86ef-d763e3fa7a6c",
+  "params":{
+    "id":"b643490a-a686-4260-a87e-b4c168789d35"
+  },
+  "name":"Billy"
+}

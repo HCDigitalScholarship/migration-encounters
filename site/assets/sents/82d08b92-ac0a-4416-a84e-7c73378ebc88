@@ -1,0 +1,12 @@
+{
+  "start":8192,
+  "end":8244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My case went from a state\n   case to a federal case.",
+  "id":"82d08b92-ac0a-4416-a84e-7c73378ebc88",
+  "params":{
+    "id":"a3c75622-4cf5-41b7-b51e-603d2a5375b2"
+  },
+  "name":"Kevin"
+}

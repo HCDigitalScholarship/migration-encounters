@@ -1,0 +1,13 @@
+{
+  "start":7764,
+  "end":7849,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sure they signed the paperwork,\n I'm sure they signed whatever needed to be done.",
+  "id":"49ef0cc7-9f94-4b6e-826b-3e03145e2ff0",
+  "params":{
+    "id":"49ef0cc7-9f94-4b6e-826b-3e03145e2ff0",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

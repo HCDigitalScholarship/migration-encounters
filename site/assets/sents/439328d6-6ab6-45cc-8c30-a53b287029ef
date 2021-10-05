@@ -1,0 +1,12 @@
+{
+  "start":23714,
+  "end":23746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis: No, I didn't.\n \n \n   Anne:",
+  "id":"439328d6-6ab6-45cc-8c30-a53b287029ef",
+  "params":{
+    "id":"159d0fc3-7369-43c6-9349-226f6dfd2d22"
+  },
+  "name":"Luis A"
+}

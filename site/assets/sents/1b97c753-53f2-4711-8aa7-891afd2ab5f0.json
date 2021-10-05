@@ -1,0 +1,13 @@
+{
+  "start":26498,
+  "end":26518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"Yeah.",
+  "id":"1b97c753-53f2-4711-8aa7-891afd2ab5f0",
+  "params":{
+    "id":"1b97c753-53f2-4711-8aa7-891afd2ab5f0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

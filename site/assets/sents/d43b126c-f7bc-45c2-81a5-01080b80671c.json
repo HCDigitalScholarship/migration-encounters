@@ -1,0 +1,13 @@
+{
+  "start":29346,
+  "end":29391,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nmessed my whole life up for messing around.",
+  "id":"d43b126c-f7bc-45c2-81a5-01080b80671c",
+  "params":{
+    "id":"d43b126c-f7bc-45c2-81a5-01080b80671c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

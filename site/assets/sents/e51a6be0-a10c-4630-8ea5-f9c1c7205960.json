@@ -1,0 +1,13 @@
+{
+  "start":34476,
+  "end":34494,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're\n   the shit.",
+  "id":"e51a6be0-a10c-4630-8ea5-f9c1c7205960",
+  "params":{
+    "id":"e51a6be0-a10c-4630-8ea5-f9c1c7205960",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

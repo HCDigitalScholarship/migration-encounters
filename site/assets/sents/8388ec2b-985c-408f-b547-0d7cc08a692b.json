@@ -1,0 +1,13 @@
+{
+  "start":1621,
+  "end":1701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Back in the day, since we're kids, you would just go\n   as somebody else's kids.",
+  "id":"8388ec2b-985c-408f-b547-0d7cc08a692b",
+  "params":{
+    "id":"8388ec2b-985c-408f-b547-0d7cc08a692b",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

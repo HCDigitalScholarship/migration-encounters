@@ -1,0 +1,12 @@
+{
+  "start":42562,
+  "end":42616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's just say in Mexico, \u00e9l que no transa, no avanza.",
+  "id":"646f1be6-a512-4ffb-9c8e-35c6d4af7486",
+  "params":{
+    "id":"07c87623-7944-4150-9d08-45a85f771a8c"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15260,
+  "end":15289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's important, what's bad.",
+  "id":"d7e13d0c-1a25-47b8-9f64-088ad17871b3",
+  "params":{
+    "id":"2a09ceea-420c-48e3-a9a1-a0f270120cae"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6378,
+  "end":6410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you like about tattoos?",
+  "id":"42a2e9ba-63f6-4a6b-b583-76c797d8617f",
+  "params":{
+    "id":"6565a62a-9954-4b8a-a3be-e3da9f7b1d0a"
+  },
+  "name":"Yosell"
+}

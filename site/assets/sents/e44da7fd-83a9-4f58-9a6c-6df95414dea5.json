@@ -1,0 +1,13 @@
+{
+  "start":3090,
+  "end":3176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y el chico este se me queda viendo y me\n     dijo, \u201cTe est\u00e1n pidiendo los documentos\u201d.",
+  "id":"e44da7fd-83a9-4f58-9a6c-6df95414dea5",
+  "params":{
+    "id":"e44da7fd-83a9-4f58-9a6c-6df95414dea5",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

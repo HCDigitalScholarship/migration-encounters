@@ -1,0 +1,13 @@
+{
+  "start":11337,
+  "end":11358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"since I\n   came back.",
+  "id":"1aab8500-065b-460f-8a47-767586cd35f6",
+  "params":{
+    "id":"1aab8500-065b-460f-8a47-767586cd35f6",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

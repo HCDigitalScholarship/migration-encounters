@@ -1,0 +1,12 @@
+{
+  "start":23784,
+  "end":23836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like, \"I didn't know, I just\n   met her right now.",
+  "id":"76d23d80-f70d-4461-a8a4-2b8a0a485f8f",
+  "params":{
+    "id":"47c7fb25-313c-4f58-93a5-519014c4e8a5"
+  },
+  "name":"Daniel B"
+}

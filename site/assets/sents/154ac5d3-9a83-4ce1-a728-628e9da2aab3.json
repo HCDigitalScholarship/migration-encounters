@@ -1,0 +1,13 @@
+{
+  "start":1035,
+  "end":1055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were born where?",
+  "id":"154ac5d3-9a83-4ce1-a728-628e9da2aab3",
+  "params":{
+    "id":"154ac5d3-9a83-4ce1-a728-628e9da2aab3",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

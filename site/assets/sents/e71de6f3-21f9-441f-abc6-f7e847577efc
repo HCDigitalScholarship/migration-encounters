@@ -1,0 +1,12 @@
+{
+  "start":20301,
+  "end":20318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's really hard.",
+  "id":"e71de6f3-21f9-441f-abc6-f7e847577efc",
+  "params":{
+    "id":"53f1258b-ca7b-4926-868a-2cf028af44ed"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6923,
+  "end":6997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you went into a store and they'd look at you really weird or\n   angry.",
+  "id":"c6c84e7d-d140-43e8-9c44-5f5d93878f9f",
+  "params":{
+    "id":"8e93d8fb-54c4-4079-9329-047be7373142"
+  },
+  "name":"Carolina"
+}

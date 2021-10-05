@@ -1,0 +1,12 @@
+{
+  "start":22950,
+  "end":22957,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I cook.",
+  "id":"f3992eac-8893-4263-9fde-d52cb13d93ce",
+  "params":{
+    "id":"25124ed2-7fcb-4888-b49c-69703f01a9d1"
+  },
+  "name":"Beto"
+}

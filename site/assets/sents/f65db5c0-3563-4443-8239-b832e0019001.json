@@ -1,0 +1,13 @@
+{
+  "start":11305,
+  "end":11327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was a housekeeper.",
+  "id":"f65db5c0-3563-4443-8239-b832e0019001",
+  "params":{
+    "id":"f65db5c0-3563-4443-8239-b832e0019001",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

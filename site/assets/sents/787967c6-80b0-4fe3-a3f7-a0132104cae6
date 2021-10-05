@@ -1,0 +1,12 @@
+{
+  "start":15789,
+  "end":15812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll be right there.\u201d\n ",
+  "id":"787967c6-80b0-4fe3-a3f7-a0132104cae6",
+  "params":{
+    "id":"b88e4689-814b-4858-9c74-c84dfec6f635"
+  },
+  "name":"Ben"
+}

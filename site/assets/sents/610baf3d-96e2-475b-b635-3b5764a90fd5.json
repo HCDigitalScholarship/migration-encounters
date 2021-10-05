@@ -1,0 +1,13 @@
+{
+  "start":17722,
+  "end":17786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They stopped me, I had some\n   marijuana, they gave me a ticket.",
+  "id":"610baf3d-96e2-475b-b635-3b5764a90fd5",
+  "params":{
+    "id":"610baf3d-96e2-475b-b635-3b5764a90fd5",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

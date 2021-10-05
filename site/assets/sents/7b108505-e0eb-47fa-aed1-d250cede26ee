@@ -1,0 +1,12 @@
+{
+  "start":42640,
+  "end":42652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's past.",
+  "id":"7b108505-e0eb-47fa-aed1-d250cede26ee",
+  "params":{
+    "id":"ab19e389-dba2-4eac-b607-0bda8a337627"
+  },
+  "name":"Daniel B"
+}

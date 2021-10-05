@@ -1,0 +1,12 @@
+{
+  "start":14406,
+  "end":14458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The train stations are three blocks away, the bus is",
+  "id":"d15cd891-264b-47e4-84e5-81048335018e",
+  "params":{
+    "id":"f78779e7-6c9f-4ae0-81e5-25b2f316c939"
+  },
+  "name":"Axel"
+}

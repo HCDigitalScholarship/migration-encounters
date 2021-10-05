@@ -1,0 +1,13 @@
+{
+  "start":22049,
+  "end":22054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis:",
+  "id":"9e7db045-1f1e-4a1f-891a-25b2fdfe99ea",
+  "params":{
+    "id":"9e7db045-1f1e-4a1f-891a-25b2fdfe99ea",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

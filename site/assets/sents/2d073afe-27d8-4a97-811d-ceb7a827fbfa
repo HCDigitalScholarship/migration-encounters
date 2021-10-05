@@ -1,0 +1,12 @@
+{
+  "start":7265,
+  "end":7282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's from a gang.",
+  "id":"2d073afe-27d8-4a97-811d-ceb7a827fbfa",
+  "params":{
+    "id":"fc315b4a-5ae1-4c62-92e0-0623a39f8822"
+  },
+  "name":"Cris"
+}

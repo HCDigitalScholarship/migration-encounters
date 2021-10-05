@@ -1,0 +1,12 @@
+{
+  "start":38505,
+  "end":38537,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And so, that's what I would say.",
+  "id":"b44b76c2-50c4-4b59-8de9-221894f84253",
+  "params":{
+    "id":"a615c212-62fa-4432-9e40-b25622bb4634"
+  },
+  "name":"Billy"
+}

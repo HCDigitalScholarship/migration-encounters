@@ -1,0 +1,13 @@
+{
+  "start":15378,
+  "end":15405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't $200 for nothing.",
+  "id":"416bcb34-48f4-49b4-9a8d-6a93bbee7a85",
+  "params":{
+    "id":"416bcb34-48f4-49b4-9a8d-6a93bbee7a85",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

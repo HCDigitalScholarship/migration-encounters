@@ -1,0 +1,12 @@
+{
+  "start":14512,
+  "end":14561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when I got here, I didn't know\n   what to do.",
+  "id":"550d77e3-fc7e-446b-99ea-d3f670d7af17",
+  "params":{
+    "id":"0d03c6d8-9184-4f9c-84b6-decac6859903"
+  },
+  "name":"Edgar"
+}

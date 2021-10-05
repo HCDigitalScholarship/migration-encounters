@@ -1,0 +1,12 @@
+{
+  "start":21083,
+  "end":21117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does your mom know about your dad?",
+  "id":"d1a42688-4f2c-4144-8f38-a249303d7576",
+  "params":{
+    "id":"fdfdfd20-68ca-4908-b8df-8449522a15b7"
+  },
+  "name":"Billy"
+}

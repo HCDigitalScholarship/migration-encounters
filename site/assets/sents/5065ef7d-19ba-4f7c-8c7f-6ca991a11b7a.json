@@ -1,0 +1,13 @@
+{
+  "start":35309,
+  "end":35340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know how to explain it.",
+  "id":"5065ef7d-19ba-4f7c-8c7f-6ca991a11b7a",
+  "params":{
+    "id":"5065ef7d-19ba-4f7c-8c7f-6ca991a11b7a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25498,
+  "end":25514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I escaped.",
+  "id":"d2491a3a-d2a0-4be1-8c52-dfe670a1d27e",
+  "params":{
+    "id":"d2491a3a-d2a0-4be1-8c52-dfe670a1d27e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

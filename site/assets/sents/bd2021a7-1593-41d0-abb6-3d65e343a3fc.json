@@ -1,0 +1,13 @@
+{
+  "start":21343,
+  "end":21476,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, actually I just do it over the phone when I'm calling\n   sometimes in my job, but I know people are like that, and it's my job.",
+  "id":"bd2021a7-1593-41d0-abb6-3d65e343a3fc",
+  "params":{
+    "id":"bd2021a7-1593-41d0-abb6-3d65e343a3fc",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

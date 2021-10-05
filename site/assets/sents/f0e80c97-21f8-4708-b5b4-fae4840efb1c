@@ -1,0 +1,12 @@
+{
+  "start":11824,
+  "end":11852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to court three times.",
+  "id":"f0e80c97-21f8-4708-b5b4-fae4840efb1c",
+  "params":{
+    "id":"dec96035-dc11-4847-94ea-e2e21a2e503f"
+  },
+  "name":"Many"
+}

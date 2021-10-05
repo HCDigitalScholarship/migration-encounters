@@ -1,0 +1,12 @@
+{
+  "start":24787,
+  "end":24842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dijo, \u201cMam\u00e1, yo no ten\u00eda que\n     comer en todo el d\u00eda.",
+  "id":"b2ec8779-65ad-4704-b565-69a4b9f7c5e3",
+  "params":{
+    "id":"db7b5b09-db60-40d5-94b9-8ecabbb0977c"
+  },
+  "name":"Maria"
+}

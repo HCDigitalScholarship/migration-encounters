@@ -1,0 +1,13 @@
+{
+  "start":59793,
+  "end":59841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, man, I got you guys when we get back home.",
+  "id":"61e777bd-c90a-42af-9f51-37cf9599ab44",
+  "params":{
+    "id":"61e777bd-c90a-42af-9f51-37cf9599ab44",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32800,
+  "end":32844,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over here, everybody looks the same, really.",
+  "id":"6538a6fc-c4ae-4c2c-bd00-66f230f17af9",
+  "params":{
+    "id":"6538a6fc-c4ae-4c2c-bd00-66f230f17af9",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

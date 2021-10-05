@@ -1,0 +1,13 @@
+{
+  "start":28072,
+  "end":28112,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   were there for nine years, right?",
+  "id":"d8e30c88-e972-4ee6-8894-c6ebcb62701f",
+  "params":{
+    "id":"d8e30c88-e972-4ee6-8894-c6ebcb62701f",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

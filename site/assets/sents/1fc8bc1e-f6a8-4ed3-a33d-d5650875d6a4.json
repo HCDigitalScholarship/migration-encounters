@@ -1,0 +1,13 @@
+{
+  "start":26351,
+  "end":26444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In here, in Mexico, even though that is a\n   little bit harder, I actually do the same thing.",
+  "id":"1fc8bc1e-f6a8-4ed3-a33d-d5650875d6a4",
+  "params":{
+    "id":"1fc8bc1e-f6a8-4ed3-a33d-d5650875d6a4",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26579,
+  "end":26639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: What were your dreams when you were in the US?",
+  "id":"b474cfc5-8080-4280-bd13-86e0a47a86a3",
+  "params":{
+    "id":"b474cfc5-8080-4280-bd13-86e0a47a86a3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

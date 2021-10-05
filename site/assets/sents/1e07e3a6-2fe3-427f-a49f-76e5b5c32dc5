@@ -1,0 +1,12 @@
+{
+  "start":38716,
+  "end":38798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why do they have it\n   wrong?\n \n \n   Sylent:\n \n \n   Because we're a big community.",
+  "id":"1e07e3a6-2fe3-427f-a49f-76e5b5c32dc5",
+  "params":{
+    "id":"a67fa3fd-28ce-49d9-8825-632c440a606a"
+  },
+  "name":"Sylent"
+}

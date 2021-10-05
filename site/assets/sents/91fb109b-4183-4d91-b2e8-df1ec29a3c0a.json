@@ -1,0 +1,13 @@
+{
+  "start":51496,
+  "end":51535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, let's ask him what happened.\"",
+  "id":"91fb109b-4183-4d91-b2e8-df1ec29a3c0a",
+  "params":{
+    "id":"91fb109b-4183-4d91-b2e8-df1ec29a3c0a",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

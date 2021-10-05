@@ -1,0 +1,13 @@
+{
+  "start":67181,
+  "end":67208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They take the\n   pepperoni.",
+  "id":"f374c393-a027-401c-9019-d4f862592427",
+  "params":{
+    "id":"f374c393-a027-401c-9019-d4f862592427",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

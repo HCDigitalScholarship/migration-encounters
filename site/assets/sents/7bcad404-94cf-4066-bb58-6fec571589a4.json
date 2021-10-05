@@ -1,0 +1,12 @@
+{
+  "start":53789,
+  "end":53829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ella se acaba de ir\n     ahora en enero.",
+  "id":"7bcad404-94cf-4066-bb58-6fec571589a4",
+  "params":{
+    "id":"4460e19d-ab0c-4d54-af7c-10c42db37687"
+  },
+  "name":"Maria"
+}

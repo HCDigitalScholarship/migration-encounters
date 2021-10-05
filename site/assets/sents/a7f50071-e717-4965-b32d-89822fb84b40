@@ -1,0 +1,12 @@
+{
+  "start":65072,
+  "end":65118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"I\n am, but it's already happened.",
+  "id":"a7f50071-e717-4965-b32d-89822fb84b40",
+  "params":{
+    "id":"b99ce1be-55bf-47ed-b2e9-55de13d15e64"
+  },
+  "name":"Axel"
+}

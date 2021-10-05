@@ -1,0 +1,12 @@
+{
+  "start":24576,
+  "end":24664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told her, \"Okay, well I'm going to go tomorrow and I'm going to\n see what's going on.\"",
+  "id":"fdad8246-0e94-41a5-b5aa-9bab9f6607ab",
+  "params":{
+    "id":"d55b0fa9-8a10-4a5f-bdcc-dd744e788c88"
+  },
+  "name":"Angelo"
+}

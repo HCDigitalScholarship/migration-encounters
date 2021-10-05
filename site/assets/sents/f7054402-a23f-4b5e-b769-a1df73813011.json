@@ -1,0 +1,13 @@
+{
+  "start":8179,
+  "end":8245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they\n   caught us, and they said that we're violating US laws.",
+  "id":"f7054402-a23f-4b5e-b769-a1df73813011",
+  "params":{
+    "id":"f7054402-a23f-4b5e-b769-a1df73813011",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

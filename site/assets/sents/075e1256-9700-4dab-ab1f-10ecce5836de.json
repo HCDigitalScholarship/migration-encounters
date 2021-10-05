@@ -1,0 +1,13 @@
+{
+  "start":23331,
+  "end":23351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, you work hard.",
+  "id":"075e1256-9700-4dab-ab1f-10ecce5836de",
+  "params":{
+    "id":"075e1256-9700-4dab-ab1f-10ecce5836de",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

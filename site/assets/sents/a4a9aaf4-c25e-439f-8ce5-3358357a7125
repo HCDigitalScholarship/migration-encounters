@@ -1,0 +1,12 @@
+{
+  "start":75187,
+  "end":75215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I cook for all my roommates.",
+  "id":"a4a9aaf4-c25e-439f-8ce5-3358357a7125",
+  "params":{
+    "id":"af3f4aab-02d5-41ee-aa8a-bd4ea856c1e7"
+  },
+  "name":"Cris"
+}

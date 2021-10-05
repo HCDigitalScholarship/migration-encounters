@@ -1,0 +1,13 @@
+{
+  "start":50228,
+  "end":50232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow.",
+  "id":"385dcbad-c903-43c4-ae68-3b7754440a5d",
+  "params":{
+    "id":"385dcbad-c903-43c4-ae68-3b7754440a5d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19282,
+  "end":19294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who met you?",
+  "id":"246590bc-37f2-4f5a-8658-1aba409a4e0c",
+  "params":{
+    "id":"2632a372-a6e3-4a57-911f-faffa15e1b22"
+  },
+  "name":"Carlos"
+}

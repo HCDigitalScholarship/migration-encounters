@@ -1,0 +1,12 @@
+{
+  "start":37436,
+  "end":37455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n little bit more.",
+  "id":"813bfd50-0272-4b54-a9f3-1936bbfdf6f0",
+  "params":{
+    "id":"d8afa9f4-285d-4534-9534-19fb4e087c32"
+  },
+  "name":"Billy"
+}

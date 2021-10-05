@@ -1,0 +1,13 @@
+{
+  "start":4230,
+  "end":4242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Around five.",
+  "id":"fd07e17c-4497-4494-9dc2-9cfd47fa857a",
+  "params":{
+    "id":"fd07e17c-4497-4494-9dc2-9cfd47fa857a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

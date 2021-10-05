@@ -1,0 +1,13 @@
+{
+  "start":10765,
+  "end":10811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to spend a lot of time just here,",
+  "id":"4eafd62a-1aef-40a7-8f94-f2f63a419382",
+  "params":{
+    "id":"4eafd62a-1aef-40a7-8f94-f2f63a419382",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

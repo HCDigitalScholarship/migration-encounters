@@ -1,0 +1,12 @@
+{
+  "start":37225,
+  "end":37308,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I noticed that nothing's going to\n   be given to me and I need to take what I want.",
+  "id":"3492016b-7c86-4756-be58-c8ea63be0d4e",
+  "params":{
+    "id":"32ac4202-7ea1-4623-8b34-e4f140a1362d"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17527,
+  "end":17563,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was in jail, my son was born.",
+  "id":"b0158854-f399-4ff7-8b31-874a392ed227",
+  "params":{
+    "id":"b0158854-f399-4ff7-8b31-874a392ed227",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

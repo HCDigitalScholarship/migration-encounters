@@ -1,0 +1,12 @@
+{
+  "start":30435,
+  "end":30494,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\u2019re like, \u201cThis is the best\n   thing that you gave me?\u201d",
+  "id":"f9be80ff-1263-4886-b87d-08a38fa6377e",
+  "params":{
+    "id":"ce068b74-eb63-471e-a7c8-3faac9ddb4e2"
+  },
+  "name":"Noe"
+}

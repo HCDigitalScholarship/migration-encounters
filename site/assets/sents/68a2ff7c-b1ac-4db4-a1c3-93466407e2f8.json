@@ -1,0 +1,13 @@
+{
+  "start":792,
+  "end":884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandmother's Texan at heart and never\n   learned English, but very, very Texan [Laughs].",
+  "id":"68a2ff7c-b1ac-4db4-a1c3-93466407e2f8",
+  "params":{
+    "id":"68a2ff7c-b1ac-4db4-a1c3-93466407e2f8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

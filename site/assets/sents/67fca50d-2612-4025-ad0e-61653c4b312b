@@ -1,0 +1,12 @@
+{
+  "start":19195,
+  "end":19265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think it was maximum security, but it was a federal\n   prison.",
+  "id":"67fca50d-2612-4025-ad0e-61653c4b312b",
+  "params":{
+    "id":"550a8038-37a2-4926-8d3d-dd62da36024e"
+  },
+  "name":"Sylent"
+}

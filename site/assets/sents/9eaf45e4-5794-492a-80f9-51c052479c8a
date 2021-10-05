@@ -1,0 +1,12 @@
+{
+  "start":29002,
+  "end":29082,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Last time, you told me a lot about how being undocumented affected\n   your life.",
+  "id":"9eaf45e4-5794-492a-80f9-51c052479c8a",
+  "params":{
+    "id":"fe8459ba-8087-49d9-b026-f67df83a44e1"
+  },
+  "name":"Luisa"
+}

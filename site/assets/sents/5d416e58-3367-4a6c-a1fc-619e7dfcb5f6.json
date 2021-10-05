@@ -1,0 +1,13 @@
+{
+  "start":16519,
+  "end":16566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was a good man, he was a good guy\n   mostly.",
+  "id":"5d416e58-3367-4a6c-a1fc-619e7dfcb5f6",
+  "params":{
+    "id":"5d416e58-3367-4a6c-a1fc-619e7dfcb5f6",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

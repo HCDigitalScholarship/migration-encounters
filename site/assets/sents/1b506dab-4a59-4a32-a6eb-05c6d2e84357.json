@@ -1,0 +1,13 @@
+{
+  "start":22007,
+  "end":22169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If there is nothing you can offer, you will be\n   like, \"Sorry, sir, there is nothing I can do, but this is what happened,\"\n   and you're telling them everything.",
+  "id":"1b506dab-4a59-4a32-a6eb-05c6d2e84357",
+  "params":{
+    "id":"1b506dab-4a59-4a32-a6eb-05c6d2e84357",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

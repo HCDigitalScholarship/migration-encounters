@@ -1,0 +1,12 @@
+{
+  "start":7946,
+  "end":8013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So this might be what you just said,\n   why did your mom leave you?",
+  "id":"d74f2f85-7bf8-42be-a2c4-bd927085da7e",
+  "params":{
+    "id":"6388cf77-4651-4690-b76b-a62d14cbff35"
+  },
+  "name":"Valeria"
+}

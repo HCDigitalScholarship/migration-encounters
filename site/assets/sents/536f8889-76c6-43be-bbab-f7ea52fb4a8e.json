@@ -1,0 +1,13 @@
+{
+  "start":71535,
+  "end":71555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want some chicken.",
+  "id":"536f8889-76c6-43be-bbab-f7ea52fb4a8e",
+  "params":{
+    "id":"536f8889-76c6-43be-bbab-f7ea52fb4a8e",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

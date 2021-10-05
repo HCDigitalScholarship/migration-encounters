@@ -1,0 +1,12 @@
+{
+  "start":56450,
+  "end":56526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Damn, my mom went through a\n   lot of sacrifices and it sucks.\"",
+  "id":"1e1acd9a-8d4b-482e-b8c0-30ccfa8c5e67",
+  "params":{
+    "id":"a647e292-1fe9-473a-a50c-f517b97c8bd3"
+  },
+  "name":"Mike"
+}

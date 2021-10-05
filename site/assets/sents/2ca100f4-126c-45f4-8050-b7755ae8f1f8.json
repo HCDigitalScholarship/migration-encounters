@@ -1,0 +1,13 @@
+{
+  "start":20198,
+  "end":20284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know anything, but I think I'm good at it, making\n   instrumentals for music.",
+  "id":"2ca100f4-126c-45f4-8050-b7755ae8f1f8",
+  "params":{
+    "id":"2ca100f4-126c-45f4-8050-b7755ae8f1f8",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

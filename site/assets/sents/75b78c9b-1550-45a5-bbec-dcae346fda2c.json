@@ -1,0 +1,13 @@
+{
+  "start":33059,
+  "end":33102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started to\n   become somewhat of a prick.",
+  "id":"75b78c9b-1550-45a5-bbec-dcae346fda2c",
+  "params":{
+    "id":"75b78c9b-1550-45a5-bbec-dcae346fda2c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

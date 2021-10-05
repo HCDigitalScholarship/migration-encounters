@@ -1,0 +1,13 @@
+{
+  "start":22973,
+  "end":23007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry,\n   I'm going off topic.",
+  "id":"426ee4a6-e03d-4b86-985a-5ed25be880fe",
+  "params":{
+    "id":"426ee4a6-e03d-4b86-985a-5ed25be880fe",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

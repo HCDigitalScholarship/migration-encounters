@@ -1,0 +1,13 @@
+{
+  "start":24232,
+  "end":24297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We will never do a meeting in either one of our\n   neighborhoods.",
+  "id":"a08ca8ff-8f65-4e55-be2f-f8c8c8225e36",
+  "params":{
+    "id":"a08ca8ff-8f65-4e55-be2f-f8c8c8225e36",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19475,
+  "end":19560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something that we need sometimes to just throw it out and not\n   keep it inside.",
+  "id":"cefbe9d1-18cb-42ae-9fe4-276ec7df7766",
+  "params":{
+    "id":"ba044c25-c457-4ca0-b929-113a50f4f609"
+  },
+  "name":"Frank"
+}

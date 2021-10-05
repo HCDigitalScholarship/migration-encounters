@@ -1,0 +1,12 @@
+{
+  "start":35786,
+  "end":35802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I realized, \"No.",
+  "id":"7e2d8cb6-b886-47dc-b79c-44445b626dc3",
+  "params":{
+    "id":"9b3deddd-10b4-4311-ab10-8fdcb509e375"
+  },
+  "name":"Sylent"
+}

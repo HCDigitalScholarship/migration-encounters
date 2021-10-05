@@ -1,0 +1,13 @@
+{
+  "start":35454,
+  "end":35531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He got over there and, like I told you, he was pitching\n   peaches, cherries.",
+  "id":"0c149c19-9a49-4b03-bc14-d7cbd7eb9185",
+  "params":{
+    "id":"0c149c19-9a49-4b03-bc14-d7cbd7eb9185",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

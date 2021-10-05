@@ -1,0 +1,13 @@
+{
+  "start":25985,
+  "end":26022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get to see my family\n   more often.",
+  "id":"0800244b-5b44-4f1b-864d-90f8f7bf1ba2",
+  "params":{
+    "id":"0800244b-5b44-4f1b-864d-90f8f7bf1ba2",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

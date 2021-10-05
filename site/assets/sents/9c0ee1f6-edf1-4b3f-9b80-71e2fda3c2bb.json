@@ -1,0 +1,13 @@
+{
+  "start":899,
+  "end":1064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about those five years, some of your favorite\n   memories, and then maybe some of your kind of challenges while you were in\n   the US?\n \n \n   Zayuri:",
+  "id":"9c0ee1f6-edf1-4b3f-9b80-71e2fda3c2bb",
+  "params":{
+    "id":"9c0ee1f6-edf1-4b3f-9b80-71e2fda3c2bb",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

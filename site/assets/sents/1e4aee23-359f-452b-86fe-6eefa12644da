@@ -1,0 +1,12 @@
+{
+  "start":20847,
+  "end":20877,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of people there.",
+  "id":"1e4aee23-359f-452b-86fe-6eefa12644da",
+  "params":{
+    "id":"a723192c-3af3-420b-905a-93bbb557f52c"
+  },
+  "name":"Beto"
+}

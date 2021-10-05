@@ -1,0 +1,12 @@
+{
+  "start":1262,
+  "end":1332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually went and\n   painted the Braves stadium in Atlanta, Georgia.",
+  "id":"b7823282-5a10-452b-8cc2-b04886f2a613",
+  "params":{
+    "id":"df880172-37fd-4c98-9c9c-5c96895a5daa"
+  },
+  "name":"Ivan"
+}

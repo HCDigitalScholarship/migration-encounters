@@ -1,0 +1,12 @@
+{
+  "start":7286,
+  "end":7344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She told me to not hang out with him and I didn't\n   obey.",
+  "id":"df4a5481-8d6e-4285-b7fa-0a941fa13efa",
+  "params":{
+    "id":"373ee26f-d67c-49dd-81ab-f9caa03a7c3a"
+  },
+  "name":"Valeria"
+}

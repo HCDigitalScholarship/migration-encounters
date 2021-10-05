@@ -1,0 +1,13 @@
+{
+  "start":2946,
+  "end":2978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She got out of work, like seven.",
+  "id":"67464aaa-2c5b-4f01-89ec-7c2f65208cca",
+  "params":{
+    "id":"67464aaa-2c5b-4f01-89ec-7c2f65208cca",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

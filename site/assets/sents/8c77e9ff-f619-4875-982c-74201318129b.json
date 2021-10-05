@@ -1,0 +1,13 @@
+{
+  "start":54861,
+  "end":54880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel\n   American.",
+  "id":"8c77e9ff-f619-4875-982c-74201318129b",
+  "params":{
+    "id":"8c77e9ff-f619-4875-982c-74201318129b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15022,
+  "end":15046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   was not being rude.",
+  "id":"d60b2155-f8da-4568-91e0-1dd170c7d1ae",
+  "params":{
+    "id":"cb2d6ede-1a0b-4e4c-adcf-9525515ed9bd"
+  },
+  "name":"Noe"
+}

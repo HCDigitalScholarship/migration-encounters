@@ -1,0 +1,13 @@
+{
+  "start":16353,
+  "end":16389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, but you should meet my\n brother.",
+  "id":"90aa592c-739a-4527-9c9e-e4326ea2a733",
+  "params":{
+    "id":"90aa592c-739a-4527-9c9e-e4326ea2a733",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

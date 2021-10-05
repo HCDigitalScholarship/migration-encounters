@@ -1,0 +1,13 @@
+{
+  "start":35843,
+  "end":35871,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That person is just like me.",
+  "id":"f7080b88-1087-4fb5-b22a-fc0f9747d827",
+  "params":{
+    "id":"f7080b88-1087-4fb5-b22a-fc0f9747d827",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

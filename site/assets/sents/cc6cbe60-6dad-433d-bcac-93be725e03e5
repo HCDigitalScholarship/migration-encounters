@@ -1,0 +1,12 @@
+{
+  "start":3665,
+  "end":3746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought I was not going to get arrested,\n   but the people decide to arrest me.",
+  "id":"cc6cbe60-6dad-433d-bcac-93be725e03e5",
+  "params":{
+    "id":"5a26ac1b-a6da-4689-82db-fd8521f1a466"
+  },
+  "name":"Noe"
+}

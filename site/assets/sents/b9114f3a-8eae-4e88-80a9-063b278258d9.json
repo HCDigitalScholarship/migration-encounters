@@ -1,0 +1,13 @@
+{
+  "start":15774,
+  "end":15807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, so he'll come for the summer?",
+  "id":"b9114f3a-8eae-4e88-80a9-063b278258d9",
+  "params":{
+    "id":"b9114f3a-8eae-4e88-80a9-063b278258d9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

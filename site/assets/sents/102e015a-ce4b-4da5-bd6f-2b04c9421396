@@ -1,0 +1,12 @@
+{
+  "start":17450,
+  "end":17473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They'll always do that.",
+  "id":"102e015a-ce4b-4da5-bd6f-2b04c9421396",
+  "params":{
+    "id":"ce21fd78-53ac-431f-a261-5bc34e5a9c85"
+  },
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13762,
+  "end":13784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you talk a lot now?",
+  "id":"036e8f91-5f7c-4b89-95ce-ac371b611faa",
+  "params":{
+    "id":"c655e61f-e30f-413a-92ec-9c7bae9d6038"
+  },
+  "name":"Pablo"
+}

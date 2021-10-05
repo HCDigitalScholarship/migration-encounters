@@ -1,0 +1,13 @@
+{
+  "start":28896,
+  "end":28932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have been through so much in life.",
+  "id":"1f12d734-982e-4d02-a239-cf37623e70dd",
+  "params":{
+    "id":"1f12d734-982e-4d02-a239-cf37623e70dd",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

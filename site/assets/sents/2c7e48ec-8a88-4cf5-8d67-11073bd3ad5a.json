@@ -1,0 +1,13 @@
+{
+  "start":20823,
+  "end":20853,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to meet a lot of people.",
+  "id":"2c7e48ec-8a88-4cf5-8d67-11073bd3ad5a",
+  "params":{
+    "id":"2c7e48ec-8a88-4cf5-8d67-11073bd3ad5a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":6911,
+  "end":6917,
+  "text":"er.\n \n <br/>\n \n   Anita: Did you follow Mexican political news?\n \n <br/>\n \n   Miguel: Nah, I did not. I did not.\n \n <br/>\n \n   Anita: Did you qualify for the Dreamers program, the DACA?\n \n <br/>\n \n   Miguel: I did. I did. I kind of screwed that up.\n \n <br/>\n \n   Anita: Did you apply for it?\n \n <br/>\n \n   Miguel: Didn't apply.\n \n <br/>\n \n   Anita: Why?\n \n <br/>\n \n   Miguel: Didn't even attempt to do it. ",
+  "label":"PERSON",
+  "id":"fd24f969-2804-4e14-aef2-aa58ca870bc1",
+  "name":"Miguel A"
+}

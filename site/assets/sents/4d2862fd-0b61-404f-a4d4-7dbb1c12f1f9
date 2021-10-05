@@ -1,0 +1,12 @@
+{
+  "start":16266,
+  "end":16284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was getting fat.",
+  "id":"4d2862fd-0b61-404f-a4d4-7dbb1c12f1f9",
+  "params":{
+    "id":"a7f4185b-9a34-461a-ac1e-817facc8ebe5"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9,
+  "end":50,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you came to the US?",
+  "id":"aeab674b-c450-4637-aa78-3112da131346",
+  "params":{
+    "id":"1eba2b46-e4b7-4e67-a411-bc3805342336"
+  },
+  "name":"Jesus C"
+}

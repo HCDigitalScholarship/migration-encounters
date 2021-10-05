@@ -1,0 +1,13 @@
+{
+  "start":32976,
+  "end":33041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you know you could kind of treat him like however you\n   want?",
+  "id":"0a2195cf-d946-4cdb-bd1c-114279bff95f",
+  "params":{
+    "id":"0a2195cf-d946-4cdb-bd1c-114279bff95f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

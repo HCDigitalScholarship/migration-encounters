@@ -1,0 +1,12 @@
+{
+  "start":8637,
+  "end":8682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Earlier you alluded to the Rodney King riots.",
+  "id":"873af385-a0fd-4bd3-b083-d53489682c6d",
+  "params":{
+    "id":"cc767844-71ca-4e9f-9983-752dc7d59b43"
+  },
+  "name":"Ruben"
+}

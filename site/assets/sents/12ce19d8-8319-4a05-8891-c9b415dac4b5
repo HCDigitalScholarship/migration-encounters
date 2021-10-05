@@ -1,0 +1,12 @@
+{
+  "start":26729,
+  "end":26815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico, with\n   2,000 pesos you can buy a lot of food, but it's too expensive.",
+  "id":"12ce19d8-8319-4a05-8891-c9b415dac4b5",
+  "params":{
+    "id":"08d05c70-3c98-41cb-abd7-e119ccac05bd"
+  },
+  "name":"Yair"
+}

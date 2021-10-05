@@ -1,0 +1,13 @@
+{
+  "start":23985,
+  "end":24000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my dad.",
+  "id":"114172c6-3fb3-47ef-b506-87fd0a5fecc3",
+  "params":{
+    "id":"114172c6-3fb3-47ef-b506-87fd0a5fecc3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

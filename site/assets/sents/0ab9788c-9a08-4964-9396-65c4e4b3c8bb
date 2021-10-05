@@ -1,0 +1,12 @@
+{
+  "start":29083,
+  "end":29111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you talk about that too?",
+  "id":"0ab9788c-9a08-4964-9396-65c4e4b3c8bb",
+  "params":{
+    "id":"b4ac3372-0ba3-4cfe-9fdf-e7d4a74b4ff1"
+  },
+  "name":"Luisa"
+}

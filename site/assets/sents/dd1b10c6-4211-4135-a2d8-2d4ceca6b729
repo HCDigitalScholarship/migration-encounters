@@ -1,0 +1,12 @@
+{
+  "start":52477,
+  "end":52507,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She doesn't like my\n   family.",
+  "id":"dd1b10c6-4211-4135-a2d8-2d4ceca6b729",
+  "params":{
+    "id":"8aba0ac0-b598-4a8e-be07-7b69982d604f"
+  },
+  "name":"Cris"
+}

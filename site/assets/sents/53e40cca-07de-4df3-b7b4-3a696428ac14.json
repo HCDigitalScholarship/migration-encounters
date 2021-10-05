@@ -1,0 +1,13 @@
+{
+  "start":69493,
+  "end":69510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was my plan.",
+  "id":"53e40cca-07de-4df3-b7b4-3a696428ac14",
+  "params":{
+    "id":"53e40cca-07de-4df3-b7b4-3a696428ac14",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

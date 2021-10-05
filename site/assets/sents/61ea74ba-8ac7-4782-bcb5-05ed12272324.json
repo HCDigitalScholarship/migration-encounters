@@ -1,0 +1,13 @@
+{
+  "start":12025,
+  "end":12072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we took a test, an English proficiency test.",
+  "id":"61ea74ba-8ac7-4782-bcb5-05ed12272324",
+  "params":{
+    "id":"61ea74ba-8ac7-4782-bcb5-05ed12272324",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

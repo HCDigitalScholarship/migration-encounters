@@ -1,0 +1,12 @@
+{
+  "start":23008,
+  "end":23016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried.",
+  "id":"c6503c05-b7db-4332-933d-b70d511de73e",
+  "params":{
+    "id":"bf645acf-a9f3-4336-bc5d-4c3d5efb7af9"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27595,
+  "end":27623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's more technical support.",
+  "id":"a7e3da07-f91c-4a9b-9dc7-e7de1c2ee7de",
+  "params":{
+    "id":"a7e3da07-f91c-4a9b-9dc7-e7de1c2ee7de",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

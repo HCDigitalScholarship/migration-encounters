@@ -1,0 +1,13 @@
+{
+  "start":26266,
+  "end":26285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe he got bored.",
+  "id":"419ae64e-b523-472f-8ca8-a49bf19966fd",
+  "params":{
+    "id":"419ae64e-b523-472f-8ca8-a49bf19966fd",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

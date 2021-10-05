@@ -1,0 +1,13 @@
+{
+  "start":21513,
+  "end":21580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're being able to get whatever they want whenever they\n   want.",
+  "id":"590f2dbc-2f0a-4f86-b522-0dccbb64e69b",
+  "params":{
+    "id":"590f2dbc-2f0a-4f86-b522-0dccbb64e69b",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

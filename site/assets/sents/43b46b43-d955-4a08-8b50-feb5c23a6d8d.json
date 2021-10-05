@@ -1,0 +1,13 @@
+{
+  "start":3916,
+  "end":3954,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But once you hit jail, you can't hang.",
+  "id":"43b46b43-d955-4a08-8b50-feb5c23a6d8d",
+  "params":{
+    "id":"43b46b43-d955-4a08-8b50-feb5c23a6d8d",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

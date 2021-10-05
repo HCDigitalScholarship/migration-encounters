@@ -1,0 +1,12 @@
+{
+  "start":4517,
+  "end":4535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Frank: 21.",
+  "id":"6c2b24eb-105d-4dbb-9a5a-6b72ada11aa7",
+  "params":{
+    "id":"bb91a1db-77ea-4cf3-906e-fb3c7218c5d2"
+  },
+  "name":"Frank"
+}

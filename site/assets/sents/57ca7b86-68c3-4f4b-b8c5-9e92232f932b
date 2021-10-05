@@ -1,0 +1,12 @@
+{
+  "start":30216,
+  "end":30241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't understand them.",
+  "id":"57ca7b86-68c3-4f4b-b8c5-9e92232f932b",
+  "params":{
+    "id":"b7528d94-b9ff-4998-a800-8381f3e8fbef"
+  },
+  "name":"Beto"
+}

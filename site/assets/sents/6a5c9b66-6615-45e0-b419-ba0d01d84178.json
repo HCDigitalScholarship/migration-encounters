@@ -1,0 +1,13 @@
+{
+  "start":71295,
+  "end":71325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're the one\n that tells me.",
+  "id":"6a5c9b66-6615-45e0-b419-ba0d01d84178",
+  "params":{
+    "id":"6a5c9b66-6615-45e0-b419-ba0d01d84178",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8838,
+  "end":8865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents were too strict.",
+  "id":"2d198d99-fc74-4553-b866-a777b884b24e",
+  "params":{
+    "id":"ebc30352-c4c5-415e-9c52-b5a6b03703dc"
+  },
+  "name":"Ivan"
+}

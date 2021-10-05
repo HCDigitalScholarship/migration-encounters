@@ -1,0 +1,12 @@
+{
+  "start":15110,
+  "end":15154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know the laws, but I\n   imagine that",
+  "id":"56edf2b6-8e0a-4f9d-bbd4-e04807573b9f",
+  "params":{
+    "id":"4ad559e6-9447-4674-9ad9-ba40f3ab7211"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28674,
+  "end":28720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She worked for a mortgage company, so she does",
+  "id":"f6000295-d07c-4332-bc8c-37444dbbe2cc",
+  "params":{
+    "id":"f6000295-d07c-4332-bc8c-37444dbbe2cc",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

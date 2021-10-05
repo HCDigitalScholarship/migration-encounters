@@ -1,0 +1,12 @@
+{
+  "start":25473,
+  "end":25505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All of them have\n   specialties.",
+  "id":"a7502bc4-1107-41fd-a40e-de00c174e4d1",
+  "params":{
+    "id":"a7382f58-cff3-4088-8b2c-9343198eb619"
+  },
+  "name":"Carlos"
+}

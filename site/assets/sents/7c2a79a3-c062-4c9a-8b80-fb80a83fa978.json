@@ -1,0 +1,12 @@
+{
+  "start":35005,
+  "end":35039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry, but you can't do that.\"",
+  "id":"7c2a79a3-c062-4c9a-8b80-fb80a83fa978",
+  "params":{
+    "id":"9c76a916-20c0-4369-bf65-8dea938f26cd"
+  },
+  "name":"Sylent"
+}

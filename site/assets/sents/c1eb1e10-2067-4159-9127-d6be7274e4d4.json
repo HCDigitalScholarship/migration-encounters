@@ -1,0 +1,13 @@
+{
+  "start":3795,
+  "end":3839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n like, \"Man, this is called blues, bro.",
+  "id":"c1eb1e10-2067-4159-9127-d6be7274e4d4",
+  "params":{
+    "id":"c1eb1e10-2067-4159-9127-d6be7274e4d4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

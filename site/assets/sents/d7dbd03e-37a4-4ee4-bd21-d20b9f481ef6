@@ -1,0 +1,12 @@
+{
+  "start":16194,
+  "end":16221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've read Freud, Nietzsche.",
+  "id":"d7dbd03e-37a4-4ee4-bd21-d20b9f481ef6",
+  "params":{
+    "id":"78dccefc-2ec2-4f5b-a3ed-496d3d6671b6"
+  },
+  "name":"Luisa"
+}

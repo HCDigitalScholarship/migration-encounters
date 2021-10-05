@@ -1,0 +1,13 @@
+{
+  "start":25452,
+  "end":25518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you came back to\n   Arizona after two years of being kidnapped?",
+  "id":"9b0d170f-3fd3-43a4-bedb-abbaa97cc002",
+  "params":{
+    "id":"9b0d170f-3fd3-43a4-bedb-abbaa97cc002",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

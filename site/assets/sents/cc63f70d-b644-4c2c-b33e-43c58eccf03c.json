@@ -1,0 +1,13 @@
+{
+  "start":23503,
+  "end":23513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's it?",
+  "id":"cc63f70d-b644-4c2c-b33e-43c58eccf03c",
+  "params":{
+    "id":"cc63f70d-b644-4c2c-b33e-43c58eccf03c",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

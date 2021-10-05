@@ -1,0 +1,13 @@
+{
+  "start":9207,
+  "end":9231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How were you\n   treated?",
+  "id":"31e76634-233d-450c-8d8c-32a4da2e7e3d",
+  "params":{
+    "id":"31e76634-233d-450c-8d8c-32a4da2e7e3d",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,15 @@
+{
+  "start":8315,
+  "end":8333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I want to mark",
+  "id":"f057332c-985a-4c5f-81b4-7ed4f02491f2",
+  "params":{
+    "id":"f057332c-985a-4c5f-81b4-7ed4f02491f2",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

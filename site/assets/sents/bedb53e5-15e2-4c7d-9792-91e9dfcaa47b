@@ -1,0 +1,12 @@
+{
+  "start":45640,
+  "end":45657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, so are you.",
+  "id":"bedb53e5-15e2-4c7d-9792-91e9dfcaa47b",
+  "params":{
+    "id":"3999e768-d6da-404c-b631-f9d85763d2b5"
+  },
+  "name":"Rodrigo"
+}

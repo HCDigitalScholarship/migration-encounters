@@ -1,0 +1,12 @@
+{
+  "start":9794,
+  "end":9826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why were you arrested that time?",
+  "id":"93009c9f-6b37-4290-9a94-5eed67b8fbda",
+  "params":{
+    "id":"49d2f7cb-c013-4663-a583-03aee37eca90"
+  },
+  "name":"Pablo"
+}

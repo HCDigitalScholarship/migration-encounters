@@ -1,0 +1,12 @@
+{
+  "start":38095,
+  "end":38132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess now that we've\n   become more",
+  "id":"19fbf0e4-7b7f-4232-ab68-9670ff66ca7b",
+  "params":{
+    "id":"bf2d023c-ceaa-49a3-8fd4-632c00a7f981"
+  },
+  "name":"Sylent"
+}

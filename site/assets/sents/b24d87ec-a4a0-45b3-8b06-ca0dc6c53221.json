@@ -1,0 +1,12 @@
+{
+  "start":29246,
+  "end":29275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever\n   happens, happens.",
+  "id":"b24d87ec-a4a0-45b3-8b06-ca0dc6c53221",
+  "params":{
+    "id":"e8b383dc-2092-4f70-aae4-3dd65ad609b6"
+  },
+  "name":"Kevin"
+}

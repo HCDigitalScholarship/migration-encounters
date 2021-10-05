@@ -1,0 +1,12 @@
+{
+  "start":10827,
+  "end":10945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They've always taught us,\n   they say, \u201cWe go into somebody's home and you see a penny, you don't touch\n   that penny.",
+  "id":"c516d4db-2d7c-4ec9-8500-8bbbd83676ee",
+  "params":{
+    "id":"3eaf762e-45e7-4c3b-8056-bcb7251e815f"
+  },
+  "name":"Hugo"
+}

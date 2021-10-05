@@ -1,0 +1,12 @@
+{
+  "start":30615,
+  "end":30691,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was pretty cool,\n   like, \"Okay, they have their own identity.\"",
+  "id":"c18ceaab-d602-4ac3-bf32-8a3d11bc9bb6",
+  "params":{
+    "id":"6e60dd3b-0a1f-4a94-97d8-aac67ed6fb04"
+  },
+  "name":"Sylent"
+}

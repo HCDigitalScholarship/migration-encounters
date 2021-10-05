@@ -1,0 +1,12 @@
+{
+  "start":5989,
+  "end":6022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What don't you like about Mexico?",
+  "id":"845c7db5-4dd4-4904-b074-cbd0ba38123e",
+  "params":{
+    "id":"bf6641eb-4550-428e-938f-211f90a84edc"
+  },
+  "name":"Ivan"
+}

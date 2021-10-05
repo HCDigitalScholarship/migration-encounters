@@ -1,0 +1,12 @@
+{
+  "start":35884,
+  "end":35897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did it all.",
+  "id":"59623f34-4083-4107-9f6c-c0f461c3fbb0",
+  "params":{
+    "id":"a1b8c3e8-71b6-478d-b6e4-2ff0e7fc8c9f"
+  },
+  "name":"Kevin"
+}

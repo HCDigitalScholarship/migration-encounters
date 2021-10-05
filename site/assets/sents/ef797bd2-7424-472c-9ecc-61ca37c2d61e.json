@@ -1,0 +1,13 @@
+{
+  "start":21312,
+  "end":21421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember at the time that I saw her, she just started crying\n   because she said, \u201cLook at how big you are.",
+  "id":"ef797bd2-7424-472c-9ecc-61ca37c2d61e",
+  "params":{
+    "id":"ef797bd2-7424-472c-9ecc-61ca37c2d61e",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3914,
+  "end":3996,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it was around eight o\u2019clock\n   when she crossed the border in the morning.",
+  "id":"096bdbd5-b99e-46e9-8dfe-ced2856b0c06",
+  "params":{
+    "id":"096bdbd5-b99e-46e9-8dfe-ced2856b0c06",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8750,
+  "end":8795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So once you came back, was it easier for you?",
+  "id":"89b95f19-eb9c-4cfb-b48f-70d11891c28d",
+  "params":{
+    "id":"89b95f19-eb9c-4cfb-b48f-70d11891c28d",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

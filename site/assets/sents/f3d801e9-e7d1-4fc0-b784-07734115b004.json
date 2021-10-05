@@ -1,0 +1,13 @@
+{
+  "start":34656,
+  "end":34728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that there's assistance for just about\n any and everything else.",
+  "id":"f3d801e9-e7d1-4fc0-b784-07734115b004",
+  "params":{
+    "id":"f3d801e9-e7d1-4fc0-b784-07734115b004",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1908,
+  "end":1913,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cool.",
+  "id":"847f4552-0c15-42a7-a3a3-724642fc4c4f",
+  "params":{
+    "id":"847f4552-0c15-42a7-a3a3-724642fc4c4f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

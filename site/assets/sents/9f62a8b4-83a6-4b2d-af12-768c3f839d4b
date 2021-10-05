@@ -1,0 +1,12 @@
+{
+  "start":12366,
+  "end":12386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where were you born?",
+  "id":"9f62a8b4-83a6-4b2d-af12-768c3f839d4b",
+  "params":{
+    "id":"9dc0f709-49f7-45fb-8e6d-89f9e03a5a22"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19435,
+  "end":19569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you look back on your time in the US, you were there for 20\n   years, right?\n \n \n   Joseph: 22, 23.\n \n \n   Anne: 22, 23 years.",
+  "id":"86413398-868c-4a94-a219-4260e1c491dc",
+  "params":{
+    "id":"86413398-868c-4a94-a219-4260e1c491dc",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

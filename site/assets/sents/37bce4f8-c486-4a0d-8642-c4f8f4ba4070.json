@@ -1,0 +1,13 @@
+{
+  "start":3280,
+  "end":3374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those temperatures, when it's cold, it gets very cold,\n   and when it's hot, it gets very hot.",
+  "id":"37bce4f8-c486-4a0d-8642-c4f8f4ba4070",
+  "params":{
+    "id":"37bce4f8-c486-4a0d-8642-c4f8f4ba4070",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

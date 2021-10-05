@@ -1,0 +1,12 @@
+{
+  "start":23433,
+  "end":23453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can do the test.",
+  "id":"7d2f5f6e-eb17-48c1-9ea5-9def89073bdc",
+  "params":{
+    "id":"a5bba7c5-48d4-4d26-8563-34bb0eb55d7c"
+  },
+  "name":"Valeria"
+}

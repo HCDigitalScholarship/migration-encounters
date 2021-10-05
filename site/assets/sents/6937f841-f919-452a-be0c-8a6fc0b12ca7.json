@@ -1,0 +1,13 @@
+{
+  "start":24742,
+  "end":24779,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's nice, but not like a real job.",
+  "id":"6937f841-f919-452a-be0c-8a6fc0b12ca7",
+  "params":{
+    "id":"6937f841-f919-452a-be0c-8a6fc0b12ca7",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30986,
+  "end":31013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n know where I'm at.",
+  "id":"89da6a52-6967-45a3-8314-b8f21cc75dfe",
+  "params":{
+    "id":"00b48144-3171-48ba-a8b1-aab98ae74619"
+  },
+  "name":"Axel"
+}

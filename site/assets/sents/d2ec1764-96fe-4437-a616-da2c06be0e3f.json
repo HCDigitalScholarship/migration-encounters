@@ -1,0 +1,13 @@
+{
+  "start":13466,
+  "end":13490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I got\n   used to it.",
+  "id":"d2ec1764-96fe-4437-a616-da2c06be0e3f",
+  "params":{
+    "id":"d2ec1764-96fe-4437-a616-da2c06be0e3f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

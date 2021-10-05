@@ -1,0 +1,12 @@
+{
+  "start":8628,
+  "end":8647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that like?",
+  "id":"216e953e-3e34-4e2f-b4cb-b62e9da09bfe",
+  "params":{
+    "id":"b8172ee1-4f36-4da7-be28-5225b8dd2e53"
+  },
+  "name":"Joana"
+}

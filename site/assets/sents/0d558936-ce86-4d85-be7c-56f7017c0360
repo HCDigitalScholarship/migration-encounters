@@ -1,0 +1,12 @@
+{
+  "start":20096,
+  "end":20128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a\n   good note to end on.",
+  "id":"0d558936-ce86-4d85-be7c-56f7017c0360",
+  "params":{
+    "id":"3b564def-3a90-4f02-904d-4b92f88824ec"
+  },
+  "name":"Pablo"
+}

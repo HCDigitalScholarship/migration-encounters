@@ -1,0 +1,13 @@
+{
+  "start":5860,
+  "end":5952,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is at five in the morning or there's a lot of\n   traffic and I didn't want to cross it.",
+  "id":"f09e7fd7-8b0c-400d-992c-85759e4fbb00",
+  "params":{
+    "id":"f09e7fd7-8b0c-400d-992c-85759e4fbb00",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

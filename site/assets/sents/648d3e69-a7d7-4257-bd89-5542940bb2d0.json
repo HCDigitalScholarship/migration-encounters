@@ -1,0 +1,13 @@
+{
+  "start":456,
+  "end":481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I, we migrated illegally.",
+  "id":"648d3e69-a7d7-4257-bd89-5542940bb2d0",
+  "params":{
+    "id":"648d3e69-a7d7-4257-bd89-5542940bb2d0",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

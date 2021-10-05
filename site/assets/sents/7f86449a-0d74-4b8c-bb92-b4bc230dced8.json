@@ -1,0 +1,12 @@
+{
+  "start":16039,
+  "end":16070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean you picked up?",
+  "id":"7f86449a-0d74-4b8c-bb92-b4bc230dced8",
+  "params":{
+    "id":"6eff367d-1a92-432f-8b99-73d2c3093a4a"
+  },
+  "name":"Ruben"
+}

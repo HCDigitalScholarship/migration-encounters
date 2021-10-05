@@ -1,0 +1,13 @@
+{
+  "start":21263,
+  "end":21307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He just had\n   plans to come back over here.",
+  "id":"3382d26b-8eaf-4d50-8f71-3a542c58e7a8",
+  "params":{
+    "id":"3382d26b-8eaf-4d50-8f71-3a542c58e7a8",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

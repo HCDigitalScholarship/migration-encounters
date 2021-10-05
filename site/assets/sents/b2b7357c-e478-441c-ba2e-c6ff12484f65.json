@@ -1,0 +1,13 @@
+{
+  "start":20014,
+  "end":20034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm from California.",
+  "id":"b2b7357c-e478-441c-ba2e-c6ff12484f65",
+  "params":{
+    "id":"b2b7357c-e478-441c-ba2e-c6ff12484f65",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

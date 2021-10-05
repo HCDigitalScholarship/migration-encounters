@@ -1,0 +1,12 @@
+{
+  "start":32398,
+  "end":32461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not going\n   to take a day, but eventually it will happen.",
+  "id":"ce531233-9b5a-48aa-a256-c604a53bc646",
+  "params":{
+    "id":"ddb891c9-b4ae-4c14-934f-83c999cf1ecf"
+  },
+  "name":"Joana"
+}

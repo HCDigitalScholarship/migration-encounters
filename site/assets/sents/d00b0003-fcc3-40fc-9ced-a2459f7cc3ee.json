@@ -1,0 +1,13 @@
+{
+  "start":6998,
+  "end":7030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He has everything over\n   there.",
+  "id":"d00b0003-fcc3-40fc-9ced-a2459f7cc3ee",
+  "params":{
+    "id":"d00b0003-fcc3-40fc-9ced-a2459f7cc3ee",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

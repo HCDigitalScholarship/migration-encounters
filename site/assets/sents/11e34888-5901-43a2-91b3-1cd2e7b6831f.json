@@ -1,0 +1,13 @@
+{
+  "start":42947,
+  "end":43046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm pretty sure if I wasn't going to be an oncologist, maybe a\n   neuroscientist or a neurosurgeon.",
+  "id":"11e34888-5901-43a2-91b3-1cd2e7b6831f",
+  "params":{
+    "id":"11e34888-5901-43a2-91b3-1cd2e7b6831f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

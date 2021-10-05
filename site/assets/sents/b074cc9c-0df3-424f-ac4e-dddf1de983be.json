@@ -1,0 +1,13 @@
+{
+  "start":61860,
+  "end":61905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"TV, she didn't even have the TV for\n a while.",
+  "id":"b074cc9c-0df3-424f-ac4e-dddf1de983be",
+  "params":{
+    "id":"b074cc9c-0df3-424f-ac4e-dddf1de983be",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

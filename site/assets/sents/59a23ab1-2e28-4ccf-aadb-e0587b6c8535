@@ -1,0 +1,12 @@
+{
+  "start":23269,
+  "end":23312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're going to arrest you\n   on the spot.",
+  "id":"59a23ab1-2e28-4ccf-aadb-e0587b6c8535",
+  "params":{
+    "id":"d7254391-ff87-439c-b546-4c0e80eff14a"
+  },
+  "name":"Joana"
+}

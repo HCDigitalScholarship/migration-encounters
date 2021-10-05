@@ -1,0 +1,13 @@
+{
+  "start":8861,
+  "end":8890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm angry about the company.\"",
+  "id":"4a621f9a-f485-484a-9acb-1c086659ebc7",
+  "params":{
+    "id":"4a621f9a-f485-484a-9acb-1c086659ebc7",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

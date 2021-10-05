@@ -1,0 +1,12 @@
+{
+  "start":30452,
+  "end":30529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Looking back at it now, I put my mom through a lot of stuff, and\n   it sucks.",
+  "id":"2de7f6e2-c5b9-41a1-9771-79960049c01c",
+  "params":{
+    "id":"5c5e3cf6-d0e2-44bb-b94e-23da0301d07d"
+  },
+  "name":"Mike"
+}

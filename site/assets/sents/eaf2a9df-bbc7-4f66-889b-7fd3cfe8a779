@@ -1,0 +1,12 @@
+{
+  "start":8991,
+  "end":9036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Had you been in trouble before?",
+  "id":"eaf2a9df-bbc7-4f66-889b-7fd3cfe8a779",
+  "params":{
+    "id":"729dbf58-6f57-4ffd-8fb8-b199aa745462"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25739,
+  "end":25764,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was an accident, yeah.",
+  "id":"1de38d2c-f5ef-4de8-8772-66d2b2b451c2",
+  "params":{
+    "id":"c48a1c1e-91d4-4589-8ee0-625f7dbe9806"
+  },
+  "name":"Billy"
+}

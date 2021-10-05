@@ -1,0 +1,13 @@
+{
+  "start":34524,
+  "end":34742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody has some type of conflict with\n   somebody else and you're just like really, like we come out here to hang\n   out and have a good time and you're out here talking about this and that,\n   arguing with somebody?",
+  "id":"aa95bff4-c3c8-4f90-9f84-2fe34d08e32b",
+  "params":{
+    "id":"aa95bff4-c3c8-4f90-9f84-2fe34d08e32b",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6377,
+  "end":6396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't the case.",
+  "id":"dd890aa6-240d-43c0-a40d-cd1076eea5f3",
+  "params":{
+    "id":"dd890aa6-240d-43c0-a40d-cd1076eea5f3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

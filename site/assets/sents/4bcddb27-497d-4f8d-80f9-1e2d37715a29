@@ -1,0 +1,12 @@
+{
+  "start":63195,
+  "end":63248,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That animal has as much right to\n   be here as we do.",
+  "id":"4bcddb27-497d-4f8d-80f9-1e2d37715a29",
+  "params":{
+    "id":"98cb5cc4-3d35-4c2b-a978-f6964f5f0e6c"
+  },
+  "name":"Cris"
+}

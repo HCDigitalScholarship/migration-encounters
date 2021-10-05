@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1600,
+  "end":1605,
+  "text":". I don't believe so.\n \n \n   Sergio: Did you experience violence or discrimination in your home country\n   before you left?\n \n \n   Josue: No.\n \n \n   Sergio: How old were you when you migrated?\n \n \n   Josue: I was 15.\n \n \n   Sergio: How did you enter the US? With a tourist visa, migrant visa, or\n   cross the border?\n \n \n   Josue: No, we crossed the border. No papers.\n \n \n   Sergio: Did you apply for pol",
+  "label":"PERSON",
+  "id":"bb356b82-75a5-4551-9b68-aba7b12fd523",
+  "name":"Josue"
+}

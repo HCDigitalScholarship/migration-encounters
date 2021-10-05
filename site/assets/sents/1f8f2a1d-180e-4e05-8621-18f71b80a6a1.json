@@ -1,0 +1,13 @@
+{
+  "start":4178,
+  "end":4231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But my\n   brother and the little girl were too young.",
+  "id":"1f8f2a1d-180e-4e05-8621-18f71b80a6a1",
+  "params":{
+    "id":"1f8f2a1d-180e-4e05-8621-18f71b80a6a1",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

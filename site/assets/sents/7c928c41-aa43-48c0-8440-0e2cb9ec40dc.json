@@ -1,0 +1,13 @@
+{
+  "start":22661,
+  "end":22727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you wanted to go to school, you're still working on that.",
+  "id":"7c928c41-aa43-48c0-8440-0e2cb9ec40dc",
+  "params":{
+    "id":"7c928c41-aa43-48c0-8440-0e2cb9ec40dc",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

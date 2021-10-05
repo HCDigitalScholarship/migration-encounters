@@ -1,0 +1,12 @@
+{
+  "start":18843,
+  "end":18897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom does cleaning, that's her job and she loves it.",
+  "id":"e8c53ff6-7160-46f6-99ae-2c2b83b6b958",
+  "params":{
+    "id":"c2fa796e-e29d-4a64-8928-6720c34d4b81"
+  },
+  "name":"Joana"
+}

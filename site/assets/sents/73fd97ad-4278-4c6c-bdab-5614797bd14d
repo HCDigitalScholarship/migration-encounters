@@ -1,0 +1,12 @@
+{
+  "start":64020,
+  "end":64080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've experienced the\n   cities, the countries in the States.",
+  "id":"73fd97ad-4278-4c6c-bdab-5614797bd14d",
+  "params":{
+    "id":"39dd0e3d-e8fa-4cc9-81fd-704848bb58be"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17462,
+  "end":17501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He would never\n run; he would stay put.",
+  "id":"96757384-8199-4b73-b6d1-61a6f4fe5826",
+  "params":{
+    "id":"96757384-8199-4b73-b6d1-61a6f4fe5826",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

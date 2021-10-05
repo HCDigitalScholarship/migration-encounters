@@ -1,0 +1,13 @@
+{
+  "start":13746,
+  "end":13766,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"No, not\n   really.\"",
+  "id":"6e2d148b-065a-47c8-8baa-1a7e27ef4ad9",
+  "params":{
+    "id":"6e2d148b-065a-47c8-8baa-1a7e27ef4ad9",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

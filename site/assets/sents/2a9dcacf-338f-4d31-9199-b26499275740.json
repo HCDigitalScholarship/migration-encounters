@@ -1,0 +1,13 @@
+{
+  "start":13400,
+  "end":13501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, at\n   the end they decided to arrest me because they didn't know if the ID was\n   legit or not.",
+  "id":"2a9dcacf-338f-4d31-9199-b26499275740",
+  "params":{
+    "id":"2a9dcacf-338f-4d31-9199-b26499275740",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3968,
+  "end":4079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know I was illegal\n   because I thought that my family had moved to a different part of the\n   planet.",
+  "id":"f62afadf-634c-49a0-96ad-b5dbce9986b8",
+  "params":{
+    "id":"b71f8545-8345-49b4-b4e0-b48cd9a2e771"
+  },
+  "name":"Sylent"
+}

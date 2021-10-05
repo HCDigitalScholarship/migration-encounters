@@ -1,0 +1,12 @@
+{
+  "start":55,
+  "end":82,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm twenty-seven years old.",
+  "id":"3820a8c3-c56f-491f-8de0-a33530d90cc9",
+  "params":{
+    "id":"5bb4625d-3c3a-46e5-a341-ca89fcf5f556"
+  },
+  "name":"Ivan"
+}

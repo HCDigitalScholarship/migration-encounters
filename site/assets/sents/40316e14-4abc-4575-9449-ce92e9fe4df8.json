@@ -1,0 +1,13 @@
+{
+  "start":27759,
+  "end":27820,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of really nice people\n   that I met over there.",
+  "id":"40316e14-4abc-4575-9449-ce92e9fe4df8",
+  "params":{
+    "id":"40316e14-4abc-4575-9449-ce92e9fe4df8",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

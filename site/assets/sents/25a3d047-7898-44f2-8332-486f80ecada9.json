@@ -1,0 +1,13 @@
+{
+  "start":365,
+  "end":412,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The capital and the state are the same\n   name.",
+  "id":"25a3d047-7898-44f2-8332-486f80ecada9",
+  "params":{
+    "id":"25a3d047-7898-44f2-8332-486f80ecada9",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

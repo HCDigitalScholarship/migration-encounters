@@ -1,0 +1,13 @@
+{
+  "start":696,
+  "end":776,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandma really likes Mexico\n   so I spent half of my life, my childhood here.",
+  "id":"cc515adb-efbd-4fb0-a3bb-757d36239f80",
+  "params":{
+    "id":"cc515adb-efbd-4fb0-a3bb-757d36239f80",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

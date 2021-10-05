@@ -1,0 +1,13 @@
+{
+  "start":28042,
+  "end":28065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell her that?\"",
+  "id":"ce635c88-c7fa-42cc-8553-85c59ac942fc",
+  "params":{
+    "id":"ce635c88-c7fa-42cc-8553-85c59ac942fc",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

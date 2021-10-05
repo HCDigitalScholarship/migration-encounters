@@ -1,0 +1,12 @@
+{
+  "start":20965,
+  "end":21015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started hanging out with the wrong kind of kids.",
+  "id":"2e3eb4d6-a356-482c-98c2-fa4fc527e291",
+  "params":{
+    "id":"e14406e1-6065-49c6-aa96-c996bbffd6b2"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":52113,
+  "end":52242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when that incident happened, they\n     told me that, \"We get what you're going through, but you have to push\n     through it.",
+  "id":"c9481c12-65e7-478c-94c4-e14f1f713e65",
+  "params":{
+    "id":"c9481c12-65e7-478c-94c4-e14f1f713e65",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

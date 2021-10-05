@@ -1,0 +1,13 @@
+{
+  "start":642,
+  "end":669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you moved around a lot?",
+  "id":"ec5fad09-3f9d-47b1-9983-f1cbe1e98c39",
+  "params":{
+    "id":"ec5fad09-3f9d-47b1-9983-f1cbe1e98c39",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

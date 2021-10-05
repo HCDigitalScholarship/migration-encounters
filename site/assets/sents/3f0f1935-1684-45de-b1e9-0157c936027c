@@ -1,0 +1,12 @@
+{
+  "start":8545,
+  "end":8624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know that he knew about it, but I don't think he\n   was there at that moment.",
+  "id":"3f0f1935-1684-45de-b1e9-0157c936027c",
+  "params":{
+    "id":"5288eb8c-adf0-49f9-9e7b-203bbea8b3b7"
+  },
+  "name":"Josue"
+}

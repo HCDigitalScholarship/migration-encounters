@@ -1,0 +1,12 @@
+{
+  "start":10055,
+  "end":10118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember the\nfirst year went by really fast, the second year.",
+  "id":"78c1797d-e312-4534-afec-c710a6d6433e",
+  "params":{
+    "id":"e6b6e98f-9d04-4530-8dd0-de5b2ba39c18"
+  },
+  "name":"Abel"
+}

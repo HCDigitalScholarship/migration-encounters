@@ -1,0 +1,13 @@
+{
+  "start":50168,
+  "end":50185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean?",
+  "id":"e4226c38-b831-48a4-b3c6-07f6bf4ffaf5",
+  "params":{
+    "id":"e4226c38-b831-48a4-b3c6-07f6bf4ffaf5",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

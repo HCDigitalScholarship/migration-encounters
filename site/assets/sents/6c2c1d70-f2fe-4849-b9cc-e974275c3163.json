@@ -1,0 +1,13 @@
+{
+  "start":27345,
+  "end":27386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then after that, I worked\n   at CompuCom.",
+  "id":"6c2c1d70-f2fe-4849-b9cc-e974275c3163",
+  "params":{
+    "id":"6c2c1d70-f2fe-4849-b9cc-e974275c3163",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

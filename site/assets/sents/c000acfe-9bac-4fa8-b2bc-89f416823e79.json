@@ -1,0 +1,13 @@
+{
+  "start":29049,
+  "end":29077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to, obviously.",
+  "id":"c000acfe-9bac-4fa8-b2bc-89f416823e79",
+  "params":{
+    "id":"c000acfe-9bac-4fa8-b2bc-89f416823e79",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

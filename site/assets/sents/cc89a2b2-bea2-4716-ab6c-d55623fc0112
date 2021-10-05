@@ -1,0 +1,12 @@
+{
+  "start":20465,
+  "end":20551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought, I don't know, you hear a\n   lot of stories that they're going to do to you.",
+  "id":"cc89a2b2-bea2-4716-ab6c-d55623fc0112",
+  "params":{
+    "id":"849f8db7-af6f-4fc1-baa8-e45100a984cb"
+  },
+  "name":"Sylent"
+}

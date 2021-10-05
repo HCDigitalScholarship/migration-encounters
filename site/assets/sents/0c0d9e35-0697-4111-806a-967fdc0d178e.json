@@ -1,0 +1,12 @@
+{
+  "start":7729,
+  "end":7776,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n     been a long time since I've seen you.",
+  "id":"0c0d9e35-0697-4111-806a-967fdc0d178e",
+  "params":{
+    "id":"15d099e3-f0e6-419b-b5a3-d75be4ad62ed"
+  },
+  "name":"Beto"
+}

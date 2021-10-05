@@ -1,0 +1,12 @@
+{
+  "start":32653,
+  "end":32693,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   want to punch him in the face.",
+  "id":"793d7a6b-6243-4bb6-91fd-4a1e5346fd7d",
+  "params":{
+    "id":"b732502b-bd5f-4cc7-819d-4e2fbf5e66da"
+  },
+  "name":"Mike"
+}

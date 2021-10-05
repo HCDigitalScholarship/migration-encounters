@@ -1,0 +1,13 @@
+{
+  "start":47002,
+  "end":47029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was homeless for a while.",
+  "id":"081e8d0c-9745-44ee-b943-ab49253d6613",
+  "params":{
+    "id":"081e8d0c-9745-44ee-b943-ab49253d6613",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

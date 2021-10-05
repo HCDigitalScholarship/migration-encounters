@@ -1,0 +1,13 @@
+{
+  "start":6445,
+  "end":6480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you learn about the product?",
+  "id":"2f533fcc-05a3-443c-9759-4c241e1143a4",
+  "params":{
+    "id":"2f533fcc-05a3-443c-9759-4c241e1143a4",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

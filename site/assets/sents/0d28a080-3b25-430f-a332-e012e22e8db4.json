@@ -1,0 +1,13 @@
+{
+  "start":9306,
+  "end":9325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Affirmative noise]",
+  "id":"0d28a080-3b25-430f-a332-e012e22e8db4",
+  "params":{
+    "id":"0d28a080-3b25-430f-a332-e012e22e8db4",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

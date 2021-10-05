@@ -1,0 +1,12 @@
+{
+  "start":34848,
+  "end":34882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cPues s\u00ed si lo\n     quiero hacer\u201d.",
+  "id":"f1cb2814-6435-4b0d-8b7a-61830922b8ac",
+  "params":{
+    "id":"f770d29e-3f15-464e-850d-b809a228ae42"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3667,
+  "end":3713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You haven't talked until today, with your dad?",
+  "id":"aad72daa-6b96-4900-b428-d423e0c8d8af",
+  "params":{
+    "id":"aad72daa-6b96-4900-b428-d423e0c8d8af",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

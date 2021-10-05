@@ -1,0 +1,13 @@
+{
+  "start":507,
+  "end":628,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is Many by the way and we're talking, and he just explained why\n   he decided to leave Mexico at the age of fifteen.",
+  "id":"f0bfebf3-d7f4-461b-a2e9-7ff8fda92faf",
+  "params":{
+    "id":"f0bfebf3-d7f4-461b-a2e9-7ff8fda92faf",
+    "class":"anno"
+  },
+  "name":"Many"
+}

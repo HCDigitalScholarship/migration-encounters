@@ -1,0 +1,13 @@
+{
+  "start":8475,
+  "end":8484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 22.",
+  "id":"5d79d6d2-bad8-4628-bfd2-10e30245f11d",
+  "params":{
+    "id":"5d79d6d2-bad8-4628-bfd2-10e30245f11d",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

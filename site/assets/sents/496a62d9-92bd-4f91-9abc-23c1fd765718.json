@@ -1,0 +1,13 @@
+{
+  "start":6720,
+  "end":6795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I crossed the border in an\n   automobile with my sister and my nephews.",
+  "id":"496a62d9-92bd-4f91-9abc-23c1fd765718",
+  "params":{
+    "id":"496a62d9-92bd-4f91-9abc-23c1fd765718",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

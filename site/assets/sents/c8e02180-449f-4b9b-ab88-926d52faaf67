@@ -1,0 +1,12 @@
+{
+  "start":28578,
+  "end":28664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, we're trying to create a platform for you to be able to have\n   a voice as well.",
+  "id":"c8e02180-449f-4b9b-ab88-926d52faaf67",
+  "params":{
+    "id":"f2bed51e-08fd-48cf-b4e2-78e82e456871"
+  },
+  "name":"Kevin"
+}

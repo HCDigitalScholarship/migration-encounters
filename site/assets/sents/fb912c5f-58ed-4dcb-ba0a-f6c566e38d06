@@ -1,0 +1,12 @@
+{
+  "start":4072,
+  "end":4090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did\nreally good.",
+  "id":"fb912c5f-58ed-4dcb-ba0a-f6c566e38d06",
+  "params":{
+    "id":"9c3945cc-9490-46ab-9be7-6444ab2e3b21"
+  },
+  "name":"Abel"
+}

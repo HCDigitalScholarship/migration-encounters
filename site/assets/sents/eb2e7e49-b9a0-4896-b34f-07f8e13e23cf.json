@@ -1,0 +1,13 @@
+{
+  "start":73134,
+  "end":73154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it's enough.",
+  "id":"eb2e7e49-b9a0-4896-b34f-07f8e13e23cf",
+  "params":{
+    "id":"eb2e7e49-b9a0-4896-b34f-07f8e13e23cf",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23452,
+  "end":23501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew that it was just\n teasing, messing around.",
+  "id":"faae370b-8b6f-47b9-b325-5019457176a7",
+  "params":{
+    "id":"faae370b-8b6f-47b9-b325-5019457176a7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

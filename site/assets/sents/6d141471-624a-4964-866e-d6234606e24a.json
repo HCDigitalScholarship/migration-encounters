@@ -1,0 +1,13 @@
+{
+  "start":34783,
+  "end":34844,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something\n   that I'll let everything go at this moment.",
+  "id":"6d141471-624a-4964-866e-d6234606e24a",
+  "params":{
+    "id":"6d141471-624a-4964-866e-d6234606e24a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

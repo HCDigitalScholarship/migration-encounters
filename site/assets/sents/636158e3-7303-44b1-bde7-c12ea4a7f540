@@ -1,0 +1,12 @@
+{
+  "start":9659,
+  "end":9672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took us.",
+  "id":"636158e3-7303-44b1-bde7-c12ea4a7f540",
+  "params":{
+    "id":"67388529-fba4-4088-9def-d13d3f491cb5"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34167,
+  "end":34218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So he caught it and then he just said hi to my mom.",
+  "id":"cedce4c3-f4c9-4e03-b3c4-f425a5960aa3",
+  "params":{
+    "id":"cedce4c3-f4c9-4e03-b3c4-f425a5960aa3",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

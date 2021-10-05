@@ -1,0 +1,13 @@
+{
+  "start":33410,
+  "end":33542,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember when I first got picked up, they took me to\n   Wisconsin\u2014I'm sorry, they took me to Rock Island, Illinois\u2014for processing.",
+  "id":"32c4f306-7cf0-447e-a614-905ed155ce82",
+  "params":{
+    "id":"32c4f306-7cf0-447e-a614-905ed155ce82",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

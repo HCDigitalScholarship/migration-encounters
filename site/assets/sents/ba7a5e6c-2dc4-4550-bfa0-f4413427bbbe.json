@@ -1,0 +1,13 @@
+{
+  "start":14122,
+  "end":14256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My favorite genre was fantasy, of course, because at that point, it\n   was an alternate reality where magic and anything was possible.",
+  "id":"ba7a5e6c-2dc4-4550-bfa0-f4413427bbbe",
+  "params":{
+    "id":"ba7a5e6c-2dc4-4550-bfa0-f4413427bbbe",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

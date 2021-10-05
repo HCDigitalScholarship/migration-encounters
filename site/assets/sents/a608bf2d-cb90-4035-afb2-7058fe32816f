@@ -1,0 +1,12 @@
+{
+  "start":18432,
+  "end":18451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It'll be fine.\"",
+  "id":"a608bf2d-cb90-4035-afb2-7058fe32816f",
+  "params":{
+    "id":"e5277dd6-df5f-415e-a3bf-43d532969413"
+  },
+  "name":"Jose"
+}

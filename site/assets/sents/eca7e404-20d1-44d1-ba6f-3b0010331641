@@ -1,0 +1,12 @@
+{
+  "start":20337,
+  "end":20374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not really the city that I like.",
+  "id":"eca7e404-20d1-44d1-ba6f-3b0010331641",
+  "params":{
+    "id":"9025e2bf-a39c-4724-8464-8d0cdf53eed0"
+  },
+  "name":"Jose"
+}

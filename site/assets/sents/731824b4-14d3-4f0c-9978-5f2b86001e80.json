@@ -1,0 +1,13 @@
+{
+  "start":36456,
+  "end":36532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I used to wear\n     my regular clothes to a Dodger Stadium whenever.",
+  "id":"731824b4-14d3-4f0c-9978-5f2b86001e80",
+  "params":{
+    "id":"731824b4-14d3-4f0c-9978-5f2b86001e80",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

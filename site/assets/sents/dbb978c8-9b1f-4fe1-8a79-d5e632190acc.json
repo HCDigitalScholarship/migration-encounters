@@ -1,0 +1,12 @@
+{
+  "start":2330,
+  "end":2375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My uncle,\n   he just died like two years ago.",
+  "id":"dbb978c8-9b1f-4fe1-8a79-d5e632190acc",
+  "params":{
+    "id":"5b97ad77-19a4-46fc-9f03-f2066a4859f4"
+  },
+  "name":"Many"
+}

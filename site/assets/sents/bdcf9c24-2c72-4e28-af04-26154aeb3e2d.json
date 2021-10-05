@@ -1,0 +1,13 @@
+{
+  "start":51625,
+  "end":51700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"O sea, s\u00ed hay\n     ciertas cosas que cambiaron mi vida, que s\u00ed me da miedo.",
+  "id":"bdcf9c24-2c72-4e28-af04-26154aeb3e2d",
+  "params":{
+    "id":"bdcf9c24-2c72-4e28-af04-26154aeb3e2d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

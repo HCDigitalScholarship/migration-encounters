@@ -1,0 +1,13 @@
+{
+  "start":21200,
+  "end":21238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't say why\n   we got stopped.",
+  "id":"5afd3678-d6cb-4916-96b2-06f24879f653",
+  "params":{
+    "id":"5afd3678-d6cb-4916-96b2-06f24879f653",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

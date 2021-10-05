@@ -1,0 +1,13 @@
+{
+  "start":26816,
+  "end":26949,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If my mom couldn't find\n   me, she'd call L___\u2019s mom and if L___'s mom couldn't find me, she'd call my\n   mom, and that's how it was.",
+  "id":"5f53199f-279f-4807-b76f-4fcaec5c7a0a",
+  "params":{
+    "id":"5f53199f-279f-4807-b76f-4fcaec5c7a0a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

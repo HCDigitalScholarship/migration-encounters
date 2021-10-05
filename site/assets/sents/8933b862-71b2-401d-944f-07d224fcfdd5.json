@@ -1,0 +1,13 @@
+{
+  "start":35990,
+  "end":36006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ruben: Gangster.",
+  "id":"8933b862-71b2-401d-944f-07d224fcfdd5",
+  "params":{
+    "id":"8933b862-71b2-401d-944f-07d224fcfdd5",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

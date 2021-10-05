@@ -1,0 +1,12 @@
+{
+  "start":28003,
+  "end":28033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n   school was really open.",
+  "id":"b74bf0b3-4aa3-4bba-a644-997f381837d4",
+  "params":{
+    "id":"81d7f24c-0149-4851-92c1-3e75e04ee22a"
+  },
+  "name":"Olimpya"
+}

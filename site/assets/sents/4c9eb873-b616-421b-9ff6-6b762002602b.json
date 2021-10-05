@@ -1,0 +1,13 @@
+{
+  "start":23020,
+  "end":23069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which I wanted; I would have just tried to cross.",
+  "id":"4c9eb873-b616-421b-9ff6-6b762002602b",
+  "params":{
+    "id":"4c9eb873-b616-421b-9ff6-6b762002602b",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20080,
+  "end":20140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   And I was like, \"Who's going to take care of my family?\"",
+  "id":"bde05cf8-54fc-4e23-8807-71e3e13ca654",
+  "params":{
+    "id":"bde05cf8-54fc-4e23-8807-71e3e13ca654",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

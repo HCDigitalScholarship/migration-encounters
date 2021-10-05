@@ -1,0 +1,13 @@
+{
+  "start":29960,
+  "end":30030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Oh yeah, that's the guy, he lives over there somewhere.",
+  "id":"e9b32fdb-fc2a-47b8-88f8-8a6d29160b2b",
+  "params":{
+    "id":"e9b32fdb-fc2a-47b8-88f8-8a6d29160b2b",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

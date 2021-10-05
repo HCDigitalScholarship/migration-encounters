@@ -1,0 +1,12 @@
+{
+  "start":20256,
+  "end":20356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Joana: For about a month, and I got out pretty quickly because I had my\n   passport with me.",
+  "id":"ac7245d7-f220-4f17-b3fc-219fd7d70650",
+  "params":{
+    "id":"08438698-7b91-4345-9794-7746592b5bd2"
+  },
+  "name":"Joana"
+}

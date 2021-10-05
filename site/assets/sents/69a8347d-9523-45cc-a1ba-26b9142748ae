@@ -1,0 +1,12 @@
+{
+  "start":35595,
+  "end":35695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I shouldn't have thought like that, I\n   should have been thinking like, \"You're not from here.",
+  "id":"69a8347d-9523-45cc-a1ba-26b9142748ae",
+  "params":{
+    "id":"75939812-bfbd-469a-a0a9-8c977c45feb2"
+  },
+  "name":"Mike"
+}

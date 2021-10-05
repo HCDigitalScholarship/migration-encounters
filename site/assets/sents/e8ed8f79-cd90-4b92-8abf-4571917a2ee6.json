@@ -1,0 +1,13 @@
+{
+  "start":18650,
+  "end":18677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I truly, truly love my mom.",
+  "id":"e8ed8f79-cd90-4b92-8abf-4571917a2ee6",
+  "params":{
+    "id":"e8ed8f79-cd90-4b92-8abf-4571917a2ee6",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

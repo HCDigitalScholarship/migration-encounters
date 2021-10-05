@@ -1,0 +1,13 @@
+{
+  "start":11055,
+  "end":11083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how we travel around.",
+  "id":"1f3dc19b-15c8-48eb-b5cd-93378e48fc02",
+  "params":{
+    "id":"1f3dc19b-15c8-48eb-b5cd-93378e48fc02",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

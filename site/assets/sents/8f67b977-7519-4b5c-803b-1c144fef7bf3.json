@@ -1,0 +1,13 @@
+{
+  "start":692,
+  "end":732,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom\n   wanted me to be here with her.",
+  "id":"8f67b977-7519-4b5c-803b-1c144fef7bf3",
+  "params":{
+    "id":"8f67b977-7519-4b5c-803b-1c144fef7bf3",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28083,
+  "end":28095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Great.",
+  "id":"6701d483-37f4-4dd2-b201-463c6d6cb8da",
+  "params":{
+    "id":"6701d483-37f4-4dd2-b201-463c6d6cb8da",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

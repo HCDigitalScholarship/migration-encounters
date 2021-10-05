@@ -1,0 +1,12 @@
+{
+  "start":4483,
+  "end":4502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just in love.",
+  "id":"74d268f2-a5cc-4ffd-9abb-131cc181aa01",
+  "params":{
+    "id":"6a4e0071-363b-4170-bc8d-d96f898c9e79"
+  },
+  "name":"Many"
+}

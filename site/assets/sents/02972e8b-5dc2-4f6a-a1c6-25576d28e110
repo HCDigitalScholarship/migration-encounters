@@ -1,0 +1,12 @@
+{
+  "start":75215,
+  "end":75251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Lizzy: What kind of cooking?",
+  "id":"02972e8b-5dc2-4f6a-a1c6-25576d28e110",
+  "params":{
+    "id":"5e7e1a58-bbcf-48e6-9dc0-3c65196f43fa"
+  },
+  "name":"Cris"
+}

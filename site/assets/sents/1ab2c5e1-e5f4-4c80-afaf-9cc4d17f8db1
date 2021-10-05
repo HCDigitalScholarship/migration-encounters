@@ -1,0 +1,12 @@
+{
+  "start":24411,
+  "end":24470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of my friends who are students already dropped\n   out.",
+  "id":"1ab2c5e1-e5f4-4c80-afaf-9cc4d17f8db1",
+  "params":{
+    "id":"a5f0f54b-bf27-4e94-b766-3319cf4b5558"
+  },
+  "name":"Rodolfo"
+}

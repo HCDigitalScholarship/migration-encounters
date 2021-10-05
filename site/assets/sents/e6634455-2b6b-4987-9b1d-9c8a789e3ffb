@@ -1,0 +1,12 @@
+{
+  "start":12647,
+  "end":12703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why, but\n   everybody always tells me that.",
+  "id":"e6634455-2b6b-4987-9b1d-9c8a789e3ffb",
+  "params":{
+    "id":"259747fb-0126-45ed-8ff0-8962e13f0125"
+  },
+  "name":"Pablo"
+}

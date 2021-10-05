@@ -1,0 +1,13 @@
+{
+  "start":5351,
+  "end":5430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know I can do things on my own,\n   but if there's no need to, I can stay out.",
+  "id":"4edb8112-ee94-46b3-9bd3-283aeb28df81",
+  "params":{
+    "id":"4edb8112-ee94-46b3-9bd3-283aeb28df81",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

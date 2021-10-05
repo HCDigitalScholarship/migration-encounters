@@ -1,0 +1,13 @@
+{
+  "start":11351,
+  "end":11453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't have papers, so when the sheriff\n   told her \"I need to see an ID, I need to see something.",
+  "id":"aad2600f-e300-448c-b204-bcb131336e28",
+  "params":{
+    "id":"aad2600f-e300-448c-b204-bcb131336e28",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

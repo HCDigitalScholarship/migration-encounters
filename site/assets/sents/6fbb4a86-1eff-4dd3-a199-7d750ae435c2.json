@@ -1,0 +1,13 @@
+{
+  "start":17763,
+  "end":17792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He doesn't want to let me go.",
+  "id":"6fbb4a86-1eff-4dd3-a199-7d750ae435c2",
+  "params":{
+    "id":"6fbb4a86-1eff-4dd3-a199-7d750ae435c2",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

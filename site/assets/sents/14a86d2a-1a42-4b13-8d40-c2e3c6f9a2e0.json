@@ -1,0 +1,13 @@
+{
+  "start":5970,
+  "end":6059,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess these people knew\n   my mother, because they spoke to her by name and everything.",
+  "id":"14a86d2a-1a42-4b13-8d40-c2e3c6f9a2e0",
+  "params":{
+    "id":"14a86d2a-1a42-4b13-8d40-c2e3c6f9a2e0",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":33955,
+  "end":33960,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n ",
+  "id":"5dc14b5e-80d3-4806-8f96-851d69b891d2",
+  "params":{
+    "id":"ada1cc29-4e12-41db-a79f-97874d4ec7b6"
+  },
+  "name":"Ben"
+}

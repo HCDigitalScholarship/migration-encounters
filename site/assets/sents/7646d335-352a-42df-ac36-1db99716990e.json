@@ -1,0 +1,13 @@
+{
+  "start":55708,
+  "end":55770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y fue \u00e9l que me dijo, \u201cYo creo que si\n     necesitas regresar.",
+  "id":"7646d335-352a-42df-ac36-1db99716990e",
+  "params":{
+    "id":"7646d335-352a-42df-ac36-1db99716990e",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

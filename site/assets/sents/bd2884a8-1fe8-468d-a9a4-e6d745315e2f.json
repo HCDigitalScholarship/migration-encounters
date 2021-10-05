@@ -1,0 +1,13 @@
+{
+  "start":71963,
+  "end":72001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"No, it's nothing like that.",
+  "id":"bd2884a8-1fe8-468d-a9a4-e6d745315e2f",
+  "params":{
+    "id":"bd2884a8-1fe8-468d-a9a4-e6d745315e2f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32638,
+  "end":32676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hoy puedo estar aqu\u00ed pero ma\u00f1ana no s\u00e9",
+  "id":"d0cac3b6-6550-4034-857b-ccaadb57886f",
+  "params":{
+    "id":"d0cac3b6-6550-4034-857b-ccaadb57886f",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

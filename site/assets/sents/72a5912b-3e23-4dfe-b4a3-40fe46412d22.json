@@ -1,0 +1,13 @@
+{
+  "start":34496,
+  "end":34644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But she's born in the States and she doesn't have\n   a CURP (Mexican ID), and they would always bother her that she needed to\n   bring those papers.",
+  "id":"72a5912b-3e23-4dfe-b4a3-40fe46412d22",
+  "params":{
+    "id":"72a5912b-3e23-4dfe-b4a3-40fe46412d22",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

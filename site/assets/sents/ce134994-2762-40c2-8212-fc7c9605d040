@@ -1,0 +1,12 @@
+{
+  "start":8028,
+  "end":8077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandma says she did, but I\n   don't remember.",
+  "id":"ce134994-2762-40c2-8212-fc7c9605d040",
+  "params":{
+    "id":"51445498-35d7-4f80-ae22-1ea52ca2b8a9"
+  },
+  "name":"Joana"
+}

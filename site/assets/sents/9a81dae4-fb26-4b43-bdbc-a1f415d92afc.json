@@ -1,0 +1,13 @@
+{
+  "start":52179,
+  "end":52281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I see the bigger picture, because I used to be selfish and only\n   for myself, but I got my eyes open.",
+  "id":"9a81dae4-fb26-4b43-bdbc-a1f415d92afc",
+  "params":{
+    "id":"9a81dae4-fb26-4b43-bdbc-a1f415d92afc",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

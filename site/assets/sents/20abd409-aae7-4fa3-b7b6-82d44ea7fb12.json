@@ -1,0 +1,13 @@
+{
+  "start":23704,
+  "end":23725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are your dreams?",
+  "id":"20abd409-aae7-4fa3-b7b6-82d44ea7fb12",
+  "params":{
+    "id":"20abd409-aae7-4fa3-b7b6-82d44ea7fb12",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

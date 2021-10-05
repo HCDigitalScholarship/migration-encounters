@@ -1,0 +1,13 @@
+{
+  "start":6596,
+  "end":6609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Two or three?",
+  "id":"f4233461-88a6-4190-97e4-2b53d7922a14",
+  "params":{
+    "id":"f4233461-88a6-4190-97e4-2b53d7922a14",
+    "class":"anno"
+  },
+  "name":"Many"
+}

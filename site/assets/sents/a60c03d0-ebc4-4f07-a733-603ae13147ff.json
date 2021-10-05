@@ -1,0 +1,12 @@
+{
+  "start":1975,
+  "end":1980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mike:",
+  "id":"a60c03d0-ebc4-4f07-a733-603ae13147ff",
+  "params":{
+    "id":"1ce0cf18-192a-432e-b7a2-8e0924e6d425"
+  },
+  "name":"Mike"
+}

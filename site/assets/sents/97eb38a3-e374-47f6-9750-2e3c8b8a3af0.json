@@ -1,0 +1,13 @@
+{
+  "start":5694,
+  "end":5783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They removed the tumor and she had to be in therapy for a few\n   years in order to gain \u2026",
+  "id":"97eb38a3-e374-47f6-9750-2e3c8b8a3af0",
+  "params":{
+    "id":"97eb38a3-e374-47f6-9750-2e3c8b8a3af0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

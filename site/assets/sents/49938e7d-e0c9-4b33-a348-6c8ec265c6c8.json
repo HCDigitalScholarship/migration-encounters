@@ -1,0 +1,13 @@
+{
+  "start":2700,
+  "end":2740,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And to\n   me language was just whatever.",
+  "id":"49938e7d-e0c9-4b33-a348-6c8ec265c6c8",
+  "params":{
+    "id":"49938e7d-e0c9-4b33-a348-6c8ec265c6c8",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

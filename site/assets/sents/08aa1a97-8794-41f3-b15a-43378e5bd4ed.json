@@ -1,0 +1,13 @@
+{
+  "start":15990,
+  "end":16039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where I stayed at, we had Steak 'n Shake Rally's.",
+  "id":"08aa1a97-8794-41f3-b15a-43378e5bd4ed",
+  "params":{
+    "id":"08aa1a97-8794-41f3-b15a-43378e5bd4ed",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3014,
+  "end":3050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still remember she was nice to me.",
+  "id":"8f29dd94-2fe3-4cac-b15d-686af1651d40",
+  "params":{
+    "id":"8f29dd94-2fe3-4cac-b15d-686af1651d40",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

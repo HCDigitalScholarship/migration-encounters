@@ -1,0 +1,13 @@
+{
+  "start":16281,
+  "end":16381,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew that my pa used to send some money over\n   here just because my expenses and stuff like that.",
+  "id":"e0a270d0-6127-4a58-938e-40a5f53c9688",
+  "params":{
+    "id":"e0a270d0-6127-4a58-938e-40a5f53c9688",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20711,
+  "end":20777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me food, they\n   gave me clothing, they gave me sandals.",
+  "id":"3357feb1-322b-46c2-b665-4bf11ffb7a29",
+  "params":{
+    "id":"fc580d98-1b63-42ac-98a6-eba35fcf43f1"
+  },
+  "name":"Sylent"
+}

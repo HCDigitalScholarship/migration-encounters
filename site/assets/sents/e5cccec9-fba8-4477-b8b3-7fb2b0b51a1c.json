@@ -1,0 +1,12 @@
+{
+  "start":42984,
+  "end":43014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wanted to\n   make her happy.",
+  "id":"e5cccec9-fba8-4477-b8b3-7fb2b0b51a1c",
+  "params":{
+    "id":"0f7513c7-b7f8-4bb9-bb79-8c0071d164e2"
+  },
+  "name":"Mike"
+}

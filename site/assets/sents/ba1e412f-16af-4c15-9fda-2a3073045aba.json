@@ -1,0 +1,13 @@
+{
+  "start":901,
+  "end":959,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you left with your\u2014you came to Mexico City from where?",
+  "id":"ba1e412f-16af-4c15-9fda-2a3073045aba",
+  "params":{
+    "id":"ba1e412f-16af-4c15-9fda-2a3073045aba",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

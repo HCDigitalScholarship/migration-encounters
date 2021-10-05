@@ -1,0 +1,12 @@
+{
+  "start":17226,
+  "end":17259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"How do you say this in Spanish?\"",
+  "id":"65a0bae2-91bd-414d-b2bf-f43a9c4c0af1",
+  "params":{
+    "id":"60469101-a1df-403e-8bc0-0b237bdff8e5"
+  },
+  "name":"Yair"
+}

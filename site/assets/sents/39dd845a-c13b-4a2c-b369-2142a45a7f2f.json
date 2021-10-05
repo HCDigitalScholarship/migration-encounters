@@ -1,0 +1,12 @@
+{
+  "start":26810,
+  "end":26830,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was a good day.",
+  "id":"39dd845a-c13b-4a2c-b369-2142a45a7f2f",
+  "params":{
+    "id":"8e082853-d564-4003-82ab-9f923633ac20"
+  },
+  "name":"Mike"
+}

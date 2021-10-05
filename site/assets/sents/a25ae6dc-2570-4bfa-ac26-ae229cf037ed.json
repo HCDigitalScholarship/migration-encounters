@@ -1,0 +1,13 @@
+{
+  "start":21775,
+  "end":21857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Was it hard getting back into the school system here?\n \n \n   Carlos:",
+  "id":"a25ae6dc-2570-4bfa-ac26-ae229cf037ed",
+  "params":{
+    "id":"a25ae6dc-2570-4bfa-ac26-ae229cf037ed",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

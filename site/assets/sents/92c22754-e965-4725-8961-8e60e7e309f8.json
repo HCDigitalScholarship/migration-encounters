@@ -1,0 +1,13 @@
+{
+  "start":28400,
+  "end":28454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After\n   that, I'm planning to open my own restaurant.",
+  "id":"92c22754-e965-4725-8961-8e60e7e309f8",
+  "params":{
+    "id":"92c22754-e965-4725-8961-8e60e7e309f8",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

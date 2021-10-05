@@ -1,0 +1,13 @@
+{
+  "start":11249,
+  "end":11277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is going to be so bad.\"",
+  "id":"94ad0c9e-87ed-45db-95d5-cb9a52aef29b",
+  "params":{
+    "id":"94ad0c9e-87ed-45db-95d5-cb9a52aef29b",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

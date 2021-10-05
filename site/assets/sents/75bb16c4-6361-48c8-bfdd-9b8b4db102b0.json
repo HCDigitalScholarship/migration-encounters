@@ -1,0 +1,13 @@
+{
+  "start":25319,
+  "end":25345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm living good right now.",
+  "id":"75bb16c4-6361-48c8-bfdd-9b8b4db102b0",
+  "params":{
+    "id":"75bb16c4-6361-48c8-bfdd-9b8b4db102b0",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

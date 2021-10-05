@@ -1,0 +1,12 @@
+{
+  "start":8,
+  "end":181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So this is Anne interviewing Axel, and we're going to be talking\n about his time in the US and coming back to Mexico, and I want to start by\n thanking you for talking to us.",
+  "id":"256456ea-3587-4435-a392-835d7058d72d",
+  "params":{
+    "id":"e484ba48-2681-4732-bcf1-b6715bc8ebd4"
+  },
+  "name":"Axel"
+}

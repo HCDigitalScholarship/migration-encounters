@@ -1,0 +1,13 @@
+{
+  "start":26876,
+  "end":26896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old are you now?",
+  "id":"b83792b8-0fe4-4db1-ba7a-80e71e239dda",
+  "params":{
+    "id":"b83792b8-0fe4-4db1-ba7a-80e71e239dda",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,12 @@
+{
+  "start":50874,
+  "end":50894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're really good.",
+  "id":"900ea1f7-54e6-4c0f-8365-b963db6c04e9",
+  "params":{
+    "id":"a23cd519-6580-4b37-8b0c-b38828ed96ef"
+  },
+  "name":"Mike"
+}

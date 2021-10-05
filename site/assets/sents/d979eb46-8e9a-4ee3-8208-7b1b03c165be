@@ -1,0 +1,12 @@
+{
+  "start":29106,
+  "end":29170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm actually the only one in\n   my family that has a bachelor's.",
+  "id":"d979eb46-8e9a-4ee3-8208-7b1b03c165be",
+  "params":{
+    "id":"d6396910-e899-4a59-981a-ae0ad8c9547b"
+  },
+  "name":"Luis A"
+}

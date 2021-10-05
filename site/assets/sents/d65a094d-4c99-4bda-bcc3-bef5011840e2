@@ -1,0 +1,12 @@
+{
+  "start":53179,
+  "end":53213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came over here to fix my papers.",
+  "id":"d65a094d-4c99-4bda-bcc3-bef5011840e2",
+  "params":{
+    "id":"281fc32b-cdcc-4245-b66f-4e5a1b0b9703"
+  },
+  "name":"Rodrigo"
+}

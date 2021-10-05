@@ -1,0 +1,13 @@
+{
+  "start":28969,
+  "end":29027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was like,\n   \"Oh, you have to give them tons of money.\"",
+  "id":"f63d8d0a-a629-47bd-a204-abee4d8c1d3c",
+  "params":{
+    "id":"f63d8d0a-a629-47bd-a204-abee4d8c1d3c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

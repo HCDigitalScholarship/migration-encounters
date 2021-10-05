@@ -1,0 +1,12 @@
+{
+  "start":32276,
+  "end":32329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Well, good luck with everything.\n      \n      \n",
+  "id":"acf92e5f-5a54-4531-b458-ad9dc5b5afa2",
+  "params":{
+    "id":"0b97715b-4fdd-43e6-a9f2-96e068e54beb"
+  },
+  "name":"Abel"
+}

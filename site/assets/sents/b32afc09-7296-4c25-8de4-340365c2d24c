@@ -1,0 +1,12 @@
+{
+  "start":13210,
+  "end":13240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were some bounty hunters.",
+  "id":"b32afc09-7296-4c25-8de4-340365c2d24c",
+  "params":{
+    "id":"7a0578c6-2592-4e5e-8546-3cb09ded7590"
+  },
+  "name":"Abel"
+}

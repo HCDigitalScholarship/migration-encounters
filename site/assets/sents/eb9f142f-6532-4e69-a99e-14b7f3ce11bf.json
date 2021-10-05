@@ -1,0 +1,13 @@
+{
+  "start":15156,
+  "end":15189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's called,\n   it\u2019s a Volvo 770.",
+  "id":"eb9f142f-6532-4e69-a99e-14b7f3ce11bf",
+  "params":{
+    "id":"eb9f142f-6532-4e69-a99e-14b7f3ce11bf",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17316,
+  "end":17339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're detained by ICE.",
+  "id":"be7abef1-f6d1-4c9e-94ee-2b1d3d916f34",
+  "params":{
+    "id":"be7abef1-f6d1-4c9e-94ee-2b1d3d916f34",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":15681,
+  "end":15686,
+  "text":"r very long?\n \n \n   Many: Huh?\n \n \n   Anne: Did they put you in a detention center at all or did they just send\n   you right back?\n \n \n   Many: Well, they put me on a detention center in San Antonio, Texas for one\n   month and then after that... They was trying to give me some more time\n   because I just got out of jail. But immigration just tell me, \"You're not\n   going to do any more time. We're goin",
+  "label":"GPE",
+  "id":"9fbbf871-3084-43cb-842c-3f547e5ed238",
+  "name":"Many"
+}

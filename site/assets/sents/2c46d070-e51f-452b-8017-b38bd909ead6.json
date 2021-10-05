@@ -1,0 +1,13 @@
+{
+  "start":20295,
+  "end":20310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you like it?",
+  "id":"2c46d070-e51f-452b-8017-b38bd909ead6",
+  "params":{
+    "id":"2c46d070-e51f-452b-8017-b38bd909ead6",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

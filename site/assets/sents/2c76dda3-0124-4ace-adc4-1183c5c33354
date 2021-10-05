@@ -1,0 +1,12 @@
+{
+  "start":53156,
+  "end":53229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I think that, that's something that's really important to\n   remember.",
+  "id":"2c76dda3-0124-4ace-adc4-1183c5c33354",
+  "params":{
+    "id":"58b895cb-7e9d-4ca5-9051-8c3a030992f7"
+  },
+  "name":"Mike"
+}

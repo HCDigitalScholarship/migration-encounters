@@ -1,0 +1,13 @@
+{
+  "start":43415,
+  "end":43440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like\n   Mexicans.",
+  "id":"d3ebb64c-7171-4186-be17-8f988498eec9",
+  "params":{
+    "id":"d3ebb64c-7171-4186-be17-8f988498eec9",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

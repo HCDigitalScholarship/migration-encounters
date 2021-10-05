@@ -1,0 +1,13 @@
+{
+  "start":4060,
+  "end":4090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How far did you get in school?",
+  "id":"f51b78cf-07f4-494d-a2fb-fdda0ba274c2",
+  "params":{
+    "id":"f51b78cf-07f4-494d-a2fb-fdda0ba274c2",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

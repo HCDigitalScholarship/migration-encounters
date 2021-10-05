@@ -1,0 +1,12 @@
+{
+  "start":11520,
+  "end":11565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because I\n   explained to them the situation.",
+  "id":"0317bea5-4b57-41eb-90f7-666fec8aeafd",
+  "params":{
+    "id":"e90c01fc-4210-48b8-b859-f971edd61790"
+  },
+  "name":"Many"
+}

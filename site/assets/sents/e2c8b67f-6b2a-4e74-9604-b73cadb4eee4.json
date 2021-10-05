@@ -1,0 +1,12 @@
+{
+  "start":377,
+  "end":451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know you went to the US for three years and then went back to\n   Mexico.",
+  "id":"e2c8b67f-6b2a-4e74-9604-b73cadb4eee4",
+  "params":{
+    "id":"67dadfff-b19c-4fda-b8ec-016dc8e09551"
+  },
+  "name":"Daniel"
+}

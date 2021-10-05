@@ -1,0 +1,12 @@
+{
+  "start":29210,
+  "end":29296,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you will tell him,\n   \"Yes, I am from the United States, but I'm from Mexico, too.\"",
+  "id":"1a834fee-8146-4b7d-b470-9dad8df56c37",
+  "params":{
+    "id":"c858d932-6c4f-4b43-8f09-2564301a2ca4"
+  },
+  "name":"Rodrigo"
+}

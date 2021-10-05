@@ -1,0 +1,13 @@
+{
+  "start":13333,
+  "end":13425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're all human, and it's like we're\n   going to eventually need something from one another.",
+  "id":"ed00f000-26d9-43c3-a7c0-694618d1d656",
+  "params":{
+    "id":"ed00f000-26d9-43c3-a7c0-694618d1d656",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4318,
+  "end":4360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nunca\u2014ni su nombre.\n \n <br/>\n \n     Maria:",
+  "id":"7d97792f-4937-4783-bb1d-258c6c8a52ee",
+  "params":{
+    "id":"dbe4dcae-fc3f-4221-a450-b31396ed708d"
+  },
+  "name":"Maria"
+}

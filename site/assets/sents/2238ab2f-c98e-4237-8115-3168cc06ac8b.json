@@ -1,0 +1,13 @@
+{
+  "start":11303,
+  "end":11401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Llegaron las cinco de la tarde\u2014ellos salen\n     a las tres\u2014y nosotros no sab\u00edamos nada de mi hijo.",
+  "id":"2238ab2f-c98e-4237-8115-3168cc06ac8b",
+  "params":{
+    "id":"2238ab2f-c98e-4237-8115-3168cc06ac8b",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

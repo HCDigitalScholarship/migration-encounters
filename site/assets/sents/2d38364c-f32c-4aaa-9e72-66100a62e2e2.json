@@ -1,0 +1,12 @@
+{
+  "start":9986,
+  "end":9999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He came back?",
+  "id":"2d38364c-f32c-4aaa-9e72-66100a62e2e2",
+  "params":{
+    "id":"d4261506-d67c-4896-adb6-e64224906de5"
+  },
+  "name":"Roberto"
+}

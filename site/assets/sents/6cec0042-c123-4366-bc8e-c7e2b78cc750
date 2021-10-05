@@ -1,0 +1,12 @@
+{
+  "start":24800,
+  "end":24809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Two kids.",
+  "id":"6cec0042-c123-4366-bc8e-c7e2b78cc750",
+  "params":{
+    "id":"d97f2bc2-9bdc-4b85-a60d-6990da9a53f8"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32020,
+  "end":32035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like\n   weed.",
+  "id":"480917ad-ecee-4540-867a-d87082bd930d",
+  "params":{
+    "id":"61ccb623-4bea-4e2f-a7dc-567c3282cf97"
+  },
+  "name":"Kevin"
+}

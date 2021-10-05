@@ -1,0 +1,13 @@
+{
+  "start":49547,
+  "end":49584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n like, \"The option is just that.",
+  "id":"2c93c693-d9f9-41af-b2c5-78016dba2a58",
+  "params":{
+    "id":"2c93c693-d9f9-41af-b2c5-78016dba2a58",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

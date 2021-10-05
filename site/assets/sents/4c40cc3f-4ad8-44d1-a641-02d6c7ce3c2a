@@ -1,0 +1,12 @@
+{
+  "start":22676,
+  "end":22712,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when this happened?",
+  "id":"4c40cc3f-4ad8-44d1-a641-02d6c7ce3c2a",
+  "params":{
+    "id":"a967bdd5-1455-46f6-b142-8730083db307"
+  },
+  "name":"Ruben"
+}

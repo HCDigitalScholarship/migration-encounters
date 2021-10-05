@@ -1,0 +1,12 @@
+{
+  "start":6374,
+  "end":6422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you\n   going to do over there with him?",
+  "id":"ba4311d6-f9d5-4500-81f9-59d1dfdd45e7",
+  "params":{
+    "id":"c05923f1-8dab-44b2-9f93-f1db2af331ff"
+  },
+  "name":"Rocio"
+}

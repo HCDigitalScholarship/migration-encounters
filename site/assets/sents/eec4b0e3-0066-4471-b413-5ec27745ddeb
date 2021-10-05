@@ -1,0 +1,12 @@
+{
+  "start":5078,
+  "end":5110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n   just so bad, you know?",
+  "id":"eec4b0e3-0066-4471-b413-5ec27745ddeb",
+  "params":{
+    "id":"1f30431d-ee7e-411f-8457-ebef25320b80"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42643,
+  "end":42689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, basically things have been better for you?",
+  "id":"2d26440a-98a7-4f85-b931-cc5e2d15dfb7",
+  "params":{
+    "id":"d29de5b5-20fd-43f1-b4ac-41534f2f4c15"
+  },
+  "name":"Joseph"
+}

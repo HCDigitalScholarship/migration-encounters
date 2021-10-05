@@ -1,0 +1,13 @@
+{
+  "start":15925,
+  "end":15944,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Joana: One of them.",
+  "id":"b2bf0d5e-2fa9-41dd-99fb-e121cc68cafb",
+  "params":{
+    "id":"b2bf0d5e-2fa9-41dd-99fb-e121cc68cafb",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

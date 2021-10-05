@@ -1,0 +1,13 @@
+{
+  "start":27939,
+  "end":28012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's the daughter of my father, but\n   she's not the daughter of my mom.",
+  "id":"fa58e88c-95de-4cf0-9915-2edfcb8bf8d5",
+  "params":{
+    "id":"fa58e88c-95de-4cf0-9915-2edfcb8bf8d5",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

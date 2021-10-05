@@ -1,0 +1,13 @@
+{
+  "start":32246,
+  "end":32297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it can do both, depending also on the person.",
+  "id":"856fed2d-9c80-4535-9a8b-23f427d7a9e8",
+  "params":{
+    "id":"856fed2d-9c80-4535-9a8b-23f427d7a9e8",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

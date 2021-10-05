@@ -1,0 +1,13 @@
+{
+  "start":3472,
+  "end":3511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did your mom work during this time too?",
+  "id":"d9c9f542-d295-4a99-80fd-e7240d72a742",
+  "params":{
+    "id":"d9c9f542-d295-4a99-80fd-e7240d72a742",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

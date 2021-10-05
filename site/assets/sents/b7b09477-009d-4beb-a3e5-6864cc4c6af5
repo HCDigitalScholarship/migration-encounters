@@ -1,0 +1,12 @@
+{
+  "start":35725,
+  "end":35771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I'm going\n   to go anyway.\"\n \n \n   Jeimmy:",
+  "id":"b7b09477-009d-4beb-a3e5-6864cc4c6af5",
+  "params":{
+    "id":"beecca1d-be34-49de-8431-d20d29b61b1b"
+  },
+  "name":"Jeimmy"
+}

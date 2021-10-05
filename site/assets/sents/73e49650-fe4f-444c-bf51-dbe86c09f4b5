@@ -1,0 +1,12 @@
+{
+  "start":2061,
+  "end":2113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was with some friends, we\n   got into some things.",
+  "id":"73e49650-fe4f-444c-bf51-dbe86c09f4b5",
+  "params":{
+    "id":"59705d60-6702-4f41-8e8c-0494ebfbc602"
+  },
+  "name":"Kevin"
+}

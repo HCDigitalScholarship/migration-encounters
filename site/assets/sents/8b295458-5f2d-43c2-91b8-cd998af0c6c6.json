@@ -1,0 +1,13 @@
+{
+  "start":9563,
+  "end":9595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sure you know\n what that is.",
+  "id":"8b295458-5f2d-43c2-91b8-cd998af0c6c6",
+  "params":{
+    "id":"8b295458-5f2d-43c2-91b8-cd998af0c6c6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

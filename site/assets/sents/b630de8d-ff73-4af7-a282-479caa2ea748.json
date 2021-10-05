@@ -1,0 +1,13 @@
+{
+  "start":5257,
+  "end":5277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I played basketball.",
+  "id":"b630de8d-ff73-4af7-a282-479caa2ea748",
+  "params":{
+    "id":"b630de8d-ff73-4af7-a282-479caa2ea748",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

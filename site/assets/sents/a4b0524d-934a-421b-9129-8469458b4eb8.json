@@ -1,0 +1,13 @@
+{
+  "start":91,
+  "end":236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just to start, could you tell me, I know you were three years old,\n   but a bit about what motivated your family to migrate to the United States?",
+  "id":"a4b0524d-934a-421b-9129-8469458b4eb8",
+  "params":{
+    "id":"a4b0524d-934a-421b-9129-8469458b4eb8",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31753,
+  "end":31796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Man, you're skinny, bro, but",
+  "id":"aee00f19-b8b2-4fa4-afe9-83648401d2d5",
+  "params":{
+    "id":"aee00f19-b8b2-4fa4-afe9-83648401d2d5",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

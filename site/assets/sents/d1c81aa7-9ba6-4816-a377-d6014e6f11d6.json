@@ -1,0 +1,13 @@
+{
+  "start":9134,
+  "end":9178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was\n   just in general.\n \n \n   ",
+  "id":"d1c81aa7-9ba6-4816-a377-d6014e6f11d6",
+  "params":{
+    "id":"d1c81aa7-9ba6-4816-a377-d6014e6f11d6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

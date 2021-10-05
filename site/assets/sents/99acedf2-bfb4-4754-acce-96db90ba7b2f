@@ -1,0 +1,12 @@
+{
+  "start":14852,
+  "end":14864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm Mexican.",
+  "id":"99acedf2-bfb4-4754-acce-96db90ba7b2f",
+  "params":{
+    "id":"15d4208f-edf3-403b-9e40-6055dbdb769a"
+  },
+  "name":"Billy"
+}

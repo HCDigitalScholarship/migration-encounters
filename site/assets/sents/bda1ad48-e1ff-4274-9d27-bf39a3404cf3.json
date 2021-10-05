@@ -1,0 +1,13 @@
+{
+  "start":8699,
+  "end":8758,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want that to keep happening, so I picked\n   it up.",
+  "id":"bda1ad48-e1ff-4274-9d27-bf39a3404cf3",
+  "params":{
+    "id":"bda1ad48-e1ff-4274-9d27-bf39a3404cf3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5587,
+  "end":5678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, we were going to sleep in the back of the car, and\n   that's how we crossed over.",
+  "id":"291489fc-4d1c-4580-9195-f84e222069e1",
+  "params":{
+    "id":"8fe27dda-2b8e-46f7-825e-a826f85ec806"
+  },
+  "name":"Yair"
+}

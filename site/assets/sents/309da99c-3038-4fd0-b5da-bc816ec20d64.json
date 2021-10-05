@@ -1,0 +1,13 @@
+{
+  "start":12135,
+  "end":12204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   [grilled meat] I don\u2019t know if you know tripa [intestine]\n \n \n   ",
+  "id":"309da99c-3038-4fd0-b5da-bc816ec20d64",
+  "params":{
+    "id":"309da99c-3038-4fd0-b5da-bc816ec20d64",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

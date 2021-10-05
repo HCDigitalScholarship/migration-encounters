@@ -1,0 +1,12 @@
+{
+  "start":13224,
+  "end":13256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They know how to talk to\n   you.",
+  "id":"62925dc5-9f8a-4fc9-abc6-77d1b40488b3",
+  "params":{
+    "id":"333db728-2ad1-4d38-9892-dcf095323f1d"
+  },
+  "name":"Noe"
+}

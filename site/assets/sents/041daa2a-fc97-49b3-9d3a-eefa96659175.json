@@ -1,0 +1,13 @@
+{
+  "start":11127,
+  "end":11154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So look, this is\n the deal.",
+  "id":"041daa2a-fc97-49b3-9d3a-eefa96659175",
+  "params":{
+    "id":"041daa2a-fc97-49b3-9d3a-eefa96659175",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

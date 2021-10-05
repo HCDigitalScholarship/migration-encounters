@@ -1,0 +1,12 @@
+{
+  "start":7702,
+  "end":7763,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   trying to fight my case, but it was taking too long.",
+  "id":"a9cb7595-3907-42fc-b4b6-af4cd38e451c",
+  "params":{
+    "id":"390c2522-5b0c-4ccc-a7ef-de54062687bd"
+  },
+  "name":"Ivan"
+}

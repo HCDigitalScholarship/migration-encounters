@@ -1,0 +1,12 @@
+{
+  "start":20024,
+  "end":20074,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are the other kids at your house during this time?",
+  "id":"a0cf93f0-8971-4c65-9220-b497ede28c6e",
+  "params":{
+    "id":"1d92223a-0a42-45cc-9450-f264e99f0d35"
+  },
+  "name":"Angelo"
+}

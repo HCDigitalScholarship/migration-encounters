@@ -1,0 +1,12 @@
+{
+  "start":26339,
+  "end":26371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had another person's papers.",
+  "id":"43e6dd86-9733-4eb3-9631-08f31ede4c7f",
+  "params":{
+    "id":"dfe698e8-3c20-4d1b-87bb-a8037ca213be"
+  },
+  "name":"Sylent"
+}

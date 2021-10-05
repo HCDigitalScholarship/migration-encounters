@@ -1,0 +1,13 @@
+{
+  "start":35774,
+  "end":35799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could've, but I didn't.",
+  "id":"600f65f0-dc5b-4242-b3f2-462d706e4df2",
+  "params":{
+    "id":"600f65f0-dc5b-4242-b3f2-462d706e4df2",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

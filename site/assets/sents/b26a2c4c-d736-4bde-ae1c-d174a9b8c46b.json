@@ -1,0 +1,13 @@
+{
+  "start":16792,
+  "end":16836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"They're going to love your food.\"",
+  "id":"b26a2c4c-d736-4bde-ae1c-d174a9b8c46b",
+  "params":{
+    "id":"b26a2c4c-d736-4bde-ae1c-d174a9b8c46b",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

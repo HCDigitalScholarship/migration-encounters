@@ -1,0 +1,12 @@
+{
+  "start":604,
+  "end":715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Before that time, can you tell me a bit about your childhood,\n   going to school, what kind of friends you had?",
+  "id":"0c5ac9d0-8f24-433b-b4ea-140fb681a6f8",
+  "params":{
+    "id":"0bcdf8ab-c904-45f6-a7c2-51675534bf49"
+  },
+  "name":"Kevin"
+}

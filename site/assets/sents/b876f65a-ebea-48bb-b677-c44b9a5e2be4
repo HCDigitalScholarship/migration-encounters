@@ -1,0 +1,12 @@
+{
+  "start":12525,
+  "end":12584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long did you stay there before you came to Mexico City?",
+  "id":"b876f65a-ebea-48bb-b677-c44b9a5e2be4",
+  "params":{
+    "id":"c7848437-f23e-492a-b89a-02811cacb8de"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67527,
+  "end":67562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Burger King doesn't taste the same.",
+  "id":"738c7a4c-555d-4f2a-9f5c-03aebc4114a5",
+  "params":{
+    "id":"738c7a4c-555d-4f2a-9f5c-03aebc4114a5",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

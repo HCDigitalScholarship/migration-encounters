@@ -1,0 +1,12 @@
+{
+  "start":29632,
+  "end":29692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Beto:\n \n \n     No, no, I didn't know who that was.",
+  "id":"6c1a20d6-c8b9-4bc4-8778-d9ed6c13081f",
+  "params":{
+    "id":"41140dbf-cad9-48eb-9e0a-194b54e9c4b4"
+  },
+  "name":"Beto"
+}

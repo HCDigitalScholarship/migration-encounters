@@ -1,0 +1,13 @@
+{
+  "start":22501,
+  "end":22586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because this is not my first time, that people are asking me these dumb\n   questions\"",
+  "id":"08c784d1-e330-498b-bb4d-5f8b090d9258",
+  "params":{
+    "id":"08c784d1-e330-498b-bb4d-5f8b090d9258",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":53247,
+  "end":53290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not what's supposed to be happening.",
+  "id":"8f6bb98d-b7c6-441c-a124-7199f31c76ca",
+  "params":{
+    "id":"9bb8f999-972d-4bf6-beca-b853f1f80404"
+  },
+  "name":"Angelo"
+}

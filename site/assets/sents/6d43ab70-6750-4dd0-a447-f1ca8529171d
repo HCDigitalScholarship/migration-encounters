@@ -1,0 +1,12 @@
+{
+  "start":1003,
+  "end":1043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that it was around 800 words.",
+  "id":"6d43ab70-6750-4dd0-a447-f1ca8529171d",
+  "params":{
+    "id":"d2c496b5-32c1-49cb-bcd6-ba2eed3ead82"
+  },
+  "name":"Frank"
+}

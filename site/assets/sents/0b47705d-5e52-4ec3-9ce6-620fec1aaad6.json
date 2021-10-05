@@ -1,0 +1,13 @@
+{
+  "start":50420,
+  "end":50446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Primero con mucha ilusi\u00f3n.",
+  "id":"0b47705d-5e52-4ec3-9ce6-620fec1aaad6",
+  "params":{
+    "id":"0b47705d-5e52-4ec3-9ce6-620fec1aaad6",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

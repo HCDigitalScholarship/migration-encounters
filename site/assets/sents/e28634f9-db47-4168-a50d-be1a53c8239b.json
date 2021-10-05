@@ -1,0 +1,13 @@
+{
+  "start":53998,
+  "end":54078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been hard, the past couple of years have been hard,\n but I still have kids.",
+  "id":"e28634f9-db47-4168-a50d-be1a53c8239b",
+  "params":{
+    "id":"e28634f9-db47-4168-a50d-be1a53c8239b",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

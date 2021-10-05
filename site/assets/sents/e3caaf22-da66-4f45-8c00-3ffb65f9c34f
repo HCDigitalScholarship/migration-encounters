@@ -1,0 +1,12 @@
+{
+  "start":19747,
+  "end":19772,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So where do you live now?",
+  "id":"e3caaf22-da66-4f45-8c00-3ffb65f9c34f",
+  "params":{
+    "id":"249872d9-1f67-415f-b9ab-f7ecbd5aed34"
+  },
+  "name":"Edgar"
+}

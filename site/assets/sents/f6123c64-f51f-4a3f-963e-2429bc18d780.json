@@ -1,0 +1,13 @@
+{
+  "start":61241,
+  "end":61279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I\u2019ve read the Bible like I said.",
+  "id":"f6123c64-f51f-4a3f-963e-2429bc18d780",
+  "params":{
+    "id":"f6123c64-f51f-4a3f-963e-2429bc18d780",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

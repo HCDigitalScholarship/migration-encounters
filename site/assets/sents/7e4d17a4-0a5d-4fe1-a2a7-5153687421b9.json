@@ -1,0 +1,13 @@
+{
+  "start":57042,
+  "end":57082,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think you're going to do great things.",
+  "id":"7e4d17a4-0a5d-4fe1-a2a7-5153687421b9",
+  "params":{
+    "id":"7e4d17a4-0a5d-4fe1-a2a7-5153687421b9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

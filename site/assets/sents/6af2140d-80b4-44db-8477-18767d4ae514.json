@@ -1,0 +1,13 @@
+{
+  "start":34688,
+  "end":34782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's this area that\n everybody knows and they're like, \"You don't want to go in that area.\"",
+  "id":"6af2140d-80b4-44db-8477-18767d4ae514",
+  "params":{
+    "id":"6af2140d-80b4-44db-8477-18767d4ae514",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

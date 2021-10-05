@@ -1,0 +1,13 @@
+{
+  "start":29678,
+  "end":29742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But at the end of the day, I have that\n   right to live my life.",
+  "id":"aafbc524-6cd5-493b-9ec9-b13a1f8f9252",
+  "params":{
+    "id":"aafbc524-6cd5-493b-9ec9-b13a1f8f9252",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

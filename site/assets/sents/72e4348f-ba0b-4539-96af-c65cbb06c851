@@ -1,0 +1,12 @@
+{
+  "start":12046,
+  "end":12059,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then\n   what?",
+  "id":"72e4348f-ba0b-4539-96af-c65cbb06c851",
+  "params":{
+    "id":"3bcd6dc3-dc95-40ac-a17a-c5b51df93168"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36022,
+  "end":36055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just want to\n   exploit you.",
+  "id":"b3408984-729f-4abf-ad4f-1f04fb41dd9c",
+  "params":{
+    "id":"059d1827-c23e-4a42-ba07-d013104ffecf"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11141,
+  "end":11205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She told me that crying, and I was like [inaudible\n   00:13:00].",
+  "id":"362f59f1-385f-4056-b6d4-b7267820417d",
+  "params":{
+    "id":"362f59f1-385f-4056-b6d4-b7267820417d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

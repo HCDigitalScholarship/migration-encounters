@@ -1,0 +1,13 @@
+{
+  "start":32623,
+  "end":32649,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you started doing what?",
+  "id":"ea3f7942-f84e-436c-8076-97435f190c34",
+  "params":{
+    "id":"ea3f7942-f84e-436c-8076-97435f190c34",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

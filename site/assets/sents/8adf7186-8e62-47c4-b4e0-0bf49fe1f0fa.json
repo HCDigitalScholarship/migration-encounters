@@ -1,0 +1,13 @@
+{
+  "start":2064,
+  "end":2091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   opened the restaurant.",
+  "id":"8adf7186-8e62-47c4-b4e0-0bf49fe1f0fa",
+  "params":{
+    "id":"8adf7186-8e62-47c4-b4e0-0bf49fe1f0fa",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

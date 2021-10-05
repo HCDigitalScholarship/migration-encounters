@@ -1,0 +1,13 @@
+{
+  "start":32462,
+  "end":32484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you miss most?",
+  "id":"ee56813a-00e2-4f1d-972a-e1a4db2b098a",
+  "params":{
+    "id":"ee56813a-00e2-4f1d-972a-e1a4db2b098a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

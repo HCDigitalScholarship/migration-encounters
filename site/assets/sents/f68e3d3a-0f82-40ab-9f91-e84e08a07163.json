@@ -1,0 +1,13 @@
+{
+  "start":22027,
+  "end":22078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been able to travel to China twice\n   already.",
+  "id":"f68e3d3a-0f82-40ab-9f91-e84e08a07163",
+  "params":{
+    "id":"f68e3d3a-0f82-40ab-9f91-e84e08a07163",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

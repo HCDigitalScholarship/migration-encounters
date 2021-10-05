@@ -1,0 +1,13 @@
+{
+  "start":21382,
+  "end":21553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was going\n to IUP [Indiana University of Pennsylvania] in Indianapolis, but he just\n got the Disney scholarship and it's a full scholarship, so room, board\n everything.",
+  "id":"6036a839-ef1b-42dd-80c6-9b3ca40d8b75",
+  "params":{
+    "id":"6036a839-ef1b-42dd-80c6-9b3ca40d8b75",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

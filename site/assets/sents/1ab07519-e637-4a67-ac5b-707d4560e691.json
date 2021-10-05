@@ -1,0 +1,13 @@
+{
+  "start":9443,
+  "end":9459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   $10 an hour.",
+  "id":"1ab07519-e637-4a67-ac5b-707d4560e691",
+  "params":{
+    "id":"1ab07519-e637-4a67-ac5b-707d4560e691",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

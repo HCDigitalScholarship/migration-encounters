@@ -1,0 +1,13 @@
+{
+  "start":3879,
+  "end":3934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It had little fries and a burger, and you\n   get a toy.",
+  "id":"979aa951-495e-42cb-ab18-0ba3bee151a9",
+  "params":{
+    "id":"979aa951-495e-42cb-ab18-0ba3bee151a9",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

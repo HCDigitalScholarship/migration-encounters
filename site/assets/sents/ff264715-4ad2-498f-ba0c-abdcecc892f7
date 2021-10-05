@@ -1,0 +1,12 @@
+{
+  "start":1920,
+  "end":1925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Many:",
+  "id":"ff264715-4ad2-498f-ba0c-abdcecc892f7",
+  "params":{
+    "id":"a2f491e2-a7cb-4f37-a35f-226e0f306da7"
+  },
+  "name":"Many"
+}

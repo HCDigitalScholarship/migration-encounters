@@ -1,0 +1,12 @@
+{
+  "start":17907,
+  "end":17933,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where do they\n   take you?",
+  "id":"533b6d52-b992-4e05-953c-a19175ec7161",
+  "params":{
+    "id":"079e044f-239d-47ac-926b-b7fe70fe2789"
+  },
+  "name":"Carlos"
+}

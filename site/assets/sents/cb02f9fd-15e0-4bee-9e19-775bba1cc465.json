@@ -1,0 +1,13 @@
+{
+  "start":5375,
+  "end":5417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I did have a lot of friends at work.",
+  "id":"cb02f9fd-15e0-4bee-9e19-775bba1cc465",
+  "params":{
+    "id":"cb02f9fd-15e0-4bee-9e19-775bba1cc465",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

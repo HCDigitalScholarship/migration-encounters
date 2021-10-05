@@ -1,0 +1,13 @@
+{
+  "start":21402,
+  "end":21529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, somebody else heard that I was getting somewhere when they knew,\n   that it take me too much time to go back to that place.",
+  "id":"d0ceb403-8dcd-4528-8a1a-2080b7a9bc9a",
+  "params":{
+    "id":"d0ceb403-8dcd-4528-8a1a-2080b7a9bc9a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

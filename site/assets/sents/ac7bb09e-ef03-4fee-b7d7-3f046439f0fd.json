@@ -1,0 +1,13 @@
+{
+  "start":24684,
+  "end":24734,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can talk Spanish normally and all that\n   stuff.",
+  "id":"ac7bb09e-ef03-4fee-b7d7-3f046439f0fd",
+  "params":{
+    "id":"ac7bb09e-ef03-4fee-b7d7-3f046439f0fd",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

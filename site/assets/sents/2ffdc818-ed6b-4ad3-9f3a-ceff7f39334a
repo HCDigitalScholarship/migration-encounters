@@ -1,0 +1,12 @@
+{
+  "start":39211,
+  "end":39302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew what he was going to tell me, so I just\n     decided just to continue with my stuff.",
+  "id":"2ffdc818-ed6b-4ad3-9f3a-ceff7f39334a",
+  "params":{
+    "id":"9a890503-1e79-4b08-af17-60800183eb49"
+  },
+  "name":"Beto"
+}

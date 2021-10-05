@@ -1,0 +1,13 @@
+{
+  "start":30064,
+  "end":30120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or you tell them, \"Hey, man I kind of messed up in this.",
+  "id":"1f8cbd3d-cf7d-4f94-b6c6-12cf2472b172",
+  "params":{
+    "id":"1f8cbd3d-cf7d-4f94-b6c6-12cf2472b172",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

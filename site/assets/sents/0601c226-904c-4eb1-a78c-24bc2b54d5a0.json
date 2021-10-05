@@ -1,0 +1,13 @@
+{
+  "start":16813,
+  "end":16864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you've been back in Mexico eight years or nine?",
+  "id":"0601c226-904c-4eb1-a78c-24bc2b54d5a0",
+  "params":{
+    "id":"0601c226-904c-4eb1-a78c-24bc2b54d5a0",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

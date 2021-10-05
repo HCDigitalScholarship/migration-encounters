@@ -1,0 +1,13 @@
+{
+  "start":55143,
+  "end":55160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wouldn\u2019t do it.",
+  "id":"e3d5db02-c8ae-47d3-b69a-554393d7fc0a",
+  "params":{
+    "id":"e3d5db02-c8ae-47d3-b69a-554393d7fc0a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

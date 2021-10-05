@@ -1,0 +1,13 @@
+{
+  "start":60335,
+  "end":60414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either they need milk,\n diapers, whatever it is they need, just help them out.\"",
+  "id":"9718fb8c-2242-4a09-8e9c-d517b0f2940e",
+  "params":{
+    "id":"9718fb8c-2242-4a09-8e9c-d517b0f2940e",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

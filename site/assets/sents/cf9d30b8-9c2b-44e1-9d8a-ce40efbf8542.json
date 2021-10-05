@@ -1,0 +1,13 @@
+{
+  "start":20937,
+  "end":21033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought I was blind,\n   because I went like this, so I thought that maybe it made me go blind.",
+  "id":"cf9d30b8-9c2b-44e1-9d8a-ce40efbf8542",
+  "params":{
+    "id":"cf9d30b8-9c2b-44e1-9d8a-ce40efbf8542",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

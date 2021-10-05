@@ -1,0 +1,13 @@
+{
+  "start":7474,
+  "end":7577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And we were driving in this freeway and\n   everybody\u2019s just sitting there really serious, really quiet.",
+  "id":"6a260d3b-8495-44ca-a2b1-44e5092f6c8d",
+  "params":{
+    "id":"6a260d3b-8495-44ca-a2b1-44e5092f6c8d",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

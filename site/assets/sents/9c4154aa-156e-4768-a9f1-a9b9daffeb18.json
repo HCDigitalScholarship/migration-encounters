@@ -1,0 +1,13 @@
+{
+  "start":55206,
+  "end":55241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy: Wait, noodling?\n \n \n   Cris:",
+  "id":"9c4154aa-156e-4768-a9f1-a9b9daffeb18",
+  "params":{
+    "id":"9c4154aa-156e-4768-a9f1-a9b9daffeb18",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11228,
+  "end":11260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happens to the old account?",
+  "id":"7da1e4c3-2f4d-4a16-a27a-ff6e9b10c32f",
+  "params":{
+    "id":"e0717237-71e1-4fdb-986b-a0e13deaf6ee"
+  },
+  "name":"Beto"
+}

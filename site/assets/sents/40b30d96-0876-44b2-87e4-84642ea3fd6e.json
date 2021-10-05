@@ -1,0 +1,12 @@
+{
+  "start":5472,
+  "end":5483,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said ...",
+  "id":"40b30d96-0876-44b2-87e4-84642ea3fd6e",
+  "params":{
+    "id":"dce4bbe2-fdfb-43c0-8c1e-ce7d5f680a5b"
+  },
+  "name":"Yair"
+}

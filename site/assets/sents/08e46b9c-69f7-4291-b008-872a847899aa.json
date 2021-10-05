@@ -1,0 +1,13 @@
+{
+  "start":15067,
+  "end":15109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Because you hadn't experienced that.",
+  "id":"08e46b9c-69f7-4291-b008-872a847899aa",
+  "params":{
+    "id":"08e46b9c-69f7-4291-b008-872a847899aa",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

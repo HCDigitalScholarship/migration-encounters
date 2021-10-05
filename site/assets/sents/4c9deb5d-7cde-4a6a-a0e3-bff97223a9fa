@@ -1,0 +1,12 @@
+{
+  "start":17081,
+  "end":17221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if it's just for payment or just for providing any information,\n   knowing that they are calling their company, we're not calling them.",
+  "id":"4c9deb5d-7cde-4a6a-a0e3-bff97223a9fa",
+  "params":{
+    "id":"0c090576-df56-4965-8315-16585365a6b7"
+  },
+  "name":"Frank"
+}

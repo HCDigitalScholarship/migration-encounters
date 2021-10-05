@@ -1,0 +1,12 @@
+{
+  "start":21195,
+  "end":21217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: As a volunteer.",
+  "id":"688359cc-5d6c-46b2-a8dd-d01ae1eb5e9d",
+  "params":{
+    "id":"f1cd7efe-8188-4aa6-b812-51a7b3c5a61a"
+  },
+  "name":"Edgar"
+}

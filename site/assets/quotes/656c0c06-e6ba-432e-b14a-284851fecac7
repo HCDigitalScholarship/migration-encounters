@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":4762,
+  "end":4791,
+  "label":"needs commas",
+  "id":"656c0c06-e6ba-432e-b14a-284851fecac7",
+  "params":{
+    "id":"b463a192-eac1-4ba1-a18d-e8cfda53cdd5"
+  },
+  "name":"Hugo",
+  "text":"diligent gifted and talented."
+}

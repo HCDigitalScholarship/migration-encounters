@@ -1,0 +1,13 @@
+{
+  "start":5241,
+  "end":5355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to be honest with you, in California, there were more Latin\n   people, more Hispanic people, more Mexicans.",
+  "id":"5e2ac17c-961c-4ceb-9118-5bdc5d6e8136",
+  "params":{
+    "id":"5e2ac17c-961c-4ceb-9118-5bdc5d6e8136",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

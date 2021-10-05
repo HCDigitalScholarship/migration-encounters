@@ -1,0 +1,13 @@
+{
+  "start":2102,
+  "end":2136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have brothers and sisters?",
+  "id":"b7c3947a-586a-4243-b809-e1a5dbbda93d",
+  "params":{
+    "id":"b7c3947a-586a-4243-b809-e1a5dbbda93d",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":29679,
+  "end":29705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What can I help you with?\"",
+  "id":"20d960c8-f4c8-4fc0-b8c9-88459a18a99a",
+  "params":{
+    "id":"a05361fa-f3af-4c18-b6a5-ce000bee442d"
+  },
+  "name":"Daniel"
+}

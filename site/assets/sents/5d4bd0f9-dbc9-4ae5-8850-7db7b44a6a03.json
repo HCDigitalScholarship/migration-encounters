@@ -1,0 +1,13 @@
+{
+  "start":42046,
+  "end":42073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to have my own room.",
+  "id":"5d4bd0f9-dbc9-4ae5-8850-7db7b44a6a03",
+  "params":{
+    "id":"5d4bd0f9-dbc9-4ae5-8850-7db7b44a6a03",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

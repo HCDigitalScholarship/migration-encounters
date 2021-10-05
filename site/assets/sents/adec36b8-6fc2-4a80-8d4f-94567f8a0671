@@ -1,0 +1,12 @@
+{
+  "start":3246,
+  "end":3276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And there's a lot of\n   races.",
+  "id":"adec36b8-6fc2-4a80-8d4f-94567f8a0671",
+  "params":{
+    "id":"3acd13ba-9e65-4cfd-b8c1-4e0f027bfc8f"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":39453,
+  "end":39485,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I had my doubts about\n that.",
+  "id":"ccf773ff-59c1-469d-8914-84b7580b07c4",
+  "params":{
+    "id":"ccf773ff-59c1-469d-8914-84b7580b07c4",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

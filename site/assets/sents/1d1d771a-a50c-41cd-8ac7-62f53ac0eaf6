@@ -1,0 +1,12 @@
+{
+  "start":18634,
+  "end":18659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to the police?",
+  "id":"1d1d771a-a50c-41cd-8ac7-62f53ac0eaf6",
+  "params":{
+    "id":"0bc3c149-97de-4d93-9ad5-10e14eae398a"
+  },
+  "name":"Noe"
+}

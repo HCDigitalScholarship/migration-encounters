@@ -1,0 +1,13 @@
+{
+  "start":47870,
+  "end":47896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just going to ask you.",
+  "id":"97be684d-2e3d-44fd-9653-6d44a52c1d75",
+  "params":{
+    "id":"97be684d-2e3d-44fd-9653-6d44a52c1d75",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

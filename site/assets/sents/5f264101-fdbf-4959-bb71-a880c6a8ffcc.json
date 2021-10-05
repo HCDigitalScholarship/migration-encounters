@@ -1,0 +1,13 @@
+{
+  "start":6384,
+  "end":6395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Quite good.",
+  "id":"5f264101-fdbf-4959-bb71-a880c6a8ffcc",
+  "params":{
+    "id":"5f264101-fdbf-4959-bb71-a880c6a8ffcc",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

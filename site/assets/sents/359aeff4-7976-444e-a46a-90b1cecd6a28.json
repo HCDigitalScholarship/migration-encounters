@@ -1,0 +1,13 @@
+{
+  "start":30679,
+  "end":30730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, did African Americans discriminate against you?",
+  "id":"359aeff4-7976-444e-a46a-90b1cecd6a28",
+  "params":{
+    "id":"359aeff4-7976-444e-a46a-90b1cecd6a28",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

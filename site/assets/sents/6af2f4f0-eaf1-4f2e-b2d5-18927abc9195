@@ -1,0 +1,12 @@
+{
+  "start":44817,
+  "end":44851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, my daughter's name is Natalie.",
+  "id":"6af2f4f0-eaf1-4f2e-b2d5-18927abc9195",
+  "params":{
+    "id":"5926d948-a8a6-4468-84f6-d02f0cb8d2a2"
+  },
+  "name":"Rodrigo"
+}

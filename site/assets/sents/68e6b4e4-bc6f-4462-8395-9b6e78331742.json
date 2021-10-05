@@ -1,0 +1,13 @@
+{
+  "start":12050,
+  "end":12160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This ID, I\n   will use it anywhere, actually whenever I get stopped by the police, I will\n   show him this ID.",
+  "id":"68e6b4e4-bc6f-4462-8395-9b6e78331742",
+  "params":{
+    "id":"68e6b4e4-bc6f-4462-8395-9b6e78331742",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

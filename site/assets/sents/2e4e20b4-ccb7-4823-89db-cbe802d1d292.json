@@ -1,0 +1,13 @@
+{
+  "start":42033,
+  "end":42045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'd go, \"No.",
+  "id":"2e4e20b4-ccb7-4823-89db-cbe802d1d292",
+  "params":{
+    "id":"2e4e20b4-ccb7-4823-89db-cbe802d1d292",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

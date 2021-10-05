@@ -1,0 +1,12 @@
+{
+  "start":36897,
+  "end":36953,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just a call center, but\n   it's a collision agency.",
+  "id":"afae393e-c465-495e-90aa-c008ee08d1d6",
+  "params":{
+    "id":"95fd48f8-6f6e-41b0-98a3-b9d8a4a86736"
+  },
+  "name":"Rodrigo"
+}

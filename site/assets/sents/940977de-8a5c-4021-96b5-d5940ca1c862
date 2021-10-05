@@ -1,0 +1,12 @@
+{
+  "start":64115,
+  "end":64155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're always telling me the same thing",
+  "id":"940977de-8a5c-4021-96b5-d5940ca1c862",
+  "params":{
+    "id":"c13aa7a3-94f0-4301-9ad2-bbb08c2213a9"
+  },
+  "name":"Cris"
+}

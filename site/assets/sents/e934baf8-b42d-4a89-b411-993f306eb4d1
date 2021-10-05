@@ -1,0 +1,12 @@
+{
+  "start":23052,
+  "end":23108,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Best place to live in\n   Mexico is probably Mexico City.",
+  "id":"e934baf8-b42d-4a89-b411-993f306eb4d1",
+  "params":{
+    "id":"cc02e04b-8768-4b45-a304-abbc159153f8"
+  },
+  "name":"Jose"
+}

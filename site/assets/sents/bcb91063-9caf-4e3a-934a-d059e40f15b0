@@ -1,0 +1,12 @@
+{
+  "start":10340,
+  "end":10366,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then we moved to Arkansas.",
+  "id":"bcb91063-9caf-4e3a-934a-d059e40f15b0",
+  "params":{
+    "id":"98e13ac9-a97b-43ee-8407-c7e5d6d5c863"
+  },
+  "name":"Brenda"
+}

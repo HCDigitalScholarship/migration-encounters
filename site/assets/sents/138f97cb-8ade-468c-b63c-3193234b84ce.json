@@ -1,0 +1,13 @@
+{
+  "start":11599,
+  "end":11651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, the\n   thing is the police officer can't help.",
+  "id":"138f97cb-8ade-468c-b63c-3193234b84ce",
+  "params":{
+    "id":"138f97cb-8ade-468c-b63c-3193234b84ce",
+    "class":"anno"
+  },
+  "name":"Many"
+}

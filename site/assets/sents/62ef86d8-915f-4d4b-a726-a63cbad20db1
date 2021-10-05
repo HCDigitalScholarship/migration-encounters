@@ -1,0 +1,12 @@
+{
+  "start":2972,
+  "end":2991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was the tutor nice?",
+  "id":"62ef86d8-915f-4d4b-a726-a63cbad20db1",
+  "params":{
+    "id":"310cbbaf-1110-4ab6-b3cc-0cca0c6334cb"
+  },
+  "name":"Rodrigo"
+}

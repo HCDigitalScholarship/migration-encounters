@@ -1,0 +1,13 @@
+{
+  "start":28251,
+  "end":28281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that's the difference.",
+  "id":"4ae9c9d9-79ff-4b6a-b653-33616e8811b5",
+  "params":{
+    "id":"4ae9c9d9-79ff-4b6a-b653-33616e8811b5",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

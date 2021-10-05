@@ -1,0 +1,13 @@
+{
+  "start":51199,
+  "end":51265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, what I would like is probably just to help him with medical.",
+  "id":"76399bc1-afb7-42f4-a96a-f84d53b57685",
+  "params":{
+    "id":"76399bc1-afb7-42f4-a96a-f84d53b57685",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

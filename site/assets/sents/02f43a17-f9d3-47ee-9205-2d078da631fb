@@ -1,0 +1,12 @@
+{
+  "start":5480,
+  "end":5521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And what grade were you in at that point?",
+  "id":"02f43a17-f9d3-47ee-9205-2d078da631fb",
+  "params":{
+    "id":"dd62b631-d324-42b3-94a1-cd1a51485d4c"
+  },
+  "name":"Laura A"
+}

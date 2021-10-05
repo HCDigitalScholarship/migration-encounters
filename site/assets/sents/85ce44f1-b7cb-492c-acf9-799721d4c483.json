@@ -1,0 +1,13 @@
+{
+  "start":9136,
+  "end":9161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't do that, either.",
+  "id":"85ce44f1-b7cb-492c-acf9-799721d4c483",
+  "params":{
+    "id":"85ce44f1-b7cb-492c-acf9-799721d4c483",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

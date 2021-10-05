@@ -1,0 +1,12 @@
+{
+  "start":27738,
+  "end":27770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   don't let you do things.",
+  "id":"bd6061bb-67e1-4c97-a5ee-a97e211dff56",
+  "params":{
+    "id":"4da15490-93e8-46da-8126-8c85059a8a3a"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30169,
+  "end":30221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Has life been okay in Mexico in the last six months?",
+  "id":"f560d0e8-0206-4cdb-bdd1-39607a777038",
+  "params":{
+    "id":"f560d0e8-0206-4cdb-bdd1-39607a777038",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

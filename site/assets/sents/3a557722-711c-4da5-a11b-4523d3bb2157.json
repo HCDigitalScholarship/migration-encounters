@@ -1,0 +1,13 @@
+{
+  "start":14980,
+  "end":15034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You got somebody's U.S. papers and you crossed by bus?",
+  "id":"3a557722-711c-4da5-a11b-4523d3bb2157",
+  "params":{
+    "id":"3a557722-711c-4da5-a11b-4523d3bb2157",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

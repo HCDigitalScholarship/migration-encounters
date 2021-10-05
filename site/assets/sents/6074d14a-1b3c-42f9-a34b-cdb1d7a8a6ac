@@ -1,0 +1,12 @@
+{
+  "start":2440,
+  "end":2477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was there a raid at where you worked?",
+  "id":"6074d14a-1b3c-42f9-a34b-cdb1d7a8a6ac",
+  "params":{
+    "id":"5ed131d8-ba0f-46f7-9354-d0e96e3e44c1"
+  },
+  "name":"Ivan"
+}

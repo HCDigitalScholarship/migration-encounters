@@ -1,0 +1,13 @@
+{
+  "start":35423,
+  "end":35455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it's like, \"You know\n   what?",
+  "id":"fa23db1d-6fa1-4152-8009-ae1f92a34073",
+  "params":{
+    "id":"fa23db1d-6fa1-4152-8009-ae1f92a34073",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

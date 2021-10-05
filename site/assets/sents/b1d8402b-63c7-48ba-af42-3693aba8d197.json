@@ -1,0 +1,13 @@
+{
+  "start":6065,
+  "end":6092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nobody knew what to\n   say.",
+  "id":"b1d8402b-63c7-48ba-af42-3693aba8d197",
+  "params":{
+    "id":"b1d8402b-63c7-48ba-af42-3693aba8d197",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

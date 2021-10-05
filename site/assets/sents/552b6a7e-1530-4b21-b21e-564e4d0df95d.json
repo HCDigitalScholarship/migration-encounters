@@ -1,0 +1,13 @@
+{
+  "start":14628,
+  "end":14640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was young.",
+  "id":"552b6a7e-1530-4b21-b21e-564e4d0df95d",
+  "params":{
+    "id":"552b6a7e-1530-4b21-b21e-564e4d0df95d",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

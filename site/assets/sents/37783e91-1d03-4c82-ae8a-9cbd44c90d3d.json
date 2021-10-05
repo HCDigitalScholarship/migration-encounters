@@ -1,0 +1,13 @@
+{
+  "start":17360,
+  "end":17375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was walking.",
+  "id":"37783e91-1d03-4c82-ae8a-9cbd44c90d3d",
+  "params":{
+    "id":"37783e91-1d03-4c82-ae8a-9cbd44c90d3d",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

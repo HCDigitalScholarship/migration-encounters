@@ -1,0 +1,12 @@
+{
+  "start":37424,
+  "end":37462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to be right\n   nor wrong.",
+  "id":"a562978a-1f1e-4c51-88a0-0d27b75f1c85",
+  "params":{
+    "id":"2b4853bc-9936-4ef2-89f0-a3c8c559c041"
+  },
+  "name":"Sylent"
+}

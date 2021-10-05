@@ -1,0 +1,12 @@
+{
+  "start":22752,
+  "end":22796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can\n   you get me a book, but it\u2019s English?\"",
+  "id":"c3a785ae-61df-4b45-a103-88542ed40970",
+  "params":{
+    "id":"a96b6ae2-5756-4f15-b0fd-8138c0b40f1f"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30207,
+  "end":30326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n out with everybody, congregating with everybody, and that's the environment\n that we brought our children up in.",
+  "id":"d87a5d50-5b4c-4d2e-a87c-59cba1f41a13",
+  "params":{
+    "id":"d87a5d50-5b4c-4d2e-a87c-59cba1f41a13",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

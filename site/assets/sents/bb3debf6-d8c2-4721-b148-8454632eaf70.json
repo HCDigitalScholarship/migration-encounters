@@ -1,0 +1,13 @@
+{
+  "start":11230,
+  "end":11294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My sister and I, he would take us to the park, take us swimming.",
+  "id":"bb3debf6-d8c2-4721-b148-8454632eaf70",
+  "params":{
+    "id":"bb3debf6-d8c2-4721-b148-8454632eaf70",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

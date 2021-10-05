@@ -1,0 +1,13 @@
+{
+  "start":36822,
+  "end":36846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: What job?",
+  "id":"a2f2049d-ec57-41ae-b453-09d3bc033ecd",
+  "params":{
+    "id":"a2f2049d-ec57-41ae-b453-09d3bc033ecd",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

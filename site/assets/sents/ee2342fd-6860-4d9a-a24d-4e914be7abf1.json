@@ -1,0 +1,13 @@
+{
+  "start":12594,
+  "end":12656,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He told us,\n   \"Well, I mean, that's just the way things are.\"",
+  "id":"ee2342fd-6860-4d9a-a24d-4e914be7abf1",
+  "params":{
+    "id":"ee2342fd-6860-4d9a-a24d-4e914be7abf1",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

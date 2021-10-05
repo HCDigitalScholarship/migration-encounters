@@ -1,0 +1,12 @@
+{
+  "start":33962,
+  "end":34035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad would leave us here, would\n   go over there, and then send for us.",
+  "id":"b37932ef-dcff-4247-83f7-76d624b80348",
+  "params":{
+    "id":"60f1ad2a-af78-4532-8b06-20af9e450b96"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25359,
+  "end":25409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I've been here a little\n   over two years.",
+  "id":"211b366b-9e05-4970-ba69-880f4ac249fb",
+  "params":{
+    "id":"211b366b-9e05-4970-ba69-880f4ac249fb",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

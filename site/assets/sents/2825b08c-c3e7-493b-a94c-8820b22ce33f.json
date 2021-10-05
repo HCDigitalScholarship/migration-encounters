@@ -1,0 +1,13 @@
+{
+  "start":16885,
+  "end":16905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He lives here in ___",
+  "id":"2825b08c-c3e7-493b-a94c-8820b22ce33f",
+  "params":{
+    "id":"2825b08c-c3e7-493b-a94c-8820b22ce33f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

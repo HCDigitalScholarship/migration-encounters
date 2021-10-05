@@ -1,0 +1,12 @@
+{
+  "start":31420,
+  "end":31489,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was a big\n     division there because I had to learn from both.",
+  "id":"9f662c68-d647-4e7a-9438-c9877dd2b6a0",
+  "params":{
+    "id":"b9a57c75-545d-4724-981f-2c1650ea0ef3"
+  },
+  "name":"Beto"
+}

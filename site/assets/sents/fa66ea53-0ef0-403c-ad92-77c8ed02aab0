@@ -1,0 +1,12 @@
+{
+  "start":6500,
+  "end":6588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then you moved to the second city, and you said it was\n   primarily just white kids?",
+  "id":"fa66ea53-0ef0-403c-ad92-77c8ed02aab0",
+  "params":{
+    "id":"0a4967af-4079-4713-8ece-a1c3fbc7da74"
+  },
+  "name":"Carolina"
+}

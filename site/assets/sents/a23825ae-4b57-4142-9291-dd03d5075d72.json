@@ -1,0 +1,13 @@
+{
+  "start":4629,
+  "end":4653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going out to Mexico.",
+  "id":"a23825ae-4b57-4142-9291-dd03d5075d72",
+  "params":{
+    "id":"a23825ae-4b57-4142-9291-dd03d5075d72",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

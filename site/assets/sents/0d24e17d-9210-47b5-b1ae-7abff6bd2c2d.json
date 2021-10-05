@@ -1,0 +1,13 @@
+{
+  "start":28102,
+  "end":28125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well thank you so much.",
+  "id":"0d24e17d-9210-47b5-b1ae-7abff6bd2c2d",
+  "params":{
+    "id":"0d24e17d-9210-47b5-b1ae-7abff6bd2c2d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

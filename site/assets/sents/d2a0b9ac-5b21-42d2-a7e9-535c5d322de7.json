@@ -1,0 +1,13 @@
+{
+  "start":55863,
+  "end":55889,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were like bird cages.",
+  "id":"d2a0b9ac-5b21-42d2-a7e9-535c5d322de7",
+  "params":{
+    "id":"d2a0b9ac-5b21-42d2-a7e9-535c5d322de7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

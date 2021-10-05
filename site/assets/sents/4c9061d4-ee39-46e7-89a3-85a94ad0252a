@@ -1,0 +1,12 @@
+{
+  "start":20173,
+  "end":20232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think that's why your dad brought you to the States?",
+  "id":"4c9061d4-ee39-46e7-89a3-85a94ad0252a",
+  "params":{
+    "id":"a4c7d725-c6b7-416f-afb1-f69a7b5cabed"
+  },
+  "name":"Carlos"
+}

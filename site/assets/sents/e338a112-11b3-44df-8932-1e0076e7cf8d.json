@@ -1,0 +1,13 @@
+{
+  "start":30155,
+  "end":30175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n   it\u2019s old.",
+  "id":"e338a112-11b3-44df-8932-1e0076e7cf8d",
+  "params":{
+    "id":"e338a112-11b3-44df-8932-1e0076e7cf8d",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

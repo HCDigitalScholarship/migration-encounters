@@ -1,0 +1,13 @@
+{
+  "start":14379,
+  "end":14401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then, the\n   rent.",
+  "id":"6a82b4ef-b15e-42b5-bded-d197f1fffe36",
+  "params":{
+    "id":"6a82b4ef-b15e-42b5-bded-d197f1fffe36",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15282,
+  "end":15328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At this point, yes I was with my grandparents.",
+  "id":"1c2bc16d-1fc4-4af6-879e-198c1e78dd56",
+  "params":{
+    "id":"1c2bc16d-1fc4-4af6-879e-198c1e78dd56",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

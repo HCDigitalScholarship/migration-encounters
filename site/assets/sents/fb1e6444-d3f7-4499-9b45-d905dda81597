@@ -1,0 +1,12 @@
+{
+  "start":9388,
+  "end":9404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Your wife.",
+  "id":"fb1e6444-d3f7-4499-9b45-d905dda81597",
+  "params":{
+    "id":"a9fdc23c-19e0-45a1-9d4e-ca80eb43deeb"
+  },
+  "name":"Ben"
+}

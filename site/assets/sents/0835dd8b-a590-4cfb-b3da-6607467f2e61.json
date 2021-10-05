@@ -1,0 +1,13 @@
+{
+  "start":52862,
+  "end":52891,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yeah,\n   we'll get married.\"",
+  "id":"0835dd8b-a590-4cfb-b3da-6607467f2e61",
+  "params":{
+    "id":"0835dd8b-a590-4cfb-b3da-6607467f2e61",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

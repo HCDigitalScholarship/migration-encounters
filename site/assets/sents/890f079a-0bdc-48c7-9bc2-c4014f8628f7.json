@@ -1,0 +1,13 @@
+{
+  "start":4001,
+  "end":4046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But besides that, I didn't really like\n   it.",
+  "id":"890f079a-0bdc-48c7-9bc2-c4014f8628f7",
+  "params":{
+    "id":"890f079a-0bdc-48c7-9bc2-c4014f8628f7",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

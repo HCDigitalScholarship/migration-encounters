@@ -1,0 +1,13 @@
+{
+  "start":10480,
+  "end":10569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just doing pretty much\n   everything around the house, concrete, shingles, roofing.",
+  "id":"a427c918-dadd-48b1-a42c-377e569abb79",
+  "params":{
+    "id":"a427c918-dadd-48b1-a42c-377e569abb79",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

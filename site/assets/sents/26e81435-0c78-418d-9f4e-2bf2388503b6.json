@@ -1,0 +1,13 @@
+{
+  "start":45763,
+  "end":45785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want you home Cris.\"",
+  "id":"26e81435-0c78-418d-9f4e-2bf2388503b6",
+  "params":{
+    "id":"26e81435-0c78-418d-9f4e-2bf2388503b6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

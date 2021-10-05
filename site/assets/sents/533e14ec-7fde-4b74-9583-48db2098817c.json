@@ -1,0 +1,13 @@
+{
+  "start":28753,
+  "end":28793,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came back and I tried to go to school.",
+  "id":"533e14ec-7fde-4b74-9583-48db2098817c",
+  "params":{
+    "id":"533e14ec-7fde-4b74-9583-48db2098817c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

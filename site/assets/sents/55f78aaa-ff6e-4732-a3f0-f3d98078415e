@@ -1,0 +1,12 @@
+{
+  "start":11250,
+  "end":11329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's really cool to\n   be like that, but you have to use it for something good.",
+  "id":"55f78aaa-ff6e-4732-a3f0-f3d98078415e",
+  "params":{
+    "id":"6eee85a7-90fd-4dbf-b678-4b6b30f47460"
+  },
+  "name":"Donovan"
+}

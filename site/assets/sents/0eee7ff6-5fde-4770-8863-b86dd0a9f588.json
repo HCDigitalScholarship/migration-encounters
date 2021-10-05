@@ -1,0 +1,13 @@
+{
+  "start":23000,
+  "end":23118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean people in the US, even in my parents, I see that they\n   see Mexico as very dangerous, very dark place to live.",
+  "id":"0eee7ff6-5fde-4770-8863-b86dd0a9f588",
+  "params":{
+    "id":"0eee7ff6-5fde-4770-8863-b86dd0a9f588",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

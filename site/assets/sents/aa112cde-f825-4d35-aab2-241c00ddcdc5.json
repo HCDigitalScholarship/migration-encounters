@@ -1,0 +1,13 @@
+{
+  "start":12536,
+  "end":12589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He will\n   show up at the house, and we will make it.",
+  "id":"aa112cde-f825-4d35-aab2-241c00ddcdc5",
+  "params":{
+    "id":"aa112cde-f825-4d35-aab2-241c00ddcdc5",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

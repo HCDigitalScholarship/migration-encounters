@@ -1,0 +1,12 @@
+{
+  "start":16783,
+  "end":16845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember the short story for which\n   you won an award?",
+  "id":"925e2cc9-a08b-408c-bfa1-0e432946c88f",
+  "params":{
+    "id":"a3cabffa-eed8-44d1-bf02-fb71eb743ad5"
+  },
+  "name":"Valeria"
+}

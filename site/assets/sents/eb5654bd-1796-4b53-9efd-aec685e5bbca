@@ -1,0 +1,12 @@
+{
+  "start":61186,
+  "end":61203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You took a class?",
+  "id":"eb5654bd-1796-4b53-9efd-aec685e5bbca",
+  "params":{
+    "id":"68e265b2-17b3-4159-8ceb-ae1476a9e304"
+  },
+  "name":"Daniel B"
+}

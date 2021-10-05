@@ -1,0 +1,13 @@
+{
+  "start":4595,
+  "end":4704,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure what she was cooking but\n   we went into another room and all I remember hearing was a big slam.",
+  "id":"158b47b2-8461-4a31-9e6a-92ac422c6afd",
+  "params":{
+    "id":"158b47b2-8461-4a31-9e6a-92ac422c6afd",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

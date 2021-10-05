@@ -1,0 +1,13 @@
+{
+  "start":5029,
+  "end":5044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love to cook.",
+  "id":"c1da326a-b946-4963-811e-90e78eaa8c9c",
+  "params":{
+    "id":"c1da326a-b946-4963-811e-90e78eaa8c9c",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

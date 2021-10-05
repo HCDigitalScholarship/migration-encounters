@@ -1,0 +1,12 @@
+{
+  "start":5264,
+  "end":5293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is\n   that thing called?",
+  "id":"085ac404-5492-403e-831e-f142404c141e",
+  "params":{
+    "id":"fbdaf710-a3d8-46f6-8f56-67cd8c9b65e3"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22329,
+  "end":22364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Where do you put that?",
+  "id":"c13b9c62-c96a-4fb4-9175-8d065f66349a",
+  "params":{
+    "id":"c13b9c62-c96a-4fb4-9175-8d065f66349a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

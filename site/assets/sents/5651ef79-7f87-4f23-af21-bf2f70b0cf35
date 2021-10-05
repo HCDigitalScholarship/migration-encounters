@@ -1,0 +1,12 @@
+{
+  "start":5668,
+  "end":5714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"No, I'd\n   rather go back to Mexico.\"",
+  "id":"5651ef79-7f87-4f23-af21-bf2f70b0cf35",
+  "params":{
+    "id":"680748f6-a853-43a2-a999-92fa1705d994"
+  },
+  "name":"Sylent"
+}

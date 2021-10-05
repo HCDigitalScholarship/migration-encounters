@@ -1,0 +1,13 @@
+{
+  "start":12576,
+  "end":12600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It looks better for you.",
+  "id":"75d89856-de48-4851-8ae5-e9e40119115e",
+  "params":{
+    "id":"75d89856-de48-4851-8ae5-e9e40119115e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36007,
+  "end":36039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're trying at least, you know?",
+  "id":"187c8dbb-5778-4694-9203-6ca1e827fa66",
+  "params":{
+    "id":"f51e5ecc-e3b1-4fc4-83df-92efe09cbe8b"
+  },
+  "name":"Hugo"
+}

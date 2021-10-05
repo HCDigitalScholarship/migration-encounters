@@ -1,0 +1,12 @@
+{
+  "start":26076,
+  "end":26107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Exactly that's what I'm saying.",
+  "id":"bd9062d3-94db-4cf9-8313-eecf43ff8d94",
+  "params":{
+    "id":"93a8e736-86bb-4437-8e0d-43526cf1443e"
+  },
+  "name":"Mike"
+}

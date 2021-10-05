@@ -1,0 +1,13 @@
+{
+  "start":32848,
+  "end":32865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What\n   happened?",
+  "id":"0e12c509-dbcd-424e-a9c8-e58f2081d3a9",
+  "params":{
+    "id":"0e12c509-dbcd-424e-a9c8-e58f2081d3a9",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

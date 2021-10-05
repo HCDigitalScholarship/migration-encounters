@@ -1,0 +1,12 @@
+{
+  "start":31707,
+  "end":31722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's going on",
+  "id":"947dbc6f-214c-43de-9a9b-b07d59a064f1",
+  "params":{
+    "id":"0bd2737f-048e-4776-8b86-60ca2ebd3ca9"
+  },
+  "name":"Beto"
+}

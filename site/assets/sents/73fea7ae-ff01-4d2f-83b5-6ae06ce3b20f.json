@@ -1,0 +1,13 @@
+{
+  "start":9053,
+  "end":9326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said, \u201cDon't tell anyone that you're not a U.S. citizen?\u201d\n \n \n   Luis: Mostly, my pa was telling me, \"Hey, I know that you are proud of\n   being American and Mexican at the same time, but don't go telling all the\n   people that you know because most people don't get it.",
+  "id":"73fea7ae-ff01-4d2f-83b5-6ae06ce3b20f",
+  "params":{
+    "id":"73fea7ae-ff01-4d2f-83b5-6ae06ce3b20f",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

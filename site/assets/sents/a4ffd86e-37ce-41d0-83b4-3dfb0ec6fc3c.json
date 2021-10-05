@@ -1,0 +1,13 @@
+{
+  "start":46838,
+  "end":47008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I looked up my name and\n everything and they were like, \"Oh, well, actually, it looks like\n immigration put a hold on you just last night at one or two in the morning.",
+  "id":"a4ffd86e-37ce-41d0-83b4-3dfb0ec6fc3c",
+  "params":{
+    "id":"a4ffd86e-37ce-41d0-83b4-3dfb0ec6fc3c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

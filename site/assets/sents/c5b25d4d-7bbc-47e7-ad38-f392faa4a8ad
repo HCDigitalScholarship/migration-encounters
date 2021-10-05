@@ -1,0 +1,12 @@
+{
+  "start":10784,
+  "end":10823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which of your relatives live in Mexico?",
+  "id":"c5b25d4d-7bbc-47e7-ad38-f392faa4a8ad",
+  "params":{
+    "id":"2895f7a2-f038-4c63-83a4-450d2fae51af"
+  },
+  "name":"Jesus A"
+}

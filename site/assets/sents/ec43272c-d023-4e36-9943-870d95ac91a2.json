@@ -1,0 +1,13 @@
+{
+  "start":29665,
+  "end":29698,
+  "label":"SENT",
+  "type":"sent",
+  "text":"En mi familia\n     no lo permiti.",
+  "id":"ec43272c-d023-4e36-9943-870d95ac91a2",
+  "params":{
+    "id":"ec43272c-d023-4e36-9943-870d95ac91a2",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

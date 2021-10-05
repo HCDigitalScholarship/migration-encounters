@@ -1,0 +1,13 @@
+{
+  "start":28693,
+  "end":28799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were really nice to me, and they changed my ways,\n   because I always asked myself that question too.",
+  "id":"eb9cc4d6-6102-473c-8ec0-c3047bbab6c6",
+  "params":{
+    "id":"eb9cc4d6-6102-473c-8ec0-c3047bbab6c6",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

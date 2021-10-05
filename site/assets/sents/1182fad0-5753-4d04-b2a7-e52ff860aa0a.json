@@ -1,0 +1,13 @@
+{
+  "start":40914,
+  "end":40962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took a lot of people out of the\n   streets.",
+  "id":"1182fad0-5753-4d04-b2a7-e52ff860aa0a",
+  "params":{
+    "id":"1182fad0-5753-4d04-b2a7-e52ff860aa0a",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

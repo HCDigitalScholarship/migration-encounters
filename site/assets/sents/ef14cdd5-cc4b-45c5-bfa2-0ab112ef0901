@@ -1,0 +1,12 @@
+{
+  "start":50386,
+  "end":50403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: La verdad.",
+  "id":"ef14cdd5-cc4b-45c5-bfa2-0ab112ef0901",
+  "params":{
+    "id":"cf6d55b3-35c5-4291-82c0-42ae353701a2"
+  },
+  "name":"Maria"
+}

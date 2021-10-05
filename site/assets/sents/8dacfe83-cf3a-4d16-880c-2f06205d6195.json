@@ -1,0 +1,13 @@
+{
+  "start":5182,
+  "end":5216,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You feel like you're\n   worthless.",
+  "id":"8dacfe83-cf3a-4d16-880c-2f06205d6195",
+  "params":{
+    "id":"8dacfe83-cf3a-4d16-880c-2f06205d6195",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

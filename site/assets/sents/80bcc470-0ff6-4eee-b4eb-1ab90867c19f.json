@@ -1,0 +1,13 @@
+{
+  "start":9912,
+  "end":10014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so you couldn't find a job that wouldn't have been in the\n   fields after finishing high school?",
+  "id":"80bcc470-0ff6-4eee-b4eb-1ab90867c19f",
+  "params":{
+    "id":"80bcc470-0ff6-4eee-b4eb-1ab90867c19f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

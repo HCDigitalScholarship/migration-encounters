@@ -1,0 +1,13 @@
+{
+  "start":21218,
+  "end":21245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I think, right?",
+  "id":"dc293e05-5958-46e1-abf0-c76221c5c451",
+  "params":{
+    "id":"dc293e05-5958-46e1-abf0-c76221c5c451",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

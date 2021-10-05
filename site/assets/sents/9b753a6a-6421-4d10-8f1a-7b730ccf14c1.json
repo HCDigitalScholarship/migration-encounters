@@ -1,0 +1,13 @@
+{
+  "start":6569,
+  "end":6620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well we were moving back and forth, back and forth.",
+  "id":"9b753a6a-6421-4d10-8f1a-7b730ccf14c1",
+  "params":{
+    "id":"9b753a6a-6421-4d10-8f1a-7b730ccf14c1",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

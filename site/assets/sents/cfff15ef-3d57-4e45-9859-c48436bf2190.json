@@ -1,0 +1,13 @@
+{
+  "start":4482,
+  "end":4562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it doesn't even\n   matter what I did, my mom would always come and visit me.",
+  "id":"cfff15ef-3d57-4e45-9859-c48436bf2190",
+  "params":{
+    "id":"cfff15ef-3d57-4e45-9859-c48436bf2190",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

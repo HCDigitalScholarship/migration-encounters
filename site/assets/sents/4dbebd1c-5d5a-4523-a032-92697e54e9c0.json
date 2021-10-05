@@ -1,0 +1,13 @@
+{
+  "start":20462,
+  "end":20481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that, it hurts.",
+  "id":"4dbebd1c-5d5a-4523-a032-92697e54e9c0",
+  "params":{
+    "id":"4dbebd1c-5d5a-4523-a032-92697e54e9c0",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

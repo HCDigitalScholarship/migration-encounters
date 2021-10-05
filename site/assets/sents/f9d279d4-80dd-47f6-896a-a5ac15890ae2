@@ -1,0 +1,12 @@
+{
+  "start":19570,
+  "end":19596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You told me about the bad.",
+  "id":"f9d279d4-80dd-47f6-896a-a5ac15890ae2",
+  "params":{
+    "id":"3ca1e957-3b12-4063-bbc6-e84a58344204"
+  },
+  "name":"Joseph"
+}

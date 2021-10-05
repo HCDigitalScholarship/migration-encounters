@@ -1,0 +1,12 @@
+{
+  "start":34950,
+  "end":35008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We cannot afford to pay for your housing or your\n   books.",
+  "id":"84c06552-f275-43f0-94ec-6c18bad643c0",
+  "params":{
+    "id":"a906e1ec-6fde-46af-8b83-dc749f586907"
+  },
+  "name":"Luisa"
+}

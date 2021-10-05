@@ -1,0 +1,12 @@
+{
+  "start":30984,
+  "end":31028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   \"Yeah, yeah, that's my mom right there.\"",
+  "id":"383e3f07-0505-4fb9-b318-d3d95c83f5c4",
+  "params":{
+    "id":"c690c030-5d08-471f-984c-63f076c233d2"
+  },
+  "name":"Hugo"
+}

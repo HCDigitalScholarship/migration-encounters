@@ -1,0 +1,13 @@
+{
+  "start":6675,
+  "end":6721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you were afraid\n   of US authorities.",
+  "id":"29fe987d-de72-4e7b-b5b2-7227bfc2263d",
+  "params":{
+    "id":"29fe987d-de72-4e7b-b5b2-7227bfc2263d",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

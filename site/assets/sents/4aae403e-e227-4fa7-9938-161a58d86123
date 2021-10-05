@@ -1,0 +1,12 @@
+{
+  "start":15746,
+  "end":15763,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to stop.",
+  "id":"4aae403e-e227-4fa7-9938-161a58d86123",
+  "params":{
+    "id":"0957d880-45e7-4194-b257-20ee87336fd3"
+  },
+  "name":"Luis A"
+}

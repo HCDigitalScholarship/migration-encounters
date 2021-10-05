@@ -1,0 +1,12 @@
+{
+  "start":34370,
+  "end":34415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My boy was born here, May 10th, Mother's Day.",
+  "id":"055b285f-f468-412c-8aa6-23473b09f5de",
+  "params":{
+    "id":"be2b0fdc-5e49-45ed-b65e-f6c2c2f5dfd4"
+  },
+  "name":"Daniel"
+}

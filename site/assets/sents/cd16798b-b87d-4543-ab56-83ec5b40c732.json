@@ -1,0 +1,13 @@
+{
+  "start":64192,
+  "end":64215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We know you have drugs.",
+  "id":"cd16798b-b87d-4543-ab56-83ec5b40c732",
+  "params":{
+    "id":"cd16798b-b87d-4543-ab56-83ec5b40c732",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

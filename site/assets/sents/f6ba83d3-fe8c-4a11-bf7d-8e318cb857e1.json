@@ -1,0 +1,13 @@
+{
+  "start":30268,
+  "end":30279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad did.",
+  "id":"f6ba83d3-fe8c-4a11-bf7d-8e318cb857e1",
+  "params":{
+    "id":"f6ba83d3-fe8c-4a11-bf7d-8e318cb857e1",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36873,
+  "end":37042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She barely spoke Spanish, so I selfishly made everyone move back to Mexico.\n \n \n   Anita: Because?\n \n \n   Luisa: Because I wanted to continue my education.\n \n \n   Anita:",
+  "id":"2225dc8f-51a8-4350-b251-7865350afede",
+  "params":{
+    "id":"2225dc8f-51a8-4350-b251-7865350afede",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

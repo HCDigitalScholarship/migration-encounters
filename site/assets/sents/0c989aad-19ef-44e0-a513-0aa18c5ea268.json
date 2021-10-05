@@ -1,0 +1,13 @@
+{
+  "start":21687,
+  "end":21766,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't want to hear what you have to tell them, so\n   don't interrupt them.",
+  "id":"0c989aad-19ef-44e0-a513-0aa18c5ea268",
+  "params":{
+    "id":"0c989aad-19ef-44e0-a513-0aa18c5ea268",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26969,
+  "end":27054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried too\n   many times to ask her if I can talk with them, but she didn't want to.",
+  "id":"bb52f6bf-be15-4293-92cc-0c1c6eb29a45",
+  "params":{
+    "id":"98f8a34b-4a98-41bc-a3f1-a7b018f9470e"
+  },
+  "name":"Many"
+}

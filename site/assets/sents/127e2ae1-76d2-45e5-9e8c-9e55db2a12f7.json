@@ -1,0 +1,12 @@
+{
+  "start":12585,
+  "end":12599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I pay my rent.",
+  "id":"127e2ae1-76d2-45e5-9e8c-9e55db2a12f7",
+  "params":{
+    "id":"36777d83-ce0a-456f-a3a0-3ad038140bf1"
+  },
+  "name":"Hugo"
+}

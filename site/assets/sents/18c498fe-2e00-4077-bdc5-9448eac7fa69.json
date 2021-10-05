@@ -1,0 +1,13 @@
+{
+  "start":2139,
+  "end":2232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We moved to Chicago to an apartment on Green Bay on the\n   East Side, and that's how it went.",
+  "id":"18c498fe-2e00-4077-bdc5-9448eac7fa69",
+  "params":{
+    "id":"18c498fe-2e00-4077-bdc5-9448eac7fa69",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

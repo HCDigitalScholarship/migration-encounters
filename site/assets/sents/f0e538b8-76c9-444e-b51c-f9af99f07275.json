@@ -1,0 +1,13 @@
+{
+  "start":2425,
+  "end":2520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was actually doing advanced classes, and\n   this was all from first grade onto middle school.",
+  "id":"f0e538b8-76c9-444e-b51c-f9af99f07275",
+  "params":{
+    "id":"f0e538b8-76c9-444e-b51c-f9af99f07275",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

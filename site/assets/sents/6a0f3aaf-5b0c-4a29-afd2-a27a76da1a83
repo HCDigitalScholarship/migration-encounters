@@ -1,0 +1,12 @@
+{
+  "start":16163,
+  "end":16175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like IHOP.",
+  "id":"6a0f3aaf-5b0c-4a29-afd2-a27a76da1a83",
+  "params":{
+    "id":"26c6cbc3-ce17-471d-9aa0-4e7c34513cb1"
+  },
+  "name":"Kevin"
+}

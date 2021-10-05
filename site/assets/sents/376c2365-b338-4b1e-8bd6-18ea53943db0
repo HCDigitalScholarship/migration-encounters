@@ -1,0 +1,12 @@
+{
+  "start":18443,
+  "end":18472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The customer is always right.",
+  "id":"376c2365-b338-4b1e-8bd6-18ea53943db0",
+  "params":{
+    "id":"2df83303-4ca1-475a-9860-3a742e90dbff"
+  },
+  "name":"Frank"
+}

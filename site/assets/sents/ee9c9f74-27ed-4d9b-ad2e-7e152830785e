@@ -1,0 +1,12 @@
+{
+  "start":9007,
+  "end":9024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Josue: Newspaper.",
+  "id":"ee9c9f74-27ed-4d9b-ad2e-7e152830785e",
+  "params":{
+    "id":"2fa0ad02-0de6-4ebf-9600-48e1f8fbee02"
+  },
+  "name":"Josue"
+}

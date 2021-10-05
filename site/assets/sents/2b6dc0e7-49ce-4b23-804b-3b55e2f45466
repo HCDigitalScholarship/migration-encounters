@@ -1,0 +1,12 @@
+{
+  "start":42590,
+  "end":42658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You see what I'm\n   saying though, right?\n \n \n   Sergio: Definitely.",
+  "id":"2b6dc0e7-49ce-4b23-804b-3b55e2f45466",
+  "params":{
+    "id":"5b9b4e31-ea58-4bda-b207-948bab959f59"
+  },
+  "name":"Rodolfo"
+}

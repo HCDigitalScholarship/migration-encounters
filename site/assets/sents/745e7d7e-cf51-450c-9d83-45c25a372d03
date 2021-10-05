@@ -1,0 +1,12 @@
+{
+  "start":21391,
+  "end":21476,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then you were also, before that, held in an office, detained\n   for three months?",
+  "id":"745e7d7e-cf51-450c-9d83-45c25a372d03",
+  "params":{
+    "id":"3626eaf0-960b-465b-b713-ec29293b6fb8"
+  },
+  "name":"Daniel"
+}

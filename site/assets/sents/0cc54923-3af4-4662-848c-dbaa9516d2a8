@@ -1,0 +1,12 @@
+{
+  "start":5855,
+  "end":5885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have contact with him?",
+  "id":"0cc54923-3af4-4662-848c-dbaa9516d2a8",
+  "params":{
+    "id":"5bdadc29-f98e-4591-827e-f4e248889f0a"
+  },
+  "name":"Roberto"
+}

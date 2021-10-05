@@ -1,0 +1,12 @@
+{
+  "start":29916,
+  "end":29973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since they denied us, they wouldn't give us another shot.",
+  "id":"cf1ab9e5-103d-427f-ad15-a10b69adbf7f",
+  "params":{
+    "id":"ed7f0d04-5ddf-4e60-bef0-7e08bea2f4d5"
+  },
+  "name":"Mike"
+}

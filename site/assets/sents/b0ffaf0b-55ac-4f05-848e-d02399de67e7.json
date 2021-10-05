@@ -1,0 +1,13 @@
+{
+  "start":31851,
+  "end":31946,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n cut it open and cook it in front of you, they do everything right there in\n front of you.",
+  "id":"b0ffaf0b-55ac-4f05-848e-d02399de67e7",
+  "params":{
+    "id":"b0ffaf0b-55ac-4f05-848e-d02399de67e7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

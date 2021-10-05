@@ -1,0 +1,13 @@
+{
+  "start":15492,
+  "end":15554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:\n \n \n   Were you driving at the time or were you-\n \n \n   ",
+  "id":"7d9a987b-069a-4074-8b4a-38113416cad8",
+  "params":{
+    "id":"7d9a987b-069a-4074-8b4a-38113416cad8",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

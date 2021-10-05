@@ -1,0 +1,13 @@
+{
+  "start":25010,
+  "end":25054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Be an English teacher?\n      \n      \n ",
+  "id":"7a7fb33b-ff5f-47de-ba3e-de125758972f",
+  "params":{
+    "id":"7a7fb33b-ff5f-47de-ba3e-de125758972f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

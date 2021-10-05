@@ -1,0 +1,12 @@
+{
+  "start":17138,
+  "end":17174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when that happened?",
+  "id":"bcabb473-7e6d-4def-8fbf-9462b76fd8ad",
+  "params":{
+    "id":"ae9ecfc2-a5b5-4fff-9755-b06c4b19fab1"
+  },
+  "name":"Laila"
+}

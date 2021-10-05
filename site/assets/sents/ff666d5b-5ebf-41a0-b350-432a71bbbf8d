@@ -1,0 +1,12 @@
+{
+  "start":2002,
+  "end":2007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"ff666d5b-5ebf-41a0-b350-432a71bbbf8d",
+  "params":{
+    "id":"3e3c02a8-9dc6-45b3-a934-f9d4e0193c55"
+  },
+  "name":"Carlos"
+}

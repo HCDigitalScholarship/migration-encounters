@@ -1,0 +1,13 @@
+{
+  "start":10890,
+  "end":10987,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She started\n   hitting me too, and I was fighting with her and then with him at the same\n   time.",
+  "id":"358a09e1-1c78-4817-8705-509507416105",
+  "params":{
+    "id":"358a09e1-1c78-4817-8705-509507416105",
+    "class":"anno"
+  },
+  "name":"Many"
+}

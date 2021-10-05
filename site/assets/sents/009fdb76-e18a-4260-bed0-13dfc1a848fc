@@ -1,0 +1,12 @@
+{
+  "start":22991,
+  "end":23015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What job is your aunt's?",
+  "id":"009fdb76-e18a-4260-bed0-13dfc1a848fc",
+  "params":{
+    "id":"2dc59df5-e53d-4d99-ac74-ab02d67bfe66"
+  },
+  "name":"Melani"
+}

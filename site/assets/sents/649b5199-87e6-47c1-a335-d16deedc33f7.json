@@ -1,0 +1,13 @@
+{
+  "start":27886,
+  "end":27994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My father was at another church, but when\n they wanted to do that, I talked to my father to see if he would,",
+  "id":"649b5199-87e6-47c1-a335-d16deedc33f7",
+  "params":{
+    "id":"649b5199-87e6-47c1-a335-d16deedc33f7",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

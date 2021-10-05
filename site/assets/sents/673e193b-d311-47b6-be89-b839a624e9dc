@@ -1,0 +1,12 @@
+{
+  "start":13380,
+  "end":13416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you said you have an 8-year-old.",
+  "id":"673e193b-d311-47b6-be89-b839a624e9dc",
+  "params":{
+    "id":"898a43c8-5b53-4cf4-baaf-37d65726323a"
+  },
+  "name":"Hugo"
+}

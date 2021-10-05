@@ -1,0 +1,13 @@
+{
+  "start":10053,
+  "end":10109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My family needed the money, so I try to help my mom, but",
+  "id":"3d5ef807-31ee-4bc3-81f8-20db467ea61a",
+  "params":{
+    "id":"3d5ef807-31ee-4bc3-81f8-20db467ea61a",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

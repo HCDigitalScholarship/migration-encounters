@@ -1,0 +1,13 @@
+{
+  "start":9370,
+  "end":9400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\nout\u2014\n      \n      \nAnne:",
+  "id":"0103443c-5ace-4618-87e7-5fd8607e359a",
+  "params":{
+    "id":"0103443c-5ace-4618-87e7-5fd8607e359a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

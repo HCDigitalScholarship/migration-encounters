@@ -1,0 +1,12 @@
+{
+  "start":10729,
+  "end":10739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which one?",
+  "id":"b4b4fe73-c7c3-461b-9666-cf5732ee7c6c",
+  "params":{
+    "id":"8e71dc44-aa4b-4915-bdf9-43ac25324420"
+  },
+  "name":"Carolina"
+}

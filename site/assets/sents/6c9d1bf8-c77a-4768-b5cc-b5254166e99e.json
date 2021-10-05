@@ -1,0 +1,13 @@
+{
+  "start":3730,
+  "end":3753,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Until today, I haven't.",
+  "id":"6c9d1bf8-c77a-4768-b5cc-b5254166e99e",
+  "params":{
+    "id":"6c9d1bf8-c77a-4768-b5cc-b5254166e99e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

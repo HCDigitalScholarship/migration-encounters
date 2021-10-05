@@ -1,0 +1,13 @@
+{
+  "start":14997,
+  "end":15008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n there too",
+  "id":"ed3c76a6-1a98-48ef-84c8-54836b2805e6",
+  "params":{
+    "id":"ed3c76a6-1a98-48ef-84c8-54836b2805e6",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

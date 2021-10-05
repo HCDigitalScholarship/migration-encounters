@@ -1,0 +1,13 @@
+{
+  "start":6623,
+  "end":6674,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think by the time, we already had the three kids.",
+  "id":"2b8a41b8-4f41-48cf-8f45-6d87104ffbd8",
+  "params":{
+    "id":"2b8a41b8-4f41-48cf-8f45-6d87104ffbd8",
+    "class":"anno"
+  },
+  "name":"Many"
+}

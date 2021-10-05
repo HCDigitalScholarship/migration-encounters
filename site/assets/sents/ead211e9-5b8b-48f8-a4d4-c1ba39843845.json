@@ -1,0 +1,13 @@
+{
+  "start":4266,
+  "end":4332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it starts happening before you can get out of middle school.",
+  "id":"ead211e9-5b8b-48f8-a4d4-c1ba39843845",
+  "params":{
+    "id":"ead211e9-5b8b-48f8-a4d4-c1ba39843845",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

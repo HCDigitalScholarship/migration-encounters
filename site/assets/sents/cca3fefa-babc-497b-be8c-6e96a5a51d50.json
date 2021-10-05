@@ -1,0 +1,13 @@
+{
+  "start":19966,
+  "end":19989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I live with my grandma.",
+  "id":"cca3fefa-babc-497b-be8c-6e96a5a51d50",
+  "params":{
+    "id":"cca3fefa-babc-497b-be8c-6e96a5a51d50",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

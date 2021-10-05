@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1654,
+  "end":1656,
+  "text":"e violence or discrimination in your home country\n   before you left?\n \n \n   Josue: No.\n \n \n   Sergio: How old were you when you migrated?\n \n \n   Josue: I was 15.\n \n \n   Sergio: How did you enter the US? With a tourist visa, migrant visa, or\n   cross the border?\n \n \n   Josue: No, we crossed the border. No papers.\n \n \n   Sergio: Did you apply for political asylum in the US?\n \n \n   Josue: No, no I did",
+  "label":"GPE",
+  "id":"c5f6f154-f17e-46ca-82e1-c52bd1d326a6",
+  "name":"Josue"
+}

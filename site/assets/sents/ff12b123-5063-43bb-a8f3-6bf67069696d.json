@@ -1,0 +1,13 @@
+{
+  "start":44497,
+  "end":44567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of people from Haiti,\n   a lot of people from Guatemala.",
+  "id":"ff12b123-5063-43bb-a8f3-6bf67069696d",
+  "params":{
+    "id":"ff12b123-5063-43bb-a8f3-6bf67069696d",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

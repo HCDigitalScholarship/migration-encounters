@@ -1,0 +1,12 @@
+{
+  "start":3723,
+  "end":3741,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On the second one.",
+  "id":"d8cc1933-2aa9-468f-bc98-1ed7862db9d0",
+  "params":{
+    "id":"043da517-bbf5-4d04-ad8f-4dbb622c7c14"
+  },
+  "name":"Frank"
+}

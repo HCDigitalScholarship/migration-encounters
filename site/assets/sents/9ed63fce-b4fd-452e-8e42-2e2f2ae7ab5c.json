@@ -1,0 +1,13 @@
+{
+  "start":15094,
+  "end":15197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\nalready an inspector trainee for both magnetic particle and for fluorescent\npenetrant inspection.",
+  "id":"9ed63fce-b4fd-452e-8e42-2e2f2ae7ab5c",
+  "params":{
+    "id":"9ed63fce-b4fd-452e-8e42-2e2f2ae7ab5c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6164,
+  "end":6192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I want to be grumpy.",
+  "id":"9f5cd916-37e4-4cc4-9e75-c27bd25eae8f",
+  "params":{
+    "id":"378b0a50-ebca-4a28-9d25-995483b73c6d"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29673,
+  "end":29690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's\n   wrong?\"",
+  "id":"044b94e0-2493-454a-8e15-96379696a383",
+  "params":{
+    "id":"044b94e0-2493-454a-8e15-96379696a383",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

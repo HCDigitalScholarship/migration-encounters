@@ -1,0 +1,12 @@
+{
+  "start":11328,
+  "end":11351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had different jobs.",
+  "id":"e2d53b2f-3855-4635-8679-24d8e7036215",
+  "params":{
+    "id":"25f3714a-b84d-4043-8cbe-e68b7bbd3216"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":12088,
+  "end":12104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my motto.",
+  "id":"a0da0e80-5921-4585-87c2-a85d8c801e27",
+  "params":{
+    "id":"47cb5a06-4b01-4222-8afa-2bd82fc6f0fc"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30690,
+  "end":30710,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is not for me.\"",
+  "id":"e38c1243-81a7-4c42-aebc-d278090d713a",
+  "params":{
+    "id":"e38c1243-81a7-4c42-aebc-d278090d713a",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

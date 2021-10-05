@@ -1,0 +1,13 @@
+{
+  "start":15076,
+  "end":15107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Talk to the guy, say what's up.",
+  "id":"99f93f1c-439b-4d5d-a16d-9c663f1acc1f",
+  "params":{
+    "id":"99f93f1c-439b-4d5d-a16d-9c663f1acc1f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

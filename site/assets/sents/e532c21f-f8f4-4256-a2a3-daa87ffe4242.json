@@ -1,0 +1,13 @@
+{
+  "start":34252,
+  "end":34324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like a concentration camp, so\n   you don't want to go to jail here.",
+  "id":"e532c21f-f8f4-4256-a2a3-daa87ffe4242",
+  "params":{
+    "id":"e532c21f-f8f4-4256-a2a3-daa87ffe4242",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

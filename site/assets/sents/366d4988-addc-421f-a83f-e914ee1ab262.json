@@ -1,0 +1,13 @@
+{
+  "start":20451,
+  "end":20470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that what it is?",
+  "id":"366d4988-addc-421f-a83f-e914ee1ab262",
+  "params":{
+    "id":"366d4988-addc-421f-a83f-e914ee1ab262",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

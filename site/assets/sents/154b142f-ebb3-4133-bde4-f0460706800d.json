@@ -1,0 +1,13 @@
+{
+  "start":20188,
+  "end":20197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did it.",
+  "id":"154b142f-ebb3-4133-bde4-f0460706800d",
+  "params":{
+    "id":"154b142f-ebb3-4133-bde4-f0460706800d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

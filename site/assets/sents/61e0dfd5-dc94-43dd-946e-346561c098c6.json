@@ -1,0 +1,13 @@
+{
+  "start":12500,
+  "end":12611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like I said, she's from the big city too, so\n   it's not just the cultural difference, but it's like a big city",
+  "id":"61e0dfd5-dc94-43dd-946e-346561c098c6",
+  "params":{
+    "id":"61e0dfd5-dc94-43dd-946e-346561c098c6",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

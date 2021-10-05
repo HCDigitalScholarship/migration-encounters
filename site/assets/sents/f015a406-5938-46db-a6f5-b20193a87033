@@ -1,0 +1,12 @@
+{
+  "start":7570,
+  "end":7592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pablo: To like 17, 18.",
+  "id":"f015a406-5938-46db-a6f5-b20193a87033",
+  "params":{
+    "id":"3235d93a-0772-4942-97d9-a48ae8b80c30"
+  },
+  "name":"Pablo"
+}

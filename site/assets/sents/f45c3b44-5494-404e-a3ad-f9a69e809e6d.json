@@ -1,0 +1,13 @@
+{
+  "start":1580,
+  "end":1629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"Yes, we eat all\n of those.\" \u201cAll of those?",
+  "id":"f45c3b44-5494-404e-a3ad-f9a69e809e6d",
+  "params":{
+    "id":"f45c3b44-5494-404e-a3ad-f9a69e809e6d",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

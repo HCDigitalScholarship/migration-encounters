@@ -1,0 +1,13 @@
+{
+  "start":7786,
+  "end":7875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   would go to the park, play a little bit of soccer, and go to the movie\n   theaters.",
+  "id":"11deeacb-38bd-45ff-97ae-6f303f78ee7d",
+  "params":{
+    "id":"11deeacb-38bd-45ff-97ae-6f303f78ee7d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

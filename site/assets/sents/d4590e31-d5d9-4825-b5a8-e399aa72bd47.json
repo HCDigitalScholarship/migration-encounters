@@ -1,0 +1,13 @@
+{
+  "start":24754,
+  "end":24812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I stood\n   up, and I was like, \"What have you got to say?\"",
+  "id":"d4590e31-d5d9-4825-b5a8-e399aa72bd47",
+  "params":{
+    "id":"d4590e31-d5d9-4825-b5a8-e399aa72bd47",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

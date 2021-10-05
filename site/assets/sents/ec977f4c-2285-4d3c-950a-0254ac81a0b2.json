@@ -1,0 +1,13 @@
+{
+  "start":35532,
+  "end":35619,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Actually it's great because my salary can improve three times as much as\n   before.",
+  "id":"ec977f4c-2285-4d3c-950a-0254ac81a0b2",
+  "params":{
+    "id":"ec977f4c-2285-4d3c-950a-0254ac81a0b2",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15259,
+  "end":15281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which is in Vancouver?",
+  "id":"a07b883e-402c-441c-a50b-fad89915470e",
+  "params":{
+    "id":"a07b883e-402c-441c-a50b-fad89915470e",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

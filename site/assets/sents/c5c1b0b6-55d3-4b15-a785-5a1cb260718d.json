@@ -1,0 +1,13 @@
+{
+  "start":27121,
+  "end":27147,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: Senior year.",
+  "id":"c5c1b0b6-55d3-4b15-a785-5a1cb260718d",
+  "params":{
+    "id":"c5c1b0b6-55d3-4b15-a785-5a1cb260718d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

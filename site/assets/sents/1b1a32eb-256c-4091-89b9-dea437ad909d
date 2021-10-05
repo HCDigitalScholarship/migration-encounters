@@ -1,0 +1,12 @@
+{
+  "start":6599,
+  "end":6631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So she sends you back to Mexico?",
+  "id":"1b1a32eb-256c-4091-89b9-dea437ad909d",
+  "params":{
+    "id":"cfbff9ee-5a74-47c4-b026-d3539a02e981"
+  },
+  "name":"Diana"
+}

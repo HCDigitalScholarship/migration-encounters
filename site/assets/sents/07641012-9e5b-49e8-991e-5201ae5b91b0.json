@@ -1,0 +1,13 @@
+{
+  "start":20792,
+  "end":20806,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm all right.",
+  "id":"07641012-9e5b-49e8-991e-5201ae5b91b0",
+  "params":{
+    "id":"07641012-9e5b-49e8-991e-5201ae5b91b0",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9021,
+  "end":9090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's because pretty much all of the\n   people are Mexican or Chicano.",
+  "id":"0b28aab8-5ec9-45b6-b08a-00c851af031d",
+  "params":{
+    "id":"0b28aab8-5ec9-45b6-b08a-00c851af031d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

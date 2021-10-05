@@ -1,0 +1,12 @@
+{
+  "start":5544,
+  "end":5636,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom used to always say that we were kind of nomads\n   because we weren't from the States.",
+  "id":"4a09f234-19b9-47d6-ab93-a1dce7f6b54b",
+  "params":{
+    "id":"e0990dc1-eb65-4e8c-95e4-b4be62632179"
+  },
+  "name":"Laila"
+}

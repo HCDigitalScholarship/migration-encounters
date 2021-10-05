@@ -1,0 +1,12 @@
+{
+  "start":31176,
+  "end":31203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about this company!",
+  "id":"f7ae1f5c-55f3-4818-b219-1745909e8ba4",
+  "params":{
+    "id":"d53d9875-4d6c-4f80-ace0-c40b16ed4bc9"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42319,
+  "end":42348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I'd\n   see her every day.",
+  "id":"5eef1cb7-c069-4681-b3fc-bb073441e0eb",
+  "params":{
+    "id":"a8ff75be-96b8-47e7-b7f6-a7a74966de66"
+  },
+  "name":"Cris"
+}

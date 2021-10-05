@@ -1,0 +1,13 @@
+{
+  "start":4318,
+  "end":4364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All my friends, of course, they were American.",
+  "id":"c61a4da4-a94b-4395-86af-aa276c1c2939",
+  "params":{
+    "id":"c61a4da4-a94b-4395-86af-aa276c1c2939",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

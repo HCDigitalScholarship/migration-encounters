@@ -1,0 +1,12 @@
+{
+  "start":1610,
+  "end":1665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I came across\n this guy called Robert Johnson.",
+  "id":"ae36a4a2-4b3e-495a-8c47-5b07e5d0adbe",
+  "params":{
+    "id":"eadd5032-ea9b-4762-98ff-86e2ace56959"
+  },
+  "name":"Billy"
+}

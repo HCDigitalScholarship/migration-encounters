@@ -1,0 +1,13 @@
+{
+  "start":22881,
+  "end":22936,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want\n     something that can remind me of the States.",
+  "id":"d4475fbd-39fe-4da6-96b9-b20486d1677c",
+  "params":{
+    "id":"d4475fbd-39fe-4da6-96b9-b20486d1677c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

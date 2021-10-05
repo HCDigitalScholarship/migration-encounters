@@ -1,0 +1,12 @@
+{
+  "start":24205,
+  "end":24278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   hurts me sometimes, but at the end of the day, I made the decision.",
+  "id":"a4ddfcba-71ce-4990-9397-f771582c7127",
+  "params":{
+    "id":"fdfb047e-93a6-42f7-9690-a3f39cf2896e"
+  },
+  "name":"Kevin"
+}

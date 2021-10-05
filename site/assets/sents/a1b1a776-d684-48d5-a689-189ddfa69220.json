@@ -1,0 +1,13 @@
+{
+  "start":56137,
+  "end":56145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Awesome.",
+  "id":"a1b1a776-d684-48d5-a689-189ddfa69220",
+  "params":{
+    "id":"a1b1a776-d684-48d5-a689-189ddfa69220",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

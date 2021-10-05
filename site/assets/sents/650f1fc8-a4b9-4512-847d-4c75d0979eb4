@@ -1,0 +1,12 @@
+{
+  "start":23966,
+  "end":24006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After I\n   had my son, I really stopped.",
+  "id":"650f1fc8-a4b9-4512-847d-4c75d0979eb4",
+  "params":{
+    "id":"64b62961-da2d-4a95-b21a-653bc08fce97"
+  },
+  "name":"Kevin"
+}

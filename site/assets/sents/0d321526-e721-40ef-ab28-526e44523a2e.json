@@ -1,0 +1,13 @@
+{
+  "start":4036,
+  "end":4062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we moved to California.",
+  "id":"0d321526-e721-40ef-ab28-526e44523a2e",
+  "params":{
+    "id":"0d321526-e721-40ef-ab28-526e44523a2e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

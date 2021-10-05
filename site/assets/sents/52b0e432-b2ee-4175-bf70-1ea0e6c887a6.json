@@ -1,0 +1,13 @@
+{
+  "start":27746,
+  "end":27824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told him, \"Either\n   way, somehow I'm going to come back, legal or illegal.\"",
+  "id":"52b0e432-b2ee-4175-bf70-1ea0e6c887a6",
+  "params":{
+    "id":"52b0e432-b2ee-4175-bf70-1ea0e6c887a6",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

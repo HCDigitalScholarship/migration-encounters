@@ -1,0 +1,13 @@
+{
+  "start":21079,
+  "end":21097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was horrible.",
+  "id":"e7a1f358-761c-48e6-9a7e-406eeeb6fe39",
+  "params":{
+    "id":"e7a1f358-761c-48e6-9a7e-406eeeb6fe39",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

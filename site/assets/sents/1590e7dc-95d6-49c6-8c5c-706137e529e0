@@ -1,0 +1,12 @@
+{
+  "start":7627,
+  "end":7666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Your dad is somewhere in ____, too.",
+  "id":"1590e7dc-95d6-49c6-8c5c-706137e529e0",
+  "params":{
+    "id":"5b1a8fd8-fde2-4dab-985f-20cff4b5d2fb"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":72157,
+  "end":72218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Stuff that\n you're saying that I'm a good person to society.\"",
+  "id":"f45cafed-5c17-4a3f-a2ee-d98b8a04bc5b",
+  "params":{
+    "id":"cb5ae9bd-3aa3-481c-8ff0-f87ecb4b3dd7"
+  },
+  "name":"Axel"
+}

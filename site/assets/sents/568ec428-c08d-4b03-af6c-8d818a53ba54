@@ -1,0 +1,12 @@
+{
+  "start":10985,
+  "end":11026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did that help or hurt or have any effect?",
+  "id":"568ec428-c08d-4b03-af6c-8d818a53ba54",
+  "params":{
+    "id":"50f09e80-0e19-4273-bb70-c4b13145f374"
+  },
+  "name":"Abel"
+}

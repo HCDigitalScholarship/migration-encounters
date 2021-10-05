@@ -1,0 +1,13 @@
+{
+  "start":10229,
+  "end":10253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And how old are you now?",
+  "id":"e92c8cf0-fc20-4264-9aa0-aaa61e6c82c0",
+  "params":{
+    "id":"e92c8cf0-fc20-4264-9aa0-aaa61e6c82c0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

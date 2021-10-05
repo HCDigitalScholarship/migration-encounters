@@ -1,0 +1,12 @@
+{
+  "start":29404,
+  "end":29427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never fixed anything.",
+  "id":"bc8644e7-d292-4ed2-951d-3dbb4d3de5fe",
+  "params":{
+    "id":"431ece91-b546-4b62-af11-0d2d60bd1976"
+  },
+  "name":"Mike"
+}

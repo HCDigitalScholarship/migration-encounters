@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":216,
+  "end":221,
+  "text":"a.\n \n <br/>\n \n     Anita: Soy Anita y estoy aqu\u00ed con Maria\u2014la mam\u00e1 de Sylent.\n \n <br/>\n \n     Maria: [Sonido de afirmaci\u00f3n] As\u00ed es.\n \n <br/>\n \n     Anita much\u00edsimas gracias por venir.\n \n <br/>\n \n     Maria: No al contrario\u2014\n \n <br/>\n <br/>\n \n     Anita: as\u00ed hacemos la conexi\u00f3n. Bueno, mi primera pregunta ser\u00eda \u00bfPor qu\u00e9\n     usted tom\u00f3 la decisi\u00f3n de emigrar a Estados Unidos?\n \n <br/>\n \n     Maria: En e",
+  "label":"PERSON",
+  "id":"675b8d0f-1bd1-4dc6-955d-b549de9fc0cc",
+  "name":"Maria"
+}

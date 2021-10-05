@@ -1,0 +1,13 @@
+{
+  "start":34195,
+  "end":34228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He pocketed some of the\n   money.",
+  "id":"dddf65ed-3c05-460b-b854-9723fc83abb1",
+  "params":{
+    "id":"dddf65ed-3c05-460b-b854-9723fc83abb1",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

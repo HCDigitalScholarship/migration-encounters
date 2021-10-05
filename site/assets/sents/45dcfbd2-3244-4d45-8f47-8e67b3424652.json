@@ -1,0 +1,13 @@
+{
+  "start":33246,
+  "end":33260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Anne laughs].",
+  "id":"45dcfbd2-3244-4d45-8f47-8e67b3424652",
+  "params":{
+    "id":"45dcfbd2-3244-4d45-8f47-8e67b3424652",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

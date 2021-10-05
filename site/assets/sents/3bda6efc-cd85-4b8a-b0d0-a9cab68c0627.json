@@ -1,0 +1,13 @@
+{
+  "start":29887,
+  "end":29917,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know you know how to do it.\"",
+  "id":"3bda6efc-cd85-4b8a-b0d0-a9cab68c0627",
+  "params":{
+    "id":"3bda6efc-cd85-4b8a-b0d0-a9cab68c0627",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

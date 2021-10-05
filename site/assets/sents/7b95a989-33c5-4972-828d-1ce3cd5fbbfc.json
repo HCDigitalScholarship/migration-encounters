@@ -1,0 +1,13 @@
+{
+  "start":39070,
+  "end":39111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every Saturday, I was going to\n meetings.",
+  "id":"7b95a989-33c5-4972-828d-1ce3cd5fbbfc",
+  "params":{
+    "id":"7b95a989-33c5-4972-828d-1ce3cd5fbbfc",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

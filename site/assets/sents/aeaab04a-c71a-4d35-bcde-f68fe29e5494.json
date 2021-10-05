@@ -1,0 +1,13 @@
+{
+  "start":21191,
+  "end":21222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n     just cooking lasagna",
+  "id":"aeaab04a-c71a-4d35-bcde-f68fe29e5494",
+  "params":{
+    "id":"aeaab04a-c71a-4d35-bcde-f68fe29e5494",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

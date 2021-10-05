@@ -1,0 +1,13 @@
+{
+  "start":23782,
+  "end":23791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 16.",
+  "id":"eda9175e-e555-4c7a-8e93-10ca5fcdf72f",
+  "params":{
+    "id":"eda9175e-e555-4c7a-8e93-10ca5fcdf72f",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

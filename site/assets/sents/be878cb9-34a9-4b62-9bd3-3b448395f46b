@@ -1,0 +1,12 @@
+{
+  "start":23069,
+  "end":23125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Unfortunately, that's what I would have tried to do.",
+  "id":"be878cb9-34a9-4b62-9bd3-3b448395f46b",
+  "params":{
+    "id":"0f63013e-3138-4989-81fb-1c7691e218f2"
+  },
+  "name":"Hugo"
+}

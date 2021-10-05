@@ -1,0 +1,13 @@
+{
+  "start":1108,
+  "end":1142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It actually took us\n   three days.",
+  "id":"9de0e7d3-e51e-40cc-85ca-9a91e8a3852c",
+  "params":{
+    "id":"9de0e7d3-e51e-40cc-85ca-9a91e8a3852c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

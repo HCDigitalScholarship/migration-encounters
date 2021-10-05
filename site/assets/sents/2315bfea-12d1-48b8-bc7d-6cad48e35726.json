@@ -1,0 +1,13 @@
+{
+  "start":40067,
+  "end":40085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   don't have \u2013",
+  "id":"2315bfea-12d1-48b8-bc7d-6cad48e35726",
+  "params":{
+    "id":"2315bfea-12d1-48b8-bc7d-6cad48e35726",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

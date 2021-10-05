@@ -1,0 +1,12 @@
+{
+  "start":32354,
+  "end":32401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the only thing that I live by, you know?",
+  "id":"1342cae9-dc45-43c6-b972-53827335e5ec",
+  "params":{
+    "id":"ecc2a7d5-5864-4f11-9899-42cf7ea7903e"
+  },
+  "name":"Ilse"
+}

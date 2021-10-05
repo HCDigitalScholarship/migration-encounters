@@ -1,0 +1,12 @@
+{
+  "start":31941,
+  "end":32005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once I got\n   deported, I just, you know, all I do here is work.",
+  "id":"c03314ef-e8ca-4391-8a8e-457de78f73d1",
+  "params":{
+    "id":"2c8051d3-716f-481e-883d-4232869f3825"
+  },
+  "name":"Kevin"
+}

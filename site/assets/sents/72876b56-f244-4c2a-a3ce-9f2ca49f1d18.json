@@ -1,0 +1,13 @@
+{
+  "start":320,
+  "end":422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were staying in a one-bedroom house with my\n grandpa, it was all of us, it was a really small room.",
+  "id":"72876b56-f244-4c2a-a3ce-9f2ca49f1d18",
+  "params":{
+    "id":"72876b56-f244-4c2a-a3ce-9f2ca49f1d18",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

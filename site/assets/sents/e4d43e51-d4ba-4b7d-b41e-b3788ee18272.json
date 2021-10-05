@@ -1,0 +1,13 @@
+{
+  "start":27687,
+  "end":27747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like it was my fault that my parents\n   got divorced.",
+  "id":"e4d43e51-d4ba-4b7d-b41e-b3788ee18272",
+  "params":{
+    "id":"e4d43e51-d4ba-4b7d-b41e-b3788ee18272",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

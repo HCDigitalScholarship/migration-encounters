@@ -1,0 +1,13 @@
+{
+  "start":2991,
+  "end":3015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was your mom his sister?",
+  "id":"7fe66d98-fc26-4cf6-8fae-6fbe4dd3980a",
+  "params":{
+    "id":"7fe66d98-fc26-4cf6-8fae-6fbe4dd3980a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1740,
+  "end":1772,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I move into my own\n   apartment.",
+  "id":"4bcaaedb-8d4b-4a8a-9f78-620bee43921f",
+  "params":{
+    "id":"4bcaaedb-8d4b-4a8a-9f78-620bee43921f",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

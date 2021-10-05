@@ -1,0 +1,13 @@
+{
+  "start":24458,
+  "end":24614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There are some phones that you will have to let the client speak,\n   even if you put it on mute, they will be like, \"No, I don't want you to go\n   on mute.\"",
+  "id":"ca4accf1-524f-482a-9a98-03179f5c5319",
+  "params":{
+    "id":"ca4accf1-524f-482a-9a98-03179f5c5319",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

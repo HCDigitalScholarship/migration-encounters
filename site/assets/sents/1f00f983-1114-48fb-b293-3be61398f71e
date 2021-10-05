@@ -1,0 +1,12 @@
+{
+  "start":20133,
+  "end":20153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's it known for?",
+  "id":"1f00f983-1114-48fb-b293-3be61398f71e",
+  "params":{
+    "id":"e41a42a4-22e0-4500-9495-9c4ac58dc102"
+  },
+  "name":"Kevin"
+}

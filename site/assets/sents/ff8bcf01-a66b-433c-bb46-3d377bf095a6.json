@@ -1,0 +1,12 @@
+{
+  "start":30581,
+  "end":30639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What does the U.S. lose by\n   deporting people like Joana?",
+  "id":"ff8bcf01-a66b-433c-bb46-3d377bf095a6",
+  "params":{
+    "id":"2a896be7-8a6f-432b-a385-8f1a4565169d"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14035,
+  "end":14050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old was he?",
+  "id":"ad45527f-dae6-4a48-a9e9-46bc662e2b0b",
+  "params":{
+    "id":"31e1969d-9b76-477d-8fc4-e2f0d08f8bd6"
+  },
+  "name":"Luis B"
+}

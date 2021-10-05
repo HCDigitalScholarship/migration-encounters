@@ -1,0 +1,13 @@
+{
+  "start":12098,
+  "end":12157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it was May when they told him that he was going to die.",
+  "id":"46997ddf-73e2-4252-abf5-7e0f80eb1fc0",
+  "params":{
+    "id":"46997ddf-73e2-4252-abf5-7e0f80eb1fc0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

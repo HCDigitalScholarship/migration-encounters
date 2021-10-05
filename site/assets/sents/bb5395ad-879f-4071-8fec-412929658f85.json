@@ -1,0 +1,13 @@
+{
+  "start":49084,
+  "end":49129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, so you live with your brother and sister?",
+  "id":"bb5395ad-879f-4071-8fec-412929658f85",
+  "params":{
+    "id":"bb5395ad-879f-4071-8fec-412929658f85",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

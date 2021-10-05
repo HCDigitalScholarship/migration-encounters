@@ -1,0 +1,13 @@
+{
+  "start":5875,
+  "end":5919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was\n   he\u2014\n \n \n   Mike: My dad\u2014\n \n \n   Anne:",
+  "id":"431578cf-5831-4d6e-abe9-81841009355a",
+  "params":{
+    "id":"431578cf-5831-4d6e-abe9-81841009355a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

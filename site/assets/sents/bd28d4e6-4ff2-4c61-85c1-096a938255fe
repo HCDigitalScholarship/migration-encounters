@@ -1,0 +1,12 @@
+{
+  "start":18030,
+  "end":18050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They stick with you.",
+  "id":"bd28d4e6-4ff2-4c61-85c1-096a938255fe",
+  "params":{
+    "id":"14f17611-4b5d-4926-a95f-786ac0677596"
+  },
+  "name":"Beto"
+}

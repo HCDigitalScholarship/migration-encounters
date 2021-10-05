@@ -1,0 +1,13 @@
+{
+  "start":45722,
+  "end":45738,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She really does.",
+  "id":"f285b7da-e92f-4e82-8975-45be0668a333",
+  "params":{
+    "id":"f285b7da-e92f-4e82-8975-45be0668a333",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

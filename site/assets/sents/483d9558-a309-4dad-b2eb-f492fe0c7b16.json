@@ -1,0 +1,13 @@
+{
+  "start":10903,
+  "end":10929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n want to be here.",
+  "id":"483d9558-a309-4dad-b2eb-f492fe0c7b16",
+  "params":{
+    "id":"483d9558-a309-4dad-b2eb-f492fe0c7b16",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

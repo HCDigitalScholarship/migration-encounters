@@ -1,0 +1,13 @@
+{
+  "start":8476,
+  "end":8569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you got to the US for the last\n   time, you went through car and didn't have any issues.",
+  "id":"3e39e241-2da8-48b4-b0c8-9ea82d273b03",
+  "params":{
+    "id":"3e39e241-2da8-48b4-b0c8-9ea82d273b03",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

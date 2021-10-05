@@ -1,0 +1,13 @@
+{
+  "start":910,
+  "end":937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went until twelfth grade.",
+  "id":"e787c15b-4d87-4e65-a0d0-41687ca3307b",
+  "params":{
+    "id":"e787c15b-4d87-4e65-a0d0-41687ca3307b",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

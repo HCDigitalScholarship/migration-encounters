@@ -1,0 +1,12 @@
+{
+  "start":34219,
+  "end":34254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was so\n   mad that day, man.",
+  "id":"7b33b54c-39b4-40cd-afbd-dd1cb1ef8f6c",
+  "params":{
+    "id":"383b14ac-dd4c-4a7d-9f86-ea8789a4ae63"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1873,
+  "end":1918,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still remember eating cereal with\n   water.",
+  "id":"2bca53ae-4134-4e7a-9b11-50c72ac7ad04",
+  "params":{
+    "id":"2bca53ae-4134-4e7a-9b11-50c72ac7ad04",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

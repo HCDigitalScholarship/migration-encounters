@@ -1,0 +1,13 @@
+{
+  "start":30360,
+  "end":30373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"very\n   rare.",
+  "id":"8162e187-2d3d-44af-89c4-1cca5b1e3496",
+  "params":{
+    "id":"8162e187-2d3d-44af-89c4-1cca5b1e3496",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

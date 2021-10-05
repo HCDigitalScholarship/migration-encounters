@@ -1,0 +1,13 @@
+{
+  "start":19551,
+  "end":19617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the future, you\n   never know if there would be an opportunity.",
+  "id":"1ffc628e-eaa5-4f6a-b297-fb6b245910db",
+  "params":{
+    "id":"1ffc628e-eaa5-4f6a-b297-fb6b245910db",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

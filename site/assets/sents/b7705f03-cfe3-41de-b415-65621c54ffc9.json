@@ -1,0 +1,13 @@
+{
+  "start":19194,
+  "end":19226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was tough for me, honestly.",
+  "id":"b7705f03-cfe3-41de-b415-65621c54ffc9",
+  "params":{
+    "id":"b7705f03-cfe3-41de-b415-65621c54ffc9",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":230,
+  "end":256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were just not very...",
+  "id":"40a674d2-d7e6-45a0-b479-e2a1485b42b3",
+  "params":{
+    "id":"40a674d2-d7e6-45a0-b479-e2a1485b42b3",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

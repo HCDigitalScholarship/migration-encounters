@@ -1,0 +1,13 @@
+{
+  "start":3004,
+  "end":3068,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The first time I was detained for maybe about six, seven months.",
+  "id":"24f5aac8-a545-4150-9d83-cfa8314c8a03",
+  "params":{
+    "id":"24f5aac8-a545-4150-9d83-cfa8314c8a03",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

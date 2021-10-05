@@ -1,0 +1,12 @@
+{
+  "start":35538,
+  "end":35573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   mean they didn't listen to me.",
+  "id":"aa2fbe2c-d537-47ac-b323-f54c8fdf9f3c",
+  "params":{
+    "id":"df7dbf33-1922-460b-8a10-2fdc7edf43b1"
+  },
+  "name":"Hugo"
+}

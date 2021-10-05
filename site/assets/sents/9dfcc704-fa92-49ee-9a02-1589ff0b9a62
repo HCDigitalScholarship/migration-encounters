@@ -1,0 +1,12 @@
+{
+  "start":20090,
+  "end":20113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you expecting?",
+  "id":"9dfcc704-fa92-49ee-9a02-1589ff0b9a62",
+  "params":{
+    "id":"c0873603-d87d-456a-8b14-43bdeb8cf0de"
+  },
+  "name":"Olimpya"
+}

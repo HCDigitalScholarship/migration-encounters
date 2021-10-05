@@ -1,0 +1,13 @@
+{
+  "start":10526,
+  "end":10550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"No, I didn't.",
+  "id":"2944e74c-fb7e-4f8d-92e5-102f5f7fe4aa",
+  "params":{
+    "id":"2944e74c-fb7e-4f8d-92e5-102f5f7fe4aa",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

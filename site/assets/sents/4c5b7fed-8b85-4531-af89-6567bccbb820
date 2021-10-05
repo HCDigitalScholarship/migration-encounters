@@ -1,0 +1,12 @@
+{
+  "start":51174,
+  "end":51207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"Hey man, you did it.\"",
+  "id":"4c5b7fed-8b85-4531-af89-6567bccbb820",
+  "params":{
+    "id":"b40b8181-a216-4603-83e6-358f7a2412ee"
+  },
+  "name":"Axel"
+}

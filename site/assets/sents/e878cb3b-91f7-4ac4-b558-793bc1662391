@@ -1,0 +1,12 @@
+{
+  "start":17380,
+  "end":17433,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I haven't been with my dad so he can't\n   support me.",
+  "id":"e878cb3b-91f7-4ac4-b558-793bc1662391",
+  "params":{
+    "id":"edcb1005-d2eb-4f24-8d94-44c484ca5976"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16567,
+  "end":16582,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got divorced.",
+  "id":"0b9b5d81-4077-4c59-97d2-ff163595674b",
+  "params":{
+    "id":"0b9b5d81-4077-4c59-97d2-ff163595674b",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

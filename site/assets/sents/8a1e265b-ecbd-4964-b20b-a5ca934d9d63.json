@@ -1,0 +1,12 @@
+{
+  "start":9374,
+  "end":9428,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a girlfriend, and she is\n   becoming a citizen.",
+  "id":"8a1e265b-ecbd-4964-b20b-a5ca934d9d63",
+  "params":{
+    "id":"bd2f5c5f-44cd-4263-ae0c-348e9d7d0e7a"
+  },
+  "name":"Erik"
+}

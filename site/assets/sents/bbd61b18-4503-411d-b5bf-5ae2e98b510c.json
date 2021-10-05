@@ -1,0 +1,13 @@
+{
+  "start":53581,
+  "end":53619,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't go to\n   work to do nothing.",
+  "id":"bbd61b18-4503-411d-b5bf-5ae2e98b510c",
+  "params":{
+    "id":"bbd61b18-4503-411d-b5bf-5ae2e98b510c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

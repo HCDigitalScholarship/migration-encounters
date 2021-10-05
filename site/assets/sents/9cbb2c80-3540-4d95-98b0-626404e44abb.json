@@ -1,0 +1,13 @@
+{
+  "start":22708,
+  "end":22751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If somebody gets me a book, \"You know what?",
+  "id":"9cbb2c80-3540-4d95-98b0-626404e44abb",
+  "params":{
+    "id":"9cbb2c80-3540-4d95-98b0-626404e44abb",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

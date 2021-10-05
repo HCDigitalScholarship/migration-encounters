@@ -1,0 +1,12 @@
+{
+  "start":32768,
+  "end":32801,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was,\n   \"What's going on here?\"",
+  "id":"2684a34c-6e6e-4873-869e-19370e9438e0",
+  "params":{
+    "id":"3211b7ed-0ec2-4b17-9dd7-b20b80cdd675"
+  },
+  "name":"Cris"
+}

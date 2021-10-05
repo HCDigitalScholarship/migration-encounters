@@ -1,0 +1,13 @@
+{
+  "start":28884,
+  "end":28924,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y me dec\u00eda, \u201c\u00bfMami yo puedo hacer eso?\u201d.",
+  "id":"8ac932da-3c40-4ef5-a74c-91f8dd935de9",
+  "params":{
+    "id":"8ac932da-3c40-4ef5-a74c-91f8dd935de9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

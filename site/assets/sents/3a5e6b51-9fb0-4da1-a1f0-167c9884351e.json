@@ -1,0 +1,13 @@
+{
+  "start":23620,
+  "end":23655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, yeah, so you knew what to do?",
+  "id":"3a5e6b51-9fb0-4da1-a1f0-167c9884351e",
+  "params":{
+    "id":"3a5e6b51-9fb0-4da1-a1f0-167c9884351e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

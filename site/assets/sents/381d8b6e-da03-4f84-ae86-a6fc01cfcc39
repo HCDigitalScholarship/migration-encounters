@@ -1,0 +1,12 @@
+{
+  "start":8085,
+  "end":8106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't have to feel",
+  "id":"381d8b6e-da03-4f84-ae86-a6fc01cfcc39",
+  "params":{
+    "id":"b3e1f7ba-772b-448e-8bd8-13366b49d536"
+  },
+  "name":"Luis B"
+}

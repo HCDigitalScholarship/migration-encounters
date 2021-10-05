@@ -1,0 +1,13 @@
+{
+  "start":27885,
+  "end":27910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Man, what is this juice?\"",
+  "id":"baf84060-bb82-4db6-9074-9552189743ef",
+  "params":{
+    "id":"baf84060-bb82-4db6-9074-9552189743ef",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

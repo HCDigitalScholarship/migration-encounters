@@ -1,0 +1,13 @@
+{
+  "start":6184,
+  "end":6228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, so sometimes there's hair in the food.",
+  "id":"59b6a7fc-c6d0-44e3-a497-452233164182",
+  "params":{
+    "id":"59b6a7fc-c6d0-44e3-a497-452233164182",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

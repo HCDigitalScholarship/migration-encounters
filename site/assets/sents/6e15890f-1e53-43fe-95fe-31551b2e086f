@@ -1,0 +1,12 @@
+{
+  "start":18371,
+  "end":18406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many items are in the receipts?",
+  "id":"6e15890f-1e53-43fe-95fe-31551b2e086f",
+  "params":{
+    "id":"1b0a402c-4c3d-4653-9da1-29311cf0ddaa"
+  },
+  "name":"Daniel"
+}

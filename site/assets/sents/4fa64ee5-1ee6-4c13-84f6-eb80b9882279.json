@@ -1,0 +1,12 @@
+{
+  "start":8611,
+  "end":8630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What state is that?",
+  "id":"4fa64ee5-1ee6-4c13-84f6-eb80b9882279",
+  "params":{
+    "id":"843e6286-4c49-46bc-a52c-fbfd1d35e0b6"
+  },
+  "name":"Cris"
+}

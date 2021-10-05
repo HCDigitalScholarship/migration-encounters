@@ -1,0 +1,12 @@
+{
+  "start":32019,
+  "end":32064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There is\n   something that people don't know.",
+  "id":"022f7c4b-a8e7-43df-a2bb-623e5719ab96",
+  "params":{
+    "id":"ae64bf65-2a11-4785-8526-ea146ed17b94"
+  },
+  "name":"Rodrigo"
+}

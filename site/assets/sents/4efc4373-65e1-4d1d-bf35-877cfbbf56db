@@ -1,0 +1,12 @@
+{
+  "start":11277,
+  "end":11307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Oh, I need some tennis shoes.",
+  "id":"4efc4373-65e1-4d1d-bf35-877cfbbf56db",
+  "params":{
+    "id":"0fa1ffe6-58fc-4a75-a9cc-1005cf870a7c"
+  },
+  "name":"Abel"
+}

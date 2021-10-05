@@ -1,0 +1,13 @@
+{
+  "start":15673,
+  "end":15706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said there were three things.",
+  "id":"90a5d7df-2f33-460e-b4d8-79eabfb61045",
+  "params":{
+    "id":"90a5d7df-2f33-460e-b4d8-79eabfb61045",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

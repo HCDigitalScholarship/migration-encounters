@@ -1,0 +1,13 @@
+{
+  "start":30648,
+  "end":30707,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I might be a tough guy, but you don't\n   touch a woman.",
+  "id":"dd9b183b-bda1-4f2e-b46b-d80a49dc53e6",
+  "params":{
+    "id":"dd9b183b-bda1-4f2e-b46b-d80a49dc53e6",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

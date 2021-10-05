@@ -1,0 +1,12 @@
+{
+  "start":13322,
+  "end":13348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got deported after that.",
+  "id":"ff82ba53-63f2-4eeb-9a87-7640b744c94d",
+  "params":{
+    "id":"2d32c519-1d83-4f32-9666-9987005931e7"
+  },
+  "name":"Many"
+}

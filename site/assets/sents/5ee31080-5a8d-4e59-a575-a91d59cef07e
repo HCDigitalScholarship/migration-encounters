@@ -1,0 +1,12 @@
+{
+  "start":3446,
+  "end":3472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why I did it.",
+  "id":"5ee31080-5a8d-4e59-a575-a91d59cef07e",
+  "params":{
+    "id":"068fbd8b-3f7d-4561-8484-b10e81a40e3c"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19481,
+  "end":19502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I like it though.",
+  "id":"8dcf820b-1b64-4a64-9ddb-c19425de6d52",
+  "params":{
+    "id":"8dcf820b-1b64-4a64-9ddb-c19425de6d52",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24530,
+  "end":24569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Thank you so much for your time Miguel.",
+  "id":"96cc6eea-ba08-4d56-b3da-c78f5a83cbaf",
+  "params":{
+    "id":"96cc6eea-ba08-4d56-b3da-c78f5a83cbaf",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

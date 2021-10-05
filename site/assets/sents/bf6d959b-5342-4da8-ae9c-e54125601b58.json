@@ -1,0 +1,13 @@
+{
+  "start":632,
+  "end":672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   know anything about English.",
+  "id":"bf6d959b-5342-4da8-ae9c-e54125601b58",
+  "params":{
+    "id":"bf6d959b-5342-4da8-ae9c-e54125601b58",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

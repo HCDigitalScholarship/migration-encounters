@@ -1,0 +1,13 @@
+{
+  "start":29209,
+  "end":29253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually wanted to go to\n   Salem College.",
+  "id":"47cd69d1-65fd-4bc2-9317-41c35a967d8c",
+  "params":{
+    "id":"47cd69d1-65fd-4bc2-9317-41c35a967d8c",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

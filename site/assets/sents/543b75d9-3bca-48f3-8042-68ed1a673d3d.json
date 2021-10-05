@@ -1,0 +1,13 @@
+{
+  "start":52304,
+  "end":52431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm starting my track and probably not this paycheck, I can\u2019t do it,\n   but next paycheck, next month, I will be able to do it.",
+  "id":"543b75d9-3bca-48f3-8042-68ed1a673d3d",
+  "params":{
+    "id":"543b75d9-3bca-48f3-8042-68ed1a673d3d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

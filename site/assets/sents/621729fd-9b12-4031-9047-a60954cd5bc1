@@ -1,0 +1,12 @@
+{
+  "start":52191,
+  "end":52262,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not going\n   to be able to do anything over there, it's so hard.",
+  "id":"621729fd-9b12-4031-9047-a60954cd5bc1",
+  "params":{
+    "id":"ada9fa90-1315-48cb-8626-754b0bf62eb0"
+  },
+  "name":"Rodolfo"
+}

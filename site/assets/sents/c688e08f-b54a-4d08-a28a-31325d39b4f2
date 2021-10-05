@@ -1,0 +1,12 @@
+{
+  "start":26163,
+  "end":26214,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe it was so that we don't end up on the street.",
+  "id":"c688e08f-b54a-4d08-a28a-31325d39b4f2",
+  "params":{
+    "id":"713ffb91-31c2-4a53-87ed-5f5d3a833fd1"
+  },
+  "name":"Billy"
+}

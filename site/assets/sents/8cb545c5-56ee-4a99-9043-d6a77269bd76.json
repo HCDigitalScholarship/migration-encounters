@@ -1,0 +1,13 @@
+{
+  "start":43016,
+  "end":43064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm in my room listening to music,\n   depressed.",
+  "id":"8cb545c5-56ee-4a99-9043-d6a77269bd76",
+  "params":{
+    "id":"8cb545c5-56ee-4a99-9043-d6a77269bd76",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

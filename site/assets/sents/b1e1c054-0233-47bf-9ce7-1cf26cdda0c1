@@ -1,0 +1,12 @@
+{
+  "start":44137,
+  "end":44158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to be a human.",
+  "id":"b1e1c054-0233-47bf-9ce7-1cf26cdda0c1",
+  "params":{
+    "id":"baa75751-44a4-4b03-a6e7-2fff75a03b05"
+  },
+  "name":"Sylent"
+}

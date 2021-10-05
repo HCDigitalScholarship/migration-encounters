@@ -1,0 +1,12 @@
+{
+  "start":5265,
+  "end":5277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, Juan.\"",
+  "id":"f129639e-3b68-4b2c-9766-c85b4dd511fb",
+  "params":{
+    "id":"a514f069-680e-426e-9d56-362459b03482"
+  },
+  "name":"Abel"
+}

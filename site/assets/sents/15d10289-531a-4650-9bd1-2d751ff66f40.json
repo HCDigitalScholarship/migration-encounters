@@ -1,0 +1,13 @@
+{
+  "start":35394,
+  "end":35509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even\n   though if you don't know them, or you haven't seen them, there's always\n   somebody that takes care of you.",
+  "id":"15d10289-531a-4650-9bd1-2d751ff66f40",
+  "params":{
+    "id":"15d10289-531a-4650-9bd1-2d751ff66f40",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

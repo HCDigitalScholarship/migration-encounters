@@ -1,0 +1,13 @@
+{
+  "start":23130,
+  "end":23226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have a horrible life because they can barely\n   get a job, they can barely feed their kids.",
+  "id":"b8003483-1f27-49a6-ab8c-0d7230fce104",
+  "params":{
+    "id":"b8003483-1f27-49a6-ab8c-0d7230fce104",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

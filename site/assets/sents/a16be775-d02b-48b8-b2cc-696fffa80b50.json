@@ -1,0 +1,13 @@
+{
+  "start":2628,
+  "end":2692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y yo dije, \u201cNo, esto no est\u00e1 bien \u00bfPor qu\u00e9 me pintan\n     as\u00ed?\u201d.",
+  "id":"a16be775-d02b-48b8-b2cc-696fffa80b50",
+  "params":{
+    "id":"a16be775-d02b-48b8-b2cc-696fffa80b50",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

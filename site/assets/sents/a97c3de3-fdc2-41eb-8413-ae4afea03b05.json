@@ -1,0 +1,13 @@
+{
+  "start":24249,
+  "end":24285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"$30,000 and just\n gave it to my dad.",
+  "id":"a97c3de3-fdc2-41eb-8413-ae4afea03b05",
+  "params":{
+    "id":"a97c3de3-fdc2-41eb-8413-ae4afea03b05",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

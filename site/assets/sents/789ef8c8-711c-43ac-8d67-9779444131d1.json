@@ -1,0 +1,13 @@
+{
+  "start":12768,
+  "end":12823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \u201cBro, why\n   don't you put it in the fridge.",
+  "id":"789ef8c8-711c-43ac-8d67-9779444131d1",
+  "params":{
+    "id":"789ef8c8-711c-43ac-8d67-9779444131d1",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

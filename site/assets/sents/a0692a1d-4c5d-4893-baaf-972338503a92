@@ -1,0 +1,12 @@
+{
+  "start":44641,
+  "end":44663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's her name again?",
+  "id":"a0692a1d-4c5d-4893-baaf-972338503a92",
+  "params":{
+    "id":"2ec6d513-01a8-4dce-83a9-d3a34da2082a"
+  },
+  "name":"Rodrigo"
+}

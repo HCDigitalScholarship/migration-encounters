@@ -1,0 +1,12 @@
+{
+  "start":8455,
+  "end":8483,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That's when I found out.",
+  "id":"1e39d3ae-7c29-4c89-8a5b-3b9b2eff3c4c",
+  "params":{
+    "id":"d13f3e58-e2cf-4faf-a04b-e2f3a8c426bf"
+  },
+  "name":"Edgar"
+}

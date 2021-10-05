@@ -1,0 +1,12 @@
+{
+  "start":44264,
+  "end":44292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you spoken on FaceTime?",
+  "id":"188f1ed8-a790-47fb-88bf-0b1a26fe13ac",
+  "params":{
+    "id":"0fb5060f-2842-4329-8065-81c01c027145"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20439,
+  "end":20492,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had a boiler in the back\n   and stuff like that.",
+  "id":"1fee7c03-86c4-4313-83a3-f4c05a87820c",
+  "params":{
+    "id":"1fee7c03-86c4-4313-83a3-f4c05a87820c",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

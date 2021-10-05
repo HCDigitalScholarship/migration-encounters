@@ -1,0 +1,12 @@
+{
+  "start":25268,
+  "end":25278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's hard.",
+  "id":"fcd328b4-5e84-433f-bed3-0357b27a3596",
+  "params":{
+    "id":"962467e6-37b4-47f9-92ef-30aaf3553b6e"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13123,
+  "end":13169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, do you\n     think they're still hiring?\"",
+  "id":"43a31416-0c49-4f92-8ea7-8ff71169082c",
+  "params":{
+    "id":"735d136a-5f4e-49ae-af3d-7c4000cbd798"
+  },
+  "name":"Beto"
+}

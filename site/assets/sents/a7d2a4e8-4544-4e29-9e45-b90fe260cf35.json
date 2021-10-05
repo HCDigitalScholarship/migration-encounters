@@ -1,0 +1,12 @@
+{
+  "start":34656,
+  "end":34681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So how old were you then?",
+  "id":"a7d2a4e8-4544-4e29-9e45-b90fe260cf35",
+  "params":{
+    "id":"7ec6f216-fdec-439d-82a8-884341baac8c"
+  },
+  "name":"Mike"
+}

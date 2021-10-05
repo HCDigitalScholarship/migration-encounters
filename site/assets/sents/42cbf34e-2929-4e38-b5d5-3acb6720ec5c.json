@@ -1,0 +1,13 @@
+{
+  "start":23734,
+  "end":23783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   says, \"The girl you were with is my niece.\"",
+  "id":"42cbf34e-2929-4e38-b5d5-3acb6720ec5c",
+  "params":{
+    "id":"42cbf34e-2929-4e38-b5d5-3acb6720ec5c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

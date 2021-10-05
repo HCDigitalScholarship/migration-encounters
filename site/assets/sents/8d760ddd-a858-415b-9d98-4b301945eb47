@@ -1,0 +1,12 @@
+{
+  "start":17701,
+  "end":17750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a\n   butterball, so I just wanted to leave.",
+  "id":"8d760ddd-a858-415b-9d98-4b301945eb47",
+  "params":{
+    "id":"224469fb-fd89-4cfc-8e57-70ac1ee367d6"
+  },
+  "name":"Donovan"
+}

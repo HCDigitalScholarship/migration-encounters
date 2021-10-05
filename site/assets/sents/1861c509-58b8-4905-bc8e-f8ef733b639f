@@ -1,0 +1,12 @@
+{
+  "start":22512,
+  "end":22550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Christmas, I was always in\n   my room.",
+  "id":"1861c509-58b8-4905-bc8e-f8ef733b639f",
+  "params":{
+    "id":"a92a6f4b-ce78-4d0d-82b4-eb1b93c65c7f"
+  },
+  "name":"Mike"
+}

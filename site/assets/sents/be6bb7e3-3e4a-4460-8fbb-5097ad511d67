@@ -1,0 +1,12 @@
+{
+  "start":49883,
+  "end":49916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad told me not to go outside.",
+  "id":"be6bb7e3-3e4a-4460-8fbb-5097ad511d67",
+  "params":{
+    "id":"5bbb2e84-1b79-457b-9820-2535bf1dbf9a"
+  },
+  "name":"Miguel A"
+}

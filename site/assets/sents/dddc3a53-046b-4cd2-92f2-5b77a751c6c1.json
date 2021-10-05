@@ -1,0 +1,13 @@
+{
+  "start":4861,
+  "end":4944,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did she come to live with you with your uncle or did you go to a\n   separate place?",
+  "id":"dddc3a53-046b-4cd2-92f2-5b77a751c6c1",
+  "params":{
+    "id":"dddc3a53-046b-4cd2-92f2-5b77a751c6c1",
+    "class":"anno"
+  },
+  "name":"Many"
+}

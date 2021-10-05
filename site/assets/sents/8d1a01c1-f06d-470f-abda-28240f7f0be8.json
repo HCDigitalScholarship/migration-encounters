@@ -1,0 +1,13 @@
+{
+  "start":13079,
+  "end":13157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say\n   something, but it means something else, and there's a lot of that.",
+  "id":"8d1a01c1-f06d-470f-abda-28240f7f0be8",
+  "params":{
+    "id":"8d1a01c1-f06d-470f-abda-28240f7f0be8",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

@@ -1,0 +1,13 @@
+{
+  "start":714,
+  "end":739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ivan: By going to school.",
+  "id":"c9fed1fa-d52e-4263-a07b-48473e2c0332",
+  "params":{
+    "id":"c9fed1fa-d52e-4263-a07b-48473e2c0332",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

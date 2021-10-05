@@ -1,0 +1,12 @@
+{
+  "start":23077,
+  "end":23130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I used to go to restaurants, Black\n     Angus",
+  "id":"abda3b79-696d-4e7e-b28e-aa7a16077e50",
+  "params":{
+    "id":"e0ce8d9c-a23e-4e3e-80f4-6111a06ac9ee"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30200,
+  "end":30267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why they didn't think about taking me to the hospital.",
+  "id":"54708d91-40b4-4cf4-9919-0dceb23f5e05",
+  "params":{
+    "id":"7e727f3d-00a3-437b-8388-c14439f2669e"
+  },
+  "name":"Cris"
+}

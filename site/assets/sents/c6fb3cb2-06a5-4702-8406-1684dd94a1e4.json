@@ -1,0 +1,13 @@
+{
+  "start":28784,
+  "end":28925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This city, I know the area where I live, I know my area around here\n where I work, and I know maybe one or two areas where some friends live,",
+  "id":"c6fb3cb2-06a5-4702-8406-1684dd94a1e4",
+  "params":{
+    "id":"c6fb3cb2-06a5-4702-8406-1684dd94a1e4",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

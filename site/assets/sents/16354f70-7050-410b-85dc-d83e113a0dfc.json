@@ -1,0 +1,13 @@
+{
+  "start":15916,
+  "end":15927,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told her.",
+  "id":"16354f70-7050-410b-85dc-d83e113a0dfc",
+  "params":{
+    "id":"16354f70-7050-410b-85dc-d83e113a0dfc",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

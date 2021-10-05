@@ -1,0 +1,13 @@
+{
+  "start":28411,
+  "end":28477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like\n   the way people live in the United States and everything.",
+  "id":"c1ca66cc-16ff-40aa-958f-ff0a991e9ab0",
+  "params":{
+    "id":"c1ca66cc-16ff-40aa-958f-ff0a991e9ab0",
+    "class":"anno"
+  },
+  "name":"Many"
+}

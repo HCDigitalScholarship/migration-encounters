@@ -1,0 +1,13 @@
+{
+  "start":11138,
+  "end":11148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's done.",
+  "id":"66d68e0c-5c26-4001-9854-9cdf8b103b0a",
+  "params":{
+    "id":"66d68e0c-5c26-4001-9854-9cdf8b103b0a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

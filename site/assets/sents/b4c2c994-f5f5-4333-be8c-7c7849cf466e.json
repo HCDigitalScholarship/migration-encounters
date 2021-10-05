@@ -1,0 +1,13 @@
+{
+  "start":34279,
+  "end":34311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that's why I had the warrant.",
+  "id":"b4c2c994-f5f5-4333-be8c-7c7849cf466e",
+  "params":{
+    "id":"b4c2c994-f5f5-4333-be8c-7c7849cf466e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

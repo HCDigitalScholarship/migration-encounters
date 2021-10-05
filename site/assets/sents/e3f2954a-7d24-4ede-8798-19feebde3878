@@ -1,0 +1,12 @@
+{
+  "start":10402,
+  "end":10420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You get caught up.",
+  "id":"e3f2954a-7d24-4ede-8798-19feebde3878",
+  "params":{
+    "id":"d8e96eb8-2548-409c-84ed-1d181fb650fb"
+  },
+  "name":"Hugo"
+}

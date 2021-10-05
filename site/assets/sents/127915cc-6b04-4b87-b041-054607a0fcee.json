@@ -1,0 +1,13 @@
+{
+  "start":13299,
+  "end":13399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The police was like, okay, well,\n   they interrogated me for a long time, asking me these questions.",
+  "id":"127915cc-6b04-4b87-b041-054607a0fcee",
+  "params":{
+    "id":"127915cc-6b04-4b87-b041-054607a0fcee",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

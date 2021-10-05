@@ -1,0 +1,12 @@
+{
+  "start":33695,
+  "end":33721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're just going to work.",
+  "id":"78e08b0f-6fb6-49b3-b469-f37fbe70646d",
+  "params":{
+    "id":"deef1db5-6111-46c9-85d0-4482b0285b2f"
+  },
+  "name":"Joana"
+}

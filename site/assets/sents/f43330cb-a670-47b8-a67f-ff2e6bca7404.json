@@ -1,0 +1,13 @@
+{
+  "start":39147,
+  "end":39566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was the one\n   that asked me to write and I wrote a short story about a sparrow getting\n   lost in the snow and then turning up in the jungle, and the sparrow makes\n   friends with all the cockatoos and the snake and the anaconda and they're\n   all bros and he learns to speak their language\u2014not very well, but he\n   learns.\n \n \n   Luisa: The sparrow gets old and keeps living there and he's like, \"You know\n   what?",
+  "id":"f43330cb-a670-47b8-a67f-ff2e6bca7404",
+  "params":{
+    "id":"f43330cb-a670-47b8-a67f-ff2e6bca7404",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11455,
+  "end":11500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow, so you've enjoyed coming back to Mexico?",
+  "id":"7ed30e0a-26f4-4fa2-82f7-c8009c4d24b1",
+  "params":{
+    "id":"fd9e739e-a555-49da-96a1-4c538006e8ab"
+  },
+  "name":"Carolina"
+}

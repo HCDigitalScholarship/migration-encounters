@@ -1,0 +1,13 @@
+{
+  "start":22231,
+  "end":22270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"You don't even -\"\n   Things like that.",
+  "id":"0e4cc05f-13ac-42bd-b94e-14b87e7f14fb",
+  "params":{
+    "id":"0e4cc05f-13ac-42bd-b94e-14b87e7f14fb",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

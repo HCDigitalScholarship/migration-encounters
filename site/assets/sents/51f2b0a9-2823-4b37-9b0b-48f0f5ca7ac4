@@ -1,0 +1,12 @@
+{
+  "start":28435,
+  "end":28475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said,\n   \"Okay, we can work this out.\"",
+  "id":"51f2b0a9-2823-4b37-9b0b-48f0f5ca7ac4",
+  "params":{
+    "id":"9ca0b555-784e-4173-ad99-204a78b24d25"
+  },
+  "name":"Sylent"
+}

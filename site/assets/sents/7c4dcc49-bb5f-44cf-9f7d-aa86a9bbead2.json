@@ -1,0 +1,12 @@
+{
+  "start":32985,
+  "end":33001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's going on?",
+  "id":"7c4dcc49-bb5f-44cf-9f7d-aa86a9bbead2",
+  "params":{
+    "id":"cb936540-49a6-4cf4-b755-43765dcd24f9"
+  },
+  "name":"Cris"
+}

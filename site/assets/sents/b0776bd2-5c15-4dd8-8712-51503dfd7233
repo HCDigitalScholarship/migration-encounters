@@ -1,0 +1,12 @@
+{
+  "start":20308,
+  "end":20349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not like what you see in the\n     movies.",
+  "id":"b0776bd2-5c15-4dd8-8712-51503dfd7233",
+  "params":{
+    "id":"a97db490-ea23-496d-b577-b6af21ee66b9"
+  },
+  "name":"Beto"
+}

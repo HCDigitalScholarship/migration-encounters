@@ -1,0 +1,12 @@
+{
+  "start":9669,
+  "end":9694,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   was painting houses.",
+  "id":"0e4e0ab5-5982-477b-bbd2-33b12bb3b4ea",
+  "params":{
+    "id":"f46b115b-031c-4154-a91d-d3d3e6bdf54c"
+  },
+  "name":"Daniel"
+}

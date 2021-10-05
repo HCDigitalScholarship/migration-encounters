@@ -1,0 +1,12 @@
+{
+  "start":27153,
+  "end":27189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Friends from Cuba, living in\n Miami.",
+  "id":"f91d1cfc-e8ef-4568-8ec6-03fd2eb99d3f",
+  "params":{
+    "id":"d8803ec9-42ea-4886-8727-943a871c9563"
+  },
+  "name":"Billy"
+}

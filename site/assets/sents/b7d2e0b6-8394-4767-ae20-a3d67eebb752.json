@@ -1,0 +1,13 @@
+{
+  "start":16531,
+  "end":16588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well\n   I talk to them like every day, through the phone.",
+  "id":"b7d2e0b6-8394-4767-ae20-a3d67eebb752",
+  "params":{
+    "id":"b7d2e0b6-8394-4767-ae20-a3d67eebb752",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

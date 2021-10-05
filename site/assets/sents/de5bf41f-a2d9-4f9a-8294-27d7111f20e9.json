@@ -1,0 +1,13 @@
+{
+  "start":16464,
+  "end":16510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I miss my mom,\n   and my dad, and my brothers.",
+  "id":"de5bf41f-a2d9-4f9a-8294-27d7111f20e9",
+  "params":{
+    "id":"de5bf41f-a2d9-4f9a-8294-27d7111f20e9",
+    "class":"anno"
+  },
+  "name":"Many"
+}

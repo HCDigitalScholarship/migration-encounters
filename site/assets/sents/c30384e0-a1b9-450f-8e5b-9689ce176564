@@ -1,0 +1,12 @@
+{
+  "start":11011,
+  "end":11037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were out of residence.",
+  "id":"c30384e0-a1b9-450f-8e5b-9689ce176564",
+  "params":{
+    "id":"a6df5b91-83e8-4cea-ac41-b09f70cc0083"
+  },
+  "name":"Ivan B"
+}

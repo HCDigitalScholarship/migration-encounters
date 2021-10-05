@@ -1,0 +1,13 @@
+{
+  "start":771,
+  "end":892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of my earliest memories of the U.S. I remember as a young person\n   was walking into a supermarket called Albertsons.",
+  "id":"c220b0b5-637b-4c40-bbad-4c607011059c",
+  "params":{
+    "id":"c220b0b5-637b-4c40-bbad-4c607011059c",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

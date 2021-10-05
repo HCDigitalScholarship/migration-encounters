@@ -1,0 +1,12 @@
+{
+  "start":36592,
+  "end":36631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandma was like, \u201cOkay, good luck.\u201d",
+  "id":"37576789-f0b6-4c7b-ae0c-8c49d9a23f76",
+  "params":{
+    "id":"c51fc215-5125-4715-8be7-d6d53ce2325b"
+  },
+  "name":"Brenda"
+}

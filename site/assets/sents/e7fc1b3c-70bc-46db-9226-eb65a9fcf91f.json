@@ -1,0 +1,12 @@
+{
+  "start":19153,
+  "end":19216,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I will just tell them, \"Okay, can I have that green\n   thingy?\u201d",
+  "id":"e7fc1b3c-70bc-46db-9226-eb65a9fcf91f",
+  "params":{
+    "id":"a5512ec0-8294-4e99-b1a6-3b41c858c4df"
+  },
+  "name":"Luis A"
+}

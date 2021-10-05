@@ -1,0 +1,13 @@
+{
+  "start":18228,
+  "end":18308,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told my little brothers, \"You know what, I need you to sit\n down and help me.\"",
+  "id":"0b0849d6-3bc8-44a2-b0f9-24dc7ad3f9e3",
+  "params":{
+    "id":"0b0849d6-3bc8-44a2-b0f9-24dc7ad3f9e3",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

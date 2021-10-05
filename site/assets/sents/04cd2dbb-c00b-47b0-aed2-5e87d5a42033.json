@@ -1,0 +1,13 @@
+{
+  "start":42481,
+  "end":42562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   maybe is going to take a long time because even here in Mexico we tend\u2026\n   ",
+  "id":"04cd2dbb-c00b-47b0-aed2-5e87d5a42033",
+  "params":{
+    "id":"04cd2dbb-c00b-47b0-aed2-5e87d5a42033",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

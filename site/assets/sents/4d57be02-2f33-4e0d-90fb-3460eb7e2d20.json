@@ -1,0 +1,13 @@
+{
+  "start":33989,
+  "end":34025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some have been kicked, punched, etc.",
+  "id":"4d57be02-2f33-4e0d-90fb-3460eb7e2d20",
+  "params":{
+    "id":"4d57be02-2f33-4e0d-90fb-3460eb7e2d20",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

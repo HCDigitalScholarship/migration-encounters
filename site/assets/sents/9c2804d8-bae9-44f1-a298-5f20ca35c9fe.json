@@ -1,0 +1,13 @@
+{
+  "start":6021,
+  "end":6037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just gross.",
+  "id":"9c2804d8-bae9-44f1-a298-5f20ca35c9fe",
+  "params":{
+    "id":"9c2804d8-bae9-44f1-a298-5f20ca35c9fe",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

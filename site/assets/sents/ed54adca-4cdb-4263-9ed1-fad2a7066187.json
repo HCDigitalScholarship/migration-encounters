@@ -1,0 +1,13 @@
+{
+  "start":3214,
+  "end":3261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're going to\n   go back to the United States.",
+  "id":"ed54adca-4cdb-4263-9ed1-fad2a7066187",
+  "params":{
+    "id":"ed54adca-4cdb-4263-9ed1-fad2a7066187",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

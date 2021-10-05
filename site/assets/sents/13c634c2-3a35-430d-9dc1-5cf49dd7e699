@@ -1,0 +1,12 @@
+{
+  "start":7428,
+  "end":7460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me more about that?",
+  "id":"13c634c2-3a35-430d-9dc1-5cf49dd7e699",
+  "params":{
+    "id":"d7768fce-9282-4a4b-93e9-0573abf69281"
+  },
+  "name":"Noe"
+}

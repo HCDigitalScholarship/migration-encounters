@@ -1,0 +1,13 @@
+{
+  "start":8461,
+  "end":8492,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to feel left out.",
+  "id":"4535d1a0-62f0-4876-892b-850f61b5ab76",
+  "params":{
+    "id":"4535d1a0-62f0-4876-892b-850f61b5ab76",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

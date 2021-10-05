@@ -1,0 +1,13 @@
+{
+  "start":22837,
+  "end":22894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   He said, \"One of those Mexicans probably stole them.\"",
+  "id":"a5d44d3d-476b-408c-b039-6c52c9c52693",
+  "params":{
+    "id":"a5d44d3d-476b-408c-b039-6c52c9c52693",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

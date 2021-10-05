@@ -1,0 +1,13 @@
+{
+  "start":25723,
+  "end":25751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are you doing all this?\"",
+  "id":"8c575399-5e85-460c-a741-32b88b0da2e6",
+  "params":{
+    "id":"8c575399-5e85-460c-a741-32b88b0da2e6",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

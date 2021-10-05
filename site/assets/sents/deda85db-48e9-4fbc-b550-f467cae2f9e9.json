@@ -1,0 +1,13 @@
+{
+  "start":39600,
+  "end":39648,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My cousins chose not to go to\n   school anymore.",
+  "id":"deda85db-48e9-4fbc-b550-f467cae2f9e9",
+  "params":{
+    "id":"deda85db-48e9-4fbc-b550-f467cae2f9e9",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

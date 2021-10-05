@@ -1,0 +1,13 @@
+{
+  "start":27550,
+  "end":27629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have a\n   social, I don't have an ID, I don't even have a bank account.",
+  "id":"92c732c4-8dc1-4a3e-8a7b-f0ae6aeed625",
+  "params":{
+    "id":"92c732c4-8dc1-4a3e-8a7b-f0ae6aeed625",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

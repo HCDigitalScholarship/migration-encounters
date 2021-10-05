@@ -1,0 +1,12 @@
+{
+  "start":29219,
+  "end":29291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was, \"I'm just checking up on you.\"\n   He's like, \"If you're asleep.\"",
+  "id":"0048b906-7949-4e41-9854-b841dc0c8035",
+  "params":{
+    "id":"c4c1ad33-7f35-436f-a2c5-9c74456ae4be"
+  },
+  "name":"Cris"
+}

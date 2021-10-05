@@ -1,0 +1,12 @@
+{
+  "start":28890,
+  "end":28914,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wanted to be a welder.",
+  "id":"e921b0c1-b99b-47fb-988c-da86ea956708",
+  "params":{
+    "id":"1cfd3ddb-7447-4a3e-bac9-a357f6943cb9"
+  },
+  "name":"Sylent"
+}

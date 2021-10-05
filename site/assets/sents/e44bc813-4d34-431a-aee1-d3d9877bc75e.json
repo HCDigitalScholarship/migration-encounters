@@ -1,0 +1,13 @@
+{
+  "start":37979,
+  "end":38013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   mean, he's not a boy anymore.",
+  "id":"e44bc813-4d34-431a-aee1-d3d9877bc75e",
+  "params":{
+    "id":"e44bc813-4d34-431a-aee1-d3d9877bc75e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

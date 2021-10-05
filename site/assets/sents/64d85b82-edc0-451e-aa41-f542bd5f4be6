@@ -1,0 +1,12 @@
+{
+  "start":10193,
+  "end":10214,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I left the\n   States.",
+  "id":"64d85b82-edc0-451e-aa41-f542bd5f4be6",
+  "params":{
+    "id":"c5fd4492-eb53-4060-84ef-3888636f1d5d"
+  },
+  "name":"Joseph"
+}

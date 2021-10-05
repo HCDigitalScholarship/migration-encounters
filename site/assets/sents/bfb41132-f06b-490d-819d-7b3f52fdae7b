@@ -1,0 +1,12 @@
+{
+  "start":28881,
+  "end":28901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She can do whatever.",
+  "id":"bfb41132-f06b-490d-819d-7b3f52fdae7b",
+  "params":{
+    "id":"a0d63d63-0653-40dd-a434-148aa19f281c"
+  },
+  "name":"Abel"
+}

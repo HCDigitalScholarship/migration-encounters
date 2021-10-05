@@ -1,0 +1,13 @@
+{
+  "start":4239,
+  "end":4267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I stayed a day\u2014\n \n \n   Anne:",
+  "id":"2f489cc9-67f8-4612-a8c4-88fddd8e6b65",
+  "params":{
+    "id":"2f489cc9-67f8-4612-a8c4-88fddd8e6b65",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

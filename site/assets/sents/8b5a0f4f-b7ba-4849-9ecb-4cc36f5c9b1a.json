@@ -1,0 +1,13 @@
+{
+  "start":17575,
+  "end":17615,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And here, I already lost my wallet once.",
+  "id":"8b5a0f4f-b7ba-4849-9ecb-4cc36f5c9b1a",
+  "params":{
+    "id":"8b5a0f4f-b7ba-4849-9ecb-4cc36f5c9b1a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

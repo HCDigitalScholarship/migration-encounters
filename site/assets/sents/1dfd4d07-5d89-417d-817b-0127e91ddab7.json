@@ -1,0 +1,13 @@
+{
+  "start":13200,
+  "end":13230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's\n kind of like, \"Yeah.",
+  "id":"1dfd4d07-5d89-417d-817b-0127e91ddab7",
+  "params":{
+    "id":"1dfd4d07-5d89-417d-817b-0127e91ddab7",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

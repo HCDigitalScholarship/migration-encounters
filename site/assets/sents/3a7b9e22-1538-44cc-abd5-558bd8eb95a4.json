@@ -1,0 +1,12 @@
+{
+  "start":10097,
+  "end":10170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If the square footage was\n   $1.00, I would resell it for $1.50 or $1.15.",
+  "id":"3a7b9e22-1538-44cc-abd5-558bd8eb95a4",
+  "params":{
+    "id":"9cd6bba6-b10e-401a-a8cb-80f81ffe7047"
+  },
+  "name":"Daniel"
+}

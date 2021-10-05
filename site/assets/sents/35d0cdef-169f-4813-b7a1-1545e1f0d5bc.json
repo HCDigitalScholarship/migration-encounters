@@ -1,0 +1,13 @@
+{
+  "start":4085,
+  "end":4163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would work delivering\n   newspapers at night ____yeah, so that's what I did.",
+  "id":"35d0cdef-169f-4813-b7a1-1545e1f0d5bc",
+  "params":{
+    "id":"35d0cdef-169f-4813-b7a1-1545e1f0d5bc",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

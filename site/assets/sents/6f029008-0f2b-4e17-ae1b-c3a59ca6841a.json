@@ -1,0 +1,13 @@
+{
+  "start":10214,
+  "end":10229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to wait.",
+  "id":"6f029008-0f2b-4e17-ae1b-c3a59ca6841a",
+  "params":{
+    "id":"6f029008-0f2b-4e17-ae1b-c3a59ca6841a",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

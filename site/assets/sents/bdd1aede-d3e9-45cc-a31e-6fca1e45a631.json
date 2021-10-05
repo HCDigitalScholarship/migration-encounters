@@ -1,0 +1,13 @@
+{
+  "start":1259,
+  "end":1305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really don't remember much when I was young.",
+  "id":"bdd1aede-d3e9-45cc-a31e-6fca1e45a631",
+  "params":{
+    "id":"bdd1aede-d3e9-45cc-a31e-6fca1e45a631",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

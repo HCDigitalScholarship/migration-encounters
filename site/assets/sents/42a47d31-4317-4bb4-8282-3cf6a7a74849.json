@@ -1,0 +1,13 @@
+{
+  "start":12475,
+  "end":12495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I miss\n   my family.",
+  "id":"42a47d31-4317-4bb4-8282-3cf6a7a74849",
+  "params":{
+    "id":"42a47d31-4317-4bb4-8282-3cf6a7a74849",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14700,
+  "end":14749,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was there a space at home where you went to read?",
+  "id":"e3317aeb-d317-4f4f-8677-371127df7f90",
+  "params":{
+    "id":"ecb3e2bb-836e-4feb-808c-98a9bdbfc22d"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":68,
+  "end":85,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is your age?",
+  "id":"26b285a9-fbc7-44e4-8005-075acf6e8ecf",
+  "params":{
+    "id":"ab463152-64d8-46f8-8f6e-06df4c77c92a"
+  },
+  "name":"Josue"
+}

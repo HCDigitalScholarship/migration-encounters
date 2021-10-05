@@ -1,0 +1,13 @@
+{
+  "start":42501,
+  "end":42597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been\n running around trying to try to get help because literally right now, I'm\n on my own.",
+  "id":"1ce75746-a9de-4a78-8a7a-9750496ad472",
+  "params":{
+    "id":"1ce75746-a9de-4a78-8a7a-9750496ad472",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

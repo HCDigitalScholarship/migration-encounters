@@ -1,0 +1,12 @@
+{
+  "start":6121,
+  "end":6163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I am grumpy, it's\n   okay to be grumpy.",
+  "id":"1d8004ac-ae09-4db1-ae97-4fcb3440b8d7",
+  "params":{
+    "id":"f8df3cf9-f58c-44dd-a1cb-b2d1e939b53f"
+  },
+  "name":"Erik"
+}

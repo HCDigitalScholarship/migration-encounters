@@ -1,0 +1,12 @@
+{
+  "start":6128,
+  "end":6172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you still in San Antonio at that point?",
+  "id":"a2053aa2-ec37-4fe1-b6f9-b3d9af70c7b7",
+  "params":{
+    "id":"c57744e5-3b97-46bd-8a63-23624a2852ba"
+  },
+  "name":"Many"
+}

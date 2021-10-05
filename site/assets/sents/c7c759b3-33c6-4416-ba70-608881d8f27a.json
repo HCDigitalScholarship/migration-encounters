@@ -1,0 +1,13 @@
+{
+  "start":21294,
+  "end":21306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He did that.",
+  "id":"c7c759b3-33c6-4416-ba70-608881d8f27a",
+  "params":{
+    "id":"c7c759b3-33c6-4416-ba70-608881d8f27a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

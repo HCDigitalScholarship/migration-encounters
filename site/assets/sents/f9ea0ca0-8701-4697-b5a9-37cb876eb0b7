@@ -1,0 +1,12 @@
+{
+  "start":20062,
+  "end":20084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nothing ever happened.",
+  "id":"f9ea0ca0-8701-4697-b5a9-37cb876eb0b7",
+  "params":{
+    "id":"507f9063-d27a-4432-bee6-d3ab5c793a23"
+  },
+  "name":"Noe"
+}

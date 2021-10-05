@@ -1,0 +1,12 @@
+{
+  "start":27240,
+  "end":27306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, you know that things are getting more\n   hard on the border.",
+  "id":"90a568ce-a120-49cb-bf18-6c7c468f3d35",
+  "params":{
+    "id":"daf9a2ae-cb75-4d26-8863-43579957a738"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1941,
+  "end":2000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think\n   it was strawberries, something to do with fruit.",
+  "id":"d9120eca-86d5-4e44-921a-6c6b2ec5b924",
+  "params":{
+    "id":"30cb6cea-9a10-40e9-96d1-93d1fc342efc"
+  },
+  "name":"Juan B"
+}

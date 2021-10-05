@@ -1,0 +1,12 @@
+{
+  "start":27782,
+  "end":27838,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know that I\n   have opportunities because I'm Mexican.",
+  "id":"2f7ac5fd-a5e1-48db-9942-0e8bbb6e00ba",
+  "params":{
+    "id":"f0294b88-4b61-4904-98ac-2ffb7badbe49"
+  },
+  "name":"Many"
+}

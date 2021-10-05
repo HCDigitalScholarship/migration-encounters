@@ -1,0 +1,12 @@
+{
+  "start":34875,
+  "end":34964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, what I've learned is that there is always a person who can\n   take care of you.",
+  "id":"8d4b53b2-f45c-47ab-b55c-86eaa75257bd",
+  "params":{
+    "id":"c933a72d-66f0-4865-b85d-976698916730"
+  },
+  "name":"Carlos"
+}

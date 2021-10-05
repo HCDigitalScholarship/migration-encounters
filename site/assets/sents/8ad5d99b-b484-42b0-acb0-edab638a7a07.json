@@ -1,0 +1,13 @@
+{
+  "start":49990,
+  "end":50073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And my mom cries every time she tells me, she's like, \"Come on, just\n   come back.\"",
+  "id":"8ad5d99b-b484-42b0-acb0-edab638a7a07",
+  "params":{
+    "id":"8ad5d99b-b484-42b0-acb0-edab638a7a07",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

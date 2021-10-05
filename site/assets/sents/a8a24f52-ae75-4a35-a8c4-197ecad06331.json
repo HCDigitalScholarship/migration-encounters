@@ -1,0 +1,13 @@
+{
+  "start":35825,
+  "end":35860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's where\n   we are for now.",
+  "id":"a8a24f52-ae75-4a35-a8c4-197ecad06331",
+  "params":{
+    "id":"a8a24f52-ae75-4a35-a8c4-197ecad06331",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

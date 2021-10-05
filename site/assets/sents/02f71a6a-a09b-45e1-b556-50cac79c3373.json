@@ -1,0 +1,13 @@
+{
+  "start":4876,
+  "end":4923,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   that's when we actually came over there.",
+  "id":"02f71a6a-a09b-45e1-b556-50cac79c3373",
+  "params":{
+    "id":"02f71a6a-a09b-45e1-b556-50cac79c3373",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

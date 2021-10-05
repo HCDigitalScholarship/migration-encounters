@@ -1,0 +1,13 @@
+{
+  "start":55558,
+  "end":55590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't got to pick up rocks.",
+  "id":"b0f6f386-a417-445c-aa79-d2435b2dbd59",
+  "params":{
+    "id":"b0f6f386-a417-445c-aa79-d2435b2dbd59",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":43182,
+  "end":43203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   pays for this.",
+  "id":"4deb4c99-bd14-4d74-a582-fe56f61f0e60",
+  "params":{
+    "id":"98b317d3-e7f8-407d-bdcd-3ea4edede629"
+  },
+  "name":"Rodrigo"
+}

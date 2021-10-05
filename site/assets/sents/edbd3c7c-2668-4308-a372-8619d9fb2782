@@ -1,0 +1,12 @@
+{
+  "start":1077,
+  "end":1167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're making\n     more money than I'm making, and they're just here for a couple hours.\"",
+  "id":"edbd3c7c-2668-4308-a372-8619d9fb2782",
+  "params":{
+    "id":"de03e9ee-a891-4daf-aa65-a8cac1c9639e"
+  },
+  "name":"Beto"
+}

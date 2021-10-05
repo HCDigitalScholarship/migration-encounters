@@ -1,0 +1,12 @@
+{
+  "start":34383,
+  "end":34400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's in my veins.",
+  "id":"28d9c1ab-c4e6-49f4-b507-0ba4c9c2346d",
+  "params":{
+    "id":"d85ca327-385f-4990-850d-63b6c024c5e8"
+  },
+  "name":"Kevin"
+}

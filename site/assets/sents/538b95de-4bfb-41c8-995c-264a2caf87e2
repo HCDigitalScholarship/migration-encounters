@@ -1,0 +1,12 @@
+{
+  "start":33660,
+  "end":33705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're always going to have\n   that attitude.",
+  "id":"538b95de-4bfb-41c8-995c-264a2caf87e2",
+  "params":{
+    "id":"da93f6fb-492b-4166-b6bf-433d6b8f77ba"
+  },
+  "name":"Ruben"
+}

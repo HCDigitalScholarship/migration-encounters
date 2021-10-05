@@ -1,0 +1,13 @@
+{
+  "start":10106,
+  "end":10136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You say you didn't\n   want us.",
+  "id":"2f94db30-75f6-4ebc-a1e8-44b05f99afcd",
+  "params":{
+    "id":"2f94db30-75f6-4ebc-a1e8-44b05f99afcd",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

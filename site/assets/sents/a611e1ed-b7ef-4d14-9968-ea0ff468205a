@@ -1,0 +1,12 @@
+{
+  "start":567,
+  "end":592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who did you leave behind?",
+  "id":"a611e1ed-b7ef-4d14-9968-ea0ff468205a",
+  "params":{
+    "id":"d22bcf5d-5a96-425e-ae3f-775663466d34"
+  },
+  "name":"Carlos"
+}

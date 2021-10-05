@@ -1,0 +1,13 @@
+{
+  "start":10316,
+  "end":10395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Payless\n   Shoes, I remember we had a Payless Shoes and they lit it up on fire.",
+  "id":"111c5b9f-7730-477f-9513-3d4258a98d78",
+  "params":{
+    "id":"111c5b9f-7730-477f-9513-3d4258a98d78",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

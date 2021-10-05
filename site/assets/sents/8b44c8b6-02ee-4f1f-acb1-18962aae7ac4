@@ -1,0 +1,12 @@
+{
+  "start":2351,
+  "end":2387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad, he left when I was like two.",
+  "id":"8b44c8b6-02ee-4f1f-acb1-18962aae7ac4",
+  "params":{
+    "id":"8d9e3222-918c-4841-abd4-0f2956001455"
+  },
+  "name":"Edgar"
+}

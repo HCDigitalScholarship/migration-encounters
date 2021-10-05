@@ -1,0 +1,13 @@
+{
+  "start":21009,
+  "end":21097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She graduated and upon graduation\u2014well before she even\n graduated\u2014she had secured a job.",
+  "id":"72a4cfaa-e71c-4e9b-8c99-5915fcd303d9",
+  "params":{
+    "id":"72a4cfaa-e71c-4e9b-8c99-5915fcd303d9",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15065,
+  "end":15085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just some\n   advice.",
+  "id":"ccae6615-fce3-4a2e-bae2-a5650fea82b6",
+  "params":{
+    "id":"6c8cbacf-cbda-4769-9b62-61ee85836ccb"
+  },
+  "name":"Ruben"
+}

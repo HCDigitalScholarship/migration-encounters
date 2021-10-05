@@ -1,0 +1,12 @@
+{
+  "start":7266,
+  "end":7287,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   What's the story?",
+  "id":"35dfaade-19be-4df8-8bea-33b87b2a9320",
+  "params":{
+    "id":"b1ddbbd0-d8bf-441f-88e4-909f94b37a00"
+  },
+  "name":"Erik"
+}

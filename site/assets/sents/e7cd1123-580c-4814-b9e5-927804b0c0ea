@@ -1,0 +1,12 @@
+{
+  "start":27192,
+  "end":27210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would you do?",
+  "id":"e7cd1123-580c-4814-b9e5-927804b0c0ea",
+  "params":{
+    "id":"3e845b2b-af41-4e86-bc7a-998dd7fb64bb"
+  },
+  "name":"Abel"
+}

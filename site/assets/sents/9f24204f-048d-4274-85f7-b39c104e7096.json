@@ -1,0 +1,13 @@
+{
+  "start":37173,
+  "end":37240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's go\n   find a park with grass,\" because they don't have grass.",
+  "id":"9f24204f-048d-4274-85f7-b39c104e7096",
+  "params":{
+    "id":"9f24204f-048d-4274-85f7-b39c104e7096",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,13 @@
+{
+  "start":33298,
+  "end":33358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when you were still in the United States, did you delay?",
+  "id":"f145d8f0-a1ca-4b7f-a4fa-382eabb3d2fe",
+  "params":{
+    "id":"f145d8f0-a1ca-4b7f-a4fa-382eabb3d2fe",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

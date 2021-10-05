@@ -1,0 +1,12 @@
+{
+  "start":8889,
+  "end":8914,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you kept that secret?",
+  "id":"f941af9e-c7e6-43b7-8565-22226860f1d9",
+  "params":{
+    "id":"9ebd02bb-1132-40e9-bfcd-22ba02a18673"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4288,
+  "end":4334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean, I\nwasn't going in and out of jail.",
+  "id":"a8c46d5a-a888-47d5-a585-f481d85e4cfb",
+  "params":{
+    "id":"a8c46d5a-a888-47d5-a585-f481d85e4cfb",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

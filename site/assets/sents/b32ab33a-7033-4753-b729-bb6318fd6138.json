@@ -1,0 +1,13 @@
+{
+  "start":2009,
+  "end":2074,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It took\n   me about three years to fully understand the language.",
+  "id":"b32ab33a-7033-4753-b729-bb6318fd6138",
+  "params":{
+    "id":"b32ab33a-7033-4753-b729-bb6318fd6138",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

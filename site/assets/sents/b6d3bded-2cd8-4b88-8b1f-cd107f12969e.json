@@ -1,0 +1,13 @@
+{
+  "start":3936,
+  "end":3951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved school.",
+  "id":"b6d3bded-2cd8-4b88-8b1f-cd107f12969e",
+  "params":{
+    "id":"b6d3bded-2cd8-4b88-8b1f-cd107f12969e",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

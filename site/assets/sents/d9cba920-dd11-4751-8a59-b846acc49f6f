@@ -1,0 +1,12 @@
+{
+  "start":6321,
+  "end":6353,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luisa: She can't pronounce them.",
+  "id":"d9cba920-dd11-4751-8a59-b846acc49f6f",
+  "params":{
+    "id":"57cb8012-2413-4f8a-aef7-a30fa3dffbef"
+  },
+  "name":"Luisa"
+}

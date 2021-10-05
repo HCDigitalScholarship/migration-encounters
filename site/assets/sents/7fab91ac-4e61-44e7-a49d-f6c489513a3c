@@ -1,0 +1,12 @@
+{
+  "start":193,
+  "end":235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad started working in the U.S., right?",
+  "id":"7fab91ac-4e61-44e7-a49d-f6c489513a3c",
+  "params":{
+    "id":"ab0ba012-ccd4-48e3-b540-138c1bb766fb"
+  },
+  "name":"Hugo"
+}

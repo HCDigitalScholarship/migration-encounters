@@ -1,0 +1,12 @@
+{
+  "start":36474,
+  "end":36495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n really like jazz.\"",
+  "id":"80e0f8e1-50b7-48d4-aaf2-c7fd7da1d347",
+  "params":{
+    "id":"da31b6b2-313d-48fb-bf18-56073d15a427"
+  },
+  "name":"Billy"
+}

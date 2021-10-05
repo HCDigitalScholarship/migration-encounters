@@ -1,0 +1,13 @@
+{
+  "start":8142,
+  "end":8205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So el padrino comes in and\n   he's like, \"Get down from there.\"",
+  "id":"ae040a87-d35f-4319-8af4-093d7b9a9411",
+  "params":{
+    "id":"ae040a87-d35f-4319-8af4-093d7b9a9411",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

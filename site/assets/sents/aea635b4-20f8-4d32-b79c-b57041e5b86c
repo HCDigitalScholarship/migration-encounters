@@ -1,0 +1,12 @@
+{
+  "start":4094,
+  "end":4136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's really difficult for a little girl.",
+  "id":"aea635b4-20f8-4d32-b79c-b57041e5b86c",
+  "params":{
+    "id":"d2819290-5312-46d3-9b17-898c94001436"
+  },
+  "name":"Joana"
+}

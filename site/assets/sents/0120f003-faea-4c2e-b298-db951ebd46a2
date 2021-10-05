@@ -1,0 +1,12 @@
+{
+  "start":3956,
+  "end":4003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You probably didn't know any\n   English, right?",
+  "id":"0120f003-faea-4c2e-b298-db951ebd46a2",
+  "params":{
+    "id":"27dc5e07-5276-4bbb-88bf-18744bc08b3a"
+  },
+  "name":"Jose"
+}

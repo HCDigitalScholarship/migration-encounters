@@ -1,0 +1,13 @@
+{
+  "start":12934,
+  "end":12959,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would you tell them?",
+  "id":"1d4f4b7f-e032-4ac3-bc23-3a63bb901452",
+  "params":{
+    "id":"1d4f4b7f-e032-4ac3-bc23-3a63bb901452",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

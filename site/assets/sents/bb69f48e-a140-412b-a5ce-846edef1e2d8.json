@@ -1,0 +1,13 @@
+{
+  "start":23255,
+  "end":23313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's because every department, they have different skills.",
+  "id":"bb69f48e-a140-412b-a5ce-846edef1e2d8",
+  "params":{
+    "id":"bb69f48e-a140-412b-a5ce-846edef1e2d8",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

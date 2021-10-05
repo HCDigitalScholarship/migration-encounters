@@ -1,0 +1,13 @@
+{
+  "start":27977,
+  "end":28014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me a chance to get a house.",
+  "id":"10a07404-68fd-4a69-a1f7-77db76813433",
+  "params":{
+    "id":"10a07404-68fd-4a69-a1f7-77db76813433",
+    "class":"anno"
+  },
+  "name":"Many"
+}

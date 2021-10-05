@@ -1,0 +1,13 @@
+{
+  "start":34443,
+  "end":34460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Billy: By myself.",
+  "id":"094d5f19-dfcc-453c-a283-c5c93f6eea9d",
+  "params":{
+    "id":"094d5f19-dfcc-453c-a283-c5c93f6eea9d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

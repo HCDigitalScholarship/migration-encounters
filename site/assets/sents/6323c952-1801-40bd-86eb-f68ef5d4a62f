@@ -1,0 +1,12 @@
+{
+  "start":31383,
+  "end":31412,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"What do you mean?\"",
+  "id":"6323c952-1801-40bd-86eb-f68ef5d4a62f",
+  "params":{
+    "id":"d03fb385-ee8d-4631-9d5f-cf24132f8454"
+  },
+  "name":"Sylent"
+}

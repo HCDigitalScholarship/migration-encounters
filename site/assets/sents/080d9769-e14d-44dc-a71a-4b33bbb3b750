@@ -1,0 +1,12 @@
+{
+  "start":13040,
+  "end":13060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think, well, maybe",
+  "id":"080d9769-e14d-44dc-a71a-4b33bbb3b750",
+  "params":{
+    "id":"b25a9a10-4d2f-41a2-8de6-ca4e760e2c86"
+  },
+  "name":"Sylent"
+}

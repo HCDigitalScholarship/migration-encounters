@@ -1,0 +1,13 @@
+{
+  "start":17529,
+  "end":17550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not from here.",
+  "id":"6bb7d1d6-29cf-447c-81a7-fbe53b6e346a",
+  "params":{
+    "id":"6bb7d1d6-29cf-447c-81a7-fbe53b6e346a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

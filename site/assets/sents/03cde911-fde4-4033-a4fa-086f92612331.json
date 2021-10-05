@@ -1,0 +1,13 @@
+{
+  "start":9682,
+  "end":9751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For\n     example, I left a lot of friends at some other call centers.",
+  "id":"03cde911-fde4-4033-a4fa-086f92612331",
+  "params":{
+    "id":"03cde911-fde4-4033-a4fa-086f92612331",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

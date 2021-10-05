@@ -1,0 +1,13 @@
+{
+  "start":15503,
+  "end":15547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That whole day was such\n   a bad day for me.",
+  "id":"faa1cd4c-51f1-44d4-91c9-310b1bfb733c",
+  "params":{
+    "id":"faa1cd4c-51f1-44d4-91c9-310b1bfb733c",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

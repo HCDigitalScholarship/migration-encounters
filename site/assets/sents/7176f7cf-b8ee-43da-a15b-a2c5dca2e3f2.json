@@ -1,0 +1,13 @@
+{
+  "start":20220,
+  "end":20272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me go to that park and play with those\n   guys.\"",
+  "id":"7176f7cf-b8ee-43da-a15b-a2c5dca2e3f2",
+  "params":{
+    "id":"7176f7cf-b8ee-43da-a15b-a2c5dca2e3f2",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

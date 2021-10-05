@@ -1,0 +1,12 @@
+{
+  "start":9847,
+  "end":9859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Call center?",
+  "id":"ce755c8b-fab7-4d14-b5d7-a7ab84148bfb",
+  "params":{
+    "id":"978343f6-95ef-4aa2-91bf-6f762a29937d"
+  },
+  "name":"Carolina"
+}

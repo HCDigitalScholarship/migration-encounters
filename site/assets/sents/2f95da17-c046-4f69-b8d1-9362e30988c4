@@ -1,0 +1,12 @@
+{
+  "start":44908,
+  "end":44952,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I think you remember that you told me.",
+  "id":"2f95da17-c046-4f69-b8d1-9362e30988c4",
+  "params":{
+    "id":"21f0ab59-a151-4b13-8d73-e3d6709e7400"
+  },
+  "name":"Rodrigo"
+}

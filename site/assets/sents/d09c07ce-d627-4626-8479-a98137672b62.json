@@ -1,0 +1,13 @@
+{
+  "start":3160,
+  "end":3264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I went and took the GED program, I didn't even study for it, I\n just went and took it and passed it.",
+  "id":"d09c07ce-d627-4626-8479-a98137672b62",
+  "params":{
+    "id":"d09c07ce-d627-4626-8479-a98137672b62",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

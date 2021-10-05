@@ -1,0 +1,12 @@
+{
+  "start":10485,
+  "end":10560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nthink it's more dangerous being in dorm living than it is in cell living.",
+  "id":"51f46291-3aa9-47b3-bb27-6449649c7164",
+  "params":{
+    "id":"a1690aa1-c07e-4acc-b7dd-0bb63d8adf4b"
+  },
+  "name":"Abel"
+}

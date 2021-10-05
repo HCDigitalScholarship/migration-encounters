@@ -1,0 +1,13 @@
+{
+  "start":44601,
+  "end":44626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's really big, though.",
+  "id":"1ba8f292-335d-40df-b2ab-7dd31e80503b",
+  "params":{
+    "id":"1ba8f292-335d-40df-b2ab-7dd31e80503b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

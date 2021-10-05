@@ -1,0 +1,13 @@
+{
+  "start":4976,
+  "end":5049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was not able to\n   make it, but it was part of my plans.\n \n \n   Isabel:",
+  "id":"6683fbe5-e29c-4e0f-9275-08db2703334c",
+  "params":{
+    "id":"6683fbe5-e29c-4e0f-9275-08db2703334c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

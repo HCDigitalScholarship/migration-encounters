@@ -1,0 +1,12 @@
+{
+  "start":35356,
+  "end":35394,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm ending my day \u2013 You are helping me",
+  "id":"e9c31e14-6aa5-4497-a944-0e044bab5f2d",
+  "params":{
+    "id":"d91eb881-ece0-46bb-9a10-51ee76b2febb"
+  },
+  "name":"Rodrigo"
+}

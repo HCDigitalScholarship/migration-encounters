@@ -1,0 +1,13 @@
+{
+  "start":19004,
+  "end":19052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You had said that you don't feel safe in Mexico?",
+  "id":"7d651552-7622-4a85-a55a-7b230bba6aa1",
+  "params":{
+    "id":"7d651552-7622-4a85-a55a-7b230bba6aa1",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

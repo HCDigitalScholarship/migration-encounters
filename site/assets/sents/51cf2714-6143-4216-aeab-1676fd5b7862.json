@@ -1,0 +1,13 @@
+{
+  "start":8169,
+  "end":8214,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   brothers, with their mom and everybody",
+  "id":"51cf2714-6143-4216-aeab-1676fd5b7862",
+  "params":{
+    "id":"51cf2714-6143-4216-aeab-1676fd5b7862",
+    "class":"anno"
+  },
+  "name":"Many"
+}

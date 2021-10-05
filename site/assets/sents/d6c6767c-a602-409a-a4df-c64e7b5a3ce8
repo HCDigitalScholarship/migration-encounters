@@ -1,0 +1,12 @@
+{
+  "start":7287,
+  "end":7343,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have health insurance, some kind of health care?",
+  "id":"d6c6767c-a602-409a-a4df-c64e7b5a3ce8",
+  "params":{
+    "id":"a3412be0-3dbe-4bcc-a453-685f64941fa1"
+  },
+  "name":"Yordani"
+}

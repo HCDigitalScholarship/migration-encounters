@@ -1,0 +1,12 @@
+{
+  "start":21530,
+  "end":21565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they started\n   looking for me.",
+  "id":"64a79e16-ed07-4bbc-80a6-45b74298153a",
+  "params":{
+    "id":"e81549df-a81f-47e6-b4ce-fc42575e60db"
+  },
+  "name":"Many"
+}

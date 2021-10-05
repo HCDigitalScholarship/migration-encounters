@@ -1,0 +1,13 @@
+{
+  "start":28355,
+  "end":28396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I learned\n   from the States.",
+  "id":"68dd9cd5-84a5-4119-9872-8d305d3165f2",
+  "params":{
+    "id":"68dd9cd5-84a5-4119-9872-8d305d3165f2",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

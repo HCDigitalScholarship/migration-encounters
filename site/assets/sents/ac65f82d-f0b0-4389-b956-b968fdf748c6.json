@@ -1,0 +1,13 @@
+{
+  "start":20216,
+  "end":20280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since you're now in Mexico,\n   what do you think you hope to do?",
+  "id":"ac65f82d-f0b0-4389-b956-b968fdf748c6",
+  "params":{
+    "id":"ac65f82d-f0b0-4389-b956-b968fdf748c6",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

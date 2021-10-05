@@ -1,0 +1,12 @@
+{
+  "start":23023,
+  "end":23055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just needed their job done.",
+  "id":"09b74eb8-d80e-48b8-bda5-22ac07d15b12",
+  "params":{
+    "id":"287ba295-e675-40c0-b360-adb2b53e71a1"
+  },
+  "name":"Ben"
+}

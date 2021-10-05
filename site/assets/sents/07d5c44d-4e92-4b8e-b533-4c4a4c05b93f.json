@@ -1,0 +1,13 @@
+{
+  "start":14738,
+  "end":14773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They tell you, \u201cOh you got to work.",
+  "id":"07d5c44d-4e92-4b8e-b533-4c4a4c05b93f",
+  "params":{
+    "id":"07d5c44d-4e92-4b8e-b533-4c4a4c05b93f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

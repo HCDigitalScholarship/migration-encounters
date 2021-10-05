@@ -1,0 +1,13 @@
+{
+  "start":10343,
+  "end":10398,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The easiest part was when I went to\n   the immigration.",
+  "id":"879e7f4e-b51a-4f4e-a2b4-b865384c7416",
+  "params":{
+    "id":"879e7f4e-b51a-4f4e-a2b4-b865384c7416",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

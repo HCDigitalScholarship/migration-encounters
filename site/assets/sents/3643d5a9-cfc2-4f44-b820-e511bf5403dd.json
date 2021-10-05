@@ -1,0 +1,13 @@
+{
+  "start":4080,
+  "end":4136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was like, \u201cNo, I'm never going to try this again.",
+  "id":"3643d5a9-cfc2-4f44-b820-e511bf5403dd",
+  "params":{
+    "id":"3643d5a9-cfc2-4f44-b820-e511bf5403dd",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

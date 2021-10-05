@@ -1,0 +1,12 @@
+{
+  "start":35900,
+  "end":35929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Get you out of them\n   hills.",
+  "id":"32b194ab-dee2-4c21-bea5-186822709e81",
+  "params":{
+    "id":"284f2a1e-1dd7-4ce6-a58c-596503ff11da"
+  },
+  "name":"Hugo"
+}

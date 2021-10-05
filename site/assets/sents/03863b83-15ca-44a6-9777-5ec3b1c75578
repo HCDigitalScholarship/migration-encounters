@@ -1,0 +1,12 @@
+{
+  "start":1501,
+  "end":1550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he said, \"Yeah, do you want to come with me?\"",
+  "id":"03863b83-15ca-44a6-9777-5ec3b1c75578",
+  "params":{
+    "id":"8782c9e1-d7bc-43cc-93df-a7cff2c2f2a3"
+  },
+  "name":"Luis B"
+}

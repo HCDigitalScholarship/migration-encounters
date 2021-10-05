@@ -1,0 +1,13 @@
+{
+  "start":30251,
+  "end":30400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody looks at you, everybody wants to know who you are.\n Are you some type of police officer trying to do an undercover operation or\n something?",
+  "id":"12ef7bfe-01a3-420f-a698-a7d239bb08af",
+  "params":{
+    "id":"12ef7bfe-01a3-420f-a698-a7d239bb08af",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

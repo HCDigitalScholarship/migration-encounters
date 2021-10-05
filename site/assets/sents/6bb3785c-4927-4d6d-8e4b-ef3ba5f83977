@@ -1,0 +1,12 @@
+{
+  "start":21404,
+  "end":21431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you put\n   them on mute?",
+  "id":"6bb3785c-4927-4d6d-8e4b-ef3ba5f83977",
+  "params":{
+    "id":"a1398155-53b8-4f8d-903e-2718570e08bf"
+  },
+  "name":"Rodrigo"
+}

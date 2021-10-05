@@ -1,0 +1,12 @@
+{
+  "start":21646,
+  "end":21664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That sounds great.",
+  "id":"eb9d320d-d014-4bf8-be49-a2b140db5a9b",
+  "params":{
+    "id":"03ef4060-5d86-4870-af60-049145e4bf56"
+  },
+  "name":"Edgar"
+}

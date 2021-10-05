@@ -1,0 +1,12 @@
+{
+  "start":3698,
+  "end":3713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He walked away.",
+  "id":"e842cb7a-0191-4c7b-a764-9a1596d630d1",
+  "params":{
+    "id":"d924b9df-f176-4d69-8298-63f44d29c2dd"
+  },
+  "name":"Valeria"
+}

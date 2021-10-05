@@ -1,0 +1,12 @@
+{
+  "start":255,
+  "end":333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was me and my mom\u2014 my mom is really light-skinned, and\nshe looks Caucasian.",
+  "id":"38f715c7-af2b-4d4d-8c4c-bc5b65fdebfb",
+  "params":{
+    "id":"1fc43ac5-ec79-4c4e-af99-c671e14edd4a"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14060,
+  "end":14105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you try to fight the case or you did not?",
+  "id":"097dd9b4-bb66-4fa8-ac7f-4f26e7d234a7",
+  "params":{
+    "id":"35183a64-704a-4fb5-8636-9159b0344c55"
+  },
+  "name":"Ivan B"
+}

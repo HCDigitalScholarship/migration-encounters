@@ -1,0 +1,15 @@
+{
+  "start":9513,
+  "end":9576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can\n   say it's a mentality that our University makes on us.",
+  "id":"07ea8426-2644-4a47-97bd-44413f0645c0",
+  "params":{
+    "id":"07ea8426-2644-4a47-97bd-44413f0645c0",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

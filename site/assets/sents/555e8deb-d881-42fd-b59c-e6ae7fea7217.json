@@ -1,0 +1,13 @@
+{
+  "start":32287,
+  "end":32315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody else is there too.",
+  "id":"555e8deb-d881-42fd-b59c-e6ae7fea7217",
+  "params":{
+    "id":"555e8deb-d881-42fd-b59c-e6ae7fea7217",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

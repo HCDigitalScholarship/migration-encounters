@@ -1,0 +1,12 @@
+{
+  "start":1221,
+  "end":1236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: Boring?",
+  "id":"4bf551b5-8a9b-470d-a71b-b91a3c35eb55",
+  "params":{
+    "id":"b38c913b-4dbb-49c3-9e40-678a03cfc8d2"
+  },
+  "name":"Kevin"
+}

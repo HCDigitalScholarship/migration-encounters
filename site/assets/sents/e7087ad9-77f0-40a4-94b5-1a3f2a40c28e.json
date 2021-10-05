@@ -1,0 +1,13 @@
+{
+  "start":26147,
+  "end":26225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mart\u00edn estuvo en soccer, estuvo en\n     americano estu\u2014\n \n <br/>\n \n     Anita:",
+  "id":"e7087ad9-77f0-40a4-94b5-1a3f2a40c28e",
+  "params":{
+    "id":"e7087ad9-77f0-40a4-94b5-1a3f2a40c28e",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

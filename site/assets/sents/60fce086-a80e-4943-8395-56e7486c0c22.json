@@ -1,0 +1,13 @@
+{
+  "start":16940,
+  "end":16982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you feel like you have\n   any, I guess?",
+  "id":"60fce086-a80e-4943-8395-56e7486c0c22",
+  "params":{
+    "id":"60fce086-a80e-4943-8395-56e7486c0c22",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

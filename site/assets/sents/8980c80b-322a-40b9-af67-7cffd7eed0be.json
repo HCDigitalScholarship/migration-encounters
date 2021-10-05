@@ -1,0 +1,13 @@
+{
+  "start":33749,
+  "end":33795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've had\n   traffic violations but that's it.\u201d",
+  "id":"8980c80b-322a-40b9-af67-7cffd7eed0be",
+  "params":{
+    "id":"8980c80b-322a-40b9-af67-7cffd7eed0be",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

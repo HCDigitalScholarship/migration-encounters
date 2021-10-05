@@ -1,0 +1,13 @@
+{
+  "start":15234,
+  "end":15242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yordani:",
+  "id":"640f8805-5598-41bd-b6d0-ca097ba9bb7d",
+  "params":{
+    "id":"640f8805-5598-41bd-b6d0-ca097ba9bb7d",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

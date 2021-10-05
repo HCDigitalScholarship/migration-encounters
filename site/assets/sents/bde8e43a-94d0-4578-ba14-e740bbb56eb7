@@ -1,0 +1,12 @@
+{
+  "start":17231,
+  "end":17256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They knew you were alone?",
+  "id":"bde8e43a-94d0-4578-ba14-e740bbb56eb7",
+  "params":{
+    "id":"c8ab4aea-b11c-44a2-b82b-9800d4e4bd9c"
+  },
+  "name":"Luis B"
+}

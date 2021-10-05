@@ -1,0 +1,12 @@
+{
+  "start":54805,
+  "end":54842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have family in France and in Spain.",
+  "id":"1c9233b3-bdcc-4199-b76a-179db8695c64",
+  "params":{
+    "id":"072c3457-217d-48c0-94d3-b7284c6ec8ef"
+  },
+  "name":"Joseph"
+}

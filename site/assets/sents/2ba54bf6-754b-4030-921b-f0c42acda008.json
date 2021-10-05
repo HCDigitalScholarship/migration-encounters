@@ -1,0 +1,13 @@
+{
+  "start":2188,
+  "end":2231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What caused you to leave the United States?",
+  "id":"2ba54bf6-754b-4030-921b-f0c42acda008",
+  "params":{
+    "id":"2ba54bf6-754b-4030-921b-f0c42acda008",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

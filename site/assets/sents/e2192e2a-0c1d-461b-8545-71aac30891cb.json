@@ -1,0 +1,13 @@
+{
+  "start":50132,
+  "end":50157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   she'd said, \"Why?\"",
+  "id":"e2192e2a-0c1d-461b-8545-71aac30891cb",
+  "params":{
+    "id":"e2192e2a-0c1d-461b-8545-71aac30891cb",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

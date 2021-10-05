@@ -1,0 +1,13 @@
+{
+  "start":29037,
+  "end":29070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She lives right now in Queretaro.",
+  "id":"ee2f59e6-166b-4550-933b-36d369c3ea82",
+  "params":{
+    "id":"ee2f59e6-166b-4550-933b-36d369c3ea82",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

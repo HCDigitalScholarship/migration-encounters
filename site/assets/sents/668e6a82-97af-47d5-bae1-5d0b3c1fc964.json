@@ -1,0 +1,13 @@
+{
+  "start":50059,
+  "end":50081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went back to school.",
+  "id":"668e6a82-97af-47d5-bae1-5d0b3c1fc964",
+  "params":{
+    "id":"668e6a82-97af-47d5-bae1-5d0b3c1fc964",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

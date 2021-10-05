@@ -1,0 +1,13 @@
+{
+  "start":22332,
+  "end":22348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: I\u2019m sorry.",
+  "id":"d34655f8-11c2-4b5e-b699-4acd682536db",
+  "params":{
+    "id":"d34655f8-11c2-4b5e-b699-4acd682536db",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

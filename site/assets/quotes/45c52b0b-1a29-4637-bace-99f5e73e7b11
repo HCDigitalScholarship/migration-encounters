@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":20854,
+  "end":20859,
+  "text":"\n   Anne: And where do you work?\n \n \n   Edgar: I work here at EG Logistics.\n \n \n   Anne: Uh-huh (affirmative).\n \n \n   Edgar: Yeah. I work there for right now.\n \n \n   Anne: Is it a call center?\n \n \n   Edgar: No. It's Logistic.\n \n \n   Anne: Uh-huh (affirmative).\n \n \n   Edgar: Yeah. We help truckers find a load.\n \n \n   Anne: Is it good?\n \n \n   Edgar: The job?\n \n \n   Anne: Yeah.\n \n \n   Edgar: Well, I'm one",
+  "label":"PERSON",
+  "id":"45c52b0b-1a29-4637-bace-99f5e73e7b11",
+  "name":"Edgar"
+}

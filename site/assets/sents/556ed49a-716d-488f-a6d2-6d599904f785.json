@@ -1,0 +1,13 @@
+{
+  "start":8681,
+  "end":8769,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was over there in ____, so we went, and I stayed with my mom\n   for a little bit.",
+  "id":"556ed49a-716d-488f-a6d2-6d599904f785",
+  "params":{
+    "id":"556ed49a-716d-488f-a6d2-6d599904f785",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

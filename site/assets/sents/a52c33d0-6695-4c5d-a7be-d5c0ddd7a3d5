@@ -1,0 +1,12 @@
+{
+  "start":29008,
+  "end":29048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My uncle told me to become\n   a teacher.",
+  "id":"a52c33d0-6695-4c5d-a7be-d5c0ddd7a3d5",
+  "params":{
+    "id":"7dc7bc46-0fb3-4a49-ac24-631499ad61cc"
+  },
+  "name":"Sylent"
+}

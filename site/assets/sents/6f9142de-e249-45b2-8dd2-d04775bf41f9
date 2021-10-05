@@ -1,0 +1,12 @@
+{
+  "start":67780,
+  "end":67819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, go ahead, say it all you want to.",
+  "id":"6f9142de-e249-45b2-8dd2-d04775bf41f9",
+  "params":{
+    "id":"611f3b1b-d6ba-4b3a-814a-908e6af88d08"
+  },
+  "name":"Axel"
+}

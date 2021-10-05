@@ -1,0 +1,13 @@
+{
+  "start":2478,
+  "end":2527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you\n   in the wrong place at the wrong time?",
+  "id":"0c3ac60a-ca45-4cf5-b602-accb3b2aa9a3",
+  "params":{
+    "id":"0c3ac60a-ca45-4cf5-b602-accb3b2aa9a3",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

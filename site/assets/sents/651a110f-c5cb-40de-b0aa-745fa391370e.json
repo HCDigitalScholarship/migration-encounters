@@ -1,0 +1,13 @@
+{
+  "start":1258,
+  "end":1273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, we\n   are.",
+  "id":"651a110f-c5cb-40de-b0aa-745fa391370e",
+  "params":{
+    "id":"651a110f-c5cb-40de-b0aa-745fa391370e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14092,
+  "end":14115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I crossed right\nacross.",
+  "id":"8cbc3472-3898-4089-b838-84c629054d6c",
+  "params":{
+    "id":"b97aa153-71d0-4535-88a5-73b08af2685c"
+  },
+  "name":"Abel"
+}

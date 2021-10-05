@@ -1,0 +1,12 @@
+{
+  "start":49040,
+  "end":49125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can say a week, you can say a month, I\n     don't know what-\n   \n   \n     Joseph:",
+  "id":"70002dd7-2885-4e09-aa06-55e499e3ed1c",
+  "params":{
+    "id":"adcfd174-e2d0-48b6-b185-8734c4774a9c"
+  },
+  "name":"Joseph"
+}

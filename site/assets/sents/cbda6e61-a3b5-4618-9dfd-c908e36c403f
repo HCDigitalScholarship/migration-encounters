@@ -1,0 +1,12 @@
+{
+  "start":37189,
+  "end":37244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when it\n   rains that whole street will get flooded.",
+  "id":"cbda6e61-a3b5-4618-9dfd-c908e36c403f",
+  "params":{
+    "id":"bb217f79-0ecb-400b-b108-2676152d69cc"
+  },
+  "name":"Ruben"
+}

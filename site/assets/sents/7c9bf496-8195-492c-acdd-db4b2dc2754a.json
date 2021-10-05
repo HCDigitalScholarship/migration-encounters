@@ -1,0 +1,13 @@
+{
+  "start":27981,
+  "end":28024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I believe I was 20 when I first had my kid.",
+  "id":"7c9bf496-8195-492c-acdd-db4b2dc2754a",
+  "params":{
+    "id":"7c9bf496-8195-492c-acdd-db4b2dc2754a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

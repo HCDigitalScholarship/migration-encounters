@@ -1,0 +1,12 @@
+{
+  "start":16005,
+  "end":16014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can go.",
+  "id":"9fb188e5-a04c-4e26-94c7-8d7a7a72e136",
+  "params":{
+    "id":"b0776a82-1785-407a-9d79-915a670d10e0"
+  },
+  "name":"Edgar"
+}

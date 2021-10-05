@@ -1,0 +1,13 @@
+{
+  "start":41231,
+  "end":41318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have no idea how to\n   answer because I don't feel Mexican and I don't feel American.",
+  "id":"976e4cb1-f2b1-4be6-8ab8-00ca188b7c9c",
+  "params":{
+    "id":"976e4cb1-f2b1-4be6-8ab8-00ca188b7c9c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1744,
+  "end":1862,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know any English, but my mom had a friend who\n   spoke really good English, so she was the one who taught me.",
+  "id":"e982a223-7009-462c-b45b-f2238f4c8031",
+  "params":{
+    "id":"e982a223-7009-462c-b45b-f2238f4c8031",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

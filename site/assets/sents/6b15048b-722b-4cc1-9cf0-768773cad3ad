@@ -1,0 +1,12 @@
+{
+  "start":18399,
+  "end":18433,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"What's going\n   on?",
+  "id":"6b15048b-722b-4cc1-9cf0-768773cad3ad",
+  "params":{
+    "id":"6063fc39-f580-4290-9afe-97230a32c8bf"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29182,
+  "end":29202,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just learning.",
+  "id":"6c993331-60c3-4581-bfbd-0c833b8f3b64",
+  "params":{
+    "id":"6c993331-60c3-4581-bfbd-0c833b8f3b64",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

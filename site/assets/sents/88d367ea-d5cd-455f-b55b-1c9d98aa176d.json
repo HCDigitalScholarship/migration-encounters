@@ -1,0 +1,13 @@
+{
+  "start":10655,
+  "end":10782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then\n after a while it was, \"Okay, well we need you because we've heard of you\n and we need you to pick our store back up.\"",
+  "id":"88d367ea-d5cd-455f-b55b-1c9d98aa176d",
+  "params":{
+    "id":"88d367ea-d5cd-455f-b55b-1c9d98aa176d",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

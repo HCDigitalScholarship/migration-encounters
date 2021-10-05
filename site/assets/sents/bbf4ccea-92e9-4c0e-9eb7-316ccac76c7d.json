@@ -1,0 +1,13 @@
+{
+  "start":51312,
+  "end":51347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"You passed it, everything's good.\"",
+  "id":"bbf4ccea-92e9-4c0e-9eb7-316ccac76c7d",
+  "params":{
+    "id":"bbf4ccea-92e9-4c0e-9eb7-316ccac76c7d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

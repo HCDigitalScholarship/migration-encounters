@@ -1,0 +1,12 @@
+{
+  "start":9996,
+  "end":10028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was another great\n   teacher.",
+  "id":"1ca97dba-765e-4fa6-a5af-a2e02355dc6c",
+  "params":{
+    "id":"314cc603-f0c4-4be1-8493-61778d8e493f"
+  },
+  "name":"Rodolfo"
+}

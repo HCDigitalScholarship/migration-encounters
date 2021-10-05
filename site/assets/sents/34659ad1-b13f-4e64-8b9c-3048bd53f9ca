@@ -1,0 +1,12 @@
+{
+  "start":51146,
+  "end":51184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you still have relatives in the US?",
+  "id":"34659ad1-b13f-4e64-8b9c-3048bd53f9ca",
+  "params":{
+    "id":"cc5ebb72-c910-4767-b638-94c773d038cd"
+  },
+  "name":"Joseph"
+}

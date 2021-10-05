@@ -1,0 +1,13 @@
+{
+  "start":10633,
+  "end":10678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had other reasons why\n I didn't want to go.",
+  "id":"11dced09-b54a-4fcb-bdf7-3186250c2120",
+  "params":{
+    "id":"11dced09-b54a-4fcb-bdf7-3186250c2120",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

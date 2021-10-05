@@ -1,0 +1,12 @@
+{
+  "start":52257,
+  "end":52290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"I can\n   go to Mexico.",
+  "id":"464d07e7-0a9b-4141-931c-3865fe920972",
+  "params":{
+    "id":"fc7b8c10-c3e4-47f2-a5c2-de2a6db0d712"
+  },
+  "name":"Cris"
+}

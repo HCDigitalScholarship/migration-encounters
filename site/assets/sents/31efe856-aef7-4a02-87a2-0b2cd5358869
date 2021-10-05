@@ -1,0 +1,12 @@
+{
+  "start":19463,
+  "end":19474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey Beto.\"",
+  "id":"31efe856-aef7-4a02-87a2-0b2cd5358869",
+  "params":{
+    "id":"c46ec2b6-1d59-4514-b18c-32f3995690be"
+  },
+  "name":"Beto"
+}

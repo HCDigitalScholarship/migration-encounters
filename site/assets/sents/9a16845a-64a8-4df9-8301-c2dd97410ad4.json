@@ -1,0 +1,13 @@
+{
+  "start":2333,
+  "end":2364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was the only Mexican\n   girl.",
+  "id":"9a16845a-64a8-4df9-8301-c2dd97410ad4",
+  "params":{
+    "id":"9a16845a-64a8-4df9-8301-c2dd97410ad4",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

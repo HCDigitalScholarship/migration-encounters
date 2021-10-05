@@ -1,0 +1,13 @@
+{
+  "start":23011,
+  "end":23055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Because the bullet came out.\u201d",
+  "id":"f2419f6f-81e7-4e4d-91af-00dff06e222f",
+  "params":{
+    "id":"f2419f6f-81e7-4e4d-91af-00dff06e222f",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

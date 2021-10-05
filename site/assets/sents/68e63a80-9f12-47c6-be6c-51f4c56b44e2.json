@@ -1,0 +1,13 @@
+{
+  "start":11592,
+  "end":11642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I received the news that he had cancer\n   too.",
+  "id":"68e63a80-9f12-47c6-be6c-51f4c56b44e2",
+  "params":{
+    "id":"68e63a80-9f12-47c6-be6c-51f4c56b44e2",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

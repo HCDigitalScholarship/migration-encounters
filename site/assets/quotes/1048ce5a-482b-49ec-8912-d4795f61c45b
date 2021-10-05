@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":250,
+  "end":256,
+  "text":"old are you?\n \n \n   Melani: I'm 18.\n \n \n   Anita: Where were you born?\n \n \n   Melani: In Tlaxcala, Tlaxcala.\n \n \n   Anita: Which is Mexico City?\n \n \n   Melani: No, it's another state. It's underneath Puebla, which is right next\n   to it.\n \n \n   Anita: In the state of Puebla?\n \n \n   Melani: No, Tlaxcala, Tlaxcala. The capital and the state are the same\n   name.\n \n \n   Anita: Okay. Sorry. Did you go to sc",
+  "label":"GPE",
+  "id":"1048ce5a-482b-49ec-8912-d4795f61c45b",
+  "name":"Melani"
+}

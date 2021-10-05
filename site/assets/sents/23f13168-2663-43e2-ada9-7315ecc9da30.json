@@ -1,0 +1,13 @@
+{
+  "start":18958,
+  "end":19017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure if you're familiar with Maus, the comic books.",
+  "id":"23f13168-2663-43e2-ada9-7315ecc9da30",
+  "params":{
+    "id":"23f13168-2663-43e2-ada9-7315ecc9da30",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4517,
+  "end":4539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Skipped a grade?",
+  "id":"4b08a8ab-22e9-4531-ad3b-5d66bf1a0b37",
+  "params":{
+    "id":"4b08a8ab-22e9-4531-ad3b-5d66bf1a0b37",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

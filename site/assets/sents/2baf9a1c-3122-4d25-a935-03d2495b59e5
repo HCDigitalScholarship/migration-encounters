@@ -1,0 +1,12 @@
+{
+  "start":9789,
+  "end":9837,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're not\n   going to report you to immigration.",
+  "id":"2baf9a1c-3122-4d25-a935-03d2495b59e5",
+  "params":{
+    "id":"7d8781b3-cb63-4617-8f7c-15a214e3acae"
+  },
+  "name":"Yordani"
+}

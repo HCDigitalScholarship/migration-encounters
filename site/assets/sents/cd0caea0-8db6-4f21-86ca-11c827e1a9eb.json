@@ -1,0 +1,13 @@
+{
+  "start":41744,
+  "end":41828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was spoken to them last year, they didn't even\n   want to talk to me anymore.",
+  "id":"cd0caea0-8db6-4f21-86ca-11c827e1a9eb",
+  "params":{
+    "id":"cd0caea0-8db6-4f21-86ca-11c827e1a9eb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":38156,
+  "end":38207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He understands\n   it, but he doesn't speak it well.",
+  "id":"5725cd35-d354-407c-a5ad-7f03cb3a162a",
+  "params":{
+    "id":"38d7b33b-e722-4e3b-86b9-3e732c2ed3f9"
+  },
+  "name":"Jeimmy"
+}

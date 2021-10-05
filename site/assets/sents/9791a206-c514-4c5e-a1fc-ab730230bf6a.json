@@ -1,0 +1,13 @@
+{
+  "start":9884,
+  "end":9999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Her mom, she actually\n   called the cops on me because we were fighting and stuff, so yeah they took\n   me to jail.",
+  "id":"9791a206-c514-4c5e-a1fc-ab730230bf6a",
+  "params":{
+    "id":"9791a206-c514-4c5e-a1fc-ab730230bf6a",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

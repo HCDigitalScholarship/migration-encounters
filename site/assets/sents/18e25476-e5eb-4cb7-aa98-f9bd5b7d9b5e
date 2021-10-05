@@ -1,0 +1,12 @@
+{
+  "start":11873,
+  "end":11925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That wasn't the nearest high school to our\n   house.",
+  "id":"18e25476-e5eb-4cb7-aa98-f9bd5b7d9b5e",
+  "params":{
+    "id":"d269fa53-b8d2-47ee-9ee1-cbe4dd6372e1"
+  },
+  "name":"Luis A"
+}

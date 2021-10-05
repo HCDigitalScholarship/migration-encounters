@@ -1,0 +1,12 @@
+{
+  "start":64906,
+  "end":64998,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like that type of stuff and it\n gets my mind over, but I was never too much of a follower.",
+  "id":"c4a5472d-e364-49d3-8c4d-bbd960326a8c",
+  "params":{
+    "id":"c21a89c9-5359-4d19-8875-e84c9a575e07"
+  },
+  "name":"Axel"
+}

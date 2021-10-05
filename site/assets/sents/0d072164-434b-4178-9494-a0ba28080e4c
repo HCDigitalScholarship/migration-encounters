@@ -1,0 +1,12 @@
+{
+  "start":7813,
+  "end":7930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   doctor was giving me instructions because they wanted to remove the tube,\n   and I had to sit up or something.",
+  "id":"0d072164-434b-4178-9494-a0ba28080e4c",
+  "params":{
+    "id":"e8e5f26b-e63c-45e2-94cc-f60b2ffa0d7d"
+  },
+  "name":"Yordani"
+}

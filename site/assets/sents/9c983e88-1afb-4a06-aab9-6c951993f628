@@ -1,0 +1,12 @@
+{
+  "start":21599,
+  "end":21617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love that place.",
+  "id":"9c983e88-1afb-4a06-aab9-6c951993f628",
+  "params":{
+    "id":"9c922815-6588-4cc5-94e4-0a61b7d643de"
+  },
+  "name":"Abel"
+}

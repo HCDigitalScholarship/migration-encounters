@@ -1,0 +1,12 @@
+{
+  "start":51102,
+  "end":51138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are they permanent residents or not?",
+  "id":"d1ac6868-6bba-4512-a26e-95c92c989490",
+  "params":{
+    "id":"fbdb7978-3aba-472b-be4e-79763bd37d6b"
+  },
+  "name":"Mike"
+}

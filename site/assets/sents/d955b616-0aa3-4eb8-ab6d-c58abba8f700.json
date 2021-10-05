@@ -1,0 +1,13 @@
+{
+  "start":25480,
+  "end":25514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he's the humblest person ever.",
+  "id":"d955b616-0aa3-4eb8-ab6d-c58abba8f700",
+  "params":{
+    "id":"d955b616-0aa3-4eb8-ab6d-c58abba8f700",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

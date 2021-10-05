@@ -1,0 +1,12 @@
+{
+  "start":4480,
+  "end":4577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was twenty-one when I left for the United States and at the moment,\n   I'm fifty-two years old.",
+  "id":"32d5c08d-e97f-41d3-b0fd-11076f9c86df",
+  "params":{
+    "id":"dad2d92a-a269-4fdb-a9f7-627f79080627"
+  },
+  "name":"Juan A"
+}

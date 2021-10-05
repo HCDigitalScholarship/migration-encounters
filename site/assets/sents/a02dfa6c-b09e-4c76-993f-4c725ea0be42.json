@@ -1,0 +1,12 @@
+{
+  "start":69,
+  "end":108,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, like you said, my name is Cristian.",
+  "id":"a02dfa6c-b09e-4c76-993f-4c725ea0be42",
+  "params":{
+    "id":"dad26ad0-28ca-4b3e-a0de-04326123ba1f"
+  },
+  "name":"Cris"
+}

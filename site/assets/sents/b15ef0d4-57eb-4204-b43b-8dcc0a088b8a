@@ -1,0 +1,12 @@
+{
+  "start":7796,
+  "end":7841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have contact with your family at all?",
+  "id":"b15ef0d4-57eb-4204-b43b-8dcc0a088b8a",
+  "params":{
+    "id":"a7515de0-29de-442b-bf95-4c9ca9680371"
+  },
+  "name":"Kevin"
+}

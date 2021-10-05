@@ -1,0 +1,13 @@
+{
+  "start":19225,
+  "end":19304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that's too much for you, you don't want to go through that whole\n   process?",
+  "id":"3ed7f8f1-b1b3-40a4-8193-a89c2030e45f",
+  "params":{
+    "id":"3ed7f8f1-b1b3-40a4-8193-a89c2030e45f",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

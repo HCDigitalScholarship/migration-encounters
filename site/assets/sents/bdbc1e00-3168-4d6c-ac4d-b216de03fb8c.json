@@ -1,0 +1,13 @@
+{
+  "start":35684,
+  "end":35717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't know what\n     you are.",
+  "id":"bdbc1e00-3168-4d6c-ac4d-b216de03fb8c",
+  "params":{
+    "id":"bdbc1e00-3168-4d6c-ac4d-b216de03fb8c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":49208,
+  "end":49264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I don't know if you're paid by-\n   \n   \n     Joseph:",
+  "id":"bda37500-0d01-4941-a757-f837a267f235",
+  "params":{
+    "id":"ddfdc259-a27c-4da0-871f-9efc7f56feac"
+  },
+  "name":"Joseph"
+}

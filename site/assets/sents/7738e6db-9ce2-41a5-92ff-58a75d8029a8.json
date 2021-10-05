@@ -1,0 +1,13 @@
+{
+  "start":65016,
+  "end":65039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"United States is right.",
+  "id":"7738e6db-9ce2-41a5-92ff-58a75d8029a8",
+  "params":{
+    "id":"7738e6db-9ce2-41a5-92ff-58a75d8029a8",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10267,
+  "end":10292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm twenty-one right now.",
+  "id":"8f181de8-cc7e-4b59-a0be-089a01a528bd",
+  "params":{
+    "id":"faee7443-34ef-4e34-9cf4-a19aa6dabb6a"
+  },
+  "name":"Luis B"
+}

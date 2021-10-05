@@ -1,0 +1,12 @@
+{
+  "start":35771,
+  "end":35822,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She tells me, \"Hey, can you clean\n   up my garden?\"",
+  "id":"31283e3a-f637-491f-9733-43cc9cc7c4f8",
+  "params":{
+    "id":"a2c7c899-a23a-46c3-b579-710af0baa0b7"
+  },
+  "name":"Ruben"
+}

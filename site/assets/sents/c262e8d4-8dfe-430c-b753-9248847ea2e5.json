@@ -1,0 +1,13 @@
+{
+  "start":30085,
+  "end":30113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just look at it like that.",
+  "id":"c262e8d4-8dfe-430c-b753-9248847ea2e5",
+  "params":{
+    "id":"c262e8d4-8dfe-430c-b753-9248847ea2e5",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

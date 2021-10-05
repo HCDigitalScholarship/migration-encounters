@@ -1,0 +1,12 @@
+{
+  "start":20783,
+  "end":20848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"15 days,\n   which is, you do 10% of 15 days, how much time is it?",
+  "id":"0ff64bea-0f46-4b3f-9299-28aef1bfba54",
+  "params":{
+    "id":"ea272e1b-c48f-4813-b105-e4c9dd918c99"
+  },
+  "name":"Hugo"
+}

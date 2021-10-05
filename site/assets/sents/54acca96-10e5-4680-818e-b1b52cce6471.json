@@ -1,0 +1,13 @@
+{
+  "start":12561,
+  "end":12620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Dude, I'm a little kid I don't\n   deserve this.\"",
+  "id":"54acca96-10e5-4680-818e-b1b52cce6471",
+  "params":{
+    "id":"54acca96-10e5-4680-818e-b1b52cce6471",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

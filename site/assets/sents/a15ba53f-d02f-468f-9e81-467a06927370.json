@@ -1,0 +1,13 @@
+{
+  "start":30554,
+  "end":30595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He knows, like I tell him, \"Do your bed.\"",
+  "id":"a15ba53f-d02f-468f-9e81-467a06927370",
+  "params":{
+    "id":"a15ba53f-d02f-468f-9e81-467a06927370",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

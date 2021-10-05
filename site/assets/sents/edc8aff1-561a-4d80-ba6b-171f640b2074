@@ -1,0 +1,12 @@
+{
+  "start":23132,
+  "end":23172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to suffer the\n   consequences.",
+  "id":"edc8aff1-561a-4d80-ba6b-171f640b2074",
+  "params":{
+    "id":"f842e47d-bef8-44e9-b3ab-eaf97a6ddbc3"
+  },
+  "name":"Kevin"
+}

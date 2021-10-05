@@ -1,0 +1,12 @@
+{
+  "start":10885,
+  "end":10989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Not mad, but...well, yeah, mad, but she told me that I'm going to do\n   whatever I'm going to do.",
+  "id":"084fc1e5-d66a-4f38-b29e-eb79f0137356",
+  "params":{
+    "id":"6e1640f7-086d-4034-b1df-080ba855cea6"
+  },
+  "name":"Edgar"
+}

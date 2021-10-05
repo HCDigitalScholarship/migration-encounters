@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":7369,
+  "end":7374,
+  "text":"Anne: So you got married at some point?\n      \n      \nAbel: Yeah.\n      \n      \nAnne: And you got in trouble at some point?\n      \n      \nAbel: [Affirmative noise].\n      \n      \nAnne: Which happened first?\n      \n      \nAbel: I got in trouble first. Like I said, I had already gotten my papers\nin '88.\n      \n      \nAnne: Talk a little bit about that, about the papers, because that's\ninteresting.\n      ",
+  "label":"ORDINAL",
+  "id":"983eb340-25a7-4328-a311-d6174cbc7d4b",
+  "name":"Abel"
+}

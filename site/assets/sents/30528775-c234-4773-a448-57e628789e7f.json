@@ -1,0 +1,13 @@
+{
+  "start":20371,
+  "end":20388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I take a bus.",
+  "id":"30528775-c234-4773-a448-57e628789e7f",
+  "params":{
+    "id":"30528775-c234-4773-a448-57e628789e7f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

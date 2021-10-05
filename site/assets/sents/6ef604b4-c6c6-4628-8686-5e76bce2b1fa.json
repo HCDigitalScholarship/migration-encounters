@@ -1,0 +1,12 @@
+{
+  "start":15196,
+  "end":15225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Drinking?\n \n \n   Edgar:",
+  "id":"6ef604b4-c6c6-4628-8686-5e76bce2b1fa",
+  "params":{
+    "id":"a8763451-a72e-4a4f-9676-5d1a69e80ca9"
+  },
+  "name":"Edgar"
+}

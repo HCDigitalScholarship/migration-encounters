@@ -1,0 +1,12 @@
+{
+  "start":37241,
+  "end":37272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The playground is\n   destroyed.",
+  "id":"fd196f50-9875-4c6e-a489-76bae8fcc0f4",
+  "params":{
+    "id":"af2e5958-c3d5-4758-ab7b-2466c668ae47"
+  },
+  "name":"Olimpya"
+}

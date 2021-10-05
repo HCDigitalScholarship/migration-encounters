@@ -1,0 +1,13 @@
+{
+  "start":25954,
+  "end":26003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that program didn't apply to us, they\n   said.",
+  "id":"cb73d550-01fc-4d3e-958c-ec9eae03b8c9",
+  "params":{
+    "id":"cb73d550-01fc-4d3e-958c-ec9eae03b8c9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

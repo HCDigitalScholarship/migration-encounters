@@ -1,0 +1,12 @@
+{
+  "start":24422,
+  "end":24479,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't do it in the States, but you did it in Mexico.",
+  "id":"8e77b0cc-deef-40f9-986b-1be335396b15",
+  "params":{
+    "id":"4045fd86-b433-4abf-b47a-2b35627ea583"
+  },
+  "name":"Olimpya"
+}

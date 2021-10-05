@@ -1,0 +1,13 @@
+{
+  "start":21073,
+  "end":21097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was kinda a relief.",
+  "id":"ca72852d-67f5-4b35-a14e-836999219b23",
+  "params":{
+    "id":"ca72852d-67f5-4b35-a14e-836999219b23",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

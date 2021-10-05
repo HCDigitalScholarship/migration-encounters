@@ -1,0 +1,13 @@
+{
+  "start":18738,
+  "end":18759,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is\n   dangerous.",
+  "id":"5f47cea5-1780-479d-8117-13251ab6d669",
+  "params":{
+    "id":"5f47cea5-1780-479d-8117-13251ab6d669",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5777,
+  "end":5829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because they like Mexico and I don't like\n   Mexico.",
+  "id":"902beaa4-c966-4053-b12f-72f8d3820c05",
+  "params":{
+    "id":"27030f80-db86-4f86-a276-8cac3b982857"
+  },
+  "name":"Ivan"
+}

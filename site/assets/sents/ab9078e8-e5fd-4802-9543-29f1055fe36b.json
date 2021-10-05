@@ -1,0 +1,13 @@
+{
+  "start":8754,
+  "end":8786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was driving without a license.",
+  "id":"ab9078e8-e5fd-4802-9543-29f1055fe36b",
+  "params":{
+    "id":"ab9078e8-e5fd-4802-9543-29f1055fe36b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

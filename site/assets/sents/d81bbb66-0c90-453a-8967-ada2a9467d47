@@ -1,0 +1,12 @@
+{
+  "start":15425,
+  "end":15444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You got handcuffed.",
+  "id":"d81bbb66-0c90-453a-8967-ada2a9467d47",
+  "params":{
+    "id":"4f74d017-b010-4a96-a336-773563fc0779"
+  },
+  "name":"Sylent"
+}

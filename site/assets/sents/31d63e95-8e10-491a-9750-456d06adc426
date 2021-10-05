@@ -1,0 +1,12 @@
+{
+  "start":40098,
+  "end":40206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And, I was going to ask you another question, have you got your high\n school diploma certified and all that?",
+  "id":"31d63e95-8e10-491a-9750-456d06adc426",
+  "params":{
+    "id":"a5a68af5-e668-474a-8dae-12fc3eecf808"
+  },
+  "name":"Billy"
+}

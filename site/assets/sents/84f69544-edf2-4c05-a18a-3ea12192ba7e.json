@@ -1,0 +1,13 @@
+{
+  "start":32697,
+  "end":32732,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that I started skateboarding.",
+  "id":"84f69544-edf2-4c05-a18a-3ea12192ba7e",
+  "params":{
+    "id":"84f69544-edf2-4c05-a18a-3ea12192ba7e",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

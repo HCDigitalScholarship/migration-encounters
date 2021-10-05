@@ -1,0 +1,13 @@
+{
+  "start":49229,
+  "end":49251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"as\n   much as he could",
+  "id":"abcb1cbf-31a5-4067-8789-a8658f2c812d",
+  "params":{
+    "id":"abcb1cbf-31a5-4067-8789-a8658f2c812d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

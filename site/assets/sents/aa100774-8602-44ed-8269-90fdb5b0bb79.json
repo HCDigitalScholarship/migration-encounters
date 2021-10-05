@@ -1,0 +1,13 @@
+{
+  "start":28587,
+  "end":28636,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's really expensive and my mom can't afford it.",
+  "id":"aa100774-8602-44ed-8269-90fdb5b0bb79",
+  "params":{
+    "id":"aa100774-8602-44ed-8269-90fdb5b0bb79",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

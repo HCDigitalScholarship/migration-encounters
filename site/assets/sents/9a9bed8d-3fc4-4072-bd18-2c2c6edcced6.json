@@ -1,0 +1,13 @@
+{
+  "start":4607,
+  "end":4703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He give us food, we took a shower, and then\n   he took us to California where we supposed to be.",
+  "id":"9a9bed8d-3fc4-4072-bd18-2c2c6edcced6",
+  "params":{
+    "id":"9a9bed8d-3fc4-4072-bd18-2c2c6edcced6",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

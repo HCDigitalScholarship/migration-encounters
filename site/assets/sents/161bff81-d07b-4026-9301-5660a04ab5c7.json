@@ -1,0 +1,13 @@
+{
+  "start":38085,
+  "end":38101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it the U.S.?",
+  "id":"161bff81-d07b-4026-9301-5660a04ab5c7",
+  "params":{
+    "id":"161bff81-d07b-4026-9301-5660a04ab5c7",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

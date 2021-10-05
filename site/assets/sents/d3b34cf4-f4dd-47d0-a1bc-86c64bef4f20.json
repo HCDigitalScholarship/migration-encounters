@@ -1,0 +1,13 @@
+{
+  "start":6695,
+  "end":6759,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that\n     then it goes to product, which is not difficult.",
+  "id":"d3b34cf4-f4dd-47d0-a1bc-86c64bef4f20",
+  "params":{
+    "id":"d3b34cf4-f4dd-47d0-a1bc-86c64bef4f20",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

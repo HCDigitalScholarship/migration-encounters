@@ -1,0 +1,12 @@
+{
+  "start":9403,
+  "end":9454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He bought his own house, but it was\n   way too far.",
+  "id":"766a7480-c7a1-40fa-994b-e242426552c8",
+  "params":{
+    "id":"1f616384-506a-40fc-a6bc-bea7a53f9125"
+  },
+  "name":"Daniel"
+}

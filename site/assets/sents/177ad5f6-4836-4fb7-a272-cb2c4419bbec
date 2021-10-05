@@ -1,0 +1,12 @@
+{
+  "start":54653,
+  "end":54756,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Usted vivi\u00f3 con su familia siempre en Arkansas.\n \n <br/>\n \n     Maria: Siempre.\n \n <br/>\n \n     ",
+  "id":"177ad5f6-4836-4fb7-a272-cb2c4419bbec",
+  "params":{
+    "id":"cd62e83e-0eef-4659-885f-4739bb84e1cc"
+  },
+  "name":"Maria"
+}

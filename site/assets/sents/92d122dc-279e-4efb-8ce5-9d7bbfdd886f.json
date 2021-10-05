@@ -1,0 +1,13 @@
+{
+  "start":32153,
+  "end":32173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then you're Mexican.",
+  "id":"92d122dc-279e-4efb-8ce5-9d7bbfdd886f",
+  "params":{
+    "id":"92d122dc-279e-4efb-8ce5-9d7bbfdd886f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

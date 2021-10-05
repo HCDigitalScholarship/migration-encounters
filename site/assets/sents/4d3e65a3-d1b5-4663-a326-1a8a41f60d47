@@ -1,0 +1,12 @@
+{
+  "start":4243,
+  "end":4271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually\n   went to trial.",
+  "id":"4d3e65a3-d1b5-4663-a326-1a8a41f60d47",
+  "params":{
+    "id":"99f57632-682c-48d5-98af-a104341ac048"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32620,
+  "end":32643,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   don't have money.",
+  "id":"67e2d9ef-447e-4047-bc70-243a6e0c4c4f",
+  "params":{
+    "id":"67e2d9ef-447e-4047-bc70-243a6e0c4c4f",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

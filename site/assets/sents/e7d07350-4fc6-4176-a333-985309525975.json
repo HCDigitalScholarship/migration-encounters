@@ -1,0 +1,13 @@
+{
+  "start":8180,
+  "end":8229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Send me some money\n   because I got to come home.",
+  "id":"e7d07350-4fc6-4176-a333-985309525975",
+  "params":{
+    "id":"e7d07350-4fc6-4176-a333-985309525975",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

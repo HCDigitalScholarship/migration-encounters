@@ -1,0 +1,13 @@
+{
+  "start":6446,
+  "end":6471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it's a pride thing.",
+  "id":"f5628c12-141e-44b3-ab1d-68d20e328cbf",
+  "params":{
+    "id":"f5628c12-141e-44b3-ab1d-68d20e328cbf",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

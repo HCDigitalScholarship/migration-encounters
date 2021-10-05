@@ -1,0 +1,13 @@
+{
+  "start":21573,
+  "end":21639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I had to go to therapy, which was a good\n   thing twice a week.",
+  "id":"33b9fcbb-260d-4c0d-8037-0dfda17d68a0",
+  "params":{
+    "id":"33b9fcbb-260d-4c0d-8037-0dfda17d68a0",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

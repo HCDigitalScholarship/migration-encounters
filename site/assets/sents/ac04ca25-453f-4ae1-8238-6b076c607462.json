@@ -1,0 +1,13 @@
+{
+  "start":37425,
+  "end":37499,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even though Smokey is not a math genius, he has this very good\n   English.",
+  "id":"ac04ca25-453f-4ae1-8238-6b076c607462",
+  "params":{
+    "id":"ac04ca25-453f-4ae1-8238-6b076c607462",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

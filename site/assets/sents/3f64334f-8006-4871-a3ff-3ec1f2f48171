@@ -1,0 +1,12 @@
+{
+  "start":32501,
+  "end":32535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had his five kids in his truck.",
+  "id":"3f64334f-8006-4871-a3ff-3ec1f2f48171",
+  "params":{
+    "id":"8911b72e-9026-4822-a583-304b1ea2dab3"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23103,
+  "end":23124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: In Mexico City?",
+  "id":"4837adb5-a18e-4cc0-b3ba-3e077dfd62c7",
+  "params":{
+    "id":"4837adb5-a18e-4cc0-b3ba-3e077dfd62c7",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

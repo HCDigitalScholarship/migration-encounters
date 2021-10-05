@@ -1,0 +1,12 @@
+{
+  "start":9655,
+  "end":9720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzie: Sure.\n \n \n   Frank: La technica al servicio de la patria.",
+  "id":"c719cd53-eaa8-40bb-b28d-cd9ebb5f3d07",
+  "params":{
+    "id":"64d2855b-7422-40d7-a44e-e7dce0a0e535"
+  },
+  "name":"Frank"
+}

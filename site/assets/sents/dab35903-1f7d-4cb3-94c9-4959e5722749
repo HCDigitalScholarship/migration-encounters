@@ -1,0 +1,12 @@
+{
+  "start":11920,
+  "end":11951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Her\n   name was Rosa Velazquez.",
+  "id":"dab35903-1f7d-4cb3-94c9-4959e5722749",
+  "params":{
+    "id":"8acda751-4e84-485f-aa47-256ef93ddad0"
+  },
+  "name":"Carolina"
+}

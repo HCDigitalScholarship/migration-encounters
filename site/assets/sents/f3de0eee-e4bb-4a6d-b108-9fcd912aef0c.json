@@ -1,0 +1,13 @@
+{
+  "start":69000,
+  "end":69070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n person's not even there. So I'm like, \"Hey.\"\n      \n      \n Axel:",
+  "id":"f3de0eee-e4bb-4a6d-b108-9fcd912aef0c",
+  "params":{
+    "id":"f3de0eee-e4bb-4a6d-b108-9fcd912aef0c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

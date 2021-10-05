@@ -1,0 +1,12 @@
+{
+  "start":1555,
+  "end":1574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went over there.",
+  "id":"3fadc9bf-c9b2-48fa-a89e-2851388b81a2",
+  "params":{
+    "id":"3116d2df-e81e-47da-a0fb-5295da9652f2"
+  },
+  "name":"Yair"
+}

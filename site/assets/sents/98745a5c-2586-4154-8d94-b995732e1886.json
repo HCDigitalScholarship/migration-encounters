@@ -1,0 +1,13 @@
+{
+  "start":3620,
+  "end":3665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't talk bad about\n     the call centers.",
+  "id":"98745a5c-2586-4154-8d94-b995732e1886",
+  "params":{
+    "id":"98745a5c-2586-4154-8d94-b995732e1886",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

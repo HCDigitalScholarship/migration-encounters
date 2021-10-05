@@ -1,0 +1,13 @@
+{
+  "start":12793,
+  "end":12810,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why.",
+  "id":"bdbcde9d-369a-4bfc-974f-e460688cbede",
+  "params":{
+    "id":"bdbcde9d-369a-4bfc-974f-e460688cbede",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

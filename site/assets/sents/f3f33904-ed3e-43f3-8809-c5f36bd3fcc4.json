@@ -1,0 +1,13 @@
+{
+  "start":10268,
+  "end":10293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Before you were deported.",
+  "id":"f3f33904-ed3e-43f3-8809-c5f36bd3fcc4",
+  "params":{
+    "id":"f3f33904-ed3e-43f3-8809-c5f36bd3fcc4",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

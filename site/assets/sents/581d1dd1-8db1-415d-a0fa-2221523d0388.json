@@ -1,0 +1,13 @@
+{
+  "start":9168,
+  "end":9252,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I taught those at our private school, where my kids went to,\n later as a substitute.",
+  "id":"581d1dd1-8db1-415d-a0fa-2221523d0388",
+  "params":{
+    "id":"581d1dd1-8db1-415d-a0fa-2221523d0388",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

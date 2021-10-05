@@ -1,0 +1,13 @@
+{
+  "start":24141,
+  "end":24185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because sometimes I was just\n   bored of TV.",
+  "id":"905cb1ec-e888-4c64-9dad-4801d1da42c4",
+  "params":{
+    "id":"905cb1ec-e888-4c64-9dad-4801d1da42c4",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

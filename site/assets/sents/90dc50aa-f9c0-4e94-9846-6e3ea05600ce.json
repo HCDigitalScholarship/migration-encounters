@@ -1,0 +1,13 @@
+{
+  "start":16519,
+  "end":16602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me that I had a chance to\n   stay there and fight to become a US citizen.",
+  "id":"90dc50aa-f9c0-4e94-9846-6e3ea05600ce",
+  "params":{
+    "id":"90dc50aa-f9c0-4e94-9846-6e3ea05600ce",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

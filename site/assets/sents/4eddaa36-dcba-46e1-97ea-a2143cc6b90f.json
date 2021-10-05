@@ -1,0 +1,13 @@
+{
+  "start":28205,
+  "end":28229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were always together.",
+  "id":"4eddaa36-dcba-46e1-97ea-a2143cc6b90f",
+  "params":{
+    "id":"4eddaa36-dcba-46e1-97ea-a2143cc6b90f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

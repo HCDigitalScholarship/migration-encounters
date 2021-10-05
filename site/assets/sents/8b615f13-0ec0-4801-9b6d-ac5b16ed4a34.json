@@ -1,0 +1,13 @@
+{
+  "start":21144,
+  "end":21205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was the\n   first one that took me there, and I enjoyed it.",
+  "id":"8b615f13-0ec0-4801-9b6d-ac5b16ed4a34",
+  "params":{
+    "id":"8b615f13-0ec0-4801-9b6d-ac5b16ed4a34",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

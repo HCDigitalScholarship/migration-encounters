@@ -1,0 +1,12 @@
+{
+  "start":3579,
+  "end":3654,
+  "label":"SENT",
+  "type":"sent",
+  "text":", you start noticing things and they start\n   letting you know about stuff.",
+  "id":"66c4af18-51ae-4b56-9961-3e7cbd937c5b",
+  "params":{
+    "id":"4482eda4-4ac2-4334-aac2-92d9800e97e4"
+  },
+  "name":"Hugo"
+}

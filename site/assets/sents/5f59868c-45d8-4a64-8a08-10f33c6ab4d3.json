@@ -1,0 +1,12 @@
+{
+  "start":40166,
+  "end":40204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I know they did something\n   wrong.",
+  "id":"5f59868c-45d8-4a64-8a08-10f33c6ab4d3",
+  "params":{
+    "id":"a697c9dc-f4f0-41ce-aa8b-831b8526292b"
+  },
+  "name":"Mike"
+}

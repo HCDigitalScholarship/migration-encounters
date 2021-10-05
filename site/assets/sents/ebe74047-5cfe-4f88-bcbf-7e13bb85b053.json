@@ -1,0 +1,13 @@
+{
+  "start":10853,
+  "end":10916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I'll do that and when have you\n known me to not keep my word?\"",
+  "id":"ebe74047-5cfe-4f88-bcbf-7e13bb85b053",
+  "params":{
+    "id":"ebe74047-5cfe-4f88-bcbf-7e13bb85b053",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

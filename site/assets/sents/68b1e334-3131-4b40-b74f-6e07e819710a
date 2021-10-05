@@ -1,0 +1,12 @@
+{
+  "start":29531,
+  "end":29574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My boss\u2014damn, that guy has helped me a lot.",
+  "id":"68b1e334-3131-4b40-b74f-6e07e819710a",
+  "params":{
+    "id":"c7edbbdc-9e0b-41e2-9e02-93bf68c8396b"
+  },
+  "name":"Mike"
+}

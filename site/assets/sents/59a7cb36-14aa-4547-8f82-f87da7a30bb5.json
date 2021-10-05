@@ -1,0 +1,13 @@
+{
+  "start":11475,
+  "end":11518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you feel like you want to stay here now?",
+  "id":"59a7cb36-14aa-4547-8f82-f87da7a30bb5",
+  "params":{
+    "id":"59a7cb36-14aa-4547-8f82-f87da7a30bb5",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

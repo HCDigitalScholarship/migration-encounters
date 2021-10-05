@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1564,
+  "end":1570,
+  "text":"we go\n   back.\n \n \n   Anne: Was he living in the US with papers?\n \n \n   Carlos: No, he doesn't have papers. Yeah.\n \n \n   Anne: You came over without... Over the border, you crossed the border.\n \n \n   Carlos: Exactly. Just like him, but younger.\n \n \n   Anne: He and your mom had split up.\n \n \n   Carlos: Since the beginning, yeah. They never were married or together.\n   They just had me and that's it.\n \n \n",
+  "label":"PERSON",
+  "id":"e1e6fd47-c117-4687-aa25-0acff7d32396",
+  "name":"Carlos"
+}

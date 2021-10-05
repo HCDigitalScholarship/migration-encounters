@@ -1,0 +1,13 @@
+{
+  "start":75898,
+  "end":76012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm speaking\n   English, my native language because it's the first language I spoke, so I'm\n   happy where I'm at.",
+  "id":"07f53347-db42-4b15-b44a-04eb9b3555e0",
+  "params":{
+    "id":"07f53347-db42-4b15-b44a-04eb9b3555e0",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

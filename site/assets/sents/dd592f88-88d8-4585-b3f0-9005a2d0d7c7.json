@@ -1,0 +1,13 @@
+{
+  "start":75007,
+  "end":75012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Axel:",
+  "id":"dd592f88-88d8-4585-b3f0-9005a2d0d7c7",
+  "params":{
+    "id":"dd592f88-88d8-4585-b3f0-9005a2d0d7c7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

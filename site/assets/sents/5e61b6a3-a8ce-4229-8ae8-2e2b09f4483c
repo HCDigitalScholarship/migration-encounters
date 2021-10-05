@@ -1,0 +1,12 @@
+{
+  "start":1117,
+  "end":1195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"if you were eating at the table, you couldn't put your\n   elbows on the table.",
+  "id":"5e61b6a3-a8ce-4229-8ae8-2e2b09f4483c",
+  "params":{
+    "id":"a67b1a17-51fe-476e-98c4-e4f55b9172cb"
+  },
+  "name":"Ruben"
+}

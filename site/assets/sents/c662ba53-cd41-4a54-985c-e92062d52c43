@@ -1,0 +1,12 @@
+{
+  "start":4080,
+  "end":4114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't think it was a bad thing.",
+  "id":"c662ba53-cd41-4a54-985c-e92062d52c43",
+  "params":{
+    "id":"2cb41918-4063-4de5-86e5-34f18f955add"
+  },
+  "name":"Sylent"
+}

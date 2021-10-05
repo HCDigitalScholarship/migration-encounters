@@ -1,0 +1,13 @@
+{
+  "start":1177,
+  "end":1199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Many: A train.",
+  "id":"0bae660a-b367-44d5-9882-a76e30647b71",
+  "params":{
+    "id":"0bae660a-b367-44d5-9882-a76e30647b71",
+    "class":"anno"
+  },
+  "name":"Many"
+}

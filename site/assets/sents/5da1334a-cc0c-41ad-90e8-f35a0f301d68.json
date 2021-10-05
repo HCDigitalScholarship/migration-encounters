@@ -1,0 +1,13 @@
+{
+  "start":7077,
+  "end":7105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you like in school?",
+  "id":"5da1334a-cc0c-41ad-90e8-f35a0f301d68",
+  "params":{
+    "id":"5da1334a-cc0c-41ad-90e8-f35a0f301d68",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

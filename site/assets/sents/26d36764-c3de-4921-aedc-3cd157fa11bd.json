@@ -1,0 +1,13 @@
+{
+  "start":8019,
+  "end":8062,
+  "label":"SENT",
+  "type":"sent",
+  "text":", I\n just knew that she sent him my papers.",
+  "id":"26d36764-c3de-4921-aedc-3cd157fa11bd",
+  "params":{
+    "id":"26d36764-c3de-4921-aedc-3cd157fa11bd",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32951,
+  "end":33012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like,\n   \"Yeah, that's the same thing that I question.\"",
+  "id":"d7851dbd-0b82-46ca-8b55-b23afcfea4ff",
+  "params":{
+    "id":"d7851dbd-0b82-46ca-8b55-b23afcfea4ff",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

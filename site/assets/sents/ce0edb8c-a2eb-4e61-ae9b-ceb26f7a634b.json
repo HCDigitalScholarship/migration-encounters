@@ -1,0 +1,13 @@
+{
+  "start":2270,
+  "end":2329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to live with him and his wife in San Antonio, Texas.",
+  "id":"ce0edb8c-a2eb-4e61-ae9b-ceb26f7a634b",
+  "params":{
+    "id":"ce0edb8c-a2eb-4e61-ae9b-ceb26f7a634b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

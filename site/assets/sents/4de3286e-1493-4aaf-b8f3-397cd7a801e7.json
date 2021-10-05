@@ -1,0 +1,13 @@
+{
+  "start":20194,
+  "end":20207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"4de3286e-1493-4aaf-b8f3-397cd7a801e7",
+  "params":{
+    "id":"4de3286e-1493-4aaf-b8f3-397cd7a801e7",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

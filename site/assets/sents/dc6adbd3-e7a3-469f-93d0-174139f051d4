@@ -1,0 +1,12 @@
+{
+  "start":3483,
+  "end":3504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you get a degree?",
+  "id":"dc6adbd3-e7a3-469f-93d0-174139f051d4",
+  "params":{
+    "id":"b2e85467-0fd1-418c-bc69-4db96016f018"
+  },
+  "name":"Miguel A"
+}

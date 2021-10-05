@@ -1,0 +1,12 @@
+{
+  "start":30923,
+  "end":30937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things change.",
+  "id":"0cfc2bda-dccf-4bbb-8f74-3a97be89b538",
+  "params":{
+    "id":"7f114ccd-330c-43d5-80e1-0757dc7a5295"
+  },
+  "name":"Beto"
+}

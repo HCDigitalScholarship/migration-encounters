@@ -1,0 +1,13 @@
+{
+  "start":8922,
+  "end":8977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now, I\n   think what happened is because we never talk.",
+  "id":"b9a5d458-e928-4d94-aaae-7d2ea3f1da73",
+  "params":{
+    "id":"b9a5d458-e928-4d94-aaae-7d2ea3f1da73",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31835,
+  "end":31849,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened?",
+  "id":"c5d8d5ef-27c1-474d-9271-2cb28f5bc1dd",
+  "params":{
+    "id":"c5d8d5ef-27c1-474d-9271-2cb28f5bc1dd",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":51659,
+  "end":51689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   \"I love you, too, Daniela.",
+  "id":"79ab9765-1d4a-423b-aa24-5c2b4c3db28c",
+  "params":{
+    "id":"79ab9765-1d4a-423b-aa24-5c2b4c3db28c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

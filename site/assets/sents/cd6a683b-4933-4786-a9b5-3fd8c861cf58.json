@@ -1,0 +1,13 @@
+{
+  "start":3630,
+  "end":3693,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said that you didn't know that you were\n   illegal, though.",
+  "id":"cd6a683b-4933-4786-a9b5-3fd8c861cf58",
+  "params":{
+    "id":"cd6a683b-4933-4786-a9b5-3fd8c861cf58",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18567,
+  "end":18626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really like how there's a bunch of\n   different cultures.",
+  "id":"eab46a07-1376-4ddb-bed4-81e1a7703537",
+  "params":{
+    "id":"eab46a07-1376-4ddb-bed4-81e1a7703537",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

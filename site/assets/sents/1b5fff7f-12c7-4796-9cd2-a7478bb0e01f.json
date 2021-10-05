@@ -1,0 +1,13 @@
+{
+  "start":10457,
+  "end":10494,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He mostly works all\n   day, probably.",
+  "id":"1b5fff7f-12c7-4796-9cd2-a7478bb0e01f",
+  "params":{
+    "id":"1b5fff7f-12c7-4796-9cd2-a7478bb0e01f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

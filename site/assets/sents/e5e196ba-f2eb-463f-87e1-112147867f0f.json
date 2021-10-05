@@ -1,0 +1,13 @@
+{
+  "start":37086,
+  "end":37113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think my mom felt guilty.",
+  "id":"e5e196ba-f2eb-463f-87e1-112147867f0f",
+  "params":{
+    "id":"e5e196ba-f2eb-463f-87e1-112147867f0f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15586,
+  "end":15653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a friend that didn't\n     know, \"Hey, what is a money order?\"",
+  "id":"57d93281-cbca-4717-9e36-73a1a58e9d84",
+  "params":{
+    "id":"57d93281-cbca-4717-9e36-73a1a58e9d84",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

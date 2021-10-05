@@ -1,0 +1,13 @@
+{
+  "start":23845,
+  "end":23894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, I'm living with my mom and my brother.",
+  "id":"b16c8fc0-0c69-4ef4-9121-25f86059fa5a",
+  "params":{
+    "id":"b16c8fc0-0c69-4ef4-9121-25f86059fa5a",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

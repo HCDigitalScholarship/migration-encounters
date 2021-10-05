@@ -1,0 +1,13 @@
+{
+  "start":52809,
+  "end":52846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel like I'm getting old [Laughs].",
+  "id":"631a9224-2473-4ea0-8871-cae3d28d9a43",
+  "params":{
+    "id":"631a9224-2473-4ea0-8871-cae3d28d9a43",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

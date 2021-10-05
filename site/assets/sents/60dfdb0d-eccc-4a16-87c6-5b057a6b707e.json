@@ -1,0 +1,13 @@
+{
+  "start":8756,
+  "end":8851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have discussed it with my friends\n and sometimes it's like, \u201cOh, you're not leaving the house",
+  "id":"60dfdb0d-eccc-4a16-87c6-5b057a6b707e",
+  "params":{
+    "id":"60dfdb0d-eccc-4a16-87c6-5b057a6b707e",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

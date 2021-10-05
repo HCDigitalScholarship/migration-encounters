@@ -1,0 +1,13 @@
+{
+  "start":9781,
+  "end":9814,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never liked to dress like that.",
+  "id":"3cec8ae5-a4b8-4db8-ac0d-1b2cbf63ae5b",
+  "params":{
+    "id":"3cec8ae5-a4b8-4db8-ac0d-1b2cbf63ae5b",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

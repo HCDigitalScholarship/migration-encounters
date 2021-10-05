@@ -1,0 +1,13 @@
+{
+  "start":47892,
+  "end":47940,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They provided 50\n   pesos when I first got here.",
+  "id":"a723118c-a975-46f8-8a55-d609c8add387",
+  "params":{
+    "id":"a723118c-a975-46f8-8a55-d609c8add387",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

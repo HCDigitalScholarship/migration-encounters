@@ -1,0 +1,13 @@
+{
+  "start":23679,
+  "end":23712,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're the\n   same on the inside.\"",
+  "id":"a2b3f393-8990-42fd-96cd-0d46c0ce0c16",
+  "params":{
+    "id":"a2b3f393-8990-42fd-96cd-0d46c0ce0c16",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

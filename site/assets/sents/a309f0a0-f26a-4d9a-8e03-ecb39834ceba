@@ -1,0 +1,12 @@
+{
+  "start":23498,
+  "end":23529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"American breakfast is the best.",
+  "id":"a309f0a0-f26a-4d9a-8e03-ecb39834ceba",
+  "params":{
+    "id":"8d2134a8-47ec-4258-914f-a626b36db4f9"
+  },
+  "name":"Beto"
+}

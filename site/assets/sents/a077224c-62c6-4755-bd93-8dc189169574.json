@@ -1,0 +1,13 @@
+{
+  "start":10401,
+  "end":10431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel like it was my calling.",
+  "id":"a077224c-62c6-4755-bd93-8dc189169574",
+  "params":{
+    "id":"a077224c-62c6-4755-bd93-8dc189169574",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

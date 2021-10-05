@@ -1,0 +1,13 @@
+{
+  "start":28683,
+  "end":28706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I am a Mexican citizen.",
+  "id":"61dffe38-28d4-4364-b6a3-1019451dba1d",
+  "params":{
+    "id":"61dffe38-28d4-4364-b6a3-1019451dba1d",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

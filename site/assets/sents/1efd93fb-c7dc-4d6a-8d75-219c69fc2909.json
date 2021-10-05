@@ -1,0 +1,13 @@
+{
+  "start":9498,
+  "end":9533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   second, the afternoon shift?",
+  "id":"1efd93fb-c7dc-4d6a-8d75-219c69fc2909",
+  "params":{
+    "id":"1efd93fb-c7dc-4d6a-8d75-219c69fc2909",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12008,
+  "end":12039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's where I'm right now.",
+  "id":"a472a828-7ad6-413c-8e9d-25265f27b808",
+  "params":{
+    "id":"a472a828-7ad6-413c-8e9d-25265f27b808",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

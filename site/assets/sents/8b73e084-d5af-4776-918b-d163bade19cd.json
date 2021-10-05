@@ -1,0 +1,13 @@
+{
+  "start":30560,
+  "end":30574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was decent.",
+  "id":"8b73e084-d5af-4776-918b-d163bade19cd",
+  "params":{
+    "id":"8b73e084-d5af-4776-918b-d163bade19cd",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

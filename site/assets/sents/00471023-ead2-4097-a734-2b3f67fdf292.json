@@ -1,0 +1,13 @@
+{
+  "start":24761,
+  "end":24790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would probably say 80% now.",
+  "id":"00471023-ead2-4097-a734-2b3f67fdf292",
+  "params":{
+    "id":"00471023-ead2-4097-a734-2b3f67fdf292",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

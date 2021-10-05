@@ -1,0 +1,13 @@
+{
+  "start":35943,
+  "end":35993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well it seems like you're doing a great job of it.",
+  "id":"e9824a97-a27b-4c5b-880b-8fb5511294d3",
+  "params":{
+    "id":"e9824a97-a27b-4c5b-880b-8fb5511294d3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

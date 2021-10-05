@@ -1,0 +1,13 @@
+{
+  "start":30560,
+  "end":30636,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is this the way you receive your own\n   compadres?\u201d\n \n \n   Isabel: For sure.",
+  "id":"55fd4d00-a534-4a37-9670-0de65ec4711e",
+  "params":{
+    "id":"55fd4d00-a534-4a37-9670-0de65ec4711e",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

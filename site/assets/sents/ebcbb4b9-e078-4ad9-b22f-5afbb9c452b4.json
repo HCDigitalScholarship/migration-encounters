@@ -1,0 +1,13 @@
+{
+  "start":10082,
+  "end":10091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carolina:",
+  "id":"ebcbb4b9-e078-4ad9-b22f-5afbb9c452b4",
+  "params":{
+    "id":"ebcbb4b9-e078-4ad9-b22f-5afbb9c452b4",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

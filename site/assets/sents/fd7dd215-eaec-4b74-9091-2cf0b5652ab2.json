@@ -1,0 +1,13 @@
+{
+  "start":11408,
+  "end":11482,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The movie theaters, it was the\n   AMC movie theaters, so they did hire me.",
+  "id":"fd7dd215-eaec-4b74-9091-2cf0b5652ab2",
+  "params":{
+    "id":"fd7dd215-eaec-4b74-9091-2cf0b5652ab2",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

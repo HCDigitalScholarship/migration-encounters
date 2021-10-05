@@ -1,0 +1,13 @@
+{
+  "start":5018,
+  "end":5044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Right.\n \n \n   Rocio:",
+  "id":"d60ec947-5d4c-407d-8fb3-340d624e81e9",
+  "params":{
+    "id":"d60ec947-5d4c-407d-8fb3-340d624e81e9",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

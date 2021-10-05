@@ -1,0 +1,13 @@
+{
+  "start":15762,
+  "end":15780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got pulled over.",
+  "id":"46f2e035-00e4-4da5-83fd-920fb5a6c95f",
+  "params":{
+    "id":"46f2e035-00e4-4da5-83fd-920fb5a6c95f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20170,
+  "end":20220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I lived over\n   there, but I was born here.\"",
+  "id":"255376e4-64ca-462c-a89c-2f6d04ae201c",
+  "params":{
+    "id":"108715e0-204a-4388-8209-ccf22e61d9e3"
+  },
+  "name":"Yordani"
+}

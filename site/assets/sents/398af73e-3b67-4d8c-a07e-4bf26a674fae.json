@@ -1,0 +1,13 @@
+{
+  "start":59,
+  "end":142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, let's talk a little bit more about some of the things\n   that sort of are here.",
+  "id":"398af73e-3b67-4d8c-a07e-4bf26a674fae",
+  "params":{
+    "id":"398af73e-3b67-4d8c-a07e-4bf26a674fae",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

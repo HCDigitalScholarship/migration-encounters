@@ -1,0 +1,13 @@
+{
+  "start":37137,
+  "end":37164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They moved\n     to Oakland.",
+  "id":"f7de41ad-3760-4cd0-83d2-7fbdd821104c",
+  "params":{
+    "id":"f7de41ad-3760-4cd0-83d2-7fbdd821104c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

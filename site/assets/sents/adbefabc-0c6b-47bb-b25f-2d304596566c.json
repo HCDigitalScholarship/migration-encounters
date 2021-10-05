@@ -1,0 +1,13 @@
+{
+  "start":31337,
+  "end":31420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to hang out with a lot of black people, so I was always the\n   shortest one.",
+  "id":"adbefabc-0c6b-47bb-b25f-2d304596566c",
+  "params":{
+    "id":"adbefabc-0c6b-47bb-b25f-2d304596566c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

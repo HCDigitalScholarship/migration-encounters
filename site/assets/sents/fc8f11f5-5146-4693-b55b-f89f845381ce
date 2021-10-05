@@ -1,0 +1,12 @@
+{
+  "start":41217,
+  "end":41237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been traveling.",
+  "id":"fc8f11f5-5146-4693-b55b-f89f845381ce",
+  "params":{
+    "id":"c9dd059d-81aa-428a-8cb6-e33ffd0d9635"
+  },
+  "name":"Cris"
+}

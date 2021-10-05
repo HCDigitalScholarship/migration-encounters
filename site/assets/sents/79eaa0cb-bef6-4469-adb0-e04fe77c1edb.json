@@ -1,0 +1,13 @@
+{
+  "start":2902,
+  "end":3014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I asked my mom if I could get a job, and that's when\n   she broke it down to me that I wasn't even from here.",
+  "id":"79eaa0cb-bef6-4469-adb0-e04fe77c1edb",
+  "params":{
+    "id":"79eaa0cb-bef6-4469-adb0-e04fe77c1edb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

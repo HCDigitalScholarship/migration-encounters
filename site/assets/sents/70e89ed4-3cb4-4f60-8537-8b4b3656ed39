@@ -1,0 +1,12 @@
+{
+  "start":6893,
+  "end":6925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I was on the passenger side.",
+  "id":"70e89ed4-3cb4-4f60-8537-8b4b3656ed39",
+  "params":{
+    "id":"fb6261d2-ec33-4626-9ba8-5b467e13f5b3"
+  },
+  "name":"Ivan"
+}

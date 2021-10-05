@@ -1,0 +1,13 @@
+{
+  "start":6823,
+  "end":6859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: In the Central Valley area.",
+  "id":"ed1e0cd2-47bd-40f2-a358-d569bc8a9c0a",
+  "params":{
+    "id":"ed1e0cd2-47bd-40f2-a358-d569bc8a9c0a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

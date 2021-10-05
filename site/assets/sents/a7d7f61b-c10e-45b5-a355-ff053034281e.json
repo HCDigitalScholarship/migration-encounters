@@ -1,0 +1,12 @@
+{
+  "start":990,
+  "end":1011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nothing like\n   that.",
+  "id":"a7d7f61b-c10e-45b5-a355-ff053034281e",
+  "params":{
+    "id":"9c4b2794-39cb-4f77-ace0-e6c957239d03"
+  },
+  "name":"Edgar"
+}

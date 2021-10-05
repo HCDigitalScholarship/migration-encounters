@@ -1,0 +1,12 @@
+{
+  "start":42530,
+  "end":42560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started telling\n   him, \"No.",
+  "id":"75cbb223-da73-422d-8b8f-5960584a0f62",
+  "params":{
+    "id":"d8045e38-01d8-4e45-a202-b7ca51562f6b"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1035,
+  "end":1081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were in the military in the United States?",
+  "id":"ad7a4d4a-d2f8-4da3-8496-6ec4851746a1",
+  "params":{
+    "id":"0aa3a21c-58bd-43db-b085-10cbb62b7d25"
+  },
+  "name":"Joseph"
+}

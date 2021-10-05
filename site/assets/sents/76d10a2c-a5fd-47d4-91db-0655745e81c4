@@ -1,0 +1,12 @@
+{
+  "start":34020,
+  "end":34064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have some questions that we ask everyone.",
+  "id":"76d10a2c-a5fd-47d4-91db-0655745e81c4",
+  "params":{
+    "id":"8f8156f1-9684-4ebb-bac2-e85db8097f5c"
+  },
+  "name":"Kevin"
+}

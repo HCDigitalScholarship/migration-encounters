@@ -1,0 +1,12 @@
+{
+  "start":31518,
+  "end":31574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   said, \"What does that have to do with my knowledge?",
+  "id":"91c025d9-c162-41d1-825c-fb9f24fa9433",
+  "params":{
+    "id":"339d9e1c-2594-4849-b27c-37b2605a0df5"
+  },
+  "name":"Sylent"
+}

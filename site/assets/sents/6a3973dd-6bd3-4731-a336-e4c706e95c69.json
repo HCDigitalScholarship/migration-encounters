@@ -1,0 +1,13 @@
+{
+  "start":27929,
+  "end":28003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people, like my sisters, to their son,\n   they don't see it that way.",
+  "id":"6a3973dd-6bd3-4731-a336-e4c706e95c69",
+  "params":{
+    "id":"6a3973dd-6bd3-4731-a336-e4c706e95c69",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

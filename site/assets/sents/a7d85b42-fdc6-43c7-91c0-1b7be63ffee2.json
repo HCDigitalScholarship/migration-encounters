@@ -1,0 +1,12 @@
+{
+  "start":33654,
+  "end":33687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why do you do that?\"\n \n \n   Mike:",
+  "id":"a7d85b42-fdc6-43c7-91c0-1b7be63ffee2",
+  "params":{
+    "id":"69cdf765-9b5c-4b24-a4a8-486b65e08658"
+  },
+  "name":"Mike"
+}

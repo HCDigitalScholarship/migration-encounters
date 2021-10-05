@@ -1,0 +1,13 @@
+{
+  "start":26328,
+  "end":26358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's not that many months old.",
+  "id":"fe90b9d1-b5ac-4b3e-a1c0-6657f7736950",
+  "params":{
+    "id":"fe90b9d1-b5ac-4b3e-a1c0-6657f7736950",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

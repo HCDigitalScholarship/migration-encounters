@@ -1,0 +1,13 @@
+{
+  "start":423,
+  "end":538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom spent a lot\n of time being depressed, my dad was an alcoholic, and my mom literally told\n him, \"I'm leaving.",
+  "id":"193ec1ff-d08f-4843-957c-1e714a481ad6",
+  "params":{
+    "id":"193ec1ff-d08f-4843-957c-1e714a481ad6",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

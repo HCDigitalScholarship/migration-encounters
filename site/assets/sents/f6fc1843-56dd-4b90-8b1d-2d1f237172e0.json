@@ -1,0 +1,13 @@
+{
+  "start":9464,
+  "end":9478,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, he didn't.",
+  "id":"f6fc1843-56dd-4b90-8b1d-2d1f237172e0",
+  "params":{
+    "id":"f6fc1843-56dd-4b90-8b1d-2d1f237172e0",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7072,
+  "end":7094,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of them had a car.",
+  "id":"3aa5ecb4-7027-43b3-b257-f6dc1ae1d3c3",
+  "params":{
+    "id":"021e9250-6bb2-4893-975b-b104322091fb"
+  },
+  "name":"Carlos"
+}

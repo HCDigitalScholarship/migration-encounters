@@ -1,0 +1,13 @@
+{
+  "start":31917,
+  "end":31959,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Dude, I have Nicaraguan in\n me.",
+  "id":"ae7418d4-6e45-4716-974b-2e963498a9fb",
+  "params":{
+    "id":"ae7418d4-6e45-4716-974b-2e963498a9fb",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

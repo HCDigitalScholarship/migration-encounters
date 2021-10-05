@@ -1,0 +1,13 @@
+{
+  "start":10017,
+  "end":10052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because I didn't\n   have any money.",
+  "id":"a14bcd5d-d2a3-45b1-ac71-52a6b262f55d",
+  "params":{
+    "id":"a14bcd5d-d2a3-45b1-ac71-52a6b262f55d",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

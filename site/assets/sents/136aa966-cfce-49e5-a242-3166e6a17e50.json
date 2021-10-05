@@ -1,0 +1,13 @@
+{
+  "start":15701,
+  "end":15768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody goes, \"I know, but you don't understand it's\n different.\"",
+  "id":"136aa966-cfce-49e5-a242-3166e6a17e50",
+  "params":{
+    "id":"136aa966-cfce-49e5-a242-3166e6a17e50",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

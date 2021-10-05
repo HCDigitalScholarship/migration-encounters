@@ -1,0 +1,12 @@
+{
+  "start":30363,
+  "end":30383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mind is changing.",
+  "id":"431e4f7c-faff-4218-aa03-a6bb65da48e6",
+  "params":{
+    "id":"8bfeb7b7-2be8-4fdb-b56f-b5128a66c209"
+  },
+  "name":"Many"
+}

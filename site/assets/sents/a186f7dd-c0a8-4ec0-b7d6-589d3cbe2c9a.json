@@ -1,0 +1,13 @@
+{
+  "start":1630,
+  "end":1666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So she basically choked on the milk.",
+  "id":"a186f7dd-c0a8-4ec0-b7d6-589d3cbe2c9a",
+  "params":{
+    "id":"a186f7dd-c0a8-4ec0-b7d6-589d3cbe2c9a",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

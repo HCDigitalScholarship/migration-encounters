@@ -1,0 +1,13 @@
+{
+  "start":23805,
+  "end":23831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you live with your mom?",
+  "id":"b3fd7060-94ef-4857-956b-636b1c079c2d",
+  "params":{
+    "id":"b3fd7060-94ef-4857-956b-636b1c079c2d",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

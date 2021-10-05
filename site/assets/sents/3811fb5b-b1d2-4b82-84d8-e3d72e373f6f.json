@@ -1,0 +1,13 @@
+{
+  "start":17595,
+  "end":17610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   linebacker",
+  "id":"3811fb5b-b1d2-4b82-84d8-e3d72e373f6f",
+  "params":{
+    "id":"3811fb5b-b1d2-4b82-84d8-e3d72e373f6f",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

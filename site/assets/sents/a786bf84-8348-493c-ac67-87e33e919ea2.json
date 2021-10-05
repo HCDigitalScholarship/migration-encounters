@@ -1,0 +1,13 @@
+{
+  "start":27175,
+  "end":27238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it seems like, does that make it a good fit to try it here?",
+  "id":"a786bf84-8348-493c-ac67-87e33e919ea2",
+  "params":{
+    "id":"a786bf84-8348-493c-ac67-87e33e919ea2",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

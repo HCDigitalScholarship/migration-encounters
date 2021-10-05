@@ -1,0 +1,13 @@
+{
+  "start":34447,
+  "end":34457,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love it.",
+  "id":"1990fd3f-b708-4a96-a13e-f0c4dd783971",
+  "params":{
+    "id":"1990fd3f-b708-4a96-a13e-f0c4dd783971",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

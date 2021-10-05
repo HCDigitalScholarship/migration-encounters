@@ -1,0 +1,12 @@
+{
+  "start":15127,
+  "end":15161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s what the doctor told\n   me.",
+  "id":"86c5b1b6-c077-478b-a4cd-20978ed599e0",
+  "params":{
+    "id":"c2994be1-f50c-4947-b5d8-2083624537b1"
+  },
+  "name":"Luis B"
+}

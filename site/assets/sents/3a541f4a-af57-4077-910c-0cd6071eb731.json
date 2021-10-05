@@ -1,0 +1,13 @@
+{
+  "start":45398,
+  "end":45421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's an amazing answer.",
+  "id":"3a541f4a-af57-4077-910c-0cd6071eb731",
+  "params":{
+    "id":"3a541f4a-af57-4077-910c-0cd6071eb731",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

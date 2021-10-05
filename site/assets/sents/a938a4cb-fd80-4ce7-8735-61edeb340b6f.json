@@ -1,0 +1,13 @@
+{
+  "start":21932,
+  "end":21993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   as soon as I came back for the interview, I got hired.",
+  "id":"a938a4cb-fd80-4ce7-8735-61edeb340b6f",
+  "params":{
+    "id":"a938a4cb-fd80-4ce7-8735-61edeb340b6f",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

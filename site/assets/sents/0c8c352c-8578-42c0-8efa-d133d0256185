@@ -1,0 +1,12 @@
+{
+  "start":9782,
+  "end":9884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just when I do go out the reality hits me and I see that I'm not in the\n   States, I'm in Mexico City.",
+  "id":"0c8c352c-8578-42c0-8efa-d133d0256185",
+  "params":{
+    "id":"d0ab5077-9d86-4383-8a65-aa5248ab838d"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36603,
+  "end":36631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, she's working right now.",
+  "id":"2edf3892-aedf-491b-b039-9a7664a8d8b9",
+  "params":{
+    "id":"4bfc7383-3569-4e70-aee7-00540cac457a"
+  },
+  "name":"Luis A"
+}

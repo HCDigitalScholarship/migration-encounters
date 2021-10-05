@@ -1,0 +1,12 @@
+{
+  "start":30247,
+  "end":30307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Good things\n   and bad things helped me to think better now.",
+  "id":"9b093b0d-5e64-4e04-9566-e707c44e7dc1",
+  "params":{
+    "id":"7544addb-ed44-41d7-a984-04c74debd740"
+  },
+  "name":"Many"
+}

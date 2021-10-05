@@ -1,0 +1,13 @@
+{
+  "start":28693,
+  "end":28756,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They found me three days later in my house and I couldn't move.",
+  "id":"0fec340b-2243-4d6d-bda0-02adc6452aa6",
+  "params":{
+    "id":"0fec340b-2243-4d6d-bda0-02adc6452aa6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

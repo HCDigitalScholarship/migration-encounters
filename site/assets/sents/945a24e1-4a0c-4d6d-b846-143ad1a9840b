@@ -1,0 +1,12 @@
+{
+  "start":1060,
+  "end":1099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a lot of jobs in the U.S.\n \n \n   ",
+  "id":"945a24e1-4a0c-4d6d-b846-143ad1a9840b",
+  "params":{
+    "id":"401ea1f0-e9e5-4a66-aa41-de0f60676626"
+  },
+  "name":"Ivan"
+}

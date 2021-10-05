@@ -1,0 +1,13 @@
+{
+  "start":13981,
+  "end":14006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was at my\n   own house.",
+  "id":"b7ae99c2-473b-4507-b1a8-409081e0cb3a",
+  "params":{
+    "id":"b7ae99c2-473b-4507-b1a8-409081e0cb3a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

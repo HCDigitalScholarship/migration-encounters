@@ -1,0 +1,13 @@
+{
+  "start":7345,
+  "end":7369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did whatever I wanted.",
+  "id":"d44567b7-ab88-406c-a028-65ee46c9a5b6",
+  "params":{
+    "id":"d44567b7-ab88-406c-a028-65ee46c9a5b6",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

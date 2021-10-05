@@ -1,0 +1,12 @@
+{
+  "start":5973,
+  "end":5999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to my uncle's house.",
+  "id":"eb5417f6-ef04-481a-b654-c51f5086f792",
+  "params":{
+    "id":"95fc72b1-6254-47bd-92a5-94caf4ef8d72"
+  },
+  "name":"Yair"
+}

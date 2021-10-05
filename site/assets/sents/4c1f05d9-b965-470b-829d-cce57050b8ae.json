@@ -1,0 +1,13 @@
+{
+  "start":10529,
+  "end":10625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\u2026we were like in this town,\n   pueblito, so I went to school over there, in what, high school?",
+  "id":"4c1f05d9-b965-470b-829d-cce57050b8ae",
+  "params":{
+    "id":"4c1f05d9-b965-470b-829d-cce57050b8ae",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

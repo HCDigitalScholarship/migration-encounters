@@ -1,0 +1,13 @@
+{
+  "start":5045,
+  "end":5058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't move.",
+  "id":"b12718ee-bfb1-49fc-908a-23bafa998173",
+  "params":{
+    "id":"b12718ee-bfb1-49fc-908a-23bafa998173",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

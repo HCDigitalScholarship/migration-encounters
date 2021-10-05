@@ -1,0 +1,13 @@
+{
+  "start":32397,
+  "end":32420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n   pretty tough.",
+  "id":"8168e185-79fa-42fa-8eaf-53a6f2bea18a",
+  "params":{
+    "id":"8168e185-79fa-42fa-8eaf-53a6f2bea18a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

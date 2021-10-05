@@ -1,0 +1,12 @@
+{
+  "start":47744,
+  "end":47785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: \u00bfA su hija?\n \n <br/>\n \n     Maria:",
+  "id":"e3c1fdd5-56c3-4be7-897b-2a87db3fc11a",
+  "params":{
+    "id":"50735955-198b-4441-b677-8bdb54c9f0eb"
+  },
+  "name":"Maria"
+}

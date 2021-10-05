@@ -1,0 +1,13 @@
+{
+  "start":31296,
+  "end":31323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was the shortest one man.",
+  "id":"8719fbfc-2455-4aee-b943-067fcce37071",
+  "params":{
+    "id":"8719fbfc-2455-4aee-b943-067fcce37071",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":43182,
+  "end":43208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And yeah, I went with her.",
+  "id":"8b069f1d-fced-45c3-9318-a4b1f3157c09",
+  "params":{
+    "id":"8b069f1d-fced-45c3-9318-a4b1f3157c09",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

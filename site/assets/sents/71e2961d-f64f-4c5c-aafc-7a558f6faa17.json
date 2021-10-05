@@ -1,0 +1,13 @@
+{
+  "start":10179,
+  "end":10234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We used to make snowmobiles, all of that kind of parts.",
+  "id":"71e2961d-f64f-4c5c-aafc-7a558f6faa17",
+  "params":{
+    "id":"71e2961d-f64f-4c5c-aafc-7a558f6faa17",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

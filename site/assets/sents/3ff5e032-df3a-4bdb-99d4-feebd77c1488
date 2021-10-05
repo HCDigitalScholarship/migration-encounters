@@ -1,0 +1,12 @@
+{
+  "start":7204,
+  "end":7275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, me and my\n   little brother, we were like, \u201cAh, it's like whatever.",
+  "id":"3ff5e032-df3a-4bdb-99d4-feebd77c1488",
+  "params":{
+    "id":"1a3966bb-8ee8-4b72-94e9-456945786f20"
+  },
+  "name":"Luis A"
+}

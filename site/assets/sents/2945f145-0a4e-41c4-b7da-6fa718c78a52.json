@@ -1,0 +1,13 @@
+{
+  "start":8204,
+  "end":8226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you want the baby?",
+  "id":"2945f145-0a4e-41c4-b7da-6fa718c78a52",
+  "params":{
+    "id":"2945f145-0a4e-41c4-b7da-6fa718c78a52",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5255,
+  "end":5264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ditching.",
+  "id":"880e478f-86d4-4de2-9351-08ba19179c9a",
+  "params":{
+    "id":"880e478f-86d4-4de2-9351-08ba19179c9a",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

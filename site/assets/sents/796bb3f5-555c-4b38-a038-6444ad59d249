@@ -1,0 +1,12 @@
+{
+  "start":6445,
+  "end":6480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you learn about the product?",
+  "id":"796bb3f5-555c-4b38-a038-6444ad59d249",
+  "params":{
+    "id":"40eda6f1-cea6-48a2-a606-0d1301cff4db"
+  },
+  "name":"Beto"
+}

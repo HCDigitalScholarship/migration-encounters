@@ -1,0 +1,12 @@
+{
+  "start":26563,
+  "end":26604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I stay here, all I am doing is causing",
+  "id":"02e10e92-b931-49d7-84a6-1f8f6eebf72a",
+  "params":{
+    "id":"f1055391-b0f9-4e13-b5c6-66a902e20302"
+  },
+  "name":"Sylent"
+}

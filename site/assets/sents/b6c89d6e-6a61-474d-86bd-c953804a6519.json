@@ -1,0 +1,13 @@
+{
+  "start":23192,
+  "end":23274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we\n   were eating everything and so we were sharing with all the inmates there.",
+  "id":"b6c89d6e-6a61-474d-86bd-c953804a6519",
+  "params":{
+    "id":"b6c89d6e-6a61-474d-86bd-c953804a6519",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

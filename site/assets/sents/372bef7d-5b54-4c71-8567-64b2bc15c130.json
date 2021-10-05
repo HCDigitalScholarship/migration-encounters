@@ -1,0 +1,13 @@
+{
+  "start":11011,
+  "end":11067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I believe that my pa did, but not my grandma and not me.",
+  "id":"372bef7d-5b54-4c71-8567-64b2bc15c130",
+  "params":{
+    "id":"372bef7d-5b54-4c71-8567-64b2bc15c130",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

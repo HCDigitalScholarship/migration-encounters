@@ -1,0 +1,13 @@
+{
+  "start":7203,
+  "end":7243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   never get into a gang or something.",
+  "id":"c1237aab-9991-4d67-8555-649fb4e0a252",
+  "params":{
+    "id":"c1237aab-9991-4d67-8555-649fb4e0a252",
+    "class":"anno"
+  },
+  "name":"Many"
+}

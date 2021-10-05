@@ -1,0 +1,12 @@
+{
+  "start":24380,
+  "end":24427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're not going to let\n   you in the streets.",
+  "id":"8d77bbce-3a6a-43c9-abcf-89b9fae9b064",
+  "params":{
+    "id":"4f20045d-807d-4ae5-9e44-b95c0706ab62"
+  },
+  "name":"Noe"
+}

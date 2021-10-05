@@ -1,0 +1,13 @@
+{
+  "start":19921,
+  "end":19961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is very personal, but I don't care.",
+  "id":"9cde8583-bf0c-45dd-b439-50fc1744f66f",
+  "params":{
+    "id":"9cde8583-bf0c-45dd-b439-50fc1744f66f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29782,
+  "end":29843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when you get into\n   Mexico, it is complicated.\n \n \n   Laura:",
+  "id":"c81dd721-3b3d-43d1-aca5-e8f04bb1805a",
+  "params":{
+    "id":"c81dd721-3b3d-43d1-aca5-e8f04bb1805a",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

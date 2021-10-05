@@ -1,0 +1,13 @@
+{
+  "start":47474,
+  "end":47497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was really depressed.",
+  "id":"d8e6e1fc-812d-4e53-a895-9db0c87d6a74",
+  "params":{
+    "id":"d8e6e1fc-812d-4e53-a895-9db0c87d6a74",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

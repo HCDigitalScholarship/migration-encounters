@@ -1,0 +1,13 @@
+{
+  "start":10729,
+  "end":10754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was extremely strict.",
+  "id":"e41a043b-da7b-4c76-a076-0e6d9692f7b4",
+  "params":{
+    "id":"e41a043b-da7b-4c76-a076-0e6d9692f7b4",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

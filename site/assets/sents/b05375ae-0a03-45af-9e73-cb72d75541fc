@@ -1,0 +1,12 @@
+{
+  "start":7459,
+  "end":7502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What caused you to leave the United States?",
+  "id":"b05375ae-0a03-45af-9e73-cb72d75541fc",
+  "params":{
+    "id":"e038fdf8-e84a-4261-8d3a-135d77c72add"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25266,
+  "end":25381,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's cool because I met a lot of people from the States,\n   they've been through almost the same situation like me.",
+  "id":"40704d9a-5c33-471b-b51b-1fdf8b98f019",
+  "params":{
+    "id":"40704d9a-5c33-471b-b51b-1fdf8b98f019",
+    "class":"anno"
+  },
+  "name":"Many"
+}

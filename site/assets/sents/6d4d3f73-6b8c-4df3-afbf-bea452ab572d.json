@@ -1,0 +1,13 @@
+{
+  "start":9209,
+  "end":9263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"O que no se hiciera algo porque si me daba\n     miedo.",
+  "id":"6d4d3f73-6b8c-4df3-afbf-bea452ab572d",
+  "params":{
+    "id":"6d4d3f73-6b8c-4df3-afbf-bea452ab572d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

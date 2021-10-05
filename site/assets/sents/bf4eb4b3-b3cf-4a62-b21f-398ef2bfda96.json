@@ -1,0 +1,13 @@
+{
+  "start":8041,
+  "end":8086,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to another first grade, it's okay.\u201d",
+  "id":"bf4eb4b3-b3cf-4a62-b21f-398ef2bfda96",
+  "params":{
+    "id":"bf4eb4b3-b3cf-4a62-b21f-398ef2bfda96",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

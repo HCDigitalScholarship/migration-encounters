@@ -1,0 +1,12 @@
+{
+  "start":24166,
+  "end":24196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going to get something.",
+  "id":"39164386-af54-42e8-b106-a447ddf77c0d",
+  "params":{
+    "id":"4915ab3e-f3a6-466e-af13-c0d974ec87e8"
+  },
+  "name":"Hugo"
+}

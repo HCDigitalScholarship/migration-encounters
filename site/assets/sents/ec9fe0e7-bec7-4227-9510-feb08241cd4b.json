@@ -1,0 +1,13 @@
+{
+  "start":23009,
+  "end":23025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, sometimes.",
+  "id":"ec9fe0e7-bec7-4227-9510-feb08241cd4b",
+  "params":{
+    "id":"ec9fe0e7-bec7-4227-9510-feb08241cd4b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

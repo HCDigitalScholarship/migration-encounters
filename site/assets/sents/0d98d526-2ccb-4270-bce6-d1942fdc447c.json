@@ -1,0 +1,13 @@
+{
+  "start":8199,
+  "end":8229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: As far as I know, yeah.",
+  "id":"0d98d526-2ccb-4270-bce6-d1942fdc447c",
+  "params":{
+    "id":"0d98d526-2ccb-4270-bce6-d1942fdc447c",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

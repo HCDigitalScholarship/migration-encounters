@@ -1,0 +1,12 @@
+{
+  "start":3754,
+  "end":3809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He found somebody else, and he got\n   married, I guess.",
+  "id":"f0f85322-dbe0-475d-8e7d-ae0d7aef2ae8",
+  "params":{
+    "id":"6b8561a2-9595-4ad9-9efa-66803a550843"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8002,
+  "end":8011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Laughs].",
+  "id":"e7047c4f-87c9-44fd-9f37-5045a071ee21",
+  "params":{
+    "id":"e7047c4f-87c9-44fd-9f37-5045a071ee21",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":16843,
+  "end":16875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get Saturdays and Sundays off.",
+  "id":"3d918ba9-c6f2-4402-9c7d-45e244bfaaa1",
+  "params":{
+    "id":"5363a82c-170f-4e87-89d9-1f6522c48a55"
+  },
+  "name":"Carlos"
+}

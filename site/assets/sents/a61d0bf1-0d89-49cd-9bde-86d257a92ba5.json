@@ -1,0 +1,13 @@
+{
+  "start":26507,
+  "end":26631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\nwas her son's house, my cousin's house, but he built his house apart,\nbecause it's upstairs from his mom and dad's house.",
+  "id":"a61d0bf1-0d89-49cd-9bde-86d257a92ba5",
+  "params":{
+    "id":"a61d0bf1-0d89-49cd-9bde-86d257a92ba5",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

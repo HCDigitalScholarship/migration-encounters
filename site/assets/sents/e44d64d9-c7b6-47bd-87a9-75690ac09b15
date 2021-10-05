@@ -1,0 +1,12 @@
+{
+  "start":8107,
+  "end":8120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   horror",
+  "id":"e44d64d9-c7b6-47bd-87a9-75690ac09b15",
+  "params":{
+    "id":"951e7143-6886-4c59-b36a-af52f644bf85"
+  },
+  "name":"Luis B"
+}

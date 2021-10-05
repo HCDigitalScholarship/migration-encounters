@@ -1,0 +1,13 @@
+{
+  "start":1100,
+  "end":1182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My middle sister, they cut her hair off\n   completely, and I had to call her Jose.",
+  "id":"e38a56dd-9f35-4f22-9f0b-3110b837b38c",
+  "params":{
+    "id":"e38a56dd-9f35-4f22-9f0b-3110b837b38c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

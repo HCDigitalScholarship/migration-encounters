@@ -1,0 +1,13 @@
+{
+  "start":36524,
+  "end":36621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand I was born in Mexico, but Chicago's my\n   home, it's my land, that's where I'm from.",
+  "id":"bec2fb3a-6fcf-4790-89d6-a176b9c92de4",
+  "params":{
+    "id":"bec2fb3a-6fcf-4790-89d6-a176b9c92de4",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

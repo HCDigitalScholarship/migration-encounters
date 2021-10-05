@@ -1,0 +1,13 @@
+{
+  "start":23272,
+  "end":23293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But you were careful?",
+  "id":"b359f933-6e27-438a-ab30-f4545d482ced",
+  "params":{
+    "id":"b359f933-6e27-438a-ab30-f4545d482ced",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

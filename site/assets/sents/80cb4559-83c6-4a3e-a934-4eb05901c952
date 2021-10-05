@@ -1,0 +1,12 @@
+{
+  "start":39419,
+  "end":39476,
+  "label":"SENT",
+  "type":"sent",
+  "text":", a\n $250,000 house would've probably cost you a million.",
+  "id":"80cb4559-83c6-4a3e-a934-4eb05901c952",
+  "params":{
+    "id":"272d2ded-82ef-499c-b1d3-6c65365c1421"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":46,
+  "end":54,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old?",
+  "id":"4b8cefee-3686-4d3a-aeed-101eb954c7a1",
+  "params":{
+    "id":"6c8f60b0-829d-44c6-99f7-819a3677df28"
+  },
+  "name":"Ivan"
+}

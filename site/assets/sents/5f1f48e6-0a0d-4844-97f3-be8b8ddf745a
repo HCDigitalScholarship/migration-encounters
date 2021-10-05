@@ -1,0 +1,12 @@
+{
+  "start":34977,
+  "end":35000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where's the substitute?",
+  "id":"5f1f48e6-0a0d-4844-97f3-be8b8ddf745a",
+  "params":{
+    "id":"60244baa-3025-432e-9a8a-08048a91d3fe"
+  },
+  "name":"Hugo"
+}

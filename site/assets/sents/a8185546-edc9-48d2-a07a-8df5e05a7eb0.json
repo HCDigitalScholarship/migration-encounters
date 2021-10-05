@@ -1,0 +1,13 @@
+{
+  "start":3002,
+  "end":3022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: More or less.",
+  "id":"a8185546-edc9-48d2-a07a-8df5e05a7eb0",
+  "params":{
+    "id":"a8185546-edc9-48d2-a07a-8df5e05a7eb0",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

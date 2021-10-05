@@ -1,0 +1,13 @@
+{
+  "start":15912,
+  "end":15938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was November 12,\n 2015.",
+  "id":"10a5ed4f-ac59-426c-b152-a296fc7aff73",
+  "params":{
+    "id":"10a5ed4f-ac59-426c-b152-a296fc7aff73",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

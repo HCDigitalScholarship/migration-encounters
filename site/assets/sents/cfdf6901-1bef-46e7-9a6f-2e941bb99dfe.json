@@ -1,0 +1,13 @@
+{
+  "start":18861,
+  "end":18884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you expand on that?",
+  "id":"cfdf6901-1bef-46e7-9a6f-2e941bb99dfe",
+  "params":{
+    "id":"cfdf6901-1bef-46e7-9a6f-2e941bb99dfe",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

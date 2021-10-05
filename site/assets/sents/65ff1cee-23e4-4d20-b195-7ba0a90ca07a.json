@@ -1,0 +1,13 @@
+{
+  "start":19405,
+  "end":19516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was driving without a\n   license because we can't get a license, but yet again, we do have to get to\n   work.",
+  "id":"65ff1cee-23e4-4d20-b195-7ba0a90ca07a",
+  "params":{
+    "id":"65ff1cee-23e4-4d20-b195-7ba0a90ca07a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17494,
+  "end":17521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The food, some of the food.",
+  "id":"dbda85d5-6fc5-49eb-9b5f-b6b7d36690fc",
+  "params":{
+    "id":"dbda85d5-6fc5-49eb-9b5f-b6b7d36690fc",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

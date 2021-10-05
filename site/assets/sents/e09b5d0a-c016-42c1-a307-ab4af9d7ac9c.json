@@ -1,0 +1,13 @@
+{
+  "start":23612,
+  "end":23790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know things can never\n   go back the way they used to be, and I know that things are always\n   changing, but I think I just have to accept it and I just have to get over\n   it.",
+  "id":"e09b5d0a-c016-42c1-a307-ab4af9d7ac9c",
+  "params":{
+    "id":"e09b5d0a-c016-42c1-a307-ab4af9d7ac9c",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

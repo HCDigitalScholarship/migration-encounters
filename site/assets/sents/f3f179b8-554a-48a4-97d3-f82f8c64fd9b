@@ -1,0 +1,12 @@
+{
+  "start":20242,
+  "end":20295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know how they have the three strikes now\nin Cali?",
+  "id":"f3f179b8-554a-48a4-97d3-f82f8c64fd9b",
+  "params":{
+    "id":"46386d08-b595-4d83-83b9-7c9615dd8234"
+  },
+  "name":"Abel"
+}

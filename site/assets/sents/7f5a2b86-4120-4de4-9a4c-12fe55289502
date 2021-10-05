@@ -1,0 +1,12 @@
+{
+  "start":25862,
+  "end":25878,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was playing.",
+  "id":"7f5a2b86-4120-4de4-9a4c-12fe55289502",
+  "params":{
+    "id":"d8c2c259-c826-44db-bb05-80f5a547cd81"
+  },
+  "name":"Billy"
+}

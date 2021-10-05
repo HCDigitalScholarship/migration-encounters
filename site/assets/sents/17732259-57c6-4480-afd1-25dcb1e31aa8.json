@@ -1,0 +1,13 @@
+{
+  "start":41355,
+  "end":41382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They wanted\n something new.",
+  "id":"17732259-57c6-4480-afd1-25dcb1e31aa8",
+  "params":{
+    "id":"17732259-57c6-4480-afd1-25dcb1e31aa8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

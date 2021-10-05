@@ -1,0 +1,12 @@
+{
+  "start":34607,
+  "end":34655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And there\u2019s gotta be\n something done about that.",
+  "id":"d0885cba-10a9-4f1d-8349-aec9339b2863",
+  "params":{
+    "id":"edc47897-5916-4d77-b8cd-bd4e70ff4215"
+  },
+  "name":"Ben"
+}

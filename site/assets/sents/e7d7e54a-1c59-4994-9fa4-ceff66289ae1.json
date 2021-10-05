@@ -1,0 +1,13 @@
+{
+  "start":68940,
+  "end":68983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's\n   like, \"Heating up some tortillas.\"",
+  "id":"e7d7e54a-1c59-4994-9fa4-ceff66289ae1",
+  "params":{
+    "id":"e7d7e54a-1c59-4994-9fa4-ceff66289ae1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

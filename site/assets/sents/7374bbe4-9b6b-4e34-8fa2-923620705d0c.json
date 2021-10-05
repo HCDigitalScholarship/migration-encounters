@@ -1,0 +1,13 @@
+{
+  "start":2521,
+  "end":2683,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was doing a lot of\n   extra stuff, but once I started getting into high school, I noticed all my\n   friends getting jobs and having new shoes and this and that.",
+  "id":"7374bbe4-9b6b-4e34-8fa2-923620705d0c",
+  "params":{
+    "id":"7374bbe4-9b6b-4e34-8fa2-923620705d0c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21977,
+  "end":22017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I really liked it over\n   there.",
+  "id":"e5e18888-7edf-4395-9735-e5bb22aac65b",
+  "params":{
+    "id":"e5e18888-7edf-4395-9735-e5bb22aac65b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

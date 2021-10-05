@@ -1,0 +1,13 @@
+{
+  "start":8692,
+  "end":8726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: Traffic violations, mostly.",
+  "id":"10e2325d-2f4d-4d95-904d-6e204f9b18bf",
+  "params":{
+    "id":"10e2325d-2f4d-4d95-904d-6e204f9b18bf",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

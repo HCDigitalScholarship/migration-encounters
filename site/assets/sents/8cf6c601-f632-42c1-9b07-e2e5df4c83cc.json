@@ -1,0 +1,13 @@
+{
+  "start":11590,
+  "end":11612,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you broke up!",
+  "id":"8cf6c601-f632-42c1-9b07-e2e5df4c83cc",
+  "params":{
+    "id":"8cf6c601-f632-42c1-9b07-e2e5df4c83cc",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

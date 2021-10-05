@@ -1,0 +1,13 @@
+{
+  "start":40803,
+  "end":40890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The university and I'm going to try to\n study political science or something like that.",
+  "id":"38e5bdef-577b-475f-8fcf-bf44308e67f1",
+  "params":{
+    "id":"38e5bdef-577b-475f-8fcf-bf44308e67f1",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

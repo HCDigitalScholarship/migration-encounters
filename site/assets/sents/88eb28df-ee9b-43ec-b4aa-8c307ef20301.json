@@ -1,0 +1,15 @@
+{
+  "start":12956,
+  "end":12995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzie: Like a complaint?\n \n \n   Frank:",
+  "id":"88eb28df-ee9b-43ec-b4aa-8c307ef20301",
+  "params":{
+    "id":"88eb28df-ee9b-43ec-b4aa-8c307ef20301",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

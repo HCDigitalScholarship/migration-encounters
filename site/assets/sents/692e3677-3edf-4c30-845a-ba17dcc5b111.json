@@ -1,0 +1,13 @@
+{
+  "start":74900,
+  "end":74991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once the card was over, you had to buy another card\n or they had to pay and it wasn't good.",
+  "id":"692e3677-3edf-4c30-845a-ba17dcc5b111",
+  "params":{
+    "id":"692e3677-3edf-4c30-845a-ba17dcc5b111",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

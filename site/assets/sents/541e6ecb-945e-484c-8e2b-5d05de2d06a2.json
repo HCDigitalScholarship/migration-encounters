@@ -1,0 +1,13 @@
+{
+  "start":5000,
+  "end":5016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: Of what?",
+  "id":"541e6ecb-945e-484c-8e2b-5d05de2d06a2",
+  "params":{
+    "id":"541e6ecb-945e-484c-8e2b-5d05de2d06a2",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

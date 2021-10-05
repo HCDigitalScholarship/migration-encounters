@@ -1,0 +1,13 @@
+{
+  "start":13778,
+  "end":13788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the US?",
+  "id":"c8d4f7a1-2c52-4ac6-86e6-f6fe21190329",
+  "params":{
+    "id":"c8d4f7a1-2c52-4ac6-86e6-f6fe21190329",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

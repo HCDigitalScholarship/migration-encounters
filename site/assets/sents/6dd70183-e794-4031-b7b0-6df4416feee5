@@ -1,0 +1,12 @@
+{
+  "start":16072,
+  "end":16132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   know that I can make a difference with a lot of people.",
+  "id":"6dd70183-e794-4031-b7b0-6df4416feee5",
+  "params":{
+    "id":"3fdc8ff5-52f6-4474-bcc6-e64609a3a58c"
+  },
+  "name":"Frank"
+}

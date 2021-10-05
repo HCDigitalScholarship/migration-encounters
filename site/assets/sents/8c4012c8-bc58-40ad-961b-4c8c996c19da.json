@@ -1,0 +1,13 @@
+{
+  "start":23786,
+  "end":23821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to put a lot of honey syrup.",
+  "id":"8c4012c8-bc58-40ad-961b-4c8c996c19da",
+  "params":{
+    "id":"8c4012c8-bc58-40ad-961b-4c8c996c19da",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

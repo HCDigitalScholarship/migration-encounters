@@ -1,0 +1,12 @@
+{
+  "start":11082,
+  "end":11194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My father was just a construction worker so after a certain\n   time, he can't work anymore because of the light.",
+  "id":"ed109a98-84b7-4c46-b611-41d0ffec714b",
+  "params":{
+    "id":"abe6212c-28e4-4fb1-8db4-e0f073f67b43"
+  },
+  "name":"Sylent"
+}

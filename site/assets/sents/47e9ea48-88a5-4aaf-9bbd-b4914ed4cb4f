@@ -1,0 +1,12 @@
+{
+  "start":15592,
+  "end":15616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me about school.",
+  "id":"47e9ea48-88a5-4aaf-9bbd-b4914ed4cb4f",
+  "params":{
+    "id":"c350c634-e9eb-45e8-91b2-dbca427f384e"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7354,
+  "end":7375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which happened first?",
+  "id":"cfbbedee-c0bc-4c87-9d55-0cd7e4e3d80e",
+  "params":{
+    "id":"775bcdb2-7e5d-4be0-ba87-0aeca0026e93"
+  },
+  "name":"Abel"
+}

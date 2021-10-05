@@ -1,0 +1,13 @@
+{
+  "start":24529,
+  "end":24588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you\nlook for stuff to do here, there's stuff to do here.",
+  "id":"680e5a13-8b52-402c-9f71-a8a19dcd344a",
+  "params":{
+    "id":"680e5a13-8b52-402c-9f71-a8a19dcd344a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

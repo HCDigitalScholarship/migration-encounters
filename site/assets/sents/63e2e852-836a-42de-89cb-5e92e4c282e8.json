@@ -1,0 +1,12 @@
+{
+  "start":27055,
+  "end":27092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   didn't want me to see my kids.",
+  "id":"63e2e852-836a-42de-89cb-5e92e4c282e8",
+  "params":{
+    "id":"19e5b549-dcd6-4f57-b0ab-1925d622bcaa"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40077,
+  "end":40165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They still feel bad, because every year\n   they send us cards, all the nurses and staff.",
+  "id":"e317a03f-11bb-48eb-ae4f-3ee4b6bc9c7a",
+  "params":{
+    "id":"c0cebb6e-dd2d-4c5c-8f88-392bdf38b1d7"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1895,
+  "end":1945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   She says that one of them told her to go home.",
+  "id":"0712ee03-063b-40c9-9241-1af8c6f2f12e",
+  "params":{
+    "id":"0712ee03-063b-40c9-9241-1af8c6f2f12e",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

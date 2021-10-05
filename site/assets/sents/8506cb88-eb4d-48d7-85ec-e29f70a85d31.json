@@ -1,0 +1,13 @@
+{
+  "start":23393,
+  "end":23432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work hard and I pay taxes, so we have",
+  "id":"8506cb88-eb4d-48d7-85ec-e29f70a85d31",
+  "params":{
+    "id":"8506cb88-eb4d-48d7-85ec-e29f70a85d31",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

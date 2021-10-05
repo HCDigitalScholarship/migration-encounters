@@ -1,0 +1,13 @@
+{
+  "start":18707,
+  "end":18729,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a real good book.",
+  "id":"f02f8042-06b6-49e5-99f8-f32599d10ce0",
+  "params":{
+    "id":"f02f8042-06b6-49e5-99f8-f32599d10ce0",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

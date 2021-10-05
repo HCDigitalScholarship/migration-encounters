@@ -1,0 +1,13 @@
+{
+  "start":37144,
+  "end":37204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of them, some don't, but mostly\n   they become friends.",
+  "id":"8c430232-f73a-469a-8291-63309a8d9078",
+  "params":{
+    "id":"8c430232-f73a-469a-8291-63309a8d9078",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

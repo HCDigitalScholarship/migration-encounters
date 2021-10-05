@@ -1,0 +1,12 @@
+{
+  "start":65281,
+  "end":65287,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy:",
+  "id":"f4617694-22b9-4182-9969-d4d40d9291f5",
+  "params":{
+    "id":"b3e4dde8-cc1f-438c-a5a6-ca3b9ac05148"
+  },
+  "name":"Cris"
+}

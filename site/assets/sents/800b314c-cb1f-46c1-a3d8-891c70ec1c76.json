@@ -1,0 +1,13 @@
+{
+  "start":31454,
+  "end":31503,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I was like, \"Dude,\n   what's wrong with you?\"",
+  "id":"800b314c-cb1f-46c1-a3d8-891c70ec1c76",
+  "params":{
+    "id":"800b314c-cb1f-46c1-a3d8-891c70ec1c76",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

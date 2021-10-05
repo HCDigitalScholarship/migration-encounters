@@ -1,0 +1,12 @@
+{
+  "start":6210,
+  "end":6299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people, they just see that you got good stuff and\n   they just go ahead and rob you.",
+  "id":"b7d434ea-f7e0-41d2-a4af-78c8f1c1f762",
+  "params":{
+    "id":"8ae2c2c1-51e1-4508-a8f6-849a0eaaa346"
+  },
+  "name":"Ivan"
+}

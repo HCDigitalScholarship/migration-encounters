@@ -1,0 +1,13 @@
+{
+  "start":30175,
+  "end":30205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you actually get arrested?",
+  "id":"7a424051-15c7-4ccf-8fa9-4df573d38473",
+  "params":{
+    "id":"7a424051-15c7-4ccf-8fa9-4df573d38473",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

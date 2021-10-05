@@ -1,0 +1,12 @@
+{
+  "start":23134,
+  "end":23164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never got to learn to drive.",
+  "id":"18047b56-45db-4855-9bb0-6630049fdc8d",
+  "params":{
+    "id":"d9e551a6-0cf0-4f37-839b-cf628afd2b42"
+  },
+  "name":"Luisa"
+}

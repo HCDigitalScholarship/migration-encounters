@@ -1,0 +1,13 @@
+{
+  "start":13918,
+  "end":13951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to waste two years.",
+  "id":"e373eb7c-a2d2-4153-b6c4-ec742637b863",
+  "params":{
+    "id":"e373eb7c-a2d2-4153-b6c4-ec742637b863",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":103059,
+  "end":103106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You haven't gone to\n     Bosque de Chapultepec.",
+  "id":"68a0e00b-db26-4f43-b1be-88a3a400a684",
+  "params":{
+    "id":"68a0e00b-db26-4f43-b1be-88a3a400a684",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

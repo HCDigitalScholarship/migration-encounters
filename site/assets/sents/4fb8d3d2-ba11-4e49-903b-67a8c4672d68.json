@@ -1,0 +1,13 @@
+{
+  "start":28314,
+  "end":28330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're not trash.",
+  "id":"4fb8d3d2-ba11-4e49-903b-67a8c4672d68",
+  "params":{
+    "id":"4fb8d3d2-ba11-4e49-903b-67a8c4672d68",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

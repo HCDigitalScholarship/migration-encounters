@@ -1,0 +1,13 @@
+{
+  "start":26095,
+  "end":26129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They can, but they're still young.",
+  "id":"5da0f539-c0a0-4230-a136-ae88c03c12ee",
+  "params":{
+    "id":"5da0f539-c0a0-4230-a136-ae88c03c12ee",
+    "class":"anno"
+  },
+  "name":"Many"
+}

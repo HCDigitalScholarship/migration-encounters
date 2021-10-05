@@ -1,0 +1,12 @@
+{
+  "start":1527,
+  "end":1548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what happened.",
+  "id":"6e3ae461-eeec-405a-a1a5-65f448cd008d",
+  "params":{
+    "id":"ac033cea-9395-449c-ad7b-02cb56ccf8e1"
+  },
+  "name":"Hugo"
+}

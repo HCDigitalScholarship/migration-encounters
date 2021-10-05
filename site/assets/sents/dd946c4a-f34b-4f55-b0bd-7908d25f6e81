@@ -1,0 +1,12 @@
+{
+  "start":7260,
+  "end":7272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can see.",
+  "id":"dd946c4a-f34b-4f55-b0bd-7908d25f6e81",
+  "params":{
+    "id":"d8d47eda-9c69-46b6-bcbd-223013388a82"
+  },
+  "name":"Many"
+}

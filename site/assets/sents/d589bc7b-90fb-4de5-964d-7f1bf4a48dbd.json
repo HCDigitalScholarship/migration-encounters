@@ -1,0 +1,13 @@
+{
+  "start":22330,
+  "end":22400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Sergio: Have you ever been the victim of a violent crime here?",
+  "id":"d589bc7b-90fb-4de5-964d-7f1bf4a48dbd",
+  "params":{
+    "id":"d589bc7b-90fb-4de5-964d-7f1bf4a48dbd",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

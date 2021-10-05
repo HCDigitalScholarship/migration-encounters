@@ -1,0 +1,12 @@
+{
+  "start":48488,
+  "end":48523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've had teachers that inspired me.",
+  "id":"4d89d43b-c244-4002-8356-0e9673f911a8",
+  "params":{
+    "id":"3d38b893-6304-4b1b-9855-292a48e33f92"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15708,
+  "end":15771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ten\u00eda una amiguita\n     que ella s\u00ed sab\u00eda perfectamente ingl\u00e9s.",
+  "id":"49baeb0f-60c2-4e87-8e53-f7762f2012d0",
+  "params":{
+    "id":"49baeb0f-60c2-4e87-8e53-f7762f2012d0",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

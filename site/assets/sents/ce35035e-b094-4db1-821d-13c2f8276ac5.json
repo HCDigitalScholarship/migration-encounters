@@ -1,0 +1,15 @@
+{
+  "start":6517,
+  "end":6580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They also require a visa, which is impossible to get in Mexico.",
+  "id":"ce35035e-b094-4db1-821d-13c2f8276ac5",
+  "params":{
+    "id":"ce35035e-b094-4db1-821d-13c2f8276ac5",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

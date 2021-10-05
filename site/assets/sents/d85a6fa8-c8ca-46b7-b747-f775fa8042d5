@@ -1,0 +1,12 @@
+{
+  "start":33308,
+  "end":33331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"started getting better.",
+  "id":"d85a6fa8-c8ca-46b7-b747-f775fa8042d5",
+  "params":{
+    "id":"54ac135f-7f00-4d76-ac14-0025d298662d"
+  },
+  "name":"Mike"
+}

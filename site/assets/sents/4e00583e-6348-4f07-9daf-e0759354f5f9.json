@@ -1,0 +1,13 @@
+{
+  "start":27602,
+  "end":27632,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Keep me\n   here another month?",
+  "id":"4e00583e-6348-4f07-9daf-e0759354f5f9",
+  "params":{
+    "id":"4e00583e-6348-4f07-9daf-e0759354f5f9",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10915,
+  "end":10939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you want to do?\"",
+  "id":"f44703c2-05fd-4c8e-8091-ff5f62a62e89",
+  "params":{
+    "id":"f44703c2-05fd-4c8e-8091-ff5f62a62e89",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

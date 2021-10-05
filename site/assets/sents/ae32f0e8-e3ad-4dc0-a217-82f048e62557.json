@@ -1,0 +1,13 @@
+{
+  "start":19276,
+  "end":19393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If the warrants are from $40,000 and under, they can decide to\n   let you go, to pay a fine, to do community service.",
+  "id":"ae32f0e8-e3ad-4dc0-a217-82f048e62557",
+  "params":{
+    "id":"ae32f0e8-e3ad-4dc0-a217-82f048e62557",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

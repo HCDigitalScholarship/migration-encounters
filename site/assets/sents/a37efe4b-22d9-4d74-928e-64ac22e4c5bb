@@ -1,0 +1,12 @@
+{
+  "start":53631,
+  "end":53659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo vivo solo con un sobrino.",
+  "id":"a37efe4b-22d9-4d74-928e-64ac22e4c5bb",
+  "params":{
+    "id":"02330b3f-1ed6-4cd6-8fb9-130bb1557b4f"
+  },
+  "name":"Maria"
+}

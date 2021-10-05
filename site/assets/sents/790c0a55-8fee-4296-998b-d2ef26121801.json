@@ -1,0 +1,13 @@
+{
+  "start":128,
+  "end":145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you?",
+  "id":"790c0a55-8fee-4296-998b-d2ef26121801",
+  "params":{
+    "id":"790c0a55-8fee-4296-998b-d2ef26121801",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

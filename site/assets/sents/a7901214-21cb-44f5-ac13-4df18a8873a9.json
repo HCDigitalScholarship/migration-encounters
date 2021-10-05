@@ -1,0 +1,12 @@
+{
+  "start":52224,
+  "end":52242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wasn't speeding.",
+  "id":"a7901214-21cb-44f5-ac13-4df18a8873a9",
+  "params":{
+    "id":"18f5bdfc-1e66-4921-b773-64a5a9311e48"
+  },
+  "name":"Axel"
+}

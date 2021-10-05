@@ -1,0 +1,13 @@
+{
+  "start":2631,
+  "end":2679,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I used to tell my uncle that I want to work.",
+  "id":"bd7ce650-450c-4f03-a5ee-e6975543b2fd",
+  "params":{
+    "id":"bd7ce650-450c-4f03-a5ee-e6975543b2fd",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":550,
+  "end":581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: Two years, three years.",
+  "id":"6310ba1a-803b-414b-bc5e-85b9d75cb372",
+  "params":{
+    "id":"6310ba1a-803b-414b-bc5e-85b9d75cb372",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

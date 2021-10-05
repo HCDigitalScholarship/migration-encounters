@@ -1,0 +1,13 @@
+{
+  "start":10350,
+  "end":10403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want him to come here and I can take him\n   to eat.",
+  "id":"27f2897a-ee46-4f8e-b94f-8438873de57b",
+  "params":{
+    "id":"27f2897a-ee46-4f8e-b94f-8438873de57b",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

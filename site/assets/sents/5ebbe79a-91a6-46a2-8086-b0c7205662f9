@@ -1,0 +1,12 @@
+{
+  "start":12400,
+  "end":12442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hire a lawyer, it didn't work\n   for me.",
+  "id":"5ebbe79a-91a6-46a2-8086-b0c7205662f9",
+  "params":{
+    "id":"cc0a1df8-9002-4632-b04f-222a2446f359"
+  },
+  "name":"Erik"
+}

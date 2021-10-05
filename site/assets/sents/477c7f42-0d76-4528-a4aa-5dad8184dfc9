@@ -1,0 +1,12 @@
+{
+  "start":7624,
+  "end":7662,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The police came, and I got in trouble.",
+  "id":"477c7f42-0d76-4528-a4aa-5dad8184dfc9",
+  "params":{
+    "id":"22c24760-291c-4291-b145-dbf3c79a7b61"
+  },
+  "name":"Carlos"
+}

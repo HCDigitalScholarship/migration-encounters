@@ -1,0 +1,13 @@
+{
+  "start":21387,
+  "end":21414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it was in\n   Lancaster.",
+  "id":"725900d7-fa46-4ea5-a5ff-70dd23ce8bc7",
+  "params":{
+    "id":"725900d7-fa46-4ea5-a5ff-70dd23ce8bc7",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

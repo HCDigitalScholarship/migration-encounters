@@ -1,0 +1,13 @@
+{
+  "start":11584,
+  "end":11692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go, \"Look these other jobs,\u201d and I had already said I was going to\n take them, but I didn't tell her that.",
+  "id":"33eced16-999a-450e-bede-612be976f28f",
+  "params":{
+    "id":"33eced16-999a-450e-bede-612be976f28f",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

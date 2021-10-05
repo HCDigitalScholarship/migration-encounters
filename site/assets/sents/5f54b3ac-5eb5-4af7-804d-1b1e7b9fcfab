@@ -1,0 +1,12 @@
+{
+  "start":36843,
+  "end":36891,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: I've never really liked it though.",
+  "id":"5f54b3ac-5eb5-4af7-804d-1b1e7b9fcfab",
+  "params":{
+    "id":"289e8486-cda3-4a45-a932-d665fc4c7c41"
+  },
+  "name":"Mike"
+}

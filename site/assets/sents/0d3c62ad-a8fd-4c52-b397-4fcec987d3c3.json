@@ -1,0 +1,15 @@
+{
+  "start":14412,
+  "end":14439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They should be on a gauge\".",
+  "id":"0d3c62ad-a8fd-4c52-b397-4fcec987d3c3",
+  "params":{
+    "id":"0d3c62ad-a8fd-4c52-b397-4fcec987d3c3",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

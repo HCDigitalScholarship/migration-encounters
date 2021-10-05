@@ -1,0 +1,12 @@
+{
+  "start":11732,
+  "end":11773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   I had a lot of issues with my dad.",
+  "id":"bc778b99-5201-42a5-bd98-7840b0a40745",
+  "params":{
+    "id":"b992ed80-5884-40c8-9beb-ca4599685914"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6909,
+  "end":6966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: De pollos [Sonido de afirmacion].\n \n <br/>\n \n     ",
+  "id":"a59ebe0b-3352-429f-94cb-9e015ed1295e",
+  "params":{
+    "id":"a59ebe0b-3352-429f-94cb-9e015ed1295e",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

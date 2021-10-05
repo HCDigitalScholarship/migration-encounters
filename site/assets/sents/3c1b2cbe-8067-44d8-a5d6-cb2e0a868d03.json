@@ -1,0 +1,13 @@
+{
+  "start":14533,
+  "end":14548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mexico is rich.",
+  "id":"3c1b2cbe-8067-44d8-a5d6-cb2e0a868d03",
+  "params":{
+    "id":"3c1b2cbe-8067-44d8-a5d6-cb2e0a868d03",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

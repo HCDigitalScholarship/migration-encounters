@@ -1,0 +1,13 @@
+{
+  "start":4116,
+  "end":4137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is interesting.\"",
+  "id":"79d28714-95be-4c20-a47a-9c300ea00a1b",
+  "params":{
+    "id":"79d28714-95be-4c20-a47a-9c300ea00a1b",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

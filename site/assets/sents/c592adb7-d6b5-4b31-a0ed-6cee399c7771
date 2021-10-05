@@ -1,0 +1,12 @@
+{
+  "start":52119,
+  "end":52178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just the type of person that I care about\n   everybody.",
+  "id":"c592adb7-d6b5-4b31-a0ed-6cee399c7771",
+  "params":{
+    "id":"732957e2-be83-47a0-88ee-c2ee7a926579"
+  },
+  "name":"Mike"
+}

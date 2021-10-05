@@ -1,0 +1,13 @@
+{
+  "start":7399,
+  "end":7510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I was getting in trouble with the law, not really because I\n wanted to, but because I didn't have papers.",
+  "id":"1c840b9b-1cb4-41fc-b3f9-2b3e5c592c71",
+  "params":{
+    "id":"1c840b9b-1cb4-41fc-b3f9-2b3e5c592c71",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30004,
+  "end":30056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n   I mean luckily things are well my family now.",
+  "id":"f727178b-ec5b-44b4-a208-c77dd45480d4",
+  "params":{
+    "id":"ca03a18f-f93b-4c7a-9b8b-a6cd2f7c0278"
+  },
+  "name":"Luis A"
+}

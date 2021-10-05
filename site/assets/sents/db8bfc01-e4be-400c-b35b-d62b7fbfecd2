@@ -1,0 +1,12 @@
+{
+  "start":53363,
+  "end":53408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just something that\n     comes and goes.",
+  "id":"db8bfc01-e4be-400c-b35b-d62b7fbfecd2",
+  "params":{
+    "id":"f67a6937-7c98-48ca-ba14-5057fa832705"
+  },
+  "name":"Joseph"
+}

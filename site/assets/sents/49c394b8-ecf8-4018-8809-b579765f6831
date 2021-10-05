@@ -1,0 +1,12 @@
+{
+  "start":10613,
+  "end":10676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I do something bad, everybody does the bad stuff\n   with me.",
+  "id":"49c394b8-ecf8-4018-8809-b579765f6831",
+  "params":{
+    "id":"1748c54e-4212-48ce-b1c1-f5094d59b1e5"
+  },
+  "name":"Donovan"
+}

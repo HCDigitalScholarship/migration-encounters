@@ -1,0 +1,13 @@
+{
+  "start":56486,
+  "end":56579,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just take a big deep breath, and the longest they timed me was\n   three and a half minutes.",
+  "id":"b84026d1-98d1-4bb7-ae34-579f838f1c7b",
+  "params":{
+    "id":"b84026d1-98d1-4bb7-ae34-579f838f1c7b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

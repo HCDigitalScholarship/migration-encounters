@@ -1,0 +1,13 @@
+{
+  "start":10856,
+  "end":10874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's pretty scary.",
+  "id":"50bd4eb6-1bc4-42c3-9871-2790b34e0e06",
+  "params":{
+    "id":"50bd4eb6-1bc4-42c3-9871-2790b34e0e06",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

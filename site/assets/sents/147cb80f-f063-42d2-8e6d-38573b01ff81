@@ -1,0 +1,12 @@
+{
+  "start":28224,
+  "end":28315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wasn't in high school anymore, I was working at\n   that time, working for the Solar Spot.",
+  "id":"147cb80f-f063-42d2-8e6d-38573b01ff81",
+  "params":{
+    "id":"f69ef4e5-85c5-4d41-b061-943f5281876a"
+  },
+  "name":"Mike"
+}

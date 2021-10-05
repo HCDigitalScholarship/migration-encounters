@@ -1,0 +1,13 @@
+{
+  "start":33021,
+  "end":33067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   mean, I was never deprived of my freedom.",
+  "id":"f8f395f9-afd5-4299-95e2-a4684d01265e",
+  "params":{
+    "id":"f8f395f9-afd5-4299-95e2-a4684d01265e",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

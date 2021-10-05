@@ -1,0 +1,13 @@
+{
+  "start":1171,
+  "end":1201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that where you lived first?",
+  "id":"f2e44557-8a98-4e14-b59e-cfb7ca7942e7",
+  "params":{
+    "id":"f2e44557-8a98-4e14-b59e-cfb7ca7942e7",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

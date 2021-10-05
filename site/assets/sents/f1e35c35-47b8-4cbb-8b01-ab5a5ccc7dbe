@@ -1,0 +1,12 @@
+{
+  "start":29593,
+  "end":29630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And like, \"Can you help me go there?\"",
+  "id":"f1e35c35-47b8-4cbb-8b01-ab5a5ccc7dbe",
+  "params":{
+    "id":"358c0e5a-c921-4b38-a77a-04a202fb3c9c"
+  },
+  "name":"Joseph"
+}

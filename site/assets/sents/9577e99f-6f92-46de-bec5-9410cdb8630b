@@ -1,0 +1,12 @@
+{
+  "start":42243,
+  "end":42254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   cops",
+  "id":"9577e99f-6f92-46de-bec5-9410cdb8630b",
+  "params":{
+    "id":"70df1c7c-82d5-4015-a9f6-810f476782de"
+  },
+  "name":"Daniel B"
+}

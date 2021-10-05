@@ -1,0 +1,13 @@
+{
+  "start":1678,
+  "end":1701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   adapted very well.",
+  "id":"cb7aa15c-5b3e-43fa-a7d9-5df19e440fdd",
+  "params":{
+    "id":"cb7aa15c-5b3e-43fa-a7d9-5df19e440fdd",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

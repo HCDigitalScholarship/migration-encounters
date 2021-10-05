@@ -1,0 +1,12 @@
+{
+  "start":1357,
+  "end":1384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a lot of\n   friends.",
+  "id":"24c60f70-c159-46b2-8980-deb59073de99",
+  "params":{
+    "id":"cc7a2f92-5e01-46ab-a484-d622c93a8093"
+  },
+  "name":"Ilse"
+}

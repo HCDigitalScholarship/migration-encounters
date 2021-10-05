@@ -1,0 +1,13 @@
+{
+  "start":22637,
+  "end":22695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my friend, actually it was his mom, my friend's mom.",
+  "id":"24f59814-bd9d-4adb-95d5-003ef3f3e54b",
+  "params":{
+    "id":"24f59814-bd9d-4adb-95d5-003ef3f3e54b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,15 @@
+{
+  "start":12058,
+  "end":12120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember there was a skill that they had six in one\n   year.",
+  "id":"8ce3c7e2-31bb-41ed-a4db-19c153990940",
+  "params":{
+    "id":"8ce3c7e2-31bb-41ed-a4db-19c153990940",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

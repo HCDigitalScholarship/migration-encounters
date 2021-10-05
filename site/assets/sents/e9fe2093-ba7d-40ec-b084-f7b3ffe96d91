@@ -1,0 +1,12 @@
+{
+  "start":28847,
+  "end":28880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You still live with your parents?",
+  "id":"e9fe2093-ba7d-40ec-b084-f7b3ffe96d91",
+  "params":{
+    "id":"4fc98bd3-996f-4da1-aa49-94ab695c58bd"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13952,
+  "end":13979,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The library was\n   amazing.",
+  "id":"26e27589-3e2f-44f8-8d12-6f5ba907344e",
+  "params":{
+    "id":"26e27589-3e2f-44f8-8d12-6f5ba907344e",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

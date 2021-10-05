@@ -1,0 +1,13 @@
+{
+  "start":32682,
+  "end":32729,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of people here that got deported.",
+  "id":"dde53a60-9a54-4589-8722-29dfa731c9db",
+  "params":{
+    "id":"dde53a60-9a54-4589-8722-29dfa731c9db",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

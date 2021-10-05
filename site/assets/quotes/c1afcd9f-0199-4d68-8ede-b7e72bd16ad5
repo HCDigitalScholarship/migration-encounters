@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":23058,
+  "end":23062,
+  "text":"this for a\n   company that is based over there, but obviously, well, that was impossible,\n   so I'm here.\n \n \n   Claudia: You didn't receive any help from the government when you came\n   back?\n \n \n   Ilse: No.\n \n \n   Claudia: Any help from any non-government?\n \n \n   Ilse: No. Nothing.\n \n \n   Claudia: Nothing. Okay. I'm assuming, but just let me know, is your family\n   still in the States?\n \n \n   Ilse:",
+  "label":"PERSON",
+  "id":"c1afcd9f-0199-4d68-8ede-b7e72bd16ad5",
+  "name":"Ilse"
+}

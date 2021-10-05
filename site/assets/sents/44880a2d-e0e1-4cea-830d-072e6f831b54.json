@@ -1,0 +1,13 @@
+{
+  "start":30196,
+  "end":30230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can teach them how to like it.",
+  "id":"44880a2d-e0e1-4cea-830d-072e6f831b54",
+  "params":{
+    "id":"44880a2d-e0e1-4cea-830d-072e6f831b54",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

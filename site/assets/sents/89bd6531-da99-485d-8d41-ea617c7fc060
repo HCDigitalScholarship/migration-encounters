@@ -1,0 +1,12 @@
+{
+  "start":7095,
+  "end":7124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember it was a Corvette.",
+  "id":"89bd6531-da99-485d-8d41-ea617c7fc060",
+  "params":{
+    "id":"90fb4c93-9397-47dd-98db-57865902d6cc"
+  },
+  "name":"Carlos"
+}

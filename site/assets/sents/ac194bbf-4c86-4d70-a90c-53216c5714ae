@@ -1,0 +1,12 @@
+{
+  "start":34655,
+  "end":34687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lady got robbed for her purse.",
+  "id":"ac194bbf-4c86-4d70-a90c-53216c5714ae",
+  "params":{
+    "id":"262f9db8-ad41-49ae-a20b-d9e01114d838"
+  },
+  "name":"Axel"
+}

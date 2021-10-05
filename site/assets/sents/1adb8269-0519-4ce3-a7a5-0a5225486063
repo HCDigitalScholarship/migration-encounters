@@ -1,0 +1,12 @@
+{
+  "start":7100,
+  "end":7117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you?",
+  "id":"1adb8269-0519-4ce3-a7a5-0a5225486063",
+  "params":{
+    "id":"3338597e-ff7b-4bb4-a5b1-62a193bbc800"
+  },
+  "name":"Jesus C"
+}

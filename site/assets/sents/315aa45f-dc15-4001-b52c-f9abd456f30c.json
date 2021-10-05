@@ -1,0 +1,13 @@
+{
+  "start":10884,
+  "end":10934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got into fights a lot, and she got tired of me.",
+  "id":"315aa45f-dc15-4001-b52c-f9abd456f30c",
+  "params":{
+    "id":"315aa45f-dc15-4001-b52c-f9abd456f30c",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

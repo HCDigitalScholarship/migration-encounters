@@ -1,0 +1,13 @@
+{
+  "start":53360,
+  "end":53454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got a\n   nice supervisor, he lets me do whatever I want as long as I know what I'm\n   doing.",
+  "id":"92d246de-2d75-44ac-95b0-0da046c1ca45",
+  "params":{
+    "id":"92d246de-2d75-44ac-95b0-0da046c1ca45",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

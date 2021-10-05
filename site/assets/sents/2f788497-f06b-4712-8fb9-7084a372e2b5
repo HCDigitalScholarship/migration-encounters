@@ -1,0 +1,12 @@
+{
+  "start":30136,
+  "end":30156,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How\n   can I say it?",
+  "id":"2f788497-f06b-4712-8fb9-7084a372e2b5",
+  "params":{
+    "id":"130de29d-4f47-40d6-88ef-abd6728a0128"
+  },
+  "name":"Carlos"
+}

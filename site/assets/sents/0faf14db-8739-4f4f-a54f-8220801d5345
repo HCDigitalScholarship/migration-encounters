@@ -1,0 +1,12 @@
+{
+  "start":14133,
+  "end":14175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n would think that, \"Hey, that's cute.\"",
+  "id":"0faf14db-8739-4f4f-a54f-8220801d5345",
+  "params":{
+    "id":"d42b7df4-7a32-4d14-a38a-f8bcd49c81ed"
+  },
+  "name":"Ana"
+}

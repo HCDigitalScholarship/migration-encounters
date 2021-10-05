@@ -1,0 +1,13 @@
+{
+  "start":23549,
+  "end":23675,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   When my mom knew about the surgery and everything, they were telling me\n   that they want to come back to take care of me.",
+  "id":"557d2004-6d5a-4988-9216-cb9a25c80d9b",
+  "params":{
+    "id":"557d2004-6d5a-4988-9216-cb9a25c80d9b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

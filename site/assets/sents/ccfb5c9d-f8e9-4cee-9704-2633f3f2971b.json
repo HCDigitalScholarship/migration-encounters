@@ -1,0 +1,13 @@
+{
+  "start":7799,
+  "end":7831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it's a very important story.",
+  "id":"ccfb5c9d-f8e9-4cee-9704-2633f3f2971b",
+  "params":{
+    "id":"ccfb5c9d-f8e9-4cee-9704-2633f3f2971b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

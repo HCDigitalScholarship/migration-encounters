@@ -1,0 +1,12 @@
+{
+  "start":18511,
+  "end":18579,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I didn't have my papers, I was trying to go after everybody.",
+  "id":"5e83d12b-21cb-4013-aad1-63ff42db7f91",
+  "params":{
+    "id":"2ac322f2-59ce-4908-afe9-62476bb636a4"
+  },
+  "name":"Mike"
+}

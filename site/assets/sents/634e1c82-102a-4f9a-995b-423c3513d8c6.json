@@ -1,0 +1,13 @@
+{
+  "start":47664,
+  "end":47731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, she doesn't speak Spanish, and he doesn't\n   speak English.",
+  "id":"634e1c82-102a-4f9a-995b-423c3513d8c6",
+  "params":{
+    "id":"634e1c82-102a-4f9a-995b-423c3513d8c6",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

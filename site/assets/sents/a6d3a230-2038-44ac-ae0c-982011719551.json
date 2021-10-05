@@ -1,0 +1,13 @@
+{
+  "start":20024,
+  "end":20080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you take me in for that, they're going to deport me.\"",
+  "id":"a6d3a230-2038-44ac-ae0c-982011719551",
+  "params":{
+    "id":"a6d3a230-2038-44ac-ae0c-982011719551",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

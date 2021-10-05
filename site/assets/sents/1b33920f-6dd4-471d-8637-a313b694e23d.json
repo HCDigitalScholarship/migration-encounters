@@ -1,0 +1,13 @@
+{
+  "start":28764,
+  "end":28814,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know you said you want to go back\n   to the U.S.",
+  "id":"1b33920f-6dd4-471d-8637-a313b694e23d",
+  "params":{
+    "id":"1b33920f-6dd4-471d-8637-a313b694e23d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

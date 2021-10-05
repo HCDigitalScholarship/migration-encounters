@@ -1,0 +1,13 @@
+{
+  "start":26173,
+  "end":26258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So at the end, they're worse than if they\n   would've just stayed with their parents.",
+  "id":"68f007c1-73cf-471d-bf39-d0bac0fa3e95",
+  "params":{
+    "id":"68f007c1-73cf-471d-bf39-d0bac0fa3e95",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

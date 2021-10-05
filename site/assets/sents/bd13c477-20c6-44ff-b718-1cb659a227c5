@@ -1,0 +1,12 @@
+{
+  "start":34472,
+  "end":34522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And the guy told\n   me, \u201cHey man, shut your mouth.",
+  "id":"bd13c477-20c6-44ff-b718-1cb659a227c5",
+  "params":{
+    "id":"e6bb8911-233d-4bb7-989c-09840d99a191"
+  },
+  "name":"Rodolfo"
+}

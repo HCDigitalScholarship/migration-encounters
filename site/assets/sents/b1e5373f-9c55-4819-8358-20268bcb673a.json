@@ -1,0 +1,13 @@
+{
+  "start":5403,
+  "end":5441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never was involved in selling drugs.",
+  "id":"b1e5373f-9c55-4819-8358-20268bcb673a",
+  "params":{
+    "id":"b1e5373f-9c55-4819-8358-20268bcb673a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

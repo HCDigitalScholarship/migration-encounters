@@ -1,0 +1,13 @@
+{
+  "start":31374,
+  "end":31440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the US, it was nothing but\n Burger King, McDonald's, Taco Bell.",
+  "id":"eb7ceece-f034-4c6d-a8be-51e8a45c4aca",
+  "params":{
+    "id":"eb7ceece-f034-4c6d-a8be-51e8a45c4aca",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

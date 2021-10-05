@@ -1,0 +1,12 @@
+{
+  "start":22000,
+  "end":22019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, that's crazy.",
+  "id":"ac11a5c9-bc12-4f37-ade4-b1e57f065ad5",
+  "params":{
+    "id":"cfcf4c0f-87a9-4857-a73e-707219766bda"
+  },
+  "name":"Hugo"
+}

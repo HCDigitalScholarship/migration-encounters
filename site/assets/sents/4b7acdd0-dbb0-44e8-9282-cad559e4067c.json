@@ -1,0 +1,13 @@
+{
+  "start":35441,
+  "end":35460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And do you like it?",
+  "id":"4b7acdd0-dbb0-44e8-9282-cad559e4067c",
+  "params":{
+    "id":"4b7acdd0-dbb0-44e8-9282-cad559e4067c",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

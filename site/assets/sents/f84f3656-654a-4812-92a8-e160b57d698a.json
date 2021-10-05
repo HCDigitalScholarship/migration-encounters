@@ -1,0 +1,13 @@
+{
+  "start":27205,
+  "end":27270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's the only one who took me to a psychiatrist, a psychologist.",
+  "id":"f84f3656-654a-4812-92a8-e160b57d698a",
+  "params":{
+    "id":"f84f3656-654a-4812-92a8-e160b57d698a",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

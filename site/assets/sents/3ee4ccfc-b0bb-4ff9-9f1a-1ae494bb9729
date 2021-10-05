@@ -1,0 +1,12 @@
+{
+  "start":21601,
+  "end":21651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I told him that,\n   no, he lost the privilege.",
+  "id":"3ee4ccfc-b0bb-4ff9-9f1a-1ae494bb9729",
+  "params":{
+    "id":"264612f5-879a-4bc9-9dbd-6ff29b21f9fe"
+  },
+  "name":"Joseph"
+}

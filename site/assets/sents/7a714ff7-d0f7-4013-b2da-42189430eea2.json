@@ -1,0 +1,13 @@
+{
+  "start":10390,
+  "end":10423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I was, but I didn't want to.",
+  "id":"7a714ff7-d0f7-4013-b2da-42189430eea2",
+  "params":{
+    "id":"7a714ff7-d0f7-4013-b2da-42189430eea2",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

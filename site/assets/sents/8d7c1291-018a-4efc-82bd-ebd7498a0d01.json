@@ -1,0 +1,13 @@
+{
+  "start":24725,
+  "end":24786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me dio risa al\n     principio dije \u201c\u00bfHijo, por una naranja?\u201d.",
+  "id":"8d7c1291-018a-4efc-82bd-ebd7498a0d01",
+  "params":{
+    "id":"8d7c1291-018a-4efc-82bd-ebd7498a0d01",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

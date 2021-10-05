@@ -1,0 +1,12 @@
+{
+  "start":39013,
+  "end":39065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, would you like to\n pay $30 for a Big Mac?",
+  "id":"6b48ef78-f2e2-47d9-805a-4b120436a727",
+  "params":{
+    "id":"f2ced585-7119-487e-9056-34d8fd8b1d91"
+  },
+  "name":"Ben"
+}

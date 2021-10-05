@@ -1,0 +1,13 @@
+{
+  "start":57,
+  "end":78,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm 30. 30 years old.",
+  "id":"f70cc89c-c32d-4b10-83ec-91092d3efab8",
+  "params":{
+    "id":"f70cc89c-c32d-4b10-83ec-91092d3efab8",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

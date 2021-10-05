@@ -1,0 +1,13 @@
+{
+  "start":4807,
+  "end":4911,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, the first\n   one, it was the customer service, then tech and then right now I'm on level\n   three.",
+  "id":"5cb7c65d-ab0d-42b1-b558-f3c027b577ff",
+  "params":{
+    "id":"5cb7c65d-ab0d-42b1-b558-f3c027b577ff",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

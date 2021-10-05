@@ -1,0 +1,13 @@
+{
+  "start":11919,
+  "end":11931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She did not?",
+  "id":"10ae0efd-8a6a-4847-bbcc-945bd7061c66",
+  "params":{
+    "id":"10ae0efd-8a6a-4847-bbcc-945bd7061c66",
+    "class":"anno"
+  },
+  "name":"Many"
+}

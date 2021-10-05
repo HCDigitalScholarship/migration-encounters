@@ -1,0 +1,12 @@
+{
+  "start":56560,
+  "end":56587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Finally, I gave up on that.",
+  "id":"6f3b2b99-babb-4850-8ee3-5bac853da081",
+  "params":{
+    "id":"1df1a302-ff6c-44f1-981a-f78187972c7f"
+  },
+  "name":"Axel"
+}

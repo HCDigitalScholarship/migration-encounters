@@ -1,0 +1,13 @@
+{
+  "start":16918,
+  "end":16950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's your response\n   to that?",
+  "id":"7a08d206-bbc3-4162-b968-1a7f7d4e6121",
+  "params":{
+    "id":"7a08d206-bbc3-4162-b968-1a7f7d4e6121",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

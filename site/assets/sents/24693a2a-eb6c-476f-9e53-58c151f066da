@@ -1,0 +1,12 @@
+{
+  "start":17754,
+  "end":17803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you served your time in jail and then got out?",
+  "id":"24693a2a-eb6c-476f-9e53-58c151f066da",
+  "params":{
+    "id":"9d42b06d-47e2-4e01-abc9-046f963a00f5"
+  },
+  "name":"Edgar"
+}

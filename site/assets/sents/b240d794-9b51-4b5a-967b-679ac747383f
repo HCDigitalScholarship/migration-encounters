@@ -1,0 +1,12 @@
+{
+  "start":26023,
+  "end":26090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I stay in the US, I will never come, like, \u201cAh, it's\n   Mexico.\u201d",
+  "id":"b240d794-9b51-4b5a-967b-679ac747383f",
+  "params":{
+    "id":"1745ed82-fa3b-4a61-b3da-49a4ee8d92ba"
+  },
+  "name":"Noe"
+}

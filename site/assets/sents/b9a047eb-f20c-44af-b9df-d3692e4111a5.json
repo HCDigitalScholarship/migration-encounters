@@ -1,0 +1,13 @@
+{
+  "start":34575,
+  "end":34594,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm talking to you.",
+  "id":"b9a047eb-f20c-44af-b9df-d3692e4111a5",
+  "params":{
+    "id":"b9a047eb-f20c-44af-b9df-d3692e4111a5",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

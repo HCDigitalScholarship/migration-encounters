@@ -1,0 +1,13 @@
+{
+  "start":41383,
+  "end":41438,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't want to deal with the same thing every day.",
+  "id":"f7f90d00-9354-4c57-bbab-9fc7ef8578f6",
+  "params":{
+    "id":"f7f90d00-9354-4c57-bbab-9fc7ef8578f6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2657,
+  "end":2811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But English I did, I went through elementary, middle\n school, went to tenth grade in high school, then I dropped out of high\n school to go help my father.",
+  "id":"0a9d39a4-cc88-46f5-b807-453891bc314e",
+  "params":{
+    "id":"0a9d39a4-cc88-46f5-b807-453891bc314e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14319,
+  "end":14334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not bad.",
+  "id":"fc1e7122-e972-455d-b5ea-6672a76e3167",
+  "params":{
+    "id":"fc1e7122-e972-455d-b5ea-6672a76e3167",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

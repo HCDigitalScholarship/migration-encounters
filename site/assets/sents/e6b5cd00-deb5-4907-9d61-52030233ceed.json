@@ -1,0 +1,13 @@
+{
+  "start":58654,
+  "end":58663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cow horn.",
+  "id":"e6b5cd00-deb5-4907-9d61-52030233ceed",
+  "params":{
+    "id":"e6b5cd00-deb5-4907-9d61-52030233ceed",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

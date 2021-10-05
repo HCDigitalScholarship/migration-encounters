@@ -1,0 +1,13 @@
+{
+  "start":15509,
+  "end":15597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Claudia: Did you try to fight your immigration case, or you couldn't?\n \n \n   JC:",
+  "id":"a4c387bc-55c8-49ff-a6e4-f96461fbd628",
+  "params":{
+    "id":"a4c387bc-55c8-49ff-a6e4-f96461fbd628",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

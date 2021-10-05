@@ -1,0 +1,13 @@
+{
+  "start":13214,
+  "end":13255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How are you doing?\"\n   \"I'm doing great.\"",
+  "id":"d91b48a6-d6f8-4169-b54f-649bf2565815",
+  "params":{
+    "id":"d91b48a6-d6f8-4169-b54f-649bf2565815",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19539,
+  "end":19568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What company do you work for?",
+  "id":"43f8c4d0-4b22-4607-9e77-a97294d9298b",
+  "params":{
+    "id":"1a16f580-9106-4fec-b9bc-f7aeecba0330"
+  },
+  "name":"Rodrigo"
+}

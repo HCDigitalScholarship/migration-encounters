@@ -1,0 +1,13 @@
+{
+  "start":234,
+  "end":295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We know it could be painful and I'm sorry if it gets painful.",
+  "id":"878b0260-7f83-44ec-ac8d-b11652259939",
+  "params":{
+    "id":"878b0260-7f83-44ec-ac8d-b11652259939",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

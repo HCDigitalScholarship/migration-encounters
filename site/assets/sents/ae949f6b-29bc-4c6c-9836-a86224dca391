@@ -1,0 +1,12 @@
+{
+  "start":203,
+  "end":260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n   Anita: Ciudad de Mexico?\n \n <br/>\n \n   Miguel:",
+  "id":"ae949f6b-29bc-4c6c-9836-a86224dca391",
+  "params":{
+    "id":"acf2d753-bfbe-4b73-b9c1-09710b32bf62"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7786,
+  "end":7896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We talked with him and try to explain to him, but he really\n   don't understand why I cannot cross the border.",
+  "id":"a0bc5a7f-b784-40dd-90a2-9f1e107f44ed",
+  "params":{
+    "id":"a0bc5a7f-b784-40dd-90a2-9f1e107f44ed",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

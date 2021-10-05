@@ -1,0 +1,13 @@
+{
+  "start":52508,
+  "end":52606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, she always says, \"Well, do you promise when you get back, we're\n   going to be a family again?",
+  "id":"a1e896e9-b726-4918-b20c-dbebc138924a",
+  "params":{
+    "id":"a1e896e9-b726-4918-b20c-dbebc138924a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

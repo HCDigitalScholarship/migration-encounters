@@ -1,0 +1,12 @@
+{
+  "start":9198,
+  "end":9226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to get surgery now.",
+  "id":"d6f0086f-6177-4b18-8903-03f2884f1317",
+  "params":{
+    "id":"46aa1361-88b8-4399-924e-ecf158ed7f78"
+  },
+  "name":"Yair"
+}

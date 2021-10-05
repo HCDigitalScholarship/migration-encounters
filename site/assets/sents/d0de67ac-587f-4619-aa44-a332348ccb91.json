@@ -1,0 +1,13 @@
+{
+  "start":37830,
+  "end":37848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They accepted you?",
+  "id":"d0de67ac-587f-4619-aa44-a332348ccb91",
+  "params":{
+    "id":"d0de67ac-587f-4619-aa44-a332348ccb91",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

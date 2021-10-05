@@ -1,0 +1,13 @@
+{
+  "start":27594,
+  "end":27669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can get more stuff, or you\n   can do more of your own things than here.",
+  "id":"1e71890e-d6e5-48da-ab18-a29c66245f64",
+  "params":{
+    "id":"1e71890e-d6e5-48da-ab18-a29c66245f64",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

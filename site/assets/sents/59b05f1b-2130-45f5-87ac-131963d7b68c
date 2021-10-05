@@ -1,0 +1,12 @@
+{
+  "start":42187,
+  "end":42225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess we're more attached in Mexico.",
+  "id":"59b05f1b-2130-45f5-87ac-131963d7b68c",
+  "params":{
+    "id":"662f1ad8-b152-466a-95e6-f8cc11647b68"
+  },
+  "name":"Sylent"
+}

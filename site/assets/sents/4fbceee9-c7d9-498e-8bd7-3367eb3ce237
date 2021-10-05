@@ -1,0 +1,12 @@
+{
+  "start":29815,
+  "end":29852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't do anything, I was paralyzed.",
+  "id":"4fbceee9-c7d9-498e-8bd7-3367eb3ce237",
+  "params":{
+    "id":"73d36964-ca68-48b9-ac7f-ddbb9df9d547"
+  },
+  "name":"Cris"
+}

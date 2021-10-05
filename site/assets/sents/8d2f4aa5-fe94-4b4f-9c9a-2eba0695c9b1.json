@@ -1,0 +1,13 @@
+{
+  "start":13945,
+  "end":14007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I had a chance to go back\n   in the United States, I would.",
+  "id":"8d2f4aa5-fe94-4b4f-9c9a-2eba0695c9b1",
+  "params":{
+    "id":"8d2f4aa5-fe94-4b4f-9c9a-2eba0695c9b1",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

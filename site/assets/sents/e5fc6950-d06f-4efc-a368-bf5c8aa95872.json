@@ -1,0 +1,13 @@
+{
+  "start":12012,
+  "end":12050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She went to Washington and everything.",
+  "id":"e5fc6950-d06f-4efc-a368-bf5c8aa95872",
+  "params":{
+    "id":"e5fc6950-d06f-4efc-a368-bf5c8aa95872",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1227,
+  "end":1258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't know where we were.",
+  "id":"6f87db70-1204-4329-8549-d9829c702dfa",
+  "params":{
+    "id":"6f87db70-1204-4329-8549-d9829c702dfa",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

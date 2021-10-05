@@ -1,0 +1,12 @@
+{
+  "start":14327,
+  "end":14361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just said, \u201cI want to go home.",
+  "id":"6b700a9e-30d4-4a81-b373-e7f54b70a4c1",
+  "params":{
+    "id":"b0f0298c-829b-4a21-afe2-7de1624ebc17"
+  },
+  "name":"Ivan B"
+}

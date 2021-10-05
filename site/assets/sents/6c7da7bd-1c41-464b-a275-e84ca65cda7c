@@ -1,0 +1,12 @@
+{
+  "start":3587,
+  "end":3609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never ever\n   spoke.",
+  "id":"6c7da7bd-1c41-464b-a275-e84ca65cda7c",
+  "params":{
+    "id":"4eb9c251-b9d0-4607-b205-131c6003b91a"
+  },
+  "name":"Luis A"
+}

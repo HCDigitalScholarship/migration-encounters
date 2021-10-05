@@ -1,0 +1,12 @@
+{
+  "start":31048,
+  "end":31121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Basically in call centers, you have 60 people, and your max\n   is for 70.",
+  "id":"30ce29d2-33fe-4592-bf22-fe672ef84433",
+  "params":{
+    "id":"8e03ebc4-5dd7-496c-b0ef-3e143abd7e1e"
+  },
+  "name":"Carlos"
+}

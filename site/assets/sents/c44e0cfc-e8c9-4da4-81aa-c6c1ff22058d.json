@@ -1,0 +1,13 @@
+{
+  "start":2256,
+  "end":2328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it was a little bit normal, like you see in movies and\n   stuff.",
+  "id":"c44e0cfc-e8c9-4da4-81aa-c6c1ff22058d",
+  "params":{
+    "id":"c44e0cfc-e8c9-4da4-81aa-c6c1ff22058d",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

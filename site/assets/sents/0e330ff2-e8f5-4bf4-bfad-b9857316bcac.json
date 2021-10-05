@@ -1,0 +1,13 @@
+{
+  "start":69672,
+  "end":69703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nah, I just\n   heard his song.\"",
+  "id":"0e330ff2-e8f5-4bf4-bfad-b9857316bcac",
+  "params":{
+    "id":"0e330ff2-e8f5-4bf4-bfad-b9857316bcac",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

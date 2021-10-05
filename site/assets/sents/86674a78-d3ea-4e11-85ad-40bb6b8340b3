@@ -1,0 +1,12 @@
+{
+  "start":25150,
+  "end":25206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some kids, they cross the border, they don't make\n   it.",
+  "id":"86674a78-d3ea-4e11-85ad-40bb6b8340b3",
+  "params":{
+    "id":"cdc0f4ee-b6d6-47e8-964b-0ff6beaf58ad"
+  },
+  "name":"Daniel"
+}

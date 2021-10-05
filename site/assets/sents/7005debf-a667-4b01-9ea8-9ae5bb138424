@@ -1,0 +1,12 @@
+{
+  "start":24244,
+  "end":24260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, don't do it.",
+  "id":"7005debf-a667-4b01-9ea8-9ae5bb138424",
+  "params":{
+    "id":"2643544a-e231-401b-bdcf-37e37243392b"
+  },
+  "name":"Rodrigo"
+}

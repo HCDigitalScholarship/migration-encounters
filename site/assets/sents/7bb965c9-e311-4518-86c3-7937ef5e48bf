@@ -1,0 +1,12 @@
+{
+  "start":4180,
+  "end":4229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if you know the Central Valley area.",
+  "id":"7bb965c9-e311-4518-86c3-7937ef5e48bf",
+  "params":{
+    "id":"21ac340a-6cbf-48e1-b219-afb5f3959cf5"
+  },
+  "name":"Rodrigo"
+}

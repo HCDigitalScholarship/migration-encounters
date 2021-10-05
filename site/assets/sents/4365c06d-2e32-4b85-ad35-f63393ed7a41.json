@@ -1,0 +1,13 @@
+{
+  "start":20574,
+  "end":20668,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One example from the subway, there's a lot of people that they don't\n   care about the others.",
+  "id":"4365c06d-2e32-4b85-ad35-f63393ed7a41",
+  "params":{
+    "id":"4365c06d-2e32-4b85-ad35-f63393ed7a41",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32805,
+  "end":32921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either\n   they got stopped at work, a raid, you name it, but it's pretty much the\n   same reasons that we come back.",
+  "id":"9ce11cfe-745c-4f30-b86e-9373be164d63",
+  "params":{
+    "id":"9ce11cfe-745c-4f30-b86e-9373be164d63",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

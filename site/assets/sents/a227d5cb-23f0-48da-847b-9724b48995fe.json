@@ -1,0 +1,13 @@
+{
+  "start":24323,
+  "end":24359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We need\n   to do something about it.",
+  "id":"a227d5cb-23f0-48da-847b-9724b48995fe",
+  "params":{
+    "id":"a227d5cb-23f0-48da-847b-9724b48995fe",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

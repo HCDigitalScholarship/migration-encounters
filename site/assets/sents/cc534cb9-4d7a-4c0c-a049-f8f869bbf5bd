@@ -1,0 +1,12 @@
+{
+  "start":35543,
+  "end":35569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're trying to rob you?",
+  "id":"cc534cb9-4d7a-4c0c-a049-f8f869bbf5bd",
+  "params":{
+    "id":"de061430-6064-46c1-b1bf-7074ad42cb3f"
+  },
+  "name":"Joseph"
+}

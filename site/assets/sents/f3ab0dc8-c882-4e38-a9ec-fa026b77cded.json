@@ -1,0 +1,13 @@
+{
+  "start":12556,
+  "end":12573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean?",
+  "id":"f3ab0dc8-c882-4e38-a9ec-fa026b77cded",
+  "params":{
+    "id":"f3ab0dc8-c882-4e38-a9ec-fa026b77cded",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

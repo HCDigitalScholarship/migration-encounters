@@ -1,0 +1,13 @@
+{
+  "start":35049,
+  "end":35066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can't do that.",
+  "id":"75f87b0e-f3b7-43b5-834c-715e751a8ce2",
+  "params":{
+    "id":"75f87b0e-f3b7-43b5-834c-715e751a8ce2",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

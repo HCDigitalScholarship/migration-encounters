@@ -1,0 +1,12 @@
+{
+  "start":8520,
+  "end":8551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What led to you leaving the US?",
+  "id":"1e9807cb-609a-4c31-b1f6-9b12b93bb59e",
+  "params":{
+    "id":"906a528f-e6e3-484b-9f65-ed2f27138ab0"
+  },
+  "name":"Pablo"
+}

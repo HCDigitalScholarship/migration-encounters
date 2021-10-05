@@ -1,0 +1,13 @@
+{
+  "start":31358,
+  "end":31382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those\n   were the words.",
+  "id":"fb1d8c16-cf97-42d3-9b2a-5b3416eb8cc7",
+  "params":{
+    "id":"fb1d8c16-cf97-42d3-9b2a-5b3416eb8cc7",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

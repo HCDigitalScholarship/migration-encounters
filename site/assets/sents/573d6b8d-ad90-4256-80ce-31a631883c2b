@@ -1,0 +1,12 @@
+{
+  "start":60300,
+  "end":60326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And we climbed a mountain.",
+  "id":"573d6b8d-ad90-4256-80ce-31a631883c2b",
+  "params":{
+    "id":"56a4b75e-b8d0-4944-934f-88e4ea61ca81"
+  },
+  "name":"Cris"
+}

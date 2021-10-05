@@ -1,0 +1,13 @@
+{
+  "start":7615,
+  "end":7636,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what she said.",
+  "id":"faff690d-eaaf-402f-a6c0-65507a0fbb51",
+  "params":{
+    "id":"faff690d-eaaf-402f-a6c0-65507a0fbb51",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

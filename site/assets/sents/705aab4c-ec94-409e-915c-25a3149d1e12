@@ -1,0 +1,12 @@
+{
+  "start":47705,
+  "end":47725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had nowhere to go.",
+  "id":"705aab4c-ec94-409e-915c-25a3149d1e12",
+  "params":{
+    "id":"e291f29b-39f3-436b-85e6-7545bfdce6c2"
+  },
+  "name":"Mike"
+}

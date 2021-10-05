@@ -1,0 +1,12 @@
+{
+  "start":9995,
+  "end":10035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you know that you were undocumented?",
+  "id":"a8f3ced6-09c8-4c54-b54b-6ab8e3de0240",
+  "params":{
+    "id":"26870abe-1e4b-4537-8d24-1e61972d217f"
+  },
+  "name":"Joana"
+}

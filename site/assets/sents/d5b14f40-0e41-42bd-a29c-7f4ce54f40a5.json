@@ -1,0 +1,13 @@
+{
+  "start":13131,
+  "end":13157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How am I getting a flight?",
+  "id":"d5b14f40-0e41-42bd-a29c-7f4ce54f40a5",
+  "params":{
+    "id":"d5b14f40-0e41-42bd-a29c-7f4ce54f40a5",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

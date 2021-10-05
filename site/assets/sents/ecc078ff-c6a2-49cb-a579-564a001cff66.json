@@ -1,0 +1,13 @@
+{
+  "start":1973,
+  "end":1978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"ecc078ff-c6a2-49cb-a579-564a001cff66",
+  "params":{
+    "id":"ecc078ff-c6a2-49cb-a579-564a001cff66",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

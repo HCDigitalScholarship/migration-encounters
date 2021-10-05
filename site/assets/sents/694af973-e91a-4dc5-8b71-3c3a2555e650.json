@@ -1,0 +1,13 @@
+{
+  "start":75380,
+  "end":75401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love smoking meats.",
+  "id":"694af973-e91a-4dc5-8b71-3c3a2555e650",
+  "params":{
+    "id":"694af973-e91a-4dc5-8b71-3c3a2555e650",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

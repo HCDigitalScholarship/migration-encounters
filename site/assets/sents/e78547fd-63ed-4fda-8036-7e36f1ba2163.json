@@ -1,0 +1,13 @@
+{
+  "start":19807,
+  "end":19843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom said, \"You can just cross it.",
+  "id":"e78547fd-63ed-4fda-8036-7e36f1ba2163",
+  "params":{
+    "id":"e78547fd-63ed-4fda-8036-7e36f1ba2163",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

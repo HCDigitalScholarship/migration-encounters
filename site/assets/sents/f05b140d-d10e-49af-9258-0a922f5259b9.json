@@ -1,0 +1,13 @@
+{
+  "start":5307,
+  "end":5379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   next, my daughter is eighteen and just graduated from high school.",
+  "id":"f05b140d-d10e-49af-9258-0a922f5259b9",
+  "params":{
+    "id":"f05b140d-d10e-49af-9258-0a922f5259b9",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

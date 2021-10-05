@@ -1,0 +1,13 @@
+{
+  "start":7754,
+  "end":7855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The community college, the\n courses that you took, were they designed to help you with your business?",
+  "id":"ac847f42-11a9-4014-99f7-4364256f643a",
+  "params":{
+    "id":"ac847f42-11a9-4014-99f7-4364256f643a",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

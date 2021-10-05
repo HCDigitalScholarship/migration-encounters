@@ -1,0 +1,13 @@
+{
+  "start":8636,
+  "end":8654,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're from Mexico.",
+  "id":"68113ae4-692e-47e3-9c07-a4b6cc609d8f",
+  "params":{
+    "id":"68113ae4-692e-47e3-9c07-a4b6cc609d8f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

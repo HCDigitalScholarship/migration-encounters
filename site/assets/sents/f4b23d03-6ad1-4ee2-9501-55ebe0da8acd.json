@@ -1,0 +1,13 @@
+{
+  "start":23112,
+  "end":23184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember getting some scissors and\n   I started cutting all his fence.",
+  "id":"f4b23d03-6ad1-4ee2-9501-55ebe0da8acd",
+  "params":{
+    "id":"f4b23d03-6ad1-4ee2-9501-55ebe0da8acd",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

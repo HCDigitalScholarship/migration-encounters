@@ -1,0 +1,13 @@
+{
+  "start":7649,
+  "end":7683,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It took them four days to find me.",
+  "id":"8c5fb37f-36ae-4023-9f1b-1eb1fc26667e",
+  "params":{
+    "id":"8c5fb37f-36ae-4023-9f1b-1eb1fc26667e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

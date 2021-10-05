@@ -1,0 +1,13 @@
+{
+  "start":12090,
+  "end":12185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was the\n   first biggest book that I read, and then I had an obsession with Roald\n   Dahl.",
+  "id":"fdd98608-7f55-45be-b458-24a641c498f4",
+  "params":{
+    "id":"fdd98608-7f55-45be-b458-24a641c498f4",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

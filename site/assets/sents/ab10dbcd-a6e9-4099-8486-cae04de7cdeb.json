@@ -1,0 +1,13 @@
+{
+  "start":8658,
+  "end":8713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you ever send money to your relatives in\n   Mexico?",
+  "id":"ab10dbcd-a6e9-4099-8486-cae04de7cdeb",
+  "params":{
+    "id":"ab10dbcd-a6e9-4099-8486-cae04de7cdeb",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

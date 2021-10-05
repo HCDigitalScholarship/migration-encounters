@@ -1,0 +1,12 @@
+{
+  "start":7600,
+  "end":7614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: To 17.",
+  "id":"ec667c1f-8b3e-492d-b4f4-3b741372690a",
+  "params":{
+    "id":"b61b0ed1-b74f-4b51-90b9-a0a810dff0b3"
+  },
+  "name":"Pablo"
+}

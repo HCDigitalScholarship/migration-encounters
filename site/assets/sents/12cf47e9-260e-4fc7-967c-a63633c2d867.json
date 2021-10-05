@@ -1,0 +1,13 @@
+{
+  "start":11032,
+  "end":11049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I heard the ding.",
+  "id":"12cf47e9-260e-4fc7-967c-a63633c2d867",
+  "params":{
+    "id":"12cf47e9-260e-4fc7-967c-a63633c2d867",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

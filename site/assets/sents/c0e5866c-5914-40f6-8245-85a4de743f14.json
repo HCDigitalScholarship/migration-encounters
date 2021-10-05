@@ -1,0 +1,13 @@
+{
+  "start":17555,
+  "end":17582,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They do it for a\n   reason.",
+  "id":"c0e5866c-5914-40f6-8245-85a4de743f14",
+  "params":{
+    "id":"c0e5866c-5914-40f6-8245-85a4de743f14",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

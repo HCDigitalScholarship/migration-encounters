@@ -1,0 +1,13 @@
+{
+  "start":2445,
+  "end":2484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You want me to pause to go get tissues?",
+  "id":"a6ca4fa6-4c43-4195-9b9a-27ecbc97f678",
+  "params":{
+    "id":"a6ca4fa6-4c43-4195-9b9a-27ecbc97f678",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

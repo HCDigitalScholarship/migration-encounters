@@ -1,0 +1,13 @@
+{
+  "start":17328,
+  "end":17347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We rent\n   a house.",
+  "id":"60e109a9-a25d-4f07-9bb7-322df3e8768b",
+  "params":{
+    "id":"60e109a9-a25d-4f07-9bb7-322df3e8768b",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

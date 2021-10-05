@@ -1,0 +1,13 @@
+{
+  "start":28240,
+  "end":28278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're\n   always going to be a family.\"",
+  "id":"5ad8944f-0a0c-40b9-8151-27cfcb10227c",
+  "params":{
+    "id":"5ad8944f-0a0c-40b9-8151-27cfcb10227c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

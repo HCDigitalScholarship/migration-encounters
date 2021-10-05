@@ -1,0 +1,13 @@
+{
+  "start":45664,
+  "end":45686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mexicans are\n   weird.",
+  "id":"d73672e2-04ed-4d01-a220-52aa179408e4",
+  "params":{
+    "id":"d73672e2-04ed-4d01-a220-52aa179408e4",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10132,
+  "end":10167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a really unique perspective.",
+  "id":"0af73942-ed6b-47ae-bd74-5cf0d4cddc52",
+  "params":{
+    "id":"0af73942-ed6b-47ae-bd74-5cf0d4cddc52",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

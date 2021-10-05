@@ -1,0 +1,13 @@
+{
+  "start":25943,
+  "end":25979,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was only\n there for three years.",
+  "id":"5bdb14ac-31b6-49c6-aedb-922902fbf2e4",
+  "params":{
+    "id":"5bdb14ac-31b6-49c6-aedb-922902fbf2e4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

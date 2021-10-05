@@ -1,0 +1,13 @@
+{
+  "start":28196,
+  "end":28222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You spoke Spanish at home?",
+  "id":"aa57db9c-0b26-4003-a3d5-77b124273e6c",
+  "params":{
+    "id":"aa57db9c-0b26-4003-a3d5-77b124273e6c",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

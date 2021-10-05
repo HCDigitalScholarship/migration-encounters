@@ -1,0 +1,13 @@
+{
+  "start":65364,
+  "end":65416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   This is the second year that I've been doing it.",
+  "id":"8a8e1d5d-c65b-4001-a225-1031cf433bb6",
+  "params":{
+    "id":"8a8e1d5d-c65b-4001-a225-1031cf433bb6",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

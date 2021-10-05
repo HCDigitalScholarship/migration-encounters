@@ -1,0 +1,12 @@
+{
+  "start":17058,
+  "end":17098,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was he a citizen or was he undocumented?",
+  "id":"6779680b-9c75-46b7-8f08-58fafbfa700b",
+  "params":{
+    "id":"e780b19d-e72b-4f2d-9844-b2752b39c361"
+  },
+  "name":"Axel"
+}

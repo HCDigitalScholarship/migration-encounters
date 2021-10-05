@@ -1,0 +1,13 @@
+{
+  "start":10304,
+  "end":10365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, after four days after I got caught, they took me to jail.",
+  "id":"c746442b-73de-4277-ac38-413c828be003",
+  "params":{
+    "id":"c746442b-73de-4277-ac38-413c828be003",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

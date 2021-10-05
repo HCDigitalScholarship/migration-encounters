@@ -1,0 +1,13 @@
+{
+  "start":35030,
+  "end":35090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean they were having a\n     hard time here in Mexico.",
+  "id":"ab9bb4b4-dc4f-4c4a-81d3-5525578baeba",
+  "params":{
+    "id":"ab9bb4b4-dc4f-4c4a-81d3-5525578baeba",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

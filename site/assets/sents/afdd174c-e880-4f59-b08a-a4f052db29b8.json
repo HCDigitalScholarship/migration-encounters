@@ -1,0 +1,13 @@
+{
+  "start":65646,
+  "end":65692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For a deportee,\n   you're not what I expected.",
+  "id":"afdd174c-e880-4f59-b08a-a4f052db29b8",
+  "params":{
+    "id":"afdd174c-e880-4f59-b08a-a4f052db29b8",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

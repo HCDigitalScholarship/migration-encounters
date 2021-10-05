@@ -1,0 +1,13 @@
+{
+  "start":8925,
+  "end":8976,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Hugo: \u201cYou guys have parents that love you.",
+  "id":"96c8dcfa-2fa2-4d1b-a583-53aded86f070",
+  "params":{
+    "id":"96c8dcfa-2fa2-4d1b-a583-53aded86f070",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

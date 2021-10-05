@@ -1,0 +1,12 @@
+{
+  "start":10705,
+  "end":10721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Eleventh.",
+  "id":"800fd4c1-2dce-4b5a-b07e-9b4262f4e5a8",
+  "params":{
+    "id":"59700a5f-b045-4a93-8c22-978644c757ba"
+  },
+  "name":"Edgar"
+}

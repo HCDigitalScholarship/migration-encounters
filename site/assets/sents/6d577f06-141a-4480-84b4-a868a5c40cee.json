@@ -1,0 +1,13 @@
+{
+  "start":21046,
+  "end":21073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I'm one week into it.",
+  "id":"6d577f06-141a-4480-84b4-a868a5c40cee",
+  "params":{
+    "id":"6d577f06-141a-4480-84b4-a868a5c40cee",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11891,
+  "end":12001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     That's basically what we want is really, we're trying to get a place with\n     stability and a good pay.",
+  "id":"d9d1b102-fd65-454d-bc7c-a93191cdb4e8",
+  "params":{
+    "id":"d9d1b102-fd65-454d-bc7c-a93191cdb4e8",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

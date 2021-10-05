@@ -1,0 +1,13 @@
+{
+  "start":17875,
+  "end":17943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew they were going to get me, so I\u2019m\nlike, \u201cI\u2019m gone,\u201d took off.",
+  "id":"a90c50a2-3268-4fdf-ad67-80c7a7bbd6b7",
+  "params":{
+    "id":"a90c50a2-3268-4fdf-ad67-80c7a7bbd6b7",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

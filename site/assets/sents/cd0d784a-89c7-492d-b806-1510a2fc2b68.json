@@ -1,0 +1,13 @@
+{
+  "start":27228,
+  "end":27309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And now that\n   we're helping them out from here, it's like, nobody says nothing.",
+  "id":"cd0d784a-89c7-492d-b806-1510a2fc2b68",
+  "params":{
+    "id":"cd0d784a-89c7-492d-b806-1510a2fc2b68",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

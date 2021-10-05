@@ -1,0 +1,13 @@
+{
+  "start":3603,
+  "end":3629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A couple things with that.",
+  "id":"0e6aebaa-d706-420b-978d-5c93682635c1",
+  "params":{
+    "id":"0e6aebaa-d706-420b-978d-5c93682635c1",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

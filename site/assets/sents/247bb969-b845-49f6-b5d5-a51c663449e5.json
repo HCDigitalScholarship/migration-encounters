@@ -1,0 +1,13 @@
+{
+  "start":1847,
+  "end":1874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   migration caught us.",
+  "id":"247bb969-b845-49f6-b5d5-a51c663449e5",
+  "params":{
+    "id":"247bb969-b845-49f6-b5d5-a51c663449e5",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

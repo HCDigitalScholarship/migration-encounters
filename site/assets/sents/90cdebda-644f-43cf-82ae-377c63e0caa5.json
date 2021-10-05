@@ -1,0 +1,12 @@
+{
+  "start":35568,
+  "end":35631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, it sounds like they have a great\n   father to guide them.",
+  "id":"90cdebda-644f-43cf-82ae-377c63e0caa5",
+  "params":{
+    "id":"60fc89f1-9eb9-4a10-9b75-8d1921fdec6d"
+  },
+  "name":"Daniel"
+}

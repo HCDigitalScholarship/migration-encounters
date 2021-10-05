@@ -1,0 +1,13 @@
+{
+  "start":7586,
+  "end":7624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom learned how to do it well, too.",
+  "id":"eb22441c-e411-4c79-82c9-19b5a86fe317",
+  "params":{
+    "id":"eb22441c-e411-4c79-82c9-19b5a86fe317",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20148,
+  "end":20177,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We didn't know\n   what to do.",
+  "id":"d7484c32-6579-484a-9829-9b1cd578410b",
+  "params":{
+    "id":"d7484c32-6579-484a-9829-9b1cd578410b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

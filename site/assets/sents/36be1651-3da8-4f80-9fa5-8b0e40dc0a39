@@ -1,0 +1,12 @@
+{
+  "start":49490,
+  "end":49513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get 10 every 15 days.",
+  "id":"36be1651-3da8-4f80-9fa5-8b0e40dc0a39",
+  "params":{
+    "id":"cbe8986c-8505-44b4-9241-5148ccc38a89"
+  },
+  "name":"Joseph"
+}

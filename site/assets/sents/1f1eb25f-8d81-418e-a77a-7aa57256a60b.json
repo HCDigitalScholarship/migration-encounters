@@ -1,0 +1,13 @@
+{
+  "start":7320,
+  "end":7346,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got into a relationship.",
+  "id":"1f1eb25f-8d81-418e-a77a-7aa57256a60b",
+  "params":{
+    "id":"1f1eb25f-8d81-418e-a77a-7aa57256a60b",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

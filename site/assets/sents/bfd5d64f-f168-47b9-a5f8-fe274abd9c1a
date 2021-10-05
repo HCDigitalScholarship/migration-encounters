@@ -1,0 +1,12 @@
+{
+  "start":17220,
+  "end":17260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I'm going to tell you one thing.",
+  "id":"bfd5d64f-f168-47b9-a5f8-fe274abd9c1a",
+  "params":{
+    "id":"de828895-4a25-4c67-94aa-61f727ba090d"
+  },
+  "name":"Ruben"
+}

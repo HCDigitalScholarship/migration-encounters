@@ -1,0 +1,13 @@
+{
+  "start":10923,
+  "end":11015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Wow, dude, you don't just have to be this weird kid,\n you can be a jazz musician.",
+  "id":"497697e5-4e74-4637-a44d-60d479447d20",
+  "params":{
+    "id":"497697e5-4e74-4637-a44d-60d479447d20",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23315,
+  "end":23384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I told her, \u201cEven if it's not mine, I want to\n   be with you.",
+  "id":"b7a1e797-5ed1-4f15-b00f-e8b254ee6886",
+  "params":{
+    "id":"b7a1e797-5ed1-4f15-b00f-e8b254ee6886",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

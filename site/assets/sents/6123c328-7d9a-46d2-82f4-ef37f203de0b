@@ -1,0 +1,12 @@
+{
+  "start":26022,
+  "end":26032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like what?",
+  "id":"6123c328-7d9a-46d2-82f4-ef37f203de0b",
+  "params":{
+    "id":"d886a686-d75e-4953-a364-c51afd72a0ca"
+  },
+  "name":"Edgar"
+}

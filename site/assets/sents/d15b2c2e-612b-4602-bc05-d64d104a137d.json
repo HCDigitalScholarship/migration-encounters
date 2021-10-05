@@ -1,0 +1,13 @@
+{
+  "start":33395,
+  "end":33418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Oh, thanks.\"",
+  "id":"d15b2c2e-612b-4602-bc05-d64d104a137d",
+  "params":{
+    "id":"d15b2c2e-612b-4602-bc05-d64d104a137d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

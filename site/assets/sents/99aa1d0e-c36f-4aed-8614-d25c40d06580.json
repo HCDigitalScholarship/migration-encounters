@@ -1,0 +1,13 @@
+{
+  "start":34393,
+  "end":34409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, that's okay.",
+  "id":"99aa1d0e-c36f-4aed-8614-d25c40d06580",
+  "params":{
+    "id":"99aa1d0e-c36f-4aed-8614-d25c40d06580",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

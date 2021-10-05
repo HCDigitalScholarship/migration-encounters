@@ -1,0 +1,12 @@
+{
+  "start":42251,
+  "end":42290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've thought about it a lot [Chuckles].",
+  "id":"7c344968-3ae4-4cdd-b941-2889dffba1cd",
+  "params":{
+    "id":"112bbb79-5b86-4691-9500-2d54577a09d7"
+  },
+  "name":"Luisa"
+}

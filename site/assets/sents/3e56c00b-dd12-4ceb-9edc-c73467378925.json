@@ -1,0 +1,13 @@
+{
+  "start":51262,
+  "end":51295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   says, \"I miss you, Daddy.\"",
+  "id":"3e56c00b-dd12-4ceb-9edc-c73467378925",
+  "params":{
+    "id":"3e56c00b-dd12-4ceb-9edc-c73467378925",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

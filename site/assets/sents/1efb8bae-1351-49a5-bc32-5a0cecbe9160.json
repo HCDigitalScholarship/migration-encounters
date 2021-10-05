@@ -1,0 +1,13 @@
+{
+  "start":21435,
+  "end":21501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you see that as a phenomenon or how would you\n respond to that?",
+  "id":"1efb8bae-1351-49a5-bc32-5a0cecbe9160",
+  "params":{
+    "id":"1efb8bae-1351-49a5-bc32-5a0cecbe9160",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5984,
+  "end":6027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you lived in the US for how many years?",
+  "id":"ba31331c-b740-4d28-9ac4-78f3f7689b7a",
+  "params":{
+    "id":"ba953f3f-dc3b-4563-b097-cf3a6441217b"
+  },
+  "name":"Miguel A"
+}

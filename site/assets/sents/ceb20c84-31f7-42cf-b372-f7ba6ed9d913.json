@@ -1,0 +1,13 @@
+{
+  "start":19968,
+  "end":19987,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You mean to travel?",
+  "id":"ceb20c84-31f7-42cf-b372-f7ba6ed9d913",
+  "params":{
+    "id":"ceb20c84-31f7-42cf-b372-f7ba6ed9d913",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

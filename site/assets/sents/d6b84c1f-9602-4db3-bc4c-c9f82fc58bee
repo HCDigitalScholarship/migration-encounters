@@ -1,0 +1,12 @@
+{
+  "start":7024,
+  "end":7048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you want to go back?",
+  "id":"d6b84c1f-9602-4db3-bc4c-c9f82fc58bee",
+  "params":{
+    "id":"ba5de553-5d60-48b7-b0c9-4ab8c047b93a"
+  },
+  "name":"Carolina"
+}

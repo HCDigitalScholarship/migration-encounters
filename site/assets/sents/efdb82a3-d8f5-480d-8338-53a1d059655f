@@ -1,0 +1,12 @@
+{
+  "start":27101,
+  "end":27118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You ain't nobody.",
+  "id":"efdb82a3-d8f5-480d-8338-53a1d059655f",
+  "params":{
+    "id":"a4eb7b4d-528b-4ead-92da-dda4348eb3b8"
+  },
+  "name":"Kevin"
+}

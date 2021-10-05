@@ -1,0 +1,12 @@
+{
+  "start":3503,
+  "end":3539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You mentioned that you liked school.",
+  "id":"dade1f36-e096-4563-8427-74a0a0b7dc5c",
+  "params":{
+    "id":"78e92325-7e34-49f6-a9cf-79a92fdeee2b"
+  },
+  "name":"Zayuri"
+}

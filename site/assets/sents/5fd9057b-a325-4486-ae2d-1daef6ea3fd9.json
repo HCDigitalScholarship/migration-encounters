@@ -1,0 +1,13 @@
+{
+  "start":39006,
+  "end":39033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're just going to study.",
+  "id":"5fd9057b-a325-4486-ae2d-1daef6ea3fd9",
+  "params":{
+    "id":"5fd9057b-a325-4486-ae2d-1daef6ea3fd9",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

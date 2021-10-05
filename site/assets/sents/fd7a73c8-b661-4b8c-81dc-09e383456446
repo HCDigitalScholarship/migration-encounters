@@ -1,0 +1,12 @@
+{
+  "start":37771,
+  "end":37804,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I met a lot of black\n     people.",
+  "id":"fd7a73c8-b661-4b8c-81dc-09e383456446",
+  "params":{
+    "id":"98185f7d-df0d-4e8f-9b89-58392b2e0eba"
+  },
+  "name":"Beto"
+}

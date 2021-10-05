@@ -1,0 +1,13 @@
+{
+  "start":58880,
+  "end":58904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't say he\n   don't.",
+  "id":"42eab5fc-a199-4a18-8f56-0bede503027c",
+  "params":{
+    "id":"42eab5fc-a199-4a18-8f56-0bede503027c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

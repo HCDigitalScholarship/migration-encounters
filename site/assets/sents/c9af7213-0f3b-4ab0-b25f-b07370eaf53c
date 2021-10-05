@@ -1,0 +1,12 @@
+{
+  "start":55635,
+  "end":55726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   A lot of people don't have the luxury of being able to get up, go to work\n   every day.",
+  "id":"c9af7213-0f3b-4ab0-b25f-b07370eaf53c",
+  "params":{
+    "id":"e31debcc-8573-4c40-83d2-95bba056451f"
+  },
+  "name":"Mike"
+}

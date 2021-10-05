@@ -1,0 +1,13 @@
+{
+  "start":4051,
+  "end":4109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was in a restaurant because she work as a\n   waitress.",
+  "id":"ce527b4a-95da-47dd-b139-416181599de9",
+  "params":{
+    "id":"ce527b4a-95da-47dd-b139-416181599de9",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

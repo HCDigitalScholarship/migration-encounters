@@ -1,0 +1,12 @@
+{
+  "start":16799,
+  "end":16917,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people will say like, \"Oh, well, you're either like too\n   American to be Mexican or too Mexican to be American.\"",
+  "id":"d63e0cbb-7aa6-4e0a-b60a-548ede1f5ba7",
+  "params":{
+    "id":"796ff705-917b-4aa0-a935-f88942e7a3bd"
+  },
+  "name":"Pablo"
+}

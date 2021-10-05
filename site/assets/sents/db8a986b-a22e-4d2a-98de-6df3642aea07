@@ -1,0 +1,12 @@
+{
+  "start":6359,
+  "end":6516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Frank: Because I was searching for any type of programs that we can go to\n   the US, but as we know, they're always requiring not living in the US\n   before.",
+  "id":"db8a986b-a22e-4d2a-98de-6df3642aea07",
+  "params":{
+    "id":"d6995e3e-ba9c-4c67-96e9-75966e34d44c"
+  },
+  "name":"Frank"
+}

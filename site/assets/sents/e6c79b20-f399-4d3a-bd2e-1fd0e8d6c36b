@@ -1,0 +1,12 @@
+{
+  "start":26372,
+  "end":26450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n   able to work, but instead of my dad helping her out, it was on her.",
+  "id":"e6c79b20-f399-4d3a-bd2e-1fd0e8d6c36b",
+  "params":{
+    "id":"77e650e0-ab98-4cd5-a7c3-b451f83b302b"
+  },
+  "name":"Sylent"
+}

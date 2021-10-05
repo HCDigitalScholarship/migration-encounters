@@ -1,0 +1,13 @@
+{
+  "start":213,
+  "end":254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Drove in a station wagon\nwith the coyote.",
+  "id":"245ff470-1fb9-4b32-a33a-e51cbd8f08b7",
+  "params":{
+    "id":"245ff470-1fb9-4b32-a33a-e51cbd8f08b7",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

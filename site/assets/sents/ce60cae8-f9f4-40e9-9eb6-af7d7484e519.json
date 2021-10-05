@@ -1,0 +1,13 @@
+{
+  "start":10922,
+  "end":11049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would use\n   expressions like, \u201cay ese hombre es un Don Juan,\u201d [that man is a Don Juan]\n   and I'm like, \"Who's Don Juan?\"",
+  "id":"ce60cae8-f9f4-40e9-9eb6-af7d7484e519",
+  "params":{
+    "id":"ce60cae8-f9f4-40e9-9eb6-af7d7484e519",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

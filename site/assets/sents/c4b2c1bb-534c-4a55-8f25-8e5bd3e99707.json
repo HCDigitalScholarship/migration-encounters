@@ -1,0 +1,13 @@
+{
+  "start":15527,
+  "end":15574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just want to make something for their day.",
+  "id":"c4b2c1bb-534c-4a55-8f25-8e5bd3e99707",
+  "params":{
+    "id":"c4b2c1bb-534c-4a55-8f25-8e5bd3e99707",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

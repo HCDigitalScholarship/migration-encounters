@@ -1,0 +1,12 @@
+{
+  "start":12061,
+  "end":12109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you\n   tell me a bit about your deportation?",
+  "id":"d1096734-7076-4d9e-a092-5913469cb0fb",
+  "params":{
+    "id":"27e7d2ef-0bcd-4892-816f-852a048a1fcd"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34333,
+  "end":34363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We help them out, you\n   know?",
+  "id":"f0260a4d-c316-4c9b-855c-ebe1f88f9698",
+  "params":{
+    "id":"f0260a4d-c316-4c9b-855c-ebe1f88f9698",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

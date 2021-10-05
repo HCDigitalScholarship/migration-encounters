@@ -1,0 +1,12 @@
+{
+  "start":40606,
+  "end":40680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't have the privileges that\n   every normal US citizen gets to have.",
+  "id":"ab2a6141-d8b3-47d5-bde3-345fd8958ff1",
+  "params":{
+    "id":"77b70af7-7a04-4c0d-9a34-a3f78305cd70"
+  },
+  "name":"Mike"
+}

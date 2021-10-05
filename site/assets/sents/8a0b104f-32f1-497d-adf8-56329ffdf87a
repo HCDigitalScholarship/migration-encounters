@@ -1,0 +1,12 @@
+{
+  "start":11238,
+  "end":11264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: After that?\n \n \n   ",
+  "id":"8a0b104f-32f1-497d-adf8-56329ffdf87a",
+  "params":{
+    "id":"0df8c6be-396e-412e-9741-b798b47d91fa"
+  },
+  "name":"Edgar"
+}

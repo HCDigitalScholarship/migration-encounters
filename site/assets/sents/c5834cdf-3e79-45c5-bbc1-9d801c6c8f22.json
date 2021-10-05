@@ -1,0 +1,13 @@
+{
+  "start":12900,
+  "end":12924,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n     they're afraid.",
+  "id":"c5834cdf-3e79-45c5-bbc1-9d801c6c8f22",
+  "params":{
+    "id":"c5834cdf-3e79-45c5-bbc1-9d801c6c8f22",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20209,
+  "end":20229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a Yandex API.",
+  "id":"4def36be-b0bd-4748-9f61-424a575871de",
+  "params":{
+    "id":"4def36be-b0bd-4748-9f61-424a575871de",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

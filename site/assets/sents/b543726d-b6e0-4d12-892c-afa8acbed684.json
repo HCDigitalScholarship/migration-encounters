@@ -1,0 +1,13 @@
+{
+  "start":10689,
+  "end":10747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think she was here from\n   Mexico, too, Puebla, I think.",
+  "id":"b543726d-b6e0-4d12-892c-afa8acbed684",
+  "params":{
+    "id":"b543726d-b6e0-4d12-892c-afa8acbed684",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10421,
+  "end":10459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the first time I got\n   caught.",
+  "id":"35294d15-d021-4ecf-abe7-82836159b88e",
+  "params":{
+    "id":"db745334-95fd-44dd-84e5-fc96cd65f691"
+  },
+  "name":"Hugo"
+}

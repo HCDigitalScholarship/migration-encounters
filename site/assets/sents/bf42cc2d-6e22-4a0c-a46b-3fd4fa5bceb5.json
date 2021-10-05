@@ -1,0 +1,13 @@
+{
+  "start":6409,
+  "end":6439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   then, they got married.",
+  "id":"bf42cc2d-6e22-4a0c-a46b-3fd4fa5bceb5",
+  "params":{
+    "id":"bf42cc2d-6e22-4a0c-a46b-3fd4fa5bceb5",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

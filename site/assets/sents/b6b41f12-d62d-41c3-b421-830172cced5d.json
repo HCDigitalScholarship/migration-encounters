@@ -1,0 +1,13 @@
+{
+  "start":31668,
+  "end":31711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He fought the case and he\n   beat the case.",
+  "id":"b6b41f12-d62d-41c3-b421-830172cced5d",
+  "params":{
+    "id":"b6b41f12-d62d-41c3-b421-830172cced5d",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26543,
+  "end":26572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just finished the equation.",
+  "id":"cacc224e-c835-4aba-8612-1b0f4ca8ea98",
+  "params":{
+    "id":"65eb4cd4-5883-4f73-8576-f4f9f0e97faa"
+  },
+  "name":"Beto"
+}

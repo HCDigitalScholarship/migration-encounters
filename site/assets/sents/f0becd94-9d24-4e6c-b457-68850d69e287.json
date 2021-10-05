@@ -1,0 +1,13 @@
+{
+  "start":34090,
+  "end":34125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have other things in priority.",
+  "id":"f0becd94-9d24-4e6c-b457-68850d69e287",
+  "params":{
+    "id":"f0becd94-9d24-4e6c-b457-68850d69e287",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

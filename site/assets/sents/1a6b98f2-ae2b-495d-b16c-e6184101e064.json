@@ -1,0 +1,13 @@
+{
+  "start":11377,
+  "end":11425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was struggling over here, and it was not easy.",
+  "id":"1a6b98f2-ae2b-495d-b16c-e6184101e064",
+  "params":{
+    "id":"1a6b98f2-ae2b-495d-b16c-e6184101e064",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

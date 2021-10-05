@@ -1,0 +1,13 @@
+{
+  "start":11102,
+  "end":11293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You submit an application,\n   and not even five minutes, they will be answering you with the\n   approve\u2014well, the bus will have to take you to Guerrero.\n \n \n   Lizzy: To take you to Guerrero?",
+  "id":"8d51201a-1657-4bae-83ac-096aafbc24fa",
+  "params":{
+    "id":"8d51201a-1657-4bae-83ac-096aafbc24fa",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9917,
+  "end":10003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was hoping it would, but I really mainly did it because my\n   childhood wasn't easy.",
+  "id":"8cb422f5-277f-449d-8e33-42b294f81a3f",
+  "params":{
+    "id":"8cb422f5-277f-449d-8e33-42b294f81a3f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

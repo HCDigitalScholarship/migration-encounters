@@ -1,0 +1,13 @@
+{
+  "start":27983,
+  "end":28013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did your mother tell you?",
+  "id":"a3fa0069-c7c6-4c92-87df-072f44a41406",
+  "params":{
+    "id":"a3fa0069-c7c6-4c92-87df-072f44a41406",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

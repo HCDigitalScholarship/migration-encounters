@@ -1,0 +1,13 @@
+{
+  "start":2310,
+  "end":2324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the States?",
+  "id":"1cded291-a02b-4e74-94aa-978743e9fba7",
+  "params":{
+    "id":"1cded291-a02b-4e74-94aa-978743e9fba7",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

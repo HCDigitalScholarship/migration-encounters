@@ -1,0 +1,12 @@
+{
+  "start":18280,
+  "end":18303,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Take whatever you want.",
+  "id":"ca6b4a91-ee82-422d-a834-b6d63442da24",
+  "params":{
+    "id":"fb6cef18-e27d-489d-ba55-e5c4e46ef6b5"
+  },
+  "name":"Noe"
+}

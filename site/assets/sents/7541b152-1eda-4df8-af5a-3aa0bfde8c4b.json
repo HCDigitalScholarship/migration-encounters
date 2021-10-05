@@ -1,0 +1,13 @@
+{
+  "start":5890,
+  "end":5991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I moved to California, and as soon as I finished the\n   high school, I moved to Minnesota again.",
+  "id":"7541b152-1eda-4df8-af5a-3aa0bfde8c4b",
+  "params":{
+    "id":"7541b152-1eda-4df8-af5a-3aa0bfde8c4b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

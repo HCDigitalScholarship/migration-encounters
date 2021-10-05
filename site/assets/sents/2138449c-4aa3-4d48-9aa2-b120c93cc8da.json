@@ -1,0 +1,13 @@
+{
+  "start":20100,
+  "end":20243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Juan: My plan is I want to have enough money so I can build houses out of\n   plastic\u2014not in the center because it's already big enough.",
+  "id":"2138449c-4aa3-4d48-9aa2-b120c93cc8da",
+  "params":{
+    "id":"2138449c-4aa3-4d48-9aa2-b120c93cc8da",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

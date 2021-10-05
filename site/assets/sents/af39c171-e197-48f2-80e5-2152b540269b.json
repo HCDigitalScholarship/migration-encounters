@@ -1,0 +1,13 @@
+{
+  "start":28693,
+  "end":28716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"we can\n   help out too.",
+  "id":"af39c171-e197-48f2-80e5-2152b540269b",
+  "params":{
+    "id":"af39c171-e197-48f2-80e5-2152b540269b",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

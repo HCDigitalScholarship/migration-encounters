@@ -1,0 +1,13 @@
+{
+  "start":27844,
+  "end":27875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is it that you want to do?",
+  "id":"e69527b1-e60b-479b-a0c1-0546f36c37c4",
+  "params":{
+    "id":"e69527b1-e60b-479b-a0c1-0546f36c37c4",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

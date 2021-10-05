@@ -1,0 +1,13 @@
+{
+  "start":43028,
+  "end":43111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So again it's really hard to make someone happy when you can't\n   provide for them.",
+  "id":"b9b771c1-a658-4730-9634-d7b64a8f6f58",
+  "params":{
+    "id":"b9b771c1-a658-4730-9634-d7b64a8f6f58",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

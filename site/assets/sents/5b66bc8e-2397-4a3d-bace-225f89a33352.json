@@ -1,0 +1,13 @@
+{
+  "start":8161,
+  "end":8175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Erik: Georgia.",
+  "id":"5b66bc8e-2397-4a3d-bace-225f89a33352",
+  "params":{
+    "id":"5b66bc8e-2397-4a3d-bace-225f89a33352",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

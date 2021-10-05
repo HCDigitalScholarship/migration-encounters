@@ -1,0 +1,13 @@
+{
+  "start":757,
+  "end":794,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was living in Brooklyn, New\n York.",
+  "id":"65aac9b8-cc5a-4d34-a0e3-db3160a60db0",
+  "params":{
+    "id":"65aac9b8-cc5a-4d34-a0e3-db3160a60db0",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

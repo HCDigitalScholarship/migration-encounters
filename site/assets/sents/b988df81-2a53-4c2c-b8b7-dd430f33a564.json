@@ -1,0 +1,13 @@
+{
+  "start":298,
+  "end":339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what my mom has\n   always told me.",
+  "id":"b988df81-2a53-4c2c-b8b7-dd430f33a564",
+  "params":{
+    "id":"b988df81-2a53-4c2c-b8b7-dd430f33a564",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

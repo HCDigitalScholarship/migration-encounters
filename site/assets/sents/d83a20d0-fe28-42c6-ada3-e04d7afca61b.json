@@ -1,0 +1,13 @@
+{
+  "start":8259,
+  "end":8276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow and the Jack?",
+  "id":"d83a20d0-fe28-42c6-ada3-e04d7afca61b",
+  "params":{
+    "id":"d83a20d0-fe28-42c6-ada3-e04d7afca61b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

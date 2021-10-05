@@ -1,0 +1,13 @@
+{
+  "start":34393,
+  "end":34409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"an\n   oncologist",
+  "id":"a01d48ee-8e58-426e-bd1b-30d4bb54bb15",
+  "params":{
+    "id":"a01d48ee-8e58-426e-bd1b-30d4bb54bb15",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

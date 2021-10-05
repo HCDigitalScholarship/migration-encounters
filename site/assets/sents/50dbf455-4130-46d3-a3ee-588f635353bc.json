@@ -1,0 +1,13 @@
+{
+  "start":11963,
+  "end":12004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So eventually they came and picked\nme up.",
+  "id":"50dbf455-4130-46d3-a3ee-588f635353bc",
+  "params":{
+    "id":"50dbf455-4130-46d3-a3ee-588f635353bc",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

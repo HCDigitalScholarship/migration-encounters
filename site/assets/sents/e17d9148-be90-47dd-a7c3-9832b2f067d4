@@ -1,0 +1,12 @@
+{
+  "start":32335,
+  "end":32367,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every person takes it different.",
+  "id":"e17d9148-be90-47dd-a7c3-9832b2f067d4",
+  "params":{
+    "id":"9cad0171-3970-42c8-961e-4052f589158b"
+  },
+  "name":"Kevin"
+}

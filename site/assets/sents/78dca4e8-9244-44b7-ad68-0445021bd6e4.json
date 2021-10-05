@@ -1,0 +1,13 @@
+{
+  "start":35049,
+  "end":35085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\u2019s tough to\n   be a dad sometimes.",
+  "id":"78dca4e8-9244-44b7-ad68-0445021bd6e4",
+  "params":{
+    "id":"78dca4e8-9244-44b7-ad68-0445021bd6e4",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

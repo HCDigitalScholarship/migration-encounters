@@ -1,0 +1,13 @@
+{
+  "start":34089,
+  "end":34118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These were kids from Nigeria.",
+  "id":"e8aca5c2-3145-4dfd-bace-79aa8ddd077b",
+  "params":{
+    "id":"e8aca5c2-3145-4dfd-bace-79aa8ddd077b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

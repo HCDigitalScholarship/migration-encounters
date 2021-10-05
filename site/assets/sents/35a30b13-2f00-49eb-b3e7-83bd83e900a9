@@ -1,0 +1,12 @@
+{
+  "start":24076,
+  "end":24107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have any\n   paperwork.\u201d",
+  "id":"35a30b13-2f00-49eb-b3e7-83bd83e900a9",
+  "params":{
+    "id":"17470c9a-347c-431d-9b5a-46017d30e69e"
+  },
+  "name":"Noe"
+}

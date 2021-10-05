@@ -1,0 +1,12 @@
+{
+  "start":5171,
+  "end":5232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Ivan: Well, being with my family, being with my kids.",
+  "id":"b35645f7-d8ea-42ef-b993-a0e037f96593",
+  "params":{
+    "id":"fdba9dd3-b2f6-441b-9702-385cc98ad1ad"
+  },
+  "name":"Ivan"
+}

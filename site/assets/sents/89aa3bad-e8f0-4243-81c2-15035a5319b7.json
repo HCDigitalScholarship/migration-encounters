@@ -1,0 +1,12 @@
+{
+  "start":8075,
+  "end":8217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even the call centers try to help you out with certain\n     days, like, \"Okay, we'll take you out for, I don't know, a little\n     breakfast.\"",
+  "id":"89aa3bad-e8f0-4243-81c2-15035a5319b7",
+  "params":{
+    "id":"a36c778c-4325-431b-9980-68c88a5edf90"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23429,
+  "end":23526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said that\n   you didn't see your dad for a long time, and then all of a sudden\u2026\n \n \n   Luisa:",
+  "id":"fddfcfdd-e3fd-45de-9bfa-ad99d8565c66",
+  "params":{
+    "id":"fddfcfdd-e3fd-45de-9bfa-ad99d8565c66",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

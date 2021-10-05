@@ -1,0 +1,13 @@
+{
+  "start":21226,
+  "end":21230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow.",
+  "id":"40af5ca6-ced4-42a9-acab-ea577e8e4415",
+  "params":{
+    "id":"40af5ca6-ced4-42a9-acab-ea577e8e4415",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

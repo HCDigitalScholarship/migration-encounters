@@ -1,0 +1,13 @@
+{
+  "start":36130,
+  "end":36147,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's wonderful.",
+  "id":"c29c5c00-9744-4f0a-afcd-0e256aaabdcc",
+  "params":{
+    "id":"c29c5c00-9744-4f0a-afcd-0e256aaabdcc",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

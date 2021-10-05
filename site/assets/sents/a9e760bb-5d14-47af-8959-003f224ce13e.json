@@ -1,0 +1,13 @@
+{
+  "start":32892,
+  "end":32909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Why not?",
+  "id":"a9e760bb-5d14-47af-8959-003f224ce13e",
+  "params":{
+    "id":"a9e760bb-5d14-47af-8959-003f224ce13e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

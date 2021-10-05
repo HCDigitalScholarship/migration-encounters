@@ -1,0 +1,12 @@
+{
+  "start":8844,
+  "end":8923,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What have you been up to in this past year and a half that you've\n   been here?",
+  "id":"d5235abf-bec8-4301-b90c-6e0e31cab25c",
+  "params":{
+    "id":"ae922d17-153f-4a1a-b881-bba06568dbc0"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30543,
+  "end":30581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So what kind of crimes did you commit?",
+  "id":"de33ea56-cf2e-4f2b-92bd-e6f111d55a22",
+  "params":{
+    "id":"de33ea56-cf2e-4f2b-92bd-e6f111d55a22",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

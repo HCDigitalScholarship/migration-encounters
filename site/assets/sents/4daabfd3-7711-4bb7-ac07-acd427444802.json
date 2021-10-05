@@ -1,0 +1,13 @@
+{
+  "start":11012,
+  "end":11136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was younger,\n   when my mother and I arrived to Chicago, I remember my aunts telling her,\n   \"Don't go out that much.",
+  "id":"4daabfd3-7711-4bb7-ac07-acd427444802",
+  "params":{
+    "id":"4daabfd3-7711-4bb7-ac07-acd427444802",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

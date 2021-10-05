@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":4262,
+  "end":4344,
+  "label":"Leaving the US, Age",
+  "id":"995a364e-81ce-4833-86ec-52abe4f55de6",
+  "params":{
+    "id":"8857167f-4a03-4b5c-b529-681faa3987c8"
+  },
+  "name":"Mike",
+  "text":"Anne: How old were you?\n \n \n   Mike: Just like 24, 25? I'm 26 now. This is recent."
+}

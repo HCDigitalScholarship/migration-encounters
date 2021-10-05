@@ -1,0 +1,12 @@
+{
+  "start":30499,
+  "end":30528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Please step out of the car.\"",
+  "id":"3ac8e488-7044-407c-acdb-8395e530251e",
+  "params":{
+    "id":"f84079f7-65c5-487f-a3a6-89257b1ac2ec"
+  },
+  "name":"Rodolfo"
+}

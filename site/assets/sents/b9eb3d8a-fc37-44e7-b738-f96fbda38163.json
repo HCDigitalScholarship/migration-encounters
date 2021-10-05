@@ -1,0 +1,13 @@
+{
+  "start":26605,
+  "end":26620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I did that.",
+  "id":"b9eb3d8a-fc37-44e7-b738-f96fbda38163",
+  "params":{
+    "id":"b9eb3d8a-fc37-44e7-b738-f96fbda38163",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11643,
+  "end":11668,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was developing cancer.",
+  "id":"b1063b38-73fe-4eee-a4bc-ffc6151e6c59",
+  "params":{
+    "id":"b1063b38-73fe-4eee-a4bc-ffc6151e6c59",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

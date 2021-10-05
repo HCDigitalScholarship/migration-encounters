@@ -1,0 +1,13 @@
+{
+  "start":48006,
+  "end":48110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got Italian down, I got American style down, and I had\n a little bit of the London, English, all that.",
+  "id":"b23fcb8e-7185-419f-be71-8abea79fefeb",
+  "params":{
+    "id":"b23fcb8e-7185-419f-be71-8abea79fefeb",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

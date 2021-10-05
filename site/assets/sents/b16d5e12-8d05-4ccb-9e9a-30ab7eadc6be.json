@@ -1,0 +1,13 @@
+{
+  "start":38014,
+  "end":38072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think I've ever been that\n   depressed in my life.",
+  "id":"b16d5e12-8d05-4ccb-9e9a-30ab7eadc6be",
+  "params":{
+    "id":"b16d5e12-8d05-4ccb-9e9a-30ab7eadc6be",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

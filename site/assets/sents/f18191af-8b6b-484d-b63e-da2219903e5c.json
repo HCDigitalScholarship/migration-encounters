@@ -1,0 +1,13 @@
+{
+  "start":22759,
+  "end":22795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s where the bullet came\n   out.",
+  "id":"f18191af-8b6b-484d-b63e-da2219903e5c",
+  "params":{
+    "id":"f18191af-8b6b-484d-b63e-da2219903e5c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

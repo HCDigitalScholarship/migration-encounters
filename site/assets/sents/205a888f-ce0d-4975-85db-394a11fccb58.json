@@ -1,0 +1,13 @@
+{
+  "start":64023,
+  "end":64114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That's always the main thing: this guy has either cocaine, or weed on him,\n   or a gun.",
+  "id":"205a888f-ce0d-4975-85db-394a11fccb58",
+  "params":{
+    "id":"205a888f-ce0d-4975-85db-394a11fccb58",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":37567,
+  "end":37586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: Per month.",
+  "id":"2d4977a5-9fe0-45b2-9a56-08ee577f1a52",
+  "params":{
+    "id":"2d4977a5-9fe0-45b2-9a56-08ee577f1a52",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

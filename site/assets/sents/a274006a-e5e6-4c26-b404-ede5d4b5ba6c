@@ -1,0 +1,12 @@
+{
+  "start":31124,
+  "end":31170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm from here, but I don't even talk that way.",
+  "id":"a274006a-e5e6-4c26-b404-ede5d4b5ba6c",
+  "params":{
+    "id":"cf7d9555-b609-41b4-bb46-e0838b8dcc07"
+  },
+  "name":"Rodrigo"
+}

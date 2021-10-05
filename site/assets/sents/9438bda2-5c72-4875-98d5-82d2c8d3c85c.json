@@ -1,0 +1,13 @@
+{
+  "start":8618,
+  "end":8640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, you were deported?",
+  "id":"9438bda2-5c72-4875-98d5-82d2c8d3c85c",
+  "params":{
+    "id":"9438bda2-5c72-4875-98d5-82d2c8d3c85c",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

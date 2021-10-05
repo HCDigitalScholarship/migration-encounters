@@ -1,0 +1,13 @@
+{
+  "start":7013,
+  "end":7038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I stay\n   with my mom.",
+  "id":"c00a75af-35dc-47ea-9964-1ad583845171",
+  "params":{
+    "id":"c00a75af-35dc-47ea-9964-1ad583845171",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

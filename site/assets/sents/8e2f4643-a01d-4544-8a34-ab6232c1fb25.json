@@ -1,0 +1,13 @@
+{
+  "start":18535,
+  "end":18581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was a\n   lot of country music and stuff.",
+  "id":"8e2f4643-a01d-4544-8a34-ab6232c1fb25",
+  "params":{
+    "id":"8e2f4643-a01d-4544-8a34-ab6232c1fb25",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

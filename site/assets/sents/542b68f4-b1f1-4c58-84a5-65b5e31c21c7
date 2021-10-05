@@ -1,0 +1,12 @@
+{
+  "start":25150,
+  "end":25172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's all I remember.",
+  "id":"542b68f4-b1f1-4c58-84a5-65b5e31c21c7",
+  "params":{
+    "id":"a15e3024-601b-4bfc-9f6d-4894b2f18649"
+  },
+  "name":"Kevin"
+}

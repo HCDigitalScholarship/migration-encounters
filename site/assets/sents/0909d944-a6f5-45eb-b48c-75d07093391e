@@ -1,0 +1,12 @@
+{
+  "start":13499,
+  "end":13560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n going to have to sit here two years or pay $50,000 bond.",
+  "id":"0909d944-a6f5-45eb-b48c-75d07093391e",
+  "params":{
+    "id":"2b74d029-330d-47f6-89a3-fea2b9036307"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6423,
+  "end":6508,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you say fighting, fighting, like punching or fighting with\n   knives or what?",
+  "id":"fea08ea6-360a-4d74-aaf7-bc55a4c6c690",
+  "params":{
+    "id":"92186660-e37e-40e3-b9fe-910372e51fec"
+  },
+  "name":"Diana"
+}

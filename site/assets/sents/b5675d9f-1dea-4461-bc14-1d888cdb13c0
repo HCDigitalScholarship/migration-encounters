@@ -1,0 +1,12 @@
+{
+  "start":25577,
+  "end":25591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You caught me.",
+  "id":"b5675d9f-1dea-4461-bc14-1d888cdb13c0",
+  "params":{
+    "id":"72d2a6aa-0f09-4fcd-89e1-75f3485e66b6"
+  },
+  "name":"Kevin"
+}

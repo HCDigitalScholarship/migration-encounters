@@ -1,0 +1,12 @@
+{
+  "start":9649,
+  "end":9667,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was his name?",
+  "id":"c6264d43-a80b-40df-800a-0610f02dfb99",
+  "params":{
+    "id":"8c380e62-c64b-4d04-bfc6-9ad8ee9e8213"
+  },
+  "name":"Daniel B"
+}

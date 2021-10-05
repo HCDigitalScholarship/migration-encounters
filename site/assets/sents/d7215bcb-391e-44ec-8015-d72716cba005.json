@@ -1,0 +1,13 @@
+{
+  "start":10672,
+  "end":10695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how we got here.",
+  "id":"d7215bcb-391e-44ec-8015-d72716cba005",
+  "params":{
+    "id":"d7215bcb-391e-44ec-8015-d72716cba005",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

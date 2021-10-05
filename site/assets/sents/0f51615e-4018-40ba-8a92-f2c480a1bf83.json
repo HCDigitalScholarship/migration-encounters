@@ -1,0 +1,12 @@
+{
+  "start":30148,
+  "end":30182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not allowed to go anywhere.",
+  "id":"0f51615e-4018-40ba-8a92-f2c480a1bf83",
+  "params":{
+    "id":"4f47bd24-1790-4df7-a716-affcec3df492"
+  },
+  "name":"Luisa"
+}

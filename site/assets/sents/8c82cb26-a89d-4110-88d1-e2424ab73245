@@ -1,0 +1,12 @@
+{
+  "start":6921,
+  "end":6946,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not too many people.",
+  "id":"8c82cb26-a89d-4110-88d1-e2424ab73245",
+  "params":{
+    "id":"9faa5345-c152-4594-b0f1-ab4250aeb734"
+  },
+  "name":"Many"
+}

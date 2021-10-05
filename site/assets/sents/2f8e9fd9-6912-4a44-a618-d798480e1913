@@ -1,0 +1,12 @@
+{
+  "start":23360,
+  "end":23429,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I felt that they were hurting, I would risk it all\n and head back.",
+  "id":"2f8e9fd9-6912-4a44-a618-d798480e1913",
+  "params":{
+    "id":"6a98fab1-7dd5-47b2-b463-bf2015bb984c"
+  },
+  "name":"Ben"
+}

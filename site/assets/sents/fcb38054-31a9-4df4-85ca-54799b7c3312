@@ -1,0 +1,12 @@
+{
+  "start":17,
+  "end":72,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So this is Lizzy with Yordani, doing the interview now.",
+  "id":"fcb38054-31a9-4df4-85ca-54799b7c3312",
+  "params":{
+    "id":"d9e8bdf3-68ef-4efa-bfb0-8b71840dda34"
+  },
+  "name":"Yordani"
+}

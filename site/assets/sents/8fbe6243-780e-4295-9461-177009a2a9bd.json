@@ -1,0 +1,13 @@
+{
+  "start":23875,
+  "end":23935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think that's\n   living because you're always afraid.",
+  "id":"8fbe6243-780e-4295-9461-177009a2a9bd",
+  "params":{
+    "id":"8fbe6243-780e-4295-9461-177009a2a9bd",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

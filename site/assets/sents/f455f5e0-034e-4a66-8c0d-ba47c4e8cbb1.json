@@ -1,0 +1,13 @@
+{
+  "start":8279,
+  "end":8356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I went with one of my\n   friends and tell him, \"Hey, I'm not a US citizen.",
+  "id":"f455f5e0-034e-4a66-8c0d-ba47c4e8cbb1",
+  "params":{
+    "id":"f455f5e0-034e-4a66-8c0d-ba47c4e8cbb1",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

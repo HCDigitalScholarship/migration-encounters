@@ -1,0 +1,12 @@
+{
+  "start":31965,
+  "end":31994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go to work to have money.",
+  "id":"0b6de062-f5ba-4ef8-a296-8c48f0270d1a",
+  "params":{
+    "id":"9d599cd1-764c-489a-90bd-ab68b1910d24"
+  },
+  "name":"Carlos"
+}

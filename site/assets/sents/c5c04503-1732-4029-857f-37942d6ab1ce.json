@@ -1,0 +1,13 @@
+{
+  "start":8853,
+  "end":8921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you follow US political news while you were living in\n   the US?",
+  "id":"c5c04503-1732-4029-857f-37942d6ab1ce",
+  "params":{
+    "id":"c5c04503-1732-4029-857f-37942d6ab1ce",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

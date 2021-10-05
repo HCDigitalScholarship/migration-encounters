@@ -1,0 +1,12 @@
+{
+  "start":50403,
+  "end":50439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like,\n   \"Mom, that's the thing.",
+  "id":"e03fdd33-ec7e-40f9-988f-11bf59c169d6",
+  "params":{
+    "id":"76949b63-c5ac-458e-b664-060414f64cce"
+  },
+  "name":"Cris"
+}

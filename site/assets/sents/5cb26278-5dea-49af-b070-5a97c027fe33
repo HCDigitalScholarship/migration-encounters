@@ -1,0 +1,12 @@
+{
+  "start":20036,
+  "end":20095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Would you think more ocean, or would\n   you go more forest?",
+  "id":"5cb26278-5dea-49af-b070-5a97c027fe33",
+  "params":{
+    "id":"42b77451-1fa7-4aaa-8f53-b4c774b0ed0f"
+  },
+  "name":"Zayuri"
+}

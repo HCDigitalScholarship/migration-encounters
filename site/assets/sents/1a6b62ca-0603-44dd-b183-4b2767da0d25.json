@@ -1,0 +1,13 @@
+{
+  "start":11866,
+  "end":11898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the van\n   it was pretty hot.",
+  "id":"1a6b62ca-0603-44dd-b183-4b2767da0d25",
+  "params":{
+    "id":"1a6b62ca-0603-44dd-b183-4b2767da0d25",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

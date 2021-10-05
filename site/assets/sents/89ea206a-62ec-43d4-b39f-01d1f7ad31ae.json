@@ -1,0 +1,13 @@
+{
+  "start":15379,
+  "end":15421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the United\n   States is a country of laws.",
+  "id":"89ea206a-62ec-43d4-b39f-01d1f7ad31ae",
+  "params":{
+    "id":"89ea206a-62ec-43d4-b39f-01d1f7ad31ae",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

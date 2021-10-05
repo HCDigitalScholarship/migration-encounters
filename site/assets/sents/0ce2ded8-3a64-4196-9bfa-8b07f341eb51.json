@@ -1,0 +1,13 @@
+{
+  "start":1793,
+  "end":1832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom didn't have\n   contact with him.",
+  "id":"0ce2ded8-3a64-4196-9bfa-8b07f341eb51",
+  "params":{
+    "id":"0ce2ded8-3a64-4196-9bfa-8b07f341eb51",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":39212,
+  "end":39254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"No, I\n   live with my friends.\"",
+  "id":"c4745c72-d361-42bc-b887-086bb04f0b45",
+  "params":{
+    "id":"67fb4cc5-81d4-4de0-bcef-d5f0d5f48a8f"
+  },
+  "name":"Cris"
+}

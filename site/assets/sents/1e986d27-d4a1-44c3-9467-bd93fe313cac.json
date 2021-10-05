@@ -1,0 +1,13 @@
+{
+  "start":35499,
+  "end":35522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I like it though.",
+  "id":"1e986d27-d4a1-44c3-9467-bd93fe313cac",
+  "params":{
+    "id":"1e986d27-d4a1-44c3-9467-bd93fe313cac",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

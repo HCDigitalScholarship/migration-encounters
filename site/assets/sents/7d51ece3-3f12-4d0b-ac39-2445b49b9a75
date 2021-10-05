@@ -1,0 +1,12 @@
+{
+  "start":16679,
+  "end":16750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He buys the handmade shirts in Oaxaca that have the\n designs and stuff.",
+  "id":"7d51ece3-3f12-4d0b-ac39-2445b49b9a75",
+  "params":{
+    "id":"ed30ee5c-2829-4d82-a62c-ed7377078db2"
+  },
+  "name":"Billy"
+}

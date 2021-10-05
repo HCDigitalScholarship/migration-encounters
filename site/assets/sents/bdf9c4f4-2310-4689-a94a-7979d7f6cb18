@@ -1,0 +1,12 @@
+{
+  "start":35718,
+  "end":35733,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't know.",
+  "id":"bdf9c4f4-2310-4689-a94a-7979d7f6cb18",
+  "params":{
+    "id":"fc37bc5d-de56-4226-8d88-70add4d7572b"
+  },
+  "name":"Beto"
+}

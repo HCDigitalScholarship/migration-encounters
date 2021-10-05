@@ -1,0 +1,12 @@
+{
+  "start":8596,
+  "end":8743,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d I tell them that I wish I would have gone to the university\n   because that was one of my biggest things that I wanted to do, but I messed\n   up.",
+  "id":"8ba62ec1-719f-4f3e-bfd8-41d22429e2a5",
+  "params":{
+    "id":"40ce6b2e-dd7c-4990-96d0-135b89d90755"
+  },
+  "name":"Hugo"
+}

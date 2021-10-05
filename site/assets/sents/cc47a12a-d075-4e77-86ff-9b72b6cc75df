@@ -1,0 +1,12 @@
+{
+  "start":4849,
+  "end":4864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know my area.",
+  "id":"cc47a12a-d075-4e77-86ff-9b72b6cc75df",
+  "params":{
+    "id":"20c5cd8c-41a2-42d1-ba8f-4af22943bfd6"
+  },
+  "name":"Kevin"
+}

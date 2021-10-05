@@ -1,0 +1,13 @@
+{
+  "start":15135,
+  "end":15155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had a nice Volvo.",
+  "id":"7e4cd59d-48d3-404b-8b78-20d9451e29d6",
+  "params":{
+    "id":"7e4cd59d-48d3-404b-8b78-20d9451e29d6",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

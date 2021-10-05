@@ -1,0 +1,13 @@
+{
+  "start":23035,
+  "end":23060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But how's work out there?",
+  "id":"c997f577-39c6-4e73-872b-023b88e46eaf",
+  "params":{
+    "id":"c997f577-39c6-4e73-872b-023b88e46eaf",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

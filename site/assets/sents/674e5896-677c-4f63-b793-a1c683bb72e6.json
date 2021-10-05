@@ -1,0 +1,13 @@
+{
+  "start":33069,
+  "end":33094,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I've said enough.",
+  "id":"674e5896-677c-4f63-b793-a1c683bb72e6",
+  "params":{
+    "id":"674e5896-677c-4f63-b793-a1c683bb72e6",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

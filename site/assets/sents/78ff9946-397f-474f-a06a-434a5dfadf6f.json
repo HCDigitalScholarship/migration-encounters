@@ -1,0 +1,13 @@
+{
+  "start":66409,
+  "end":66443,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom is really picky about that.",
+  "id":"78ff9946-397f-474f-a06a-434a5dfadf6f",
+  "params":{
+    "id":"78ff9946-397f-474f-a06a-434a5dfadf6f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

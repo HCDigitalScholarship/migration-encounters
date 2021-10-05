@@ -1,0 +1,13 @@
+{
+  "start":1489,
+  "end":1581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Eating\n   McDonald's when we're younger, they actually were able to take us to\n   Disneyland",
+  "id":"e29d9b67-6cbe-4457-bf07-c0aeddd02122",
+  "params":{
+    "id":"e29d9b67-6cbe-4457-bf07-c0aeddd02122",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

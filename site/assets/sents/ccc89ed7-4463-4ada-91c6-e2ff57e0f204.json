@@ -1,0 +1,13 @@
+{
+  "start":16288,
+  "end":16337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't like us because we were not American.",
+  "id":"ccc89ed7-4463-4ada-91c6-e2ff57e0f204",
+  "params":{
+    "id":"ccc89ed7-4463-4ada-91c6-e2ff57e0f204",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22429,
+  "end":22486,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some things, you have to be strong in front\n   of people.",
+  "id":"bd91bfa1-dd01-4fff-be2c-0b5807d21f3e",
+  "params":{
+    "id":"bd91bfa1-dd01-4fff-be2c-0b5807d21f3e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

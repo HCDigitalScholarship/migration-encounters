@@ -1,0 +1,13 @@
+{
+  "start":25186,
+  "end":25217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's working over there\n   now.",
+  "id":"0661ec89-200a-4435-bb06-9fc596db88f9",
+  "params":{
+    "id":"0661ec89-200a-4435-bb06-9fc596db88f9",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

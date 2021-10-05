@@ -1,0 +1,12 @@
+{
+  "start":51455,
+  "end":51472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's got a house.",
+  "id":"4ea79178-052c-4034-bfcd-e8abb0f9d86a",
+  "params":{
+    "id":"7f0388a3-9921-4e70-b498-6b117037d416"
+  },
+  "name":"Mike"
+}

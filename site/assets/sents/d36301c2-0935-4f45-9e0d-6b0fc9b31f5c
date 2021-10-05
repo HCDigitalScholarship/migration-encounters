@@ -1,0 +1,12 @@
+{
+  "start":57096,
+  "end":57106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Thank you.",
+  "id":"d36301c2-0935-4f45-9e0d-6b0fc9b31f5c",
+  "params":{
+    "id":"8c16661e-7585-4e42-bc65-bd8834eb179c"
+  },
+  "name":"Mike"
+}

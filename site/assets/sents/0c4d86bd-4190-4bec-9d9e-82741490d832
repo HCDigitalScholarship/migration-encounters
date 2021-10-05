@@ -1,0 +1,12 @@
+{
+  "start":1220,
+  "end":1265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many times did you say that you did that?",
+  "id":"0c4d86bd-4190-4bec-9d9e-82741490d832",
+  "params":{
+    "id":"8be63cd1-de86-4254-9c76-5d5c6f87a441"
+  },
+  "name":"Yosell"
+}

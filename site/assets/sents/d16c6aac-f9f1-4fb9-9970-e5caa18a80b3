@@ -1,0 +1,12 @@
+{
+  "start":4825,
+  "end":4848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know where I\n   live.",
+  "id":"d16c6aac-f9f1-4fb9-9970-e5caa18a80b3",
+  "params":{
+    "id":"68229ecb-5cf5-4e49-9122-1e196e7af2e6"
+  },
+  "name":"Kevin"
+}

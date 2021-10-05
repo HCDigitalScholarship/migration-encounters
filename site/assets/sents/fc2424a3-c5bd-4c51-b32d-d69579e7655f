@@ -1,0 +1,12 @@
+{
+  "start":19676,
+  "end":19713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom, she's fine, all my\n   family.",
+  "id":"fc2424a3-c5bd-4c51-b32d-d69579e7655f",
+  "params":{
+    "id":"8e06a21a-3848-4cbf-8a60-75cfc24ee34c"
+  },
+  "name":"Many"
+}

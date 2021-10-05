@@ -1,0 +1,15 @@
+{
+  "start":3742,
+  "end":3795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   got into like a backup, but it was for medicine.",
+  "id":"9aa0b864-4bb3-4dd2-9b8b-ca6b21e5819e",
+  "params":{
+    "id":"9aa0b864-4bb3-4dd2-9b8b-ca6b21e5819e",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

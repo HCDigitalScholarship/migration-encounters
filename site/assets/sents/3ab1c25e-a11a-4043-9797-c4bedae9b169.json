@@ -1,0 +1,13 @@
+{
+  "start":28995,
+  "end":29033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you miss anything about the States?",
+  "id":"3ab1c25e-a11a-4043-9797-c4bedae9b169",
+  "params":{
+    "id":"3ab1c25e-a11a-4043-9797-c4bedae9b169",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

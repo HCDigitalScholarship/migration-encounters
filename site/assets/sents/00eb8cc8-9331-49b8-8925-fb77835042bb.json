@@ -1,0 +1,13 @@
+{
+  "start":35319,
+  "end":35341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, that won't happen.",
+  "id":"00eb8cc8-9331-49b8-8925-fb77835042bb",
+  "params":{
+    "id":"00eb8cc8-9331-49b8-8925-fb77835042bb",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

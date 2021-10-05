@@ -1,0 +1,13 @@
+{
+  "start":4433,
+  "end":4459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Elementary, right?\n \n \n   ",
+  "id":"d0e516d6-e9a6-4744-a26d-9fce5abb0964",
+  "params":{
+    "id":"d0e516d6-e9a6-4744-a26d-9fce5abb0964",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

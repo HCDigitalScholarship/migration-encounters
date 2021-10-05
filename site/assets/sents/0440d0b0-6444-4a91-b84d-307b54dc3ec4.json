@@ -1,0 +1,13 @@
+{
+  "start":30574,
+  "end":30611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I think\n   that there is a shift.",
+  "id":"0440d0b0-6444-4a91-b84d-307b54dc3ec4",
+  "params":{
+    "id":"0440d0b0-6444-4a91-b84d-307b54dc3ec4",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

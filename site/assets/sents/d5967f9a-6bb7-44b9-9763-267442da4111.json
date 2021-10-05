@@ -1,0 +1,13 @@
+{
+  "start":1215,
+  "end":1270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could do\n   it legally and it's going to be easier.",
+  "id":"d5967f9a-6bb7-44b9-9763-267442da4111",
+  "params":{
+    "id":"d5967f9a-6bb7-44b9-9763-267442da4111",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

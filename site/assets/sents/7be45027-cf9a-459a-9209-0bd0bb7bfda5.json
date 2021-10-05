@@ -1,0 +1,13 @@
+{
+  "start":28240,
+  "end":28272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So they did everything by order.",
+  "id":"7be45027-cf9a-459a-9209-0bd0bb7bfda5",
+  "params":{
+    "id":"7be45027-cf9a-459a-9209-0bd0bb7bfda5",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16198,
+  "end":16264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you returned to Mexico, you mentioned you had a warm welcome.",
+  "id":"8ab607b5-6388-4f3f-8a3e-cc2dde0be8aa",
+  "params":{
+    "id":"8ab607b5-6388-4f3f-8a3e-cc2dde0be8aa",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

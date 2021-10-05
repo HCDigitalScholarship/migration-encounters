@@ -1,0 +1,12 @@
+{
+  "start":25659,
+  "end":25718,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could not fight anymore because\n I'd already signed away.",
+  "id":"ddfb5209-0cf5-4baf-96ab-e944f2a8e2a1",
+  "params":{
+    "id":"bc6c4058-e14e-495e-a48c-d60d576d4d22"
+  },
+  "name":"Ben"
+}

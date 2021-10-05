@@ -1,0 +1,13 @@
+{
+  "start":9047,
+  "end":9089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But she moved around in ____ all the time?",
+  "id":"c8b87b2c-33a8-4771-b931-7966826f7667",
+  "params":{
+    "id":"c8b87b2c-33a8-4771-b931-7966826f7667",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

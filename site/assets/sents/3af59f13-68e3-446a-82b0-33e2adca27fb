@@ -1,0 +1,12 @@
+{
+  "start":3093,
+  "end":3139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Long Beach is a very\n   multiracial community.",
+  "id":"3af59f13-68e3-446a-82b0-33e2adca27fb",
+  "params":{
+    "id":"41cc1c38-71e7-40ce-ac4a-d2a3e3719546"
+  },
+  "name":"Hugo"
+}

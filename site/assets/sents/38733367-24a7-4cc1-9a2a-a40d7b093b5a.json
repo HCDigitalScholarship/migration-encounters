@@ -1,0 +1,13 @@
+{
+  "start":26195,
+  "end":26222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can walk anywhere I want.",
+  "id":"38733367-24a7-4cc1-9a2a-a40d7b093b5a",
+  "params":{
+    "id":"38733367-24a7-4cc1-9a2a-a40d7b093b5a",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

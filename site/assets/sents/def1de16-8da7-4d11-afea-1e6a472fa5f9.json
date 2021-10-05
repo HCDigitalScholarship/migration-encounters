@@ -1,0 +1,13 @@
+{
+  "start":10451,
+  "end":10514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I break into the house, I saw them, those guys on the bed.",
+  "id":"def1de16-8da7-4d11-afea-1e6a472fa5f9",
+  "params":{
+    "id":"def1de16-8da7-4d11-afea-1e6a472fa5f9",
+    "class":"anno"
+  },
+  "name":"Many"
+}

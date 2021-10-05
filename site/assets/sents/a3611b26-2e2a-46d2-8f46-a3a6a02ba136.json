@@ -1,0 +1,13 @@
+{
+  "start":14179,
+  "end":14259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was going to call immigration to take me and take away some of\n   my family.",
+  "id":"a3611b26-2e2a-46d2-8f46-a3a6a02ba136",
+  "params":{
+    "id":"a3611b26-2e2a-46d2-8f46-a3a6a02ba136",
+    "class":"anno"
+  },
+  "name":"Many"
+}

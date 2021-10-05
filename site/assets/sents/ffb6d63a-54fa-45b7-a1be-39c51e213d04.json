@@ -1,0 +1,13 @@
+{
+  "start":12158,
+  "end":12268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   said, \"You got three months tops man, you already have cancer in your brain\n   so you're going to die.",
+  "id":"ffb6d63a-54fa-45b7-a1be-39c51e213d04",
+  "params":{
+    "id":"ffb6d63a-54fa-45b7-a1be-39c51e213d04",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

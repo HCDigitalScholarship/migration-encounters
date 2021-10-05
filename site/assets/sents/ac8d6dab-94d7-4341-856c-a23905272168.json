@@ -1,0 +1,13 @@
+{
+  "start":50816,
+  "end":50840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: And your siblings?",
+  "id":"ac8d6dab-94d7-4341-856c-a23905272168",
+  "params":{
+    "id":"ac8d6dab-94d7-4341-856c-a23905272168",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

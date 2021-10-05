@@ -1,0 +1,13 @@
+{
+  "start":24471,
+  "end":24527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really like the winter in Chicago, the snow, you know?",
+  "id":"5e40a690-56a6-4412-88c4-644cfa0c248d",
+  "params":{
+    "id":"5e40a690-56a6-4412-88c4-644cfa0c248d",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

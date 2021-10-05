@@ -1,0 +1,13 @@
+{
+  "start":23132,
+  "end":23159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ah, is that the best thing?",
+  "id":"600be0a9-3a11-4e98-92e6-a5ad06989d2d",
+  "params":{
+    "id":"600be0a9-3a11-4e98-92e6-a5ad06989d2d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

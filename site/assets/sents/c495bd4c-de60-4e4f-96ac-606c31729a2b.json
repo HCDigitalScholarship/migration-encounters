@@ -1,0 +1,13 @@
+{
+  "start":23966,
+  "end":24005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico, I've never volunteered.",
+  "id":"c495bd4c-de60-4e4f-96ac-606c31729a2b",
+  "params":{
+    "id":"c495bd4c-de60-4e4f-96ac-606c31729a2b",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

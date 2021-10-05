@@ -1,0 +1,13 @@
+{
+  "start":29693,
+  "end":29727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work hard, I'm an honest\n   guy.",
+  "id":"f2c1ca12-ae26-4ed6-bb4c-1677d8922097",
+  "params":{
+    "id":"f2c1ca12-ae26-4ed6-bb4c-1677d8922097",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

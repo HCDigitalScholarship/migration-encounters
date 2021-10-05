@@ -1,0 +1,13 @@
+{
+  "start":28456,
+  "end":28480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're\nlooking into that.",
+  "id":"29f3ed5d-fdb4-4bc7-8f64-6ddfb8f292df",
+  "params":{
+    "id":"29f3ed5d-fdb4-4bc7-8f64-6ddfb8f292df",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

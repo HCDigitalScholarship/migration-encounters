@@ -1,0 +1,13 @@
+{
+  "start":1878,
+  "end":1925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As in my dad and my\n mom, I was the only child.",
+  "id":"57d9dab8-28fb-4aec-815d-346c54c2d0cc",
+  "params":{
+    "id":"57d9dab8-28fb-4aec-815d-346c54c2d0cc",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

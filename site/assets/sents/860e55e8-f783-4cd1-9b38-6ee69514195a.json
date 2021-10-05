@@ -1,0 +1,13 @@
+{
+  "start":7752,
+  "end":7766,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when\n   I did.",
+  "id":"860e55e8-f783-4cd1-9b38-6ee69514195a",
+  "params":{
+    "id":"860e55e8-f783-4cd1-9b38-6ee69514195a",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31615,
+  "end":31643,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was with two\n   Somalians.",
+  "id":"d61e29b2-eb6b-42f6-b452-b5711393a0e3",
+  "params":{
+    "id":"d61e29b2-eb6b-42f6-b452-b5711393a0e3",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

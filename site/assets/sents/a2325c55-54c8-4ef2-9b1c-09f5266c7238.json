@@ -1,0 +1,13 @@
+{
+  "start":24554,
+  "end":24602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I told you, my dad is a hardworking man.",
+  "id":"a2325c55-54c8-4ef2-9b1c-09f5266c7238",
+  "params":{
+    "id":"a2325c55-54c8-4ef2-9b1c-09f5266c7238",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

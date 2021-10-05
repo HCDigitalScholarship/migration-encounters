@@ -1,0 +1,13 @@
+{
+  "start":22573,
+  "end":22614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I\n   started working in a call center.",
+  "id":"9df1e2ae-1e75-40b9-af0f-270c81f21eef",
+  "params":{
+    "id":"9df1e2ae-1e75-40b9-af0f-270c81f21eef",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

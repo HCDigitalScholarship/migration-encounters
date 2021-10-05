@@ -1,0 +1,12 @@
+{
+  "start":915,
+  "end":970,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You've been living with your grandpa for six years.",
+  "id":"6cc83ce9-f453-489d-bdd0-0f04d0f02f3e",
+  "params":{
+    "id":"5b947eff-96e2-46ae-9985-5fc32e47aa8f"
+  },
+  "name":"Carlos"
+}

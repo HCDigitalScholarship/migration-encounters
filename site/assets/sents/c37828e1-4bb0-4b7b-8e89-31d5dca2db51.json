@@ -1,0 +1,13 @@
+{
+  "start":13222,
+  "end":13388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   turned myself in and when I was about to get ready to get out, I called the\n   guards and say, \"Hey, I need to take a shower because I'm about to go to\n   work.\"",
+  "id":"c37828e1-4bb0-4b7b-8e89-31d5dca2db51",
+  "params":{
+    "id":"c37828e1-4bb0-4b7b-8e89-31d5dca2db51",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

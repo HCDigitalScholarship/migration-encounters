@@ -1,0 +1,12 @@
+{
+  "start":8940,
+  "end":9044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The start point can always jump to the mid without\n   even any progression or anything going through it.",
+  "id":"c21f7595-242d-4e7f-95c3-05c988023686",
+  "params":{
+    "id":"c62ab728-9867-44e7-8e78-975cd69fbcf6"
+  },
+  "name":"Joseph"
+}

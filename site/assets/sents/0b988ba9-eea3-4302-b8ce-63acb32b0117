@@ -1,0 +1,12 @@
+{
+  "start":34511,
+  "end":34540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is the way I look at it.",
+  "id":"0b988ba9-eea3-4302-b8ce-63acb32b0117",
+  "params":{
+    "id":"34837bf3-1cba-4334-b8e9-8ae09fb4d3df"
+  },
+  "name":"Kevin"
+}

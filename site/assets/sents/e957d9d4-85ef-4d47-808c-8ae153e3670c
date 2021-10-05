@@ -1,0 +1,12 @@
+{
+  "start":13242,
+  "end":13263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What part of Arizona?",
+  "id":"e957d9d4-85ef-4d47-808c-8ae153e3670c",
+  "params":{
+    "id":"b5c67c56-0738-4017-8822-b9b5733d4900"
+  },
+  "name":"Laila"
+}

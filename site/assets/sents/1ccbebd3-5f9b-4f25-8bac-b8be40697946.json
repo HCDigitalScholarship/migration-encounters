@@ -1,0 +1,13 @@
+{
+  "start":14530,
+  "end":14640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   guess my parents always wanted us to live in the nicer area so I would hang\n   out with people like that.",
+  "id":"1ccbebd3-5f9b-4f25-8bac-b8be40697946",
+  "params":{
+    "id":"1ccbebd3-5f9b-4f25-8bac-b8be40697946",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

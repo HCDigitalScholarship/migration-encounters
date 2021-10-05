@@ -1,0 +1,12 @@
+{
+  "start":30418,
+  "end":30429,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I show him.",
+  "id":"f9f52f6d-0be8-4cb3-969a-ee50ee692f5a",
+  "params":{
+    "id":"da234012-77f1-4fc9-bcac-90f51f4d5b92"
+  },
+  "name":"Daniel"
+}

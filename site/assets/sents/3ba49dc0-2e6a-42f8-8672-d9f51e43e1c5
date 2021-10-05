@@ -1,0 +1,12 @@
+{
+  "start":3945,
+  "end":3966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n story of America",
+  "id":"3ba49dc0-2e6a-42f8-8672-d9f51e43e1c5",
+  "params":{
+    "id":"a0ccab15-4d99-44f5-a261-7dc9b7756d64"
+  },
+  "name":"Billy"
+}

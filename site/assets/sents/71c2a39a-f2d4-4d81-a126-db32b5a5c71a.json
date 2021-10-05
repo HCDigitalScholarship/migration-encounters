@@ -1,0 +1,13 @@
+{
+  "start":44006,
+  "end":44024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\u2019re different.",
+  "id":"71c2a39a-f2d4-4d81-a126-db32b5a5c71a",
+  "params":{
+    "id":"71c2a39a-f2d4-4d81-a126-db32b5a5c71a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

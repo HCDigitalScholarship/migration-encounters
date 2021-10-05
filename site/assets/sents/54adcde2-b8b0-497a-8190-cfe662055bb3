@@ -1,0 +1,12 @@
+{
+  "start":29090,
+  "end":29135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It is\n   very difficult for us to understand.",
+  "id":"54adcde2-b8b0-497a-8190-cfe662055bb3",
+  "params":{
+    "id":"3101a61a-34f6-4d68-910f-3c83ec793292"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15897,
+  "end":15943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just a bunch of\n   things ran through my mind.",
+  "id":"a72a1df3-5c6b-41ab-8aef-bb600ab38d69",
+  "params":{
+    "id":"db4075d2-f275-424b-a645-36ba4349f9cb"
+  },
+  "name":"Daniel"
+}

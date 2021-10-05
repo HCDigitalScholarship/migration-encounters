@@ -1,0 +1,12 @@
+{
+  "start":23560,
+  "end":23633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think that for some people, they're not able to get a job\n   here?",
+  "id":"d0c8a435-2bf3-43f9-8974-e4c425791f01",
+  "params":{
+    "id":"200669c0-98f6-4d4a-bed8-4ed154f63105"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7244,
+  "end":7299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"I\n   might as well just go all the way out.",
+  "id":"3f7c57a0-ffcc-4318-b79a-aff67b090173",
+  "params":{
+    "id":"3f7c57a0-ffcc-4318-b79a-aff67b090173",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

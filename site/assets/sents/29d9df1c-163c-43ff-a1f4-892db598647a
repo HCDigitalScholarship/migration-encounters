@@ -1,0 +1,12 @@
+{
+  "start":9876,
+  "end":9920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We tell them we don't have anything and we\n ",
+  "id":"29d9df1c-163c-43ff-a1f4-892db598647a",
+  "params":{
+    "id":"4f87c86a-294b-458e-8451-d8424211b150"
+  },
+  "name":"Axel"
+}

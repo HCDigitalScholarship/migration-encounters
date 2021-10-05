@@ -1,0 +1,12 @@
+{
+  "start":28759,
+  "end":28778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you depressed?",
+  "id":"ce54a855-69bb-4788-b6db-432f82adadfc",
+  "params":{
+    "id":"057fc94b-5634-4171-99a0-2f8efe75ff40"
+  },
+  "name":"Carlos"
+}

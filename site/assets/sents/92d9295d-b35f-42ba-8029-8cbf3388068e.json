@@ -1,0 +1,13 @@
+{
+  "start":5674,
+  "end":5701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can barely speak Spanish.",
+  "id":"92d9295d-b35f-42ba-8029-8cbf3388068e",
+  "params":{
+    "id":"92d9295d-b35f-42ba-8029-8cbf3388068e",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

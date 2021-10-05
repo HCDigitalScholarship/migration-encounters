@@ -1,0 +1,13 @@
+{
+  "start":8759,
+  "end":8784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She did not like\n   that.",
+  "id":"9e78a637-ab3e-42a9-92ae-4abac85abbad",
+  "params":{
+    "id":"9e78a637-ab3e-42a9-92ae-4abac85abbad",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

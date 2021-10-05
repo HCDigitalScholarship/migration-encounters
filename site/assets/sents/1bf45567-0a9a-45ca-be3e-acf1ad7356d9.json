@@ -1,0 +1,13 @@
+{
+  "start":3668,
+  "end":3717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that like for you when you were leaving?",
+  "id":"1bf45567-0a9a-45ca-be3e-acf1ad7356d9",
+  "params":{
+    "id":"1bf45567-0a9a-45ca-be3e-acf1ad7356d9",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

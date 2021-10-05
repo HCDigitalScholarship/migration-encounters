@@ -1,0 +1,13 @@
+{
+  "start":20522,
+  "end":20621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It sounds like when you presented your case, there was video\n   evidence, you had all the receipts.",
+  "id":"9ece29a5-a602-4cf3-bc54-2d06048304dc",
+  "params":{
+    "id":"9ece29a5-a602-4cf3-bc54-2d06048304dc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

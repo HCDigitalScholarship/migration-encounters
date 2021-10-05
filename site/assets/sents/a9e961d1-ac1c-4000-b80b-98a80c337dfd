@@ -1,0 +1,12 @@
+{
+  "start":13221,
+  "end":13242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's four years old.",
+  "id":"a9e961d1-ac1c-4000-b80b-98a80c337dfd",
+  "params":{
+    "id":"2c171165-46aa-443b-a795-66fd08dc0906"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26628,
+  "end":26657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just like, \"All right.\"",
+  "id":"54550de2-6b8b-4d6a-bb66-33b94a6a5916",
+  "params":{
+    "id":"bb40d24a-04a2-494c-87d8-b65385aa244f"
+  },
+  "name":"Kevin"
+}

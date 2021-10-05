@@ -1,0 +1,13 @@
+{
+  "start":75289,
+  "end":75362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I've cooked Native American food,\n   Mexican food, American food.",
+  "id":"bc58a71d-dcf3-4233-9c07-218ad6d58117",
+  "params":{
+    "id":"bc58a71d-dcf3-4233-9c07-218ad6d58117",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

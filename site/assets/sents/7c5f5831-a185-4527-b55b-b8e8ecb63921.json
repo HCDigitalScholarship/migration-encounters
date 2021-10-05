@@ -1,0 +1,13 @@
+{
+  "start":31493,
+  "end":31517,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it might work out.",
+  "id":"7c5f5831-a185-4527-b55b-b8e8ecb63921",
+  "params":{
+    "id":"7c5f5831-a185-4527-b55b-b8e8ecb63921",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

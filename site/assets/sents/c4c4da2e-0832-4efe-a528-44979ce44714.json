@@ -1,0 +1,13 @@
+{
+  "start":7165,
+  "end":7218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was working in work construction,\n   on the roads.",
+  "id":"c4c4da2e-0832-4efe-a528-44979ce44714",
+  "params":{
+    "id":"c4c4da2e-0832-4efe-a528-44979ce44714",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

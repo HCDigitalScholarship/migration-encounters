@@ -1,0 +1,12 @@
+{
+  "start":25111,
+  "end":25139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yeah, I lived in\nso-and-so.",
+  "id":"008c5d27-6dc4-42e8-bfcd-6f633328165b",
+  "params":{
+    "id":"939b3690-e4ec-4573-9f1d-41e6f43a420f"
+  },
+  "name":"Abel"
+}

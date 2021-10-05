@@ -1,0 +1,12 @@
+{
+  "start":16180,
+  "end":16229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   \"Well, I come from Chicago or I come from...\"",
+  "id":"6997c0a0-b6e9-4b4d-94e8-854cb3566991",
+  "params":{
+    "id":"64e577e1-92e5-4954-87c0-316bfdcd329e"
+  },
+  "name":"Pablo"
+}

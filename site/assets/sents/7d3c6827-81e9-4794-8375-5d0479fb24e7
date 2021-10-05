@@ -1,0 +1,12 @@
+{
+  "start":2200,
+  "end":2239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still see a lot of snow at that time.",
+  "id":"7d3c6827-81e9-4794-8375-5d0479fb24e7",
+  "params":{
+    "id":"0cd0d376-a1f2-4f18-b231-f45bf22ac6fe"
+  },
+  "name":"Rodrigo"
+}

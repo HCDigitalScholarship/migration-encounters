@@ -1,0 +1,13 @@
+{
+  "start":14005,
+  "end":14027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n world practically",
+  "id":"0c8c575f-d895-479f-bb49-9fad3f638eb3",
+  "params":{
+    "id":"0c8c575f-d895-479f-bb49-9fad3f638eb3",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26141,
+  "end":26223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He came to\nget some dental work done because it's cheaper out here.\n      \n      \n",
+  "id":"6dd236f2-fc18-44ec-aa12-0e0970a3ba07",
+  "params":{
+    "id":"9ee68ee0-97ac-4047-95a9-30fa093fe367"
+  },
+  "name":"Abel"
+}

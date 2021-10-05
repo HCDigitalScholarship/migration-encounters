@@ -1,0 +1,13 @@
+{
+  "start":30399,
+  "end":30441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy: And you didn't want that to happen?",
+  "id":"84dc3f8c-871c-426d-a621-9a2a09a99a54",
+  "params":{
+    "id":"84dc3f8c-871c-426d-a621-9a2a09a99a54",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

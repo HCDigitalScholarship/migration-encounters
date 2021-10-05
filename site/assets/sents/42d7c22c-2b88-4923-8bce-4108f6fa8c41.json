@@ -1,0 +1,13 @@
+{
+  "start":3035,
+  "end":3120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you can say I skipped middle school and I went straight through\n   to high school.",
+  "id":"42d7c22c-2b88-4923-8bce-4108f6fa8c41",
+  "params":{
+    "id":"42d7c22c-2b88-4923-8bce-4108f6fa8c41",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

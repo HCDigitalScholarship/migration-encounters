@@ -1,0 +1,12 @@
+{
+  "start":11161,
+  "end":11205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is\n   like pretty weird, but I like it.",
+  "id":"88395be3-6ea5-4997-8345-6276d8e6d595",
+  "params":{
+    "id":"9bb819a0-287f-491d-90b2-fd8c2cc89b6a"
+  },
+  "name":"Jeimmy"
+}

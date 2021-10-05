@@ -1,0 +1,13 @@
+{
+  "start":12765,
+  "end":12787,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The guy was a chimney.",
+  "id":"7ee5e1d9-bf3b-4fef-8b0c-b929d2b9d218",
+  "params":{
+    "id":"7ee5e1d9-bf3b-4fef-8b0c-b929d2b9d218",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

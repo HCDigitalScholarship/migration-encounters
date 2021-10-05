@@ -1,0 +1,13 @@
+{
+  "start":64216,
+  "end":64234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where's the coke?\"",
+  "id":"a3983f19-1af3-4edb-914f-c54ac20a6321",
+  "params":{
+    "id":"a3983f19-1af3-4edb-914f-c54ac20a6321",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

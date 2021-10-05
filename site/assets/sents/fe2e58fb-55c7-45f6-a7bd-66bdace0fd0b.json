@@ -1,0 +1,13 @@
+{
+  "start":7245,
+  "end":7267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's really my name.",
+  "id":"fe2e58fb-55c7-45f6-a7bd-66bdace0fd0b",
+  "params":{
+    "id":"fe2e58fb-55c7-45f6-a7bd-66bdace0fd0b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

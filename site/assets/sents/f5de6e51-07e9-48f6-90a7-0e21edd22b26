@@ -1,0 +1,12 @@
+{
+  "start":10451,
+  "end":10527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Payless Shoes, it used to be a store of shoes that were real, real\n   cheap.",
+  "id":"f5de6e51-07e9-48f6-90a7-0e21edd22b26",
+  "params":{
+    "id":"9464c7bf-42ef-4b65-ba74-ad76fd731b46"
+  },
+  "name":"Ruben"
+}

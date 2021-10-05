@@ -1,0 +1,13 @@
+{
+  "start":27119,
+  "end":27150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This courtroom ain't\n   nobody.",
+  "id":"64a1653b-7bd4-442c-90b5-5de0d72aa141",
+  "params":{
+    "id":"64a1653b-7bd4-442c-90b5-5de0d72aa141",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

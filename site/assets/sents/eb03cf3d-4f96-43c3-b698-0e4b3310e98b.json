@@ -1,0 +1,13 @@
+{
+  "start":1517,
+  "end":1544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"No, we're okay right now.\"",
+  "id":"eb03cf3d-4f96-43c3-b698-0e4b3310e98b",
+  "params":{
+    "id":"eb03cf3d-4f96-43c3-b698-0e4b3310e98b",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

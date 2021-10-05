@@ -1,0 +1,13 @@
+{
+  "start":2089,
+  "end":2116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How does that sound to you?",
+  "id":"1feda23f-f9e5-450e-916a-ce1b1c2aafdf",
+  "params":{
+    "id":"1feda23f-f9e5-450e-916a-ce1b1c2aafdf",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

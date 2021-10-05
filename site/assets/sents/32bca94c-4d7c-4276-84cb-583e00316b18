@@ -1,0 +1,12 @@
+{
+  "start":16590,
+  "end":16595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hugo:",
+  "id":"32bca94c-4d7c-4276-84cb-583e00316b18",
+  "params":{
+    "id":"1ca01608-e3f4-4ec9-84f2-df3a21518f4a"
+  },
+  "name":"Hugo"
+}

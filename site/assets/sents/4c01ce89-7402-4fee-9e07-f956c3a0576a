@@ -1,0 +1,12 @@
+{
+  "start":9875,
+  "end":9930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can do the engineering\n   hardwood floors for $2.50.\"",
+  "id":"4c01ce89-7402-4fee-9e07-f956c3a0576a",
+  "params":{
+    "id":"5a56dc72-9907-4237-b30a-5f0b56054950"
+  },
+  "name":"Daniel"
+}

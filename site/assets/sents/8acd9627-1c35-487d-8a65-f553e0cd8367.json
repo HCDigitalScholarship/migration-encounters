@@ -1,0 +1,13 @@
+{
+  "start":3986,
+  "end":4064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have any memories of that first day that you arrived back in\n   Mexico?",
+  "id":"8acd9627-1c35-487d-8a65-f553e0cd8367",
+  "params":{
+    "id":"8acd9627-1c35-487d-8a65-f553e0cd8367",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

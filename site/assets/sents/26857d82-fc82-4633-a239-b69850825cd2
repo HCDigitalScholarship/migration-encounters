@@ -1,0 +1,12 @@
+{
+  "start":16545,
+  "end":16560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were angry?",
+  "id":"26857d82-fc82-4633-a239-b69850825cd2",
+  "params":{
+    "id":"bed83f6f-cc13-461e-bca0-8df3792eb239"
+  },
+  "name":"Joana"
+}

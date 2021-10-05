@@ -1,0 +1,12 @@
+{
+  "start":18561,
+  "end":18605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to go\n back, I want a free ride back.",
+  "id":"9cf1ecb2-541b-4c9b-8751-87cf97db521a",
+  "params":{
+    "id":"04dd6c4b-11e3-4e19-8e20-ce099a8cbc9a"
+  },
+  "name":"Ben"
+}

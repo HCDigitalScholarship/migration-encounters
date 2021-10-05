@@ -1,0 +1,13 @@
+{
+  "start":60890,
+  "end":60932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   think they do, but it has to do more.",
+  "id":"70a5de8b-d5c6-4a4b-b9dc-0e026335894f",
+  "params":{
+    "id":"70a5de8b-d5c6-4a4b-b9dc-0e026335894f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

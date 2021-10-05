@@ -1,0 +1,13 @@
+{
+  "start":33784,
+  "end":33993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's never happened to me, but it's happened to my coworkers and\n stuff and they've missed work one or two days and they're about to get\n fired and they come back, and then they're like, \"Man, I was kidnapped.",
+  "id":"6422869c-f295-4d2c-974f-ed34b846e868",
+  "params":{
+    "id":"6422869c-f295-4d2c-974f-ed34b846e868",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

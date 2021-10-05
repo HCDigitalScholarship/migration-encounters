@@ -1,0 +1,13 @@
+{
+  "start":11195,
+  "end":11229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I grew up with my father\n   a lot.",
+  "id":"581f3976-fc4b-4cee-beb4-8b276e3070ae",
+  "params":{
+    "id":"581f3976-fc4b-4cee-beb4-8b276e3070ae",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

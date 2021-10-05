@@ -1,0 +1,13 @@
+{
+  "start":9432,
+  "end":9455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have paperwork.",
+  "id":"cb174e60-6c4e-43de-8e27-075b355e4a3f",
+  "params":{
+    "id":"cb174e60-6c4e-43de-8e27-075b355e4a3f",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

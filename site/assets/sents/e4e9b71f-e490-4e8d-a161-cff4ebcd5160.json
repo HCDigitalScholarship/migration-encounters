@@ -1,0 +1,13 @@
+{
+  "start":20169,
+  "end":20261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Rodolfo: They have a business, they have trucks, they have houses, they're\n   great.",
+  "id":"e4e9b71f-e490-4e8d-a161-cff4ebcd5160",
+  "params":{
+    "id":"e4e9b71f-e490-4e8d-a161-cff4ebcd5160",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

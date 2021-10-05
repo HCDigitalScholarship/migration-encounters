@@ -1,0 +1,12 @@
+{
+  "start":5875,
+  "end":5943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you said you\n   didn't want to have a visa for your own country.",
+  "id":"e09237b1-a752-46c6-a997-8c7a88f21477",
+  "params":{
+    "id":"8b19a519-5f89-4882-8fc2-09ec857aa253"
+  },
+  "name":"Daniel"
+}

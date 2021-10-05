@@ -1,0 +1,12 @@
+{
+  "start":60736,
+  "end":60755,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   don't know.",
+  "id":"2d20adf2-6c81-492c-9679-926ad5fa4bc1",
+  "params":{
+    "id":"02d8585b-fe5b-4109-bd68-4f6355a02669"
+  },
+  "name":"Daniel B"
+}

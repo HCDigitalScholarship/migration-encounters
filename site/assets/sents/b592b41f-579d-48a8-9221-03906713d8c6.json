@@ -1,0 +1,12 @@
+{
+  "start":6481,
+  "end":6500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, it was benign.",
+  "id":"b592b41f-579d-48a8-9221-03906713d8c6",
+  "params":{
+    "id":"fb46e614-fee8-46df-897c-ab5e05ac035c"
+  },
+  "name":"Luisa"
+}

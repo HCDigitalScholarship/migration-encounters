@@ -1,0 +1,13 @@
+{
+  "start":32425,
+  "end":32491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I hear him and he's like \"Driver, stay\n   where you are.\"",
+  "id":"e820fa77-9fe1-42e0-abcd-93ad068682c5",
+  "params":{
+    "id":"e820fa77-9fe1-42e0-abcd-93ad068682c5",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

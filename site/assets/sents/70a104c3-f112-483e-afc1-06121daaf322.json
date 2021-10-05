@@ -1,0 +1,13 @@
+{
+  "start":73898,
+  "end":73990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want fancy\n stuff, I don't want to be rich, I don't want to be famous, none of that.",
+  "id":"70a104c3-f112-483e-afc1-06121daaf322",
+  "params":{
+    "id":"70a104c3-f112-483e-afc1-06121daaf322",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

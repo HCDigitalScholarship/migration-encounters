@@ -1,0 +1,13 @@
+{
+  "start":22393,
+  "end":22502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do remember when I was working in construction, we\n   went to a chicken house to do a couple of jobs there.",
+  "id":"1f1034d3-1a39-4f1a-ba2a-8163a961ca75",
+  "params":{
+    "id":"1f1034d3-1a39-4f1a-ba2a-8163a961ca75",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":35558,
+  "end":35594,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: That was my mentality.",
+  "id":"8c6b3774-655e-4683-a74d-c9fe973d1595",
+  "params":{
+    "id":"8afb6114-9c6f-434f-9b28-9a38efc3708a"
+  },
+  "name":"Mike"
+}

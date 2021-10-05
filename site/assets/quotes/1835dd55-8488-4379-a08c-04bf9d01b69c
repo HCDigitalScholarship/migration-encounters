@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":19612,
+  "end":19617,
+  "text":"ner then?\n \n <br/>\n \n   Ivan: Yes. Actually, I had a partner and I would work from different\n   companies, because the photography industry for Hispanics in North Carolina\n   started growing so much. First small business, they went to big companies.\n   They'll hire photographers and I would work some side jobs for companies.\n   So I was doing well. I was doing pretty well back then.\n \n <br/>\n \n   Anne:",
+  "label":"ORDINAL",
+  "id":"1835dd55-8488-4379-a08c-04bf9d01b69c",
+  "name":"Ivan B"
+}

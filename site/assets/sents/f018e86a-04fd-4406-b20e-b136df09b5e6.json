@@ -1,0 +1,13 @@
+{
+  "start":9690,
+  "end":9725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n It's happened to a lot of people.",
+  "id":"f018e86a-04fd-4406-b20e-b136df09b5e6",
+  "params":{
+    "id":"f018e86a-04fd-4406-b20e-b136df09b5e6",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

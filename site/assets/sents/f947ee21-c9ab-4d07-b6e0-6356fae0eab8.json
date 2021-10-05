@@ -1,0 +1,13 @@
+{
+  "start":5278,
+  "end":5300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would talk to us.",
+  "id":"f947ee21-c9ab-4d07-b6e0-6356fae0eab8",
+  "params":{
+    "id":"f947ee21-c9ab-4d07-b6e0-6356fae0eab8",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40220,
+  "end":40261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're like, \"Oh, that's your\n     street?",
+  "id":"39a7ac08-3a47-4603-9874-9e2820b6f37d",
+  "params":{
+    "id":"612f3639-59d4-4f7a-90cb-ca131dd2f318"
+  },
+  "name":"Beto"
+}

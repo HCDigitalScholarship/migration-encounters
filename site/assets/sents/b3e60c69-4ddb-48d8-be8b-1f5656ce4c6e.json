@@ -1,0 +1,15 @@
+{
+  "start":10430,
+  "end":10495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you consider yourself Mexican or Mexican and American or both?",
+  "id":"b3e60c69-4ddb-48d8-be8b-1f5656ce4c6e",
+  "params":{
+    "id":"b3e60c69-4ddb-48d8-be8b-1f5656ce4c6e",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

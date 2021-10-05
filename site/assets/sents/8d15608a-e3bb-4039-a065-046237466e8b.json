@@ -1,0 +1,13 @@
+{
+  "start":1998,
+  "end":2003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"8d15608a-e3bb-4039-a065-046237466e8b",
+  "params":{
+    "id":"8d15608a-e3bb-4039-a065-046237466e8b",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

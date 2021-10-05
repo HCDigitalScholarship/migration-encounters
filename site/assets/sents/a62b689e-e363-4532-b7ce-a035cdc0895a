@@ -1,0 +1,12 @@
+{
+  "start":3092,
+  "end":3110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have siblings?",
+  "id":"a62b689e-e363-4532-b7ce-a035cdc0895a",
+  "params":{
+    "id":"826509dd-fa8a-4922-b3ce-601655369a0f"
+  },
+  "name":"Carolina"
+}

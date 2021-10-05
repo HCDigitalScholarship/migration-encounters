@@ -1,0 +1,13 @@
+{
+  "start":35786,
+  "end":35806,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, it does happen.",
+  "id":"7bcf61ea-8db0-40b3-94eb-3654460b5d6e",
+  "params":{
+    "id":"7bcf61ea-8db0-40b3-94eb-3654460b5d6e",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

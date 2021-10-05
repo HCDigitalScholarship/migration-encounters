@@ -1,0 +1,12 @@
+{
+  "start":12902,
+  "end":12930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's just what he\n   said.",
+  "id":"6759d194-37f0-4c6d-b85f-0e58ef7f4e88",
+  "params":{
+    "id":"b8d252c3-8d7b-44a4-9774-c74191d23ab9"
+  },
+  "name":"Josue"
+}

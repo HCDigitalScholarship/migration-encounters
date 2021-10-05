@@ -1,0 +1,13 @@
+{
+  "start":43822,
+  "end":43835,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   Spanish",
+  "id":"ebd0ed51-072a-4fa5-aeba-b06918d9d57f",
+  "params":{
+    "id":"ebd0ed51-072a-4fa5-aeba-b06918d9d57f",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

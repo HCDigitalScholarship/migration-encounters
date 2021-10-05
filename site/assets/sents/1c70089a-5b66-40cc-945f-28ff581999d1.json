@@ -1,0 +1,13 @@
+{
+  "start":25297,
+  "end":25325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he was a big motivation.",
+  "id":"1c70089a-5b66-40cc-945f-28ff581999d1",
+  "params":{
+    "id":"1c70089a-5b66-40cc-945f-28ff581999d1",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

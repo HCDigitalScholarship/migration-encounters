@@ -1,0 +1,13 @@
+{
+  "start":55321,
+  "end":55374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, can you walk me through this a little bit more?",
+  "id":"47dad569-7f8c-452e-9917-f8840e689da2",
+  "params":{
+    "id":"47dad569-7f8c-452e-9917-f8840e689da2",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2772,
+  "end":2790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are\n we here?\"",
+  "id":"bf1d72e2-6d8c-4b95-9537-5840718b9a52",
+  "params":{
+    "id":"cf2cfcd8-65c5-403c-9144-f391516bb737"
+  },
+  "name":"Billy"
+}

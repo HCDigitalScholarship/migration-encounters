@@ -1,0 +1,12 @@
+{
+  "start":36250,
+  "end":36298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: He's a legal resident?\n      \n      \n Ben:",
+  "id":"d87d17be-0ac8-474a-a815-8d27f341b8d0",
+  "params":{
+    "id":"ab1dd9b5-8149-46a9-9070-54abd7391575"
+  },
+  "name":"Ben"
+}

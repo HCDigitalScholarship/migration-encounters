@@ -1,0 +1,12 @@
+{
+  "start":35645,
+  "end":35653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Pause].",
+  "id":"ca29ead3-6cf1-43a4-8f2f-097e98d23a26",
+  "params":{
+    "id":"efaaf210-d4af-458c-9a93-41ae32927224"
+  },
+  "name":"Ben"
+}

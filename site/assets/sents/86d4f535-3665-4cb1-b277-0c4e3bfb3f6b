@@ -1,0 +1,12 @@
+{
+  "start":16338,
+  "end":16363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Diana: About coming back?",
+  "id":"86d4f535-3665-4cb1-b277-0c4e3bfb3f6b",
+  "params":{
+    "id":"d80a2331-d077-4393-9937-a251801e8933"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":27470,
+  "end":27575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Carlos: You're assisting the users of a company, the people who work there,\n   not the customers.",
+  "id":"4dc8e077-f152-4eb9-af3f-bd866c3b09e8",
+  "params":{
+    "id":"991f2eb8-f128-4d5e-b322-6d720aa93daa"
+  },
+  "name":"Carlos"
+}

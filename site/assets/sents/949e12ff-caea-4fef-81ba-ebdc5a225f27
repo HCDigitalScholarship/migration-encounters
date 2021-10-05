@@ -1,0 +1,12 @@
+{
+  "start":5830,
+  "end":5866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't like being in the States.",
+  "id":"949e12ff-caea-4fef-81ba-ebdc5a225f27",
+  "params":{
+    "id":"3a91c94b-576b-4092-8ca5-8c66c5fd5553"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":42366,
+  "end":42439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean,\n   it was for a long time that she wouldn't get in touch with me.",
+  "id":"d46889aa-21e2-4b65-a999-a15a639e91e6",
+  "params":{
+    "id":"d46889aa-21e2-4b65-a999-a15a639e91e6",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

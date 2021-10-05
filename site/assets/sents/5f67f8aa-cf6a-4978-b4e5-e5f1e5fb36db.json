@@ -1,0 +1,13 @@
+{
+  "start":53024,
+  "end":53050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Try to do the right thing.",
+  "id":"5f67f8aa-cf6a-4978-b4e5-e5f1e5fb36db",
+  "params":{
+    "id":"5f67f8aa-cf6a-4978-b4e5-e5f1e5fb36db",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

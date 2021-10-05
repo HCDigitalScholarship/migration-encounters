@@ -1,0 +1,12 @@
+{
+  "start":50213,
+  "end":50234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always\n   did good.",
+  "id":"1bfb16ab-5c00-40db-892e-c37c252ad95f",
+  "params":{
+    "id":"37bbd775-0ee3-41ce-ba6f-a7be888c67c8"
+  },
+  "name":"Daniel B"
+}

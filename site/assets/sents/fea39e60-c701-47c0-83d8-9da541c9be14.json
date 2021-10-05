@@ -1,0 +1,13 @@
+{
+  "start":35565,
+  "end":35630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then, one day, he\n   saw a sign that said, \"We need welders.\"",
+  "id":"fea39e60-c701-47c0-83d8-9da541c9be14",
+  "params":{
+    "id":"fea39e60-c701-47c0-83d8-9da541c9be14",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

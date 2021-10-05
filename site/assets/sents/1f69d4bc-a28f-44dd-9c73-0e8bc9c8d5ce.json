@@ -1,0 +1,13 @@
+{
+  "start":24746,
+  "end":24777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You asked him to take you back?",
+  "id":"1f69d4bc-a28f-44dd-9c73-0e8bc9c8d5ce",
+  "params":{
+    "id":"1f69d4bc-a28f-44dd-9c73-0e8bc9c8d5ce",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

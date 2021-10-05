@@ -1,0 +1,13 @@
+{
+  "start":44062,
+  "end":44126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pero yo\n     dec\u00eda, \u201cNo, yo no quiero que t\u00fa me los dejes solos.",
+  "id":"1f2bff84-799f-41b9-86c6-56a1b9b02973",
+  "params":{
+    "id":"1f2bff84-799f-41b9-86c6-56a1b9b02973",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

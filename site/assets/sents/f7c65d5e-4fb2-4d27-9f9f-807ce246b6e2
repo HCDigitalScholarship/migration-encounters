@@ -1,0 +1,12 @@
+{
+  "start":16329,
+  "end":16352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's people like me.",
+  "id":"f7c65d5e-4fb2-4d27-9f9f-807ce246b6e2",
+  "params":{
+    "id":"1c859c07-9b35-40b6-9a0c-934444d6501b"
+  },
+  "name":"Billy"
+}

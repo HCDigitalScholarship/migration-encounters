@@ -1,0 +1,13 @@
+{
+  "start":18939,
+  "end":19002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wonder, do you think she knew of your\n   undocumented status?",
+  "id":"9a3b2d17-106b-4a25-94a2-205474b39fec",
+  "params":{
+    "id":"9a3b2d17-106b-4a25-94a2-205474b39fec",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23423,
+  "end":23437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Super strange.",
+  "id":"57216019-5eaa-4d02-9d87-0c2c4bb425b9",
+  "params":{
+    "id":"57216019-5eaa-4d02-9d87-0c2c4bb425b9",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

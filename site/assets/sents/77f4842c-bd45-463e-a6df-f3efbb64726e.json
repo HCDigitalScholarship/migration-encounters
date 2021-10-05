@@ -1,0 +1,13 @@
+{
+  "start":10847,
+  "end":10861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   manager.",
+  "id":"77f4842c-bd45-463e-a6df-f3efbb64726e",
+  "params":{
+    "id":"77f4842c-bd45-463e-a6df-f3efbb64726e",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26442,
+  "end":26461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just playing.",
+  "id":"c0b873ec-6548-4a69-a3a3-d1d2d20834db",
+  "params":{
+    "id":"0f65fc1e-16bc-4ba1-b3af-14576d6b3def"
+  },
+  "name":"Noe"
+}

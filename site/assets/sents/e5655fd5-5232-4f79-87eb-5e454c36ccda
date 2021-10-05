@@ -1,0 +1,12 @@
+{
+  "start":2696,
+  "end":2797,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom kicked me out the house when I was 15,\n   because I couldn't have that around little brothers.",
+  "id":"e5655fd5-5232-4f79-87eb-5e454c36ccda",
+  "params":{
+    "id":"17b6ffc9-876e-4255-876b-d0f61a3e1078"
+  },
+  "name":"Donovan"
+}

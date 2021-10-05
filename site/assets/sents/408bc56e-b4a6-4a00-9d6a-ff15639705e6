@@ -1,0 +1,12 @@
+{
+  "start":34380,
+  "end":34385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"408bc56e-b4a6-4a00-9d6a-ff15639705e6",
+  "params":{
+    "id":"56030de6-0020-4da8-b95b-9f7ff8edb581"
+  },
+  "name":"Axel"
+}

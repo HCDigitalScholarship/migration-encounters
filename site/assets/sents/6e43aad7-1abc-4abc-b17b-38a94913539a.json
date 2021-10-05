@@ -1,0 +1,13 @@
+{
+  "start":14583,
+  "end":14630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How was your Spanish ability when you got here?",
+  "id":"6e43aad7-1abc-4abc-b17b-38a94913539a",
+  "params":{
+    "id":"6e43aad7-1abc-4abc-b17b-38a94913539a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

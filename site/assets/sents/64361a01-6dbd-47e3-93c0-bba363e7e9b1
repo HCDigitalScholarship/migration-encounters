@@ -1,0 +1,12 @@
+{
+  "start":24086,
+  "end":24099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long ago?",
+  "id":"64361a01-6dbd-47e3-93c0-bba363e7e9b1",
+  "params":{
+    "id":"f1979fbd-4b7c-4cf5-b973-7dfcecff4523"
+  },
+  "name":"Ben"
+}

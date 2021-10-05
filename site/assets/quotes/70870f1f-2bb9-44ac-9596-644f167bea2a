@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":27848,
+  "end":27861,
+  "text":"ne: This is Anne and I am doing a follow-up survey with Joseph.\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: And thank you for coming.\n   \n   \n     Joseph: It's been crazy.\n   \n   \n     Anne: This is our last hour doing interviews so I'm so glad you're\n     here.\n   \n   \n     Joseph: I know the guy downstairs told me, \"You're literally the last\n     guy we're going to...\" I'm like, \"Oh yes. Can you tell her th",
+  "label":"TIME",
+  "id":"70870f1f-2bb9-44ac-9596-644f167bea2a",
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15617,
+  "end":15641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you were smart.",
+  "id":"4c70df72-1fc6-4671-a06f-74bb1994e56e",
+  "params":{
+    "id":"7ef6a9a5-fd5d-4d4b-af5d-1653bf69a271"
+  },
+  "name":"Mike"
+}

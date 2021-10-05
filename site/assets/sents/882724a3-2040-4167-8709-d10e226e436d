@@ -1,0 +1,12 @@
+{
+  "start":14838,
+  "end":14883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said,\n   \"I should've never picked on you.",
+  "id":"882724a3-2040-4167-8709-d10e226e436d",
+  "params":{
+    "id":"426f62a3-5410-4e92-a7f4-27662c66ddfe"
+  },
+  "name":"Ruben"
+}

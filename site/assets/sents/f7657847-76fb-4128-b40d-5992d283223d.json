@@ -1,0 +1,13 @@
+{
+  "start":39816,
+  "end":39843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"I didn't know.\"",
+  "id":"f7657847-76fb-4128-b40d-5992d283223d",
+  "params":{
+    "id":"f7657847-76fb-4128-b40d-5992d283223d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

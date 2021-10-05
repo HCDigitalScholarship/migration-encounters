@@ -1,0 +1,13 @@
+{
+  "start":41467,
+  "end":41604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, something you got to\n     understand that you can't judge people just because you think it's\n     better on the other side, it's not.",
+  "id":"29596e06-291e-490c-b1a7-012c862a2c2e",
+  "params":{
+    "id":"29596e06-291e-490c-b1a7-012c862a2c2e",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

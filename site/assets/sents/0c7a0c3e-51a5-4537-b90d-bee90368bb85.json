@@ -1,0 +1,13 @@
+{
+  "start":42818,
+  "end":42832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n   ",
+  "id":"0c7a0c3e-51a5-4537-b90d-bee90368bb85",
+  "params":{
+    "id":"0c7a0c3e-51a5-4537-b90d-bee90368bb85",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

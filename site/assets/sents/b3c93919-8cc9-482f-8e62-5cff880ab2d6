@@ -1,0 +1,12 @@
+{
+  "start":7067,
+  "end":7070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"car",
+  "id":"b3c93919-8cc9-482f-8e62-5cff880ab2d6",
+  "params":{
+    "id":"3db0f721-b7bb-42fe-896c-18985f240d45"
+  },
+  "name":"Carlos"
+}

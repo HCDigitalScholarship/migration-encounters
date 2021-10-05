@@ -1,0 +1,12 @@
+{
+  "start":17695,
+  "end":17723,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I appreciate it,\n   Roberto.",
+  "id":"3b96f6e9-e24a-49b5-a0f2-ec4398edb255",
+  "params":{
+    "id":"d183ca88-9d0a-4bdc-96fa-6bc168f90896"
+  },
+  "name":"Roberto"
+}

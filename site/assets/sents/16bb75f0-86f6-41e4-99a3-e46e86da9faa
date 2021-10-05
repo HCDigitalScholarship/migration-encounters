@@ -1,0 +1,12 @@
+{
+  "start":42366,
+  "end":42380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not all of us.",
+  "id":"16bb75f0-86f6-41e4-99a3-e46e86da9faa",
+  "params":{
+    "id":"7c8dbf99-b190-45f4-b4a5-09199d9e5847"
+  },
+  "name":"Sylent"
+}

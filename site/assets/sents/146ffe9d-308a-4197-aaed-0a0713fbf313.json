@@ -1,0 +1,13 @@
+{
+  "start":18485,
+  "end":18509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n   super scared.",
+  "id":"146ffe9d-308a-4197-aaed-0a0713fbf313",
+  "params":{
+    "id":"146ffe9d-308a-4197-aaed-0a0713fbf313",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

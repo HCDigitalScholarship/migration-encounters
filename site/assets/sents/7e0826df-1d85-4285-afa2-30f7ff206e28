@@ -1,0 +1,12 @@
+{
+  "start":7202,
+  "end":7227,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what happened to you?",
+  "id":"7e0826df-1d85-4285-afa2-30f7ff206e28",
+  "params":{
+    "id":"afffebd9-8622-4d48-97e3-305f47ee20be"
+  },
+  "name":"Erik"
+}

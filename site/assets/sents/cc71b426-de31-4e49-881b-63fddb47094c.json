@@ -1,0 +1,13 @@
+{
+  "start":11560,
+  "end":11582,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you start college?",
+  "id":"cc71b426-de31-4e49-881b-63fddb47094c",
+  "params":{
+    "id":"cc71b426-de31-4e49-881b-63fddb47094c",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

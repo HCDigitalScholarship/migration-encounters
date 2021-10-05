@@ -1,0 +1,13 @@
+{
+  "start":2154,
+  "end":2184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when I got\n   older, yeah.",
+  "id":"80febfa4-681b-4a81-9b0b-5024c12c26f3",
+  "params":{
+    "id":"80febfa4-681b-4a81-9b0b-5024c12c26f3",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

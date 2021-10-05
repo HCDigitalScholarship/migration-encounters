@@ -1,0 +1,13 @@
+{
+  "start":15180,
+  "end":15197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're American.\"",
+  "id":"f4c06061-3f34-42ca-a174-30ef9c5762c8",
+  "params":{
+    "id":"f4c06061-3f34-42ca-a174-30ef9c5762c8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

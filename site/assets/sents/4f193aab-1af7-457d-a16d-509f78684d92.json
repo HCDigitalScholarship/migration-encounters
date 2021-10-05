@@ -1,0 +1,13 @@
+{
+  "start":7501,
+  "end":7528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything was really nice.",
+  "id":"4f193aab-1af7-457d-a16d-509f78684d92",
+  "params":{
+    "id":"4f193aab-1af7-457d-a16d-509f78684d92",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1976,
+  "end":2044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes you're just young and\n   you don't know what you're doing.",
+  "id":"a9aa6d3b-b6ca-4076-885f-7de9a7ea8731",
+  "params":{
+    "id":"a9aa6d3b-b6ca-4076-885f-7de9a7ea8731",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

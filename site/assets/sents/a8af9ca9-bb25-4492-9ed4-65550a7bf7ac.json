@@ -1,0 +1,13 @@
+{
+  "start":29256,
+  "end":29331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Friends\n   telling me, \"Hey, teach me English,\" or including meeting girls.",
+  "id":"a8af9ca9-bb25-4492-9ed4-65550a7bf7ac",
+  "params":{
+    "id":"a8af9ca9-bb25-4492-9ed4-65550a7bf7ac",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

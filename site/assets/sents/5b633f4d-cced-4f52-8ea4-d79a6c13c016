@@ -1,0 +1,12 @@
+{
+  "start":1594,
+  "end":1634,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many years did you work in the U.S.?",
+  "id":"5b633f4d-cced-4f52-8ea4-d79a6c13c016",
+  "params":{
+    "id":"56a04e28-2a92-4e9b-84d0-fa72ed7523fc"
+  },
+  "name":"Ivan"
+}

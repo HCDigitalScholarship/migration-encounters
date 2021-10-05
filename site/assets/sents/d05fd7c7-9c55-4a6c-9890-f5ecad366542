@@ -1,0 +1,12 @@
+{
+  "start":16093,
+  "end":16112,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't pay for it.",
+  "id":"d05fd7c7-9c55-4a6c-9890-f5ecad366542",
+  "params":{
+    "id":"e4b11da1-5508-4877-b2f4-484ad39ccd69"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1530,
+  "end":1535,
+  "text":"ita: When you were five, you went from Veracruz to the United States?\n \n \n   Joana: To the United States, to ___ North Carolina.\n \n \n   Anita: To ____ North Carolina.\n \n \n   Joana: Yes, ma'am.\n \n \n   Anita: Got it. And you went with who?\n \n \n   Joana: With my mom.\n \n \n   Anita: With your mom.\n \n \n   Joana: Yes.\n \n \n   Anita: But not with your dad?\n \n \n   Joana: No.\n \n \n   Anita: Where was your dad?\n \n ",
+  "label":"PERSON",
+  "id":"98aa472a-123c-4280-ab1a-aa294a223f8e",
+  "name":"Joana"
+}

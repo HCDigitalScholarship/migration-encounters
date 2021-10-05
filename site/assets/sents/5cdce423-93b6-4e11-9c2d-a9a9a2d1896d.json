@@ -1,0 +1,13 @@
+{
+  "start":26333,
+  "end":26350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that way.",
+  "id":"5cdce423-93b6-4e11-9c2d-a9a9a2d1896d",
+  "params":{
+    "id":"5cdce423-93b6-4e11-9c2d-a9a9a2d1896d",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

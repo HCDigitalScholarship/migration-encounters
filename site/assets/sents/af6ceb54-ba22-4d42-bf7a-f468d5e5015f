@@ -1,0 +1,12 @@
+{
+  "start":5940,
+  "end":5973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: That's great.\n \n \n   Edgar:",
+  "id":"af6ceb54-ba22-4d42-bf7a-f468d5e5015f",
+  "params":{
+    "id":"a2c73c68-7164-4eaa-b375-9e929edb759a"
+  },
+  "name":"Edgar"
+}

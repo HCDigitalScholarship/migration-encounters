@@ -1,0 +1,13 @@
+{
+  "start":4467,
+  "end":4491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got two kids actually.",
+  "id":"2c4297cc-67d5-4a7c-8d48-abd9eb6afa90",
+  "params":{
+    "id":"2c4297cc-67d5-4a7c-8d48-abd9eb6afa90",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

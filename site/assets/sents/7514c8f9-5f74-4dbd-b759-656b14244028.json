@@ -1,0 +1,13 @@
+{
+  "start":42004,
+  "end":42077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pero nunca\n     le contestes a mami o papi, porque Dios te va a castigar\u201d",
+  "id":"7514c8f9-5f74-4dbd-b759-656b14244028",
+  "params":{
+    "id":"7514c8f9-5f74-4dbd-b759-656b14244028",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

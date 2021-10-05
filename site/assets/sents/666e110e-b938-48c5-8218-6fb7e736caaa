@@ -1,0 +1,12 @@
+{
+  "start":16169,
+  "end":16184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It will happen.",
+  "id":"666e110e-b938-48c5-8218-6fb7e736caaa",
+  "params":{
+    "id":"5ba360e0-4232-47b3-a761-506103281a82"
+  },
+  "name":"Hugo"
+}

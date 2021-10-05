@@ -1,0 +1,13 @@
+{
+  "start":8703,
+  "end":8750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people from Chicago started coming in.",
+  "id":"85fb106a-0d94-4ddb-b35c-9549f1846bb8",
+  "params":{
+    "id":"85fb106a-0d94-4ddb-b35c-9549f1846bb8",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

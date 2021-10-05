@@ -1,0 +1,13 @@
+{
+  "start":6535,
+  "end":6552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it was fun.",
+  "id":"1d6b0df4-66a7-439b-bf7e-c3387d3fec4c",
+  "params":{
+    "id":"1d6b0df4-66a7-439b-bf7e-c3387d3fec4c",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30115,
+  "end":30229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just every time that maybe I did something wrong, she would be\n   like, \"Don't do this because this could happen.\"",
+  "id":"61e3abef-93e6-443d-a5eb-27b1ecdab7a9",
+  "params":{
+    "id":"61e3abef-93e6-443d-a5eb-27b1ecdab7a9",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24119,
+  "end":24167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I paid my taxes, I went to school there.",
+  "id":"bb6af95b-7b36-46a7-987d-d9ac8ee31730",
+  "params":{
+    "id":"bb6af95b-7b36-46a7-987d-d9ac8ee31730",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

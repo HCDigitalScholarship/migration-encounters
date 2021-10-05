@@ -1,0 +1,15 @@
+{
+  "start":17387,
+  "end":17411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It happens all the time?",
+  "id":"6a378773-c685-4adf-bd9e-12bed495964f",
+  "params":{
+    "id":"6a378773-c685-4adf-bd9e-12bed495964f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

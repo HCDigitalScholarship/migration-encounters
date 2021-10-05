@@ -1,0 +1,12 @@
+{
+  "start":997,
+  "end":1052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad passed away when\n   we were four in a car crash.",
+  "id":"4a1b4ca3-ab4d-461d-8c99-71c15fb482b2",
+  "params":{
+    "id":"84829e97-1374-46f4-8a8b-c24ae78fc465"
+  },
+  "name":"Donovan"
+}

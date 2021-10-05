@@ -1,0 +1,12 @@
+{
+  "start":234,
+  "end":257,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So anyway, let's start.",
+  "id":"8162c81b-6623-4027-808b-74e05bee8b18",
+  "params":{
+    "id":"43acda97-b326-4c4e-841d-767900561bc7"
+  },
+  "name":"Axel"
+}

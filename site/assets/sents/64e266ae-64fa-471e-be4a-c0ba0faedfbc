@@ -1,0 +1,12 @@
+{
+  "start":12211,
+  "end":12235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, when I gave my",
+  "id":"64e266ae-64fa-471e-be4a-c0ba0faedfbc",
+  "params":{
+    "id":"8650c458-dc79-4f97-8f64-26eafa7121e4"
+  },
+  "name":"Frank"
+}

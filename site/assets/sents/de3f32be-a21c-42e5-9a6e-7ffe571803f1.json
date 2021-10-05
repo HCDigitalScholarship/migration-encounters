@@ -1,0 +1,13 @@
+{
+  "start":9990,
+  "end":10005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Olimpya: Great.",
+  "id":"de3f32be-a21c-42e5-9a6e-7ffe571803f1",
+  "params":{
+    "id":"de3f32be-a21c-42e5-9a6e-7ffe571803f1",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

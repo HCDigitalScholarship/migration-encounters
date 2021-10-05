@@ -1,0 +1,12 @@
+{
+  "start":4300,
+  "end":4339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they all go with you to the states?",
+  "id":"c42d22b5-73ba-4b15-847d-351cf523cbc0",
+  "params":{
+    "id":"31f5bdf1-0fdd-43f7-bc05-09270ce41dcc"
+  },
+  "name":"Ivan B"
+}

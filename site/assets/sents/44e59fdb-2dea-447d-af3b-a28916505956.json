@@ -1,0 +1,13 @@
+{
+  "start":8699,
+  "end":8737,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   thought it was the best for me.",
+  "id":"44e59fdb-2dea-447d-af3b-a28916505956",
+  "params":{
+    "id":"44e59fdb-2dea-447d-af3b-a28916505956",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3276,
+  "end":3310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did that work out, the restaurant?",
+  "id":"94bd7272-044a-484c-80b9-7e4fc788abf1",
+  "params":{
+    "id":"83ac43e7-a827-42a1-ae26-0ea4099dd412"
+  },
+  "name":"Brenda"
+}

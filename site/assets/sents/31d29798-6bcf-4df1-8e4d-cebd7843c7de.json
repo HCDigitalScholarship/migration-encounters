@@ -1,0 +1,13 @@
+{
+  "start":31019,
+  "end":31029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like what?",
+  "id":"31d29798-6bcf-4df1-8e4d-cebd7843c7de",
+  "params":{
+    "id":"31d29798-6bcf-4df1-8e4d-cebd7843c7de",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

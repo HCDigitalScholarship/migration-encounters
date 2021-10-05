@@ -1,0 +1,13 @@
+{
+  "start":22618,
+  "end":22728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you were living in the US, you said you came back here\n   because you didn't see any future in the US.",
+  "id":"a8902ae3-79a6-488b-856c-8bfe1a5f0c7f",
+  "params":{
+    "id":"a8902ae3-79a6-488b-856c-8bfe1a5f0c7f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

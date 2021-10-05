@@ -1,0 +1,13 @@
+{
+  "start":38560,
+  "end":38659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're living in a country which is not first world like the U.S.,\n and they know that themselves.",
+  "id":"d11a83d4-39ef-48a2-8b88-01c28b2012f5",
+  "params":{
+    "id":"d11a83d4-39ef-48a2-8b88-01c28b2012f5",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6196,
+  "end":6217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to go here.\"",
+  "id":"6df2ab5f-a843-40b1-9eb4-1fa97da63c64",
+  "params":{
+    "id":"1dda50b0-ed89-43cd-8581-5d97c5fba5cc"
+  },
+  "name":"Sylent"
+}

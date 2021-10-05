@@ -1,0 +1,13 @@
+{
+  "start":16118,
+  "end":16193,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The adjustment was tough because you were still\n   mourning-\n \n \n   Joseph:",
+  "id":"10164be1-2f19-4159-aa4c-1a8f63ebd85a",
+  "params":{
+    "id":"10164be1-2f19-4159-aa4c-1a8f63ebd85a",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21028,
+  "end":21046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jose: Or resident.",
+  "id":"b9535ad6-228a-43b9-91fc-177731163608",
+  "params":{
+    "id":"b9535ad6-228a-43b9-91fc-177731163608",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

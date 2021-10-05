@@ -1,0 +1,12 @@
+{
+  "start":5577,
+  "end":5626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   remember that every time I think about that.",
+  "id":"1304c8ac-32b5-4eac-b9ce-8a566a99fbbc",
+  "params":{
+    "id":"0c4ac42f-a41d-4b70-8d85-041f54af7a4c"
+  },
+  "name":"Mike"
+}

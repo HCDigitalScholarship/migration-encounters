@@ -1,0 +1,12 @@
+{
+  "start":21661,
+  "end":21699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long did it take you to get a job?",
+  "id":"cae85b48-5dc3-4bd6-8cee-b458a1de020a",
+  "params":{
+    "id":"4eee85a3-064b-4d47-a906-713309dfc83c"
+  },
+  "name":"Jose"
+}

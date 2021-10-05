@@ -1,0 +1,13 @@
+{
+  "start":18830,
+  "end":18904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to go to\n   the city in Little Rock, which is the city in Arkansas.",
+  "id":"bb393d15-7d16-4252-a873-2e1cb7da9816",
+  "params":{
+    "id":"bb393d15-7d16-4252-a873-2e1cb7da9816",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

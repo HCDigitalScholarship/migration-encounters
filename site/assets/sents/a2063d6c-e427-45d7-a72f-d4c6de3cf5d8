@@ -1,0 +1,12 @@
+{
+  "start":6540,
+  "end":6564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   He was on the phone.",
+  "id":"a2063d6c-e427-45d7-a72f-d4c6de3cf5d8",
+  "params":{
+    "id":"b32680f0-44d6-4baa-86b6-9c6b6006a032"
+  },
+  "name":"Kevin"
+}

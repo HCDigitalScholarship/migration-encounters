@@ -1,0 +1,12 @@
+{
+  "start":987,
+  "end":1023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: And how did you learn English?",
+  "id":"5904b1be-db3f-478f-a1ba-c8ebe415e64b",
+  "params":{
+    "id":"3f9512b6-fb5f-4901-98c2-930aba90c571"
+  },
+  "name":"Ben"
+}

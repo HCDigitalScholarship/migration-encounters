@@ -1,0 +1,13 @@
+{
+  "start":6023,
+  "end":6063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, we lived there in Cali for a year.",
+  "id":"76152c70-8202-4bd9-9f8f-7baca6ce2835",
+  "params":{
+    "id":"76152c70-8202-4bd9-9f8f-7baca6ce2835",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

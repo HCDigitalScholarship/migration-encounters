@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":51,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you went to the US?",
+  "id":"b6483e82-9f6d-49af-b10e-e9c6ae957061",
+  "params":{
+    "id":"f599c370-231d-4fba-b10b-91166d01998b"
+  },
+  "name":"Laura A"
+}

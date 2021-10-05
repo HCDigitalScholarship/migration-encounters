@@ -1,0 +1,13 @@
+{
+  "start":29078,
+  "end":29125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who wants to be a teacher of other\n   children?",
+  "id":"cfb54861-259e-42d7-af16-089387e3ed64",
+  "params":{
+    "id":"cfb54861-259e-42d7-af16-089387e3ed64",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

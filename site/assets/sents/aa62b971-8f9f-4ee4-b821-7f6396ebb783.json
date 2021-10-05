@@ -1,0 +1,13 @@
+{
+  "start":8906,
+  "end":8978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was my\n mom trying to ask, \u201cWhat's wrong with her? What can they do?\u201d",
+  "id":"aa62b971-8f9f-4ee4-b821-7f6396ebb783",
+  "params":{
+    "id":"aa62b971-8f9f-4ee4-b821-7f6396ebb783",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

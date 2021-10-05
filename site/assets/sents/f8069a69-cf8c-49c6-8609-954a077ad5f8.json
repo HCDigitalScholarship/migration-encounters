@@ -1,0 +1,13 @@
+{
+  "start":3192,
+  "end":3235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was apartment, it was a small apartment.",
+  "id":"f8069a69-cf8c-49c6-8609-954a077ad5f8",
+  "params":{
+    "id":"f8069a69-cf8c-49c6-8609-954a077ad5f8",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

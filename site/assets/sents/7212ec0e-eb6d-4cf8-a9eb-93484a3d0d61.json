@@ -1,0 +1,13 @@
+{
+  "start":26971,
+  "end":26991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   okay though.",
+  "id":"7212ec0e-eb6d-4cf8-a9eb-93484a3d0d61",
+  "params":{
+    "id":"7212ec0e-eb6d-4cf8-a9eb-93484a3d0d61",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

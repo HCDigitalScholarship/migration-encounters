@@ -1,0 +1,13 @@
+{
+  "start":21486,
+  "end":21536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Some beans, I don't\n     know, something Mexican.",
+  "id":"9ecfbe43-7e31-4ca6-a77f-de66183ce341",
+  "params":{
+    "id":"9ecfbe43-7e31-4ca6-a77f-de66183ce341",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

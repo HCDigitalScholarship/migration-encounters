@@ -1,0 +1,13 @@
+{
+  "start":8195,
+  "end":8205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're 18.",
+  "id":"f5a3011b-1236-4892-84ef-8aebe16d535a",
+  "params":{
+    "id":"f5a3011b-1236-4892-84ef-8aebe16d535a",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

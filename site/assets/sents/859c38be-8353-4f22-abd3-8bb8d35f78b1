@@ -1,0 +1,12 @@
+{
+  "start":30560,
+  "end":30580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me ask you that.",
+  "id":"859c38be-8353-4f22-abd3-8bb8d35f78b1",
+  "params":{
+    "id":"990668e0-beb2-47d5-bb09-7a86bd1bf1d1"
+  },
+  "name":"Joana"
+}

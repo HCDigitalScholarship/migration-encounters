@@ -1,0 +1,13 @@
+{
+  "start":23731,
+  "end":23799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But since the recessions of 2008, the wages haven't gone up as much.",
+  "id":"d5f02e9e-6367-4dcd-9e93-1377dbac815d",
+  "params":{
+    "id":"d5f02e9e-6367-4dcd-9e93-1377dbac815d",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

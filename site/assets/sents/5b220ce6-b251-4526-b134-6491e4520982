@@ -1,0 +1,12 @@
+{
+  "start":52241,
+  "end":52256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm in Mexico.\"",
+  "id":"5b220ce6-b251-4526-b134-6491e4520982",
+  "params":{
+    "id":"90a6af58-0cac-4a4a-b818-5cacef42bd80"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18825,
+  "end":18903,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's living in Atlanta now by the way, or he was\n when I talked to his cousin.",
+  "id":"ac74d7ea-70d8-4479-98b5-d419ceb08240",
+  "params":{
+    "id":"ac74d7ea-70d8-4479-98b5-d419ceb08240",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

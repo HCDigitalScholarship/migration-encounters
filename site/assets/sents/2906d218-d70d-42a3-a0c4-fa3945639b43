@@ -1,0 +1,12 @@
+{
+  "start":2008,
+  "end":2040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Should I continue, or what else?",
+  "id":"2906d218-d70d-42a3-a0c4-fa3945639b43",
+  "params":{
+    "id":"f1d09d0c-e265-49a6-a825-ceac77b92f68"
+  },
+  "name":"Luis A"
+}

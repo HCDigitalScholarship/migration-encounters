@@ -1,0 +1,13 @@
+{
+  "start":35314,
+  "end":35355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She let me know that, \"You know what?\n   ",
+  "id":"01f8b768-6879-4756-a21e-ef4dc5ec0aa5",
+  "params":{
+    "id":"01f8b768-6879-4756-a21e-ef4dc5ec0aa5",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

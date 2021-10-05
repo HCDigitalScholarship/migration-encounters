@@ -1,0 +1,13 @@
+{
+  "start":28646,
+  "end":28661,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my mom.",
+  "id":"a29ec126-98ea-4cd0-87e1-76cb0f0d1758",
+  "params":{
+    "id":"a29ec126-98ea-4cd0-87e1-76cb0f0d1758",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

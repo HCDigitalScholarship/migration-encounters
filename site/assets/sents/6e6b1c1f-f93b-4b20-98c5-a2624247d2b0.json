@@ -1,0 +1,13 @@
+{
+  "start":37161,
+  "end":37245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She felt guilty that she didn't allow me to apply for DACA, so\n   she's like, \"Okay.",
+  "id":"6e6b1c1f-f93b-4b20-98c5-a2624247d2b0",
+  "params":{
+    "id":"6e6b1c1f-f93b-4b20-98c5-a2624247d2b0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

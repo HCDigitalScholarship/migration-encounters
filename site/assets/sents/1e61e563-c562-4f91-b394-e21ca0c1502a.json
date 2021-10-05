@@ -1,0 +1,13 @@
+{
+  "start":11472,
+  "end":11504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They actually gave me bond here.",
+  "id":"1e61e563-c562-4f91-b394-e21ca0c1502a",
+  "params":{
+    "id":"1e61e563-c562-4f91-b394-e21ca0c1502a",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

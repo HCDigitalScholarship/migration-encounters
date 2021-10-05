@@ -1,0 +1,13 @@
+{
+  "start":24073,
+  "end":24100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you finish high school?",
+  "id":"19369987-11c2-470b-bf44-ba330b9a8674",
+  "params":{
+    "id":"19369987-11c2-470b-bf44-ba330b9a8674",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

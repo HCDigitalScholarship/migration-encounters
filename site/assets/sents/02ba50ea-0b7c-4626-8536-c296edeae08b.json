@@ -1,0 +1,13 @@
+{
+  "start":29376,
+  "end":29396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just the driver.",
+  "id":"02ba50ea-0b7c-4626-8536-c296edeae08b",
+  "params":{
+    "id":"02ba50ea-0b7c-4626-8536-c296edeae08b",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

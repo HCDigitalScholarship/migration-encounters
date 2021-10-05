@@ -1,0 +1,13 @@
+{
+  "start":32706,
+  "end":32755,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got the IB program, which was great [Chuckles].",
+  "id":"e4c0c6b1-96c5-4152-a8b1-19f9779f99e3",
+  "params":{
+    "id":"e4c0c6b1-96c5-4152-a8b1-19f9779f99e3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

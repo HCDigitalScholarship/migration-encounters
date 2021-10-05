@@ -1,0 +1,15 @@
+{
+  "start":14357,
+  "end":14411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They'll\n   never know what they\u2019re fucking doing here.",
+  "id":"b863d4d9-a4bc-4db9-982f-82a503e198df",
+  "params":{
+    "id":"b863d4d9-a4bc-4db9-982f-82a503e198df",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

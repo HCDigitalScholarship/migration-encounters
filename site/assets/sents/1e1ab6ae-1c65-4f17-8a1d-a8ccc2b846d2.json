@@ -1,0 +1,12 @@
+{
+  "start":9134,
+  "end":9193,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you spent your whole time in elementary school in ____?",
+  "id":"1e1ab6ae-1c65-4f17-8a1d-a8ccc2b846d2",
+  "params":{
+    "id":"bfdacc14-2226-4a94-830f-600020502ca3"
+  },
+  "name":"Joana"
+}

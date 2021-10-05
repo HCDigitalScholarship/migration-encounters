@@ -1,0 +1,13 @@
+{
+  "start":38117,
+  "end":38140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was\n   it your meeting?",
+  "id":"1f750814-8344-4f4b-85b5-158be684852a",
+  "params":{
+    "id":"1f750814-8344-4f4b-85b5-158be684852a",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

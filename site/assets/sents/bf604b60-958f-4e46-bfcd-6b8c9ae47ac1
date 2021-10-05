@@ -1,0 +1,12 @@
+{
+  "start":9582,
+  "end":9599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean?",
+  "id":"bf604b60-958f-4e46-bfcd-6b8c9ae47ac1",
+  "params":{
+    "id":"cdcb0173-64b9-4d8a-a74f-bbca836f1a0d"
+  },
+  "name":"Valeria"
+}

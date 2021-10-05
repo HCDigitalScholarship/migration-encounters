@@ -1,0 +1,12 @@
+{
+  "start":32024,
+  "end":32127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Okay, don't worry, we'll call you in a minute and you'll\n have your order ready.\"\n      \n      \n Axel:",
+  "id":"310d3f2e-9ff8-4d57-aaa9-8d8aa7efd30a",
+  "params":{
+    "id":"c97359bc-0d63-4d20-a510-0828d2eddab3"
+  },
+  "name":"Axel"
+}

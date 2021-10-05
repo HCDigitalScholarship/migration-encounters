@@ -1,0 +1,13 @@
+{
+  "start":13699,
+  "end":13761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I probably could've, maybe it was\n a mistake, we could've won.",
+  "id":"afdcac3f-9a74-46c9-8298-b61350830a0c",
+  "params":{
+    "id":"afdcac3f-9a74-46c9-8298-b61350830a0c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

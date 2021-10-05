@@ -1,0 +1,12 @@
+{
+  "start":8128,
+  "end":8171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, we went to ____, really close to ____.",
+  "id":"c652ca6d-72e5-4432-8b32-1b725fd64d09",
+  "params":{
+    "id":"b0dd9706-251e-4e5a-9e32-58ed0f99eb7f"
+  },
+  "name":"Luis A"
+}

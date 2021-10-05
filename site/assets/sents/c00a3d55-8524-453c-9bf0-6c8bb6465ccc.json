@@ -1,0 +1,13 @@
+{
+  "start":18334,
+  "end":18346,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Walked away.",
+  "id":"c00a3d55-8524-453c-9bf0-6c8bb6465ccc",
+  "params":{
+    "id":"c00a3d55-8524-453c-9bf0-6c8bb6465ccc",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

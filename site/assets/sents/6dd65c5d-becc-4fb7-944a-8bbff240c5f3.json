@@ -1,0 +1,13 @@
+{
+  "start":19080,
+  "end":19096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But not to live.",
+  "id":"6dd65c5d-becc-4fb7-944a-8bbff240c5f3",
+  "params":{
+    "id":"6dd65c5d-becc-4fb7-944a-8bbff240c5f3",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

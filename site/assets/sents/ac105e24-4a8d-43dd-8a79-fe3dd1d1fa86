@@ -1,0 +1,12 @@
+{
+  "start":30006,
+  "end":30028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You used a metaphor --",
+  "id":"ac105e24-4a8d-43dd-8a79-fe3dd1d1fa86",
+  "params":{
+    "id":"7872120a-37bc-4f51-afaa-9ec2545624f7"
+  },
+  "name":"Luisa"
+}

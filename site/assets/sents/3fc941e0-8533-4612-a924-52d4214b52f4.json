@@ -1,0 +1,13 @@
+{
+  "start":33809,
+  "end":33824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not short.\"",
+  "id":"3fc941e0-8533-4612-a924-52d4214b52f4",
+  "params":{
+    "id":"3fc941e0-8533-4612-a924-52d4214b52f4",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

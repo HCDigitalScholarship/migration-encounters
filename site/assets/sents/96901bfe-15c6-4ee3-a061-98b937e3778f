@@ -1,0 +1,12 @@
+{
+  "start":5530,
+  "end":5554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   helped me a lot.",
+  "id":"96901bfe-15c6-4ee3-a061-98b937e3778f",
+  "params":{
+    "id":"ad7b414c-2284-4af2-baaa-77dec6aa7cb4"
+  },
+  "name":"Rodrigo"
+}

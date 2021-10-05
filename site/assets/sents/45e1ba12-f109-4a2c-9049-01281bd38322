@@ -1,0 +1,12 @@
+{
+  "start":24996,
+  "end":25037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You just trying to butter me up man.\"",
+  "id":"45e1ba12-f109-4a2c-9049-01281bd38322",
+  "params":{
+    "id":"65c545c2-f6eb-442c-870b-d5a223f84fad"
+  },
+  "name":"Mike"
+}

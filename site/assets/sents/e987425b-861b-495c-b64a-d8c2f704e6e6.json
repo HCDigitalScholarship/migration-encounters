@@ -1,0 +1,13 @@
+{
+  "start":8918,
+  "end":8937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the\n U.S. it is.",
+  "id":"e987425b-861b-495c-b64a-d8c2f704e6e6",
+  "params":{
+    "id":"e987425b-861b-495c-b64a-d8c2f704e6e6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

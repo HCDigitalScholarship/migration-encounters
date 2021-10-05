@@ -1,0 +1,12 @@
+{
+  "start":13180,
+  "end":13211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were those two years like?",
+  "id":"f04f9f92-b0bc-44eb-9a42-0df364887193",
+  "params":{
+    "id":"fa8aa185-5cbb-4111-947b-c20beaff892f"
+  },
+  "name":"Kevin"
+}

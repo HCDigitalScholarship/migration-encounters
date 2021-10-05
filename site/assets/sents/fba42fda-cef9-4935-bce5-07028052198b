@@ -1,0 +1,12 @@
+{
+  "start":30039,
+  "end":30103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They tried to make changes in the past, but it hasn't\n   worked.",
+  "id":"fba42fda-cef9-4935-bce5-07028052198b",
+  "params":{
+    "id":"2ad35488-2a8b-45e8-aa33-af318e49fc6a"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5555,
+  "end":5639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did a lot of construction projects all throughout\n the Midwest and eastern seaboard.",
+  "id":"3f11809c-4d03-4bce-903d-f253e20cb123",
+  "params":{
+    "id":"2d2fcaad-fe38-4f9c-8c00-b6f2e6a73cdd"
+  },
+  "name":"Ben"
+}

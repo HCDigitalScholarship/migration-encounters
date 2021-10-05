@@ -1,0 +1,12 @@
+{
+  "start":35460,
+  "end":35541,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Man, maybe I should just sit on a corner and\n put a hat out you know?\"",
+  "id":"cfb7bf46-8d72-414d-8f67-620233666730",
+  "params":{
+    "id":"b57c65fd-959f-447d-a1a3-8e37df7829e0"
+  },
+  "name":"Billy"
+}

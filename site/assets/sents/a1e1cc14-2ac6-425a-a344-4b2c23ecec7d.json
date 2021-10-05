@@ -1,0 +1,13 @@
+{
+  "start":3655,
+  "end":3667,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were 13.",
+  "id":"a1e1cc14-2ac6-425a-a344-4b2c23ecec7d",
+  "params":{
+    "id":"a1e1cc14-2ac6-425a-a344-4b2c23ecec7d",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

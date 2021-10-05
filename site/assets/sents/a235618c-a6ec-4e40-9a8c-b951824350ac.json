@@ -1,0 +1,13 @@
+{
+  "start":10570,
+  "end":10616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was subscribed\n   with an insurance company.",
+  "id":"a235618c-a6ec-4e40-9a8c-b951824350ac",
+  "params":{
+    "id":"a235618c-a6ec-4e40-9a8c-b951824350ac",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

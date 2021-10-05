@@ -1,0 +1,12 @@
+{
+  "start":2222,
+  "end":2258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He actually went to\n   Desert Storm.",
+  "id":"85f13a65-92e9-4bed-ab20-426c4a65d768",
+  "params":{
+    "id":"0662fad8-3fc6-4e19-b808-9618bf150d23"
+  },
+  "name":"Joseph"
+}

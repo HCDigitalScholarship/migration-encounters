@@ -1,0 +1,13 @@
+{
+  "start":23040,
+  "end":23085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were pretty much graduating high school.",
+  "id":"f74fd5f2-a965-4782-9d96-a9a21b7663fc",
+  "params":{
+    "id":"f74fd5f2-a965-4782-9d96-a9a21b7663fc",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

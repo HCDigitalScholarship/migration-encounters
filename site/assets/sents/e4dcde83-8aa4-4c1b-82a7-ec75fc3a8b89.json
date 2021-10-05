@@ -1,0 +1,13 @@
+{
+  "start":5771,
+  "end":5788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you nervous?",
+  "id":"e4dcde83-8aa4-4c1b-82a7-ec75fc3a8b89",
+  "params":{
+    "id":"e4dcde83-8aa4-4c1b-82a7-ec75fc3a8b89",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

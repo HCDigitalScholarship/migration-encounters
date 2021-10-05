@@ -1,0 +1,13 @@
+{
+  "start":30493,
+  "end":30590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They sent a\n   lawyer to try to help me out with this case, and the lawyer got there and\n   he...",
+  "id":"e67fe6da-4846-4162-9dcb-06c1667fbf76",
+  "params":{
+    "id":"e67fe6da-4846-4162-9dcb-06c1667fbf76",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

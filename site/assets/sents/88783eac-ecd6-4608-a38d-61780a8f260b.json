@@ -1,0 +1,13 @@
+{
+  "start":48206,
+  "end":48220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Cris laughs].",
+  "id":"88783eac-ecd6-4608-a38d-61780a8f260b",
+  "params":{
+    "id":"88783eac-ecd6-4608-a38d-61780a8f260b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":69736,
+  "end":69754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n They can say it.",
+  "id":"4d44ce94-aa25-4846-a03e-611955f1af24",
+  "params":{
+    "id":"4098e7ce-73fa-48d4-acbc-372cb3834e42"
+  },
+  "name":"Axel"
+}

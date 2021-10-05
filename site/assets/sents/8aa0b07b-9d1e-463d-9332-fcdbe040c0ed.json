@@ -1,0 +1,13 @@
+{
+  "start":6215,
+  "end":6314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if I didn't speak English right, they wouldn't\n   tell me anything because I was their friend.",
+  "id":"8aa0b07b-9d1e-463d-9332-fcdbe040c0ed",
+  "params":{
+    "id":"8aa0b07b-9d1e-463d-9332-fcdbe040c0ed",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10935,
+  "end":10961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to\n   stick around.",
+  "id":"e1432448-7b4f-4c60-8ca4-798bcc613d40",
+  "params":{
+    "id":"e1432448-7b4f-4c60-8ca4-798bcc613d40",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

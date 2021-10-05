@@ -1,0 +1,13 @@
+{
+  "start":5602,
+  "end":5624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many times a year?",
+  "id":"3e9684e2-fd6e-44d1-b1f9-c236b28f5e83",
+  "params":{
+    "id":"3e9684e2-fd6e-44d1-b1f9-c236b28f5e83",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

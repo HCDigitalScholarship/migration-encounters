@@ -1,0 +1,12 @@
+{
+  "start":52243,
+  "end":52284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just said that it was random checks.",
+  "id":"1d2c5f97-10e2-4124-9fcf-ca13320ce55e",
+  "params":{
+    "id":"7d4cf3d6-1f3a-406e-974e-b0339edf8e64"
+  },
+  "name":"Axel"
+}

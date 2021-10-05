@@ -1,0 +1,12 @@
+{
+  "start":23723,
+  "end":23785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like the American breakfast with\n     sausages and bacon.",
+  "id":"5a88f86c-f27c-4f7d-b7f7-9a6713d96971",
+  "params":{
+    "id":"6a829dc6-deca-403b-920e-8aae4a6fcf09"
+  },
+  "name":"Beto"
+}

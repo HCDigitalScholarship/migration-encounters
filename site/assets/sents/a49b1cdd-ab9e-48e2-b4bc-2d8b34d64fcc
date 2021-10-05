@@ -1,0 +1,12 @@
+{
+  "start":9730,
+  "end":9828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my mom decided just to come\n   back over here in the city, just to get surgery, and she did.",
+  "id":"a49b1cdd-ab9e-48e2-b4bc-2d8b34d64fcc",
+  "params":{
+    "id":"8ae6287c-e23e-4616-9f61-32907acb07cf"
+  },
+  "name":"Yair"
+}

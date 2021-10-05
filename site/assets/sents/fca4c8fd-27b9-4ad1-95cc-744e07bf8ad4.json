@@ -1,0 +1,13 @@
+{
+  "start":73046,
+  "end":73074,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because\n   I got to go back.",
+  "id":"fca4c8fd-27b9-4ad1-95cc-744e07bf8ad4",
+  "params":{
+    "id":"fca4c8fd-27b9-4ad1-95cc-744e07bf8ad4",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2980,
+  "end":3001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it hard to leave?",
+  "id":"649fe4fb-7495-43df-a9ac-4982c5529965",
+  "params":{
+    "id":"649fe4fb-7495-43df-a9ac-4982c5529965",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

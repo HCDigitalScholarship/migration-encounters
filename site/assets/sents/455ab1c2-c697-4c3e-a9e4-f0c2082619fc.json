@@ -1,0 +1,13 @@
+{
+  "start":68763,
+  "end":68823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's go get some chicken nuggets.\"\n   This is funny, right?",
+  "id":"455ab1c2-c697-4c3e-a9e4-f0c2082619fc",
+  "params":{
+    "id":"455ab1c2-c697-4c3e-a9e4-f0c2082619fc",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

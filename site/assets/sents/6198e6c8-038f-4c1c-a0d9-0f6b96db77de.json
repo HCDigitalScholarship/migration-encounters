@@ -1,0 +1,13 @@
+{
+  "start":33217,
+  "end":33305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n When you look at the old pictures, they have the big mustaches and the\n baseball bats.",
+  "id":"6198e6c8-038f-4c1c-a0d9-0f6b96db77de",
+  "params":{
+    "id":"6198e6c8-038f-4c1c-a0d9-0f6b96db77de",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

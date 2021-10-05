@@ -1,0 +1,12 @@
+{
+  "start":15974,
+  "end":16017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Because you weren't...\n \n \n   Carlos:",
+  "id":"d37233e3-97a4-4b7e-a9c0-ce2fa84275da",
+  "params":{
+    "id":"95bb87b6-7dc7-42a9-9e0f-c33398ad19ac"
+  },
+  "name":"Carlos"
+}

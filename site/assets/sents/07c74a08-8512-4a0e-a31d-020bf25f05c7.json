@@ -1,0 +1,12 @@
+{
+  "start":12567,
+  "end":12584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   have my car.",
+  "id":"07c74a08-8512-4a0e-a31d-020bf25f05c7",
+  "params":{
+    "id":"ceb4e420-1625-4547-9c93-0549e0adaa32"
+  },
+  "name":"Hugo"
+}

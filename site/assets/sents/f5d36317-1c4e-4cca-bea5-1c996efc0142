@@ -1,0 +1,12 @@
+{
+  "start":4102,
+  "end":4171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My daughter was with her dad and my son was with a friend\n   of mine.",
+  "id":"f5d36317-1c4e-4cca-bea5-1c996efc0142",
+  "params":{
+    "id":"e0e8e32a-d3e1-438d-b72f-ad1bf54dbe5e"
+  },
+  "name":"Rocio"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1332,
+  "end":1372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, back in 1995, it was kind of easy.",
+  "id":"63ba96de-e55e-4001-8ca4-5cf12d08daf0",
+  "params":{
+    "id":"63ba96de-e55e-4001-8ca4-5cf12d08daf0",
+    "class":"anno"
+  },
+  "name":"Many"
+}

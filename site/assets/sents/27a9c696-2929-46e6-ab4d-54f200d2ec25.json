@@ -1,0 +1,13 @@
+{
+  "start":1280,
+  "end":1320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you think about it at the time?",
+  "id":"27a9c696-2929-46e6-ab4d-54f200d2ec25",
+  "params":{
+    "id":"27a9c696-2929-46e6-ab4d-54f200d2ec25",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

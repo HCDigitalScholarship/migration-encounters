@@ -1,0 +1,13 @@
+{
+  "start":12060,
+  "end":12080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're 15 years old?",
+  "id":"060ea6a0-e854-4c19-a1eb-b3f0d1d797ea",
+  "params":{
+    "id":"060ea6a0-e854-4c19-a1eb-b3f0d1d797ea",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

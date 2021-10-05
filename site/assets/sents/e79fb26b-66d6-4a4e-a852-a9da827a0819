@@ -1,0 +1,12 @@
+{
+  "start":21538,
+  "end":21558,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"But I love lasagna.",
+  "id":"e79fb26b-66d6-4a4e-a852-a9da827a0819",
+  "params":{
+    "id":"723a54de-c8b6-448b-887a-4a6d3825d619"
+  },
+  "name":"Beto"
+}

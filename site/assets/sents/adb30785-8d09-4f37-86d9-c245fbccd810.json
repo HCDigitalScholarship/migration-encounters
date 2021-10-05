@@ -1,0 +1,13 @@
+{
+  "start":15504,
+  "end":15528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's simple stuff.",
+  "id":"adb30785-8d09-4f37-86d9-c245fbccd810",
+  "params":{
+    "id":"adb30785-8d09-4f37-86d9-c245fbccd810",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

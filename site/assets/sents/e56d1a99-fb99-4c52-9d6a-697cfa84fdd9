@@ -1,0 +1,12 @@
+{
+  "start":18118,
+  "end":18163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And there happened\n   to be a cop passing by.",
+  "id":"e56d1a99-fb99-4c52-9d6a-697cfa84fdd9",
+  "params":{
+    "id":"bcbb21d8-d12b-40b6-a4f0-853ad3457215"
+  },
+  "name":"Hugo"
+}

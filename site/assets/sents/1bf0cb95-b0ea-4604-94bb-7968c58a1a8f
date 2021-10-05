@@ -1,0 +1,12 @@
+{
+  "start":36168,
+  "end":36182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's do this.",
+  "id":"1bf0cb95-b0ea-4604-94bb-7968c58a1a8f",
+  "params":{
+    "id":"f61d31fd-eeb0-4cc0-bcc8-402607279882"
+  },
+  "name":"Luisa"
+}

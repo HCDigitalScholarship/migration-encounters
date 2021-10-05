@@ -1,0 +1,12 @@
+{
+  "start":25326,
+  "end":25388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first kid was a really\n   big motivation to just get on it.",
+  "id":"7eed0b97-7813-4717-a3ab-561ede804c88",
+  "params":{
+    "id":"e68067fb-d1bf-4e76-b650-e21c6ecbbe24"
+  },
+  "name":"Mike"
+}

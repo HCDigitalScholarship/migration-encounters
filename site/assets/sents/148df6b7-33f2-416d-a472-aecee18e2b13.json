@@ -1,0 +1,13 @@
+{
+  "start":8369,
+  "end":8410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   just thought, \"Oh, yeah, it's cool.\"",
+  "id":"148df6b7-33f2-416d-a472-aecee18e2b13",
+  "params":{
+    "id":"148df6b7-33f2-416d-a472-aecee18e2b13",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

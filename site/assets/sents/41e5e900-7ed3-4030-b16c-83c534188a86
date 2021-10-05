@@ -1,0 +1,12 @@
+{
+  "start":4011,
+  "end":4049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was 15 I dropped out of school.",
+  "id":"41e5e900-7ed3-4030-b16c-83c534188a86",
+  "params":{
+    "id":"6a8b790a-6d60-433e-be13-aa8db2cc83a9"
+  },
+  "name":"Pablo"
+}

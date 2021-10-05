@@ -1,0 +1,13 @@
+{
+  "start":24870,
+  "end":24935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every time they're like, \"Dude, you've got so much\n   potential.\"",
+  "id":"b9733c92-69e0-464e-93fc-28a8d8d79a1e",
+  "params":{
+    "id":"b9733c92-69e0-464e-93fc-28a8d8d79a1e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

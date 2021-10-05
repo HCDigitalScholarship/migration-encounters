@@ -1,0 +1,12 @@
+{
+  "start":38327,
+  "end":38354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think they\n   care.",
+  "id":"86485d0d-2aaf-4a60-b161-f0654919b29c",
+  "params":{
+    "id":"2d4b88c6-60b7-4b24-b978-3fb163e73435"
+  },
+  "name":"Sylent"
+}

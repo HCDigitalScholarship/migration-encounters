@@ -1,0 +1,13 @@
+{
+  "start":16882,
+  "end":17014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother was\n   doing good, my family was doing good, my parents, they would go camping\n   every weekend or they would go fishing.",
+  "id":"ec7dde79-f48a-41cf-a553-acbf601a233d",
+  "params":{
+    "id":"ec7dde79-f48a-41cf-a553-acbf601a233d",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

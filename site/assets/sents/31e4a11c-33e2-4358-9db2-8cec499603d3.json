@@ -1,0 +1,13 @@
+{
+  "start":8048,
+  "end":8168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried to give them nice advice to my kids, teach\n   them to be respectful with the rest of the people, especially with",
+  "id":"31e4a11c-33e2-4358-9db2-8cec499603d3",
+  "params":{
+    "id":"31e4a11c-33e2-4358-9db2-8cec499603d3",
+    "class":"anno"
+  },
+  "name":"Many"
+}

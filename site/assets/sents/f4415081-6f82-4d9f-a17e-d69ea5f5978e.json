@@ -1,0 +1,13 @@
+{
+  "start":9188,
+  "end":9232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, the one who raised you?\n \n \n   Carolina:",
+  "id":"f4415081-6f82-4d9f-a17e-d69ea5f5978e",
+  "params":{
+    "id":"f4415081-6f82-4d9f-a17e-d69ea5f5978e",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

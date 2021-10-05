@@ -1,0 +1,13 @@
+{
+  "start":29604,
+  "end":29630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to date somebody",
+  "id":"872042c5-f020-403e-8d1d-5f9ea332968c",
+  "params":{
+    "id":"872042c5-f020-403e-8d1d-5f9ea332968c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

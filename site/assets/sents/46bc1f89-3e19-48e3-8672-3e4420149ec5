@@ -1,0 +1,12 @@
+{
+  "start":12350,
+  "end":12366,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved Matilda.",
+  "id":"46bc1f89-3e19-48e3-8672-3e4420149ec5",
+  "params":{
+    "id":"579438c8-2047-461d-a08e-a72af7e3d13d"
+  },
+  "name":"Luisa"
+}

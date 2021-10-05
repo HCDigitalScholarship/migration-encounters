@@ -1,0 +1,12 @@
+{
+  "start":7203,
+  "end":7286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You click on the number and the basic number pulls out the\n     brand of the phone.",
+  "id":"c739182a-946b-4444-9257-675427710143",
+  "params":{
+    "id":"d027e8d3-c88f-4db0-8961-123a68d04ced"
+  },
+  "name":"Beto"
+}

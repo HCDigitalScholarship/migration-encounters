@@ -1,0 +1,13 @@
+{
+  "start":21641,
+  "end":21651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry.",
+  "id":"c865c47a-285b-4d1f-9e1e-0005e83ba24f",
+  "params":{
+    "id":"c865c47a-285b-4d1f-9e1e-0005e83ba24f",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42458,
+  "end":42480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it's possible.",
+  "id":"5fa7a269-bf14-4bbf-bdb2-bd445e72ea8d",
+  "params":{
+    "id":"1d093b91-b117-42aa-be5f-582158f1a7fb"
+  },
+  "name":"Sylent"
+}

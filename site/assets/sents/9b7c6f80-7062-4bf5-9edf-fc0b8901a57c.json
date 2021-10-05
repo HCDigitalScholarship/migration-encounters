@@ -1,0 +1,13 @@
+{
+  "start":70339,
+  "end":70407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Last year,\n     or can you remind me how long you've been in Mexico.",
+  "id":"9b7c6f80-7062-4bf5-9edf-fc0b8901a57c",
+  "params":{
+    "id":"9b7c6f80-7062-4bf5-9edf-fc0b8901a57c",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

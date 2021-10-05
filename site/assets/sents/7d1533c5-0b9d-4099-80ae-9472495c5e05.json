@@ -1,0 +1,13 @@
+{
+  "start":68046,
+  "end":68088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people just got a...\n   Thanksgiving.",
+  "id":"7d1533c5-0b9d-4099-80ae-9472495c5e05",
+  "params":{
+    "id":"7d1533c5-0b9d-4099-80ae-9472495c5e05",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

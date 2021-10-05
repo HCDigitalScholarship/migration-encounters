@@ -1,0 +1,13 @@
+{
+  "start":47601,
+  "end":47610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your dad?",
+  "id":"e3465fcd-88db-4d17-b0b4-34c8a75b835d",
+  "params":{
+    "id":"e3465fcd-88db-4d17-b0b4-34c8a75b835d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

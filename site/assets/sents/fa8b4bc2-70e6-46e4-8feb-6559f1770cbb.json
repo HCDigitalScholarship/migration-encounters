@@ -1,0 +1,13 @@
+{
+  "start":40682,
+  "end":40734,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to\n go to the [foreign language 00:39:36].",
+  "id":"fa8b4bc2-70e6-46e4-8feb-6559f1770cbb",
+  "params":{
+    "id":"fa8b4bc2-70e6-46e4-8feb-6559f1770cbb",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

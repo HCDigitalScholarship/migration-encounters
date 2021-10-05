@@ -1,0 +1,13 @@
+{
+  "start":12120,
+  "end":12143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I barely graduated.",
+  "id":"c103cce7-d660-485a-b489-2388fa1f7a2d",
+  "params":{
+    "id":"c103cce7-d660-485a-b489-2388fa1f7a2d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

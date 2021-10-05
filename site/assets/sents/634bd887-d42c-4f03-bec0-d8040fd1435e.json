@@ -1,0 +1,13 @@
+{
+  "start":4008,
+  "end":4043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never heard about leasing phones.",
+  "id":"634bd887-d42c-4f03-bec0-d8040fd1435e",
+  "params":{
+    "id":"634bd887-d42c-4f03-bec0-d8040fd1435e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

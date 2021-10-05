@@ -1,0 +1,12 @@
+{
+  "start":8646,
+  "end":8664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You did the stars?",
+  "id":"36a66b02-ab16-46a1-a063-129d5a83b011",
+  "params":{
+    "id":"36be1ad5-d567-4003-af5a-5577f5e21aaa"
+  },
+  "name":"Ivan"
+}

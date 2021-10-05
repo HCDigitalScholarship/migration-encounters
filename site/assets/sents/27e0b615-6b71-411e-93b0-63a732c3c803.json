@@ -1,0 +1,13 @@
+{
+  "start":39262,
+  "end":39289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\u2019s like, \"Bro relax\n man.",
+  "id":"27e0b615-6b71-411e-93b0-63a732c3c803",
+  "params":{
+    "id":"27e0b615-6b71-411e-93b0-63a732c3c803",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

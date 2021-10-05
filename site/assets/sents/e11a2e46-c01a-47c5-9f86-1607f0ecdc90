@@ -1,0 +1,12 @@
+{
+  "start":15214,
+  "end":15240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you go back to school?",
+  "id":"e11a2e46-c01a-47c5-9f86-1607f0ecdc90",
+  "params":{
+    "id":"d03182bb-f914-4bad-b55e-bfd33f53b2d5"
+  },
+  "name":"Joana"
+}

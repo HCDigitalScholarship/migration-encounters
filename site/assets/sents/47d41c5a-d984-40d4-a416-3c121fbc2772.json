@@ -1,0 +1,13 @@
+{
+  "start":22783,
+  "end":22819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, our trainer is a resident.",
+  "id":"47d41c5a-d984-40d4-a416-3c121fbc2772",
+  "params":{
+    "id":"47d41c5a-d984-40d4-a416-3c121fbc2772",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

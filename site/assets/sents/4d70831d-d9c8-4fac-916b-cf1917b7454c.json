@@ -1,0 +1,13 @@
+{
+  "start":40642,
+  "end":40690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think it's going to be like for him?",
+  "id":"4d70831d-d9c8-4fac-916b-cf1917b7454c",
+  "params":{
+    "id":"4d70831d-d9c8-4fac-916b-cf1917b7454c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

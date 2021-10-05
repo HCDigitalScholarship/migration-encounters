@@ -1,0 +1,12 @@
+{
+  "start":10001,
+  "end":10055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What if you mess up?\u201d Living\n   with fear is horrible.",
+  "id":"47423097-6d3c-4ada-8f6e-cf3d8c49cfbc",
+  "params":{
+    "id":"e452057a-20b0-4b7d-a0f4-9a251fb64eb0"
+  },
+  "name":"Luis B"
+}

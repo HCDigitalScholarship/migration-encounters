@@ -1,0 +1,13 @@
+{
+  "start":21890,
+  "end":21931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Told me to come back at a different date.",
+  "id":"5f72d674-6093-4a45-a503-624c6974abfb",
+  "params":{
+    "id":"5f72d674-6093-4a45-a503-624c6974abfb",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

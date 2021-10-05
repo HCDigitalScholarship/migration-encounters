@@ -1,0 +1,12 @@
+{
+  "start":20059,
+  "end":20072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand.",
+  "id":"6c64e43d-1bd1-4376-aee9-0fba77b07b1b",
+  "params":{
+    "id":"252ef7ae-faf9-4bb9-aeb9-b1fe48c7bdd4"
+  },
+  "name":"Luis B"
+}

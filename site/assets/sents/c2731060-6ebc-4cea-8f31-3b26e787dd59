@@ -1,0 +1,12 @@
+{
+  "start":31964,
+  "end":31980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We do something.",
+  "id":"c2731060-6ebc-4cea-8f31-3b26e787dd59",
+  "params":{
+    "id":"3a39513d-e925-4c88-a51e-8494292c76dd"
+  },
+  "name":"Rodrigo"
+}

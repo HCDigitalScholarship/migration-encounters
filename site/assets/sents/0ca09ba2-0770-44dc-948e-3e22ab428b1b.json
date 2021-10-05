@@ -1,0 +1,13 @@
+{
+  "start":26012,
+  "end":26096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, actually, we're in Mexico, I'm seeing a way to do a life that\n   I want to do.",
+  "id":"0ca09ba2-0770-44dc-948e-3e22ab428b1b",
+  "params":{
+    "id":"0ca09ba2-0770-44dc-948e-3e22ab428b1b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

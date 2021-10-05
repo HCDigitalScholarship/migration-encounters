@@ -1,0 +1,13 @@
+{
+  "start":11273,
+  "end":11331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's no way that\n anybody can prove that it's not true.",
+  "id":"e2b2df6c-b241-430d-883c-8dea72348a90",
+  "params":{
+    "id":"e2b2df6c-b241-430d-883c-8dea72348a90",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

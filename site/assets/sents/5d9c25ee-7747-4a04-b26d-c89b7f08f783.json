@@ -1,0 +1,13 @@
+{
+  "start":3744,
+  "end":3819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   mostly it was drugs, mostly it was gang members, that kind of stuff.",
+  "id":"5d9c25ee-7747-4a04-b26d-c89b7f08f783",
+  "params":{
+    "id":"5d9c25ee-7747-4a04-b26d-c89b7f08f783",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

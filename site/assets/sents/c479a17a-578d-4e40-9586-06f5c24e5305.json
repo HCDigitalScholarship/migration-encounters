@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me a little bit about the circumstances behind your initial\n   migration to the United States.",
+  "id":"c479a17a-578d-4e40-9586-06f5c24e5305",
+  "params":{
+    "id":"85f4fa2f-9b7e-4f89-8af7-a1eb269712a9"
+  },
+  "name":"Hugo"
+}

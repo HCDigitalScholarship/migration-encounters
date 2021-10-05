@@ -1,0 +1,12 @@
+{
+  "start":38187,
+  "end":38201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n pretty girl",
+  "id":"b2b25327-1967-425a-89f9-fbb9e02af7ff",
+  "params":{
+    "id":"7079a5d4-c6d8-419d-84a3-c6b31b87226c"
+  },
+  "name":"Billy"
+}

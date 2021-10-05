@@ -1,0 +1,12 @@
+{
+  "start":21594,
+  "end":21633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry\n   that my father had to die.",
+  "id":"baf0ba21-4a4a-468a-8f68-5a7dcf9c7964",
+  "params":{
+    "id":"91d42653-2d70-47f0-bc19-a5df82411e27"
+  },
+  "name":"Luis B"
+}

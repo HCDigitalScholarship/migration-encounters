@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":2296,
+  "end":2300,
+  "text":"nita: Did you have brothers and sisters?\n \n \n   Ivan: No, I'm the only child.\n \n \n   Anita: What caused you to leave the United States? Was it your decision?\n   Were you detained and deported?\n \n \n   Ivan: I was detained and deported.\n \n \n   Anita: So, in one word, how did this happen? Were you detained by the\n   police? Were you imprisoned? Was there a raid at where you worked? Were you\n   in the wro",
+  "label":"PERSON",
+  "id":"0d510031-0480-4a7c-8ac6-336dcef2e5a7",
+  "name":"Ivan"
+}

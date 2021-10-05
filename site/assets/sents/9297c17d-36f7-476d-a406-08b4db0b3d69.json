@@ -1,0 +1,13 @@
+{
+  "start":42847,
+  "end":42958,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, she doesn't want to\n   talk to me, and I mean, that's fine because she's already with somebody\n   else.",
+  "id":"9297c17d-36f7-476d-a406-08b4db0b3d69",
+  "params":{
+    "id":"9297c17d-36f7-476d-a406-08b4db0b3d69",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

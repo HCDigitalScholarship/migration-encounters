@@ -1,0 +1,12 @@
+{
+  "start":4459,
+  "end":4529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I speak to the judge once, \u201cOkay, we'll see you for the next\n   court.",
+  "id":"1c6b3470-bcea-4697-8585-7ed5b8251178",
+  "params":{
+    "id":"e466c367-8f6c-4028-9f8f-2db52443eb5b"
+  },
+  "name":"Noe"
+}

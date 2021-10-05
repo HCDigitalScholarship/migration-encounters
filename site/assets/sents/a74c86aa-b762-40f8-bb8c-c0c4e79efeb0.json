@@ -1,0 +1,13 @@
+{
+  "start":9840,
+  "end":10000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was always a fear in the back\n   of my head which was like, \u201cWhat if you tell the wrong person? What if you\n   say something that you shouldn't have said?",
+  "id":"a74c86aa-b762-40f8-bb8c-c0c4e79efeb0",
+  "params":{
+    "id":"a74c86aa-b762-40f8-bb8c-c0c4e79efeb0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

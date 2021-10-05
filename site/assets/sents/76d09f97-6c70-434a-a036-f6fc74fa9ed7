@@ -1,0 +1,12 @@
+{
+  "start":31092,
+  "end":31114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is\n   all I have.",
+  "id":"76d09f97-6c70-434a-a036-f6fc74fa9ed7",
+  "params":{
+    "id":"7e23fda6-bc9a-46fa-9de0-0f8f3d96e377"
+  },
+  "name":"Daniel"
+}

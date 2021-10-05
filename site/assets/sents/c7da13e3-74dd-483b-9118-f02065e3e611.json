@@ -1,0 +1,12 @@
+{
+  "start":6615,
+  "end":6634,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What year was this?",
+  "id":"c7da13e3-74dd-483b-9118-f02065e3e611",
+  "params":{
+    "id":"6a6f96c8-10a7-4596-bcb9-a41791fcdac4"
+  },
+  "name":"Ruben"
+}

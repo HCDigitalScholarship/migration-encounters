@@ -1,0 +1,13 @@
+{
+  "start":48684,
+  "end":48699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's awesome.",
+  "id":"3190db79-68bc-49d3-98a1-bf1d88d906be",
+  "params":{
+    "id":"3190db79-68bc-49d3-98a1-bf1d88d906be",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

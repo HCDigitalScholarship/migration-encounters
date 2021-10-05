@@ -1,0 +1,13 @@
+{
+  "start":10682,
+  "end":10709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to stay in Teletech.",
+  "id":"a1cddfbc-077c-4740-8a7b-81402848a178",
+  "params":{
+    "id":"a1cddfbc-077c-4740-8a7b-81402848a178",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

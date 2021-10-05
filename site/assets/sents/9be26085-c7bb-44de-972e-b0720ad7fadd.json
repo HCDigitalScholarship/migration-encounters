@@ -1,0 +1,15 @@
+{
+  "start":10597,
+  "end":10613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or only Mexican.",
+  "id":"9be26085-c7bb-44de-972e-b0720ad7fadd",
+  "params":{
+    "id":"9be26085-c7bb-44de-972e-b0720ad7fadd",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32979,
+  "end":33002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You've told me so much.",
+  "id":"a5015b55-91f2-44c5-aac2-aedaabf3fa9b",
+  "params":{
+    "id":"166e8ea4-516e-434f-b694-a0e6da014c5e"
+  },
+  "name":"Joana"
+}

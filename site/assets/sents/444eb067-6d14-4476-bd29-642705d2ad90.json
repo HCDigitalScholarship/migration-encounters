@@ -1,0 +1,13 @@
+{
+  "start":40616,
+  "end":40652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want him\n   to go over there, too.",
+  "id":"444eb067-6d14-4476-bd29-642705d2ad90",
+  "params":{
+    "id":"444eb067-6d14-4476-bd29-642705d2ad90",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

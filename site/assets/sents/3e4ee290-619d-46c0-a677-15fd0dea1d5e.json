@@ -1,0 +1,13 @@
+{
+  "start":22597,
+  "end":22655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of these\n   people were not even deported themselves.",
+  "id":"3e4ee290-619d-46c0-a677-15fd0dea1d5e",
+  "params":{
+    "id":"3e4ee290-619d-46c0-a677-15fd0dea1d5e",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

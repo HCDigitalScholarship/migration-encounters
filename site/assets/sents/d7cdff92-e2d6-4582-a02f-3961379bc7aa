@@ -1,0 +1,12 @@
+{
+  "start":36317,
+  "end":36350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One DWI and that's it, he's gone.",
+  "id":"d7cdff92-e2d6-4582-a02f-3961379bc7aa",
+  "params":{
+    "id":"c2892519-8c66-42d3-a830-6d6d07920165"
+  },
+  "name":"Ben"
+}

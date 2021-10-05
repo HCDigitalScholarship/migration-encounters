@@ -1,0 +1,13 @@
+{
+  "start":44648,
+  "end":44722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even in movies, they say, \"Best Mexican actor,\" or something\n   like that.",
+  "id":"f7056b64-3916-4fdf-b2f8-2ae0d9a595a2",
+  "params":{
+    "id":"f7056b64-3916-4fdf-b2f8-2ae0d9a595a2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

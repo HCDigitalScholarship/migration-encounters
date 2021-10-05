@@ -1,0 +1,12 @@
+{
+  "start":10644,
+  "end":10701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it like living with your dad for those two year?",
+  "id":"fbbeb770-b31d-4217-920b-adec2cf1b94c",
+  "params":{
+    "id":"bd886e52-6bc9-4685-85e6-e1c3e1865270"
+  },
+  "name":"Mike"
+}

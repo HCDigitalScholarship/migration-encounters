@@ -1,0 +1,12 @@
+{
+  "start":4543,
+  "end":4560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I live by myself.",
+  "id":"5a3ca548-de61-4956-885a-592a41e23c5b",
+  "params":{
+    "id":"fd175844-d55e-44cf-a8c8-9ee1224200cf"
+  },
+  "name":"Ivan"
+}

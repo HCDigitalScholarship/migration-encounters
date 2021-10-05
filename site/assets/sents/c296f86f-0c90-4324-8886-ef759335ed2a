@@ -1,0 +1,12 @@
+{
+  "start":45183,
+  "end":45240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were going to extend\n my probation for another year.",
+  "id":"c296f86f-0c90-4324-8886-ef759335ed2a",
+  "params":{
+    "id":"3f369de1-3eb8-4ec0-827a-f093e8feddc2"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13222,
+  "end":13301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So sometimes I would have to miss school, sometimes I wouldn't go to\n   school.",
+  "id":"d988024d-bee4-4512-9e69-8c1564cbb8f7",
+  "params":{
+    "id":"d988024d-bee4-4512-9e69-8c1564cbb8f7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

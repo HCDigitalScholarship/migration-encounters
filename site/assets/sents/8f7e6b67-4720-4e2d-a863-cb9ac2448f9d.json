@@ -1,0 +1,13 @@
+{
+  "start":37099,
+  "end":37136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, but I don't know what happened.",
+  "id":"8f7e6b67-4720-4e2d-a863-cb9ac2448f9d",
+  "params":{
+    "id":"8f7e6b67-4720-4e2d-a863-cb9ac2448f9d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

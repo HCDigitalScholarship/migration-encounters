@@ -1,0 +1,13 @@
+{
+  "start":1429,
+  "end":1510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was the school helpful with language, or did you have to learn it\n   on your own?",
+  "id":"6f09f5fd-8635-4d93-8d04-1691dff7876a",
+  "params":{
+    "id":"6f09f5fd-8635-4d93-8d04-1691dff7876a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

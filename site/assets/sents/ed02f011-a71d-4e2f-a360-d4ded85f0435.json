@@ -1,0 +1,13 @@
+{
+  "start":4345,
+  "end":4394,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They asked me if I wanted to smoke and I said no.",
+  "id":"ed02f011-a71d-4e2f-a360-d4ded85f0435",
+  "params":{
+    "id":"ed02f011-a71d-4e2f-a360-d4ded85f0435",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

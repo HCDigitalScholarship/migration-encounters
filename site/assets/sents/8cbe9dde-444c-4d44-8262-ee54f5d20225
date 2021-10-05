@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":22,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Isabel: All right.",
+  "id":"8cbe9dde-444c-4d44-8262-ee54f5d20225",
+  "params":{
+    "id":"e172ffb0-9cba-49fe-9265-3e3807a50aab"
+  },
+  "name":"Kevin"
+}

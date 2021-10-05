@@ -1,0 +1,12 @@
+{
+  "start":7837,
+  "end":7862,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did a lot of\n   sports.",
+  "id":"7f10d06d-e7ab-4ff9-aff8-29293f430f21",
+  "params":{
+    "id":"5c02581f-730e-4f6b-8184-4190d890a241"
+  },
+  "name":"Yair"
+}

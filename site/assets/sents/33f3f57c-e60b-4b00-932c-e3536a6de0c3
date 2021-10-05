@@ -1,0 +1,12 @@
+{
+  "start":10801,
+  "end":10850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If something jumps off, I\nmean, it's pretty wild.",
+  "id":"33f3f57c-e60b-4b00-932c-e3536a6de0c3",
+  "params":{
+    "id":"9b8668cb-49a5-4d8f-8409-10ba50bf5bb8"
+  },
+  "name":"Abel"
+}

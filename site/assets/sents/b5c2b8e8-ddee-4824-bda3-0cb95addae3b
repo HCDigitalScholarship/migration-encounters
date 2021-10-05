@@ -1,0 +1,12 @@
+{
+  "start":22266,
+  "end":22288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This thing right here.",
+  "id":"b5c2b8e8-ddee-4824-bda3-0cb95addae3b",
+  "params":{
+    "id":"8c890a57-3826-4eb0-8608-cbdcfd47e3f8"
+  },
+  "name":"Carlos"
+}

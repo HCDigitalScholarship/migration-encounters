@@ -1,0 +1,13 @@
+{
+  "start":38404,
+  "end":38432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"an\n anxiety I can't describe",
+  "id":"7cce80f8-fb47-4157-9272-7d29ab658b1a",
+  "params":{
+    "id":"7cce80f8-fb47-4157-9272-7d29ab658b1a",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

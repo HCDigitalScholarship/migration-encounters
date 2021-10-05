@@ -1,0 +1,13 @@
+{
+  "start":30155,
+  "end":30205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: With the mom?\n \n \n   Zayuri: With the mom.",
+  "id":"9d681158-302b-4c61-a81c-ddbe71d0a17f",
+  "params":{
+    "id":"9d681158-302b-4c61-a81c-ddbe71d0a17f",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

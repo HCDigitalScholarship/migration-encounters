@@ -1,0 +1,13 @@
+{
+  "start":1370,
+  "end":1405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You lived in Minnesota for a while?",
+  "id":"c62c3730-9858-4334-bd2c-66ce6e31141e",
+  "params":{
+    "id":"c62c3730-9858-4334-bd2c-66ce6e31141e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

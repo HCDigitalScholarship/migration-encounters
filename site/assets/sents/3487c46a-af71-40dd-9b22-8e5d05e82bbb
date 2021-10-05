@@ -1,0 +1,12 @@
+{
+  "start":9600,
+  "end":9639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You tried to throw yourself in front of",
+  "id":"3487c46a-af71-40dd-9b22-8e5d05e82bbb",
+  "params":{
+    "id":"face32f8-3bad-42ce-a7be-847dcbee6aff"
+  },
+  "name":"Valeria"
+}

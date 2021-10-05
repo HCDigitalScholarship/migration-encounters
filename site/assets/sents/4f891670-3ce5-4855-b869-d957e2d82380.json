@@ -1,0 +1,13 @@
+{
+  "start":26814,
+  "end":26896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita:\n \n \n   Is she back now?\n \n \n   Sylent:\n \n \n   Yeah, she's back now.",
+  "id":"4f891670-3ce5-4855-b869-d957e2d82380",
+  "params":{
+    "id":"4f891670-3ce5-4855-b869-d957e2d82380",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

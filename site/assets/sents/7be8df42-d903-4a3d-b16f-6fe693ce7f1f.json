@@ -1,0 +1,13 @@
+{
+  "start":21728,
+  "end":21770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's just because I've been waiting.",
+  "id":"7be8df42-d903-4a3d-b16f-6fe693ce7f1f",
+  "params":{
+    "id":"7be8df42-d903-4a3d-b16f-6fe693ce7f1f",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

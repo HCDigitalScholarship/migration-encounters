@@ -1,0 +1,13 @@
+{
+  "start":11873,
+  "end":11922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of\n   my best friends is a teacher right now.",
+  "id":"11e0ec65-e8bd-4ce8-bb11-2995798fd793",
+  "params":{
+    "id":"11e0ec65-e8bd-4ce8-bb11-2995798fd793",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

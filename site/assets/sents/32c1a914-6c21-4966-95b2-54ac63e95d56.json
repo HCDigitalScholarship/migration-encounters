@@ -1,0 +1,13 @@
+{
+  "start":500,
+  "end":616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You sure you guys want to come over there?\u201d Because my mom still\n wasn't very sure if she wanted to move over there.",
+  "id":"32c1a914-6c21-4966-95b2-54ac63e95d56",
+  "params":{
+    "id":"32c1a914-6c21-4966-95b2-54ac63e95d56",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

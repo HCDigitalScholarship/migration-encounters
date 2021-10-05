@@ -1,0 +1,12 @@
+{
+  "start":46256,
+  "end":46353,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On Sunday, we were just\n   watching TV, and then I just see my cellphone, and it says, \"Hi, Dad.\"",
+  "id":"9c8d87d3-470b-4494-863d-79d7ed39c564",
+  "params":{
+    "id":"f45bf385-0334-4bac-b2f3-0098714243ee"
+  },
+  "name":"Rodrigo"
+}

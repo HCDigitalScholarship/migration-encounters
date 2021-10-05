@@ -1,0 +1,12 @@
+{
+  "start":6333,
+  "end":6360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it hard to move around?",
+  "id":"3d35b85f-0808-48b0-98fa-eadd2eb029e5",
+  "params":{
+    "id":"05ead5fa-fe25-4ebe-b7b5-8b0646c3246b"
+  },
+  "name":"Brenda"
+}

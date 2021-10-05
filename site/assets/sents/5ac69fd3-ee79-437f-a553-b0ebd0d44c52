@@ -1,0 +1,12 @@
+{
+  "start":25343,
+  "end":25350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, no.",
+  "id":"5ac69fd3-ee79-437f-a553-b0ebd0d44c52",
+  "params":{
+    "id":"a46fc834-95c1-4394-9b4c-c4f3d4e30c05"
+  },
+  "name":"Abel"
+}

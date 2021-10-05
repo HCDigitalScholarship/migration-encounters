@@ -1,0 +1,13 @@
+{
+  "start":20482,
+  "end":20525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That way, it won't have to be\n   that much.",
+  "id":"9e291c85-0b3b-4824-85d8-24ceb8a1dc75",
+  "params":{
+    "id":"9e291c85-0b3b-4824-85d8-24ceb8a1dc75",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

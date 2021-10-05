@@ -1,0 +1,13 @@
+{
+  "start":30992,
+  "end":31026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: What does that mean?",
+  "id":"8bd244e6-73ff-40de-8f04-504b20c52af4",
+  "params":{
+    "id":"8bd244e6-73ff-40de-8f04-504b20c52af4",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

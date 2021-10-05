@@ -1,0 +1,12 @@
+{
+  "start":23560,
+  "end":23575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I need to live.",
+  "id":"dea5d135-09f0-405d-a097-9bc7fa9de855",
+  "params":{
+    "id":"b8f46589-b111-4ad5-b359-98ecd92ccbcb"
+  },
+  "name":"Rocio"
+}

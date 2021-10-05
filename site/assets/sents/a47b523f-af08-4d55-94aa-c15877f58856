@@ -1,0 +1,12 @@
+{
+  "start":10025,
+  "end":10054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't renew\n   it, though.",
+  "id":"a47b523f-af08-4d55-94aa-c15877f58856",
+  "params":{
+    "id":"aabb033e-ab86-48c2-96ec-4eccc87ad336"
+  },
+  "name":"Edgar"
+}

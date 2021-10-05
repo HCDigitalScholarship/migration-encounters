@@ -1,0 +1,13 @@
+{
+  "start":5825,
+  "end":5851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually like\n   sports.",
+  "id":"1790ebce-d850-476e-8e4b-f371dd86dcb1",
+  "params":{
+    "id":"1790ebce-d850-476e-8e4b-f371dd86dcb1",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

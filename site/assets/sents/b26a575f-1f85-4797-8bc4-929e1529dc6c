@@ -1,0 +1,12 @@
+{
+  "start":8881,
+  "end":8907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And after that I did what?",
+  "id":"b26a575f-1f85-4797-8bc4-929e1529dc6c",
+  "params":{
+    "id":"ef398083-6297-4563-88c4-27b19ed602e2"
+  },
+  "name":"Kevin"
+}

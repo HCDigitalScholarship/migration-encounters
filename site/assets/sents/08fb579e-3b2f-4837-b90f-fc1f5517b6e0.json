@@ -1,0 +1,13 @@
+{
+  "start":1892,
+  "end":1962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well my\n mother had a rule, she goes, \"No English inside of the house.",
+  "id":"08fb579e-3b2f-4837-b90f-fc1f5517b6e0",
+  "params":{
+    "id":"08fb579e-3b2f-4837-b90f-fc1f5517b6e0",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

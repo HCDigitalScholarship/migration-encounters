@@ -1,0 +1,13 @@
+{
+  "start":20596,
+  "end":20703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And even the immigration guy,\n   he stopped in the middle of the road and he told me, \u201cWho did this to you?",
+  "id":"2bac6e1d-9293-4d48-93f0-ffc13e28957f",
+  "params":{
+    "id":"2bac6e1d-9293-4d48-93f0-ffc13e28957f",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

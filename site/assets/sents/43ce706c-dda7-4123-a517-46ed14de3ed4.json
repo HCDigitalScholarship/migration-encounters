@@ -1,0 +1,13 @@
+{
+  "start":5716,
+  "end":5798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was also a\n   point in time where my dad and my mom really didn't get along.",
+  "id":"43ce706c-dda7-4123-a517-46ed14de3ed4",
+  "params":{
+    "id":"43ce706c-dda7-4123-a517-46ed14de3ed4",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34678,
+  "end":34688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Really us.",
+  "id":"f77e0986-36b6-495e-a679-492a51f60b6f",
+  "params":{
+    "id":"f77e0986-36b6-495e-a679-492a51f60b6f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

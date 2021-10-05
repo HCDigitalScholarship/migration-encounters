@@ -1,0 +1,13 @@
+{
+  "start":3890,
+  "end":4004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To this day, I remember the first time I crossed on\n   the bus, I was seven or eight like I said, that I remember.",
+  "id":"4d144553-b560-42d1-8657-b680b6178ace",
+  "params":{
+    "id":"4d144553-b560-42d1-8657-b680b6178ace",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

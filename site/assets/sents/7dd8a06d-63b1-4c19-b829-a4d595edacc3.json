@@ -1,0 +1,13 @@
+{
+  "start":13176,
+  "end":13187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Come over.\"",
+  "id":"7dd8a06d-63b1-4c19-b829-a4d595edacc3",
+  "params":{
+    "id":"7dd8a06d-63b1-4c19-b829-a4d595edacc3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

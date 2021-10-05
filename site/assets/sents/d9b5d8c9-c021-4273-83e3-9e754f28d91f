@@ -1,0 +1,12 @@
+{
+  "start":22348,
+  "end":22392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're\n   going to die at the end of the day.",
+  "id":"d9b5d8c9-c021-4273-83e3-9e754f28d91f",
+  "params":{
+    "id":"b2083256-4cf3-40df-9796-55334799fc8b"
+  },
+  "name":"Kevin"
+}

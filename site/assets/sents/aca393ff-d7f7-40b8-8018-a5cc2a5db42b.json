@@ -1,0 +1,13 @@
+{
+  "start":8280,
+  "end":8368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't really\n   think I was, \"Oh, I want to be the biggest gang member in the world.\"",
+  "id":"aca393ff-d7f7-40b8-8018-a5cc2a5db42b",
+  "params":{
+    "id":"aca393ff-d7f7-40b8-8018-a5cc2a5db42b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

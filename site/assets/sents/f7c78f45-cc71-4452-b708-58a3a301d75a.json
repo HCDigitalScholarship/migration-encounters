@@ -1,0 +1,13 @@
+{
+  "start":11103,
+  "end":11146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was one of the princesses of her tribe.",
+  "id":"f7c78f45-cc71-4452-b708-58a3a301d75a",
+  "params":{
+    "id":"f7c78f45-cc71-4452-b708-58a3a301d75a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

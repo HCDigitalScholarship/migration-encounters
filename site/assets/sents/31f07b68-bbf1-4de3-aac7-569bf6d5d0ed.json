@@ -1,0 +1,13 @@
+{
+  "start":20865,
+  "end":20879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's Logistic.",
+  "id":"31f07b68-bbf1-4de3-aac7-569bf6d5d0ed",
+  "params":{
+    "id":"31f07b68-bbf1-4de3-aac7-569bf6d5d0ed",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

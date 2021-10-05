@@ -1,0 +1,12 @@
+{
+  "start":7588,
+  "end":7671,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It tells the story of the old West and\n how the U.S. was before the industrial era.",
+  "id":"dbc6f781-3d9d-4a1d-86f8-493ad928610a",
+  "params":{
+    "id":"372cf797-d5ce-4c1b-a431-f0d187c3a1b3"
+  },
+  "name":"Billy"
+}

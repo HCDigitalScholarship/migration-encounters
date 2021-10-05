@@ -1,0 +1,13 @@
+{
+  "start":21039,
+  "end":21061,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who will get it first?",
+  "id":"b07bca4a-a014-4028-8f00-5daa01def31d",
+  "params":{
+    "id":"b07bca4a-a014-4028-8f00-5daa01def31d",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

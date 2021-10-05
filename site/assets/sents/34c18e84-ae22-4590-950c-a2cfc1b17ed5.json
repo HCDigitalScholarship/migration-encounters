@@ -1,0 +1,13 @@
+{
+  "start":2793,
+  "end":2817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got caught for\n   it.",
+  "id":"34c18e84-ae22-4590-950c-a2cfc1b17ed5",
+  "params":{
+    "id":"34c18e84-ae22-4590-950c-a2cfc1b17ed5",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7894,
+  "end":7932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My baby mama was pregnant at the time.",
+  "id":"37bdd618-8f65-4d6b-89de-fddd543e1c82",
+  "params":{
+    "id":"37bdd618-8f65-4d6b-89de-fddd543e1c82",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30775,
+  "end":30798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The payment was weekly.",
+  "id":"e63d65bd-e31d-4f52-afee-87c32a555810",
+  "params":{
+    "id":"2c4bd9af-3ad3-4cd4-bd8c-aef5ba98a627"
+  },
+  "name":"Carlos"
+}

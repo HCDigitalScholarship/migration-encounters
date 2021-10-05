@@ -1,0 +1,12 @@
+{
+  "start":18750,
+  "end":18767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did they do?",
+  "id":"6cea1e4e-b16c-4d80-89d6-91be05f28d84",
+  "params":{
+    "id":"a722ce29-9ae4-4a73-8291-36920800a4dd"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1432,
+  "end":1455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I painted inside.",
+  "id":"ece6e5ae-1e2b-430f-94a2-43bd68169c3d",
+  "params":{
+    "id":"eeac7a02-7dbc-42d7-84a3-2152ebaf1c22"
+  },
+  "name":"Ivan"
+}

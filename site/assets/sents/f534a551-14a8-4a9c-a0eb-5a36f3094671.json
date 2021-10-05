@@ -1,0 +1,13 @@
+{
+  "start":2480,
+  "end":2523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you ever face discrimination in the US?",
+  "id":"f534a551-14a8-4a9c-a0eb-5a36f3094671",
+  "params":{
+    "id":"f534a551-14a8-4a9c-a0eb-5a36f3094671",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

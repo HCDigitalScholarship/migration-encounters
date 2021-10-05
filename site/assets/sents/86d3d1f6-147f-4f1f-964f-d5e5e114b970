@@ -1,0 +1,12 @@
+{
+  "start":10503,
+  "end":10543,
+  "label":"SENT",
+  "type":"sent",
+  "text":"there's Spanish\n   and there's Chilango.",
+  "id":"86d3d1f6-147f-4f1f-964f-d5e5e114b970",
+  "params":{
+    "id":"b9ce3fa1-f31a-4792-af98-31685ef6d650"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36397,
+  "end":36411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can do this.",
+  "id":"a3dbb28c-2627-4ae1-b0e4-168959f7bf68",
+  "params":{
+    "id":"b83fff9d-3120-4b9e-a739-019ff64817dc"
+  },
+  "name":"Daniel"
+}

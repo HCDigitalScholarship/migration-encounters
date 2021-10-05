@@ -1,0 +1,12 @@
+{
+  "start":32978,
+  "end":33004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always like the Red Sox.",
+  "id":"c7e35dfa-f551-4c90-88ce-cb953df3f6da",
+  "params":{
+    "id":"cd885614-63be-4c09-8e9b-250119b9fd77"
+  },
+  "name":"Billy"
+}

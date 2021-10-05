@@ -1,0 +1,12 @@
+{
+  "start":19300,
+  "end":19322,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   How do I say this?",
+  "id":"e8a18205-4f35-4b4a-af13-304189bb78e1",
+  "params":{
+    "id":"42eb3b20-b44e-4ac3-b56b-dcdb285e5bcf"
+  },
+  "name":"Jose"
+}

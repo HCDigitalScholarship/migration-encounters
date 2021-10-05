@@ -1,0 +1,12 @@
+{
+  "start":18437,
+  "end":18454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have\n   my kid.",
+  "id":"604c8c87-08b9-4c94-86fd-b076ccad05fb",
+  "params":{
+    "id":"8298a2c8-ee79-4584-8dcb-a7c6594be72a"
+  },
+  "name":"Pablo"
+}

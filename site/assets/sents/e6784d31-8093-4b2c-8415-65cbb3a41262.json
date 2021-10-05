@@ -1,0 +1,13 @@
+{
+  "start":32591,
+  "end":32671,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I grab the door and I walk in and\n   he's, \"I said stay right where you are.\"",
+  "id":"e6784d31-8093-4b2c-8415-65cbb3a41262",
+  "params":{
+    "id":"e6784d31-8093-4b2c-8415-65cbb3a41262",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

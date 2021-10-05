@@ -1,0 +1,12 @@
+{
+  "start":25666,
+  "end":25700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what do you miss about the US?",
+  "id":"1b4bdb99-97ef-4275-b05e-dcdd8a3dbdf1",
+  "params":{
+    "id":"25940544-f595-4e7a-93f7-332626fdec43"
+  },
+  "name":"Hugo"
+}

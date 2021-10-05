@@ -1,0 +1,13 @@
+{
+  "start":56676,
+  "end":56689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I took it.",
+  "id":"220d27e5-c66d-4334-941c-a33ad0e2c624",
+  "params":{
+    "id":"220d27e5-c66d-4334-941c-a33ad0e2c624",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

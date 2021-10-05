@@ -1,0 +1,13 @@
+{
+  "start":29069,
+  "end":29120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's interesting\n   that he didn't listen to you.",
+  "id":"98d0dce6-6c5d-49ea-b53a-f003ebe92fac",
+  "params":{
+    "id":"98d0dce6-6c5d-49ea-b53a-f003ebe92fac",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

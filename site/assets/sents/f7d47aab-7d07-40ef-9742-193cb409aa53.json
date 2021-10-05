@@ -1,0 +1,13 @@
+{
+  "start":2307,
+  "end":2331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I saw my grandma crying.",
+  "id":"f7d47aab-7d07-40ef-9742-193cb409aa53",
+  "params":{
+    "id":"f7d47aab-7d07-40ef-9742-193cb409aa53",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

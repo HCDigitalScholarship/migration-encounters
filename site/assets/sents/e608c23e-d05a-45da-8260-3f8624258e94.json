@@ -1,0 +1,13 @@
+{
+  "start":10011,
+  "end":10054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were how old, I guess, in this\n   case?",
+  "id":"e608c23e-d05a-45da-8260-3f8624258e94",
+  "params":{
+    "id":"e608c23e-d05a-45da-8260-3f8624258e94",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28722,
+  "end":28745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got fired eventually.",
+  "id":"a3486341-dcfa-495b-8f16-d19a2ce2ca1f",
+  "params":{
+    "id":"a3486341-dcfa-495b-8f16-d19a2ce2ca1f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

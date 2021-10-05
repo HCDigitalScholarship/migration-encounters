@@ -1,0 +1,12 @@
+{
+  "start":35137,
+  "end":35202,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   When we arrived to Mexico, she didn't know a word of Spanish.",
+  "id":"f9c34c6d-c3e8-4507-8cff-d22a6479bc64",
+  "params":{
+    "id":"bd9b70ca-1b09-4dd3-9060-eb01207be4b6"
+  },
+  "name":"Daniel"
+}

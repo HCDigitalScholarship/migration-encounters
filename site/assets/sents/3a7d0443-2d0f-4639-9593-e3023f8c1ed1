@@ -1,0 +1,12 @@
+{
+  "start":9797,
+  "end":9874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For instance, I would say,\n   \"Hey, I'm looking you're remodeling your house.",
+  "id":"3a7d0443-2d0f-4639-9593-e3023f8c1ed1",
+  "params":{
+    "id":"1593fd39-8bfe-40d6-a250-f8492db1ed65"
+  },
+  "name":"Daniel"
+}

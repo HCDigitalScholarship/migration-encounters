@@ -1,0 +1,13 @@
+{
+  "start":10400,
+  "end":10458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just part of the culture for me to\n   grow like that.",
+  "id":"c84a52dc-fdae-47a8-96a2-60e8ad0bf4c5",
+  "params":{
+    "id":"c84a52dc-fdae-47a8-96a2-60e8ad0bf4c5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

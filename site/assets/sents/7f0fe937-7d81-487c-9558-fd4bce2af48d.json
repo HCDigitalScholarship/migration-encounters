@@ -1,0 +1,13 @@
+{
+  "start":16261,
+  "end":16301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember, she\n   kept all my diplomas.",
+  "id":"7f0fe937-7d81-487c-9558-fd4bce2af48d",
+  "params":{
+    "id":"7f0fe937-7d81-487c-9558-fd4bce2af48d",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":70003,
+  "end":70048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You probably feel like you can relate to him.",
+  "id":"5e5d8b39-f0a4-4119-a5d9-f87ece380b46",
+  "params":{
+    "id":"d6ac8fdb-8d03-42ff-92b5-a59a0658a334"
+  },
+  "name":"Cris"
+}

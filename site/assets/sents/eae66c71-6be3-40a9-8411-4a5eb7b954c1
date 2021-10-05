@@ -1,0 +1,12 @@
+{
+  "start":12078,
+  "end":12130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well,\n   literally, you don't know what to do there.",
+  "id":"eae66c71-6be3-40a9-8411-4a5eb7b954c1",
+  "params":{
+    "id":"d625a41b-9c93-4264-b4bf-911591dceeca"
+  },
+  "name":"Noe"
+}

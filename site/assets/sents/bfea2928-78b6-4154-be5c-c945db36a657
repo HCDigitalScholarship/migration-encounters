@@ -1,0 +1,12 @@
+{
+  "start":22974,
+  "end":23002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You make something bad good.",
+  "id":"bfea2928-78b6-4154-be5c-c945db36a657",
+  "params":{
+    "id":"9012442b-c1d0-4e75-89eb-7007c8443fa5"
+  },
+  "name":"Joseph"
+}

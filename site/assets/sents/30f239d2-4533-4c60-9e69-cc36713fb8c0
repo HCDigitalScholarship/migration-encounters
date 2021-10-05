@@ -1,0 +1,12 @@
+{
+  "start":55602,
+  "end":55707,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does the political climate in the United States now make you feel\n     like you made the right decisions?",
+  "id":"30f239d2-4533-4c60-9e69-cc36713fb8c0",
+  "params":{
+    "id":"1535baa1-dd8b-421c-993b-fd860f23c928"
+  },
+  "name":"Joseph"
+}

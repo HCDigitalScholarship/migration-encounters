@@ -1,0 +1,13 @@
+{
+  "start":31291,
+  "end":31313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Trump has towers here.",
+  "id":"6dcf4550-c2cd-45b8-b0c7-ab8ac3080dad",
+  "params":{
+    "id":"6dcf4550-c2cd-45b8-b0c7-ab8ac3080dad",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

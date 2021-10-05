@@ -1,0 +1,12 @@
+{
+  "start":238,
+  "end":275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad couldn't keep a stable\n   job.",
+  "id":"7e8ec337-efb0-4850-8b2e-181279292e7d",
+  "params":{
+    "id":"82e7f916-507a-4676-8632-71ba59b6555f"
+  },
+  "name":"Ruben"
+}

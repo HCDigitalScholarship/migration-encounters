@@ -1,0 +1,12 @@
+{
+  "start":10199,
+  "end":10281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I come from Mexico, but I wasn't really aware of the fact that I was\n   \"illegal\".",
+  "id":"6975e7c2-045d-425a-92e4-87f54bdf337c",
+  "params":{
+    "id":"206a5224-f583-4e24-8b55-2d3cc5482ba1"
+  },
+  "name":"Luis A"
+}

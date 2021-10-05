@@ -1,0 +1,13 @@
+{
+  "start":16744,
+  "end":16812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told her, \"You\n   don't have to work that much if I start working.",
+  "id":"6c99ffb3-8545-4abf-bba3-1b58a0fc6bdc",
+  "params":{
+    "id":"6c99ffb3-8545-4abf-bba3-1b58a0fc6bdc",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

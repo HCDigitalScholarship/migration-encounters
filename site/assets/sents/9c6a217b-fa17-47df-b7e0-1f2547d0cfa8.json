@@ -1,0 +1,13 @@
+{
+  "start":32995,
+  "end":33065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n   know how I'm going to be able to do it, but I'll come here.",
+  "id":"9c6a217b-fa17-47df-b7e0-1f2547d0cfa8",
+  "params":{
+    "id":"9c6a217b-fa17-47df-b7e0-1f2547d0cfa8",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

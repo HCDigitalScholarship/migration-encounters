@@ -1,0 +1,12 @@
+{
+  "start":42368,
+  "end":42415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n   helped me get through a lot of traumas.",
+  "id":"8bf4f4a5-c800-40e0-ab1f-d4e1f92cb9bb",
+  "params":{
+    "id":"6f5d0dbf-6b67-443c-9e16-889bfb4c5bb9"
+  },
+  "name":"Luisa"
+}

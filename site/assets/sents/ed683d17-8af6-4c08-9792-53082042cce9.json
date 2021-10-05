@@ -1,0 +1,13 @@
+{
+  "start":23936,
+  "end":23983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're always afraid of anyone and\n   everyone.",
+  "id":"ed683d17-8af6-4c08-9792-53082042cce9",
+  "params":{
+    "id":"ed683d17-8af6-4c08-9792-53082042cce9",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

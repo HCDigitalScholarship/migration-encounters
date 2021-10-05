@@ -1,0 +1,12 @@
+{
+  "start":35560,
+  "end":35580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   learn things.",
+  "id":"9d9b8081-804a-4ea4-809a-b691b6239e56",
+  "params":{
+    "id":"c0a9b17e-5685-4c95-86f3-0a5f8ca3fe68"
+  },
+  "name":"Kevin"
+}

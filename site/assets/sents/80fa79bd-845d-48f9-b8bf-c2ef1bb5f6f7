@@ -1,0 +1,12 @@
+{
+  "start":28524,
+  "end":28565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was paralyzed for two and a half weeks.",
+  "id":"80fa79bd-845d-48f9-b8bf-c2ef1bb5f6f7",
+  "params":{
+    "id":"56c1feb0-f6ca-4d52-9aff-f66bff8b24eb"
+  },
+  "name":"Cris"
+}

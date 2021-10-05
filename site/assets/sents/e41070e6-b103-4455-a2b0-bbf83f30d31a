@@ -1,0 +1,12 @@
+{
+  "start":6502,
+  "end":6593,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, no, my\n wife wanted to enroll my daughter in pre-K to get her going because her\n age.",
+  "id":"e41070e6-b103-4455-a2b0-bbf83f30d31a",
+  "params":{
+    "id":"c529fe20-f2e0-44dd-879a-28517a22a1dc"
+  },
+  "name":"Ben"
+}

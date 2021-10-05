@@ -1,0 +1,13 @@
+{
+  "start":49999,
+  "end":50075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a Chrysler Sebring, a Cadillac and I had an Expedition and a\n   Tauro.",
+  "id":"e4c19ce7-3d4c-4e5f-bb77-9028a979436f",
+  "params":{
+    "id":"e4c19ce7-3d4c-4e5f-bb77-9028a979436f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

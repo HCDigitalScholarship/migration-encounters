@@ -1,0 +1,13 @@
+{
+  "start":34438,
+  "end":34466,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why [Chuckles].",
+  "id":"63dd200b-e111-4489-8a6f-355b3ccf1a0b",
+  "params":{
+    "id":"63dd200b-e111-4489-8a6f-355b3ccf1a0b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

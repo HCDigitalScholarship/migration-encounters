@@ -1,0 +1,13 @@
+{
+  "start":39008,
+  "end":39048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Calm down mom, what's wrong?\"",
+  "id":"f30cf4e0-3932-4229-9d7a-bcb0d053bcec",
+  "params":{
+    "id":"f30cf4e0-3932-4229-9d7a-bcb0d053bcec",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

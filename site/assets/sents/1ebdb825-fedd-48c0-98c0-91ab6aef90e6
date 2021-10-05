@@ -1,0 +1,12 @@
+{
+  "start":11045,
+  "end":11104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For example, that there was a lot of bullying on my school.",
+  "id":"1ebdb825-fedd-48c0-98c0-91ab6aef90e6",
+  "params":{
+    "id":"690c15a4-42dd-4f0c-93de-d1d9fefe48e1"
+  },
+  "name":"Frank"
+}

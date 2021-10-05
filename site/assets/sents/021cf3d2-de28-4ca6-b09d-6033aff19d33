@@ -1,0 +1,12 @@
+{
+  "start":29646,
+  "end":29698,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was born here,\" because my Spanish\n   wasn't good.",
+  "id":"021cf3d2-de28-4ca6-b09d-6033aff19d33",
+  "params":{
+    "id":"7011ffaf-106f-4f35-85be-da1a8f61ebcb"
+  },
+  "name":"Sylent"
+}

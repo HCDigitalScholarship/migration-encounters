@@ -1,0 +1,13 @@
+{
+  "start":30202,
+  "end":30223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then you're a target.",
+  "id":"c427ab59-da13-4d6a-a247-0ffe1ca2cdff",
+  "params":{
+    "id":"c427ab59-da13-4d6a-a247-0ffe1ca2cdff",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

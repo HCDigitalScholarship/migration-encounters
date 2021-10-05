@@ -1,0 +1,13 @@
+{
+  "start":10896,
+  "end":10934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n   tuition was pretty high for me.",
+  "id":"d2c8fd53-88c4-409d-ae95-10ff138f8334",
+  "params":{
+    "id":"d2c8fd53-88c4-409d-ae95-10ff138f8334",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

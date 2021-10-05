@@ -1,0 +1,13 @@
+{
+  "start":20193,
+  "end":20251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was two cities away, an hour away, and now\n you're here.",
+  "id":"67b09128-92cf-495e-b4c0-53f60ba515a5",
+  "params":{
+    "id":"67b09128-92cf-495e-b4c0-53f60ba515a5",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

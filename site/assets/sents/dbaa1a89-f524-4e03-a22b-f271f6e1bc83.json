@@ -1,0 +1,13 @@
+{
+  "start":3577,
+  "end":3652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then he went to Texas, and from there, we haven't\n   talked since then.",
+  "id":"dbaa1a89-f524-4e03-a22b-f271f6e1bc83",
+  "params":{
+    "id":"dbaa1a89-f524-4e03-a22b-f271f6e1bc83",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

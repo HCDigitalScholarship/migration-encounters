@@ -1,0 +1,12 @@
+{
+  "start":24253,
+  "end":24321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In some little\n   way, I've always tried to help someone find a job.",
+  "id":"a656978d-cf81-4e8e-8cae-bad1de77fbfa",
+  "params":{
+    "id":"94b2d3e5-bd4d-41e0-a449-7c40be59e9f4"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32065,
+  "end":32093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like Thanksgiving, too.",
+  "id":"a85e726f-ea4c-4a81-9735-b0028458acd4",
+  "params":{
+    "id":"ba43e60e-0ce5-466e-b690-131be99285a1"
+  },
+  "name":"Rodrigo"
+}

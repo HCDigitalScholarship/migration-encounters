@@ -1,0 +1,13 @@
+{
+  "start":6690,
+  "end":6752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In\n Arkansas, we moved around a lot because it was a big city.",
+  "id":"a72675d6-e010-451a-9501-c35c8c455f5d",
+  "params":{
+    "id":"a72675d6-e010-451a-9501-c35c8c455f5d",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

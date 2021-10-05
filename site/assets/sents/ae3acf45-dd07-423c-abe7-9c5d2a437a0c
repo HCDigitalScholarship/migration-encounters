@@ -1,0 +1,12 @@
+{
+  "start":16744,
+  "end":16778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to Camp Gonzalez in Malibu.",
+  "id":"ae3acf45-dd07-423c-abe7-9c5d2a437a0c",
+  "params":{
+    "id":"bdbba4a8-6dea-4d6b-827c-0a3734e10d23"
+  },
+  "name":"Hugo"
+}

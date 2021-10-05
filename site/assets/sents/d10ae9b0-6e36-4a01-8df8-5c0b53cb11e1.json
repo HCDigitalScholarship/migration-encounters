@@ -1,0 +1,13 @@
+{
+  "start":8617,
+  "end":8653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to steal from this man.",
+  "id":"d10ae9b0-6e36-4a01-8df8-5c0b53cb11e1",
+  "params":{
+    "id":"d10ae9b0-6e36-4a01-8df8-5c0b53cb11e1",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

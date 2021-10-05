@@ -1,0 +1,13 @@
+{
+  "start":7295,
+  "end":7349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Most people just hate people from another country.",
+  "id":"19b5a803-33ec-4c23-8d64-a8a1af655520",
+  "params":{
+    "id":"19b5a803-33ec-4c23-8d64-a8a1af655520",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

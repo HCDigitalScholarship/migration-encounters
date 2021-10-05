@@ -1,0 +1,13 @@
+{
+  "start":35791,
+  "end":35824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where we live, it's kind of ugly.",
+  "id":"38095a0b-2b2e-44b5-8658-f4b46837fbd7",
+  "params":{
+    "id":"38095a0b-2b2e-44b5-8658-f4b46837fbd7",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

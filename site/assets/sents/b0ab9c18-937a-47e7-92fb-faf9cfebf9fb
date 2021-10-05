@@ -1,0 +1,12 @@
+{
+  "start":13751,
+  "end":13821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The waiters, servers, hosts, they\n   didn't know how to speak English.",
+  "id":"b0ab9c18-937a-47e7-92fb-faf9cfebf9fb",
+  "params":{
+    "id":"7d0ef172-551e-488d-a3f6-487b0bf46ad4"
+  },
+  "name":"Noe"
+}

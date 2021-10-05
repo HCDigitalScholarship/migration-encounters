@@ -1,0 +1,12 @@
+{
+  "start":40451,
+  "end":40528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's the host,\n   so I'm pretty sure he's well known in the literature world,",
+  "id":"2eaa28e7-1264-4a3f-9b7c-edc410eb923c",
+  "params":{
+    "id":"383ed201-ee54-4dab-b879-88ef8bfc743e"
+  },
+  "name":"Luisa"
+}

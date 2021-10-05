@@ -1,0 +1,13 @@
+{
+  "start":36366,
+  "end":36385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"Whoa, dude.\"",
+  "id":"c138dba6-8933-41e7-9993-a5b432c6e3c3",
+  "params":{
+    "id":"c138dba6-8933-41e7-9993-a5b432c6e3c3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

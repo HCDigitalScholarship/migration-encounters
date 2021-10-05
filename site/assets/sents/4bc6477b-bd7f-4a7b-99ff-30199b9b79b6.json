@@ -1,0 +1,13 @@
+{
+  "start":1902,
+  "end":1907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"4bc6477b-bd7f-4a7b-99ff-30199b9b79b6",
+  "params":{
+    "id":"4bc6477b-bd7f-4a7b-99ff-30199b9b79b6",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

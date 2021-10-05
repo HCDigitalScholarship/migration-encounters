@@ -1,0 +1,13 @@
+{
+  "start":4078,
+  "end":4143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And the security stopped me and they told me,\n   \u201cWhat was that?\u201d",
+  "id":"95509fdb-c35f-4f50-84d9-ec69ef74ea8f",
+  "params":{
+    "id":"95509fdb-c35f-4f50-84d9-ec69ef74ea8f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":49788,
+  "end":49850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because this is the reason that I moved, my dad was telling me",
+  "id":"c819ba2f-a61a-49ea-9132-9dab369abf5a",
+  "params":{
+    "id":"01bc010e-2a29-4d31-9dcf-08cebdd3e6f1"
+  },
+  "name":"Mike"
+}

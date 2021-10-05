@@ -1,0 +1,12 @@
+{
+  "start":6561,
+  "end":6600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was like $400 for kids at that time.",
+  "id":"7ffa075b-f483-4cb7-8983-f1035ef68736",
+  "params":{
+    "id":"6e4e2717-3c03-42c4-a2cd-0e063b0f3d9d"
+  },
+  "name":"Ruben"
+}

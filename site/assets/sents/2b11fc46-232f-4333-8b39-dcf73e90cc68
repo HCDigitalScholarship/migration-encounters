@@ -1,0 +1,12 @@
+{
+  "start":32325,
+  "end":32365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's only\n   if you put your mind to it.",
+  "id":"2b11fc46-232f-4333-8b39-dcf73e90cc68",
+  "params":{
+    "id":"e659bd61-1187-4914-b400-37aea137d0f4"
+  },
+  "name":"Joana"
+}

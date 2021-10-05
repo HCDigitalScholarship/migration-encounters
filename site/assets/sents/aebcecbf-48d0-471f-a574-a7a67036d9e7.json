@@ -1,0 +1,13 @@
+{
+  "start":43859,
+  "end":43886,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It's just like a cigar.",
+  "id":"aebcecbf-48d0-471f-a574-a7a67036d9e7",
+  "params":{
+    "id":"aebcecbf-48d0-471f-a574-a7a67036d9e7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7909,
+  "end":8006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'd be like, \u201cThat's really cool,\u201d because I\n would just use the car to go to work and come back.",
+  "id":"1a4b94d4-11ef-400d-80d0-f985452b1ea6",
+  "params":{
+    "id":"1a4b94d4-11ef-400d-80d0-f985452b1ea6",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

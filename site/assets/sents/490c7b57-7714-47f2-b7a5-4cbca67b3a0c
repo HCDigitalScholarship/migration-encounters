@@ -1,0 +1,12 @@
+{
+  "start":10055,
+  "end":10105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I was thinking like, \"Why do you want us back?",
+  "id":"490c7b57-7714-47f2-b7a5-4cbca67b3a0c",
+  "params":{
+    "id":"b3065c4f-1aec-4175-9e03-4c5d968dbb18"
+  },
+  "name":"Mike"
+}

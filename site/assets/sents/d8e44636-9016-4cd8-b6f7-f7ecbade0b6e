@@ -1,0 +1,12 @@
+{
+  "start":6122,
+  "end":6153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which instruments did you play?",
+  "id":"d8e44636-9016-4cd8-b6f7-f7ecbade0b6e",
+  "params":{
+    "id":"c59a4c57-8ffb-4eda-b620-72a5fe7a60df"
+  },
+  "name":"Brenda"
+}

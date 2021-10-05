@@ -1,0 +1,13 @@
+{
+  "start":3311,
+  "end":3361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My big brother was going to school at that moment,",
+  "id":"7ddfb231-e26f-49c2-ab6a-173e80428309",
+  "params":{
+    "id":"7ddfb231-e26f-49c2-ab6a-173e80428309",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

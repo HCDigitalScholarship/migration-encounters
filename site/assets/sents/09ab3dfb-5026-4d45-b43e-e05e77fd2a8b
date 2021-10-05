@@ -1,0 +1,12 @@
+{
+  "start":5860,
+  "end":5892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or, \"You can't wear that shirt.\"",
+  "id":"09ab3dfb-5026-4d45-b43e-e05e77fd2a8b",
+  "params":{
+    "id":"c56911f1-3b41-411b-b7ee-501b33488521"
+  },
+  "name":"Abel"
+}

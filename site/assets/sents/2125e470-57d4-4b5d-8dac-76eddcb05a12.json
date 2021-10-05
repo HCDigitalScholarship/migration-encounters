@@ -1,0 +1,13 @@
+{
+  "start":63044,
+  "end":63062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think?",
+  "id":"2125e470-57d4-4b5d-8dac-76eddcb05a12",
+  "params":{
+    "id":"2125e470-57d4-4b5d-8dac-76eddcb05a12",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

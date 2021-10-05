@@ -1,0 +1,12 @@
+{
+  "start":22703,
+  "end":22837,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said that he had left out some shoes or boots out on\n   the field and the next day that he went to go get them, they weren't there.",
+  "id":"704ac7a0-0205-4306-8a77-adab7867cab7",
+  "params":{
+    "id":"99261452-c6f4-4de6-acc5-f88b6c6518b9"
+  },
+  "name":"Sylent"
+}

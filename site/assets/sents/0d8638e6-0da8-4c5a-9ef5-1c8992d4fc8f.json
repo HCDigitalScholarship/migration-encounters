@@ -1,0 +1,13 @@
+{
+  "start":19192,
+  "end":19241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom actually signed us up for this\n   program.",
+  "id":"0d8638e6-0da8-4c5a-9ef5-1c8992d4fc8f",
+  "params":{
+    "id":"0d8638e6-0da8-4c5a-9ef5-1c8992d4fc8f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

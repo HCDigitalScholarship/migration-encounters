@@ -1,0 +1,13 @@
+{
+  "start":34254,
+  "end":34271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's in my blood.",
+  "id":"30f38886-4781-4853-870e-12dba0a031c3",
+  "params":{
+    "id":"30f38886-4781-4853-870e-12dba0a031c3",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15474,
+  "end":15501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was able go to the beach.",
+  "id":"1dc02f01-552c-444e-8d5f-6d48fe4ef0ab",
+  "params":{
+    "id":"1dc02f01-552c-444e-8d5f-6d48fe4ef0ab",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

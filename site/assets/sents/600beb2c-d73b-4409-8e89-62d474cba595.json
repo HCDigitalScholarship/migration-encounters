@@ -1,0 +1,13 @@
+{
+  "start":22277,
+  "end":22307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It feels like going to school.",
+  "id":"600beb2c-d73b-4409-8e89-62d474cba595",
+  "params":{
+    "id":"600beb2c-d73b-4409-8e89-62d474cba595",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

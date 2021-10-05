@@ -1,0 +1,12 @@
+{
+  "start":4922,
+  "end":4965,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were the conditions like in detention?",
+  "id":"fd3a19e8-2e82-44e3-80a8-d27c867aa4f5",
+  "params":{
+    "id":"11e42585-bca5-4665-b517-984c478a7807"
+  },
+  "name":"Noe"
+}

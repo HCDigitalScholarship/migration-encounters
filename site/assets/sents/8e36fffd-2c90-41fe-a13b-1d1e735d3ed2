@@ -1,0 +1,12 @@
+{
+  "start":15744,
+  "end":15765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was a tough one.",
+  "id":"8e36fffd-2c90-41fe-a13b-1d1e735d3ed2",
+  "params":{
+    "id":"d3bdeeac-6d38-4617-a231-0fa166cf16fa"
+  },
+  "name":"Jeimmy"
+}

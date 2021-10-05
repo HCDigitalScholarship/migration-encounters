@@ -1,0 +1,13 @@
+{
+  "start":5219,
+  "end":5326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Then after high school, when I got pulled over, they brought me to county\n   and took me to prison.",
+  "id":"a79d960e-4475-4413-b149-42f11453265e",
+  "params":{
+    "id":"a79d960e-4475-4413-b149-42f11453265e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

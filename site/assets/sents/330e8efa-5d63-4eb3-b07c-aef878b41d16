@@ -1,0 +1,12 @@
+{
+  "start":9004,
+  "end":9054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I dropped out of school because I had a baby.",
+  "id":"330e8efa-5d63-4eb3-b07c-aef878b41d16",
+  "params":{
+    "id":"a04b8d1f-1c63-4b82-96f6-b6298562275f"
+  },
+  "name":"Angelo"
+}

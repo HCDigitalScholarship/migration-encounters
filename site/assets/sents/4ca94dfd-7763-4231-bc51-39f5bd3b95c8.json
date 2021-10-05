@@ -1,0 +1,13 @@
+{
+  "start":25804,
+  "end":25933,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if I knew I was going to lose, at\n least I knew I had the money for the bond and I could put it off two,\n three, four years.",
+  "id":"4ca94dfd-7763-4231-bc51-39f5bd3b95c8",
+  "params":{
+    "id":"4ca94dfd-7763-4231-bc51-39f5bd3b95c8",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

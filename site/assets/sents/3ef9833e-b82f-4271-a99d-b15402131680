@@ -1,0 +1,12 @@
+{
+  "start":8334,
+  "end":8347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How was that?",
+  "id":"3ef9833e-b82f-4271-a99d-b15402131680",
+  "params":{
+    "id":"0b39e7c7-57bd-4e07-8af0-1585bcef6b86"
+  },
+  "name":"Yosell"
+}

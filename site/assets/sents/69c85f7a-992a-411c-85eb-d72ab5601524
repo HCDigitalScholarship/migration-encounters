@@ -1,0 +1,12 @@
+{
+  "start":10052,
+  "end":10101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s like, \"Okay wait,\n     but don't come yet.",
+  "id":"69c85f7a-992a-411c-85eb-d72ab5601524",
+  "params":{
+    "id":"eec79eb9-fe34-467f-9b23-85808aa3ec31"
+  },
+  "name":"Beto"
+}

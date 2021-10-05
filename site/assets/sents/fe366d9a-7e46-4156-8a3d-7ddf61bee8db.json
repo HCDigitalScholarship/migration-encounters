@@ -1,0 +1,13 @@
+{
+  "start":252,
+  "end":282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   right now 26 years old.",
+  "id":"fe366d9a-7e46-4156-8a3d-7ddf61bee8db",
+  "params":{
+    "id":"fe366d9a-7e46-4156-8a3d-7ddf61bee8db",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

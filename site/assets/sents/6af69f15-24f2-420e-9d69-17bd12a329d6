@@ -1,0 +1,12 @@
+{
+  "start":18976,
+  "end":19052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you were the oldest and you were born in Mexico before you came\n   here?",
+  "id":"6af69f15-24f2-420e-9d69-17bd12a329d6",
+  "params":{
+    "id":"0ecc52ae-16ab-4e7b-914c-2067c65676b5"
+  },
+  "name":"Kevin"
+}

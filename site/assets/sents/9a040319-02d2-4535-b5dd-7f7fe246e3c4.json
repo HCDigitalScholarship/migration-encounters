@@ -1,0 +1,13 @@
+{
+  "start":11987,
+  "end":12003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I cut my grades.",
+  "id":"9a040319-02d2-4535-b5dd-7f7fe246e3c4",
+  "params":{
+    "id":"9a040319-02d2-4535-b5dd-7f7fe246e3c4",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

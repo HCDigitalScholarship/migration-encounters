@@ -1,0 +1,13 @@
+{
+  "start":8400,
+  "end":8423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy: Going east-west.",
+  "id":"e2cbf144-9bdf-4feb-9240-8455742f05b0",
+  "params":{
+    "id":"e2cbf144-9bdf-4feb-9240-8455742f05b0",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21429,
+  "end":21477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a portrait of one of my elementary friends.",
+  "id":"b794d925-6ef3-442b-888b-015168f62ec4",
+  "params":{
+    "id":"b794d925-6ef3-442b-888b-015168f62ec4",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

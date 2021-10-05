@@ -1,0 +1,13 @@
+{
+  "start":20316,
+  "end":20361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you\n   want to continue your studies here?",
+  "id":"d6818d23-88b6-40dd-93f9-4086ae20af75",
+  "params":{
+    "id":"d6818d23-88b6-40dd-93f9-4086ae20af75",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

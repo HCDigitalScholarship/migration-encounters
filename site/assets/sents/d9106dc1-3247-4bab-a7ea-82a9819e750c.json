@@ -1,0 +1,13 @@
+{
+  "start":24646,
+  "end":24665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't need to.\u201d",
+  "id":"d9106dc1-3247-4bab-a7ea-82a9819e750c",
+  "params":{
+    "id":"d9106dc1-3247-4bab-a7ea-82a9819e750c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

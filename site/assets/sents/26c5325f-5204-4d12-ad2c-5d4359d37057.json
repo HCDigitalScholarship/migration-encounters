@@ -1,0 +1,13 @@
+{
+  "start":10130,
+  "end":10181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother has autism, he's on the autism spectrum.",
+  "id":"26c5325f-5204-4d12-ad2c-5d4359d37057",
+  "params":{
+    "id":"26c5325f-5204-4d12-ad2c-5d4359d37057",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

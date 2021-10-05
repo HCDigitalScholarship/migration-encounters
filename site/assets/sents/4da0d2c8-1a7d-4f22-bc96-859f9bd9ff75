@@ -1,0 +1,12 @@
+{
+  "start":23458,
+  "end":23496,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So have you gotten back to school yet?",
+  "id":"4da0d2c8-1a7d-4f22-bc96-859f9bd9ff75",
+  "params":{
+    "id":"cecd18d5-304b-4ac4-aeaf-1514dab840a3"
+  },
+  "name":"Edgar"
+}

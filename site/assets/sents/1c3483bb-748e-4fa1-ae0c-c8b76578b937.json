@@ -1,0 +1,13 @@
+{
+  "start":50074,
+  "end":50131,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I always tell my mom, \"Please don't talk about that.\"",
+  "id":"1c3483bb-748e-4fa1-ae0c-c8b76578b937",
+  "params":{
+    "id":"1c3483bb-748e-4fa1-ae0c-c8b76578b937",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30099,
+  "end":30122,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm taking care of mine",
+  "id":"51cd869d-1d3b-4370-9816-675c914420eb",
+  "params":{
+    "id":"51cd869d-1d3b-4370-9816-675c914420eb",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

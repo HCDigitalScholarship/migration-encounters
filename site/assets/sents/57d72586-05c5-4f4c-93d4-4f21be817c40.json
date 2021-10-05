@@ -1,0 +1,13 @@
+{
+  "start":7055,
+  "end":7072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just said...",
+  "id":"57d72586-05c5-4f4c-93d4-4f21be817c40",
+  "params":{
+    "id":"57d72586-05c5-4f4c-93d4-4f21be817c40",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

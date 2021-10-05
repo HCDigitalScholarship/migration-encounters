@@ -1,0 +1,12 @@
+{
+  "start":11143,
+  "end":11168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't know anything.",
+  "id":"2ddd7bd0-5829-4088-beba-ba22f961da1a",
+  "params":{
+    "id":"548a966a-f87e-494c-8594-a924dd921171"
+  },
+  "name":"Ilse"
+}

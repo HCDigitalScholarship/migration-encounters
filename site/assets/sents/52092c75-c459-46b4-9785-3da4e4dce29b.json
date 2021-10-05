@@ -1,0 +1,13 @@
+{
+  "start":29845,
+  "end":29897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"You need to learn how to speak English.\"",
+  "id":"52092c75-c459-46b4-9785-3da4e4dce29b",
+  "params":{
+    "id":"52092c75-c459-46b4-9785-3da4e4dce29b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

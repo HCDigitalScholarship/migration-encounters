@@ -1,0 +1,13 @@
+{
+  "start":12072,
+  "end":12102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It cost me a lot and all that.",
+  "id":"1f6288f3-57f4-4d91-be1d-4c9597bca46a",
+  "params":{
+    "id":"1f6288f3-57f4-4d91-be1d-4c9597bca46a",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

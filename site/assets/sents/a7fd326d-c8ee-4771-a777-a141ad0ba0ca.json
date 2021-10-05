@@ -1,0 +1,12 @@
+{
+  "start":23591,
+  "end":23621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He feels bad for what he\n did.",
+  "id":"a7fd326d-c8ee-4771-a777-a141ad0ba0ca",
+  "params":{
+    "id":"917a3a14-db5b-4366-adc1-4b51d7196727"
+  },
+  "name":"Billy"
+}

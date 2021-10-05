@@ -1,0 +1,12 @@
+{
+  "start":9262,
+  "end":9297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll let you have it\n   for $1.50.\"",
+  "id":"eac4ac00-27f4-47ce-8a28-c2262d7fce8b",
+  "params":{
+    "id":"9a265c31-def2-4437-978e-9248309e3a51"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28062,
+  "end":28075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"b16815eb-39ed-49c8-93db-91f427ccb889",
+  "params":{
+    "id":"b16815eb-39ed-49c8-93db-91f427ccb889",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28653,
+  "end":28684,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it was just a lot of stuff.",
+  "id":"00f7dd8d-4c9c-4554-87aa-b03507a48227",
+  "params":{
+    "id":"00f7dd8d-4c9c-4554-87aa-b03507a48227",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

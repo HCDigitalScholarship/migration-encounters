@@ -1,0 +1,13 @@
+{
+  "start":23255,
+  "end":23298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   makes me mad, because I have a job.",
+  "id":"214ce43f-9126-475f-8cdc-950e69033ab7",
+  "params":{
+    "id":"214ce43f-9126-475f-8cdc-950e69033ab7",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

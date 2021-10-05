@@ -1,0 +1,13 @@
+{
+  "start":49507,
+  "end":49567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n   like, \"Put yourself on coach, man, go get your 200.\"",
+  "id":"290d7b28-d31a-4f31-b3b4-aded0d1ffe4f",
+  "params":{
+    "id":"290d7b28-d31a-4f31-b3b4-aded0d1ffe4f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

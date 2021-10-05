@@ -1,0 +1,13 @@
+{
+  "start":9019,
+  "end":9072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't have\n   nothing to do but eat and watch TV.",
+  "id":"b297ea07-9daf-41d9-b881-63cdf5c1ec16",
+  "params":{
+    "id":"b297ea07-9daf-41d9-b881-63cdf5c1ec16",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

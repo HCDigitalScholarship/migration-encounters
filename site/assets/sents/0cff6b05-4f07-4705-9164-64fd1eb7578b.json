@@ -1,0 +1,13 @@
+{
+  "start":3256,
+  "end":3289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a\n   playroom, my own room.",
+  "id":"0cff6b05-4f07-4705-9164-64fd1eb7578b",
+  "params":{
+    "id":"0cff6b05-4f07-4705-9164-64fd1eb7578b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

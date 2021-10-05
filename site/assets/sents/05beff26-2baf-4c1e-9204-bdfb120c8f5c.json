@@ -1,0 +1,13 @@
+{
+  "start":76847,
+  "end":76863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm a carnivore.",
+  "id":"05beff26-2baf-4c1e-9204-bdfb120c8f5c",
+  "params":{
+    "id":"05beff26-2baf-4c1e-9204-bdfb120c8f5c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

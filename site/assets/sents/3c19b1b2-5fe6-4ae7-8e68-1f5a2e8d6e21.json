@@ -1,0 +1,13 @@
+{
+  "start":1119,
+  "end":1198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then we were moved to\n the elementary school where we finished our studies.",
+  "id":"3c19b1b2-5fe6-4ae7-8e68-1f5a2e8d6e21",
+  "params":{
+    "id":"3c19b1b2-5fe6-4ae7-8e68-1f5a2e8d6e21",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

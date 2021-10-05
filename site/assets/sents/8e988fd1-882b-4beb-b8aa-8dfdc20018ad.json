@@ -1,0 +1,13 @@
+{
+  "start":43459,
+  "end":43549,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's the day I\n   got caught up with the blunt in my ear and the security caught me.",
+  "id":"8e988fd1-882b-4beb-b8aa-8dfdc20018ad",
+  "params":{
+    "id":"8e988fd1-882b-4beb-b8aa-8dfdc20018ad",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

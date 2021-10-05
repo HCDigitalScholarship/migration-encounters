@@ -1,0 +1,13 @@
+{
+  "start":29277,
+  "end":29314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can\n   see everything through it.",
+  "id":"abf30518-86e7-4cd8-899f-13bae28441a8",
+  "params":{
+    "id":"abf30518-86e7-4cd8-899f-13bae28441a8",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

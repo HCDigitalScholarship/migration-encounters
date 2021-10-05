@@ -1,0 +1,13 @@
+{
+  "start":10109,
+  "end":10151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was my decision if I wanted to\n   stay.",
+  "id":"fc01bc72-e862-4a8b-8437-612bcf286599",
+  "params":{
+    "id":"fc01bc72-e862-4a8b-8437-612bcf286599",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

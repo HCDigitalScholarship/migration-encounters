@@ -1,0 +1,12 @@
+{
+  "start":40056,
+  "end":40075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Excuse my language.",
+  "id":"eb335497-a3a1-42dc-913e-1a7104a8b249",
+  "params":{
+    "id":"3593fedd-bddd-4002-a0aa-8649ad19a330"
+  },
+  "name":"Billy"
+}

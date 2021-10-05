@@ -1,0 +1,12 @@
+{
+  "start":4504,
+  "end":4529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who do you live with now?",
+  "id":"1b236328-4d26-4660-b998-33a741a4c58c",
+  "params":{
+    "id":"c038a01e-cb56-4008-87c9-1e936e3bf382"
+  },
+  "name":"Ivan"
+}

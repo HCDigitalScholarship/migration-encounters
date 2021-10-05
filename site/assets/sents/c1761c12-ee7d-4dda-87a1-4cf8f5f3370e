@@ -1,0 +1,12 @@
+{
+  "start":30099,
+  "end":30199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm halfway through my career,\n   I'm looking into different projects, like I mentioned, the Airbnb.",
+  "id":"c1761c12-ee7d-4dda-87a1-4cf8f5f3370e",
+  "params":{
+    "id":"bac48e64-b690-49aa-af88-0f19c9a4f99b"
+  },
+  "name":"Juan B"
+}

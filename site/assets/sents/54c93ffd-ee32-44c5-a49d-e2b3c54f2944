@@ -1,0 +1,12 @@
+{
+  "start":24135,
+  "end":24165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You better shut\n   your mouth.",
+  "id":"54c93ffd-ee32-44c5-a49d-e2b3c54f2944",
+  "params":{
+    "id":"445da466-0526-490f-bd3d-147ad7a5e505"
+  },
+  "name":"Hugo"
+}

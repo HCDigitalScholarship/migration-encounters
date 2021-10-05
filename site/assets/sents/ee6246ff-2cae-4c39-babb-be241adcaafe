@@ -1,0 +1,12 @@
+{
+  "start":58,
+  "end":84,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that how you say\n   it?",
+  "id":"ee6246ff-2cae-4c39-babb-be241adcaafe",
+  "params":{
+    "id":"b40ab5d4-95eb-40a3-b432-26eb6a4a9df5"
+  },
+  "name":"Yair"
+}

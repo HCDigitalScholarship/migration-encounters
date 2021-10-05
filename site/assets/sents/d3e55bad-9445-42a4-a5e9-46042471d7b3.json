@@ -1,0 +1,13 @@
+{
+  "start":2111,
+  "end":2179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And about a few years later, so that's when I decided to\n   join up.",
+  "id":"d3e55bad-9445-42a4-a5e9-46042471d7b3",
+  "params":{
+    "id":"d3e55bad-9445-42a4-a5e9-46042471d7b3",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

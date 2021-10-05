@@ -1,0 +1,12 @@
+{
+  "start":6379,
+  "end":6398,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was one time.",
+  "id":"01b0eb0f-9f0f-45c8-856e-122bff775a34",
+  "params":{
+    "id":"9e9d2696-fdbb-402d-8e4a-ef88f30f9cff"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19347,
+  "end":19380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started at\n   zero, by nothing.",
+  "id":"70e0cac3-173d-4782-963e-b0ad08c1b2d1",
+  "params":{
+    "id":"70e0cac3-173d-4782-963e-b0ad08c1b2d1",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

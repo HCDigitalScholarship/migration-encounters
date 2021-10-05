@@ -1,0 +1,12 @@
+{
+  "start":1692,
+  "end":1750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first job was at a\n   Rainforest Cafe, down in Arizona.",
+  "id":"9a3faae6-088b-4dc2-b630-0cb223853222",
+  "params":{
+    "id":"7c150308-ecb2-41a8-9568-3adff1e0a3b9"
+  },
+  "name":"Ivan"
+}

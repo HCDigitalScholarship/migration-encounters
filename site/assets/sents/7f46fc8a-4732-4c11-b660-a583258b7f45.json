@@ -1,0 +1,13 @@
+{
+  "start":30572,
+  "end":30712,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He wasn't able to finish because school was\n   very expensive, and he didn't have a scholarship so it was very difficult\n   for our parents.",
+  "id":"7f46fc8a-4732-4c11-b660-a583258b7f45",
+  "params":{
+    "id":"7f46fc8a-4732-4c11-b660-a583258b7f45",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

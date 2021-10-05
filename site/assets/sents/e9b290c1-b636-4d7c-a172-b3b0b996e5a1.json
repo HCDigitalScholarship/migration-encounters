@@ -1,0 +1,13 @@
+{
+  "start":3889,
+  "end":3953,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   there's deer there and everything, and there's a volcano.",
+  "id":"e9b290c1-b636-4d7c-a172-b3b0b996e5a1",
+  "params":{
+    "id":"e9b290c1-b636-4d7c-a172-b3b0b996e5a1",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

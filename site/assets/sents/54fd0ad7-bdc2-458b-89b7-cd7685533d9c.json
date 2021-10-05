@@ -1,0 +1,13 @@
+{
+  "start":64235,
+  "end":64261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Man, look,\"\n   ",
+  "id":"54fd0ad7-bdc2-458b-89b7-cd7685533d9c",
+  "params":{
+    "id":"54fd0ad7-bdc2-458b-89b7-cd7685533d9c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

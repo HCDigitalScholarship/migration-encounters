@@ -1,0 +1,13 @@
+{
+  "start":4153,
+  "end":4173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I liked\n   it a lot.",
+  "id":"46715185-8f4c-455a-a5c4-3a8f7adcd395",
+  "params":{
+    "id":"46715185-8f4c-455a-a5c4-3a8f7adcd395",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

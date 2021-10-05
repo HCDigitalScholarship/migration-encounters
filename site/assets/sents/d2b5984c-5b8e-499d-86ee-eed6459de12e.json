@@ -1,0 +1,13 @@
+{
+  "start":45021,
+  "end":45039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a great name.",
+  "id":"d2b5984c-5b8e-499d-86ee-eed6459de12e",
+  "params":{
+    "id":"d2b5984c-5b8e-499d-86ee-eed6459de12e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

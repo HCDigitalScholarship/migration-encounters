@@ -1,0 +1,13 @@
+{
+  "start":8001,
+  "end":8056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And we were scared it would\nhappen at school and stuff.",
+  "id":"be194582-ca47-46e8-b5c0-34757fe76d73",
+  "params":{
+    "id":"be194582-ca47-46e8-b5c0-34757fe76d73",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

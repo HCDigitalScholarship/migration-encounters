@@ -1,0 +1,13 @@
+{
+  "start":51839,
+  "end":51934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Le hablo a mi mam\u00e1, \u201cMam\u00e1 algo est\u00e1\n     pasando en el metro porque qu\u00e9 mucha gente no s\u00e9 qu\u00e9\u201d.",
+  "id":"243b1f92-a4f5-42dc-a867-afe7e3990a47",
+  "params":{
+    "id":"243b1f92-a4f5-42dc-a867-afe7e3990a47",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

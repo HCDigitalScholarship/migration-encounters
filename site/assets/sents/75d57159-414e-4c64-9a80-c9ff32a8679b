@@ -1,0 +1,12 @@
+{
+  "start":15562,
+  "end":15618,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took me to a local jail to stay there\n   overnight.",
+  "id":"75d57159-414e-4c64-9a80-c9ff32a8679b",
+  "params":{
+    "id":"53b7eb7d-3526-4973-a80e-a90c0155b3c0"
+  },
+  "name":"Daniel"
+}

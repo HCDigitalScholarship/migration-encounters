@@ -1,0 +1,12 @@
+{
+  "start":10353,
+  "end":10379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I let my brother practice.",
+  "id":"9531d89b-06db-42b6-8004-68e2e78bb61b",
+  "params":{
+    "id":"6a806380-0872-4f21-a429-a08bc0f3b65e"
+  },
+  "name":"Cris"
+}

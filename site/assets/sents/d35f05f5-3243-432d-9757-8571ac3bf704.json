@@ -1,0 +1,13 @@
+{
+  "start":32422,
+  "end":32463,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And the regular job is\n   like ten hours.",
+  "id":"d35f05f5-3243-432d-9757-8571ac3bf704",
+  "params":{
+    "id":"d35f05f5-3243-432d-9757-8571ac3bf704",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

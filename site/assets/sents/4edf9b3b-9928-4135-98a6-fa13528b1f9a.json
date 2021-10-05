@@ -1,0 +1,13 @@
+{
+  "start":14559,
+  "end":14626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   can't do this, because everyone was just complaining about me.",
+  "id":"4edf9b3b-9928-4135-98a6-fa13528b1f9a",
+  "params":{
+    "id":"4edf9b3b-9928-4135-98a6-fa13528b1f9a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

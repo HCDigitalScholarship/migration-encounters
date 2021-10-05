@@ -1,0 +1,12 @@
+{
+  "start":4803,
+  "end":4840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I purchased a house, purchased a car.",
+  "id":"997320a3-3a99-48e1-a9a6-89bd5c13ace6",
+  "params":{
+    "id":"273b618c-190e-456b-b359-10eecafd2949"
+  },
+  "name":"Juan A"
+}

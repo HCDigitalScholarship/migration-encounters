@@ -1,0 +1,13 @@
+{
+  "start":27233,
+  "end":27302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"S\u00ed por ejemplo, ellos sal\u00edan yo\n     trataba de hablar con las mam\u00e1s.",
+  "id":"dbecaabb-3f3f-4839-8f32-2db11ea75c51",
+  "params":{
+    "id":"dbecaabb-3f3f-4839-8f32-2db11ea75c51",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

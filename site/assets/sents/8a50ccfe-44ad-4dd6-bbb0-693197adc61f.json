@@ -1,0 +1,13 @@
+{
+  "start":20428,
+  "end":20481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I'm\n   actually planning on getting a little car.",
+  "id":"8a50ccfe-44ad-4dd6-bbb0-693197adc61f",
+  "params":{
+    "id":"8a50ccfe-44ad-4dd6-bbb0-693197adc61f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

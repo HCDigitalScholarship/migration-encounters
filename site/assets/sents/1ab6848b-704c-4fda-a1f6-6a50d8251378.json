@@ -1,0 +1,13 @@
+{
+  "start":2009,
+  "end":2096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was no reason for that [Chuckle], but\n   I guess my mom says she's very stubborn.",
+  "id":"1ab6848b-704c-4fda-a1f6-6a50d8251378",
+  "params":{
+    "id":"1ab6848b-704c-4fda-a1f6-6a50d8251378",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

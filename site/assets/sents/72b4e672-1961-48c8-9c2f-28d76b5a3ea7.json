@@ -1,0 +1,13 @@
+{
+  "start":24928,
+  "end":24999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   they knew I was Hispanic, and they never treated me differently.",
+  "id":"72b4e672-1961-48c8-9c2f-28d76b5a3ea7",
+  "params":{
+    "id":"72b4e672-1961-48c8-9c2f-28d76b5a3ea7",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

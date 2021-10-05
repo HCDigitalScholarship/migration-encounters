@@ -1,0 +1,13 @@
+{
+  "start":10127,
+  "end":10139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Exactamente.",
+  "id":"e34c3851-18a4-455c-b3ef-0a6c168d89cc",
+  "params":{
+    "id":"e34c3851-18a4-455c-b3ef-0a6c168d89cc",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

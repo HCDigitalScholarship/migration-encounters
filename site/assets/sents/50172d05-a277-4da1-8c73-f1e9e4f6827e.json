@@ -1,0 +1,13 @@
+{
+  "start":5981,
+  "end":6016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And right now, we talk super great.",
+  "id":"50172d05-a277-4da1-8c73-f1e9e4f6827e",
+  "params":{
+    "id":"50172d05-a277-4da1-8c73-f1e9e4f6827e",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

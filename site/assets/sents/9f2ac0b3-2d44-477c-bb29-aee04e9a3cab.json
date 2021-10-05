@@ -1,0 +1,13 @@
+{
+  "start":16021,
+  "end":16067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think those are all\n   the questions I have.",
+  "id":"9f2ac0b3-2d44-477c-bb29-aee04e9a3cab",
+  "params":{
+    "id":"9f2ac0b3-2d44-477c-bb29-aee04e9a3cab",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

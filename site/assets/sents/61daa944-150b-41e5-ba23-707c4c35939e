@@ -1,0 +1,12 @@
+{
+  "start":6081,
+  "end":6099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were doing art.",
+  "id":"61daa944-150b-41e5-ba23-707c4c35939e",
+  "params":{
+    "id":"4a4a0ca1-15dc-4f0f-810e-47c97a10c366"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11679,
+  "end":11774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n     The other call center?\n \n \n     Beto:\n \n \n     The other call center was empty.",
+  "id":"bc66c207-1ecd-45c5-91c8-713edbac361a",
+  "params":{
+    "id":"6febc82f-0e32-4ebc-89a0-961fc4a8be6d"
+  },
+  "name":"Beto"
+}

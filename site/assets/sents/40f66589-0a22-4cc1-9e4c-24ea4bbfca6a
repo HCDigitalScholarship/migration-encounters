@@ -1,0 +1,12 @@
+{
+  "start":44835,
+  "end":44850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're humans.",
+  "id":"40f66589-0a22-4cc1-9e4c-24ea4bbfca6a",
+  "params":{
+    "id":"b33887b9-8500-439b-bb04-bbd4afefd2c5"
+  },
+  "name":"Sylent"
+}

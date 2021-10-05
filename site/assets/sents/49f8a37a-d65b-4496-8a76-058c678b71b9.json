@@ -1,0 +1,13 @@
+{
+  "start":20416,
+  "end":20462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Affirmative noise] I transferred to that one.",
+  "id":"49f8a37a-d65b-4496-8a76-058c678b71b9",
+  "params":{
+    "id":"49f8a37a-d65b-4496-8a76-058c678b71b9",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

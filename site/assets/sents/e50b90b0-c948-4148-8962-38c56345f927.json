@@ -1,0 +1,13 @@
+{
+  "start":37480,
+  "end":37536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"It's okay officer, it's not\n   your fault.\"",
+  "id":"e50b90b0-c948-4148-8962-38c56345f927",
+  "params":{
+    "id":"e50b90b0-c948-4148-8962-38c56345f927",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

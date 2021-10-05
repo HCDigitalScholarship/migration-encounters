@@ -1,0 +1,13 @@
+{
+  "start":7960,
+  "end":8011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I struggle,\n   but I can manage, and I can survive.",
+  "id":"458b7d44-6c3f-4cdd-867e-989d9fc2b2b3",
+  "params":{
+    "id":"458b7d44-6c3f-4cdd-867e-989d9fc2b2b3",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

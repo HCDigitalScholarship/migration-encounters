@@ -1,0 +1,12 @@
+{
+  "start":38144,
+  "end":38160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I killed myself.",
+  "id":"f01e2b5a-018b-4a8a-9c30-82e11b639d40",
+  "params":{
+    "id":"7cafdf81-44a1-4065-adda-4fd5e162e5e2"
+  },
+  "name":"Luisa"
+}

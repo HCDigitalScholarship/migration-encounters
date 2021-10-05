@@ -1,0 +1,12 @@
+{
+  "start":5668,
+  "end":5693,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had brain\n   surgery.",
+  "id":"352c1184-a72b-44f1-a5e4-f688f3af7e4a",
+  "params":{
+    "id":"9c1617ee-a551-4eca-9eaf-84e245546939"
+  },
+  "name":"Luisa"
+}

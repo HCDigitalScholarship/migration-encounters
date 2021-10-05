@@ -1,0 +1,13 @@
+{
+  "start":17509,
+  "end":17526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\nwas pregnant.",
+  "id":"09ab5747-c19f-49b5-924f-de095cec062e",
+  "params":{
+    "id":"09ab5747-c19f-49b5-924f-de095cec062e",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

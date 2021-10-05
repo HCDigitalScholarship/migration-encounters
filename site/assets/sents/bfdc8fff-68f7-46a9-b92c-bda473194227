@@ -1,0 +1,12 @@
+{
+  "start":1990,
+  "end":1997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel:",
+  "id":"bfdc8fff-68f7-46a9-b92c-bda473194227",
+  "params":{
+    "id":"6d2ba3a4-edb8-47ba-b893-6e81d5790cb1"
+  },
+  "name":"Kevin"
+}

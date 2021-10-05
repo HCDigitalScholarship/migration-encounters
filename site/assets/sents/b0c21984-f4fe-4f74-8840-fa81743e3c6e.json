@@ -1,0 +1,13 @@
+{
+  "start":37847,
+  "end":37905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to always keep it in the middle, keep it neutral.",
+  "id":"b0c21984-f4fe-4f74-8840-fa81743e3c6e",
+  "params":{
+    "id":"b0c21984-f4fe-4f74-8840-fa81743e3c6e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

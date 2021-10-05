@@ -1,0 +1,12 @@
+{
+  "start":833,
+  "end":850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He did some time.",
+  "id":"26f6c784-5bc7-4d29-98d5-73988dc72976",
+  "params":{
+    "id":"2629fd3f-94ae-4041-8827-ec87e416fb26"
+  },
+  "name":"Kevin"
+}

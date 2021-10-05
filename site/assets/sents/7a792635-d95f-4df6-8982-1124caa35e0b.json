@@ -1,0 +1,12 @@
+{
+  "start":4711,
+  "end":4733,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you do there?",
+  "id":"7a792635-d95f-4df6-8982-1124caa35e0b",
+  "params":{
+    "id":"9e4f5f7b-33d2-4788-8e5e-7be2a82fc30a"
+  },
+  "name":"Pablo"
+}

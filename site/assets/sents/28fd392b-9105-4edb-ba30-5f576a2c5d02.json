@@ -1,0 +1,13 @@
+{
+  "start":37873,
+  "end":37885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had to.",
+  "id":"28fd392b-9105-4edb-ba30-5f576a2c5d02",
+  "params":{
+    "id":"28fd392b-9105-4edb-ba30-5f576a2c5d02",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

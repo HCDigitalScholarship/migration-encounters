@@ -1,0 +1,13 @@
+{
+  "start":20151,
+  "end":20166,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Buying a house.",
+  "id":"ba9095aa-7233-497e-8144-78fb4386d9d2",
+  "params":{
+    "id":"ba9095aa-7233-497e-8144-78fb4386d9d2",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

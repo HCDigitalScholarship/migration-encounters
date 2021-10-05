@@ -1,0 +1,13 @@
+{
+  "start":4283,
+  "end":4320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And some people don't want to change.",
+  "id":"d0ffdffc-dfcc-4156-a82e-9d12661ad280",
+  "params":{
+    "id":"d0ffdffc-dfcc-4156-a82e-9d12661ad280",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

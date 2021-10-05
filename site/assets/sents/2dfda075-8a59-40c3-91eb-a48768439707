@@ -1,0 +1,12 @@
+{
+  "start":7549,
+  "end":7701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   I mean, I was just with them because I was going to Walmart to do a return\n   and they stopped us in a traffic stop and they blamed it all on me.",
+  "id":"2dfda075-8a59-40c3-91eb-a48768439707",
+  "params":{
+    "id":"bbc619e7-166c-4b47-976c-a46320fc052a"
+  },
+  "name":"Ivan"
+}

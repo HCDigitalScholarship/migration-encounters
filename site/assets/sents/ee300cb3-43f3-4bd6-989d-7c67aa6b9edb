@@ -1,0 +1,12 @@
+{
+  "start":5752,
+  "end":5784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They wanted me to play football.",
+  "id":"ee300cb3-43f3-4bd6-989d-7c67aa6b9edb",
+  "params":{
+    "id":"1ee33a94-316c-4ca8-905f-4ee2f61172e5"
+  },
+  "name":"Hugo"
+}

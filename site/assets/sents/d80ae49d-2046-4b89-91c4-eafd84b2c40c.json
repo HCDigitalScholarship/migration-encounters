@@ -1,0 +1,13 @@
+{
+  "start":13302,
+  "end":13323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So then it was chaos.",
+  "id":"d80ae49d-2046-4b89-91c4-eafd84b2c40c",
+  "params":{
+    "id":"d80ae49d-2046-4b89-91c4-eafd84b2c40c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

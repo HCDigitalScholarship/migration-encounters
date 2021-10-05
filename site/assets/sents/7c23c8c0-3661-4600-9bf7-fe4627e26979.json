@@ -1,0 +1,13 @@
+{
+  "start":24802,
+  "end":24838,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I\n   got here, it was very bad.",
+  "id":"7c23c8c0-3661-4600-9bf7-fe4627e26979",
+  "params":{
+    "id":"7c23c8c0-3661-4600-9bf7-fe4627e26979",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

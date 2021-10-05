@@ -1,0 +1,13 @@
+{
+  "start":1449,
+  "end":1475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Roberto: In Mexico, right?",
+  "id":"a739ed9f-a3d9-4b4b-afe2-819ce8e132f8",
+  "params":{
+    "id":"a739ed9f-a3d9-4b4b-afe2-819ce8e132f8",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

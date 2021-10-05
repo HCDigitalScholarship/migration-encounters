@@ -1,0 +1,12 @@
+{
+  "start":25666,
+  "end":25715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I read books too,\nI read English books and stuff.",
+  "id":"8b6f6ec7-7b8f-4fed-baab-2414eb93e394",
+  "params":{
+    "id":"93cbfda1-4ba4-4846-9a82-055c73a6c2a0"
+  },
+  "name":"Abel"
+}

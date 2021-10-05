@@ -1,0 +1,13 @@
+{
+  "start":51203,
+  "end":51261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If she hears me talk, she's going to take the phone away.\"",
+  "id":"8cb61eca-6e17-4ab3-8c32-b40cbd21ee05",
+  "params":{
+    "id":"8cb61eca-6e17-4ab3-8c32-b40cbd21ee05",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

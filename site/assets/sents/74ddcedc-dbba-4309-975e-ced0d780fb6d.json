@@ -1,0 +1,13 @@
+{
+  "start":8081,
+  "end":8113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you like high school or not?",
+  "id":"74ddcedc-dbba-4309-975e-ced0d780fb6d",
+  "params":{
+    "id":"74ddcedc-dbba-4309-975e-ced0d780fb6d",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

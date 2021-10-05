@@ -1,0 +1,13 @@
+{
+  "start":15768,
+  "end":15790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They talk about music.",
+  "id":"4cc6eab2-9c19-4d49-9f9c-8ec86c520cdb",
+  "params":{
+    "id":"4cc6eab2-9c19-4d49-9f9c-8ec86c520cdb",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

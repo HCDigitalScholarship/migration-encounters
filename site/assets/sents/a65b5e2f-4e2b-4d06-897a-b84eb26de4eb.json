@@ -1,0 +1,13 @@
+{
+  "start":26821,
+  "end":26847,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It works or it don't work.",
+  "id":"a65b5e2f-4e2b-4d06-897a-b84eb26de4eb",
+  "params":{
+    "id":"a65b5e2f-4e2b-4d06-897a-b84eb26de4eb",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

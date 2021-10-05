@@ -1,0 +1,13 @@
+{
+  "start":21382,
+  "end":21388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I see.",
+  "id":"590b1db7-30b8-4fcb-9e41-b2cb6ead97d3",
+  "params":{
+    "id":"590b1db7-30b8-4fcb-9e41-b2cb6ead97d3",
+    "class":"anno"
+  },
+  "name":"Many"
+}

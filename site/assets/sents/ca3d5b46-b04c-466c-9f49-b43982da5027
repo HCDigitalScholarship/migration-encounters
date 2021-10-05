@@ -1,0 +1,12 @@
+{
+  "start":27130,
+  "end":27160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I worked from\n   8:00 to 3:00.",
+  "id":"ca3d5b46-b04c-466c-9f49-b43982da5027",
+  "params":{
+    "id":"ebce9284-5410-46e5-9a63-0e3e1a83825e"
+  },
+  "name":"Carlos"
+}

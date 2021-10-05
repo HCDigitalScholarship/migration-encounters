@@ -1,0 +1,12 @@
+{
+  "start":6658,
+  "end":6695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Did you get in trouble?",
+  "id":"2c4a2fee-7843-4066-92e2-b8649b6425ee",
+  "params":{
+    "id":"4e1a3469-89ce-4aed-bc7d-85dfb6314eed"
+  },
+  "name":"Carlos"
+}

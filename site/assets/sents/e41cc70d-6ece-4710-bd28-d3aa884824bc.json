@@ -1,0 +1,13 @@
+{
+  "start":6237,
+  "end":6270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"this Guatemalan\n   friend's house",
+  "id":"e41cc70d-6ece-4710-bd28-d3aa884824bc",
+  "params":{
+    "id":"e41cc70d-6ece-4710-bd28-d3aa884824bc",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

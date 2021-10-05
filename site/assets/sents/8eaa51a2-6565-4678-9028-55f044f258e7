@@ -1,0 +1,12 @@
+{
+  "start":37223,
+  "end":37305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know he will\n   be there, and I got time for him because I only work nine hours.",
+  "id":"8eaa51a2-6565-4678-9028-55f044f258e7",
+  "params":{
+    "id":"d8f20e45-647d-420e-9c32-62a4919a79dc"
+  },
+  "name":"Rodrigo"
+}

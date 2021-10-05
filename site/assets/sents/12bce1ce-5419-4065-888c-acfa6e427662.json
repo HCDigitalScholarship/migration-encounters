@@ -1,0 +1,13 @@
+{
+  "start":40264,
+  "end":40289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The teacher published it.",
+  "id":"12bce1ce-5419-4065-888c-acfa6e427662",
+  "params":{
+    "id":"12bce1ce-5419-4065-888c-acfa6e427662",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

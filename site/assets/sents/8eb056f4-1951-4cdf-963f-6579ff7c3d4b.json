@@ -1,0 +1,13 @@
+{
+  "start":11191,
+  "end":11264,
+  "label":"SENT",
+  "type":"sent",
+  "text":", they had projects, there were projects everywhere,\n Kentucky, Michigan.",
+  "id":"8eb056f4-1951-4cdf-963f-6579ff7c3d4b",
+  "params":{
+    "id":"8eb056f4-1951-4cdf-963f-6579ff7c3d4b",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

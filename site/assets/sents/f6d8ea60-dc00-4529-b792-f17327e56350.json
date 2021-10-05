@@ -1,0 +1,13 @@
+{
+  "start":21162,
+  "end":21234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They take the car, they take\n   the money and they put me on the ground.",
+  "id":"f6d8ea60-dc00-4529-b792-f17327e56350",
+  "params":{
+    "id":"f6d8ea60-dc00-4529-b792-f17327e56350",
+    "class":"anno"
+  },
+  "name":"Many"
+}

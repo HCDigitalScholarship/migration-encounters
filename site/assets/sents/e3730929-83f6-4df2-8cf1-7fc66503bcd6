@@ -1,0 +1,12 @@
+{
+  "start":6942,
+  "end":6982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Man, I just made this worse.\"",
+  "id":"e3730929-83f6-4df2-8cf1-7fc66503bcd6",
+  "params":{
+    "id":"b20b6343-5ed9-427d-a75b-33b5d898e364"
+  },
+  "name":"Kevin"
+}

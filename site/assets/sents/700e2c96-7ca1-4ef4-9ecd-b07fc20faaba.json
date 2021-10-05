@@ -1,0 +1,13 @@
+{
+  "start":43934,
+  "end":44001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then they question me about, \"How is it like to\n   be an American?\"",
+  "id":"700e2c96-7ca1-4ef4-9ecd-b07fc20faaba",
+  "params":{
+    "id":"700e2c96-7ca1-4ef4-9ecd-b07fc20faaba",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

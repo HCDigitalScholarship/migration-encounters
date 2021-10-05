@@ -1,0 +1,12 @@
+{
+  "start":18125,
+  "end":18150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a really hard time.",
+  "id":"2f73dee8-7004-479b-a5c0-4f211e0e80c4",
+  "params":{
+    "id":"eb2d3792-0059-4cbf-bf42-f086bd100f83"
+  },
+  "name":"Ilse"
+}

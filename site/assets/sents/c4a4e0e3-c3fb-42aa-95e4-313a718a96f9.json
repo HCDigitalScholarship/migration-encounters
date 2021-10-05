@@ -1,0 +1,13 @@
+{
+  "start":34603,
+  "end":34628,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's cussing up and down.",
+  "id":"c4a4e0e3-c3fb-42aa-95e4-313a718a96f9",
+  "params":{
+    "id":"c4a4e0e3-c3fb-42aa-95e4-313a718a96f9",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

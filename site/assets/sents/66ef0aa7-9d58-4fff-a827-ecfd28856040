@@ -1,0 +1,12 @@
+{
+  "start":6523,
+  "end":6572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He'd grab his newspaper and go into the bathroom.",
+  "id":"66ef0aa7-9d58-4fff-a827-ecfd28856040",
+  "params":{
+    "id":"adb5b7cb-8937-4156-9808-00fc1f69ca71"
+  },
+  "name":"Hugo"
+}

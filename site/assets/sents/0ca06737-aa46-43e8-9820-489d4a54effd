@@ -1,0 +1,12 @@
+{
+  "start":4192,
+  "end":4225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't understand it, but I\n   ",
+  "id":"0ca06737-aa46-43e8-9820-489d4a54effd",
+  "params":{
+    "id":"b23d2aa8-db1f-4fc9-abd2-4a585dd15926"
+  },
+  "name":"Sylent"
+}

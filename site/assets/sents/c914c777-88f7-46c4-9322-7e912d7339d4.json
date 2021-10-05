@@ -1,0 +1,13 @@
+{
+  "start":21882,
+  "end":21908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pretty\n   much everything.",
+  "id":"c914c777-88f7-46c4-9322-7e912d7339d4",
+  "params":{
+    "id":"c914c777-88f7-46c4-9322-7e912d7339d4",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

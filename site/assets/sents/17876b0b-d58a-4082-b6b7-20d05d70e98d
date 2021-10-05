@@ -1,0 +1,12 @@
+{
+  "start":34477,
+  "end":34518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: Here as well?\n \n \n   Dan:",
+  "id":"17876b0b-d58a-4082-b6b7-20d05d70e98d",
+  "params":{
+    "id":"db1ced2a-b2fd-41e5-82f6-db905aebb5cb"
+  },
+  "name":"Daniel"
+}

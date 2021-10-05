@@ -1,0 +1,13 @@
+{
+  "start":9615,
+  "end":9653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d That's an exaggeration of\n   course.",
+  "id":"6ca2bed5-50cb-46c9-8149-df5ef3f19054",
+  "params":{
+    "id":"6ca2bed5-50cb-46c9-8149-df5ef3f19054",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

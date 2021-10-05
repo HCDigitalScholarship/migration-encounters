@@ -1,0 +1,13 @@
+{
+  "start":34054,
+  "end":34075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"he\n   just caught it.",
+  "id":"11a9c64f-ce79-4203-88c0-82e731001692",
+  "params":{
+    "id":"11a9c64f-ce79-4203-88c0-82e731001692",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

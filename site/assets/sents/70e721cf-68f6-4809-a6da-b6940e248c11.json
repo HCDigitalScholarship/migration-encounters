@@ -1,0 +1,12 @@
+{
+  "start":12882,
+  "end":12938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You pay your electricity bill, you have light all month.",
+  "id":"70e721cf-68f6-4809-a6da-b6940e248c11",
+  "params":{
+    "id":"049a0b0f-c8f2-4eba-ae34-47772b2fb321"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24505,
+  "end":24521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"your\n   paycheck",
+  "id":"087d87f9-d869-4d56-9a41-919e8f465d7c",
+  "params":{
+    "id":"49ec99b4-b178-41aa-ad3c-9f51654a20bc"
+  },
+  "name":"Cris"
+}

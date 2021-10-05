@@ -1,0 +1,13 @@
+{
+  "start":15276,
+  "end":15357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when they gave me the news, I called the hospital to see how he\n   was doing.",
+  "id":"34d4efd0-3089-4dab-887a-34a6f1c66fd9",
+  "params":{
+    "id":"34d4efd0-3089-4dab-887a-34a6f1c66fd9",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2345,
+  "end":2382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, in one word, how did this happen?",
+  "id":"d39f6214-d7e9-44f7-ba60-66663c3e893f",
+  "params":{
+    "id":"45c4c661-2dfe-42eb-9607-e80872cfc916"
+  },
+  "name":"Ivan"
+}

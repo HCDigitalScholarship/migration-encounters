@@ -1,0 +1,12 @@
+{
+  "start":11594,
+  "end":11642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As soon as they opened, everybody\n     took off.",
+  "id":"bd60f39d-b0ef-43fa-8e7d-82fa3f376ad9",
+  "params":{
+    "id":"a8e940d6-1c10-4715-9ee4-b30fcd3391a3"
+  },
+  "name":"Beto"
+}

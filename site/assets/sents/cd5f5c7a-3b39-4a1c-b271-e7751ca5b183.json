@@ -1,0 +1,13 @@
+{
+  "start":17794,
+  "end":17839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of my aunts, my dad's sister, greeted me.",
+  "id":"cd5f5c7a-3b39-4a1c-b271-e7751ca5b183",
+  "params":{
+    "id":"cd5f5c7a-3b39-4a1c-b271-e7751ca5b183",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

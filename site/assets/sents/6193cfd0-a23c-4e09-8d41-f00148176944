@@ -1,0 +1,12 @@
+{
+  "start":9335,
+  "end":9375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I didn't know\n   enough English.",
+  "id":"6193cfd0-a23c-4e09-8d41-f00148176944",
+  "params":{
+    "id":"dd048755-7fb4-4d13-ab91-f4a44ef09ab7"
+  },
+  "name":"Rodrigo"
+}

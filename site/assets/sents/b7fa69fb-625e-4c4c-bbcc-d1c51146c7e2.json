@@ -1,0 +1,13 @@
+{
+  "start":21394,
+  "end":21440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Also, I have a lot of family in\n   California.",
+  "id":"b7fa69fb-625e-4c4c-bbcc-d1c51146c7e2",
+  "params":{
+    "id":"b7fa69fb-625e-4c4c-bbcc-d1c51146c7e2",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

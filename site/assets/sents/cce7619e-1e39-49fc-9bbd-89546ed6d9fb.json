@@ -1,0 +1,13 @@
+{
+  "start":24920,
+  "end":24980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   so, I went to HIldago, that's where I met my grandpa.",
+  "id":"cce7619e-1e39-49fc-9bbd-89546ed6d9fb",
+  "params":{
+    "id":"cce7619e-1e39-49fc-9bbd-89546ed6d9fb",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

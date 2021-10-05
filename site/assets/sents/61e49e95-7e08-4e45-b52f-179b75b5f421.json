@@ -1,0 +1,13 @@
+{
+  "start":4086,
+  "end":4169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do the same\n   thing, I went to the bridge for the train and I do the same thing.",
+  "id":"61e49e95-7e08-4e45-b52f-179b75b5f421",
+  "params":{
+    "id":"61e49e95-7e08-4e45-b52f-179b75b5f421",
+    "class":"anno"
+  },
+  "name":"Many"
+}

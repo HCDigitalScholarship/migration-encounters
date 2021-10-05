@@ -1,0 +1,13 @@
+{
+  "start":12251,
+  "end":12277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You want to do something?\u201d",
+  "id":"c447709f-c5e0-4e40-81d3-cda4ade1c364",
+  "params":{
+    "id":"c447709f-c5e0-4e40-81d3-cda4ade1c364",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

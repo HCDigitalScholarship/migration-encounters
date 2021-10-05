@@ -1,0 +1,13 @@
+{
+  "start":28374,
+  "end":28399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know how it is to live.",
+  "id":"750851f8-b5f7-4555-9fa5-fead070205b9",
+  "params":{
+    "id":"750851f8-b5f7-4555-9fa5-fead070205b9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

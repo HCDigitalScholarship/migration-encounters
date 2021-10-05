@@ -1,0 +1,15 @@
+{
+  "start":4441,
+  "end":4458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were too old?",
+  "id":"91245f65-4dc4-4f09-ace4-06900bb72f40",
+  "params":{
+    "id":"91245f65-4dc4-4f09-ace4-06900bb72f40",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

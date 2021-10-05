@@ -1,0 +1,12 @@
+{
+  "start":28014,
+  "end":28103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The next day the state called me, and they\n said, \u201cWe're going to offer you three years.\u201d",
+  "id":"e29dfb75-e561-44e2-9224-d8ab2df919a8",
+  "params":{
+    "id":"751bd0e1-adc1-4997-bedb-66228bbbf37b"
+  },
+  "name":"Angelo"
+}

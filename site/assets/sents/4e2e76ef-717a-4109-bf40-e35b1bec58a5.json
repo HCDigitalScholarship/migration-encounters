@@ -1,0 +1,13 @@
+{
+  "start":34486,
+  "end":34560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've seen people get here and they just can't\n adapt because it's so hard.",
+  "id":"4e2e76ef-717a-4109-bf40-e35b1bec58a5",
+  "params":{
+    "id":"4e2e76ef-717a-4109-bf40-e35b1bec58a5",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

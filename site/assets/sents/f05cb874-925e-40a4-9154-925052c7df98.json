@@ -1,0 +1,13 @@
+{
+  "start":9626,
+  "end":9682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went there, got a passport, got my\n   social security.",
+  "id":"f05cb874-925e-40a4-9154-925052c7df98",
+  "params":{
+    "id":"f05cb874-925e-40a4-9154-925052c7df98",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

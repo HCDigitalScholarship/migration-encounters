@@ -1,0 +1,12 @@
+{
+  "start":10003,
+  "end":10042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"Why\n   are you doing this?\"",
+  "id":"bb662ddf-b973-4533-85c1-21d722892d3e",
+  "params":{
+    "id":"c1388e59-82d9-4388-a89c-0bfd365d0f5b"
+  },
+  "name":"Carlos"
+}

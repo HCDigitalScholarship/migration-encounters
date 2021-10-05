@@ -1,0 +1,13 @@
+{
+  "start":16303,
+  "end":16326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How am I going to swim?",
+  "id":"12d751b9-57a6-46eb-b69a-270ee1377f57",
+  "params":{
+    "id":"12d751b9-57a6-46eb-b69a-270ee1377f57",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

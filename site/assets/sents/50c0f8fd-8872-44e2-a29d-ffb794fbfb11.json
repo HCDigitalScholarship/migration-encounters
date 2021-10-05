@@ -1,0 +1,13 @@
+{
+  "start":1861,
+  "end":1962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of my brothers is actually detained at the moment,\n   and my mom's also working on her residency.",
+  "id":"50c0f8fd-8872-44e2-a29d-ffb794fbfb11",
+  "params":{
+    "id":"50c0f8fd-8872-44e2-a29d-ffb794fbfb11",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

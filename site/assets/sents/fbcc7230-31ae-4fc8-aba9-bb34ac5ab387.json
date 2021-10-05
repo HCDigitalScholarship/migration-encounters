@@ -1,0 +1,13 @@
+{
+  "start":4395,
+  "end":4432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My pa\n   always told me not to smoke.",
+  "id":"fbcc7230-31ae-4fc8-aba9-bb34ac5ab387",
+  "params":{
+    "id":"fbcc7230-31ae-4fc8-aba9-bb34ac5ab387",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

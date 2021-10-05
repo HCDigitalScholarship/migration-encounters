@@ -1,0 +1,13 @@
+{
+  "start":14412,
+  "end":14455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were all citizens?\n      \n      \n Ben:",
+  "id":"85127140-348f-4721-b22c-6cd5966f698c",
+  "params":{
+    "id":"85127140-348f-4721-b22c-6cd5966f698c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

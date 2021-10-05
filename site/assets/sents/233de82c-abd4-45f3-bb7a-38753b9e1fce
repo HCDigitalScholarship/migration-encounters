@@ -1,0 +1,12 @@
+{
+  "start":20263,
+  "end":20312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She believes that\n   it's cheaper than in the US.",
+  "id":"233de82c-abd4-45f3-bb7a-38753b9e1fce",
+  "params":{
+    "id":"9e77f9a0-5cc7-47f1-a358-160060ecd1da"
+  },
+  "name":"Laura B"
+}

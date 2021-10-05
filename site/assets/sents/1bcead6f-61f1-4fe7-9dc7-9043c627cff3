@@ -1,0 +1,12 @@
+{
+  "start":4712,
+  "end":4771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Do you think the U.S. changed you then?\n \n \n   Erik:",
+  "id":"1bcead6f-61f1-4fe7-9dc7-9043c627cff3",
+  "params":{
+    "id":"05db1f5b-2c0f-4d4d-a0c7-8f1e052388d6"
+  },
+  "name":"Erik"
+}

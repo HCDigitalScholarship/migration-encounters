@@ -1,0 +1,12 @@
+{
+  "start":5080,
+  "end":5105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We couldn't see anything.",
+  "id":"c7854056-327d-4109-b205-bc93d74c8aa6",
+  "params":{
+    "id":"5d9f0f05-3925-45c8-b65c-9bc6bfa8d2c7"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32149,
+  "end":32190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   then I didn't think on both sides.",
+  "id":"4bab3f9f-7f3c-4caa-a03f-b0ef12ec3d58",
+  "params":{
+    "id":"cf9701d3-d7f0-4b5e-97f2-acebe5088bab"
+  },
+  "name":"Mike"
+}

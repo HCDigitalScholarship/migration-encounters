@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":13368,
+  "end":13449,
+  "label":"Call Centers,  demographics",
+  "id":"70070b4d-d174-4fa3-a764-66d29a8ab26c",
+  "params":{
+    "id":"26dd9b82-6896-4ec6-9567-2ec75b46a1ce"
+  },
+  "name":"Beto",
+  "text":"Okay, I will tell you in my head that 25% are from Mexico, 75% are\n     immigrant"
+}

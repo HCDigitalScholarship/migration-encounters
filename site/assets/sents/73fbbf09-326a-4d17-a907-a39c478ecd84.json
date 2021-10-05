@@ -1,0 +1,13 @@
+{
+  "start":12744,
+  "end":12807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I gave her all the\n   receipts, and she was not happy about it.",
+  "id":"73fbbf09-326a-4d17-a907-a39c478ecd84",
+  "params":{
+    "id":"73fbbf09-326a-4d17-a907-a39c478ecd84",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

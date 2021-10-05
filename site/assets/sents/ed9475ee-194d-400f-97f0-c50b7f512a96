@@ -1,0 +1,12 @@
+{
+  "start":4051,
+  "end":4109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember how old I was, but my dad did\n get a car.",
+  "id":"ed9475ee-194d-400f-97f0-c50b7f512a96",
+  "params":{
+    "id":"c4bb99b7-496e-4caa-a57b-29e9bbfee599"
+  },
+  "name":"Ana"
+}

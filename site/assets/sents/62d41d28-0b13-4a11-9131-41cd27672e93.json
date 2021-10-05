@@ -1,0 +1,13 @@
+{
+  "start":16572,
+  "end":16621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here, you have to wear a uniform to go to school.",
+  "id":"62d41d28-0b13-4a11-9131-41cd27672e93",
+  "params":{
+    "id":"62d41d28-0b13-4a11-9131-41cd27672e93",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

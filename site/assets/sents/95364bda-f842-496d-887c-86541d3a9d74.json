@@ -1,0 +1,13 @@
+{
+  "start":11340,
+  "end":11379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always felt that we were a\n   family.",
+  "id":"95364bda-f842-496d-887c-86541d3a9d74",
+  "params":{
+    "id":"95364bda-f842-496d-887c-86541d3a9d74",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23755,
+  "end":23798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After\n   I signed the house over, the cars.",
+  "id":"29c1e5f6-7b14-49ad-b045-d3fe2879a412",
+  "params":{
+    "id":"bd4b3ce8-f57e-4374-bc58-d1586a6b720c"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12085,
+  "end":12187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was on the road quite a\n bit because I had later ended up with jobs as far down as Orlando, Florida.",
+  "id":"f3aca507-93f4-452f-ac2f-2974af912e91",
+  "params":{
+    "id":"f3aca507-93f4-452f-ac2f-2974af912e91",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

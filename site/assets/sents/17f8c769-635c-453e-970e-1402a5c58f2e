@@ -1,0 +1,12 @@
+{
+  "start":33536,
+  "end":33572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me to keep going to court.",
+  "id":"17f8c769-635c-453e-970e-1402a5c58f2e",
+  "params":{
+    "id":"ca754e10-d259-4de8-89c7-0fb4d56f9e00"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27053,
+  "end":27064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was good.",
+  "id":"45c05ca7-571d-4c99-b006-e79f10ff15f7",
+  "params":{
+    "id":"45c05ca7-571d-4c99-b006-e79f10ff15f7",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

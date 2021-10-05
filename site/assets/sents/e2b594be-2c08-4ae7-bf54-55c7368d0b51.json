@@ -1,0 +1,13 @@
+{
+  "start":2101,
+  "end":2162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Unfortunately, I didn't realize it till I was here in Mexico.",
+  "id":"e2b594be-2c08-4ae7-bf54-55c7368d0b51",
+  "params":{
+    "id":"e2b594be-2c08-4ae7-bf54-55c7368d0b51",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

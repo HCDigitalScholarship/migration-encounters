@@ -1,0 +1,13 @@
+{
+  "start":18800,
+  "end":18853,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She sent me like 150 bucks, $150 something like that.",
+  "id":"e012dbeb-a64e-4cb0-bcce-c23171587d00",
+  "params":{
+    "id":"e012dbeb-a64e-4cb0-bcce-c23171587d00",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

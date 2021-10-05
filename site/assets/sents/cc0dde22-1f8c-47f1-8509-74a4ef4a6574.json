@@ -1,0 +1,13 @@
+{
+  "start":41440,
+  "end":41484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I'd come\n home at 11:00, 12:00 at night.",
+  "id":"cc0dde22-1f8c-47f1-8509-74a4ef4a6574",
+  "params":{
+    "id":"cc0dde22-1f8c-47f1-8509-74a4ef4a6574",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

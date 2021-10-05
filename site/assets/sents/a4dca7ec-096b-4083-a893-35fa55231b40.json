@@ -1,0 +1,13 @@
+{
+  "start":10,
+  "end":75,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was not present at your survey, so I don't know much about you.",
+  "id":"a4dca7ec-096b-4083-a893-35fa55231b40",
+  "params":{
+    "id":"a4dca7ec-096b-4083-a893-35fa55231b40",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

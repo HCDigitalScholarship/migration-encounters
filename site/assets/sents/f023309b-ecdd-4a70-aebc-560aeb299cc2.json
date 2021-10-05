@@ -1,0 +1,15 @@
+{
+  "start":12996,
+  "end":13031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A complaint, that's correct answer.",
+  "id":"f023309b-ecdd-4a70-aebc-560aeb299cc2",
+  "params":{
+    "id":"f023309b-ecdd-4a70-aebc-560aeb299cc2",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

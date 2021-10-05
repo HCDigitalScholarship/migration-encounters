@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1198,
+  "end":1205,
+  "text":".\n \n \n   Anita: Okay. Wait a minute. You were born where?\n \n \n   Joana: In Veracruz.\n \n \n   Anita: You were born in Veracruz.\n \n \n   Joana: Yes.\n \n \n   Anita: Okay, let's start over. You were born in Veracuz?\n \n \n   Joana: Yes.\n \n \n   Anita: Then, when did you go to the United States?\n \n \n   Joana: When I was about five.\n \n \n   Anita: When you were five, you went from Veracruz to the United States?\n \n \n ",
+  "label":"GPE",
+  "id":"0ff05c2d-6aa3-46c8-832d-62cd1ec65d7c",
+  "name":"Joana"
+}

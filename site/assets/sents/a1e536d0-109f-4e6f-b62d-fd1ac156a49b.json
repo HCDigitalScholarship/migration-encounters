@@ -1,0 +1,13 @@
+{
+  "start":62192,
+  "end":62297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was the\n     kind of kid that would slack and just get A's on the test without even\n     working on it.",
+  "id":"a1e536d0-109f-4e6f-b62d-fd1ac156a49b",
+  "params":{
+    "id":"a1e536d0-109f-4e6f-b62d-fd1ac156a49b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

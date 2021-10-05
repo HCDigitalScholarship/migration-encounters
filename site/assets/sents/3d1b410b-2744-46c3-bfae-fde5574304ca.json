@@ -1,0 +1,13 @@
+{
+  "start":19852,
+  "end":19892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But they gave me a social security card.",
+  "id":"3d1b410b-2744-46c3-bfae-fde5574304ca",
+  "params":{
+    "id":"3d1b410b-2744-46c3-bfae-fde5574304ca",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

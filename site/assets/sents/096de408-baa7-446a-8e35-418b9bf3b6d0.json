@@ -1,0 +1,13 @@
+{
+  "start":37025,
+  "end":37084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is an everyday thing fighting, because you have\n   to.",
+  "id":"096de408-baa7-446a-8e35-418b9bf3b6d0",
+  "params":{
+    "id":"096de408-baa7-446a-8e35-418b9bf3b6d0",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

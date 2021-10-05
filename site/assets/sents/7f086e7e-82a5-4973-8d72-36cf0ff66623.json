@@ -1,0 +1,13 @@
+{
+  "start":3839,
+  "end":3880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's not feeding us or anything like that",
+  "id":"7f086e7e-82a5-4973-8d72-36cf0ff66623",
+  "params":{
+    "id":"7f086e7e-82a5-4973-8d72-36cf0ff66623",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

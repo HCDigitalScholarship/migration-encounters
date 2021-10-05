@@ -1,0 +1,13 @@
+{
+  "start":30047,
+  "end":30072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you come and see it?\"",
+  "id":"ade27d0d-4f3c-448e-8f58-c0cde9f916e0",
+  "params":{
+    "id":"ade27d0d-4f3c-448e-8f58-c0cde9f916e0",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

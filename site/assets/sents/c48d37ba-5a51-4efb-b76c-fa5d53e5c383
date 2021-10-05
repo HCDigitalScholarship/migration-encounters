@@ -1,0 +1,12 @@
+{
+  "start":5772,
+  "end":5783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I did.",
+  "id":"c48d37ba-5a51-4efb-b76c-fa5d53e5c383",
+  "params":{
+    "id":"0108241b-6053-4b8e-8d44-df92af77181c"
+  },
+  "name":"Miguel B"
+}

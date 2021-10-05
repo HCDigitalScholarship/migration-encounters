@@ -1,0 +1,13 @@
+{
+  "start":34774,
+  "end":34821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \" You don't\n   have to do all this.",
+  "id":"a4062ccf-1e6c-4ef9-993f-9761a723b1cc",
+  "params":{
+    "id":"a4062ccf-1e6c-4ef9-993f-9761a723b1cc",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7409,
+  "end":7464,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I found out a lot of things when I came back to Mexico.",
+  "id":"322f51de-df66-414e-b924-2d23eb99c986",
+  "params":{
+    "id":"322f51de-df66-414e-b924-2d23eb99c986",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

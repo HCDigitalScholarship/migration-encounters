@@ -1,0 +1,12 @@
+{
+  "start":39543,
+  "end":39609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I worked for six hours every day for\n   thirteen pesos an hour.",
+  "id":"5f2c1cb2-7a84-44f3-b9bf-6e2c3c7b2c03",
+  "params":{
+    "id":"882fb62a-5421-40e8-ad0f-1f4047164641"
+  },
+  "name":"Laila"
+}

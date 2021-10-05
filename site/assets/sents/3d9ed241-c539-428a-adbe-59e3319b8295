@@ -1,0 +1,12 @@
+{
+  "start":1250,
+  "end":1285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't like school at all really.",
+  "id":"3d9ed241-c539-428a-adbe-59e3319b8295",
+  "params":{
+    "id":"4d07ad8b-8578-4a9f-9764-f0ea1b7320e8"
+  },
+  "name":"Kevin"
+}

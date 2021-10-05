@@ -1,0 +1,13 @@
+{
+  "start":6279,
+  "end":6311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Brenda: Yes, as much as I could.",
+  "id":"52a17b58-2de1-4d18-b994-65b56aa46bdd",
+  "params":{
+    "id":"52a17b58-2de1-4d18-b994-65b56aa46bdd",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

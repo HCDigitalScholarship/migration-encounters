@@ -1,0 +1,12 @@
+{
+  "start":32473,
+  "end":32509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \u201cNo, no, no.\u201d\n \n \n   Hugo:",
+  "id":"7dc46b7f-394d-4983-94c1-e16d3cf4be74",
+  "params":{
+    "id":"6911692a-31b3-427e-b19f-65d95b95df41"
+  },
+  "name":"Hugo"
+}

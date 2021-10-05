@@ -1,0 +1,12 @@
+{
+  "start":51561,
+  "end":51583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: My kids.",
+  "id":"1bafdf69-5bdf-4946-8756-80f53cba7be5",
+  "params":{
+    "id":"351e987f-12e3-4aa6-86a8-e7859f607dc3"
+  },
+  "name":"Mike"
+}

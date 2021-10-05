@@ -1,0 +1,12 @@
+{
+  "start":34997,
+  "end":35056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   feel like I didn't have a chance to live my childhood.",
+  "id":"4fcd084a-10d1-45d5-a7b7-9861f54d21c0",
+  "params":{
+    "id":"61453da4-90c3-4bcc-b77c-b24769a8b3f6"
+  },
+  "name":"Mike"
+}

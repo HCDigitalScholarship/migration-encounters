@@ -1,0 +1,13 @@
+{
+  "start":43875,
+  "end":43933,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know more than the average\n   person does about Mexico.\"",
+  "id":"001402c7-8f98-48b0-9269-744b1b1b7153",
+  "params":{
+    "id":"001402c7-8f98-48b0-9269-744b1b1b7153",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3635,
+  "end":3722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I try first for an engineer and\n   because of the culture exam I wasn't able to get in.",
+  "id":"13b50fb3-570d-4111-8069-9b1fc0ed0f43",
+  "params":{
+    "id":"6911bd32-70d4-4aa2-a4f2-b2b4f3ef8734"
+  },
+  "name":"Frank"
+}

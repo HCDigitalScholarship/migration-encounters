@@ -1,0 +1,13 @@
+{
+  "start":34024,
+  "end":34054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had to have my fingerprint.",
+  "id":"c054cfa2-e730-49ea-a7a4-2e737f423d05",
+  "params":{
+    "id":"c054cfa2-e730-49ea-a7a4-2e737f423d05",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

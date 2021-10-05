@@ -1,0 +1,12 @@
+{
+  "start":20055,
+  "end":20103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would ask me, \"So why are you in here for?\"",
+  "id":"d24d5309-e8d6-42fe-b34d-103c91f89799",
+  "params":{
+    "id":"0c76875e-2b6f-42f5-9334-f8f9fe3b1e09"
+  },
+  "name":"Sylent"
+}

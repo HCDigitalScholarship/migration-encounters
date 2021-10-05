@@ -1,0 +1,13 @@
+{
+  "start":31564,
+  "end":31586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   He's like, \"Yeah.\"",
+  "id":"c831d38c-ef17-4818-b7e5-8447f8a3faa2",
+  "params":{
+    "id":"c831d38c-ef17-4818-b7e5-8447f8a3faa2",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

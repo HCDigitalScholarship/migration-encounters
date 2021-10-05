@@ -1,0 +1,12 @@
+{
+  "start":39505,
+  "end":39562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Billy: Because they think that I'm American or something.",
+  "id":"bebb6ffd-770e-4fe7-8d58-332f10993beb",
+  "params":{
+    "id":"615725b8-6e4c-4d1d-b1be-772500a12f30"
+  },
+  "name":"Billy"
+}

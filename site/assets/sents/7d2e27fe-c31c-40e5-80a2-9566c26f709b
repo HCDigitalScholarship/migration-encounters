@@ -1,0 +1,12 @@
+{
+  "start":6681,
+  "end":6719,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was\n   trying to take his belt off.",
+  "id":"7d2e27fe-c31c-40e5-80a2-9566c26f709b",
+  "params":{
+    "id":"c0bb7c65-f461-459f-9b94-2000ff957939"
+  },
+  "name":"Kevin"
+}

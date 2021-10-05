@@ -1,0 +1,12 @@
+{
+  "start":32360,
+  "end":32430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know how home studies work, where your parents teach you\n at home?",
+  "id":"2c294df2-d725-4796-8bb7-303ff727964f",
+  "params":{
+    "id":"d36bb137-961b-4b49-a11e-8956b1f5423c"
+  },
+  "name":"Jesus C"
+}

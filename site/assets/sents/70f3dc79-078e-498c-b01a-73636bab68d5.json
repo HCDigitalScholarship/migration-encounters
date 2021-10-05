@@ -1,0 +1,13 @@
+{
+  "start":3585,
+  "end":3609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   indigenous people",
+  "id":"70f3dc79-078e-498c-b01a-73636bab68d5",
+  "params":{
+    "id":"70f3dc79-078e-498c-b01a-73636bab68d5",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

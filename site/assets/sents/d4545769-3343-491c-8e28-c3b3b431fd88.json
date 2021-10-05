@@ -1,0 +1,13 @@
+{
+  "start":5282,
+  "end":5349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was seventeen and I was eighteen when we got\n   the first baby.",
+  "id":"d4545769-3343-491c-8e28-c3b3b431fd88",
+  "params":{
+    "id":"d4545769-3343-491c-8e28-c3b3b431fd88",
+    "class":"anno"
+  },
+  "name":"Many"
+}

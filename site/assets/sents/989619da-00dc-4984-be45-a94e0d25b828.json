@@ -1,0 +1,13 @@
+{
+  "start":35999,
+  "end":36077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And the other guy was like, \"Man, I really\n   wish I could help you right now.",
+  "id":"989619da-00dc-4984-be45-a94e0d25b828",
+  "params":{
+    "id":"989619da-00dc-4984-be45-a94e0d25b828",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

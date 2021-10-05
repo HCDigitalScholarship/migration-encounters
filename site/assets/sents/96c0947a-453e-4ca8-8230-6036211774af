@@ -1,0 +1,12 @@
+{
+  "start":10102,
+  "end":10178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me just get my first paycheck, and I'll let you\n     know if it's true.\"",
+  "id":"96c0947a-453e-4ca8-8230-6036211774af",
+  "params":{
+    "id":"8ae90272-915a-47b1-99a3-ca0b2b1f9849"
+  },
+  "name":"Beto"
+}

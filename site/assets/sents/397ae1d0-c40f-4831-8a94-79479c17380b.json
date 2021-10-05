@@ -1,0 +1,13 @@
+{
+  "start":5011,
+  "end":5032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just disgusting.",
+  "id":"397ae1d0-c40f-4831-8a94-79479c17380b",
+  "params":{
+    "id":"397ae1d0-c40f-4831-8a94-79479c17380b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

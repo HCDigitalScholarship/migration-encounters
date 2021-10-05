@@ -1,0 +1,13 @@
+{
+  "start":10659,
+  "end":10678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know that.",
+  "id":"c4e6eb92-e032-44bc-a97d-68d1e18c725e",
+  "params":{
+    "id":"c4e6eb92-e032-44bc-a97d-68d1e18c725e",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

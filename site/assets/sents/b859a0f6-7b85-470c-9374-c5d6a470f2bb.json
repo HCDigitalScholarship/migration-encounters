@@ -1,0 +1,13 @@
+{
+  "start":10283,
+  "end":10331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you know that when you went at 12 years old?",
+  "id":"b859a0f6-7b85-470c-9374-c5d6a470f2bb",
+  "params":{
+    "id":"b859a0f6-7b85-470c-9374-c5d6a470f2bb",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9550,
+  "end":9621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because my dad was paying the bills for the exams, for the\n   hospital.",
+  "id":"c9c51fc0-6d16-4656-a5a8-0ebcd9455bb8",
+  "params":{
+    "id":"c9c51fc0-6d16-4656-a5a8-0ebcd9455bb8",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

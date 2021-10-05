@@ -1,0 +1,12 @@
+{
+  "start":28915,
+  "end":28978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried to do it here in Mexico, but they\n   didn't pay at all.",
+  "id":"c60a2d36-59c9-4883-b8dc-366ca8dc25ed",
+  "params":{
+    "id":"8c07a606-da34-48d9-8bfe-632f5330fcd8"
+  },
+  "name":"Sylent"
+}

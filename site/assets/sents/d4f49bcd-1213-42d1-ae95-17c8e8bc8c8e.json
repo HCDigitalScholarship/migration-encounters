@@ -1,0 +1,13 @@
+{
+  "start":55975,
+  "end":56001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just gave me my title.",
+  "id":"d4f49bcd-1213-42d1-ae95-17c8e8bc8c8e",
+  "params":{
+    "id":"d4f49bcd-1213-42d1-ae95-17c8e8bc8c8e",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

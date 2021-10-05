@@ -1,0 +1,13 @@
+{
+  "start":20669,
+  "end":20717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do\n   you have uncles, aunts, grandparents here?",
+  "id":"6a22f997-bf8f-4d0f-863c-fd35d6653c84",
+  "params":{
+    "id":"6a22f997-bf8f-4d0f-863c-fd35d6653c84",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

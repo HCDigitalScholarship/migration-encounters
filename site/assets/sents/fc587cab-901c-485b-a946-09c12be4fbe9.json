@@ -1,0 +1,13 @@
+{
+  "start":2267,
+  "end":2318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He worked in that time as a manager in Burger King.",
+  "id":"fc587cab-901c-485b-a946-09c12be4fbe9",
+  "params":{
+    "id":"fc587cab-901c-485b-a946-09c12be4fbe9",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

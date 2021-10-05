@@ -1,0 +1,13 @@
+{
+  "start":74560,
+  "end":74583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't have a\n phone.",
+  "id":"34ff0feb-214f-4269-a9c4-6c2e1d79d977",
+  "params":{
+    "id":"34ff0feb-214f-4269-a9c4-6c2e1d79d977",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

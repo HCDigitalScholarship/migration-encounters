@@ -1,0 +1,13 @@
+{
+  "start":17616,
+  "end":17650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a year\n   and eight months.",
+  "id":"33fab30c-4d60-430d-a6a3-7b4bd62ccccb",
+  "params":{
+    "id":"33fab30c-4d60-430d-a6a3-7b4bd62ccccb",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20642,
+  "end":20668,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just felt\n disrespected.",
+  "id":"e8af4f5d-62c1-4fec-955a-8f40e060974c",
+  "params":{
+    "id":"d1122aa3-1c80-426d-a36e-71fb958090fb"
+  },
+  "name":"Billy"
+}

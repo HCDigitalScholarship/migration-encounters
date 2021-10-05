@@ -1,0 +1,13 @@
+{
+  "start":37055,
+  "end":37098,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were my\n     actual team and the Rams.",
+  "id":"4a3be6f3-8c01-434d-9398-c2f3e4bc2cc1",
+  "params":{
+    "id":"4a3be6f3-8c01-434d-9398-c2f3e4bc2cc1",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

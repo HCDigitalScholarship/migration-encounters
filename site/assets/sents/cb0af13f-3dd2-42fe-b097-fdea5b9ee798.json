@@ -1,0 +1,13 @@
+{
+  "start":2763,
+  "end":2802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a dishwasher because he's a cook.",
+  "id":"cb0af13f-3dd2-42fe-b097-fdea5b9ee798",
+  "params":{
+    "id":"cb0af13f-3dd2-42fe-b097-fdea5b9ee798",
+    "class":"anno"
+  },
+  "name":"Many"
+}

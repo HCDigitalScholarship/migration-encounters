@@ -1,0 +1,13 @@
+{
+  "start":36180,
+  "end":36220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when do you think you'll start work?",
+  "id":"8d6a9d82-4495-4dff-9179-b7ce12efb0bf",
+  "params":{
+    "id":"8d6a9d82-4495-4dff-9179-b7ce12efb0bf",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":71556,
+  "end":71576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   want some beef.",
+  "id":"5443de99-75a7-4bc9-8d3a-bba874af6d72",
+  "params":{
+    "id":"8319dbf7-3ca5-4ce3-badd-a9553018d733"
+  },
+  "name":"Daniel B"
+}

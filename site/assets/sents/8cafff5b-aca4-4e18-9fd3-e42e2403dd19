@@ -1,0 +1,12 @@
+{
+  "start":18848,
+  "end":18854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Frank:",
+  "id":"8cafff5b-aca4-4e18-9fd3-e42e2403dd19",
+  "params":{
+    "id":"8116ab7c-6211-49ce-b5f4-4b7a6cd535de"
+  },
+  "name":"Frank"
+}

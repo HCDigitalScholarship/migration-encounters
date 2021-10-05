@@ -1,0 +1,12 @@
+{
+  "start":14947,
+  "end":14980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you say you were Mexican?",
+  "id":"d9f5de7e-734e-48f5-a741-5f122505ebac",
+  "params":{
+    "id":"e653dce6-a871-4d63-8f9c-03709326f364"
+  },
+  "name":"Billy"
+}

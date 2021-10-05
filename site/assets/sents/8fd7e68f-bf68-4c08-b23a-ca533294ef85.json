@@ -1,0 +1,13 @@
+{
+  "start":49228,
+  "end":49269,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not\n   your fault you can't go back.",
+  "id":"8fd7e68f-bf68-4c08-b23a-ca533294ef85",
+  "params":{
+    "id":"8fd7e68f-bf68-4c08-b23a-ca533294ef85",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

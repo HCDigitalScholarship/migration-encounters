@@ -1,0 +1,13 @@
+{
+  "start":23036,
+  "end":23076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n     like, \"Why are you like that?\"",
+  "id":"2e21d249-8980-4f86-995b-ee40fb4aafc3",
+  "params":{
+    "id":"2e21d249-8980-4f86-995b-ee40fb4aafc3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

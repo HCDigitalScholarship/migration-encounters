@@ -1,0 +1,13 @@
+{
+  "start":33095,
+  "end":33142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think\n   anyone should go through that.",
+  "id":"b7a3ec90-6e5e-449f-9247-0400ea9a4f8e",
+  "params":{
+    "id":"b7a3ec90-6e5e-449f-9247-0400ea9a4f8e",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

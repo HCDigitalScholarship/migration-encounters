@@ -1,0 +1,13 @@
+{
+  "start":16624,
+  "end":16651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it's a pretty small car.",
+  "id":"967cb087-392b-4c0d-b868-93883d038baa",
+  "params":{
+    "id":"967cb087-392b-4c0d-b868-93883d038baa",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":34096,
+  "end":34150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   \n   \n     Joseph: CEO recognized what I was doing.",
+  "id":"5cacdc8d-c47c-4ec4-ad8a-995213098949",
+  "params":{
+    "id":"8a26376a-5b1f-4956-8f85-c338a6d89866"
+  },
+  "name":"Joseph"
+}

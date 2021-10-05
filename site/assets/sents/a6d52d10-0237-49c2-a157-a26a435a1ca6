@@ -1,0 +1,12 @@
+{
+  "start":8802,
+  "end":8828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Driving without a license.",
+  "id":"a6d52d10-0237-49c2-a157-a26a435a1ca6",
+  "params":{
+    "id":"833ffff1-79b4-4116-b2b1-e9bfd757098e"
+  },
+  "name":"Pablo"
+}

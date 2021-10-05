@@ -1,0 +1,13 @@
+{
+  "start":12123,
+  "end":12182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This person got really messed up, ended up in the hospital.",
+  "id":"6e34849b-1060-454c-9c70-d121bdade724",
+  "params":{
+    "id":"6e34849b-1060-454c-9c70-d121bdade724",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

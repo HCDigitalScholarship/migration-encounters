@@ -1,0 +1,13 @@
+{
+  "start":225,
+  "end":319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, it was really to the point that my dad wasn't doing anything\n productive here in Mexico.",
+  "id":"6f2d25f8-5c23-48cb-b466-9dbd6487c4a8",
+  "params":{
+    "id":"6f2d25f8-5c23-48cb-b466-9dbd6487c4a8",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

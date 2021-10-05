@@ -1,0 +1,13 @@
+{
+  "start":2180,
+  "end":2221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother joined when 9/11 was going on.",
+  "id":"99a9a9bc-bf3a-4715-8258-498cf7c9170f",
+  "params":{
+    "id":"99a9a9bc-bf3a-4715-8258-498cf7c9170f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

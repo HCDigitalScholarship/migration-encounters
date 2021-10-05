@@ -1,0 +1,13 @@
+{
+  "start":32577,
+  "end":32702,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   She's like, \"Ugh, now they think that they have seen the whole world, and\n   now they think that they're better than us.\"",
+  "id":"1e6e83b8-f45a-4af5-9382-0ee86be5d8ab",
+  "params":{
+    "id":"1e6e83b8-f45a-4af5-9382-0ee86be5d8ab",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3427,
+  "end":3445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\n   involved.",
+  "id":"3578c669-cdc2-4db8-bb55-f4b8994bf6e0",
+  "params":{
+    "id":"efaf8609-14e7-48fd-bd87-8faaf87139d9"
+  },
+  "name":"Pablo"
+}

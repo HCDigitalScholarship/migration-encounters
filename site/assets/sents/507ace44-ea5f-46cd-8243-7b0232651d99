@@ -1,0 +1,12 @@
+{
+  "start":7279,
+  "end":7358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The first original\n student to go all the way through the academy and graduate.",
+  "id":"507ace44-ea5f-46cd-8243-7b0232651d99",
+  "params":{
+    "id":"4c8a3aa7-a1bf-45c8-b858-938656f834c0"
+  },
+  "name":"Ben"
+}

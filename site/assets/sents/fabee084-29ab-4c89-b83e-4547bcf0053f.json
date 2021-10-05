@@ -1,0 +1,13 @@
+{
+  "start":16116,
+  "end":16192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can tell you that with my mom and my dad,\n   I have lived all my 20 years.",
+  "id":"fabee084-29ab-4c89-b83e-4547bcf0053f",
+  "params":{
+    "id":"fabee084-29ab-4c89-b83e-4547bcf0053f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

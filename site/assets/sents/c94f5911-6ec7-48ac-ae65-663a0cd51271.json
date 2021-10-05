@@ -1,0 +1,13 @@
+{
+  "start":22066,
+  "end":22118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have asked my cousin, \"What do you think of\n   me?",
+  "id":"c94f5911-6ec7-48ac-ae65-663a0cd51271",
+  "params":{
+    "id":"c94f5911-6ec7-48ac-ae65-663a0cd51271",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27295,
+  "end":27327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm looking for a job right now.",
+  "id":"e8bf37f1-982d-4c8d-a944-8a78f4043f8f",
+  "params":{
+    "id":"e8bf37f1-982d-4c8d-a944-8a78f4043f8f",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

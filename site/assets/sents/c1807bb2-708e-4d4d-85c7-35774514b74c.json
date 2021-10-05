@@ -1,0 +1,13 @@
+{
+  "start":7190,
+  "end":7299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"While my mom and my dad would be working, she would take\n   care of me and I actually called her mom as well.",
+  "id":"c1807bb2-708e-4d4d-85c7-35774514b74c",
+  "params":{
+    "id":"c1807bb2-708e-4d4d-85c7-35774514b74c",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

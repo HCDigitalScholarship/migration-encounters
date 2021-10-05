@@ -1,0 +1,13 @@
+{
+  "start":6904,
+  "end":6982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it was extremely hard for me to make\n   that decision, but it's not for me.",
+  "id":"0a44ba01-186f-48b7-a9f0-5ecbe78d7987",
+  "params":{
+    "id":"0a44ba01-186f-48b7-a9f0-5ecbe78d7987",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

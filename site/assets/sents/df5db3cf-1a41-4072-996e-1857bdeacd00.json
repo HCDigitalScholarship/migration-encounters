@@ -1,0 +1,13 @@
+{
+  "start":29357,
+  "end":29440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because my dad tells us, \"When she tells you she's\n   good, she's not really good.\"",
+  "id":"df5db3cf-1a41-4072-996e-1857bdeacd00",
+  "params":{
+    "id":"df5db3cf-1a41-4072-996e-1857bdeacd00",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

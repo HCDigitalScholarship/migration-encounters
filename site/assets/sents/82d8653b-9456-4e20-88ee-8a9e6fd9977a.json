@@ -1,0 +1,13 @@
+{
+  "start":42562,
+  "end":42677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always wanted to please my dad\n   because I never had him in my life, so I wanted him to be happy with me\n   now.",
+  "id":"82d8653b-9456-4e20-88ee-8a9e6fd9977a",
+  "params":{
+    "id":"82d8653b-9456-4e20-88ee-8a9e6fd9977a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

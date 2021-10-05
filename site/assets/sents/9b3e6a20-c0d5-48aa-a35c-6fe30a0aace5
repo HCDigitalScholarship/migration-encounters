@@ -1,0 +1,12 @@
+{
+  "start":1160,
+  "end":1172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt good.",
+  "id":"9b3e6a20-c0d5-48aa-a35c-6fe30a0aace5",
+  "params":{
+    "id":"cccbe20d-f3c9-4d4b-91d3-39c4dc790bc7"
+  },
+  "name":"Pablo"
+}

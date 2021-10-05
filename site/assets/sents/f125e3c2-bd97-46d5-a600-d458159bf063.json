@@ -1,0 +1,13 @@
+{
+  "start":17555,
+  "end":17588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I called my dad and I was crying.",
+  "id":"f125e3c2-bd97-46d5-a600-d458159bf063",
+  "params":{
+    "id":"f125e3c2-bd97-46d5-a600-d458159bf063",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

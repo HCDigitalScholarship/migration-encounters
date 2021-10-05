@@ -1,0 +1,13 @@
+{
+  "start":3591,
+  "end":3629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived in\n   the state of California.",
+  "id":"97e665f7-a3f7-4840-94bb-3767a293a744",
+  "params":{
+    "id":"97e665f7-a3f7-4840-94bb-3767a293a744",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

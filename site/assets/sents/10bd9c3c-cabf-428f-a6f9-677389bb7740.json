@@ -1,0 +1,13 @@
+{
+  "start":28811,
+  "end":28861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was dehydrated, I thought I\n   was dying slowly.",
+  "id":"10bd9c3c-cabf-428f-a6f9-677389bb7740",
+  "params":{
+    "id":"10bd9c3c-cabf-428f-a6f9-677389bb7740",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

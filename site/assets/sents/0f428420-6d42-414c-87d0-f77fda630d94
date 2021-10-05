@@ -1,0 +1,12 @@
+{
+  "start":42711,
+  "end":42720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to.",
+  "id":"0f428420-6d42-414c-87d0-f77fda630d94",
+  "params":{
+    "id":"7fdd2921-1a1c-4533-9fca-41c122093611"
+  },
+  "name":"Mike"
+}

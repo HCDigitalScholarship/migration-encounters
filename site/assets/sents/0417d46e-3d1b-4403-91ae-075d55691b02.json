@@ -1,0 +1,13 @@
+{
+  "start":22500,
+  "end":22590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The principal, for some reason, she said that I came to\n   Mexico as an exchange to study.",
+  "id":"0417d46e-3d1b-4403-91ae-075d55691b02",
+  "params":{
+    "id":"0417d46e-3d1b-4403-91ae-075d55691b02",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

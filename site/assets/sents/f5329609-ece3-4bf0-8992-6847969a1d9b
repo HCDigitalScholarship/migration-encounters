@@ -1,0 +1,12 @@
+{
+  "start":2788,
+  "end":2890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And during that time, did you like school or what did you\n   like to do in your free time?\n \n \n   Dan:",
+  "id":"f5329609-ece3-4bf0-8992-6847969a1d9b",
+  "params":{
+    "id":"be98af63-a1da-4537-bdc4-5ce67501ecbe"
+  },
+  "name":"Daniel"
+}

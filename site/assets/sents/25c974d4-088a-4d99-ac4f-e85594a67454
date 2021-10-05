@@ -1,0 +1,12 @@
+{
+  "start":10485,
+  "end":10502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: In the US?",
+  "id":"25c974d4-088a-4d99-ac4f-e85594a67454",
+  "params":{
+    "id":"56ff1db1-202d-4669-a2e1-308d480de5e1"
+  },
+  "name":"Luis B"
+}

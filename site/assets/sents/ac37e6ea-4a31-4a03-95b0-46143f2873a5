@@ -1,0 +1,12 @@
+{
+  "start":7324,
+  "end":7445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Would you recommend migrating even now when there is the\n   possibility of risking of your life and more dangerous paths?",
+  "id":"ac37e6ea-4a31-4a03-95b0-46143f2873a5",
+  "params":{
+    "id":"0ab10331-f244-4ae4-bf21-971cf9f6ffc3"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5742,
+  "end":5823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d I used to manage, for example,\n     setting up a credit card to make a payment.",
+  "id":"25b8628e-cd76-4c21-8b8a-6cfe542a6840",
+  "params":{
+    "id":"25b8628e-cd76-4c21-8b8a-6cfe542a6840",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9091,
+  "end":9116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I never got deported.",
+  "id":"06a8d429-f07d-447c-9e24-5695f4ff8b50",
+  "params":{
+    "id":"f1ea0954-bcb8-4e37-bd27-a82d62e9b573"
+  },
+  "name":"Abel"
+}

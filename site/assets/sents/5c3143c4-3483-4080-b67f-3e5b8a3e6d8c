@@ -1,0 +1,12 @@
+{
+  "start":50747,
+  "end":50791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, come stay, come go for an ice\n cream.\"",
+  "id":"5c3143c4-3483-4080-b67f-3e5b8a3e6d8c",
+  "params":{
+    "id":"8aa80dce-77de-4408-9fb0-4a4dffe2f4d1"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":116,
+  "end":140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were born in Mexico.",
+  "id":"21816644-ae17-4d3d-8b8d-25b274896ae2",
+  "params":{
+    "id":"21816644-ae17-4d3d-8b8d-25b274896ae2",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

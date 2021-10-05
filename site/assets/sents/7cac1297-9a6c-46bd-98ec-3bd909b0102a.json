@@ -1,0 +1,13 @@
+{
+  "start":30909,
+  "end":30922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Times change.",
+  "id":"7cac1297-9a6c-46bd-98ec-3bd909b0102a",
+  "params":{
+    "id":"7cac1297-9a6c-46bd-98ec-3bd909b0102a",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

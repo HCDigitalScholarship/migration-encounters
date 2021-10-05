@@ -1,0 +1,12 @@
+{
+  "start":31985,
+  "end":32006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It has to be amazing!",
+  "id":"aaa4de6e-b7a7-46cb-8b94-8fa82e2b421c",
+  "params":{
+    "id":"d54a853d-88fb-4b3c-abb1-d79ad73e3866"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12837,
+  "end":12976,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They went to that school and I will go to this\n   other high school called ____, but a bus would take them to\n   ____, in another district.",
+  "id":"6fb82a4e-674e-46aa-aa97-deb2837257a6",
+  "params":{
+    "id":"6fb82a4e-674e-46aa-aa97-deb2837257a6",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10,
+  "end":59,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wanted to live the way I used to see on the TV.",
+  "id":"e6057ec1-14dd-46da-9468-cdf702186f13",
+  "params":{
+    "id":"e6057ec1-14dd-46da-9468-cdf702186f13",
+    "class":"anno"
+  },
+  "name":"Many"
+}

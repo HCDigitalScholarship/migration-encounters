@@ -1,0 +1,13 @@
+{
+  "start":4100,
+  "end":4156,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was in eighth grade, middle school, the last grade.",
+  "id":"c5085af0-5c96-4f2e-86bb-cecbce883254",
+  "params":{
+    "id":"c5085af0-5c96-4f2e-86bb-cecbce883254",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

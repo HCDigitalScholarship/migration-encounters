@@ -1,0 +1,13 @@
+{
+  "start":73715,
+  "end":73725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n family",
+  "id":"d332cbaf-c9fe-481d-b468-c5c731584987",
+  "params":{
+    "id":"d332cbaf-c9fe-481d-b468-c5c731584987",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

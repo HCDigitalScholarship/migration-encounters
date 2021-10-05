@@ -1,0 +1,12 @@
+{
+  "start":8640,
+  "end":8700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But we started having problems and we started having issues.",
+  "id":"6876054a-54d7-4e09-89c3-1d85f4b9d3dd",
+  "params":{
+    "id":"c6cd9d1a-9fee-4830-abd0-2233345a514b"
+  },
+  "name":"Many"
+}

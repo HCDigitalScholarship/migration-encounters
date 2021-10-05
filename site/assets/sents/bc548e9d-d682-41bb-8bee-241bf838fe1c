@@ -1,0 +1,12 @@
+{
+  "start":25581,
+  "end":25626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That time, I signed away, I didn't\n fight it.",
+  "id":"bc548e9d-d682-41bb-8bee-241bf838fe1c",
+  "params":{
+    "id":"eb49b45e-4df4-4cb0-afe3-97f1105dec4b"
+  },
+  "name":"Ben"
+}

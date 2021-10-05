@@ -1,0 +1,13 @@
+{
+  "start":55201,
+  "end":55246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He should have left on time\n with extra time.",
+  "id":"df4f863d-483e-49e6-b213-d3c902652e67",
+  "params":{
+    "id":"df4f863d-483e-49e6-b213-d3c902652e67",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

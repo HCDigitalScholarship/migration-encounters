@@ -1,0 +1,13 @@
+{
+  "start":5099,
+  "end":5204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the back\n   of my mind, I thought I was, but I never actually officially heard it or\n   knew about it.",
+  "id":"cd295010-08b2-49d3-9670-565c396d2503",
+  "params":{
+    "id":"cd295010-08b2-49d3-9670-565c396d2503",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

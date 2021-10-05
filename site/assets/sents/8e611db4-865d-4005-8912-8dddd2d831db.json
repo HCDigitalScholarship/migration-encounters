@@ -1,0 +1,13 @@
+{
+  "start":10006,
+  "end":10015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The best.",
+  "id":"8e611db4-865d-4005-8912-8dddd2d831db",
+  "params":{
+    "id":"8e611db4-865d-4005-8912-8dddd2d831db",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

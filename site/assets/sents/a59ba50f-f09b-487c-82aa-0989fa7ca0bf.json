@@ -1,0 +1,13 @@
+{
+  "start":31279,
+  "end":31315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to complain about him.",
+  "id":"a59ba50f-f09b-487c-82aa-0989fa7ca0bf",
+  "params":{
+    "id":"a59ba50f-f09b-487c-82aa-0989fa7ca0bf",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

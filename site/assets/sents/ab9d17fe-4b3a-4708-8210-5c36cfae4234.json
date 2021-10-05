@@ -1,0 +1,13 @@
+{
+  "start":4922,
+  "end":5007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They used to take us to Cal State Long Beach to see\n   what we would be looking into.",
+  "id":"ab9d17fe-4b3a-4708-8210-5c36cfae4234",
+  "params":{
+    "id":"ab9d17fe-4b3a-4708-8210-5c36cfae4234",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

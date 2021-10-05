@@ -1,0 +1,13 @@
+{
+  "start":18493,
+  "end":18514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You laughed at me.\" \u201c",
+  "id":"6ec7b75d-28ca-4150-a78e-a5c376f9fd81",
+  "params":{
+    "id":"6ec7b75d-28ca-4150-a78e-a5c376f9fd81",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

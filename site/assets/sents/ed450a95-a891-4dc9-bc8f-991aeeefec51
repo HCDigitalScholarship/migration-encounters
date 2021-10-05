@@ -1,0 +1,12 @@
+{
+  "start":25,
+  "end":101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm back with Beto after having messed up with the\n     recording yesterday.",
+  "id":"ed450a95-a891-4dc9-bc8f-991aeeefec51",
+  "params":{
+    "id":"92d7f7c7-4532-4385-b125-be5af2b6b697"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19619,
+  "end":19657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to be an\n   immigration lawyer.",
+  "id":"9b70dd65-7e68-4e54-888d-dffdeb635bab",
+  "params":{
+    "id":"9b70dd65-7e68-4e54-888d-dffdeb635bab",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

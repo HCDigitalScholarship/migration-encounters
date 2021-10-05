@@ -1,0 +1,12 @@
+{
+  "start":7997,
+  "end":8020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, he wasn't born yet.",
+  "id":"20d5459e-1b29-4547-8bca-f10386ade857",
+  "params":{
+    "id":"ff37ea16-2fab-43c3-b7bf-2903efb58dbc"
+  },
+  "name":"Kevin"
+}

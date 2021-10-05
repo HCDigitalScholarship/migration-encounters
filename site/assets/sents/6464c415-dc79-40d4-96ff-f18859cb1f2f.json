@@ -1,0 +1,13 @@
+{
+  "start":7338,
+  "end":7361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I got in trouble.",
+  "id":"6464c415-dc79-40d4-96ff-f18859cb1f2f",
+  "params":{
+    "id":"6464c415-dc79-40d4-96ff-f18859cb1f2f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

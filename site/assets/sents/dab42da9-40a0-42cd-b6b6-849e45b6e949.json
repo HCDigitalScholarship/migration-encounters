@@ -1,0 +1,13 @@
+{
+  "start":25592,
+  "end":25637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe they were just trying to prove a point.",
+  "id":"dab42da9-40a0-42cd-b6b6-849e45b6e949",
+  "params":{
+    "id":"dab42da9-40a0-42cd-b6b6-849e45b6e949",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

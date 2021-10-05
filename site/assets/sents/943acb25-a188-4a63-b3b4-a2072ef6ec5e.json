@@ -1,0 +1,13 @@
+{
+  "start":10922,
+  "end":10939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mostly my father.",
+  "id":"943acb25-a188-4a63-b3b4-a2072ef6ec5e",
+  "params":{
+    "id":"943acb25-a188-4a63-b3b4-a2072ef6ec5e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

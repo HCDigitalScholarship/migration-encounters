@@ -1,0 +1,13 @@
+{
+  "start":31318,
+  "end":31357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're not looking for people like you.\"",
+  "id":"1913eadb-1f5c-49b7-99db-73958a08d6b5",
+  "params":{
+    "id":"1913eadb-1f5c-49b7-99db-73958a08d6b5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

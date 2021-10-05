@@ -1,0 +1,12 @@
+{
+  "start":11848,
+  "end":11901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was kind of hard for me to understand\n   the math.",
+  "id":"06cc6013-bec0-427f-ba2a-115a5ef7bafe",
+  "params":{
+    "id":"a12a79e8-7192-4245-a97d-941d714f1f59"
+  },
+  "name":"Yair"
+}

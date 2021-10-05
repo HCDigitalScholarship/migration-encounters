@@ -1,0 +1,13 @@
+{
+  "start":29271,
+  "end":29296,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"They know more than us?\u201d",
+  "id":"bc5a0274-4552-4a58-86a0-2c4af243391d",
+  "params":{
+    "id":"bc5a0274-4552-4a58-86a0-2c4af243391d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

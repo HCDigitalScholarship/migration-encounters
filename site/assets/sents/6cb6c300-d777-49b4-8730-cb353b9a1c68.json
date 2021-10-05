@@ -1,0 +1,13 @@
+{
+  "start":2374,
+  "end":2389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mother, yes.",
+  "id":"6cb6c300-d777-49b4-8730-cb353b9a1c68",
+  "params":{
+    "id":"6cb6c300-d777-49b4-8730-cb353b9a1c68",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

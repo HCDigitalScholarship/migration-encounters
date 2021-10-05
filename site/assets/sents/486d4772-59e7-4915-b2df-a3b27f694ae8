@@ -1,0 +1,12 @@
+{
+  "start":59,
+  "end":91,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you go to\n   the states?",
+  "id":"486d4772-59e7-4915-b2df-a3b27f694ae8",
+  "params":{
+    "id":"869e802e-0d14-4a90-8a5a-73befea47cf7"
+  },
+  "name":"Ruben"
+}

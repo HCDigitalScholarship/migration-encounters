@@ -1,0 +1,13 @@
+{
+  "start":18796,
+  "end":18823,
+  "label":"SENT",
+  "type":"sent",
+  "text":", he\n never got his papers.",
+  "id":"24d7f93f-6e02-4272-b6f3-1a1f00c51dbe",
+  "params":{
+    "id":"24d7f93f-6e02-4272-b6f3-1a1f00c51dbe",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

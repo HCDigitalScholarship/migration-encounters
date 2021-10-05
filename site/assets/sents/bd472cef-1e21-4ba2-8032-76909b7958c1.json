@@ -1,0 +1,13 @@
+{
+  "start":37264,
+  "end":37318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I guess that part has been\n   struggling for me.",
+  "id":"bd472cef-1e21-4ba2-8032-76909b7958c1",
+  "params":{
+    "id":"bd472cef-1e21-4ba2-8032-76909b7958c1",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

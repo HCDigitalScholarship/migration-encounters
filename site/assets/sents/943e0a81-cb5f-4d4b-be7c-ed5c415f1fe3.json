@@ -1,0 +1,13 @@
+{
+  "start":22076,
+  "end":22176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something you said yesterday that you said you didn't tell me about\n   was something about adoption.",
+  "id":"943e0a81-cb5f-4d4b-be7c-ed5c415f1fe3",
+  "params":{
+    "id":"943e0a81-cb5f-4d4b-be7c-ed5c415f1fe3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

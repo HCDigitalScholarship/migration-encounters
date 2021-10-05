@@ -1,0 +1,12 @@
+{
+  "start":5106,
+  "end":5181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were just waiting for this guy to\n   come over with a car to cross over.",
+  "id":"41fd1ebd-c682-4553-8e30-e976f7ad5326",
+  "params":{
+    "id":"e73cc378-d31b-4140-bded-0cec8a89ffba"
+  },
+  "name":"Yair"
+}

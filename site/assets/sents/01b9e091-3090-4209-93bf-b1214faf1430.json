@@ -1,0 +1,13 @@
+{
+  "start":3482,
+  "end":3519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He took me over, but then he left me.",
+  "id":"01b9e091-3090-4209-93bf-b1214faf1430",
+  "params":{
+    "id":"01b9e091-3090-4209-93bf-b1214faf1430",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10232,
+  "end":10291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   renew it because I didn't go to school no more.",
+  "id":"d0243791-f67a-4c4b-820d-a5cd2ed4d551",
+  "params":{
+    "id":"d0243791-f67a-4c4b-820d-a5cd2ed4d551",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

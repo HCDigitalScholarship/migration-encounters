@@ -1,0 +1,12 @@
+{
+  "start":41202,
+  "end":41237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm a man and\n   I don't like that.",
+  "id":"3a596975-08b1-4a85-a99b-07dae98f0ef6",
+  "params":{
+    "id":"52cc36e0-e61d-47c3-badc-f038596ad1a7"
+  },
+  "name":"Miguel C"
+}

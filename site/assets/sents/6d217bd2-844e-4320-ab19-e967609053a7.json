@@ -1,0 +1,13 @@
+{
+  "start":27662,
+  "end":27736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I know that instead of doing that, I know I could\n buy some stuff here.",
+  "id":"6d217bd2-844e-4320-ab19-e967609053a7",
+  "params":{
+    "id":"6d217bd2-844e-4320-ab19-e967609053a7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

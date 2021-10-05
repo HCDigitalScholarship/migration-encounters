@@ -1,0 +1,13 @@
+{
+  "start":36839,
+  "end":36869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She knew nothing about Mexico.",
+  "id":"a1a0f90c-d7bc-4c85-aa5b-0cb113689c6f",
+  "params":{
+    "id":"a1a0f90c-d7bc-4c85-aa5b-0cb113689c6f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

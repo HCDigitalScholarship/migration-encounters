@@ -1,0 +1,13 @@
+{
+  "start":6623,
+  "end":6662,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what happened to you in the States?",
+  "id":"c59359dd-3610-4960-aad8-be174b3b4216",
+  "params":{
+    "id":"c59359dd-3610-4960-aad8-be174b3b4216",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

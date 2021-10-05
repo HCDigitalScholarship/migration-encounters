@@ -1,0 +1,13 @@
+{
+  "start":31275,
+  "end":31390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, hopefully one day, if you have a Japanese restaurant, they'll\n   come eat there and learn all about the food.",
+  "id":"b4f738c6-4957-40fb-97ba-6eede9bbf492",
+  "params":{
+    "id":"b4f738c6-4957-40fb-97ba-6eede9bbf492",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6381,
+  "end":6421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   like, \"Man, it's now or never.\"",
+  "id":"74315a9c-dbad-416e-ad4a-fa1b68e1923a",
+  "params":{
+    "id":"f384bf62-8859-497f-bbc6-78e39c3580a9"
+  },
+  "name":"Kevin"
+}

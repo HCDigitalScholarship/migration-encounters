@@ -1,0 +1,13 @@
+{
+  "start":50637,
+  "end":50673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   drank, but I wasn't aggressive.",
+  "id":"27507b65-e87c-455a-8691-36e29e2a3a82",
+  "params":{
+    "id":"27507b65-e87c-455a-8691-36e29e2a3a82",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

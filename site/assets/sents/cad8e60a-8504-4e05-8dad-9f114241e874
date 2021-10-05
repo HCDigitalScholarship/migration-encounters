@@ -1,0 +1,12 @@
+{
+  "start":13770,
+  "end":13794,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you experience that?",
+  "id":"cad8e60a-8504-4e05-8dad-9f114241e874",
+  "params":{
+    "id":"ba6645ab-5d28-4882-ba43-20e37d21cb81"
+  },
+  "name":"Sylent"
+}

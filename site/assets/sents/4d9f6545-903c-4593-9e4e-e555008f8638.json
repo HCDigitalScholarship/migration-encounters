@@ -1,0 +1,13 @@
+{
+  "start":31948,
+  "end":31991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   think, as a person, you gain calmness.",
+  "id":"4d9f6545-903c-4593-9e4e-e555008f8638",
+  "params":{
+    "id":"4d9f6545-903c-4593-9e4e-e555008f8638",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

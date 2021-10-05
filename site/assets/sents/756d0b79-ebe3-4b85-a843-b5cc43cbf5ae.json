@@ -1,0 +1,13 @@
+{
+  "start":17015,
+  "end":17023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n ",
+  "id":"756d0b79-ebe3-4b85-a843-b5cc43cbf5ae",
+  "params":{
+    "id":"756d0b79-ebe3-4b85-a843-b5cc43cbf5ae",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

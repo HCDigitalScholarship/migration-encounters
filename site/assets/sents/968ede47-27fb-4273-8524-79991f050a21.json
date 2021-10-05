@@ -1,0 +1,13 @@
+{
+  "start":10735,
+  "end":10769,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your parents must have been upset.",
+  "id":"968ede47-27fb-4273-8524-79991f050a21",
+  "params":{
+    "id":"968ede47-27fb-4273-8524-79991f050a21",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19147,
+  "end":19170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is good or\n   bad?",
+  "id":"d56f538c-5ff1-468d-b2c8-592cb6f8710f",
+  "params":{
+    "id":"0fab1c8e-8bc1-4407-824f-1f8fcfd34e5f"
+  },
+  "name":"Donovan"
+}

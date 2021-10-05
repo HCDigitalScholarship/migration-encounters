@@ -1,0 +1,13 @@
+{
+  "start":20939,
+  "end":20968,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody wants\n   to get in.",
+  "id":"2d690a7f-1b13-4c9d-bb0c-a123b6def10b",
+  "params":{
+    "id":"2d690a7f-1b13-4c9d-bb0c-a123b6def10b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

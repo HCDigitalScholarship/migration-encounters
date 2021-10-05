@@ -1,0 +1,13 @@
+{
+  "start":29203,
+  "end":29260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Le pusimos un banquito a la ni\u00f1a para que ella alcanzara.",
+  "id":"c56d2d0b-b483-4d34-931c-19b8326c7f9a",
+  "params":{
+    "id":"c56d2d0b-b483-4d34-931c-19b8326c7f9a",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

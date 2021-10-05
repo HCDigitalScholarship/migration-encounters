@@ -1,0 +1,12 @@
+{
+  "start":5027,
+  "end":5051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: What about school?",
+  "id":"fe5ce23e-3276-451e-805f-a09c759e8b45",
+  "params":{
+    "id":"928b348f-b5ae-40c4-9f1d-64613bb99ce3"
+  },
+  "name":"Brenda"
+}

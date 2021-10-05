@@ -1,0 +1,12 @@
+{
+  "start":2377,
+  "end":2382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Juan:",
+  "id":"c7ef8f1c-f71c-4624-80fb-cfdf86bad619",
+  "params":{
+    "id":"860ec1d8-a0c5-4868-b9e1-816cb24785ff"
+  },
+  "name":"Juan B"
+}

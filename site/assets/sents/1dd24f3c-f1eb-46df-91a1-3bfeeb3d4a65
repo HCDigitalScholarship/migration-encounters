@@ -1,0 +1,12 @@
+{
+  "start":36254,
+  "end":36265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like\n it.",
+  "id":"1dd24f3c-f1eb-46df-91a1-3bfeeb3d4a65",
+  "params":{
+    "id":"9c72a1f1-d1bf-4e13-98a5-83d6d9bf43c3"
+  },
+  "name":"Jesus C"
+}

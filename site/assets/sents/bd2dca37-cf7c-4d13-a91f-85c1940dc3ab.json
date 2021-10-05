@@ -1,0 +1,13 @@
+{
+  "start":44444,
+  "end":44505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took me downstairs, checked me, and then they let me go.",
+  "id":"bd2dca37-cf7c-4d13-a91f-85c1940dc3ab",
+  "params":{
+    "id":"bd2dca37-cf7c-4d13-a91f-85c1940dc3ab",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

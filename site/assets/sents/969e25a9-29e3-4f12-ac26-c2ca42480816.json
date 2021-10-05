@@ -1,0 +1,13 @@
+{
+  "start":18600,
+  "end":18623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I wasn't alone.",
+  "id":"969e25a9-29e3-4f12-ac26-c2ca42480816",
+  "params":{
+    "id":"969e25a9-29e3-4f12-ac26-c2ca42480816",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

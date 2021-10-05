@@ -1,0 +1,13 @@
+{
+  "start":1184,
+  "end":1191,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Boring.",
+  "id":"0b90010e-a833-49d6-b6a1-151de1eba8ee",
+  "params":{
+    "id":"0b90010e-a833-49d6-b6a1-151de1eba8ee",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

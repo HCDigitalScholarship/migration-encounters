@@ -1,0 +1,13 @@
+{
+  "start":8818,
+  "end":8881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're\n   just like, \u201cGet off the bus, walk across the bridge.",
+  "id":"2529f9d7-1ef2-4760-9832-e4c832f712fa",
+  "params":{
+    "id":"2529f9d7-1ef2-4760-9832-e4c832f712fa",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

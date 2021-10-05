@@ -1,0 +1,12 @@
+{
+  "start":16145,
+  "end":16174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You read philosophy, as well?",
+  "id":"39dab517-8b4a-42e4-bd92-ca43bde2ded8",
+  "params":{
+    "id":"fd07bb98-169a-4b4b-8c89-81f00169a791"
+  },
+  "name":"Luisa"
+}

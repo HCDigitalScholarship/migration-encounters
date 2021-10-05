@@ -1,0 +1,13 @@
+{
+  "start":9755,
+  "end":9782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had dental work already.",
+  "id":"dac712cd-ed40-4c5d-a626-8ec486ad21cc",
+  "params":{
+    "id":"dac712cd-ed40-4c5d-a626-8ec486ad21cc",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

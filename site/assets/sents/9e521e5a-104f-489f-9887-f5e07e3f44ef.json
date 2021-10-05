@@ -1,0 +1,13 @@
+{
+  "start":32006,
+  "end":32019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I smoke weed.",
+  "id":"9e521e5a-104f-489f-9887-f5e07e3f44ef",
+  "params":{
+    "id":"9e521e5a-104f-489f-9887-f5e07e3f44ef",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

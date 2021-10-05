@@ -1,0 +1,13 @@
+{
+  "start":9640,
+  "end":9659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a moving\n   vehicle",
+  "id":"f46c3da6-f6a5-401f-8201-06cb7f70452d",
+  "params":{
+    "id":"f46c3da6-f6a5-401f-8201-06cb7f70452d",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

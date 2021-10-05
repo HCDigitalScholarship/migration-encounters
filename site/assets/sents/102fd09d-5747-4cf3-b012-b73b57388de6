@@ -1,0 +1,12 @@
+{
+  "start":32191,
+  "end":32253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was really young, so I would always be\n   like \u201cMe, me, me.\u201d",
+  "id":"102fd09d-5747-4cf3-b012-b73b57388de6",
+  "params":{
+    "id":"85c5edae-ce26-45eb-82e0-42cbf950d7ca"
+  },
+  "name":"Mike"
+}

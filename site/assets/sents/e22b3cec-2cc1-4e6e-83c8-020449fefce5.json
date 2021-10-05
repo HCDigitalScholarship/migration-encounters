@@ -1,0 +1,13 @@
+{
+  "start":12269,
+  "end":12304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry but you're going to die.\"",
+  "id":"e22b3cec-2cc1-4e6e-83c8-020449fefce5",
+  "params":{
+    "id":"e22b3cec-2cc1-4e6e-83c8-020449fefce5",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

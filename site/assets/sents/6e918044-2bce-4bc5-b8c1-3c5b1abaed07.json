@@ -1,0 +1,13 @@
+{
+  "start":16825,
+  "end":16854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But, I mean, we like Chili's.",
+  "id":"6e918044-2bce-4bc5-b8c1-3c5b1abaed07",
+  "params":{
+    "id":"6e918044-2bce-4bc5-b8c1-3c5b1abaed07",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

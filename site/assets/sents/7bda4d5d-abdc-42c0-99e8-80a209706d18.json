@@ -1,0 +1,13 @@
+{
+  "start":1064,
+  "end":1103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it was really hard to tell them bye.",
+  "id":"7bda4d5d-abdc-42c0-99e8-80a209706d18",
+  "params":{
+    "id":"7bda4d5d-abdc-42c0-99e8-80a209706d18",
+    "class":"anno"
+  },
+  "name":"Many"
+}

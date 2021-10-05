@@ -1,0 +1,13 @@
+{
+  "start":25680,
+  "end":25835,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I do remember meeting up with my family and then them\n   telling us that we have to do something or we're going to keep getting\n   those type of cases.",
+  "id":"f43a027d-1cde-4a88-83dc-d1a4e1aa07f3",
+  "params":{
+    "id":"f43a027d-1cde-4a88-83dc-d1a4e1aa07f3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

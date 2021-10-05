@@ -1,0 +1,13 @@
+{
+  "start":40162,
+  "end":40251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Probably next\n   year, she will be here, at least for a couple weeks, no?\n \n \n   Rodrigo:",
+  "id":"62e1e13e-49fb-4940-bfac-1839012126db",
+  "params":{
+    "id":"62e1e13e-49fb-4940-bfac-1839012126db",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

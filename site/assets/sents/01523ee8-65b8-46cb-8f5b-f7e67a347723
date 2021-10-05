@@ -1,0 +1,12 @@
+{
+  "start":10700,
+  "end":10791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   coming back and I didn't have my driver's license with me\u2014I forgot it that\n   day.",
+  "id":"01523ee8-65b8-46cb-8f5b-f7e67a347723",
+  "params":{
+    "id":"9c6c1d99-a128-4702-a94b-699489762ef0"
+  },
+  "name":"Josue"
+}

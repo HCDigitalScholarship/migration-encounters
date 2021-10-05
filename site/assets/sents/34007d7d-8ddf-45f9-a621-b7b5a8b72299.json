@@ -1,0 +1,13 @@
+{
+  "start":11990,
+  "end":12023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's in North of Mexico, Sonora.",
+  "id":"34007d7d-8ddf-45f9-a621-b7b5a8b72299",
+  "params":{
+    "id":"34007d7d-8ddf-45f9-a621-b7b5a8b72299",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17805,
+  "end":17832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just\n   the way it is.",
+  "id":"a38c75f0-0100-4b36-b04e-17d97a47608e",
+  "params":{
+    "id":"a38c75f0-0100-4b36-b04e-17d97a47608e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

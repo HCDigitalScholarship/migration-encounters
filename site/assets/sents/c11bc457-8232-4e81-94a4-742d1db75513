@@ -1,0 +1,12 @@
+{
+  "start":8210,
+  "end":8239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really liked it over there.",
+  "id":"c11bc457-8232-4e81-94a4-742d1db75513",
+  "params":{
+    "id":"d7d35613-44c8-42fa-b877-d4572e37b914"
+  },
+  "name":"Yair"
+}

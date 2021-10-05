@@ -1,0 +1,12 @@
+{
+  "start":30323,
+  "end":30381,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was two years and half that I hadn't\n   seen my family.",
+  "id":"e05686bb-3abc-42e3-97f2-ee7fabdc5540",
+  "params":{
+    "id":"d3ccab16-fd41-4cc3-9d05-02677e439877"
+  },
+  "name":"Daniel"
+}

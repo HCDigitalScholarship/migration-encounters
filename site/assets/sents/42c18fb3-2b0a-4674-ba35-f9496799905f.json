@@ -1,0 +1,13 @@
+{
+  "start":30755,
+  "end":30774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't like that.",
+  "id":"42c18fb3-2b0a-4674-ba35-f9496799905f",
+  "params":{
+    "id":"42c18fb3-2b0a-4674-ba35-f9496799905f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16466,
+  "end":16497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   They detained me there.",
+  "id":"6789bf3d-7369-4b64-8254-ae7b846155d4",
+  "params":{
+    "id":"6789bf3d-7369-4b64-8254-ae7b846155d4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

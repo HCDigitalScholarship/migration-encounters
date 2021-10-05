@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":8800,
+  "end":8802,
+  "text":"as there at that moment.\n \n \n   Sergio: Well that's good. Did you ever send money to your relatives in\n   Mexico?\n \n \n   Josue: No. No, I'm not that close.\n \n \n   Sergio: How long did you live in the US?\n \n \n   Josue: 11 years?\n \n \n   Sergio: 11 years. Did you follow US political news while you were living in\n   the US?\n \n \n   Josue: News? Yeah, yeah, yeah.\n \n \n   Sergio: And how'd you follow it?\n \n",
+  "label":"GPE",
+  "id":"5d91e819-88c5-4610-a9bb-f42b37f84c97",
+  "name":"Josue"
+}

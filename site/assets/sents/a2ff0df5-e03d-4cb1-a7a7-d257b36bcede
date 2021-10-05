@@ -1,0 +1,12 @@
+{
+  "start":2004,
+  "end":2025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did you settle?",
+  "id":"a2ff0df5-e03d-4cb1-a7a7-d257b36bcede",
+  "params":{
+    "id":"83985e7e-2383-458b-99e4-8d59fca21006"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":45367,
+  "end":45411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm very emotional since I was a little kid.",
+  "id":"9a590ade-7c2a-4730-9d18-6332d49b56e0",
+  "params":{
+    "id":"9a590ade-7c2a-4730-9d18-6332d49b56e0",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":64849,
+  "end":64879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here people\n   are struggling.",
+  "id":"3926b78b-74a8-4766-a130-855993030475",
+  "params":{
+    "id":"3926b78b-74a8-4766-a130-855993030475",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

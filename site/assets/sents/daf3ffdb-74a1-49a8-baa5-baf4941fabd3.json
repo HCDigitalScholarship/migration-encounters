@@ -1,0 +1,12 @@
+{
+  "start":64110,
+  "end":64172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did go to church when I was in junior high, and it was nice.",
+  "id":"daf3ffdb-74a1-49a8-baa5-baf4941fabd3",
+  "params":{
+    "id":"a2bce54d-b66d-4f1a-bd6e-056d2ca73411"
+  },
+  "name":"Axel"
+}

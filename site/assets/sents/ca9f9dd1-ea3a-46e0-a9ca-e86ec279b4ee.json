@@ -1,0 +1,13 @@
+{
+  "start":30850,
+  "end":30879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My thinking is I can do this.",
+  "id":"ca9f9dd1-ea3a-46e0-a9ca-e86ec279b4ee",
+  "params":{
+    "id":"ca9f9dd1-ea3a-46e0-a9ca-e86ec279b4ee",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18407,
+  "end":18452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is how many items\n   are in your house.\"",
+  "id":"93c64fe6-f7b4-4643-9d94-8b44a788e0dd",
+  "params":{
+    "id":"f45ba431-0395-4fd9-81d4-e4842983bf78"
+  },
+  "name":"Daniel"
+}

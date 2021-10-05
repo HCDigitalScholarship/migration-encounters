@@ -1,0 +1,13 @@
+{
+  "start":69537,
+  "end":69564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She gets her first\n   bite.",
+  "id":"68b04851-de43-44c6-b9f8-b4a1d7bacbad",
+  "params":{
+    "id":"68b04851-de43-44c6-b9f8-b4a1d7bacbad",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

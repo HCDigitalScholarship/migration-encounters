@@ -1,0 +1,13 @@
+{
+  "start":42138,
+  "end":42182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They actually ran the social security check.",
+  "id":"d580180a-27c2-48e4-b805-68abcd6aa119",
+  "params":{
+    "id":"d580180a-27c2-48e4-b805-68abcd6aa119",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

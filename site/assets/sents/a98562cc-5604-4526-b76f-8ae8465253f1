@@ -1,0 +1,12 @@
+{
+  "start":50535,
+  "end":50565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hopefully I'll find something.",
+  "id":"a98562cc-5604-4526-b76f-8ae8465253f1",
+  "params":{
+    "id":"e9bd7ca6-d81a-41d4-b228-1fa5884516ee"
+  },
+  "name":"Mike"
+}

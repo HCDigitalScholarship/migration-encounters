@@ -1,0 +1,13 @@
+{
+  "start":6884,
+  "end":6922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I looked up\n   and I'm like, \"Johnny.\"",
+  "id":"d7b7cc4e-8351-41ed-b19f-399b59f0cd84",
+  "params":{
+    "id":"d7b7cc4e-8351-41ed-b19f-399b59f0cd84",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

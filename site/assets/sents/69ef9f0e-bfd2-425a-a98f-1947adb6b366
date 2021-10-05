@@ -1,0 +1,12 @@
+{
+  "start":29786,
+  "end":29819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"Abraham\n     Lincoln.",
+  "id":"69ef9f0e-bfd2-425a-a98f-1947adb6b366",
+  "params":{
+    "id":"b4b69797-5df9-401d-ad65-4f0658e8a0ba"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25416,
+  "end":25454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, did you fight the detention or no?",
+  "id":"8c34fe7d-0c2c-4474-88b2-00f97086f3bb",
+  "params":{
+    "id":"36d7670f-be4e-4df2-88f1-56e790df9a59"
+  },
+  "name":"Ben"
+}

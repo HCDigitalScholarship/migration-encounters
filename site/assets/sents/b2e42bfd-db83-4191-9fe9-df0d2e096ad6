@@ -1,0 +1,12 @@
+{
+  "start":45594,
+  "end":45630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I just did a voluntary departure.",
+  "id":"b2e42bfd-db83-4191-9fe9-df0d2e096ad6",
+  "params":{
+    "id":"30edb087-9950-49d9-a480-5fd513b752c7"
+  },
+  "name":"Mike"
+}

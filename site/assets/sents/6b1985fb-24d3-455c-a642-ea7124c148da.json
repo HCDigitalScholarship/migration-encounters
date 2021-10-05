@@ -1,0 +1,13 @@
+{
+  "start":12181,
+  "end":12329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My plan was like,\n \u201cWell maybe I can just get a job at the restaurant, whatever, save up\n money,\u201d because they did accept people without any papers.",
+  "id":"6b1985fb-24d3-455c-a642-ea7124c148da",
+  "params":{
+    "id":"6b1985fb-24d3-455c-a642-ea7124c148da",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

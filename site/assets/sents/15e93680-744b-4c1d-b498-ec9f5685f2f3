@@ -1,0 +1,12 @@
+{
+  "start":9181,
+  "end":9210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you trying to study?",
+  "id":"15e93680-744b-4c1d-b498-ec9f5685f2f3",
+  "params":{
+    "id":"774ac936-424d-401f-9c25-f8e732bac03e"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1015,
+  "end":1040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my oldest\n   brother Luis",
+  "id":"374d012b-66df-4f10-9c80-b7ee6f36fd80",
+  "params":{
+    "id":"b2f3a22e-b932-4e50-a4d9-d0da4167cf62"
+  },
+  "name":"Hugo"
+}

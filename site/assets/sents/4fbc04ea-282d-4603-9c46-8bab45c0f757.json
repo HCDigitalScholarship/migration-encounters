@@ -1,0 +1,13 @@
+{
+  "start":13355,
+  "end":13392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's hard\n to get a driver's license.",
+  "id":"4fbc04ea-282d-4603-9c46-8bab45c0f757",
+  "params":{
+    "id":"4fbc04ea-282d-4603-9c46-8bab45c0f757",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

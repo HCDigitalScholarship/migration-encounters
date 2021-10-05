@@ -1,0 +1,12 @@
+{
+  "start":1621,
+  "end":1647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was a machine operator.",
+  "id":"ab609ea6-e96e-41dd-b358-5ba4ae08b43e",
+  "params":{
+    "id":"1f8ed5ff-a7ef-46ac-ba3d-56dfac44a876"
+  },
+  "name":"Abel"
+}

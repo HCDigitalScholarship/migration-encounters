@@ -1,0 +1,13 @@
+{
+  "start":60564,
+  "end":60615,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Saw a lot of things that\n     people shouldn't see.",
+  "id":"d2e7ab7f-ead5-49de-90b1-733caf62bf5f",
+  "params":{
+    "id":"d2e7ab7f-ead5-49de-90b1-733caf62bf5f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

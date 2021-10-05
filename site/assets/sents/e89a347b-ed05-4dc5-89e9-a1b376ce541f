@@ -1,0 +1,12 @@
+{
+  "start":4383,
+  "end":4433,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand that they\n   are just getting better.",
+  "id":"e89a347b-ed05-4dc5-89e9-a1b376ce541f",
+  "params":{
+    "id":"bc345286-5137-41c4-a14e-6772caec18a0"
+  },
+  "name":"Zayuri"
+}

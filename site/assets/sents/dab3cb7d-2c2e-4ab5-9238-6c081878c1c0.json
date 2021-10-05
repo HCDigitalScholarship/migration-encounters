@@ -1,0 +1,13 @@
+{
+  "start":23802,
+  "end":23857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know personally, because\n   I've had to keep secrets.",
+  "id":"dab3cb7d-2c2e-4ab5-9238-6c081878c1c0",
+  "params":{
+    "id":"dab3cb7d-2c2e-4ab5-9238-6c081878c1c0",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

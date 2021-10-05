@@ -1,0 +1,12 @@
+{
+  "start":7842,
+  "end":7868,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: What was it about?",
+  "id":"7f3303e8-384f-4ae0-9a64-5cd61d1ef407",
+  "params":{
+    "id":"c3836cb7-74c4-499d-9af1-0c7816942f0d"
+  },
+  "name":"Angelo"
+}

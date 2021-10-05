@@ -1,0 +1,12 @@
+{
+  "start":33129,
+  "end":33198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, you're thinking about very important\n   existential issues.",
+  "id":"bbb20c43-dfc6-4164-8f74-9ca1fd59cb17",
+  "params":{
+    "id":"281832f3-5af4-49f3-873b-3a214c82dd63"
+  },
+  "name":"Miguel A"
+}

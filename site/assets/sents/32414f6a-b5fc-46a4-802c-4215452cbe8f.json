@@ -1,0 +1,13 @@
+{
+  "start":15848,
+  "end":15896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What age did your father tell\n you these things?",
+  "id":"32414f6a-b5fc-46a4-802c-4215452cbe8f",
+  "params":{
+    "id":"32414f6a-b5fc-46a4-802c-4215452cbe8f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

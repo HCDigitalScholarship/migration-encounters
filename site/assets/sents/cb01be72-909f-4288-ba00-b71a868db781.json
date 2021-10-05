@@ -1,0 +1,13 @@
+{
+  "start":27180,
+  "end":27213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: Did you say this?",
+  "id":"cb01be72-909f-4288-ba00-b71a868db781",
+  "params":{
+    "id":"cb01be72-909f-4288-ba00-b71a868db781",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

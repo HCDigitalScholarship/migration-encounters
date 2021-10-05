@@ -1,0 +1,12 @@
+{
+  "start":34546,
+  "end":34571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want\n   to save people.",
+  "id":"393b20cd-06af-4c76-94fd-264b6245e596",
+  "params":{
+    "id":"7c4fc03a-1f72-49e7-be7f-dfccd0f4bb0f"
+  },
+  "name":"Luisa"
+}

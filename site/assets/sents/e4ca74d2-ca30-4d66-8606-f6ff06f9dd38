@@ -1,0 +1,12 @@
+{
+  "start":34608,
+  "end":34640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think we have to work on that.",
+  "id":"e4ca74d2-ca30-4d66-8606-f6ff06f9dd38",
+  "params":{
+    "id":"03273e3c-88e5-4451-a64c-3bdaf0d2bdd0"
+  },
+  "name":"Ilse"
+}

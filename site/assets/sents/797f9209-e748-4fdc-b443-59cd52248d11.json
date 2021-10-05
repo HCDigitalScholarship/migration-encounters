@@ -1,0 +1,13 @@
+{
+  "start":4063,
+  "end":4128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started high school, 9th grade\n   to 12th grade, in California.",
+  "id":"797f9209-e748-4fdc-b443-59cd52248d11",
+  "params":{
+    "id":"797f9209-e748-4fdc-b443-59cd52248d11",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

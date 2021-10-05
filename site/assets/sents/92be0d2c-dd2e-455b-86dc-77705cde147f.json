@@ -1,0 +1,13 @@
+{
+  "start":3792,
+  "end":3901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But here I\n     have been managing people's credit cards, and it's like, \"Oh, I didn't know\n     about this.\"",
+  "id":"92be0d2c-dd2e-455b-86dc-77705cde147f",
+  "params":{
+    "id":"92be0d2c-dd2e-455b-86dc-77705cde147f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14005,
+  "end":14119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If we didn't do, they\n   probably would have had to do, because if it wasn't me, it would've been\n   the next one.",
+  "id":"a7841fd0-6bd9-4dd4-8ca9-3ab283574f33",
+  "params":{
+    "id":"53ab8914-6688-4b36-bd91-49a87b4f2999"
+  },
+  "name":"Mike"
+}

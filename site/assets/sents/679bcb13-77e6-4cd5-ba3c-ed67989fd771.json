@@ -1,0 +1,13 @@
+{
+  "start":10128,
+  "end":10171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got mad\n   and got sad because I can't...",
+  "id":"679bcb13-77e6-4cd5-ba3c-ed67989fd771",
+  "params":{
+    "id":"679bcb13-77e6-4cd5-ba3c-ed67989fd771",
+    "class":"anno"
+  },
+  "name":"Many"
+}

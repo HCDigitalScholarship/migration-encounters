@@ -1,0 +1,13 @@
+{
+  "start":11912,
+  "end":12007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got accused of something, which was a really big deal, and it all\n   went downhill from there",
+  "id":"441fd5e5-157e-407c-a1a8-d8fcb5128d40",
+  "params":{
+    "id":"441fd5e5-157e-407c-a1a8-d8fcb5128d40",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

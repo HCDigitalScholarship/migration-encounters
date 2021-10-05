@@ -1,0 +1,13 @@
+{
+  "start":1373,
+  "end":1408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was easy to cross the\n   border.",
+  "id":"c7d86cb2-1db5-42b8-b119-e377aeb12c35",
+  "params":{
+    "id":"c7d86cb2-1db5-42b8-b119-e377aeb12c35",
+    "class":"anno"
+  },
+  "name":"Many"
+}

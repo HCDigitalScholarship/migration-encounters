@@ -1,0 +1,13 @@
+{
+  "start":23074,
+  "end":23100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   like, \u201cOkay, so...\u201d",
+  "id":"43751b3b-f380-4563-b7cb-3e57a392d916",
+  "params":{
+    "id":"43751b3b-f380-4563-b7cb-3e57a392d916",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4073,
+  "end":4135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you came back to Mexico, did any authorities receive you?",
+  "id":"d27e4d80-dd51-4ad6-8066-5ae961bdbffa",
+  "params":{
+    "id":"d27e4d80-dd51-4ad6-8066-5ae961bdbffa",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

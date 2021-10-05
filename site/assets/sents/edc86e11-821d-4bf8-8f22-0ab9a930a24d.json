@@ -1,0 +1,13 @@
+{
+  "start":7360,
+  "end":7411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo vine aqu\u00ed para ser mejor no\n     para ser peor\u201d.",
+  "id":"edc86e11-821d-4bf8-8f22-0ab9a930a24d",
+  "params":{
+    "id":"edc86e11-821d-4bf8-8f22-0ab9a930a24d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

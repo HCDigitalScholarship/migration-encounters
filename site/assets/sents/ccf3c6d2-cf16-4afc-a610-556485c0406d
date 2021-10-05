@@ -1,0 +1,12 @@
+{
+  "start":23943,
+  "end":24000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For\n   example, those immigrants that came from Honduras.",
+  "id":"ccf3c6d2-cf16-4afc-a610-556485c0406d",
+  "params":{
+    "id":"10d6274e-7ad5-4734-b0f5-13282957e60e"
+  },
+  "name":"Noe"
+}

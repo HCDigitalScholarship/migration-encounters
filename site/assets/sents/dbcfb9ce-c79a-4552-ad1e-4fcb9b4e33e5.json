@@ -1,0 +1,13 @@
+{
+  "start":3456,
+  "end":3462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy:",
+  "id":"dbcfb9ce-c79a-4552-ad1e-4fcb9b4e33e5",
+  "params":{
+    "id":"dbcfb9ce-c79a-4552-ad1e-4fcb9b4e33e5",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

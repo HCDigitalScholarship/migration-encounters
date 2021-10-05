@@ -1,0 +1,13 @@
+{
+  "start":9080,
+  "end":9106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When your mom took you in?",
+  "id":"d70d9fe5-c898-4897-8b13-20ab13c05a21",
+  "params":{
+    "id":"d70d9fe5-c898-4897-8b13-20ab13c05a21",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

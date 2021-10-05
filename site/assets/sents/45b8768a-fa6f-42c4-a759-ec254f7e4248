@@ -1,0 +1,12 @@
+{
+  "start":2000,
+  "end":2016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was in ____.",
+  "id":"45b8768a-fa6f-42c4-a759-ec254f7e4248",
+  "params":{
+    "id":"4147bfb6-a408-47fb-ae67-18c9699538b5"
+  },
+  "name":"Joana"
+}

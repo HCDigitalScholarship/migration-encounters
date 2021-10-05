@@ -1,0 +1,12 @@
+{
+  "start":293,
+  "end":342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My father\n had already left to the United States.",
+  "id":"281c1948-d8e3-4a54-8e69-540afe5437df",
+  "params":{
+    "id":"59159c79-6d44-4f25-87c9-c8513c7cba0a"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32005,
+  "end":32031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was something horrible.",
+  "id":"4d580fe1-8095-4288-8976-f5bf03b921c7",
+  "params":{
+    "id":"1cb8356c-3ac6-4d14-ab72-b8f7dece09b3"
+  },
+  "name":"Daniel B"
+}

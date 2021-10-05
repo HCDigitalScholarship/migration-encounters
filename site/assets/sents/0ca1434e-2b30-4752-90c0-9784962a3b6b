@@ -1,0 +1,12 @@
+{
+  "start":17546,
+  "end":17589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's going to turn 12 years old next month.",
+  "id":"0ca1434e-2b30-4752-90c0-9784962a3b6b",
+  "params":{
+    "id":"e3900002-8624-4593-90a1-5c6124116bb8"
+  },
+  "name":"Rodrigo"
+}

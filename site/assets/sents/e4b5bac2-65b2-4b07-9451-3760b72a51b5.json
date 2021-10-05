@@ -1,0 +1,13 @@
+{
+  "start":35660,
+  "end":35695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cPeople still make it, but they\n   ",
+  "id":"e4b5bac2-65b2-4b07-9451-3760b72a51b5",
+  "params":{
+    "id":"e4b5bac2-65b2-4b07-9451-3760b72a51b5",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16343,
+  "end":16347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ana:",
+  "id":"bbd563dc-edf1-4b41-87ad-f57307c7bdd6",
+  "params":{
+    "id":"bbd563dc-edf1-4b41-87ad-f57307c7bdd6",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":76,
+  "end":95,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 12 years old.",
+  "id":"5104a594-e1bc-4564-9a7c-33caa6b7b91c",
+  "params":{
+    "id":"5104a594-e1bc-4564-9a7c-33caa6b7b91c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

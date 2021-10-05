@@ -1,0 +1,13 @@
+{
+  "start":10981,
+  "end":11060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I haven't been able to get a job because I don't have an\n   identification.",
+  "id":"6a805948-5ad3-481e-bd6c-d9100449f111",
+  "params":{
+    "id":"6a805948-5ad3-481e-bd6c-d9100449f111",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

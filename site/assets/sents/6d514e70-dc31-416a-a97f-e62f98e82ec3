@@ -1,0 +1,12 @@
+{
+  "start":2290,
+  "end":2319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   mom was really worried.",
+  "id":"6d514e70-dc31-416a-a97f-e62f98e82ec3",
+  "params":{
+    "id":"40544666-9994-4a00-8b57-53a4f5d8bfc1"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":986,
+  "end":1099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   sisters and I, we went through the bridge, like the regular crossing, but\n   we used other people's papers.",
+  "id":"047c2c7e-fb5d-4629-8fa7-f5457fbfd936",
+  "params":{
+    "id":"047c2c7e-fb5d-4629-8fa7-f5457fbfd936",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

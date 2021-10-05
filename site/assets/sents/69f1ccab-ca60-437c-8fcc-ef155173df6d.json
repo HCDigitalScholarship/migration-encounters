@@ -1,0 +1,13 @@
+{
+  "start":51636,
+  "end":51656,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Joseph: Not to live.",
+  "id":"69f1ccab-ca60-437c-8fcc-ef155173df6d",
+  "params":{
+    "id":"69f1ccab-ca60-437c-8fcc-ef155173df6d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

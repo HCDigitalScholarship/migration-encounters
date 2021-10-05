@@ -1,0 +1,12 @@
+{
+  "start":32802,
+  "end":32842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"I told you to stay where!\u201d",
+  "id":"7219a57a-2508-44af-8a25-5faa14b664ca",
+  "params":{
+    "id":"b07c002b-9c5e-48d0-9685-5d498f40905d"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1987,
+  "end":2053,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I studied English at my\n   school here and I immediately loved it.",
+  "id":"9aa24c13-68f3-4205-a84c-40091c8b07a1",
+  "params":{
+    "id":"bb78540d-235b-4bfd-ac09-09d68fb6e365"
+  },
+  "name":"Rocio"
+}

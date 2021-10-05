@@ -1,0 +1,13 @@
+{
+  "start":24337,
+  "end":24362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I spent a month\n waiting.",
+  "id":"cfc34a78-0de2-4088-96f6-e54c6de5a343",
+  "params":{
+    "id":"cfc34a78-0de2-4088-96f6-e54c6de5a343",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

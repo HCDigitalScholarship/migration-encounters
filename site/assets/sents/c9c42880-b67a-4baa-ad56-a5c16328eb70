@@ -1,0 +1,12 @@
+{
+  "start":37576,
+  "end":37602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of\n people struggle.",
+  "id":"c9c42880-b67a-4baa-ad56-a5c16328eb70",
+  "params":{
+    "id":"fb704f7b-6d0d-4a3d-aff5-0895da2501c4"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17600,
+  "end":17637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How has being back in Mexico\n   been?",
+  "id":"82c04c1a-a61b-41b9-8211-a219c80ba199",
+  "params":{
+    "id":"82c04c1a-a61b-41b9-8211-a219c80ba199",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

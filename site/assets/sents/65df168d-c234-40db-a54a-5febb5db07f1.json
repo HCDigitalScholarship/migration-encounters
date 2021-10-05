@@ -1,0 +1,13 @@
+{
+  "start":15900,
+  "end":15966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I think it was, but I really don't remember\n   that as well.",
+  "id":"65df168d-c234-40db-a54a-5febb5db07f1",
+  "params":{
+    "id":"65df168d-c234-40db-a54a-5febb5db07f1",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

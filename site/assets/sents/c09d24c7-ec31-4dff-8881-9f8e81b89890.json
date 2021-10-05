@@ -1,0 +1,13 @@
+{
+  "start":28281,
+  "end":28299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How have you been?",
+  "id":"c09d24c7-ec31-4dff-8881-9f8e81b89890",
+  "params":{
+    "id":"c09d24c7-ec31-4dff-8881-9f8e81b89890",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

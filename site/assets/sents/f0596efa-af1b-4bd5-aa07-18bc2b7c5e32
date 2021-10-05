@@ -1,0 +1,12 @@
+{
+  "start":15385,
+  "end":15446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   It's embarrassing for people or neighbors to see you.",
+  "id":"f0596efa-af1b-4bd5-aa07-18bc2b7c5e32",
+  "params":{
+    "id":"b1a9cfc2-cc69-4c8b-97b1-b274aa384871"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10419,
+  "end":10541,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in liberal arts\n   of science, but I changed my mind and I wanted to get into the medical\n   school, but I couldn't.",
+  "id":"1443bb52-41ed-47d1-9605-07f62697acac",
+  "params":{
+    "id":"1443bb52-41ed-47d1-9605-07f62697acac",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

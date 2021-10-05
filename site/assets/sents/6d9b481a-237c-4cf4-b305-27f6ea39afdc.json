@@ -1,0 +1,13 @@
+{
+  "start":15017,
+  "end":15058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go on the\n   plane, then it's on bus.",
+  "id":"6d9b481a-237c-4cf4-b305-27f6ea39afdc",
+  "params":{
+    "id":"6d9b481a-237c-4cf4-b305-27f6ea39afdc",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

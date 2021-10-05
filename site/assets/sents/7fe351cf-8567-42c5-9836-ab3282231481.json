@@ -1,0 +1,13 @@
+{
+  "start":2978,
+  "end":3070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Last time we spoke, you talked about how difficult it was to\u2014\n \n \n   Luisa: To leave my dad?",
+  "id":"7fe351cf-8567-42c5-9836-ab3282231481",
+  "params":{
+    "id":"7fe351cf-8567-42c5-9836-ab3282231481",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

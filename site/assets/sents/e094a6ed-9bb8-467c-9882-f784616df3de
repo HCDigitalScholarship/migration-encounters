@@ -1,0 +1,12 @@
+{
+  "start":7134,
+  "end":7208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita:\n \n \n   Did you say, \"My dad was born in Texas,\" My grandpa?",
+  "id":"e094a6ed-9bb8-467c-9882-f784616df3de",
+  "params":{
+    "id":"737bc748-2f19-48b9-ba36-b09f549aac47"
+  },
+  "name":"Sylent"
+}

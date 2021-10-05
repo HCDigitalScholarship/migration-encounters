@@ -1,0 +1,13 @@
+{
+  "start":37393,
+  "end":37431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But you know who they were picking up?",
+  "id":"1b91bcf6-8de1-4220-afa4-9efb490466ec",
+  "params":{
+    "id":"1b91bcf6-8de1-4220-afa4-9efb490466ec",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

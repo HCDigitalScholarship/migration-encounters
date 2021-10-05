@@ -1,0 +1,12 @@
+{
+  "start":25768,
+  "end":25790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a good book, man.",
+  "id":"dd7569c2-f45c-45bd-86c1-18eae5403be8",
+  "params":{
+    "id":"ca7d3507-bddd-46d8-a153-265e317bf172"
+  },
+  "name":"Abel"
+}

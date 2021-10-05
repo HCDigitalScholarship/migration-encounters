@@ -1,0 +1,12 @@
+{
+  "start":36013,
+  "end":36034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"400, 500\n pesos a day",
+  "id":"6312ff63-b527-4638-a51b-3a2ed3ec23ac",
+  "params":{
+    "id":"5f112de6-b18b-4233-8f4a-e60807e718d1"
+  },
+  "name":"Billy"
+}

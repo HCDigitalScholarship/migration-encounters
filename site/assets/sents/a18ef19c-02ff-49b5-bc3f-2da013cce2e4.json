@@ -1,0 +1,13 @@
+{
+  "start":30537,
+  "end":30629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember we used to do the Pledge of\n     Allegiance, it was every morning, every morning.",
+  "id":"a18ef19c-02ff-49b5-bc3f-2da013cce2e4",
+  "params":{
+    "id":"a18ef19c-02ff-49b5-bc3f-2da013cce2e4",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

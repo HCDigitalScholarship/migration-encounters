@@ -1,0 +1,13 @@
+{
+  "start":1840,
+  "end":1863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to work for ASU.",
+  "id":"d0dcdf3b-3b06-427f-a900-d950d7d6f40d",
+  "params":{
+    "id":"d0dcdf3b-3b06-427f-a900-d950d7d6f40d",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

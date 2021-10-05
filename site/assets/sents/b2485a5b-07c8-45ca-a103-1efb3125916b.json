@@ -1,0 +1,13 @@
+{
+  "start":20092,
+  "end":20125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of work do you do here?",
+  "id":"b2485a5b-07c8-45ca-a103-1efb3125916b",
+  "params":{
+    "id":"b2485a5b-07c8-45ca-a103-1efb3125916b",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":37211,
+  "end":37392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just to say that \u201cWe're doing something.\u201d With 9/11, I remember that they,\n within the first few days, 20 something hundred arrests that they were\n attributing as terrorist arrests.",
+  "id":"60e556a2-1dcb-45cc-90fe-c01fdc863fc1",
+  "params":{
+    "id":"60e556a2-1dcb-45cc-90fe-c01fdc863fc1",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

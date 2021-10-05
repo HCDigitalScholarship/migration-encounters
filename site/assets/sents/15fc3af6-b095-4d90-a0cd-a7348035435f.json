@@ -1,0 +1,13 @@
+{
+  "start":27758,
+  "end":27800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand what you mean metaphorically.",
+  "id":"15fc3af6-b095-4d90-a0cd-a7348035435f",
+  "params":{
+    "id":"15fc3af6-b095-4d90-a0cd-a7348035435f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

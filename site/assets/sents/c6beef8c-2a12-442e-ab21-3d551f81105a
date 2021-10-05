@@ -1,0 +1,12 @@
+{
+  "start":50162,
+  "end":50168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria:",
+  "id":"c6beef8c-2a12-442e-ab21-3d551f81105a",
+  "params":{
+    "id":"7c2fc67d-eccc-43d1-b39e-1af732888885"
+  },
+  "name":"Maria"
+}

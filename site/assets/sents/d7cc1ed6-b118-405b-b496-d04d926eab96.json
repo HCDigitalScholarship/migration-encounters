@@ -1,0 +1,13 @@
+{
+  "start":35250,
+  "end":35266,
+  "label":"SENT",
+  "type":"sent",
+  "text":"el\n     hubiera.",
+  "id":"d7cc1ed6-b118-405b-b496-d04d926eab96",
+  "params":{
+    "id":"d7cc1ed6-b118-405b-b496-d04d926eab96",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

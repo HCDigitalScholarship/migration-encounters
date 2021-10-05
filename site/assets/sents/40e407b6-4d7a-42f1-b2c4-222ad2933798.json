@@ -1,0 +1,13 @@
+{
+  "start":79704,
+  "end":79742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the last thing I could ask for.",
+  "id":"40e407b6-4d7a-42f1-b2c4-222ad2933798",
+  "params":{
+    "id":"40e407b6-4d7a-42f1-b2c4-222ad2933798",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

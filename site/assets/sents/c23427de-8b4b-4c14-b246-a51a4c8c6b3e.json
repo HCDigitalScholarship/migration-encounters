@@ -1,0 +1,13 @@
+{
+  "start":34226,
+  "end":34279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My little princess is thirteen and my boy is sixteen.",
+  "id":"c23427de-8b4b-4c14-b246-a51a4c8c6b3e",
+  "params":{
+    "id":"c23427de-8b4b-4c14-b246-a51a4c8c6b3e",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23069,
+  "end":23089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never\n   did that.",
+  "id":"aa57622e-91bc-4ff4-8353-f4f0867366fe",
+  "params":{
+    "id":"aa57622e-91bc-4ff4-8353-f4f0867366fe",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

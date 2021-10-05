@@ -1,0 +1,12 @@
+{
+  "start":5009,
+  "end":5079,
+  "label":"SENT",
+  "type":"sent",
+  "text":", so when you crossed the border,\n   did you end up living in Arizona?",
+  "id":"a84ab770-32f8-4b2d-8f19-78f18dc6dc2a",
+  "params":{
+    "id":"5220e32d-4a89-4b7e-9575-bbd405ae22b7"
+  },
+  "name":"Mike"
+}

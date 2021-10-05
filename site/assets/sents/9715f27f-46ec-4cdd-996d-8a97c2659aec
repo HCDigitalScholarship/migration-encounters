@@ -1,0 +1,12 @@
+{
+  "start":6006,
+  "end":6041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you move back to Minnesota?",
+  "id":"9715f27f-46ec-4cdd-996d-8a97c2659aec",
+  "params":{
+    "id":"8ff19fe1-ed62-47f1-b138-964e23760618"
+  },
+  "name":"Rodrigo"
+}

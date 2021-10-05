@@ -1,0 +1,12 @@
+{
+  "start":5624,
+  "end":5659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If that light turns red, I'm gone.\"",
+  "id":"5b2a1b5f-3957-4a13-8bbc-8eabf9df79c1",
+  "params":{
+    "id":"53cbb976-451d-4e84-8ac6-d0c6bd28bb63"
+  },
+  "name":"Kevin"
+}

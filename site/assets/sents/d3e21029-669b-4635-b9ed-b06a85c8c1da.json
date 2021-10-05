@@ -1,0 +1,13 @@
+{
+  "start":20040,
+  "end":20056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had a\n farm.",
+  "id":"d3e21029-669b-4635-b9ed-b06a85c8c1da",
+  "params":{
+    "id":"d3e21029-669b-4635-b9ed-b06a85c8c1da",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

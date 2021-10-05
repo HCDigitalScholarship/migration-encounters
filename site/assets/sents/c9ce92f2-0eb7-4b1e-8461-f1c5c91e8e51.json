@@ -1,0 +1,13 @@
+{
+  "start":9697,
+  "end":9734,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I had gotten arrested before.",
+  "id":"c9ce92f2-0eb7-4b1e-8461-f1c5c91e8e51",
+  "params":{
+    "id":"c9ce92f2-0eb7-4b1e-8461-f1c5c91e8e51",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

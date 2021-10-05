@@ -1,0 +1,13 @@
+{
+  "start":9292,
+  "end":9309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember.",
+  "id":"b5cff55e-0ded-4a0b-b90f-d5fa80f4c783",
+  "params":{
+    "id":"b5cff55e-0ded-4a0b-b90f-d5fa80f4c783",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

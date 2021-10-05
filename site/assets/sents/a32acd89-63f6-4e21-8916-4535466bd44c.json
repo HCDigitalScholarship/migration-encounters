@@ -1,0 +1,13 @@
+{
+  "start":14735,
+  "end":14784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't know where to go, how to move around.",
+  "id":"a32acd89-63f6-4e21-8916-4535466bd44c",
+  "params":{
+    "id":"a32acd89-63f6-4e21-8916-4535466bd44c",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

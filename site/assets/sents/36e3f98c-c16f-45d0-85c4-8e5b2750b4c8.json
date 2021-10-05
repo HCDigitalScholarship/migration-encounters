@@ -1,0 +1,13 @@
+{
+  "start":36611,
+  "end":36634,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He wasn't a stupid guy.",
+  "id":"36e3f98c-c16f-45d0-85c4-8e5b2750b4c8",
+  "params":{
+    "id":"36e3f98c-c16f-45d0-85c4-8e5b2750b4c8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

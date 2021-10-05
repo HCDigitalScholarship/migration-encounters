@@ -1,0 +1,12 @@
+{
+  "start":6855,
+  "end":6867,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yes, I am.\"",
+  "id":"4cba7e25-4eba-4f83-aeee-bae1411dd08e",
+  "params":{
+    "id":"3c7cdf39-65e6-4ad3-8b17-885c57764548"
+  },
+  "name":"Daniel"
+}

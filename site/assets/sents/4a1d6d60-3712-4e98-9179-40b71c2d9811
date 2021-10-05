@@ -1,0 +1,12 @@
+{
+  "start":25506,
+  "end":25550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They got construction, they got electricity.",
+  "id":"4a1d6d60-3712-4e98-9179-40b71c2d9811",
+  "params":{
+    "id":"2d11cc09-4ca2-49a5-9365-6d297d1d58d1"
+  },
+  "name":"Carlos"
+}

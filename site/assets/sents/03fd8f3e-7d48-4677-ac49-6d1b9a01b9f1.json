@@ -1,0 +1,13 @@
+{
+  "start":30356,
+  "end":30398,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want my baby to\n   be in a school.",
+  "id":"03fd8f3e-7d48-4677-ac49-6d1b9a01b9f1",
+  "params":{
+    "id":"03fd8f3e-7d48-4677-ac49-6d1b9a01b9f1",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

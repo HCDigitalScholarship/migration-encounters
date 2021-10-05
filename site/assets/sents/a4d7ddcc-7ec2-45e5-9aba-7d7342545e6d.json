@@ -1,0 +1,13 @@
+{
+  "start":11245,
+  "end":11311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   used to call them also by their nicknames and all that stuff.",
+  "id":"a4d7ddcc-7ec2-45e5-9aba-7d7342545e6d",
+  "params":{
+    "id":"a4d7ddcc-7ec2-45e5-9aba-7d7342545e6d",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

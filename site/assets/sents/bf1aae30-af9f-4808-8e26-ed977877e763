@@ -1,0 +1,12 @@
+{
+  "start":16721,
+  "end":16824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cWe're planning to go to Olive Garden, we're planning to go to\n     Chili's, but that's very expensive.",
+  "id":"bf1aae30-af9f-4808-8e26-ed977877e763",
+  "params":{
+    "id":"a545624f-4260-488f-a29d-200452ce7bc4"
+  },
+  "name":"Beto"
+}

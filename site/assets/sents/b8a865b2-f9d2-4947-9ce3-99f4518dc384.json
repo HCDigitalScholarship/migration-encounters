@@ -1,0 +1,13 @@
+{
+  "start":44528,
+  "end":44564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I will show you a picture right now.",
+  "id":"b8a865b2-f9d2-4947-9ce3-99f4518dc384",
+  "params":{
+    "id":"b8a865b2-f9d2-4947-9ce3-99f4518dc384",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

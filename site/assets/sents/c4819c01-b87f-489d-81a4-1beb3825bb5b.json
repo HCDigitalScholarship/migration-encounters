@@ -1,0 +1,13 @@
+{
+  "start":21234,
+  "end":21298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was friends with\n   some of these people in the very end.",
+  "id":"c4819c01-b87f-489d-81a4-1beb3825bb5b",
+  "params":{
+    "id":"c4819c01-b87f-489d-81a4-1beb3825bb5b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

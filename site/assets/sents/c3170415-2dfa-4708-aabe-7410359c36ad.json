@@ -1,0 +1,13 @@
+{
+  "start":25208,
+  "end":25260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything in California was\n     pack of Americans.",
+  "id":"c3170415-2dfa-4708-aabe-7410359c36ad",
+  "params":{
+    "id":"c3170415-2dfa-4708-aabe-7410359c36ad",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

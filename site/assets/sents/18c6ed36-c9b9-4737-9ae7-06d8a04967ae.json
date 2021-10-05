@@ -1,0 +1,13 @@
+{
+  "start":19835,
+  "end":19857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me what happened.",
+  "id":"18c6ed36-c9b9-4737-9ae7-06d8a04967ae",
+  "params":{
+    "id":"18c6ed36-c9b9-4737-9ae7-06d8a04967ae",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

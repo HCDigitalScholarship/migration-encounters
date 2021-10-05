@@ -1,0 +1,13 @@
+{
+  "start":9654,
+  "end":9736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I've heard some horrible things that they did to people in my\n   neighborhood.",
+  "id":"febac5c9-44b1-4e01-9fb2-6f9994ce3aa4",
+  "params":{
+    "id":"febac5c9-44b1-4e01-9fb2-6f9994ce3aa4",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5098,
+  "end":5145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember the first place I got to was Tucson.",
+  "id":"cc9aa231-b256-4fc7-88a4-2b31d52eeb0a",
+  "params":{
+    "id":"cc9aa231-b256-4fc7-88a4-2b31d52eeb0a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

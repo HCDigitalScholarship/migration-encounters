@@ -1,0 +1,12 @@
+{
+  "start":31204,
+  "end":31231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would your company be?",
+  "id":"affdf20b-6ec9-4932-8cf5-5665324d397e",
+  "params":{
+    "id":"a3996704-7df5-464f-99b7-0da5e7581108"
+  },
+  "name":"Ilse"
+}

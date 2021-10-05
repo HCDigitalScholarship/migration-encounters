@@ -1,0 +1,13 @@
+{
+  "start":21009,
+  "end":21020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, she is?",
+  "id":"97994e5e-f9c8-4625-9ad7-843a3f064926",
+  "params":{
+    "id":"97994e5e-f9c8-4625-9ad7-843a3f064926",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

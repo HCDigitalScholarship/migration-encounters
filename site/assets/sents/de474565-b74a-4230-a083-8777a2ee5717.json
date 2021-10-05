@@ -1,0 +1,13 @@
+{
+  "start":71154,
+  "end":71200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's\n like, \"No, how can you just ignore it?\"",
+  "id":"de474565-b74a-4230-a083-8777a2ee5717",
+  "params":{
+    "id":"de474565-b74a-4230-a083-8777a2ee5717",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

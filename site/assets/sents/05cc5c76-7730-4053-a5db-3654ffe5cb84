@@ -1,0 +1,12 @@
+{
+  "start":28400,
+  "end":28431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know\n   what's the right way.",
+  "id":"05cc5c76-7730-4053-a5db-3654ffe5cb84",
+  "params":{
+    "id":"2a3e8d2a-67c5-4fa0-9f60-18d5e5f7effa"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":49585,
+  "end":49648,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can do that or you can try taking your\n court case to trial.",
+  "id":"593a1a6d-3b41-4bab-a6d0-2512acbaa889",
+  "params":{
+    "id":"593a1a6d-3b41-4bab-a6d0-2512acbaa889",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2637,
+  "end":2672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to just say\n   how it is.",
+  "id":"e2bfbb00-8fe2-4aa5-b96c-4ca704fc6ccf",
+  "params":{
+    "id":"e2bfbb00-8fe2-4aa5-b96c-4ca704fc6ccf",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

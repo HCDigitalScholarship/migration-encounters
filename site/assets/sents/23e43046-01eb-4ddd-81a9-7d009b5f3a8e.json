@@ -1,0 +1,13 @@
+{
+  "start":18904,
+  "end":19010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His cousin goes, \"He's in Atlanta, but to this\n day he never got his papers and he's never been deported.\u201d",
+  "id":"23e43046-01eb-4ddd-81a9-7d009b5f3a8e",
+  "params":{
+    "id":"23e43046-01eb-4ddd-81a9-7d009b5f3a8e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

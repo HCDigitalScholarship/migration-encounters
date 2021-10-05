@@ -1,0 +1,13 @@
+{
+  "start":21153,
+  "end":21207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's where I went to the immigration library and",
+  "id":"48bf0f38-70b5-4161-a5c5-0be31b8fb3fc",
+  "params":{
+    "id":"48bf0f38-70b5-4161-a5c5-0be31b8fb3fc",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

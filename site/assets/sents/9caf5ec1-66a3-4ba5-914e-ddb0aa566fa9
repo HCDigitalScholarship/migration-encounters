@@ -1,0 +1,12 @@
+{
+  "start":1978,
+  "end":2006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And nobody spoke\n   Spanish.",
+  "id":"9caf5ec1-66a3-4ba5-914e-ddb0aa566fa9",
+  "params":{
+    "id":"6dc2bd11-93b4-488d-ad64-5c0138228ea6"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":22071,
+  "end":22153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My wife got there, they asked\n her what happened and she said, \"It was his fault.\"",
+  "id":"757e77d8-806a-4d3d-9a53-44838d00bd39",
+  "params":{
+    "id":"3cc752e0-f7e9-4331-8ee1-aeec1272ae59"
+  },
+  "name":"Angelo"
+}

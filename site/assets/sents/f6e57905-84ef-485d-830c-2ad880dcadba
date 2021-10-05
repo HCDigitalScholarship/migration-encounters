@@ -1,0 +1,12 @@
+{
+  "start":2006,
+  "end":2138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mother is the eldest\u2014she took care\n   of seven of my grandparents\u2019 children, so my grandmother really, really\n   loves my mother.",
+  "id":"f6e57905-84ef-485d-830c-2ad880dcadba",
+  "params":{
+    "id":"4831cc1f-2305-49d6-9e4d-f69f61f6f8ed"
+  },
+  "name":"Luisa"
+}

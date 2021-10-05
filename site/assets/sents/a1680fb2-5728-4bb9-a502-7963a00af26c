@@ -1,0 +1,12 @@
+{
+  "start":9063,
+  "end":9096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We just took a wrong\n   decision.",
+  "id":"a1680fb2-5728-4bb9-a502-7963a00af26c",
+  "params":{
+    "id":"1586d7c9-6f24-4718-a688-d7519bd308a3"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":29771,
+  "end":29790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who did you go for?",
+  "id":"04e0378a-3b7f-4bc0-ad62-cff62738164e",
+  "params":{
+    "id":"dd908da6-fcac-4880-9246-eb33a11efb57"
+  },
+  "name":"Rodrigo"
+}

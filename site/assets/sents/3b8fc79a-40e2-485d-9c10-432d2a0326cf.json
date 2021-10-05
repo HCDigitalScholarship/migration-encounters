@@ -1,0 +1,13 @@
+{
+  "start":18048,
+  "end":18062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was hard?",
+  "id":"3b8fc79a-40e2-485d-9c10-432d2a0326cf",
+  "params":{
+    "id":"3b8fc79a-40e2-485d-9c10-432d2a0326cf",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

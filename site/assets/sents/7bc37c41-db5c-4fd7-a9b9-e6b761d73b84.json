@@ -1,0 +1,13 @@
+{
+  "start":23802,
+  "end":23828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   crime's not as bad.",
+  "id":"7bc37c41-db5c-4fd7-a9b9-e6b761d73b84",
+  "params":{
+    "id":"7bc37c41-db5c-4fd7-a9b9-e6b761d73b84",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

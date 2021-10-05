@@ -1,0 +1,13 @@
+{
+  "start":6582,
+  "end":6779,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I just kept asking for the latest on my mom, like \u201dHey, where's my mom?\n   Where's my mom?\"\n \n \n   Yair: \"Well, she's doing something for the paperwork and stuff.\"\n \n \n   Yair: \"Oh, paperwork?\"",
+  "id":"4d7c1afc-c223-494a-8e82-c8bd97db8f4d",
+  "params":{
+    "id":"4d7c1afc-c223-494a-8e82-c8bd97db8f4d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

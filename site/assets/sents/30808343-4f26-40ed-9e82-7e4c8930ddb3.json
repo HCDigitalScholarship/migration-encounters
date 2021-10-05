@@ -1,0 +1,13 @@
+{
+  "start":16762,
+  "end":16784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I walked towards them.",
+  "id":"30808343-4f26-40ed-9e82-7e4c8930ddb3",
+  "params":{
+    "id":"30808343-4f26-40ed-9e82-7e4c8930ddb3",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

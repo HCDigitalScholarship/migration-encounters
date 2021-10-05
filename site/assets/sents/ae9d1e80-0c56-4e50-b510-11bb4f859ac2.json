@@ -1,0 +1,13 @@
+{
+  "start":31210,
+  "end":31323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, I'm working at a cousin's house, doing the\ndriveway, pouring concrete and stuff and laying brick down.",
+  "id":"ae9d1e80-0c56-4e50-b510-11bb4f859ac2",
+  "params":{
+    "id":"ae9d1e80-0c56-4e50-b510-11bb4f859ac2",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28417,
+  "end":28461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   used to wake up at 4:40 in the morning.",
+  "id":"78b91fcb-4f2c-4d83-ba2b-fe9108e8bdb7",
+  "params":{
+    "id":"78b91fcb-4f2c-4d83-ba2b-fe9108e8bdb7",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

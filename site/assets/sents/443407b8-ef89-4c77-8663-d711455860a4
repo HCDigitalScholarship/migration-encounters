@@ -1,0 +1,12 @@
+{
+  "start":43103,
+  "end":43123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   will want it.",
+  "id":"443407b8-ef89-4c77-8663-d711455860a4",
+  "params":{
+    "id":"c35dc00a-308f-4d65-8bd7-a19872198dc8"
+  },
+  "name":"Rodrigo"
+}

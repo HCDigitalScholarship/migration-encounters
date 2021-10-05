@@ -1,0 +1,12 @@
+{
+  "start":1261,
+  "end":1308,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They dropped me basically off at\n   California.",
+  "id":"105d44db-1544-49fc-8a3d-0b2d4f3c7203",
+  "params":{
+    "id":"073b43b0-f94b-4685-8a5e-a481434864c6"
+  },
+  "name":"Carlos"
+}

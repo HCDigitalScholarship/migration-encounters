@@ -1,0 +1,13 @@
+{
+  "start":5327,
+  "end":5355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Okay, so it's real.",
+  "id":"243175c5-6e4e-4749-890d-97a44d8e5b30",
+  "params":{
+    "id":"243175c5-6e4e-4749-890d-97a44d8e5b30",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":29226,
+  "end":29306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So let's say that I'm telling this guy, \"Oh\n dude, that was a great experience.\"",
+  "id":"d34ed881-c147-461f-9a1c-2fa68dfd1e89",
+  "params":{
+    "id":"5f02bba3-ff10-4156-a445-4c42494f28c2"
+  },
+  "name":"Billy"
+}

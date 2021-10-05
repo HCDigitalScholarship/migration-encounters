@@ -1,0 +1,12 @@
+{
+  "start":3784,
+  "end":3825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never knew it until I met my\n   family.",
+  "id":"17e1c079-21a4-488c-bd1e-c8bef7e5d220",
+  "params":{
+    "id":"668aeeb4-078a-4e5c-975e-6a6b7b4fd453"
+  },
+  "name":"Cris"
+}

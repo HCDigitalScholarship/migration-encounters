@@ -1,0 +1,13 @@
+{
+  "start":38010,
+  "end":38049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All your\n   problems go away basically.",
+  "id":"4e078e10-1c03-4b46-a30e-91db5c8766d9",
+  "params":{
+    "id":"4e078e10-1c03-4b46-a30e-91db5c8766d9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

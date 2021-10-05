@@ -1,0 +1,12 @@
+{
+  "start":47519,
+  "end":47562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dijo, \u201cMira, la\n     ni\u00f1a es menor de edad.",
+  "id":"401423e3-450a-4603-9f52-bb492f41c707",
+  "params":{
+    "id":"59c9461e-963c-4b0a-a1ac-ce352fc35f5e"
+  },
+  "name":"Maria"
+}

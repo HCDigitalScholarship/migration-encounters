@@ -1,0 +1,12 @@
+{
+  "start":6156,
+  "end":6195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like,\n   \"I'm just doing my job.",
+  "id":"c4ee98bf-622b-46c4-a610-91a6f4ec7c59",
+  "params":{
+    "id":"848cda67-3c8e-4c00-8045-de44cd8b5691"
+  },
+  "name":"Sylent"
+}

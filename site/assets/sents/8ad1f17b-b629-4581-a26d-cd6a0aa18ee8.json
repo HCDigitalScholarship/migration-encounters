@@ -1,0 +1,13 @@
+{
+  "start":32932,
+  "end":32991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Coming here, it's an\n   extremely philosophical experience.",
+  "id":"8ad1f17b-b629-4581-a26d-cd6a0aa18ee8",
+  "params":{
+    "id":"8ad1f17b-b629-4581-a26d-cd6a0aa18ee8",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8298,
+  "end":8339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, my brother's in jail right now.",
+  "id":"1eae78c1-e26c-4d88-9ae2-95535e2a5f3b",
+  "params":{
+    "id":"95de552b-7881-4887-ac8e-c283a7353214"
+  },
+  "name":"Jose"
+}

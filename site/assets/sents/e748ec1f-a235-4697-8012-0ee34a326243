@@ -1,0 +1,12 @@
+{
+  "start":9988,
+  "end":10024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really didn't care either, though.",
+  "id":"e748ec1f-a235-4697-8012-0ee34a326243",
+  "params":{
+    "id":"d878c7af-eead-4621-9bf6-2ac350c67ee1"
+  },
+  "name":"Edgar"
+}

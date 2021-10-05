@@ -1,0 +1,12 @@
+{
+  "start":3791,
+  "end":3836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Congratulations.\n \n \n   Joseph:",
+  "id":"75eeafb1-ecb9-478b-94d4-ec86d6918142",
+  "params":{
+    "id":"7e349196-0313-4b00-804d-ac254f65e3ba"
+  },
+  "name":"Joseph"
+}

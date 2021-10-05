@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1132,
+  "end":1136,
+  "text":"rade.\n \n \n   Anita: You finished high school?\n \n \n   Ivan: No.\n \n \n   Anita: Did you work in the U.S.?\n \n \n   Ivan: Yes, I did. I had a lot of jobs in the U.S.\n \n \n   Anita: What kind of jobs?\n \n \n   Ivan: Restaurant jobs. My last job was painting. I used to be a painter. I\n   used to paint houses, interior and exterior houses. I actually went and\n   painted the Braves stadium in Atlanta, Georgia.\n \n ",
+  "label":"PERSON",
+  "id":"fc66d9ef-8dc9-4b2f-afed-b53e55aa5ac6",
+  "name":"Ivan"
+}

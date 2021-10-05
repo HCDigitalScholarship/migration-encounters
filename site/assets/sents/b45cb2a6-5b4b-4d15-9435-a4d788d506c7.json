@@ -1,0 +1,13 @@
+{
+  "start":61447,
+  "end":61567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's\n     true, a lot of people who've been in the military for a long time, tell\n     you to not have a conscience.",
+  "id":"b45cb2a6-5b4b-4d15-9435-a4d788d506c7",
+  "params":{
+    "id":"b45cb2a6-5b4b-4d15-9435-a4d788d506c7",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":48295,
+  "end":48363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So they charged me 200 pesos to\n   do a whole bag of laundry, right?",
+  "id":"41bdd879-6373-4784-8292-46f2df2ed4b9",
+  "params":{
+    "id":"41bdd879-6373-4784-8292-46f2df2ed4b9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

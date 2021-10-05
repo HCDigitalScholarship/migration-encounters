@@ -1,0 +1,12 @@
+{
+  "start":1233,
+  "end":1310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went there and after I moved to ____, which is, I got my\n   GED from there.",
+  "id":"a8a18351-619d-451d-b46d-75759d1bcb3d",
+  "params":{
+    "id":"13b35071-11e3-4614-a632-00cd2581865d"
+  },
+  "name":"Noe"
+}

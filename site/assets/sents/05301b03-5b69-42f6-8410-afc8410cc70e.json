@@ -1,0 +1,13 @@
+{
+  "start":24432,
+  "end":24452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can do whatever.",
+  "id":"05301b03-5b69-42f6-8410-afc8410cc70e",
+  "params":{
+    "id":"05301b03-5b69-42f6-8410-afc8410cc70e",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

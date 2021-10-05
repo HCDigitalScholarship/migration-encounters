@@ -1,0 +1,13 @@
+{
+  "start":25252,
+  "end":25279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that was the worst.",
+  "id":"73f63901-3165-4e8a-b740-ed9c843159cb",
+  "params":{
+    "id":"73f63901-3165-4e8a-b740-ed9c843159cb",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

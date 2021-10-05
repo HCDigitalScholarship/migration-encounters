@@ -1,0 +1,13 @@
+{
+  "start":26962,
+  "end":26999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   And my brother, he does painting.",
+  "id":"58794cc9-e60c-49a3-ab11-f3b5f47fe2a0",
+  "params":{
+    "id":"58794cc9-e60c-49a3-ab11-f3b5f47fe2a0",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

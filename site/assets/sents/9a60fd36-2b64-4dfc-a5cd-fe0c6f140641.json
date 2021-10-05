@@ -1,0 +1,13 @@
+{
+  "start":14650,
+  "end":14702,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like saying I'm white because I'm not white.",
+  "id":"9a60fd36-2b64-4dfc-a5cd-fe0c6f140641",
+  "params":{
+    "id":"9a60fd36-2b64-4dfc-a5cd-fe0c6f140641",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

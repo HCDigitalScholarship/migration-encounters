@@ -1,0 +1,13 @@
+{
+  "start":49851,
+  "end":49951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"that\n   rent was one thing, but he was just telling the landlord that he knew to\n   charge me extra.",
+  "id":"ab9f4c46-4fc6-456e-9b19-4797f24862ce",
+  "params":{
+    "id":"ab9f4c46-4fc6-456e-9b19-4797f24862ce",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

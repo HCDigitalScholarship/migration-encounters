@@ -1,0 +1,15 @@
+{
+  "start":18403,
+  "end":18427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's customer service.",
+  "id":"abd5974c-73a2-4a76-884f-443a768a2f83",
+  "params":{
+    "id":"abd5974c-73a2-4a76-884f-443a768a2f83",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

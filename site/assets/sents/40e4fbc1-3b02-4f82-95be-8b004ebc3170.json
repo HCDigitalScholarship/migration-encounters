@@ -1,0 +1,13 @@
+{
+  "start":2284,
+  "end":2325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She actually helped us a lot [Emotional].",
+  "id":"40e4fbc1-3b02-4f82-95be-8b004ebc3170",
+  "params":{
+    "id":"40e4fbc1-3b02-4f82-95be-8b004ebc3170",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

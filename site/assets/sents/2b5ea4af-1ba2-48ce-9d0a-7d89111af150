@@ -1,0 +1,12 @@
+{
+  "start":24112,
+  "end":24131,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Josue: Coming back?",
+  "id":"2b5ea4af-1ba2-48ce-9d0a-7d89111af150",
+  "params":{
+    "id":"fee94a14-0c9a-4a82-9c81-b3743d48b842"
+  },
+  "name":"Josue"
+}

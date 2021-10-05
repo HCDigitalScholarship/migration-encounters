@@ -1,0 +1,13 @@
+{
+  "start":2419,
+  "end":2439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you imprisoned?",
+  "id":"b5dc5521-bb13-472b-bbd4-8293a287ca63",
+  "params":{
+    "id":"b5dc5521-bb13-472b-bbd4-8293a287ca63",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

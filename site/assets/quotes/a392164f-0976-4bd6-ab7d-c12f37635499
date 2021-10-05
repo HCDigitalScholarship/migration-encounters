@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":17063,
+  "end":17069,
+  "text":"?\n \n \n   Josue: No, five.\n \n \n   Sergio: Five years. And what city and town are you living in now?\n \n \n   Josue: Right now, I'm living in Ixtapaluca.\n \n \n   Sergio: And that's in Mexico, the state of Mexico?\n \n \n   Josue: State, yep.\n \n \n   Sergio: And who do you live with?\n \n \n   Josue: My mom.\n \n \n   Sergio: Is it just your mom or do you have any brothers or sisters living\n   with you?\n \n \n   Josue: N",
+  "label":"GPE",
+  "id":"a392164f-0976-4bd6-ab7d-c12f37635499",
+  "name":"Josue"
+}

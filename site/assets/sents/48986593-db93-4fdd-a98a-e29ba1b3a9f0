@@ -1,0 +1,12 @@
+{
+  "start":31850,
+  "end":31866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was shut down.",
+  "id":"48986593-db93-4fdd-a98a-e29ba1b3a9f0",
+  "params":{
+    "id":"754853f7-cee1-4d57-b6f9-c8df43fb443f"
+  },
+  "name":"Sylent"
+}

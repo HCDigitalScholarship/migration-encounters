@@ -1,0 +1,13 @@
+{
+  "start":1804,
+  "end":1880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I'll just leave, stuff like that, and you can tell it's because\n   race.",
+  "id":"ccc5ff1d-97d5-4413-bb9c-2ac02f1c8d5e",
+  "params":{
+    "id":"ccc5ff1d-97d5-4413-bb9c-2ac02f1c8d5e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

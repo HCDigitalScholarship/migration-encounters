@@ -1,0 +1,13 @@
+{
+  "start":28924,
+  "end":28966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're very simple people and very\n poor.",
+  "id":"51e1b762-e66d-4719-806a-7e0969604193",
+  "params":{
+    "id":"51e1b762-e66d-4719-806a-7e0969604193",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

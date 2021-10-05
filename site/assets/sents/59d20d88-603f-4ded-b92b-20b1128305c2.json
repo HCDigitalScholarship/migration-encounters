@@ -1,0 +1,13 @@
+{
+  "start":30571,
+  "end":30632,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After I took a wrong\n   decision, it will change their lives.",
+  "id":"59d20d88-603f-4ded-b92b-20b1128305c2",
+  "params":{
+    "id":"59d20d88-603f-4ded-b92b-20b1128305c2",
+    "class":"anno"
+  },
+  "name":"Many"
+}

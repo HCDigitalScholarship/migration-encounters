@@ -1,0 +1,12 @@
+{
+  "start":10520,
+  "end":10552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"their\n   own company of painting",
+  "id":"643bf9b9-a886-471d-81d9-8e6ab5667596",
+  "params":{
+    "id":"574f46b0-03d9-4aef-a476-63a80ae9d68e"
+  },
+  "name":"Ivan"
+}

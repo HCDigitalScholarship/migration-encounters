@@ -1,0 +1,13 @@
+{
+  "start":29198,
+  "end":29246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nmean, I work, and I never got in trouble here.",
+  "id":"e9da0273-f4aa-4827-b7b3-a120eb7bb3c8",
+  "params":{
+    "id":"e9da0273-f4aa-4827-b7b3-a120eb7bb3c8",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

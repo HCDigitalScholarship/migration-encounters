@@ -1,0 +1,12 @@
+{
+  "start":34800,
+  "end":34829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is what it could happen.",
+  "id":"3ec9ba79-a577-4a25-b899-4fd42ef7502b",
+  "params":{
+    "id":"0e53c104-9467-4059-8940-acd12c28abf1"
+  },
+  "name":"Daniel"
+}

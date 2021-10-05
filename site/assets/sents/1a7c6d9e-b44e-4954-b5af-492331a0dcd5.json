@@ -1,0 +1,13 @@
+{
+  "start":33904,
+  "end":33983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, this\n   is the worst thing that could happen to you, right, as an American.",
+  "id":"1a7c6d9e-b44e-4954-b5af-492331a0dcd5",
+  "params":{
+    "id":"1a7c6d9e-b44e-4954-b5af-492331a0dcd5",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

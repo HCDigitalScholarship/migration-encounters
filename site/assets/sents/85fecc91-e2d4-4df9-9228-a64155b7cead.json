@@ -1,0 +1,13 @@
+{
+  "start":13609,
+  "end":13630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were my friends.",
+  "id":"85fecc91-e2d4-4df9-9228-a64155b7cead",
+  "params":{
+    "id":"85fecc91-e2d4-4df9-9228-a64155b7cead",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

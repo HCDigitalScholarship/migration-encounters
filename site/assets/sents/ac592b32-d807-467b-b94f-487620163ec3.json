@@ -1,0 +1,13 @@
+{
+  "start":13140,
+  "end":13235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What basically they told me after the 10 days,\n   \"All right, you need to come back to Mexico.\"",
+  "id":"ac592b32-d807-467b-b94f-487620163ec3",
+  "params":{
+    "id":"ac592b32-d807-467b-b94f-487620163ec3",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

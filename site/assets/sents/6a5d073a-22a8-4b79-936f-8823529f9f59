@@ -1,0 +1,12 @@
+{
+  "start":11242,
+  "end":11261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm very organized.",
+  "id":"6a5d073a-22a8-4b79-936f-8823529f9f59",
+  "params":{
+    "id":"1d582e27-6570-49e5-91c5-bed65b7555fe"
+  },
+  "name":"Daniel"
+}

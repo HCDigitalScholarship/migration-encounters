@@ -1,0 +1,13 @@
+{
+  "start":8191,
+  "end":8210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought about it.",
+  "id":"ff1485c5-9c76-454f-b753-e349f2fdf887",
+  "params":{
+    "id":"ff1485c5-9c76-454f-b753-e349f2fdf887",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

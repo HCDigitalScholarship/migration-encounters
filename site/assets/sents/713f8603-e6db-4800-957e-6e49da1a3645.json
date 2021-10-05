@@ -1,0 +1,13 @@
+{
+  "start":2727,
+  "end":2752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, I'm here right now.",
+  "id":"713f8603-e6db-4800-957e-6e49da1a3645",
+  "params":{
+    "id":"713f8603-e6db-4800-957e-6e49da1a3645",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

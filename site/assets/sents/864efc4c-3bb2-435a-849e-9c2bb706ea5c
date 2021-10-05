@@ -1,0 +1,12 @@
+{
+  "start":37305,
+  "end":37355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Final question, did you have American friends too?",
+  "id":"864efc4c-3bb2-435a-849e-9c2bb706ea5c",
+  "params":{
+    "id":"8dde1769-2803-4225-bd36-abc1305bcecc"
+  },
+  "name":"Beto"
+}

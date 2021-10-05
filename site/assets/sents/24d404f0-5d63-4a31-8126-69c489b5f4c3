@@ -1,0 +1,12 @@
+{
+  "start":50695,
+  "end":50746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Got to school,\n school's out, okay, I'm going home.",
+  "id":"24d404f0-5d63-4a31-8126-69c489b5f4c3",
+  "params":{
+    "id":"852fe84d-f258-4232-9c35-2e6b5e427841"
+  },
+  "name":"Axel"
+}

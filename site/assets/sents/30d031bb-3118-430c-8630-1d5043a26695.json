@@ -1,0 +1,13 @@
+{
+  "start":8246,
+  "end":8281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you guys speak English at home?",
+  "id":"30d031bb-3118-430c-8630-1d5043a26695",
+  "params":{
+    "id":"30d031bb-3118-430c-8630-1d5043a26695",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

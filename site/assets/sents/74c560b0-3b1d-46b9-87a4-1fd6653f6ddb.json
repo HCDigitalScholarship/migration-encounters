@@ -1,0 +1,13 @@
+{
+  "start":1192,
+  "end":1213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[crosstalk 00:01:11].",
+  "id":"74c560b0-3b1d-46b9-87a4-1fd6653f6ddb",
+  "params":{
+    "id":"74c560b0-3b1d-46b9-87a4-1fd6653f6ddb",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10345,
+  "end":10424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were\n   worried that I would go to any part of the world and be sucked up.",
+  "id":"20848b10-e7ae-457c-8cb3-e3de6cbf4f6b",
+  "params":{
+    "id":"20848b10-e7ae-457c-8cb3-e3de6cbf4f6b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

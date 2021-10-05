@@ -1,0 +1,12 @@
+{
+  "start":21092,
+  "end":21111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But she lives here?",
+  "id":"0dd3d718-9fb6-408a-9fa5-22b62509b3e0",
+  "params":{
+    "id":"67c0db36-3c5d-483b-b7ff-be3b95371762"
+  },
+  "name":"Jose"
+}

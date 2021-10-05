@@ -1,0 +1,13 @@
+{
+  "start":26009,
+  "end":26065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then my dad came back and then I was living with my mom.",
+  "id":"efa406d9-017c-4c46-bb31-9bb31a212a64",
+  "params":{
+    "id":"efa406d9-017c-4c46-bb31-9bb31a212a64",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

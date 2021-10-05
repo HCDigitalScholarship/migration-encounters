@@ -1,0 +1,13 @@
+{
+  "start":3032,
+  "end":3065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think she was from the Midwest.",
+  "id":"6f3fbed2-7635-451b-b844-c545bcdf0031",
+  "params":{
+    "id":"6f3fbed2-7635-451b-b844-c545bcdf0031",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

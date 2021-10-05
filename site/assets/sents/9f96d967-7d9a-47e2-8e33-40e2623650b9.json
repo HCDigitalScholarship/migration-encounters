@@ -1,0 +1,13 @@
+{
+  "start":10423,
+  "end":10522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n   the\n \n \n   first person who taught me how to ride a bicycle, which I was stressing I\n   ",
+  "id":"9f96d967-7d9a-47e2-8e33-40e2623650b9",
+  "params":{
+    "id":"9f96d967-7d9a-47e2-8e33-40e2623650b9",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

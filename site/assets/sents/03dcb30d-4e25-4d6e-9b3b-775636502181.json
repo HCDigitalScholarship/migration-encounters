@@ -1,0 +1,15 @@
+{
+  "start":5788,
+  "end":5880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"With this engineering degree basically, since it's more for\n   communications and electronic",
+  "id":"03dcb30d-4e25-4d6e-9b3b-775636502181",
+  "params":{
+    "id":"03dcb30d-4e25-4d6e-9b3b-775636502181",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32879,
+  "end":32916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But the\n   way she addresses her mom?",
+  "id":"b0bf4cfa-13a7-48e0-a3f2-9dd568cef49e",
+  "params":{
+    "id":"b0bf4cfa-13a7-48e0-a3f2-9dd568cef49e",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5893,
+  "end":5937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or, \"No, you can't cut your hair\nlike that.\"",
+  "id":"e06a9405-729a-4a6d-be47-811084fa889a",
+  "params":{
+    "id":"e06a9405-729a-4a6d-be47-811084fa889a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

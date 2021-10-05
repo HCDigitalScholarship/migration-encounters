@@ -1,0 +1,12 @@
+{
+  "start":21112,
+  "end":21145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you made it back to your mom?",
+  "id":"e0b3add1-00bb-4101-bb68-dbc30a439420",
+  "params":{
+    "id":"ee00d4bb-c27a-4f02-97ce-fffc5cb32dfb"
+  },
+  "name":"Luis B"
+}

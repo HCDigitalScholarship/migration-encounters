@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":7591,
+  "end":7597,
+  "text":"if I\n   smell it, it'll just throw me back. I can't really describe the smell, but\n   it's just one thing.\n \n \n   Anita: That's amazing.\n \n \n   Joana: Yes.\n \n \n   Anita: You were five. You get to the States. You're living with your mom.\n   Your dad is somewhere in ____, too.\n \n \n   Joana: Yes.\n \n \n   Anita: Do you see him?\n \n \n   Joana: No. Until I was around seven to eight years old.\n \n \n   Anita: Did ",
+  "label":"GPE",
+  "id":"95ccb978-480e-451a-a2ef-762c8590fd95",
+  "name":"Joana"
+}

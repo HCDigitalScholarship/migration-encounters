@@ -1,0 +1,12 @@
+{
+  "start":8724,
+  "end":8739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What caused it?",
+  "id":"ffc8e55f-0e36-41da-a3ff-31dd2f72d766",
+  "params":{
+    "id":"764fd3b2-53e9-4191-999c-772a6e91dda8"
+  },
+  "name":"Pablo"
+}

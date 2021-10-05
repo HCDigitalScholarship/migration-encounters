@@ -1,0 +1,12 @@
+{
+  "start":11024,
+  "end":11065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Mm-hmm (affirmative).\n \n \n   Edgar:",
+  "id":"e2abdf25-f757-41dd-bd7b-431227dc8699",
+  "params":{
+    "id":"fe3101ee-8ebb-4983-9311-816bbd598d13"
+  },
+  "name":"Edgar"
+}

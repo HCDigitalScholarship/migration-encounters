@@ -1,0 +1,13 @@
+{
+  "start":21266,
+  "end":21320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita:\n \n \n   You discovered racism in prison.",
+  "id":"1f18f05e-c598-4940-8f4b-1e25d377e808",
+  "params":{
+    "id":"1f18f05e-c598-4940-8f4b-1e25d377e808",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

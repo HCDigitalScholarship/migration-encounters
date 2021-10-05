@@ -1,0 +1,12 @@
+{
+  "start":31579,
+  "end":31608,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he's an American citizen?",
+  "id":"eb2510f9-a814-41ad-976c-ec1cc8ca4bfd",
+  "params":{
+    "id":"3a0db15b-b6ca-484f-86dc-d6617125e394"
+  },
+  "name":"Rodrigo"
+}

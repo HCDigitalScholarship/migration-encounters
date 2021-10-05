@@ -1,0 +1,13 @@
+{
+  "start":6817,
+  "end":6832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's going on",
+  "id":"d3d110db-b89e-428e-8cc5-4e2d40f9a336",
+  "params":{
+    "id":"d3d110db-b89e-428e-8cc5-4e2d40f9a336",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

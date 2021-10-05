@@ -1,0 +1,13 @@
+{
+  "start":70336,
+  "end":70467,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I will get upset at that point, but if you want\n to say, \"Hey, Axel's this, Axel's that, Axel did this and oh, he's this and\n that.",
+  "id":"f82c2d9f-94ad-4383-bdd2-24877e1571a8",
+  "params":{
+    "id":"f82c2d9f-94ad-4383-bdd2-24877e1571a8",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

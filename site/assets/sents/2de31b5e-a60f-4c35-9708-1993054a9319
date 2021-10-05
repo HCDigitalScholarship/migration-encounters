@@ -1,0 +1,12 @@
+{
+  "start":12001,
+  "end":12069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Anita:\n \n \n     Do the other call centers raise their pay?",
+  "id":"2de31b5e-a60f-4c35-9708-1993054a9319",
+  "params":{
+    "id":"41ef64d8-c985-4d13-a81b-ed681accf08e"
+  },
+  "name":"Beto"
+}

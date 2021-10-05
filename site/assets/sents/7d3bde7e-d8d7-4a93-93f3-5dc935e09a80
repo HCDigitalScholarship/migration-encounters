@@ -1,0 +1,12 @@
+{
+  "start":42086,
+  "end":42118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   it might not be physical.",
+  "id":"7d3bde7e-d8d7-4a93-93f3-5dc935e09a80",
+  "params":{
+    "id":"615ca693-b06e-4bc7-a9b7-65aa80e00882"
+  },
+  "name":"Miguel C"
+}

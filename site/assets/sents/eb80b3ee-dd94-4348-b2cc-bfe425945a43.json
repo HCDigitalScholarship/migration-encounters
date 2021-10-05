@@ -1,0 +1,13 @@
+{
+  "start":8938,
+  "end":8970,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a pretty nice job actually.",
+  "id":"eb80b3ee-dd94-4348-b2cc-bfe425945a43",
+  "params":{
+    "id":"eb80b3ee-dd94-4348-b2cc-bfe425945a43",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

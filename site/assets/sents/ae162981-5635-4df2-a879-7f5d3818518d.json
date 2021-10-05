@@ -1,0 +1,13 @@
+{
+  "start":558,
+  "end":599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   remember this like it was yesterday.",
+  "id":"ae162981-5635-4df2-a879-7f5d3818518d",
+  "params":{
+    "id":"ae162981-5635-4df2-a879-7f5d3818518d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

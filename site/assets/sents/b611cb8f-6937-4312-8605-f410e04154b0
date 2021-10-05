@@ -1,0 +1,12 @@
+{
+  "start":4143,
+  "end":4163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where in California?",
+  "id":"b611cb8f-6937-4312-8605-f410e04154b0",
+  "params":{
+    "id":"fc8a7ba0-aa8b-4128-8dd7-f898be137308"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30043,
+  "end":30128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Being undocumented in the States, I think it's like being a bird in\n   a golden cage.",
+  "id":"131e3ee6-cb50-479c-a1cc-b2affff1315c",
+  "params":{
+    "id":"0c11b0cc-2731-42c7-88d1-11afc3e820f2"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":44394,
+  "end":44449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're going to take me, I'm going to\n   lose my kids.",
+  "id":"30afbecc-56d3-4bb1-859a-bdcbb1bbf662",
+  "params":{
+    "id":"016e0d54-e901-4007-aa42-d3c22f04ea8f"
+  },
+  "name":"Cris"
+}

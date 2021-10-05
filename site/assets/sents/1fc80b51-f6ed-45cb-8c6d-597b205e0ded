@@ -1,0 +1,12 @@
+{
+  "start":29334,
+  "end":29365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't feel like that's fair.\"",
+  "id":"1fc80b51-f6ed-45cb-8c6d-597b205e0ded",
+  "params":{
+    "id":"7ff045c2-09ce-4d22-8774-caf5e0bf737d"
+  },
+  "name":"Mike"
+}

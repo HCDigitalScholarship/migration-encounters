@@ -1,0 +1,13 @@
+{
+  "start":26426,
+  "end":26473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't blame him and I'm\n nobody to judge him.",
+  "id":"c8c96d61-b178-49a9-91df-8383c7a64f46",
+  "params":{
+    "id":"c8c96d61-b178-49a9-91df-8383c7a64f46",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

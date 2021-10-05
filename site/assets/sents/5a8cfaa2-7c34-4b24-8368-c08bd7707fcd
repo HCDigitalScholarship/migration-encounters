@@ -1,0 +1,12 @@
+{
+  "start":50785,
+  "end":50803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   everybody.",
+  "id":"5a8cfaa2-7c34-4b24-8368-c08bd7707fcd",
+  "params":{
+    "id":"f34118f7-fba9-4fa7-b421-26d7471c5da7"
+  },
+  "name":"Rodrigo"
+}

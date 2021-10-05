@@ -1,0 +1,12 @@
+{
+  "start":2077,
+  "end":2119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She has two more years before she\nretires.",
+  "id":"86896ce4-99ee-4b48-bbcf-c24a8084ba0c",
+  "params":{
+    "id":"de486493-4bd1-4c5d-b8c8-96c5ac25594e"
+  },
+  "name":"Abel"
+}

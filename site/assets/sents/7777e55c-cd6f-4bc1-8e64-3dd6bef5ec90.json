@@ -1,0 +1,13 @@
+{
+  "start":36218,
+  "end":36241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   We're still human.\"",
+  "id":"7777e55c-cd6f-4bc1-8e64-3dd6bef5ec90",
+  "params":{
+    "id":"7777e55c-cd6f-4bc1-8e64-3dd6bef5ec90",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

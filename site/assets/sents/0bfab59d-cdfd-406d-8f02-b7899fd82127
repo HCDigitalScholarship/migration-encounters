@@ -1,0 +1,12 @@
+{
+  "start":26861,
+  "end":26907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I'm going to ask you both these questions.",
+  "id":"0bfab59d-cdfd-406d-8f02-b7899fd82127",
+  "params":{
+    "id":"7fd80137-013d-402a-a36c-c30aa129fc19"
+  },
+  "name":"Billy"
+}

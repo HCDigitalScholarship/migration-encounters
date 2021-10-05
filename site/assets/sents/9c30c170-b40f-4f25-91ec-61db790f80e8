@@ -1,0 +1,12 @@
+{
+  "start":9891,
+  "end":9908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ya no era con \u00e9l.",
+  "id":"9c30c170-b40f-4f25-91ec-61db790f80e8",
+  "params":{
+    "id":"b3feaafd-cbc8-4eb0-bd6c-a51ef30dae6c"
+  },
+  "name":"Maria"
+}

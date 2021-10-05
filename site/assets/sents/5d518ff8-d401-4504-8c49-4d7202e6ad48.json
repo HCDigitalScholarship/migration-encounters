@@ -1,0 +1,13 @@
+{
+  "start":3984,
+  "end":4016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it's actually on Facebook.",
+  "id":"5d518ff8-d401-4504-8c49-4d7202e6ad48",
+  "params":{
+    "id":"5d518ff8-d401-4504-8c49-4d7202e6ad48",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

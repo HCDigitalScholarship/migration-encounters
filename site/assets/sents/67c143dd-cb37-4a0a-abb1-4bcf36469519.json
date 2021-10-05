@@ -1,0 +1,13 @@
+{
+  "start":6513,
+  "end":6560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember they\n   were charging $750 a person.",
+  "id":"67c143dd-cb37-4a0a-abb1-4bcf36469519",
+  "params":{
+    "id":"67c143dd-cb37-4a0a-abb1-4bcf36469519",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

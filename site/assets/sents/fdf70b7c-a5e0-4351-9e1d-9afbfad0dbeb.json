@@ -1,0 +1,12 @@
+{
+  "start":176,
+  "end":192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where in Mexico?",
+  "id":"fdf70b7c-a5e0-4351-9e1d-9afbfad0dbeb",
+  "params":{
+    "id":"89f0d03a-be68-468f-b001-70a65119f566"
+  },
+  "name":"Ivan"
+}

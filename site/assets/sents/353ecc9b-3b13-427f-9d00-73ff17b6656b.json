@@ -1,0 +1,12 @@
+{
+  "start":23673,
+  "end":23828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Para entender bien, usted se iba al centro de detenci\u00f3n donde estaba\n     Mart\u00edn y se encontraba con esta se\u00f1ora \u00bfAs\u00ed de r\u00e1pido?\n \n <br/>\n \n     Maria: Si.",
+  "id":"353ecc9b-3b13-427f-9d00-73ff17b6656b",
+  "params":{
+    "id":"cdbaf088-f770-4c0b-9a89-b846f98308f3"
+  },
+  "name":"Maria"
+}

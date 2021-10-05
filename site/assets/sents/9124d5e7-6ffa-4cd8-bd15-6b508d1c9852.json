@@ -1,0 +1,13 @@
+{
+  "start":3868,
+  "end":3912,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandfather was originally born in Texas.",
+  "id":"9124d5e7-6ffa-4cd8-bd15-6b508d1c9852",
+  "params":{
+    "id":"9124d5e7-6ffa-4cd8-bd15-6b508d1c9852",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

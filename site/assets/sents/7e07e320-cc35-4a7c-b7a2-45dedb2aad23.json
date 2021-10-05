@@ -1,0 +1,13 @@
+{
+  "start":26437,
+  "end":26442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel:",
+  "id":"7e07e320-cc35-4a7c-b7a2-45dedb2aad23",
+  "params":{
+    "id":"7e07e320-cc35-4a7c-b7a2-45dedb2aad23",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

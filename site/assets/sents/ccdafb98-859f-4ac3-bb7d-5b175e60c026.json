@@ -1,0 +1,13 @@
+{
+  "start":6420,
+  "end":6449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   love The New York Times.",
+  "id":"ccdafb98-859f-4ac3-bb7d-5b175e60c026",
+  "params":{
+    "id":"ccdafb98-859f-4ac3-bb7d-5b175e60c026",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

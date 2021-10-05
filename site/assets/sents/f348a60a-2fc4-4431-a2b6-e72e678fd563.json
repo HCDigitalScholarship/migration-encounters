@@ -1,0 +1,13 @@
+{
+  "start":13344,
+  "end":13359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That killed me.",
+  "id":"f348a60a-2fc4-4431-a2b6-e72e678fd563",
+  "params":{
+    "id":"f348a60a-2fc4-4431-a2b6-e72e678fd563",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

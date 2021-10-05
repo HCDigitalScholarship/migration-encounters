@@ -1,0 +1,12 @@
+{
+  "start":52561,
+  "end":52663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I watch a movie and I tell my friend, \u201cHey man, don't\n   watch that movie, that movie is horrible.\u201d",
+  "id":"b7f8d2f3-c322-42bc-a97d-80b604895530",
+  "params":{
+    "id":"91c8f4fc-eee0-46eb-87cd-8fa6b010cf6f"
+  },
+  "name":"Rodolfo"
+}

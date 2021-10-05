@@ -1,0 +1,12 @@
+{
+  "start":20955,
+  "end":20980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I just\n   don't know.",
+  "id":"09b72b5a-9205-495c-9d14-92f06ee11e05",
+  "params":{
+    "id":"2e758762-f0bc-4b32-9d39-cc8b6f48ef11"
+  },
+  "name":"Daniel"
+}

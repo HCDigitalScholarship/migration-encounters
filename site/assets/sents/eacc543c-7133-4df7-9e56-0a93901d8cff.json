@@ -1,0 +1,13 @@
+{
+  "start":49777,
+  "end":49841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I've looked for help but I always come\n   to a dead end.",
+  "id":"eacc543c-7133-4df7-9e56-0a93901d8cff",
+  "params":{
+    "id":"eacc543c-7133-4df7-9e56-0a93901d8cff",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

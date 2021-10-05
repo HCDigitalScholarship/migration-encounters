@@ -1,0 +1,13 @@
+{
+  "start":4423,
+  "end":4458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just tired and\n   everything.",
+  "id":"a7ae601b-5c81-4b37-b64f-19cc7a8bdbf7",
+  "params":{
+    "id":"a7ae601b-5c81-4b37-b64f-19cc7a8bdbf7",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7307,
+  "end":7348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel: [Affirmative noise].\n      \n      \n",
+  "id":"2ab2ea41-e75a-4932-ae67-6d4feef7999c",
+  "params":{
+    "id":"2ab2ea41-e75a-4932-ae67-6d4feef7999c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

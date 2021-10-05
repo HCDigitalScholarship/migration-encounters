@@ -1,0 +1,13 @@
+{
+  "start":4711,
+  "end":4740,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, do you think differently?",
+  "id":"7a285b92-b952-45d4-88b9-c8117cefcde9",
+  "params":{
+    "id":"7a285b92-b952-45d4-88b9-c8117cefcde9",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

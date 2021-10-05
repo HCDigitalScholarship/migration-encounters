@@ -1,0 +1,13 @@
+{
+  "start":29891,
+  "end":29911,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't act\n   stupid.",
+  "id":"9c12c5a7-c43c-4290-8a9d-8b71fefe47c6",
+  "params":{
+    "id":"9c12c5a7-c43c-4290-8a9d-8b71fefe47c6",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

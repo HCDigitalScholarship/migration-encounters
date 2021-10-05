@@ -1,0 +1,12 @@
+{
+  "start":9423,
+  "end":9451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, she was born in the US.",
+  "id":"1fa15e1b-f2c6-42f3-81f6-d382b6d21b9f",
+  "params":{
+    "id":"1112e296-07d0-4fe0-8d74-1ea45dafab87"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5946,
+  "end":5970,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's\n   play football.\"",
+  "id":"8acf8ffc-2e83-47de-bc90-994c320a00fd",
+  "params":{
+    "id":"920a7de3-8de7-4733-874e-b87c3b47bfbb"
+  },
+  "name":"Hugo"
+}

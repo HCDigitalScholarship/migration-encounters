@@ -1,0 +1,12 @@
+{
+  "start":17763,
+  "end":17825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The final altercation was drunk driving, you were pulled over.",
+  "id":"a2086d42-9077-4570-b631-4e8dd4f160c6",
+  "params":{
+    "id":"9036eb99-8356-4aae-9123-2bacb07619b8"
+  },
+  "name":"Abel"
+}

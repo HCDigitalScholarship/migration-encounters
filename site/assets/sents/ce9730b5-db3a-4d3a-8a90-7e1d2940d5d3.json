@@ -1,0 +1,13 @@
+{
+  "start":36332,
+  "end":36387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When we're born, they say, \"Hey, he's born a\n   human.\"",
+  "id":"ce9730b5-db3a-4d3a-8a90-7e1d2940d5d3",
+  "params":{
+    "id":"ce9730b5-db3a-4d3a-8a90-7e1d2940d5d3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

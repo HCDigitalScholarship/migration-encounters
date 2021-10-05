@@ -1,0 +1,12 @@
+{
+  "start":21650,
+  "end":21689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like to dress\n   how I like to dress.",
+  "id":"65944cff-f3c4-4b40-8995-8c4f7c3e21b4",
+  "params":{
+    "id":"c2ee7089-1cca-4393-92ca-1bc4bb670098"
+  },
+  "name":"Donovan"
+}

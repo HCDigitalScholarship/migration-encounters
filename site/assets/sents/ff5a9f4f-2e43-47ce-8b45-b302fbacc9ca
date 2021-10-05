@@ -1,0 +1,12 @@
+{
+  "start":16408,
+  "end":16436,
+  "label":"SENT",
+  "type":"sent",
+  "text":"he reads philosophy all day.",
+  "id":"ff5a9f4f-2e43-47ce-8b45-b302fbacc9ca",
+  "params":{
+    "id":"5486a4fa-1a73-4acc-98d8-405cc2514752"
+  },
+  "name":"Billy"
+}

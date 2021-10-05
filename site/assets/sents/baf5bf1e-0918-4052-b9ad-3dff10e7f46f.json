@@ -1,0 +1,12 @@
+{
+  "start":2383,
+  "end":2413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think caused that?",
+  "id":"baf5bf1e-0918-4052-b9ad-3dff10e7f46f",
+  "params":{
+    "id":"8e8b7646-c987-4cf6-a02d-94bb15a30e81"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9250,
+  "end":9256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did.",
+  "id":"83ecb208-75d7-43ea-870e-3105464d61ed",
+  "params":{
+    "id":"83ecb208-75d7-43ea-870e-3105464d61ed",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

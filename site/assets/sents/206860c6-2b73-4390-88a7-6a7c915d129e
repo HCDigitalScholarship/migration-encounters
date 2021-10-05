@@ -1,0 +1,12 @@
+{
+  "start":9531,
+  "end":9550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's so annoying.",
+  "id":"206860c6-2b73-4390-88a7-6a7c915d129e",
+  "params":{
+    "id":"b4a2a8e5-7247-4264-9559-ee8772057848"
+  },
+  "name":"Kevin"
+}

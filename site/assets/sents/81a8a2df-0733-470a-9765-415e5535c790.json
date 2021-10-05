@@ -1,0 +1,13 @@
+{
+  "start":17131,
+  "end":17161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you at that time?",
+  "id":"81a8a2df-0733-470a-9765-415e5535c790",
+  "params":{
+    "id":"81a8a2df-0733-470a-9765-415e5535c790",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

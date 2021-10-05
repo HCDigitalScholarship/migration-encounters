@@ -1,0 +1,13 @@
+{
+  "start":6064,
+  "end":6115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Eventually, I\n   moved out back to ___ with my dad.",
+  "id":"e69e0b13-c0e7-4ff8-80a0-8b0295e8bd09",
+  "params":{
+    "id":"e69e0b13-c0e7-4ff8-80a0-8b0295e8bd09",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

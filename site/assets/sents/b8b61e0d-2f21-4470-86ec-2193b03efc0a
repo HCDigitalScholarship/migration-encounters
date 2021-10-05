@@ -1,0 +1,12 @@
+{
+  "start":7389,
+  "end":7536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   just left one year, but she didn't finish and she started having problems\n   with behavior, living with friends, and I didn't know anything.",
+  "id":"b8b61e0d-2f21-4470-86ec-2193b03efc0a",
+  "params":{
+    "id":"7cbff672-141f-4c67-97da-2baf292e19ce"
+  },
+  "name":"Rocio"
+}

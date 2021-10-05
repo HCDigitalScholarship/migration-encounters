@@ -1,0 +1,15 @@
+{
+  "start":14301,
+  "end":14356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Literally they were saying, \"Oh, look at this Mexicans.",
+  "id":"8b28fe76-6086-4db8-bb6a-a42e6d22abf9",
+  "params":{
+    "id":"8b28fe76-6086-4db8-bb6a-a42e6d22abf9",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

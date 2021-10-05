@@ -1,0 +1,12 @@
+{
+  "start":6873,
+  "end":6892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they blamed me.",
+  "id":"f3b44408-9202-446e-b6c0-39b0eadd3c4d",
+  "params":{
+    "id":"4b17723e-ffa2-42d5-89fe-c4302e2a34c0"
+  },
+  "name":"Ivan"
+}

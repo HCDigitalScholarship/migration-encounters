@@ -1,0 +1,12 @@
+{
+  "start":8036,
+  "end":8120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\n   released over there, and then I called my brother because he owes me money.",
+  "id":"7604480e-6c3f-4fe5-b598-1779b8736e6b",
+  "params":{
+    "id":"d186c58a-f101-4c4c-8dd8-019b09ab4810"
+  },
+  "name":"Noe"
+}

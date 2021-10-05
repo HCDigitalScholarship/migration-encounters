@@ -1,0 +1,12 @@
+{
+  "start":17737,
+  "end":17805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Oh, yeah.\n      \n      \n Billy: Like the skeleton of a house.",
+  "id":"fdc27e78-41ad-4772-9b92-b030cfa9a8d9",
+  "params":{
+    "id":"ebc03883-7ae8-4afc-8002-86fc27f5374d"
+  },
+  "name":"Billy"
+}

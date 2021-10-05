@@ -1,0 +1,13 @@
+{
+  "start":21118,
+  "end":21145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't really like either.",
+  "id":"1fd0517c-70d3-44ed-8847-e6fe228944e0",
+  "params":{
+    "id":"1fd0517c-70d3-44ed-8847-e6fe228944e0",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

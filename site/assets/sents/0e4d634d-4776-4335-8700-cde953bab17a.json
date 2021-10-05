@@ -1,0 +1,13 @@
+{
+  "start":8750,
+  "end":8818,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it's like, well\n   if my whole family is here, well, I'm Mexican.",
+  "id":"0e4d634d-4776-4335-8700-cde953bab17a",
+  "params":{
+    "id":"0e4d634d-4776-4335-8700-cde953bab17a",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

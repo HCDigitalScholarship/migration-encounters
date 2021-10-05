@@ -1,0 +1,12 @@
+{
+  "start":25625,
+  "end":25728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just told me, \"Because you have a drivers license number, but you\n   don't have a drivers license?",
+  "id":"b9add780-2005-4aae-86c4-9222a235872a",
+  "params":{
+    "id":"13cd3c6b-d58b-4635-b1e1-6719a156ae24"
+  },
+  "name":"Rodolfo"
+}

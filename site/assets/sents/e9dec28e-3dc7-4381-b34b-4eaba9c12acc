@@ -1,0 +1,12 @@
+{
+  "start":639,
+  "end":698,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And where did you live when you moved to the United States?",
+  "id":"e9dec28e-3dc7-4381-b34b-4eaba9c12acc",
+  "params":{
+    "id":"2bd6ea35-5f3f-49bf-9f4e-fe9189d165de"
+  },
+  "name":"Ana"
+}

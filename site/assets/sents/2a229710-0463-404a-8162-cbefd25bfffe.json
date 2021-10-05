@@ -1,0 +1,13 @@
+{
+  "start":15398,
+  "end":15440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If my dad goes, my brothers will be alone.",
+  "id":"2a229710-0463-404a-8162-cbefd25bfffe",
+  "params":{
+    "id":"2a229710-0463-404a-8162-cbefd25bfffe",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

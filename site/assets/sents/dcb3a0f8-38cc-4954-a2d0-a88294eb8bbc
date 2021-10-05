@@ -1,0 +1,12 @@
+{
+  "start":25281,
+  "end":25285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes.",
+  "id":"dcb3a0f8-38cc-4954-a2d0-a88294eb8bbc",
+  "params":{
+    "id":"d3158500-d06a-48d3-b908-82c4794cef20"
+  },
+  "name":"Sylent"
+}

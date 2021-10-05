@@ -1,0 +1,13 @@
+{
+  "start":8327,
+  "end":8421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d\n   So I went to see psychiatrist, and they give me medication and I stayed on\n   medication.",
+  "id":"998b6248-c2b4-4e4c-aaae-20c3cdf60e4c",
+  "params":{
+    "id":"998b6248-c2b4-4e4c-aaae-20c3cdf60e4c",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

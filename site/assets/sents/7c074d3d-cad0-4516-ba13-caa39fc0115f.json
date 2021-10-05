@@ -1,0 +1,13 @@
+{
+  "start":10753,
+  "end":10785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had like one semester\n   left.",
+  "id":"7c074d3d-cad0-4516-ba13-caa39fc0115f",
+  "params":{
+    "id":"7c074d3d-cad0-4516-ba13-caa39fc0115f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

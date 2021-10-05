@@ -1,0 +1,13 @@
+{
+  "start":11580,
+  "end":11640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I opened the door and my little brother rushes in crying.",
+  "id":"bbbaab19-c53e-4cef-bc2b-fcadb31cf0a7",
+  "params":{
+    "id":"bbbaab19-c53e-4cef-bc2b-fcadb31cf0a7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

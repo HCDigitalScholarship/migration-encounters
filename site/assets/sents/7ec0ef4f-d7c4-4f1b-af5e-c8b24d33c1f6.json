@@ -1,0 +1,13 @@
+{
+  "start":48235,
+  "end":48323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just so that they offered me five years again and they were\n trying to go down to three.",
+  "id":"7ec0ef4f-d7c4-4f1b-af5e-c8b24d33c1f6",
+  "params":{
+    "id":"7ec0ef4f-d7c4-4f1b-af5e-c8b24d33c1f6",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

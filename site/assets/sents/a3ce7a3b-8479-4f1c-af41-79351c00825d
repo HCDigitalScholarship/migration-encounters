@@ -1,0 +1,12 @@
+{
+  "start":26900,
+  "end":26928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you write?",
+  "id":"a3ce7a3b-8479-4f1c-af41-79351c00825d",
+  "params":{
+    "id":"0044313f-d3b2-4e80-8ae1-852ceafe8ed8"
+  },
+  "name":"Luis B"
+}

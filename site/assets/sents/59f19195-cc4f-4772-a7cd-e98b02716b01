@@ -1,0 +1,12 @@
+{
+  "start":415,
+  "end":435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you migrate?",
+  "id":"59f19195-cc4f-4772-a7cd-e98b02716b01",
+  "params":{
+    "id":"0706b52d-a5c3-42f6-9f75-f2b49a8e4b62"
+  },
+  "name":"Ana"
+}

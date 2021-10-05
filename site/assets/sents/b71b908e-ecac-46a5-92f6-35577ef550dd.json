@@ -1,0 +1,13 @@
+{
+  "start":38052,
+  "end":38097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the U.S., it's like, \"Yeah, I got Jordans.",
+  "id":"b71b908e-ecac-46a5-92f6-35577ef550dd",
+  "params":{
+    "id":"b71b908e-ecac-46a5-92f6-35577ef550dd",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

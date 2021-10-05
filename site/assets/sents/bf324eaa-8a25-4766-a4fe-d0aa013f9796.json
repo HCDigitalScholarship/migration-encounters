@@ -1,0 +1,12 @@
+{
+  "start":22633,
+  "end":22747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Well, I cook lasagna,\n     and I make potatoes with cheese and I put a lot of stuff on it and I cook\n     there.\"",
+  "id":"bf324eaa-8a25-4766-a4fe-d0aa013f9796",
+  "params":{
+    "id":"ccf2d103-074a-463c-976f-78bf4137fcdf"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7676,
+  "end":7715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I kind of came down a little bit.",
+  "id":"1fc203de-3d48-4f37-8df8-17a9a322ebf6",
+  "params":{
+    "id":"1fc203de-3d48-4f37-8df8-17a9a322ebf6",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

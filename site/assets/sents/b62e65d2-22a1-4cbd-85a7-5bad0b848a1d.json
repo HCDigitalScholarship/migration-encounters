@@ -1,0 +1,13 @@
+{
+  "start":44321,
+  "end":44379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hey,\n   all of you are humans and we're going to take over",
+  "id":"b62e65d2-22a1-4cbd-85a7-5bad0b848a1d",
+  "params":{
+    "id":"b62e65d2-22a1-4cbd-85a7-5bad0b848a1d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

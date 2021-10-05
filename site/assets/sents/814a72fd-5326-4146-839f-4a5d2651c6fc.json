@@ -1,0 +1,13 @@
+{
+  "start":7075,
+  "end":7104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"What do you mean?\"",
+  "id":"814a72fd-5326-4146-839f-4a5d2651c6fc",
+  "params":{
+    "id":"814a72fd-5326-4146-839f-4a5d2651c6fc",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

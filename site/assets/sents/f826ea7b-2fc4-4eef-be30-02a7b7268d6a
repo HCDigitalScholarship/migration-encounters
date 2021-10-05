@@ -1,0 +1,12 @@
+{
+  "start":35713,
+  "end":35745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I\n don't have the equipment.",
+  "id":"f826ea7b-2fc4-4eef-be30-02a7b7268d6a",
+  "params":{
+    "id":"fac42e8f-5b89-4863-8175-861ff9c65bbf"
+  },
+  "name":"Billy"
+}

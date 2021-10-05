@@ -1,0 +1,13 @@
+{
+  "start":20047,
+  "end":20055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Donovan:",
+  "id":"a07b9e18-5e5a-4bd5-850c-3c401ab05e29",
+  "params":{
+    "id":"a07b9e18-5e5a-4bd5-850c-3c401ab05e29",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

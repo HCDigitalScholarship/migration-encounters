@@ -1,0 +1,13 @@
+{
+  "start":23255,
+  "end":23285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's not even trying to date.",
+  "id":"6b9c02bd-2a6f-42b4-accf-c03f0553945b",
+  "params":{
+    "id":"6b9c02bd-2a6f-42b4-accf-c03f0553945b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

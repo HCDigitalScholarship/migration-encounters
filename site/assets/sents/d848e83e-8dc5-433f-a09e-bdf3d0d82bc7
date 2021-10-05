@@ -1,0 +1,12 @@
+{
+  "start":22082,
+  "end":22121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfLa se\u00f1ora me llamaba?\n \n <br/>\n \n     ",
+  "id":"d848e83e-8dc5-433f-a09e-bdf3d0d82bc7",
+  "params":{
+    "id":"e068f998-c338-45e5-9428-1851348507ac"
+  },
+  "name":"Maria"
+}

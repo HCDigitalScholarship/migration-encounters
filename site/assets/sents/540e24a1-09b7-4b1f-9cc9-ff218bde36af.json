@@ -1,0 +1,13 @@
+{
+  "start":1218,
+  "end":1248,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Joseph: New York City.",
+  "id":"540e24a1-09b7-4b1f-9cc9-ff218bde36af",
+  "params":{
+    "id":"540e24a1-09b7-4b1f-9cc9-ff218bde36af",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

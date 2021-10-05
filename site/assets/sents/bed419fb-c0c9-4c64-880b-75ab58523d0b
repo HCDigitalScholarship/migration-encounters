@@ -1,0 +1,12 @@
+{
+  "start":20540,
+  "end":20574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, that's about it, I\n   think.",
+  "id":"bed419fb-c0c9-4c64-880b-75ab58523d0b",
+  "params":{
+    "id":"eebb3575-1099-47f9-b8b8-809bb1dfde2e"
+  },
+  "name":"Yair"
+}

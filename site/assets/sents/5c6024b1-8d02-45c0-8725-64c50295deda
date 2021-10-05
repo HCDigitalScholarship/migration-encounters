@@ -1,0 +1,12 @@
+{
+  "start":1585,
+  "end":1601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you mean?",
+  "id":"5c6024b1-8d02-45c0-8725-64c50295deda",
+  "params":{
+    "id":"e26d8134-dd2f-41ec-a324-a4f741b99b10"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":41646,
+  "end":41694,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico, of\n   course we can't afford it.",
+  "id":"536d71b8-e2d1-4c28-b0d4-7c39ca2b0f56",
+  "params":{
+    "id":"536d71b8-e2d1-4c28-b0d4-7c39ca2b0f56",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

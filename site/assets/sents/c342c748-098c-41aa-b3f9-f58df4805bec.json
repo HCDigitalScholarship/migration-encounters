@@ -1,0 +1,13 @@
+{
+  "start":4576,
+  "end":4690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me a bit about what you did like to do in the US, even\n   though you didn't have those opportunities?",
+  "id":"c342c748-098c-41aa-b3f9-f58df4805bec",
+  "params":{
+    "id":"c342c748-098c-41aa-b3f9-f58df4805bec",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

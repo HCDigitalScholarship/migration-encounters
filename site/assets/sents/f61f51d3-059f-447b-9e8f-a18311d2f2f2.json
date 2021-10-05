@@ -1,0 +1,13 @@
+{
+  "start":5967,
+  "end":6016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, no man, they\n   are going to run us over.",
+  "id":"f61f51d3-059f-447b-9e8f-a18311d2f2f2",
+  "params":{
+    "id":"f61f51d3-059f-447b-9e8f-a18311d2f2f2",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

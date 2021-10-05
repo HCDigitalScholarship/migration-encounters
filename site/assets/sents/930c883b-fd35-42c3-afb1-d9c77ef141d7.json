@@ -1,0 +1,13 @@
+{
+  "start":3820,
+  "end":3843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Very interesting.",
+  "id":"930c883b-fd35-42c3-afb1-d9c77ef141d7",
+  "params":{
+    "id":"930c883b-fd35-42c3-afb1-d9c77ef141d7",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20070,
+  "end":20103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were in this class\n together.\"",
+  "id":"2b8d3ff0-df1c-4cbf-abeb-eb6943015570",
+  "params":{
+    "id":"2b8d3ff0-df1c-4cbf-abeb-eb6943015570",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

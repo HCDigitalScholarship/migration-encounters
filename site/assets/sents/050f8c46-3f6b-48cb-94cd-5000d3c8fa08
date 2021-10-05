@@ -1,0 +1,12 @@
+{
+  "start":45193,
+  "end":45231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you call her America or\n   Natalie?",
+  "id":"050f8c46-3f6b-48cb-94cd-5000d3c8fa08",
+  "params":{
+    "id":"de14b89e-1a4a-4f23-9517-98daf2b96b2f"
+  },
+  "name":"Rodrigo"
+}

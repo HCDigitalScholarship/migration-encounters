@@ -1,0 +1,13 @@
+{
+  "start":11387,
+  "end":11434,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Let's\n     go,\" and eventually they all leave.",
+  "id":"339f1fc0-7710-4ee5-bca4-b07c44a82463",
+  "params":{
+    "id":"339f1fc0-7710-4ee5-bca4-b07c44a82463",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

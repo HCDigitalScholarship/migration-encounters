@@ -1,0 +1,13 @@
+{
+  "start":8667,
+  "end":8699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our\n   lights get cut off a lot.",
+  "id":"8dadefe1-f1b7-4241-8c45-75c2cd21da1d",
+  "params":{
+    "id":"8dadefe1-f1b7-4241-8c45-75c2cd21da1d",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

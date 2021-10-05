@@ -1,0 +1,13 @@
+{
+  "start":15376,
+  "end":15403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is part of your roots.",
+  "id":"bbc2a60c-6c2f-4b10-9f60-9aad3c90765d",
+  "params":{
+    "id":"bbc2a60c-6c2f-4b10-9f60-9aad3c90765d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

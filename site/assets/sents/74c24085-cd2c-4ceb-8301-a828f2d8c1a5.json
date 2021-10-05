@@ -1,0 +1,13 @@
+{
+  "start":15428,
+  "end":15440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How is that?",
+  "id":"74c24085-cd2c-4ceb-8301-a828f2d8c1a5",
+  "params":{
+    "id":"74c24085-cd2c-4ceb-8301-a828f2d8c1a5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

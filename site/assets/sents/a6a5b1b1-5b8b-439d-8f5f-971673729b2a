@@ -1,0 +1,12 @@
+{
+  "start":3425,
+  "end":3450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you know any English?",
+  "id":"a6a5b1b1-5b8b-439d-8f5f-971673729b2a",
+  "params":{
+    "id":"b3c90b46-c689-498c-ab1a-37c9a75879b4"
+  },
+  "name":"Juan B"
+}

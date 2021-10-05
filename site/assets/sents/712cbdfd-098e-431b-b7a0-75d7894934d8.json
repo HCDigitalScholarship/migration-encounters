@@ -1,0 +1,13 @@
+{
+  "start":30310,
+  "end":30410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now I'm living with my parents because ... I used to not\n   live with them when I was married.",
+  "id":"712cbdfd-098e-431b-b7a0-75d7894934d8",
+  "params":{
+    "id":"712cbdfd-098e-431b-b7a0-75d7894934d8",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

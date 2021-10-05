@@ -1,0 +1,13 @@
+{
+  "start":37205,
+  "end":37223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What\n did you do?\"",
+  "id":"0622a478-0942-488c-b4db-a7732c639ba2",
+  "params":{
+    "id":"0622a478-0942-488c-b4db-a7732c639ba2",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

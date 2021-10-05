@@ -1,0 +1,13 @@
+{
+  "start":10397,
+  "end":10420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n caught me with...",
+  "id":"be28d01e-2973-4841-86ba-e439bb3f8eca",
+  "params":{
+    "id":"be28d01e-2973-4841-86ba-e439bb3f8eca",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

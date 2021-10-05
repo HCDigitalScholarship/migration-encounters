@@ -1,0 +1,12 @@
+{
+  "start":16051,
+  "end":16105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He does speak Spanish\n   but he speaks with an accent.",
+  "id":"34cdafc1-0679-4a67-894a-430550a18d3c",
+  "params":{
+    "id":"dc97e7e5-2d09-44fc-adea-93e158878666"
+  },
+  "name":"Diana"
+}

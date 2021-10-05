@@ -1,0 +1,12 @@
+{
+  "start":52143,
+  "end":52190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't go over there, fight the case, stay here.",
+  "id":"a103d504-f770-4c07-a088-d3f1b7fbc2db",
+  "params":{
+    "id":"277c07a2-0f76-4e08-b662-40ef8d5873fc"
+  },
+  "name":"Rodolfo"
+}

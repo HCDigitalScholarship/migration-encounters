@@ -1,0 +1,12 @@
+{
+  "start":21630,
+  "end":21660,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jose: Definitely.\n \n \n   Anne:",
+  "id":"8d010319-b60a-4a1b-97aa-a1e3af0008e8",
+  "params":{
+    "id":"3a0b5c0b-bcd6-4a70-91e3-fe5fd61c5d02"
+  },
+  "name":"Jose"
+}

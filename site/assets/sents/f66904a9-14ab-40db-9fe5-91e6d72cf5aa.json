@@ -1,0 +1,13 @@
+{
+  "start":1874,
+  "end":1943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got an offer, a job offer, from Iowa\n   about a restaurant opening.",
+  "id":"f66904a9-14ab-40db-9fe5-91e6d72cf5aa",
+  "params":{
+    "id":"f66904a9-14ab-40db-9fe5-91e6d72cf5aa",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

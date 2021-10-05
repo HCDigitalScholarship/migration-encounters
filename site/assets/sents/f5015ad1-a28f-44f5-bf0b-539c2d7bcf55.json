@@ -1,0 +1,13 @@
+{
+  "start":29037,
+  "end":29121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm actually one of those persons that if you tell me\n   something, I'll believe it.",
+  "id":"f5015ad1-a28f-44f5-bf0b-539c2d7bcf55",
+  "params":{
+    "id":"f5015ad1-a28f-44f5-bf0b-539c2d7bcf55",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

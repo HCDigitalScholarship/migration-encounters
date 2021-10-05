@@ -1,0 +1,13 @@
+{
+  "start":11395,
+  "end":11413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get to my house.",
+  "id":"165ec82e-d23a-4681-8466-49a44df2c2d6",
+  "params":{
+    "id":"165ec82e-d23a-4681-8466-49a44df2c2d6",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4409,
+  "end":4474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't until I was an adult that I\nstarted getting in trouble.",
+  "id":"50ce91be-b304-4f7c-a1d1-b9ca5c72da3d",
+  "params":{
+    "id":"50ce91be-b304-4f7c-a1d1-b9ca5c72da3d",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6291,
+  "end":6379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you first went to Arkansas, you were in one city, and you\n   felt more accepted.",
+  "id":"72a8927e-80ac-4c0d-a31c-261f523685e5",
+  "params":{
+    "id":"9c906fca-771e-40bd-bcd3-3d58fd4f5c95"
+  },
+  "name":"Carolina"
+}

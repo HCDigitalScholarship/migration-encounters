@@ -1,0 +1,12 @@
+{
+  "start":5602,
+  "end":5632,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And this time you were also...",
+  "id":"4ebcd433-4f20-45bb-93dd-b0baa5cc3a07",
+  "params":{
+    "id":"3c9ea87d-d028-4366-ba4f-bb537a582cfe"
+  },
+  "name":"Pablo"
+}

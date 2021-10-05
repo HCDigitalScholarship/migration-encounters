@@ -1,0 +1,12 @@
+{
+  "start":46243,
+  "end":46306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did vote for him [AMLO]\n   because he was wearing Guayaberas.",
+  "id":"51b54cc5-7bc3-4d30-8377-ce1e8f937931",
+  "params":{
+    "id":"3e28be9a-7709-4294-ad3e-add76928a66b"
+  },
+  "name":"Miguel A"
+}

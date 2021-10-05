@@ -1,0 +1,13 @@
+{
+  "start":667,
+  "end":761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n   Anita: Did you go to school in Mexico before going to the US?\n \n <br/>\n \n   Miguel:",
+  "id":"84902f60-2f69-41bb-88b1-54c026dbf3a5",
+  "params":{
+    "id":"84902f60-2f69-41bb-88b1-54c026dbf3a5",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

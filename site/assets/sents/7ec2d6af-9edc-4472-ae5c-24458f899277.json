@@ -1,0 +1,13 @@
+{
+  "start":29430,
+  "end":29482,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't realize that the lightbulb had gone out.",
+  "id":"7ec2d6af-9edc-4472-ae5c-24458f899277",
+  "params":{
+    "id":"7ec2d6af-9edc-4472-ae5c-24458f899277",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

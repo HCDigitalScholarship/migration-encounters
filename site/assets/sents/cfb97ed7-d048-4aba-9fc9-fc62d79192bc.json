@@ -1,0 +1,13 @@
+{
+  "start":2098,
+  "end":2125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was only three of us.",
+  "id":"cfb97ed7-d048-4aba-9fc9-fc62d79192bc",
+  "params":{
+    "id":"cfb97ed7-d048-4aba-9fc9-fc62d79192bc",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

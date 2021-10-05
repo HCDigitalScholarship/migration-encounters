@@ -1,0 +1,13 @@
+{
+  "start":39821,
+  "end":39894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because my brother, when I got deported, he still didn't have a\n   child.",
+  "id":"3d4b2cbc-ebf6-44a7-9dfd-30d94b968df0",
+  "params":{
+    "id":"3d4b2cbc-ebf6-44a7-9dfd-30d94b968df0",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

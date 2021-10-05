@@ -1,0 +1,13 @@
+{
+  "start":23175,
+  "end":23249,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm assuming, but just let me know, is your family\n   still in the States?",
+  "id":"4ac80208-99a1-4c14-b770-f390da2e9557",
+  "params":{
+    "id":"4ac80208-99a1-4c14-b770-f390da2e9557",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

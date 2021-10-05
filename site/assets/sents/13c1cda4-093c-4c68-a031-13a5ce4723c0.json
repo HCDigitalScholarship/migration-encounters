@@ -1,0 +1,13 @@
+{
+  "start":24508,
+  "end":24524,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Get out of here.",
+  "id":"13c1cda4-093c-4c68-a031-13a5ce4723c0",
+  "params":{
+    "id":"13c1cda4-093c-4c68-a031-13a5ce4723c0",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

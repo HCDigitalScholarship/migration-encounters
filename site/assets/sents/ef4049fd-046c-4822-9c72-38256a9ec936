@@ -1,0 +1,12 @@
+{
+  "start":3255,
+  "end":3330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If my sister would've saw\n   that, God knows what she would have been like.",
+  "id":"ef4049fd-046c-4822-9c72-38256a9ec936",
+  "params":{
+    "id":"65d92466-21e9-4a31-8966-bbac35c2898c"
+  },
+  "name":"Donovan"
+}

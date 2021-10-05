@@ -1,0 +1,13 @@
+{
+  "start":7042,
+  "end":7106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, whenever it was declared, it was just like...\n \n \n   Joseph:",
+  "id":"6f98b039-553b-4811-a4f0-6653afb192e8",
+  "params":{
+    "id":"6f98b039-553b-4811-a4f0-6653afb192e8",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

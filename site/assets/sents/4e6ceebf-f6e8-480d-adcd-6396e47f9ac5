@@ -1,0 +1,12 @@
+{
+  "start":32323,
+  "end":32375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The people I have met, they actually helped me here.",
+  "id":"4e6ceebf-f6e8-480d-adcd-6396e47f9ac5",
+  "params":{
+    "id":"0414afad-c0c9-479e-818e-badabd94a034"
+  },
+  "name":"Carlos"
+}

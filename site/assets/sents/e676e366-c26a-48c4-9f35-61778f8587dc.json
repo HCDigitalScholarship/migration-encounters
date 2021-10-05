@@ -1,0 +1,13 @@
+{
+  "start":2989,
+  "end":3018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think she took three weeks.",
+  "id":"e676e366-c26a-48c4-9f35-61778f8587dc",
+  "params":{
+    "id":"e676e366-c26a-48c4-9f35-61778f8587dc",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":55804,
+  "end":55815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, really?",
+  "id":"0e4a1642-4d30-45c0-bbd6-d191a27e7ae6",
+  "params":{
+    "id":"0e4a1642-4d30-45c0-bbd6-d191a27e7ae6",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

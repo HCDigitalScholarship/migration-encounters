@@ -1,0 +1,13 @@
+{
+  "start":19538,
+  "end":19562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to keep studying.",
+  "id":"1a112d24-74c5-45bb-8245-874ff35fae2f",
+  "params":{
+    "id":"1a112d24-74c5-45bb-8245-874ff35fae2f",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

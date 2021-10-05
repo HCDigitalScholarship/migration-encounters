@@ -1,0 +1,12 @@
+{
+  "start":5886,
+  "end":5919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was too young to\n   understand.",
+  "id":"e2b36def-de72-4a57-92f2-b39bc2df0ec2",
+  "params":{
+    "id":"c606d80a-2163-4084-be0f-3a06fbb896fd"
+  },
+  "name":"Yair"
+}

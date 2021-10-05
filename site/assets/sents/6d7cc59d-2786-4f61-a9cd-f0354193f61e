@@ -1,0 +1,12 @@
+{
+  "start":38537,
+  "end":38646,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've tried drugs, but it never really got something to where\n   I could say like, \"Dang bro, you're addicted.",
+  "id":"6d7cc59d-2786-4f61-a9cd-f0354193f61e",
+  "params":{
+    "id":"0d9cb32d-2431-4bee-b345-449902cf0715"
+  },
+  "name":"Mike"
+}

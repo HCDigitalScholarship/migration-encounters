@@ -1,0 +1,12 @@
+{
+  "start":31176,
+  "end":31273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you put a good\n person in a bad situation, in a bad environment, sooner or later he'll\n break.",
+  "id":"6b63a576-0fb3-46e0-b54e-20cc1f82452c",
+  "params":{
+    "id":"3f3be5fb-8139-449a-9881-c0445f735869"
+  },
+  "name":"Ben"
+}

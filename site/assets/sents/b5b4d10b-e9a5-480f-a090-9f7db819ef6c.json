@@ -1,0 +1,13 @@
+{
+  "start":5055,
+  "end":5091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody is going to lose this one.\"",
+  "id":"b5b4d10b-e9a5-480f-a090-9f7db819ef6c",
+  "params":{
+    "id":"b5b4d10b-e9a5-480f-a090-9f7db819ef6c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

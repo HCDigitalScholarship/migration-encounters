@@ -1,0 +1,12 @@
+{
+  "start":9432,
+  "end":9452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I'm bleeding\n out.\"",
+  "id":"dc4b49d9-e855-4c9f-bdb6-7b052d059379",
+  "params":{
+    "id":"aa5471d0-ff76-45fd-9cb1-6eb00eed5053"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32682,
+  "end":32774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me $1,000, some scholarship,\n   but it was a need required scholarship [inaudible.",
+  "id":"ba9993ba-c69c-485a-99ce-daee56c5f838",
+  "params":{
+    "id":"ba9993ba-c69c-485a-99ce-daee56c5f838",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

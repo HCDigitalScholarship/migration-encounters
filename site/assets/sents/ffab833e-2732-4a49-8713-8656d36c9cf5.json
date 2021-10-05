@@ -1,0 +1,13 @@
+{
+  "start":12385,
+  "end":12435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how we made our money and we made a living.",
+  "id":"ffab833e-2732-4a49-8713-8656d36c9cf5",
+  "params":{
+    "id":"ffab833e-2732-4a49-8713-8656d36c9cf5",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

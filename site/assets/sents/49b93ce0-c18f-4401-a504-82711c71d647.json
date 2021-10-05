@@ -1,0 +1,13 @@
+{
+  "start":15837,
+  "end":15896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   father passed away May the 21st, and I was not there.",
+  "id":"49b93ce0-c18f-4401-a504-82711c71d647",
+  "params":{
+    "id":"49b93ce0-c18f-4401-a504-82711c71d647",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

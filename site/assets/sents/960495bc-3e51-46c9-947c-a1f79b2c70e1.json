@@ -1,0 +1,13 @@
+{
+  "start":19338,
+  "end":19345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos:",
+  "id":"960495bc-3e51-46c9-947c-a1f79b2c70e1",
+  "params":{
+    "id":"960495bc-3e51-46c9-947c-a1f79b2c70e1",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1230,
+  "end":1260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah\u2014while we lived in Oregon.",
+  "id":"d8000b24-0db3-4b8b-8bc7-fc67e562d94b",
+  "params":{
+    "id":"d8000b24-0db3-4b8b-8bc7-fc67e562d94b",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

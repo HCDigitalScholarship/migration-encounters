@@ -1,0 +1,13 @@
+{
+  "start":13951,
+  "end":13987,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, that's\n   what I always think.",
+  "id":"85b2e34d-ba1a-46a5-9f1b-a15705b42a29",
+  "params":{
+    "id":"85b2e34d-ba1a-46a5-9f1b-a15705b42a29",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

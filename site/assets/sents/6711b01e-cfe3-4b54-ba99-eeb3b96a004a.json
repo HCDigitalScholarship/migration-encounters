@@ -1,0 +1,13 @@
+{
+  "start":6552,
+  "end":6572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So my mom came back.",
+  "id":"6711b01e-cfe3-4b54-ba99-eeb3b96a004a",
+  "params":{
+    "id":"6711b01e-cfe3-4b54-ba99-eeb3b96a004a",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

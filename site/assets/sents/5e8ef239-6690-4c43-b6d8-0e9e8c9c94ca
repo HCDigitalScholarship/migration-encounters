@@ -1,0 +1,12 @@
+{
+  "start":5944,
+  "end":6022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you're saying when you\n   go back to Mexico, you were going to have a visa.",
+  "id":"5e8ef239-6690-4c43-b6d8-0e9e8c9c94ca",
+  "params":{
+    "id":"fdde99ec-74e5-4dad-83bc-5b8d4862232a"
+  },
+  "name":"Daniel"
+}

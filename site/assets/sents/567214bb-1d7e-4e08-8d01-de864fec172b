@@ -1,0 +1,12 @@
+{
+  "start":30110,
+  "end":30171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But if I speak to my dad, he'll understand and he'll respond.",
+  "id":"567214bb-1d7e-4e08-8d01-de864fec172b",
+  "params":{
+    "id":"fa586b74-138a-463e-aec1-d85def0ae08d"
+  },
+  "name":"Jeimmy"
+}

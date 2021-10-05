@@ -1,0 +1,13 @@
+{
+  "start":10328,
+  "end":10378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why were you embarrassed about being undocumented?",
+  "id":"e1e80fbc-7850-4fc8-bd52-4e6d3744c60f",
+  "params":{
+    "id":"e1e80fbc-7850-4fc8-bd52-4e6d3744c60f",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

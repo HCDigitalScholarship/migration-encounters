@@ -1,0 +1,12 @@
+{
+  "start":15930,
+  "end":15955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't get residency?",
+  "id":"5f684942-827c-41c3-9b94-90f55c1abac5",
+  "params":{
+    "id":"aac6967c-7285-49f3-b5d7-195d49dab605"
+  },
+  "name":"Rodrigo"
+}

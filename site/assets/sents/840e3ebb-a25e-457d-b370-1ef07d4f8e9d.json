@@ -1,0 +1,12 @@
+{
+  "start":32174,
+  "end":32241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not American, but you're learning\n     the American culture.",
+  "id":"840e3ebb-a25e-457d-b370-1ef07d4f8e9d",
+  "params":{
+    "id":"238ccc45-b2ca-4970-b16c-82c7353f52b9"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5678,
+  "end":5691,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Yair:",
+  "id":"4ab8296a-b905-44f8-a08c-3fe3e4c078e0",
+  "params":{
+    "id":"25c3794c-5499-4e18-a277-4a33ef6a5753"
+  },
+  "name":"Yair"
+}

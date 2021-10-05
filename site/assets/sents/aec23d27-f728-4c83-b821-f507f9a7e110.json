@@ -1,0 +1,13 @@
+{
+  "start":16923,
+  "end":16990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the reason that I'm\n here because me and my brother are one.",
+  "id":"aec23d27-f728-4c83-b821-f507f9a7e110",
+  "params":{
+    "id":"aec23d27-f728-4c83-b821-f507f9a7e110",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

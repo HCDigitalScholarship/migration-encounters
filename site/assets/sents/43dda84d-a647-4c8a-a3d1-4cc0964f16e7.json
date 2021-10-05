@@ -1,0 +1,13 @@
+{
+  "start":808,
+  "end":841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I went to\nMonrovia High.",
+  "id":"43dda84d-a647-4c8a-a3d1-4cc0964f16e7",
+  "params":{
+    "id":"43dda84d-a647-4c8a-a3d1-4cc0964f16e7",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

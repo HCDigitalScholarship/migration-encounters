@@ -1,0 +1,12 @@
+{
+  "start":10336,
+  "end":10370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't think it was worth\n   it.",
+  "id":"4d52e472-757f-4934-a9db-71c76854ef84",
+  "params":{
+    "id":"17ceb92d-e5d6-4b2a-a66e-81e0bb486f96"
+  },
+  "name":"Josue"
+}

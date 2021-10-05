@@ -1,0 +1,13 @@
+{
+  "start":29709,
+  "end":29747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why do you have to\n   beat someone up?",
+  "id":"5e150454-ec69-4c65-9584-8d8114984fb8",
+  "params":{
+    "id":"5e150454-ec69-4c65-9584-8d8114984fb8",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

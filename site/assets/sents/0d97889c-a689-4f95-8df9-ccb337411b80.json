@@ -1,0 +1,13 @@
+{
+  "start":18529,
+  "end":18546,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a hard mom.",
+  "id":"0d97889c-a689-4f95-8df9-ccb337411b80",
+  "params":{
+    "id":"0d97889c-a689-4f95-8df9-ccb337411b80",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

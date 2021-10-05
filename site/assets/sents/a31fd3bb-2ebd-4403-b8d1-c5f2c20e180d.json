@@ -1,0 +1,13 @@
+{
+  "start":31806,
+  "end":31836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was this your mom and stepdad?",
+  "id":"a31fd3bb-2ebd-4403-b8d1-c5f2c20e180d",
+  "params":{
+    "id":"a31fd3bb-2ebd-4403-b8d1-c5f2c20e180d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

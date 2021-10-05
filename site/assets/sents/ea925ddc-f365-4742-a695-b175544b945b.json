@@ -1,0 +1,13 @@
+{
+  "start":47776,
+  "end":47800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you living with him?",
+  "id":"ea925ddc-f365-4742-a695-b175544b945b",
+  "params":{
+    "id":"ea925ddc-f365-4742-a695-b175544b945b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

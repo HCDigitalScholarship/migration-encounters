@@ -1,0 +1,13 @@
+{
+  "start":47045,
+  "end":47102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And has she talked to [gestures to Roddy]\n \n \n   Rodrigo:",
+  "id":"7a10cb8c-971a-42c7-8e5b-c363e319d8b4",
+  "params":{
+    "id":"7a10cb8c-971a-42c7-8e5b-c363e319d8b4",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

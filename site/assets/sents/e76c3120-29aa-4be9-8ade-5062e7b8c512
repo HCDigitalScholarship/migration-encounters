@@ -1,0 +1,12 @@
+{
+  "start":22690,
+  "end":22707,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I prefer English.",
+  "id":"e76c3120-29aa-4be9-8ade-5062e7b8c512",
+  "params":{
+    "id":"1cfb4957-bf35-4440-a0b2-aa804a03c630"
+  },
+  "name":"Carlos"
+}

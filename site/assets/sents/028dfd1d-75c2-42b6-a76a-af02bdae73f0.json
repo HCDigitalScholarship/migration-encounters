@@ -1,0 +1,13 @@
+{
+  "start":74489,
+  "end":74559,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was over\n there, since I had first got there, I was struggling.",
+  "id":"028dfd1d-75c2-42b6-a76a-af02bdae73f0",
+  "params":{
+    "id":"028dfd1d-75c2-42b6-a76a-af02bdae73f0",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

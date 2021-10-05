@@ -1,0 +1,13 @@
+{
+  "start":518,
+  "end":544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They wanted a better life.",
+  "id":"d034b366-dc9b-4248-9c24-6e38f322a025",
+  "params":{
+    "id":"d034b366-dc9b-4248-9c24-6e38f322a025",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

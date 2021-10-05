@@ -1,0 +1,13 @@
+{
+  "start":4304,
+  "end":4350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   was right, I ended up doing pretty good.",
+  "id":"3e0ff293-ae03-49b0-be3a-48c1d8889691",
+  "params":{
+    "id":"3e0ff293-ae03-49b0-be3a-48c1d8889691",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

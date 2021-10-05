@@ -1,0 +1,12 @@
+{
+  "start":8617,
+  "end":8657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you mind telling me a bit about that?",
+  "id":"67ed5633-7dc6-4179-a9e5-54eb85f2e3ef",
+  "params":{
+    "id":"f6b9e58d-cde8-4a89-a4a6-5f936aa38244"
+  },
+  "name":"Daniel"
+}

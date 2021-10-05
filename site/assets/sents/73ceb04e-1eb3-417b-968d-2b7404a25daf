@@ -1,0 +1,12 @@
+{
+  "start":5052,
+  "end":5086,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that where you learned English?",
+  "id":"73ceb04e-1eb3-417b-968d-2b7404a25daf",
+  "params":{
+    "id":"34b694d2-4d85-45d4-b57b-0d8cab92a226"
+  },
+  "name":"Brenda"
+}

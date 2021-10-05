@@ -1,0 +1,13 @@
+{
+  "start":3799,
+  "end":3842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents wanted us to keep to\n ourselves.",
+  "id":"75a069b1-8183-48c1-b5e1-c0c2024e673d",
+  "params":{
+    "id":"75a069b1-8183-48c1-b5e1-c0c2024e673d",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

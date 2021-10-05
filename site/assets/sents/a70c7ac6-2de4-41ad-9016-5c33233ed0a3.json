@@ -1,0 +1,13 @@
+{
+  "start":18031,
+  "end":18059,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   pull out the knives.",
+  "id":"a70c7ac6-2de4-41ad-9016-5c33233ed0a3",
+  "params":{
+    "id":"a70c7ac6-2de4-41ad-9016-5c33233ed0a3",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

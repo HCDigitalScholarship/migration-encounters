@@ -1,0 +1,13 @@
+{
+  "start":21502,
+  "end":21526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what grade.",
+  "id":"4a3dd8a5-10f0-43e5-b521-d5b3215a3286",
+  "params":{
+    "id":"4a3dd8a5-10f0-43e5-b521-d5b3215a3286",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21239,
+  "end":21310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Only if I see a really\n   elderly lady, \u201cOkay, just take a seat there.\u201d",
+  "id":"f8b2a0f4-222d-476e-9e73-729ad5c70ac5",
+  "params":{
+    "id":"f8b2a0f4-222d-476e-9e73-729ad5c70ac5",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

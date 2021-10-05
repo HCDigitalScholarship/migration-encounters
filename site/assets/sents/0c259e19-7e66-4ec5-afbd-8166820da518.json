@@ -1,0 +1,13 @@
+{
+  "start":7300,
+  "end":7318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I already did it.\"",
+  "id":"0c259e19-7e66-4ec5-afbd-8166820da518",
+  "params":{
+    "id":"0c259e19-7e66-4ec5-afbd-8166820da518",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9642,
+  "end":9728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you were lying face down on\n   the magic carpet all day, how did you learn English?",
+  "id":"0ceca7c0-ae00-4f5e-86b6-fcc65ef09d5c",
+  "params":{
+    "id":"0ceca7c0-ae00-4f5e-86b6-fcc65ef09d5c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

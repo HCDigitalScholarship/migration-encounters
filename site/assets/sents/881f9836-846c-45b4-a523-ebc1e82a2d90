@@ -1,0 +1,12 @@
+{
+  "start":29953,
+  "end":29990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   goes, \"I'm trying to help you.\"",
+  "id":"881f9836-846c-45b4-a523-ebc1e82a2d90",
+  "params":{
+    "id":"803a1d9f-03b7-4fc7-82af-c904e37de5e1"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1222,
+  "end":1256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were the kids you babysat?",
+  "id":"a1dadd7e-55b5-4ee7-b964-eb361f2a8660",
+  "params":{
+    "id":"221ec122-741e-45dc-b122-fc0df83a97c6"
+  },
+  "name":"Zayuri"
+}

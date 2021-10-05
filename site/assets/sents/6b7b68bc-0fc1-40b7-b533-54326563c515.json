@@ -1,0 +1,13 @@
+{
+  "start":45326,
+  "end":45344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I just\n   left.",
+  "id":"6b7b68bc-0fc1-40b7-b533-54326563c515",
+  "params":{
+    "id":"6b7b68bc-0fc1-40b7-b533-54326563c515",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

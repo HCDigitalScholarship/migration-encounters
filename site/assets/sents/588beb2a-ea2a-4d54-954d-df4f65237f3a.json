@@ -1,0 +1,13 @@
+{
+  "start":30670,
+  "end":30706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You gave me this one cent\n   higher?",
+  "id":"588beb2a-ea2a-4d54-954d-df4f65237f3a",
+  "params":{
+    "id":"588beb2a-ea2a-4d54-954d-df4f65237f3a",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6209,
+  "end":6298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And, at that time, my dad didn't know where\n   we were, because my mom was really scared.",
+  "id":"72f2896d-277d-420a-ab78-9a0f02063e38",
+  "params":{
+    "id":"72f2896d-277d-420a-ab78-9a0f02063e38",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

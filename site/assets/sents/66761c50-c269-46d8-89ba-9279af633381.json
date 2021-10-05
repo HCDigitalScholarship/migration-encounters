@@ -1,0 +1,13 @@
+{
+  "start":26700,
+  "end":26768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then when I was asked, \"Hey man, why don't you\n   get your license?\"",
+  "id":"66761c50-c269-46d8-89ba-9279af633381",
+  "params":{
+    "id":"66761c50-c269-46d8-89ba-9279af633381",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

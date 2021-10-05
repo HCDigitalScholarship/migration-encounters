@@ -1,0 +1,12 @@
+{
+  "start":7525,
+  "end":7567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I ran\n around the house; I told my sister.",
+  "id":"d10db21c-1872-41cb-ad94-2d4b633cff48",
+  "params":{
+    "id":"3414da6b-045b-45c6-ae53-27c9f4caa0a9"
+  },
+  "name":"Angelo"
+}

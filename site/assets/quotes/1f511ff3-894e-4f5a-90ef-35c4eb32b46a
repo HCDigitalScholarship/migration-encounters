@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":20083,
+  "end":20087,
+  "text":"ole-\n \n \n   Isabel: Where do you live?\n \n \n   Weco: Ecatepec. It's known for the worst area, and it's known for its...\n   It's just known. Even Ubers won't go out there.\n \n \n   Isabel: Really?\n \n \n   Weco: Yeah.\n \n \n   Isabel: I don't know anything. What's it known for?\n \n \n   Weco: Stealing, kidnapping, killing, drugs. Yeah, it's pretty bad.\n \n \n   Isabel: Yeah, it sounds pretty intense.\n \n \n   Weco:",
+  "label":"PERSON",
+  "id":"1f511ff3-894e-4f5a-90ef-35c4eb32b46a",
+  "name":"Kevin"
+}

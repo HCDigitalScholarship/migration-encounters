@@ -1,0 +1,12 @@
+{
+  "start":16603,
+  "end":16621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They want to know.",
+  "id":"17b81b89-6171-4025-96c4-e228df178b56",
+  "params":{
+    "id":"45e31b33-e522-4b9d-aba6-2d22fefc469c"
+  },
+  "name":"Beto"
+}

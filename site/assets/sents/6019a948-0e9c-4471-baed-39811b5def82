@@ -1,0 +1,12 @@
+{
+  "start":32894,
+  "end":33011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the way we\n   can talk with each other, but right now since I don't have a phone, it's a\n   little bit harder.",
+  "id":"6019a948-0e9c-4471-baed-39811b5def82",
+  "params":{
+    "id":"2e0c77d0-3059-4b53-9066-d96b26052a15"
+  },
+  "name":"Carlos"
+}

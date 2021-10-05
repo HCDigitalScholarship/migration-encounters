@@ -1,0 +1,13 @@
+{
+  "start":6088,
+  "end":6118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: ... and a US resident.",
+  "id":"8e9c9c2c-e6c4-4202-ad18-66d036e7e3c6",
+  "params":{
+    "id":"8e9c9c2c-e6c4-4202-ad18-66d036e7e3c6",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

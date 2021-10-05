@@ -1,0 +1,12 @@
+{
+  "start":33558,
+  "end":33599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of\n   people have lost their lives.",
+  "id":"f0d65e6e-dba5-4c77-b7e3-8df362d9b850",
+  "params":{
+    "id":"9892682e-ea7e-464a-aa35-f330ae75499f"
+  },
+  "name":"Joana"
+}

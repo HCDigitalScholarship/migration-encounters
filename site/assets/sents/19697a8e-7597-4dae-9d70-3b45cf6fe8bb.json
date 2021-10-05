@@ -1,0 +1,13 @@
+{
+  "start":33662,
+  "end":33703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Because you graduated from college.",
+  "id":"19697a8e-7597-4dae-9d70-3b45cf6fe8bb",
+  "params":{
+    "id":"19697a8e-7597-4dae-9d70-3b45cf6fe8bb",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

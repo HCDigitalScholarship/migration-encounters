@@ -1,0 +1,13 @@
+{
+  "start":20897,
+  "end":20981,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We took her to the clinic, as soon as we got to the clinic, all fingers\n were on me.",
+  "id":"a5dedd2b-f0b8-40fd-bdb3-111c65355978",
+  "params":{
+    "id":"a5dedd2b-f0b8-40fd-bdb3-111c65355978",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

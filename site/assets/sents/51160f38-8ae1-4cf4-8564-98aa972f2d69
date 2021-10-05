@@ -1,0 +1,12 @@
+{
+  "start":21106,
+  "end":21120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This and that.",
+  "id":"51160f38-8ae1-4cf4-8564-98aa972f2d69",
+  "params":{
+    "id":"94b45ba7-3909-4489-9ab6-e15bdf69cc84"
+  },
+  "name":"Hugo"
+}

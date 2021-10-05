@@ -1,0 +1,12 @@
+{
+  "start":8290,
+  "end":8332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   actually had a car outside my mom.",
+  "id":"f94cc5f3-7f95-4e46-bfc1-ea64919b56ed",
+  "params":{
+    "id":"dcc9c5eb-b6da-431f-94b2-06dce57273c6"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15826,
+  "end":15840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was married.",
+  "id":"f3690665-8aa7-47f0-98f2-7ab04f86a274",
+  "params":{
+    "id":"f3690665-8aa7-47f0-98f2-7ab04f86a274",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

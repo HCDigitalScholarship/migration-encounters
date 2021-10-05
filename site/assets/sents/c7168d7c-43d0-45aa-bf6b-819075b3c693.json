@@ -1,0 +1,13 @@
+{
+  "start":5620,
+  "end":5771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you think her lack of affection, as you've described it, was\n   because you didn't spend your first few years together?\n \n \n   Joana:",
+  "id":"c7168d7c-43d0-45aa-bf6b-819075b3c693",
+  "params":{
+    "id":"c7168d7c-43d0-45aa-bf6b-819075b3c693",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

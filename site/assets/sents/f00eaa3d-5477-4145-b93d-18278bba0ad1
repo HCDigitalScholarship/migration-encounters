@@ -1,0 +1,12 @@
+{
+  "start":146,
+  "end":163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What\n   happened?",
+  "id":"f00eaa3d-5477-4145-b93d-18278bba0ad1",
+  "params":{
+    "id":"58e2f643-a9e1-44a1-a9cc-3aed102733a8"
+  },
+  "name":"Laila"
+}

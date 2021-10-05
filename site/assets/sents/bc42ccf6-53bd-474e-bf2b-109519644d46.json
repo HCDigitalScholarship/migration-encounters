@@ -1,0 +1,13 @@
+{
+  "start":27931,
+  "end":27988,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I'm not a kid and you're not nobody to tell me anything.",
+  "id":"bc42ccf6-53bd-474e-bf2b-109519644d46",
+  "params":{
+    "id":"bc42ccf6-53bd-474e-bf2b-109519644d46",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

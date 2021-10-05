@@ -1,0 +1,12 @@
+{
+  "start":7842,
+  "end":7880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have your kid\n   at this time?",
+  "id":"ed5b434b-ffbe-40e3-b60d-c303a4740a64",
+  "params":{
+    "id":"2d74ccd9-6193-489a-b4a6-b97184bc3b7a"
+  },
+  "name":"Kevin"
+}

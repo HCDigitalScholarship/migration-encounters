@@ -1,0 +1,13 @@
+{
+  "start":29987,
+  "end":30088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Dan: \"We are the ones that take care of you going all the way to your\n   destination safely.\"",
+  "id":"fd68f384-7191-4382-a264-360c7fe1d9a6",
+  "params":{
+    "id":"fd68f384-7191-4382-a264-360c7fe1d9a6",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

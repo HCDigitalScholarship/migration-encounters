@@ -1,0 +1,13 @@
+{
+  "start":2584,
+  "end":2602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thank my father.",
+  "id":"f2e5d9cd-0cda-4728-8b39-12374e28ddab",
+  "params":{
+    "id":"f2e5d9cd-0cda-4728-8b39-12374e28ddab",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

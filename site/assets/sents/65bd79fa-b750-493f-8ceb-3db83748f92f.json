@@ -1,0 +1,13 @@
+{
+  "start":27103,
+  "end":27129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was from 2:00 to 10:00.",
+  "id":"65bd79fa-b750-493f-8ceb-3db83748f92f",
+  "params":{
+    "id":"65bd79fa-b750-493f-8ceb-3db83748f92f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17961,
+  "end":17974,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A \u00e9l [Pausa].",
+  "id":"e5ee6da6-51f6-4d82-bd3f-55f5822e4e21",
+  "params":{
+    "id":"e5ee6da6-51f6-4d82-bd3f-55f5822e4e21",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

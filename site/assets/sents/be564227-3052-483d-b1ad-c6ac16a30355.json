@@ -1,0 +1,13 @@
+{
+  "start":7294,
+  "end":7322,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   was like three, four.",
+  "id":"be564227-3052-483d-b1ad-c6ac16a30355",
+  "params":{
+    "id":"be564227-3052-483d-b1ad-c6ac16a30355",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

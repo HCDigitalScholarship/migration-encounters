@@ -1,0 +1,12 @@
+{
+  "start":24971,
+  "end":25000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"el\n     que me dio de comer\u201d.",
+  "id":"712bb904-e784-40e9-ab07-424f602dd0ac",
+  "params":{
+    "id":"8cb97b8c-e56c-43e4-9179-1abe7b5bd571"
+  },
+  "name":"Maria"
+}

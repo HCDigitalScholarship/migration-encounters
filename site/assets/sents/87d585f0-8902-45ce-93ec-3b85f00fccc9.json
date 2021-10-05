@@ -1,0 +1,13 @@
+{
+  "start":28657,
+  "end":28687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My little brother's growing up",
+  "id":"87d585f0-8902-45ce-93ec-3b85f00fccc9",
+  "params":{
+    "id":"87d585f0-8902-45ce-93ec-3b85f00fccc9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23235,
+  "end":23258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't have anything.",
+  "id":"e0da14a3-5f0f-470c-a6ae-260f56865f8b",
+  "params":{
+    "id":"e0da14a3-5f0f-470c-a6ae-260f56865f8b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

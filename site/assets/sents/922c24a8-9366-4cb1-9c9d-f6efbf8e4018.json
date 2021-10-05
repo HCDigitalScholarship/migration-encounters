@@ -1,0 +1,13 @@
+{
+  "start":3212,
+  "end":3229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're hanging out",
+  "id":"922c24a8-9366-4cb1-9c9d-f6efbf8e4018",
+  "params":{
+    "id":"922c24a8-9366-4cb1-9c9d-f6efbf8e4018",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

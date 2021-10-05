@@ -1,0 +1,12 @@
+{
+  "start":2400,
+  "end":2424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was doing really good.",
+  "id":"9726100c-228f-4de4-b6a2-29f85cdfda7f",
+  "params":{
+    "id":"0a89bfe2-70f5-41e5-96c4-5e535899c0a8"
+  },
+  "name":"Mike"
+}

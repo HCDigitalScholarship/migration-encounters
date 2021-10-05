@@ -1,0 +1,13 @@
+{
+  "start":3526,
+  "end":3564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From\n   there, what age did you leave?",
+  "id":"c5ef085f-fc97-43c1-8a1c-5ded616d9e8a",
+  "params":{
+    "id":"c5ef085f-fc97-43c1-8a1c-5ded616d9e8a",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

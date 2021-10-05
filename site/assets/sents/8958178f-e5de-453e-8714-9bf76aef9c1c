@@ -1,0 +1,12 @@
+{
+  "start":20110,
+  "end":20132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know anything.",
+  "id":"8958178f-e5de-453e-8714-9bf76aef9c1c",
+  "params":{
+    "id":"76e4aae5-852a-499e-9196-964672423a42"
+  },
+  "name":"Kevin"
+}

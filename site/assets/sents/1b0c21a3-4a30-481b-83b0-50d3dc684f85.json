@@ -1,0 +1,13 @@
+{
+  "start":24826,
+  "end":24863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"What are you going to do?",
+  "id":"1b0c21a3-4a30-481b-83b0-50d3dc684f85",
+  "params":{
+    "id":"1b0c21a3-4a30-481b-83b0-50d3dc684f85",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

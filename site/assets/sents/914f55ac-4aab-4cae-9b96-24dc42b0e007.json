@@ -1,0 +1,13 @@
+{
+  "start":4096,
+  "end":4217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I found this mushroom and I prepared it, cut it up, put it in\n   the oven, dried it, made tea out of it and I had it.",
+  "id":"914f55ac-4aab-4cae-9b96-24dc42b0e007",
+  "params":{
+    "id":"914f55ac-4aab-4cae-9b96-24dc42b0e007",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1875,
+  "end":1900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took us to their ...",
+  "id":"11b622d0-e1fc-4b37-97fd-a16c17c04359",
+  "params":{
+    "id":"9e63b41a-d4b1-45a5-bcc4-0f4ad76aee4c"
+  },
+  "name":"Yair"
+}

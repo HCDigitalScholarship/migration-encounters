@@ -1,0 +1,13 @@
+{
+  "start":12635,
+  "end":12652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, my grandma.",
+  "id":"6abb314b-4ba4-4a24-b957-8561856e432d",
+  "params":{
+    "id":"6abb314b-4ba4-4a24-b957-8561856e432d",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

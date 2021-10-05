@@ -1,0 +1,13 @@
+{
+  "start":1103,
+  "end":1119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It was hard.",
+  "id":"cf83bcca-f3e2-4b52-aae5-1ae748a11f24",
+  "params":{
+    "id":"cf83bcca-f3e2-4b52-aae5-1ae748a11f24",
+    "class":"anno"
+  },
+  "name":"Many"
+}

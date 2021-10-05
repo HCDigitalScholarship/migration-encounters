@@ -1,0 +1,13 @@
+{
+  "start":4127,
+  "end":4165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what I'm going to do now.",
+  "id":"19de1dfc-3693-4c50-bfb6-eabf5b31764c",
+  "params":{
+    "id":"19de1dfc-3693-4c50-bfb6-eabf5b31764c",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

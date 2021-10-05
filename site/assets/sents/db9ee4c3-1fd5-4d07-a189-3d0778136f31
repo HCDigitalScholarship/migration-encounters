@@ -1,0 +1,12 @@
+{
+  "start":35521,
+  "end":35544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The CIC, it's not Juvy.",
+  "id":"db9ee4c3-1fd5-4d07-a189-3d0778136f31",
+  "params":{
+    "id":"a0fbcc6c-d3fb-4689-b3cb-b193fdbfd376"
+  },
+  "name":"Cris"
+}

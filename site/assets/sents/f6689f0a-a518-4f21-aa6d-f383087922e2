@@ -1,0 +1,12 @@
+{
+  "start":2305,
+  "end":2348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Both your parents are in ____\n \n \n   Joana:",
+  "id":"f6689f0a-a518-4f21-aa6d-f383087922e2",
+  "params":{
+    "id":"0d9a995f-7e51-498e-8901-f5efe3b2f92b"
+  },
+  "name":"Joana"
+}

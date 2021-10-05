@@ -1,0 +1,13 @@
+{
+  "start":5186,
+  "end":5313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once I got into high school, I was kicked out of all my advanced\n   classes because I was acting out in my classes before that.",
+  "id":"57e7c8a4-7b82-4d4a-a5fa-304693f6c664",
+  "params":{
+    "id":"57e7c8a4-7b82-4d4a-a5fa-304693f6c664",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

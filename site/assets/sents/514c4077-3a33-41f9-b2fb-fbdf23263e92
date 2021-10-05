@@ -1,0 +1,12 @@
+{
+  "start":47867,
+  "end":47889,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have my own\n   spot.",
+  "id":"514c4077-3a33-41f9-b2fb-fbdf23263e92",
+  "params":{
+    "id":"73a9f2c5-8291-42ba-838c-d30fa32fe6b5"
+  },
+  "name":"Mike"
+}

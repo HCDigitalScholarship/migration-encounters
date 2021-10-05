@@ -1,0 +1,12 @@
+{
+  "start":10096,
+  "end":10138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I live with my mom, my brother and myself.",
+  "id":"fef9a5f2-fd7f-4341-920d-18483533e6d2",
+  "params":{
+    "id":"702c3acb-d12b-4700-ae89-4fee666fa506"
+  },
+  "name":"Miguel A"
+}

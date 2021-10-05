@@ -1,0 +1,13 @@
+{
+  "start":27501,
+  "end":27521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They'll kill\n   you.",
+  "id":"ba1a1914-4300-485b-b598-23126b3c03c9",
+  "params":{
+    "id":"ba1a1914-4300-485b-b598-23126b3c03c9",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21240,
+  "end":21258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got pulled over.",
+  "id":"bd0c218c-2d18-4366-8f50-5a4ce2079c6a",
+  "params":{
+    "id":"52922c27-e2e6-42ca-847c-a98fcd2cbd7a"
+  },
+  "name":"Ivan B"
+}

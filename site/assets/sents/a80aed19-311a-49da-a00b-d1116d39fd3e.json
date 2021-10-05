@@ -1,0 +1,13 @@
+{
+  "start":7848,
+  "end":7903,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   wanted to get out, so I just took the charge.",
+  "id":"a80aed19-311a-49da-a00b-d1116d39fd3e",
+  "params":{
+    "id":"a80aed19-311a-49da-a00b-d1116d39fd3e",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

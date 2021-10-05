@@ -1,0 +1,12 @@
+{
+  "start":880,
+  "end":885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay.",
+  "id":"9ded74ee-1f06-44b6-845d-3bd8b357aa8c",
+  "params":{
+    "id":"2177ee7c-b8f1-4db8-8b84-be4be1f5aa1c"
+  },
+  "name":"Melani"
+}

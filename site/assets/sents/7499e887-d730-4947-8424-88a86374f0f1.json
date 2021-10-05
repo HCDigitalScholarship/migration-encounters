@@ -1,0 +1,13 @@
+{
+  "start":20385,
+  "end":20408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what\n   happens.",
+  "id":"7499e887-d730-4947-8424-88a86374f0f1",
+  "params":{
+    "id":"7499e887-d730-4947-8424-88a86374f0f1",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

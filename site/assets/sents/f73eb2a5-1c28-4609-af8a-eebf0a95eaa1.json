@@ -1,0 +1,13 @@
+{
+  "start":28179,
+  "end":28185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did.",
+  "id":"f73eb2a5-1c28-4609-af8a-eebf0a95eaa1",
+  "params":{
+    "id":"f73eb2a5-1c28-4609-af8a-eebf0a95eaa1",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

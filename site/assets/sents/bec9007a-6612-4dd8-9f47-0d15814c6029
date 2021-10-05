@@ -1,0 +1,12 @@
+{
+  "start":23159,
+  "end":23171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love meat.",
+  "id":"bec9007a-6612-4dd8-9f47-0d15814c6029",
+  "params":{
+    "id":"65556daf-30fc-49bc-9222-f551641812a2"
+  },
+  "name":"Beto"
+}

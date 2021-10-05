@@ -1,0 +1,12 @@
+{
+  "start":7576,
+  "end":7623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought they\n   just wanted to buy something.",
+  "id":"ec6731cc-9c27-4d3c-b7e4-62bf8d5d1a97",
+  "params":{
+    "id":"ed391b9a-de71-49e6-9f61-4c67b9d748f8"
+  },
+  "name":"Carlos"
+}

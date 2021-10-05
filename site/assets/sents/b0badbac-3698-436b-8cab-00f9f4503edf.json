@@ -1,0 +1,13 @@
+{
+  "start":42849,
+  "end":42866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love being here",
+  "id":"b0badbac-3698-436b-8cab-00f9f4503edf",
+  "params":{
+    "id":"b0badbac-3698-436b-8cab-00f9f4503edf",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23333,
+  "end":23382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\nwere out there for years too\u2014\n      \n      \n",
+  "id":"2dd220b2-a1e5-449f-9c80-3b318f4eb364",
+  "params":{
+    "id":"2dd220b2-a1e5-449f-9c80-3b318f4eb364",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

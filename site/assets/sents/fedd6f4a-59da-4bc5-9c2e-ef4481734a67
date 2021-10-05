@@ -1,0 +1,12 @@
+{
+  "start":40232,
+  "end":40250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I just did it.",
+  "id":"fedd6f4a-59da-4bc5-9c2e-ef4481734a67",
+  "params":{
+    "id":"fa141458-7bf3-47ef-baa7-7c02ad6a57c8"
+  },
+  "name":"Joseph"
+}

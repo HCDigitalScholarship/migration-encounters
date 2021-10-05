@@ -1,0 +1,13 @@
+{
+  "start":22423,
+  "end":22453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have my [inaudible 00:34:04]",
+  "id":"eca80fe3-b70e-4476-bca2-69887af7b200",
+  "params":{
+    "id":"eca80fe3-b70e-4476-bca2-69887af7b200",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

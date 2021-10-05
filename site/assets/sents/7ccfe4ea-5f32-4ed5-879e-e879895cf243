@@ -1,0 +1,12 @@
+{
+  "start":33624,
+  "end":33644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lost\n   my kidney.",
+  "id":"7ccfe4ea-5f32-4ed5-879e-e879895cf243",
+  "params":{
+    "id":"d30a360b-f212-42ce-aca1-0fcfb516e38a"
+  },
+  "name":"Olimpya"
+}

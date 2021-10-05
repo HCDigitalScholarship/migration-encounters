@@ -1,0 +1,12 @@
+{
+  "start":28992,
+  "end":29027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did they give you tickets for?",
+  "id":"8d2949a5-f092-46fa-9f1b-ce042356f338",
+  "params":{
+    "id":"7c4f5d42-db1d-4ffb-ae6f-08fb69880ce7"
+  },
+  "name":"Rodolfo"
+}

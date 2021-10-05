@@ -1,0 +1,13 @@
+{
+  "start":19815,
+  "end":19899,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You told me a little bit in the survey about coming back and\n   adjusting to Mexico.",
+  "id":"3d2a1dc4-e0bf-4c48-a6c3-c64f1f20435d",
+  "params":{
+    "id":"3d2a1dc4-e0bf-4c48-a6c3-c64f1f20435d",
+    "class":"anno"
+  },
+  "name":"Many"
+}

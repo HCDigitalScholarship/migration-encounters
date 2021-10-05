@@ -1,0 +1,13 @@
+{
+  "start":30607,
+  "end":30637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I never went through that.",
+  "id":"fc7d9fba-1c30-48f7-82ca-a30803cb5ce8",
+  "params":{
+    "id":"fc7d9fba-1c30-48f7-82ca-a30803cb5ce8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

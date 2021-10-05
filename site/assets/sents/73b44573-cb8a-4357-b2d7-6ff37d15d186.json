@@ -1,0 +1,13 @@
+{
+  "start":9,
+  "end":61,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, how old were you when you came to United States?",
+  "id":"73b44573-cb8a-4357-b2d7-6ff37d15d186",
+  "params":{
+    "id":"73b44573-cb8a-4357-b2d7-6ff37d15d186",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

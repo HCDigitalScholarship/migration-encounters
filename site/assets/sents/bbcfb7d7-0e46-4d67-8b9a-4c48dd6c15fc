@@ -1,0 +1,12 @@
+{
+  "start":18470,
+  "end":18500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And now you have a child here?",
+  "id":"bbcfb7d7-0e46-4d67-8b9a-4c48dd6c15fc",
+  "params":{
+    "id":"1f550401-0683-499c-b9ef-78d8bed0d100"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8184,
+  "end":8236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"Yeah, I'm going to name my kid Billy.\"",
+  "id":"cc1721b8-e413-4faa-ad4a-559dc8cb4e9b",
+  "params":{
+    "id":"3d5e9aed-f602-47f9-bbda-3baa9b80f4a0"
+  },
+  "name":"Billy"
+}

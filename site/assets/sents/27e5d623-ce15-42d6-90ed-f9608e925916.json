@@ -1,0 +1,13 @@
+{
+  "start":33502,
+  "end":33590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n     there's something called \"confluence\", which is an article knowledge\n     base.",
+  "id":"27e5d623-ce15-42d6-90ed-f9608e925916",
+  "params":{
+    "id":"27e5d623-ce15-42d6-90ed-f9608e925916",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

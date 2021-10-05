@@ -1,0 +1,12 @@
+{
+  "start":22703,
+  "end":22725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\u2019s not angry at you.",
+  "id":"fcfeadd8-8d13-44a2-9c48-b4aa4d819a22",
+  "params":{
+    "id":"d7c0ed75-1ca2-4431-85e6-04c67a2aea96"
+  },
+  "name":"Luis B"
+}

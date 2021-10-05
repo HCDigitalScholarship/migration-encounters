@@ -1,0 +1,13 @@
+{
+  "start":46875,
+  "end":46929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   how he's speaking and he's very intelligent.",
+  "id":"c1f80e3c-3ddd-4cc2-9d22-ac49f04f9898",
+  "params":{
+    "id":"c1f80e3c-3ddd-4cc2-9d22-ac49f04f9898",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

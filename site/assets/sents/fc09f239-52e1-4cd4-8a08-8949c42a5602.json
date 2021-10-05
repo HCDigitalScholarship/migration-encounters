@@ -1,0 +1,13 @@
+{
+  "start":51255,
+  "end":51260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mike:",
+  "id":"fc09f239-52e1-4cd4-8a08-8949c42a5602",
+  "params":{
+    "id":"fc09f239-52e1-4cd4-8a08-8949c42a5602",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

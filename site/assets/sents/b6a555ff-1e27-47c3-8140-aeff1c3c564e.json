@@ -1,0 +1,13 @@
+{
+  "start":30642,
+  "end":30703,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it was really scary\n   because like traffic here is nuts.",
+  "id":"b6a555ff-1e27-47c3-8140-aeff1c3c564e",
+  "params":{
+    "id":"b6a555ff-1e27-47c3-8140-aeff1c3c564e",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20608,
+  "end":20702,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This high school is better because it\n   doesn't have a lot of Mexicans\u2026 just unfunded things.",
+  "id":"35d43774-b023-41a3-bd2f-01ef53a9a316",
+  "params":{
+    "id":"35d43774-b023-41a3-bd2f-01ef53a9a316",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

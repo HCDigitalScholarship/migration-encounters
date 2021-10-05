@@ -1,0 +1,12 @@
+{
+  "start":43485,
+  "end":43530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, that's the thing that we were planning.",
+  "id":"c2c2719f-8a67-435c-a232-6539f203092a",
+  "params":{
+    "id":"90277053-eb50-4684-b35e-270631bebc07"
+  },
+  "name":"Rodrigo"
+}

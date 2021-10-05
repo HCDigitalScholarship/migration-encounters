@@ -1,0 +1,13 @@
+{
+  "start":24041,
+  "end":24125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe I'll pay the ticket,\n   but you never know what type of police cop you'll get.",
+  "id":"8c7c7bb7-7ebe-477d-9c6d-a01b17c97c3d",
+  "params":{
+    "id":"8c7c7bb7-7ebe-477d-9c6d-a01b17c97c3d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

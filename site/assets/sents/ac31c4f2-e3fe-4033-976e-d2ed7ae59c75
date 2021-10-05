@@ -1,0 +1,12 @@
+{
+  "start":7509,
+  "end":7560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sorry, my dad knows how to weld boats\n   and stuff.",
+  "id":"ac31c4f2-e3fe-4033-976e-d2ed7ae59c75",
+  "params":{
+    "id":"63b8a997-eb10-4e45-8ef4-1efc63e80072"
+  },
+  "name":"Yair"
+}

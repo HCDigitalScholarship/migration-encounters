@@ -1,0 +1,13 @@
+{
+  "start":23097,
+  "end":23133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't have a normal childhood.",
+  "id":"368b0871-46fd-455e-8ace-e0d6513bab91",
+  "params":{
+    "id":"368b0871-46fd-455e-8ace-e0d6513bab91",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

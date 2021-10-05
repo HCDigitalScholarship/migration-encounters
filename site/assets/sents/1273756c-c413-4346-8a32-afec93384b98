@@ -1,0 +1,12 @@
+{
+  "start":5199,
+  "end":5234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't\n   even claim that name.",
+  "id":"1273756c-c413-4346-8a32-afec93384b98",
+  "params":{
+    "id":"6be24088-5332-41e2-a0fc-d90ba40230cf"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10824,
+  "end":10858,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do your grandparents live\n   here?",
+  "id":"3c99c2bd-f077-4f90-bf55-80e940b5d275",
+  "params":{
+    "id":"3c99c2bd-f077-4f90-bf55-80e940b5d275",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

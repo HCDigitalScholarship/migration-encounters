@@ -1,0 +1,13 @@
+{
+  "start":15507,
+  "end":15511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Huh?",
+  "id":"bf729253-4e23-45b7-8537-39db74a84828",
+  "params":{
+    "id":"bf729253-4e23-45b7-8537-39db74a84828",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14792,
+  "end":14840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then my aunt used to live in ___,\n   California.",
+  "id":"a1cad3cd-1ffc-4cef-83bf-a6b06c961414",
+  "params":{
+    "id":"a1cad3cd-1ffc-4cef-83bf-a6b06c961414",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

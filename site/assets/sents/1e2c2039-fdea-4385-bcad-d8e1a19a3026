@@ -1,0 +1,12 @@
+{
+  "start":6671,
+  "end":6690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   went out.",
+  "id":"1e2c2039-fdea-4385-bcad-d8e1a19a3026",
+  "params":{
+    "id":"98a1769d-a539-426a-9a44-0855939055a5"
+  },
+  "name":"Luis B"
+}

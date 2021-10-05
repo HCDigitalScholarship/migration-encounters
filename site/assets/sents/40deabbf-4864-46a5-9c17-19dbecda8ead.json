@@ -1,0 +1,12 @@
+{
+  "start":6600,
+  "end":6642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was on the\n   phone, dropped the phone.",
+  "id":"40deabbf-4864-46a5-9c17-19dbecda8ead",
+  "params":{
+    "id":"ab0ec386-03b8-48c7-ad38-861df67a48e1"
+  },
+  "name":"Kevin"
+}

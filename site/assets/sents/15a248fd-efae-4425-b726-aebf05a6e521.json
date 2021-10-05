@@ -1,0 +1,13 @@
+{
+  "start":40883,
+  "end":40961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think that growing up in the U.S. you come back with certain\n   values?",
+  "id":"15a248fd-efae-4425-b726-aebf05a6e521",
+  "params":{
+    "id":"15a248fd-efae-4425-b726-aebf05a6e521",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

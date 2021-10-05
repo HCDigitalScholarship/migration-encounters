@@ -1,0 +1,13 @@
+{
+  "start":866,
+  "end":921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I remember waking up kind of\n   like, \"Where am I?\"",
+  "id":"01f92459-9d62-4ea1-bebc-230f682f348f",
+  "params":{
+    "id":"01f92459-9d62-4ea1-bebc-230f682f348f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

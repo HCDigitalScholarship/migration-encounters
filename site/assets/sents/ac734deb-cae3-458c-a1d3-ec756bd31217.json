@@ -1,0 +1,13 @@
+{
+  "start":25992,
+  "end":26015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It really affected her.",
+  "id":"ac734deb-cae3-458c-a1d3-ec756bd31217",
+  "params":{
+    "id":"ac734deb-cae3-458c-a1d3-ec756bd31217",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

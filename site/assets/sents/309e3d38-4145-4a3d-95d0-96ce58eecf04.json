@@ -1,0 +1,13 @@
+{
+  "start":31684,
+  "end":31715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As a person, what do you bring?",
+  "id":"309e3d38-4145-4a3d-95d0-96ce58eecf04",
+  "params":{
+    "id":"309e3d38-4145-4a3d-95d0-96ce58eecf04",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

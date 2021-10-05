@@ -1,0 +1,12 @@
+{
+  "start":208,
+  "end":220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Sure.",
+  "id":"e3c56f94-edbe-400b-9593-d238e1ada67a",
+  "params":{
+    "id":"5ba2d006-efc6-45e1-b091-58c87ed5f4d5"
+  },
+  "name":"Edgar"
+}

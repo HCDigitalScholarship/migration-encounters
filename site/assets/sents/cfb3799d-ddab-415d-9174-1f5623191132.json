@@ -1,0 +1,12 @@
+{
+  "start":15240,
+  "end":15267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can have a conversation.",
+  "id":"cfb3799d-ddab-415d-9174-1f5623191132",
+  "params":{
+    "id":"e88453e5-b14f-4972-b954-afcac0a84c56"
+  },
+  "name":"Beto"
+}

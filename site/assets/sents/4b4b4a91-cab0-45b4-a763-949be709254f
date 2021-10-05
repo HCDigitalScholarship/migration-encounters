@@ -1,0 +1,12 @@
+{
+  "start":31263,
+  "end":31306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would go ask for a job,\n   they say, \"No.",
+  "id":"4b4b4a91-cab0-45b4-a763-949be709254f",
+  "params":{
+    "id":"4e23446d-2cee-41a7-a91d-ddb4a7dcd8b5"
+  },
+  "name":"Sylent"
+}

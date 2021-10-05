@@ -1,0 +1,13 @@
+{
+  "start":30528,
+  "end":30566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would see different kinds of people.",
+  "id":"8990b9b2-67b8-4e3c-89a5-4607b4775bcc",
+  "params":{
+    "id":"8990b9b2-67b8-4e3c-89a5-4607b4775bcc",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

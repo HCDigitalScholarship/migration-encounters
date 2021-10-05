@@ -1,0 +1,13 @@
+{
+  "start":10834,
+  "end":10858,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we don't have papers.",
+  "id":"9e1eddc3-8f9e-4265-96a5-7561fef83f9f",
+  "params":{
+    "id":"9e1eddc3-8f9e-4265-96a5-7561fef83f9f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

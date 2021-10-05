@@ -1,0 +1,12 @@
+{
+  "start":9943,
+  "end":9968,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You lived in Mexico City?",
+  "id":"bed5da81-8ac8-400a-9056-3566af48bbbb",
+  "params":{
+    "id":"efa5560c-8609-4f8c-9354-cb32f957a60e"
+  },
+  "name":"Miguel A"
+}

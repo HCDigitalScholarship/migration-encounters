@@ -1,0 +1,12 @@
+{
+  "start":42255,
+  "end":42283,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tuve que aprender el idioma.",
+  "id":"733ee10a-be3f-40b0-a313-6313fe149391",
+  "params":{
+    "id":"ce7ed387-9ba1-40fe-abb6-a36fb5bb2b23"
+  },
+  "name":"Maria"
+}

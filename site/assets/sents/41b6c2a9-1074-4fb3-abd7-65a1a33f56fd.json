@@ -1,0 +1,13 @@
+{
+  "start":12522,
+  "end":12578,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did your wife come visit you ever or bring you the kids?",
+  "id":"41b6c2a9-1074-4fb3-abd7-65a1a33f56fd",
+  "params":{
+    "id":"41b6c2a9-1074-4fb3-abd7-65a1a33f56fd",
+    "class":"anno"
+  },
+  "name":"Many"
+}

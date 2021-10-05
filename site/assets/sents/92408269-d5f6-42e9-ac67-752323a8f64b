@@ -1,0 +1,12 @@
+{
+  "start":19010,
+  "end":19046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's pretty\n   great.\n \n \n   Anita:",
+  "id":"92408269-d5f6-42e9-ac67-752323a8f64b",
+  "params":{
+    "id":"b0c80b4a-6ccb-4671-a16f-42f25b494579"
+  },
+  "name":"Joana"
+}

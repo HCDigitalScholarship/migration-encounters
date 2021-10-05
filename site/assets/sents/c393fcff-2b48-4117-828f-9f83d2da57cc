@@ -1,0 +1,12 @@
+{
+  "start":30497,
+  "end":30514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We haven't eaten.",
+  "id":"c393fcff-2b48-4117-828f-9f83d2da57cc",
+  "params":{
+    "id":"21184069-25e4-4fb2-a9f8-a4ff1a6ada7f"
+  },
+  "name":"Daniel"
+}

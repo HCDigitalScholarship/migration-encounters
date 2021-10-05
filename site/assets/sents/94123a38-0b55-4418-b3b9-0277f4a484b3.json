@@ -1,0 +1,13 @@
+{
+  "start":33162,
+  "end":33277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think a few years back, they had flights to\n   Mexico City, but they canceled that with the Trump administration.",
+  "id":"94123a38-0b55-4418-b3b9-0277f4a484b3",
+  "params":{
+    "id":"94123a38-0b55-4418-b3b9-0277f4a484b3",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

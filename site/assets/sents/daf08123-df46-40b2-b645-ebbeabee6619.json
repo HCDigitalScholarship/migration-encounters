@@ -1,0 +1,13 @@
+{
+  "start":70500,
+  "end":70516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All right, cool.",
+  "id":"daf08123-df46-40b2-b645-ebbeabee6619",
+  "params":{
+    "id":"daf08123-df46-40b2-b645-ebbeabee6619",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

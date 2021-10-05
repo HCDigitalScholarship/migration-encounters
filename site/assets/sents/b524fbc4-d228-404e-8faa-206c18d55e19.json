@@ -1,0 +1,12 @@
+{
+  "start":13320,
+  "end":13363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: And what were you doing?\n \n \n   Jose:",
+  "id":"b524fbc4-d228-404e-8faa-206c18d55e19",
+  "params":{
+    "id":"6cca18fe-2987-40f1-9417-a4ecf8d8d5c9"
+  },
+  "name":"Jose"
+}

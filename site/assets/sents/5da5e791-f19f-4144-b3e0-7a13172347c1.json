@@ -1,0 +1,13 @@
+{
+  "start":15056,
+  "end":15170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n reason I went to the British restaurant was because I was at Applebee's,\n and me and my dad would bump heads.",
+  "id":"5da5e791-f19f-4144-b3e0-7a13172347c1",
+  "params":{
+    "id":"5da5e791-f19f-4144-b3e0-7a13172347c1",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

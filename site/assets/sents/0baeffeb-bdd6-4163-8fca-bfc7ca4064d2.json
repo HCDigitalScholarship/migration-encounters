@@ -1,0 +1,13 @@
+{
+  "start":45309,
+  "end":45331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're born as a human.",
+  "id":"0baeffeb-bdd6-4163-8fca-bfc7ca4064d2",
+  "params":{
+    "id":"0baeffeb-bdd6-4163-8fca-bfc7ca4064d2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

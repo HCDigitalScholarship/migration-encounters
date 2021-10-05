@@ -1,0 +1,13 @@
+{
+  "start":26716,
+  "end":26739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She still stayed there.",
+  "id":"cfd8e081-1157-40b7-8053-8a8f9a76c675",
+  "params":{
+    "id":"cfd8e081-1157-40b7-8053-8a8f9a76c675",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

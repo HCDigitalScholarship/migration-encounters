@@ -1,0 +1,12 @@
+{
+  "start":22562,
+  "end":22600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you hope for, for your future?",
+  "id":"ef13e147-a32e-458e-a888-6987c57bfd8a",
+  "params":{
+    "id":"2dfc54e1-d308-4672-a342-155aa12fd796"
+  },
+  "name":"Yordani"
+}

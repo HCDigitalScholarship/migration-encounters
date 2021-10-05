@@ -1,0 +1,12 @@
+{
+  "start":50969,
+  "end":51028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, do you currently live with anyone or do you live alone?",
+  "id":"cd201653-c8d3-41f5-8cf0-03fab2b185bf",
+  "params":{
+    "id":"f16b7a12-20e4-4714-b52c-fa40b232c369"
+  },
+  "name":"Joseph"
+}

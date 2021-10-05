@@ -1,0 +1,12 @@
+{
+  "start":34685,
+  "end":34731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess that's what made me turn a little bit.",
+  "id":"6b0e8992-4cb1-4d20-82bc-3636f5eb8bc5",
+  "params":{
+    "id":"6b4b4a21-9d09-4137-a927-70ef16259c45"
+  },
+  "name":"Sylent"
+}

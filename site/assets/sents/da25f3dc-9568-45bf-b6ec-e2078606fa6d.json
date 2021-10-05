@@ -1,0 +1,13 @@
+{
+  "start":25824,
+  "end":25903,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wouldn't want to go there\n   because of all the movement, people that I know.",
+  "id":"da25f3dc-9568-45bf-b6ec-e2078606fa6d",
+  "params":{
+    "id":"da25f3dc-9568-45bf-b6ec-e2078606fa6d",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

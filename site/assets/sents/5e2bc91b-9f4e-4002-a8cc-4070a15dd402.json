@@ -1,0 +1,12 @@
+{
+  "start":7545,
+  "end":7686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you dropped out of high school to help with your dad because he\n was sick and then you got your GED without studying.\n      \n      \n Ben:",
+  "id":"5e2bc91b-9f4e-4002-a8cc-4070a15dd402",
+  "params":{
+    "id":"01dd0df6-9c7d-44eb-9fd9-bd37bba1b970"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13902,
+  "end":13919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   other side",
+  "id":"2837872d-c6cd-4fc4-b114-ef3a42148890",
+  "params":{
+    "id":"2837872d-c6cd-4fc4-b114-ef3a42148890",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34569,
+  "end":34627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The government\n   people that used to come, they liked me.",
+  "id":"5d5cccc5-85be-46ed-9e99-3ac44afedd40",
+  "params":{
+    "id":"5d5cccc5-85be-46ed-9e99-3ac44afedd40",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

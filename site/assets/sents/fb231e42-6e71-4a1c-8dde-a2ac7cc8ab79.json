@@ -1,0 +1,13 @@
+{
+  "start":12829,
+  "end":12920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about Scholastic storybooks, and also tell me about where\n   you would go and read.",
+  "id":"fb231e42-6e71-4a1c-8dde-a2ac7cc8ab79",
+  "params":{
+    "id":"fb231e42-6e71-4a1c-8dde-a2ac7cc8ab79",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

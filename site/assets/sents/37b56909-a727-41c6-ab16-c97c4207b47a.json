@@ -1,0 +1,13 @@
+{
+  "start":30158,
+  "end":30277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I'm wondering, because your son came here so little, whether he\n   might be more Mexican than you are in some ways.",
+  "id":"37b56909-a727-41c6-ab16-c97c4207b47a",
+  "params":{
+    "id":"37b56909-a727-41c6-ab16-c97c4207b47a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

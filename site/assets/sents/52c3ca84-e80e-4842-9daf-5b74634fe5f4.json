@@ -1,0 +1,13 @@
+{
+  "start":46095,
+  "end":46109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, it's okay.",
+  "id":"52c3ca84-e80e-4842-9daf-5b74634fe5f4",
+  "params":{
+    "id":"52c3ca84-e80e-4842-9daf-5b74634fe5f4",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

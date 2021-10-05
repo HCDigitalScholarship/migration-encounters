@@ -1,0 +1,13 @@
+{
+  "start":1746,
+  "end":1792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad was in ___, but we didn't have contact.",
+  "id":"24bb8490-0cd7-417a-8432-412138390696",
+  "params":{
+    "id":"24bb8490-0cd7-417a-8432-412138390696",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

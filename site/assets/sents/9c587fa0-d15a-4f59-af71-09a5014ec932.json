@@ -1,0 +1,13 @@
+{
+  "start":19069,
+  "end":19101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To be honest, I don't feel safe.",
+  "id":"9c587fa0-d15a-4f59-af71-09a5014ec932",
+  "params":{
+    "id":"9c587fa0-d15a-4f59-af71-09a5014ec932",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

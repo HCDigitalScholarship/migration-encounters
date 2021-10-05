@@ -1,0 +1,13 @@
+{
+  "start":30463,
+  "end":30489,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They never did that to me.",
+  "id":"b66e05ff-5283-437f-b66e-ad7012402ce7",
+  "params":{
+    "id":"b66e05ff-5283-437f-b66e-ad7012402ce7",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

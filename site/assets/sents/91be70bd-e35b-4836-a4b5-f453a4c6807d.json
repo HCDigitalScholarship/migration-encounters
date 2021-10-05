@@ -1,0 +1,13 @@
+{
+  "start":22502,
+  "end":22509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hope.",
+  "id":"91be70bd-e35b-4836-a4b5-f453a4c6807d",
+  "params":{
+    "id":"91be70bd-e35b-4836-a4b5-f453a4c6807d",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

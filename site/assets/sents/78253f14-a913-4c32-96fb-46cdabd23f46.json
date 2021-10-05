@@ -1,0 +1,13 @@
+{
+  "start":32865,
+  "end":32904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When they, \"Oh I put on my new tattoo.\"",
+  "id":"78253f14-a913-4c32-96fb-46cdabd23f46",
+  "params":{
+    "id":"78253f14-a913-4c32-96fb-46cdabd23f46",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

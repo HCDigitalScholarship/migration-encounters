@@ -1,0 +1,13 @@
+{
+  "start":53382,
+  "end":53588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You learn to love your country\n   when you're young, because of your parents and your culture, but at the\n   same time you see all these opportunities that are given to you by going to\n   the United States.",
+  "id":"25c4e73d-4992-4603-acd2-7de007dddfc7",
+  "params":{
+    "id":"25c4e73d-4992-4603-acd2-7de007dddfc7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14865,
+  "end":14893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n cool, bro, it's cool.\"",
+  "id":"b28781a3-c441-4fa4-a184-82d3cd4fb5ed",
+  "params":{
+    "id":"90e63a7d-af0b-4043-9f5d-75658c7d71d1"
+  },
+  "name":"Billy"
+}

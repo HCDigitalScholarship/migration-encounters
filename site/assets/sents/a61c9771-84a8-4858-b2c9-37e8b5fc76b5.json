@@ -1,0 +1,13 @@
+{
+  "start":13344,
+  "end":13370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not actually American.",
+  "id":"a61c9771-84a8-4858-b2c9-37e8b5fc76b5",
+  "params":{
+    "id":"a61c9771-84a8-4858-b2c9-37e8b5fc76b5",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

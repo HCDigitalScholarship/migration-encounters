@@ -1,0 +1,12 @@
+{
+  "start":20579,
+  "end":20598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it called?",
+  "id":"a18fe55f-ad74-46e1-a72d-b7307f054abd",
+  "params":{
+    "id":"fc24c879-73cb-4187-afff-86eb3206ea6f"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6092,
+  "end":6137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You would like to play and all that\n   stuff.",
+  "id":"8e91fa7b-1c78-41a4-a198-1922d85a3ca0",
+  "params":{
+    "id":"8e91fa7b-1c78-41a4-a198-1922d85a3ca0",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

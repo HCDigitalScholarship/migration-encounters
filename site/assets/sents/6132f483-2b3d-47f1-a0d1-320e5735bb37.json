@@ -1,0 +1,13 @@
+{
+  "start":32529,
+  "end":32540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I miss him.",
+  "id":"6132f483-2b3d-47f1-a0d1-320e5735bb37",
+  "params":{
+    "id":"6132f483-2b3d-47f1-a0d1-320e5735bb37",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

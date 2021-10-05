@@ -1,0 +1,13 @@
+{
+  "start":29996,
+  "end":30009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, totally.",
+  "id":"c286e58d-7389-4b57-aa0c-f45498789635",
+  "params":{
+    "id":"c286e58d-7389-4b57-aa0c-f45498789635",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

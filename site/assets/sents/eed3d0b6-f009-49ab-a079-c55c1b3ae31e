@@ -1,0 +1,12 @@
+{
+  "start":32982,
+  "end":32994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I come over.",
+  "id":"eed3d0b6-f009-49ab-a079-c55c1b3ae31e",
+  "params":{
+    "id":"7025b6ec-e430-4e98-98ed-c1bf6adf50db"
+  },
+  "name":"Daniel"
+}

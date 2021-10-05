@@ -1,0 +1,12 @@
+{
+  "start":971,
+  "end":1066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know your dad, but\n   it's not like you have a big memory of him or a bond with him, right?",
+  "id":"d967c067-86e1-432c-9817-8fec70b004ba",
+  "params":{
+    "id":"21b26dd5-ce71-4329-9860-78e7f119c809"
+  },
+  "name":"Carlos"
+}

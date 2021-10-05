@@ -1,0 +1,12 @@
+{
+  "start":53061,
+  "end":53121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now I kind of believe it and it's kind of like, \"Okay, yeah.",
+  "id":"e97d21f4-f737-4ee4-9d4d-86539188b9fc",
+  "params":{
+    "id":"af4f3151-99d3-493b-919e-e6d73eedba00"
+  },
+  "name":"Mike"
+}

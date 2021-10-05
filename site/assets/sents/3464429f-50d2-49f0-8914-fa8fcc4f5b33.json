@@ -1,0 +1,13 @@
+{
+  "start":24360,
+  "end":24411,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I know that you're not an American citizen.",
+  "id":"3464429f-50d2-49f0-8914-fa8fcc4f5b33",
+  "params":{
+    "id":"3464429f-50d2-49f0-8914-fa8fcc4f5b33",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

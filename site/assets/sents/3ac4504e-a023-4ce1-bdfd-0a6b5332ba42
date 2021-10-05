@@ -1,0 +1,12 @@
+{
+  "start":22880,
+  "end":22918,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No es que\n     no, no va a estar bien.",
+  "id":"3ac4504e-a023-4ce1-bdfd-0a6b5332ba42",
+  "params":{
+    "id":"d8c904af-6679-40e2-a046-ba5e675ebe75"
+  },
+  "name":"Maria"
+}

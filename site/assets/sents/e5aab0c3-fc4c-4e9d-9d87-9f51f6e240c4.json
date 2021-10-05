@@ -1,0 +1,13 @@
+{
+  "start":16851,
+  "end":16876,
+  "label":"SENT",
+  "type":"sent",
+  "text":"La segunda vez, lo mismo.",
+  "id":"e5aab0c3-fc4c-4e9d-9d87-9f51f6e240c4",
+  "params":{
+    "id":"e5aab0c3-fc4c-4e9d-9d87-9f51f6e240c4",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

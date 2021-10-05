@@ -1,0 +1,12 @@
+{
+  "start":8530,
+  "end":8572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you did that after you came back here?",
+  "id":"71af5c91-39ec-47b1-89db-9b7c07824d53",
+  "params":{
+    "id":"74899b4e-40c8-43ec-98b2-50645ec820ac"
+  },
+  "name":"Ivan"
+}

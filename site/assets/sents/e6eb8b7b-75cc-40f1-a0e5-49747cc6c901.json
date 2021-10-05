@@ -1,0 +1,13 @@
+{
+  "start":56023,
+  "end":56035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cuauht\u00e9moc :",
+  "id":"e6eb8b7b-75cc-40f1-a0e5-49747cc6c901",
+  "params":{
+    "id":"e6eb8b7b-75cc-40f1-a0e5-49747cc6c901",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

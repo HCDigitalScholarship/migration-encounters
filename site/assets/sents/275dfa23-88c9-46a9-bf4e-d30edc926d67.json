@@ -1,0 +1,13 @@
+{
+  "start":35475,
+  "end":35502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Who is\n it?\"",
+  "id":"275dfa23-88c9-46a9-bf4e-d30edc926d67",
+  "params":{
+    "id":"275dfa23-88c9-46a9-bf4e-d30edc926d67",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

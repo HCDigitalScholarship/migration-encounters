@@ -1,0 +1,13 @@
+{
+  "start":24611,
+  "end":24645,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are you\n going to Mexico City?",
+  "id":"3e818c54-a6bc-4e32-b8e8-dad6b8118886",
+  "params":{
+    "id":"3e818c54-a6bc-4e32-b8e8-dad6b8118886",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

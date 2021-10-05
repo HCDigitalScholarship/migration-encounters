@@ -1,0 +1,13 @@
+{
+  "start":38014,
+  "end":38029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's growing up",
+  "id":"3b65da6c-260d-47f5-861c-053ac13cfe79",
+  "params":{
+    "id":"3b65da6c-260d-47f5-861c-053ac13cfe79",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

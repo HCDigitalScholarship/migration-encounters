@@ -1,0 +1,13 @@
+{
+  "start":29895,
+  "end":29923,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the way I saw things.",
+  "id":"1b1e7ece-08f1-48b4-a86e-ddbdcd22c8ed",
+  "params":{
+    "id":"1b1e7ece-08f1-48b4-a86e-ddbdcd22c8ed",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

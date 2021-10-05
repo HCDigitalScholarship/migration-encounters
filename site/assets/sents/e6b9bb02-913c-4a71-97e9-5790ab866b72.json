@@ -1,0 +1,13 @@
+{
+  "start":8897,
+  "end":8925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d\n \n \n   Anne: That's right.",
+  "id":"e6b9bb02-913c-4a71-97e9-5790ab866b72",
+  "params":{
+    "id":"e6b9bb02-913c-4a71-97e9-5790ab866b72",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

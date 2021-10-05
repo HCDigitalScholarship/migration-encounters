@@ -1,0 +1,13 @@
+{
+  "start":21155,
+  "end":21174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They became normal.",
+  "id":"54cb7d6a-76cd-4748-92c6-fc26bd82cfb0",
+  "params":{
+    "id":"54cb7d6a-76cd-4748-92c6-fc26bd82cfb0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

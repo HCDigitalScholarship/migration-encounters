@@ -1,0 +1,12 @@
+{
+  "start":35062,
+  "end":35121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Didn't they just get\n   brought here on the transportation?",
+  "id":"590a5b57-4183-4908-a7b0-a6508ffd433c",
+  "params":{
+    "id":"756d498e-39d4-4671-be0f-f4154e133dab"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8120,
+  "end":8179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I called him just to tell him I'm here in Nuevo Laredo.",
+  "id":"d280e3e8-31f3-4ee6-bdac-afb1c584672b",
+  "params":{
+    "id":"d280e3e8-31f3-4ee6-bdac-afb1c584672b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

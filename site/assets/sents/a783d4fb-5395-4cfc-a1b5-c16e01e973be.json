@@ -1,0 +1,13 @@
+{
+  "start":8284,
+  "end":8315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"No, I'm not going to get down.",
+  "id":"a783d4fb-5395-4cfc-a1b5-c16e01e973be",
+  "params":{
+    "id":"a783d4fb-5395-4cfc-a1b5-c16e01e973be",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

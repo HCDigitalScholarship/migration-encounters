@@ -1,0 +1,13 @@
+{
+  "start":28489,
+  "end":28544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you're like,\n   \"Yeah man, I got to get this money.\"",
+  "id":"4a9380c3-ad0f-4c8b-8cb7-b998727f4303",
+  "params":{
+    "id":"4a9380c3-ad0f-4c8b-8cb7-b998727f4303",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

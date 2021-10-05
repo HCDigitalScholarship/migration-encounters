@@ -1,0 +1,12 @@
+{
+  "start":65286,
+  "end":65349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, you seem to have dealt with your anger management issues.",
+  "id":"5693c445-0ae2-4836-9c06-74e8e618562d",
+  "params":{
+    "id":"1acfef08-2daa-47ca-9073-b59aee429a13"
+  },
+  "name":"Axel"
+}

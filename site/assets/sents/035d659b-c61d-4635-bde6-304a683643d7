@@ -1,0 +1,12 @@
+{
+  "start":35594,
+  "end":35644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, that's true, that's not even in the equation.",
+  "id":"035d659b-c61d-4635-bde6-304a683643d7",
+  "params":{
+    "id":"b0ea034b-db80-4f58-93b8-081d9efa1812"
+  },
+  "name":"Ben"
+}

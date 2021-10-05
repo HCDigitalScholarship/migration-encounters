@@ -1,0 +1,12 @@
+{
+  "start":23614,
+  "end":23644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I don't\n   know how to go.",
+  "id":"c7b16c25-88ab-45d6-8011-d2309a9549ec",
+  "params":{
+    "id":"5e901f51-6994-4f61-90d6-0ac7fc84a729"
+  },
+  "name":"Edgar"
+}

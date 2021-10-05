@@ -1,0 +1,13 @@
+{
+  "start":23878,
+  "end":23904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The third year was so bad.",
+  "id":"780f40f1-f1a7-41c7-97f2-faa5f973ebe3",
+  "params":{
+    "id":"780f40f1-f1a7-41c7-97f2-faa5f973ebe3",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

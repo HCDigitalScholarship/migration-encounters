@@ -1,0 +1,13 @@
+{
+  "start":1255,
+  "end":1372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I first got to the States, it was\n   a whole new thing, different language, different people, different culture.",
+  "id":"5a5fccb8-49b5-4de4-8be0-1d33af06077a",
+  "params":{
+    "id":"5a5fccb8-49b5-4de4-8be0-1d33af06077a",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23970,
+  "end":23991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to be okay.",
+  "id":"c9aab165-b6c6-4b2e-8449-ee618d8713be",
+  "params":{
+    "id":"93c38607-2f99-45a4-8bd7-e2a55358f816"
+  },
+  "name":"Many"
+}

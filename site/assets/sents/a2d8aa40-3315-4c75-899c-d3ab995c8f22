@@ -1,0 +1,12 @@
+{
+  "start":9864,
+  "end":9934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That was like, \"Lucious, Carlos stole your stuff,\" and he got mad.",
+  "id":"a2d8aa40-3315-4c75-899c-d3ab995c8f22",
+  "params":{
+    "id":"403d578c-5c22-42d7-a99b-1381dd9643e4"
+  },
+  "name":"Carlos"
+}

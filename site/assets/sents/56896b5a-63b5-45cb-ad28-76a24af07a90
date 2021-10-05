@@ -1,0 +1,12 @@
+{
+  "start":65910,
+  "end":65955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like,\n \"This stuff should make you mad.",
+  "id":"56896b5a-63b5-45cb-ad28-76a24af07a90",
+  "params":{
+    "id":"44e8aaa0-d85d-421e-b635-3e38ade2fe7d"
+  },
+  "name":"Axel"
+}

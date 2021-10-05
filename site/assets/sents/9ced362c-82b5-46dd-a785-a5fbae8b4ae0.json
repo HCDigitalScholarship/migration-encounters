@@ -1,0 +1,13 @@
+{
+  "start":24058,
+  "end":24085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And when were you detained?",
+  "id":"9ced362c-82b5-46dd-a785-a5fbae8b4ae0",
+  "params":{
+    "id":"9ced362c-82b5-46dd-a785-a5fbae8b4ae0",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

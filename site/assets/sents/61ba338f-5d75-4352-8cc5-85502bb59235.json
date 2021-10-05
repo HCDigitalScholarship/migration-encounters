@@ -1,0 +1,13 @@
+{
+  "start":7299,
+  "end":7341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: At the hospital when you were born.",
+  "id":"61ba338f-5d75-4352-8cc5-85502bb59235",
+  "params":{
+    "id":"61ba338f-5d75-4352-8cc5-85502bb59235",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

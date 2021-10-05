@@ -1,0 +1,12 @@
+{
+  "start":40839,
+  "end":40890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These are great people, they're Hispanic\n   people.",
+  "id":"c51b99d3-e63d-4135-9f42-f3f1eab992d2",
+  "params":{
+    "id":"44a5d64c-4c02-47e6-9b52-fc38b0285657"
+  },
+  "name":"Julio Cesar"
+}

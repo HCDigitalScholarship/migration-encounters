@@ -1,0 +1,13 @@
+{
+  "start":31840,
+  "end":31872,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d I asked my mom a lot of stuff.",
+  "id":"497dd005-9155-4652-a7ab-ee7e1b21db35",
+  "params":{
+    "id":"497dd005-9155-4652-a7ab-ee7e1b21db35",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19901,
+  "end":19923,
+  "label":"SENT",
+  "type":"sent",
+  "text":"gave me a work permit.",
+  "id":"15b5051c-07f9-44e8-8473-ce8db7f9c8fd",
+  "params":{
+    "id":"15b5051c-07f9-44e8-8473-ce8db7f9c8fd",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

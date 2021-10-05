@@ -1,0 +1,13 @@
+{
+  "start":6022,
+  "end":6114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to\n   build flower beds and ponds and plant a lot of trees and everything,\n   fences.",
+  "id":"19bbb15e-9133-4dda-bf00-4aaf7555177d",
+  "params":{
+    "id":"19bbb15e-9133-4dda-bf00-4aaf7555177d",
+    "class":"anno"
+  },
+  "name":"Many"
+}

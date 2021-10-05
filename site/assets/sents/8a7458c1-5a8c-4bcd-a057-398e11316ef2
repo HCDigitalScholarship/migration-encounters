@@ -1,0 +1,12 @@
+{
+  "start":30819,
+  "end":30875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well thank you Many, so much, for telling me your story.",
+  "id":"8a7458c1-5a8c-4bcd-a057-398e11316ef2",
+  "params":{
+    "id":"91f03ebb-e595-4edd-ae8d-6da3fdb4ec5f"
+  },
+  "name":"Many"
+}

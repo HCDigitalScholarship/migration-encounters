@@ -1,0 +1,12 @@
+{
+  "start":22514,
+  "end":22535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n Michigan records",
+  "id":"64a709e6-fcee-4c74-bf10-ef9e4ecec1b4",
+  "params":{
+    "id":"4c1af954-7a0d-4820-ae7b-5cd2be9b8fd9"
+  },
+  "name":"Ben"
+}

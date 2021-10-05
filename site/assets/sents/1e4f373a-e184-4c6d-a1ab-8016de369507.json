@@ -1,0 +1,13 @@
+{
+  "start":25504,
+  "end":25547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that you need to go to history class.",
+  "id":"1e4f373a-e184-4c6d-a1ab-8016de369507",
+  "params":{
+    "id":"1e4f373a-e184-4c6d-a1ab-8016de369507",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":65125,
+  "end":65140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can enlist.",
+  "id":"a3ba93c3-214b-414f-8d71-a37c637fa1c2",
+  "params":{
+    "id":"a3ba93c3-214b-414f-8d71-a37c637fa1c2",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

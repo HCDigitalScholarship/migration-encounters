@@ -1,0 +1,12 @@
+{
+  "start":30763,
+  "end":30788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The Pledge of Allegiance.",
+  "id":"4f2c9ec2-cbcb-45d0-9db7-65f59f70c160",
+  "params":{
+    "id":"ed0a3d14-7fd1-4794-8032-36ad4ba639cf"
+  },
+  "name":"Beto"
+}

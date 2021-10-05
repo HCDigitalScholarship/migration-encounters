@@ -1,0 +1,13 @@
+{
+  "start":34401,
+  "end":34429,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   always say I'm Mexican.",
+  "id":"835545c2-03d7-40f4-ab8c-7148f189d791",
+  "params":{
+    "id":"835545c2-03d7-40f4-ab8c-7148f189d791",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

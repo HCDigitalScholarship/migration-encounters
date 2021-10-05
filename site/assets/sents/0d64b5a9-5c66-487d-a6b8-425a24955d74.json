@@ -1,0 +1,13 @@
+{
+  "start":12394,
+  "end":12467,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This area right here is not really good for us, especially at\n nighttime.",
+  "id":"0d64b5a9-5c66-487d-a6b8-425a24955d74",
+  "params":{
+    "id":"0d64b5a9-5c66-487d-a6b8-425a24955d74",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

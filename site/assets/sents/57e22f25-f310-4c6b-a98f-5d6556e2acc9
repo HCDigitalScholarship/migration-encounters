@@ -1,0 +1,12 @@
+{
+  "start":22360,
+  "end":22414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't really have a\n   relationship with my family.",
+  "id":"57e22f25-f310-4c6b-a98f-5d6556e2acc9",
+  "params":{
+    "id":"8ef468bb-7072-4503-a998-6cf2f081c79e"
+  },
+  "name":"Mike"
+}

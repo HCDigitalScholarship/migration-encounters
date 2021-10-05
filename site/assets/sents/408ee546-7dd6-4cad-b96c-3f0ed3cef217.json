@@ -1,0 +1,13 @@
+{
+  "start":23439,
+  "end":23473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Beto:\n \n \n     American breakfast.",
+  "id":"408ee546-7dd6-4cad-b96c-3f0ed3cef217",
+  "params":{
+    "id":"408ee546-7dd6-4cad-b96c-3f0ed3cef217",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

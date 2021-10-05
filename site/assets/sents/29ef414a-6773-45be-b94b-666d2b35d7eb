@@ -1,0 +1,12 @@
+{
+  "start":10683,
+  "end":10717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were they working all\n   the time?",
+  "id":"29ef414a-6773-45be-b94b-666d2b35d7eb",
+  "params":{
+    "id":"b96c2cc8-16a5-4545-8c07-32833ba057aa"
+  },
+  "name":"Sylent"
+}

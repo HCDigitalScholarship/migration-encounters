@@ -1,0 +1,12 @@
+{
+  "start":17489,
+  "end":17508,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's quite a bit.",
+  "id":"1af3ff5b-6d19-4b8a-8966-929f8ef762b8",
+  "params":{
+    "id":"a5ed3c34-333a-4f15-9f0b-483da22f2123"
+  },
+  "name":"Frank"
+}

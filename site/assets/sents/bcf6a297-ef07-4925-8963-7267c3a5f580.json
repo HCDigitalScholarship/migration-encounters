@@ -1,0 +1,13 @@
+{
+  "start":13432,
+  "end":13468,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know, April\n   Fool's maybe?",
+  "id":"bcf6a297-ef07-4925-8963-7267c3a5f580",
+  "params":{
+    "id":"bcf6a297-ef07-4925-8963-7267c3a5f580",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

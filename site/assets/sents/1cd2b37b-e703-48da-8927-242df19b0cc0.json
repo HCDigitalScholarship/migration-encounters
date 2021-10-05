@@ -1,0 +1,13 @@
+{
+  "start":12011,
+  "end":12056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got here to Mexico, I got here to Teletech.",
+  "id":"1cd2b37b-e703-48da-8927-242df19b0cc0",
+  "params":{
+    "id":"1cd2b37b-e703-48da-8927-242df19b0cc0",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

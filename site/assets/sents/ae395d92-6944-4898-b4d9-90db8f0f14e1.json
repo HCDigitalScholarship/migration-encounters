@@ -1,0 +1,13 @@
+{
+  "start":11509,
+  "end":11583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I told her to come up there and visit and I started discuss with\n her.",
+  "id":"ae395d92-6944-4898-b4d9-90db8f0f14e1",
+  "params":{
+    "id":"ae395d92-6944-4898-b4d9-90db8f0f14e1",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

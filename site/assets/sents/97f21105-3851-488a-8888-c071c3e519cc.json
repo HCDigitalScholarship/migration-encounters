@@ -1,0 +1,13 @@
+{
+  "start":9915,
+  "end":9948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I could, I'd\n   stay in there.",
+  "id":"97f21105-3851-488a-8888-c071c3e519cc",
+  "params":{
+    "id":"97f21105-3851-488a-8888-c071c3e519cc",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":33342,
+  "end":33397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   mentality switches to, \"Look, you're on your own.",
+  "id":"f4eeb614-c5da-446d-83d9-ae9a8dcbc406",
+  "params":{
+    "id":"8844161b-f71a-4d99-9490-872f34f3a03a"
+  },
+  "name":"Kevin"
+}

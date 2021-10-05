@@ -1,0 +1,12 @@
+{
+  "start":16089,
+  "end":16114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Explain a little\n   more.",
+  "id":"3377d43a-3f81-4230-a901-40c74d8e92b1",
+  "params":{
+    "id":"a8cab84b-e47f-48be-9fd8-7f61e631b34b"
+  },
+  "name":"Ruben"
+}

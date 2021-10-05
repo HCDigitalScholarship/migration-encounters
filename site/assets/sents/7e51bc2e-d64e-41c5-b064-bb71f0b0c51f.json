@@ -1,0 +1,13 @@
+{
+  "start":23606,
+  "end":23631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I think there's work.",
+  "id":"7e51bc2e-d64e-41c5-b064-bb71f0b0c51f",
+  "params":{
+    "id":"7e51bc2e-d64e-41c5-b064-bb71f0b0c51f",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

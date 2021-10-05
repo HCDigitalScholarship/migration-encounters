@@ -1,0 +1,13 @@
+{
+  "start":5158,
+  "end":5187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It helped, probably [Laughs].",
+  "id":"48fcca19-4f91-46d8-9900-fc0d7a8f652a",
+  "params":{
+    "id":"48fcca19-4f91-46d8-9900-fc0d7a8f652a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

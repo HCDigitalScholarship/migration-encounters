@@ -1,0 +1,13 @@
+{
+  "start":8501,
+  "end":8562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So why do you think that is and why do you think\n you didn't?",
+  "id":"04e0f0af-2c28-408d-b3ff-ff828f005505",
+  "params":{
+    "id":"04e0f0af-2c28-408d-b3ff-ff828f005505",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

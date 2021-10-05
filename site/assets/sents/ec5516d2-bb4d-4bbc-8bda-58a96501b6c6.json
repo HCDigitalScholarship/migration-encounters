@@ -1,0 +1,13 @@
+{
+  "start":5789,
+  "end":5824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it like in\n   that moment?",
+  "id":"ec5516d2-bb4d-4bbc-8bda-58a96501b6c6",
+  "params":{
+    "id":"ec5516d2-bb4d-4bbc-8bda-58a96501b6c6",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

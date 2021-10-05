@@ -1,0 +1,12 @@
+{
+  "start":31235,
+  "end":31295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's crazy\n   because I was the shortest one I remember.",
+  "id":"cd1d8a4a-12a7-4b50-afeb-b4c919627645",
+  "params":{
+    "id":"f8ebba8b-66fc-4f4d-a481-5999cc6b792d"
+  },
+  "name":"Mike"
+}

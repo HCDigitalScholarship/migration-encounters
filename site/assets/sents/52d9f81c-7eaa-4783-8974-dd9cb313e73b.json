@@ -1,0 +1,13 @@
+{
+  "start":15204,
+  "end":15241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She goes,\n \"Well where are we going?\"",
+  "id":"52d9f81c-7eaa-4783-8974-dd9cb313e73b",
+  "params":{
+    "id":"52d9f81c-7eaa-4783-8974-dd9cb313e73b",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

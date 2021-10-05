@@ -1,0 +1,13 @@
+{
+  "start":17167,
+  "end":17232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been to juvie for half a year\n   for violating my probation.",
+  "id":"d0438842-39d2-4162-9ff2-1fdf131fe12a",
+  "params":{
+    "id":"d0438842-39d2-4162-9ff2-1fdf131fe12a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

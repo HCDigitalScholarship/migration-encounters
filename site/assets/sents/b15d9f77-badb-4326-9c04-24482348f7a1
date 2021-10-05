@@ -1,0 +1,12 @@
+{
+  "start":25476,
+  "end":25536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She went to the U.S. and she died when she was 21 years old.",
+  "id":"b15d9f77-badb-4326-9c04-24482348f7a1",
+  "params":{
+    "id":"6dea76e7-5eaa-4b7c-8305-13ef64737b85"
+  },
+  "name":"Billy"
+}

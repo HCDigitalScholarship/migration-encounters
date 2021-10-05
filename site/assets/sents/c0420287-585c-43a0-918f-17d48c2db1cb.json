@@ -1,0 +1,13 @@
+{
+  "start":45970,
+  "end":45990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Trump is a populist.",
+  "id":"c0420287-585c-43a0-918f-17d48c2db1cb",
+  "params":{
+    "id":"c0420287-585c-43a0-918f-17d48c2db1cb",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

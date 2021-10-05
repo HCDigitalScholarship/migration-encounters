@@ -1,0 +1,12 @@
+{
+  "start":26132,
+  "end":26174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like \"I'm sorry, I\n   tried to wait.",
+  "id":"019b0d0f-ddfb-4a31-af61-6ccf6627c6d3",
+  "params":{
+    "id":"b6b4ece2-46ef-4996-ba82-51acd23223ff"
+  },
+  "name":"Cris"
+}

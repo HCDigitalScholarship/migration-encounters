@@ -1,0 +1,13 @@
+{
+  "start":21745,
+  "end":21826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a guy in good working condition, just like, \u201cHey, give me\n   some money.\u201d",
+  "id":"f569cb9c-34f5-43d6-abb0-5b7553a99791",
+  "params":{
+    "id":"f569cb9c-34f5-43d6-abb0-5b7553a99791",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

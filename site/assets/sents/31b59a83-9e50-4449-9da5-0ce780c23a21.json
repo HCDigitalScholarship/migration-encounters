@@ -1,0 +1,13 @@
+{
+  "start":19778,
+  "end":19783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Many:",
+  "id":"31b59a83-9e50-4449-9da5-0ce780c23a21",
+  "params":{
+    "id":"31b59a83-9e50-4449-9da5-0ce780c23a21",
+    "class":"anno"
+  },
+  "name":"Many"
+}

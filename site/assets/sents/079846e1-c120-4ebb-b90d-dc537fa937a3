@@ -1,0 +1,12 @@
+{
+  "start":43053,
+  "end":43142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were held by ICE [Immigrations and Customs Enforcemen] for\n detention for two months?",
+  "id":"079846e1-c120-4ebb-b90d-dc537fa937a3",
+  "params":{
+    "id":"35fcf57d-51a2-4fd6-b1c9-b8922799b878"
+  },
+  "name":"Angelo"
+}

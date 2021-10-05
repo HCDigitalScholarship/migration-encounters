@@ -1,0 +1,13 @@
+{
+  "start":19502,
+  "end":19550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't necessarily need to go somewhere else.",
+  "id":"70afc146-ca50-46df-b7e8-5c12baea27e0",
+  "params":{
+    "id":"70afc146-ca50-46df-b7e8-5c12baea27e0",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

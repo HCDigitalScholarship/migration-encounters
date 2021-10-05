@@ -1,0 +1,12 @@
+{
+  "start":27456,
+  "end":27466,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, wow.",
+  "id":"20a0ee1f-ee44-4457-ad26-cb94f535679d",
+  "params":{
+    "id":"39999f61-79b6-48a4-9a9b-7288db4696cc"
+  },
+  "name":"Yair"
+}

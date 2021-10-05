@@ -1,0 +1,13 @@
+{
+  "start":18529,
+  "end":18563,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's\n   always been there for me.",
+  "id":"62bb704f-12fd-4ca8-ac20-17d3f401de2a",
+  "params":{
+    "id":"62bb704f-12fd-4ca8-ac20-17d3f401de2a",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

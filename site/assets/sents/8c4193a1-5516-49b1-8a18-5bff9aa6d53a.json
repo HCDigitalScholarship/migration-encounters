@@ -1,0 +1,13 @@
+{
+  "start":8120,
+  "end":8149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or did you know it all along?",
+  "id":"8c4193a1-5516-49b1-8a18-5bff9aa6d53a",
+  "params":{
+    "id":"8c4193a1-5516-49b1-8a18-5bff9aa6d53a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

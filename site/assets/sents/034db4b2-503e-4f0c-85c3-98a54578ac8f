@@ -1,0 +1,12 @@
+{
+  "start":9885,
+  "end":9973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n can't sue the doctor for malpractice because you're not even supposed to be\n there.",
+  "id":"034db4b2-503e-4f0c-85c3-98a54578ac8f",
+  "params":{
+    "id":"8bd9a6c4-584e-47fb-affd-6498f0c03326"
+  },
+  "name":"Ana"
+}

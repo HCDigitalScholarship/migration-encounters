@@ -1,0 +1,12 @@
+{
+  "start":899,
+  "end":924,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went through the line.",
+  "id":"8760e7f8-4e8c-4094-9d38-3f94d8583b05",
+  "params":{
+    "id":"e5dd08f5-aba2-4c42-b745-2cfd8d5c78cf"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "id":"b2fc8a12-16b2-47d6-8dfb-2d74fb334a60",
+  "type":"text",
+  "start":447,
+  "end":465,
+  "label":"Dead end",
+  "params":{
+    "id":"b2fc8a12-16b2-47d6-8dfb-2d74fb334a60",
+    "class":"anno"
+  },
+  "name":"Beto",
+  "text":"dead-end\n     poin"
+}

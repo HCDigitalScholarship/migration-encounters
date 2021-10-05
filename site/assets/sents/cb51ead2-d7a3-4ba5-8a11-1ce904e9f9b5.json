@@ -1,0 +1,13 @@
+{
+  "start":1366,
+  "end":1387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mm-hmm (affirmative).",
+  "id":"cb51ead2-d7a3-4ba5-8a11-1ce904e9f9b5",
+  "params":{
+    "id":"cb51ead2-d7a3-4ba5-8a11-1ce904e9f9b5",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8761,
+  "end":8809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't ever have a\n   different conversation.",
+  "id":"71d14f68-4fed-47fb-b9a1-1c27a412cadf",
+  "params":{
+    "id":"a5a5abea-946a-424f-8dfc-68992c0757ae"
+  },
+  "name":"Daniel B"
+}

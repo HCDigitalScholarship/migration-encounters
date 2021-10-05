@@ -1,0 +1,13 @@
+{
+  "start":15672,
+  "end":15796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have\n   to study aeronautic physics or something to understand how the plane works\n   because I get really sick on planes.",
+  "id":"3c354af5-cb52-4fa3-9f96-5c97cbb00b2e",
+  "params":{
+    "id":"3c354af5-cb52-4fa3-9f96-5c97cbb00b2e",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

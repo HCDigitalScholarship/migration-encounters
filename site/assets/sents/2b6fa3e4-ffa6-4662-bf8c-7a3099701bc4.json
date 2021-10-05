@@ -1,0 +1,13 @@
+{
+  "start":30319,
+  "end":30331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was it.",
+  "id":"2b6fa3e4-ffa6-4662-bf8c-7a3099701bc4",
+  "params":{
+    "id":"2b6fa3e4-ffa6-4662-bf8c-7a3099701bc4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

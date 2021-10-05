@@ -1,0 +1,15 @@
+{
+  "start":8787,
+  "end":8973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's an invent from the Politecnico and it's something that it's\n   really improving a lot of places here and public transport to make it a lot\n   easier and green ecology for the world.",
+  "id":"60350ab6-b4a1-40d6-8fd1-a33e8b66464f",
+  "params":{
+    "id":"60350ab6-b4a1-40d6-8fd1-a33e8b66464f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

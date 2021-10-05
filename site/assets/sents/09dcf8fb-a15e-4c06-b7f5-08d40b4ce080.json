@@ -1,0 +1,13 @@
+{
+  "start":246,
+  "end":415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   understand that it can be painful when you tell them your story and I'm\n   sorry you have to go through it, but I think your story is important.\n \n <br/>\n \n   Ivan:",
+  "id":"09dcf8fb-a15e-4c06-b7f5-08d40b4ce080",
+  "params":{
+    "id":"09dcf8fb-a15e-4c06-b7f5-08d40b4ce080",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

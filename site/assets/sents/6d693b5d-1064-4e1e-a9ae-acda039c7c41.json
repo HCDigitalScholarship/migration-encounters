@@ -1,0 +1,13 @@
+{
+  "start":25278,
+  "end":25301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I studied in my school.",
+  "id":"6d693b5d-1064-4e1e-a9ae-acda039c7c41",
+  "params":{
+    "id":"6d693b5d-1064-4e1e-a9ae-acda039c7c41",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

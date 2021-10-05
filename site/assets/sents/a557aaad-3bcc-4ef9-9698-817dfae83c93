@@ -1,0 +1,12 @@
+{
+  "start":18941,
+  "end":18995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't do the math right now, I'm really bad at math.",
+  "id":"a557aaad-3bcc-4ef9-9698-817dfae83c93",
+  "params":{
+    "id":"c6dab69a-3d75-43e7-b9b3-bfac4a27cb4e"
+  },
+  "name":"Cris"
+}

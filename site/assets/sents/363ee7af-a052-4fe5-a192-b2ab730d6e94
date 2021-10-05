@@ -1,0 +1,12 @@
+{
+  "start":51491,
+  "end":51510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His boss loves him.",
+  "id":"363ee7af-a052-4fe5-a192-b2ab730d6e94",
+  "params":{
+    "id":"5fe84a2a-720b-49b6-b599-70465eb02eaa"
+  },
+  "name":"Mike"
+}

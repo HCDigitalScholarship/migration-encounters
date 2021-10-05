@@ -1,0 +1,13 @@
+{
+  "start":18898,
+  "end":18922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   love cleaning, too.",
+  "id":"945bb502-fb66-4fcf-9588-c070ba475a9b",
+  "params":{
+    "id":"945bb502-fb66-4fcf-9588-c070ba475a9b",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

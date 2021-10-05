@@ -1,0 +1,13 @@
+{
+  "start":39236,
+  "end":39263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have more than one kid?",
+  "id":"c48f136c-e22e-4b99-bec6-f7f146a52fb1",
+  "params":{
+    "id":"c48f136c-e22e-4b99-bec6-f7f146a52fb1",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15005,
+  "end":15060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"hey,\n   I'm going to go to California on a trip.",
+  "id":"71bb5d3c-6858-4a53-a0d3-d040032de0d2",
+  "params":{
+    "id":"71bb5d3c-6858-4a53-a0d3-d040032de0d2",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

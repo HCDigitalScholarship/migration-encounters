@@ -1,0 +1,13 @@
+{
+  "start":20306,
+  "end":20376,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[grandmother] Because in the States, I would always\n   adopt grandmas.",
+  "id":"e3ece2f1-b9a8-47d3-b2df-c3585b108041",
+  "params":{
+    "id":"e3ece2f1-b9a8-47d3-b2df-c3585b108041",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

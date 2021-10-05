@@ -1,0 +1,12 @@
+{
+  "start":5496,
+  "end":5530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, everything\n   was different.",
+  "id":"cf4a1b70-3a21-4ea6-9c33-dc9b5ea5b18f",
+  "params":{
+    "id":"dd35a358-29f7-49d2-8896-5b085e4f773c"
+  },
+  "name":"Ivan"
+}

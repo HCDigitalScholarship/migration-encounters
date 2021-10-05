@@ -1,0 +1,13 @@
+{
+  "start":42347,
+  "end":42432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Remember I told you that I had lost my papers and that's when my son\n   was you know?",
+  "id":"ca9290e4-dd73-4e9a-be9a-26329c021f14",
+  "params":{
+    "id":"ca9290e4-dd73-4e9a-be9a-26329c021f14",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,15 @@
+{
+  "start":13928,
+  "end":13987,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of compliments and that's a good\n   experience I had.",
+  "id":"8423e715-574f-4281-a702-66373cd6bf56",
+  "params":{
+    "id":"8423e715-574f-4281-a702-66373cd6bf56",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

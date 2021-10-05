@@ -1,0 +1,12 @@
+{
+  "start":34810,
+  "end":34824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know what?",
+  "id":"855f1c32-62c1-45d7-92c2-81dd1f5a798d",
+  "params":{
+    "id":"fc36d781-45df-4703-ab66-b31f3e6ac8ea"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11325,
+  "end":11350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't have anything.",
+  "id":"d8f4de40-fbb7-4e90-af00-df9baf816af9",
+  "params":{
+    "id":"d8f4de40-fbb7-4e90-af00-df9baf816af9",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

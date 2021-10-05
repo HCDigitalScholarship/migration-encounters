@@ -1,0 +1,12 @@
+{
+  "start":32036,
+  "end":32079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're Mexican, you\n     know the pyramids.",
+  "id":"f02efa4a-b902-4ad3-87d4-a227dcb6515c",
+  "params":{
+    "id":"896e4951-411c-4f42-82ac-602672140394"
+  },
+  "name":"Beto"
+}

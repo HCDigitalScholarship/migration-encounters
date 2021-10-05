@@ -1,0 +1,12 @@
+{
+  "start":32109,
+  "end":32232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think weed is just something to relax here and have fun, or\n   do you think it gives you a break from where you are?",
+  "id":"8be44d33-a188-4628-b379-e3d60e624ee3",
+  "params":{
+    "id":"ff7a9877-23e3-4e6f-ad60-a32120803698"
+  },
+  "name":"Kevin"
+}

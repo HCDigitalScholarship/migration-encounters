@@ -1,0 +1,12 @@
+{
+  "start":3717,
+  "end":3760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My uncle left from\n   California to Oregon.",
+  "id":"d6bcd89b-b9d3-401f-89a1-7efc21e6f3b4",
+  "params":{
+    "id":"236b6a7d-7c0b-45be-b973-f3b895233bdc"
+  },
+  "name":"Miguel C"
+}

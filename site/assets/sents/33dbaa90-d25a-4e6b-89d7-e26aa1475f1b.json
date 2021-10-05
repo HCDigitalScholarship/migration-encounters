@@ -1,0 +1,13 @@
+{
+  "start":777,
+  "end":828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember [inaudible] but I\n   live across from...",
+  "id":"33dbaa90-d25a-4e6b-89d7-e26aa1475f1b",
+  "params":{
+    "id":"33dbaa90-d25a-4e6b-89d7-e26aa1475f1b",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34432,
+  "end":34516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you started to work\n   and it was working for your stepdad friend's company.",
+  "id":"ac8c63b9-f3f6-4496-b2a6-edefae949803",
+  "params":{
+    "id":"ac8c63b9-f3f6-4496-b2a6-edefae949803",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

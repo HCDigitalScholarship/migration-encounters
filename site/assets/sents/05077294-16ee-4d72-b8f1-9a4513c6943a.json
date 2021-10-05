@@ -1,0 +1,13 @@
+{
+  "start":29492,
+  "end":29552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Hey, we can use a business analyst like you.\"",
+  "id":"05077294-16ee-4d72-b8f1-9a4513c6943a",
+  "params":{
+    "id":"05077294-16ee-4d72-b8f1-9a4513c6943a",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

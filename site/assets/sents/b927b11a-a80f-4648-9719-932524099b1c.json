@@ -1,0 +1,13 @@
+{
+  "start":15574,
+  "end":15677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's funny because they always\n tell you, \"we are hiring people,\" but it's only people with experience.",
+  "id":"b927b11a-a80f-4648-9719-932524099b1c",
+  "params":{
+    "id":"b927b11a-a80f-4648-9719-932524099b1c",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

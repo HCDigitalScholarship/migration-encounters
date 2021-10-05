@@ -1,0 +1,12 @@
+{
+  "start":25305,
+  "end":25318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"2b9086d6-9dbe-437d-a712-7575d523331d",
+  "params":{
+    "id":"3843ea55-3747-4ee0-b2fb-e05ea401c48e"
+  },
+  "name":"Edgar"
+}

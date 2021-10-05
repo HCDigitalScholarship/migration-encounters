@@ -1,0 +1,13 @@
+{
+  "start":26094,
+  "end":26131,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know what you're going to tell me.\u201d",
+  "id":"afa5ac87-7f44-4f45-98c6-e08243ad2868",
+  "params":{
+    "id":"afa5ac87-7f44-4f45-98c6-e08243ad2868",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

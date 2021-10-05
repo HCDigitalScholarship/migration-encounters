@@ -1,0 +1,12 @@
+{
+  "start":3016,
+  "end":3090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know he was arrested and I don't\n   know if he ever became a US citizen.",
+  "id":"ed50d676-c213-48a4-ae3f-b149fb7810d7",
+  "params":{
+    "id":"67a14206-900d-4a8e-8d25-25664cf154d4"
+  },
+  "name":"Daniel B"
+}

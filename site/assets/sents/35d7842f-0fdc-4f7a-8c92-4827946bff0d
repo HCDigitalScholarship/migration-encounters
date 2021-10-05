@@ -1,0 +1,12 @@
+{
+  "start":3424,
+  "end":3445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Damn, that was crazy.",
+  "id":"35d7842f-0fdc-4f7a-8c92-4827946bff0d",
+  "params":{
+    "id":"b99c6095-87b1-4aed-b546-27f417f1b33f"
+  },
+  "name":"Mike"
+}

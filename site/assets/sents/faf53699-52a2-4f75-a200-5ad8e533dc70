@@ -1,0 +1,12 @@
+{
+  "start":16475,
+  "end":16491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Super smart guy.",
+  "id":"faf53699-52a2-4f75-a200-5ad8e533dc70",
+  "params":{
+    "id":"95245f32-96c6-4395-9e9d-c29e3d07aa16"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16688,
+  "end":16772,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took care of me, and they're\n   still taking care of me, even though I'm older.",
+  "id":"9d80af6e-2267-4249-8055-3516aa33a596",
+  "params":{
+    "id":"9d80af6e-2267-4249-8055-3516aa33a596",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

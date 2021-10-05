@@ -1,0 +1,13 @@
+{
+  "start":35877,
+  "end":35908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"They don't know what they are.",
+  "id":"4524cc56-3826-4db5-aea8-7dd78d807b5b",
+  "params":{
+    "id":"4524cc56-3826-4db5-aea8-7dd78d807b5b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21996,
+  "end":22018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On the news on the US.",
+  "id":"92345bd9-bf09-43e7-9c7f-6d27840bee2c",
+  "params":{
+    "id":"92345bd9-bf09-43e7-9c7f-6d27840bee2c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":31560,
+  "end":31573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One year old.",
+  "id":"41e955ac-8257-42bf-9ae1-d9a035ae3ad3",
+  "params":{
+    "id":"b6a07697-595b-4dbb-bb8c-87978d3d8085"
+  },
+  "name":"Rodrigo"
+}

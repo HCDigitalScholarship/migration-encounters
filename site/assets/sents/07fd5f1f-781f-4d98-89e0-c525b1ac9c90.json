@@ -1,0 +1,12 @@
+{
+  "start":27004,
+  "end":27035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're\n still going to Disney.",
+  "id":"07fd5f1f-781f-4d98-89e0-c525b1ac9c90",
+  "params":{
+    "id":"bb4cd657-01bf-461b-b1e7-b764242ce4f7"
+  },
+  "name":"Ben"
+}

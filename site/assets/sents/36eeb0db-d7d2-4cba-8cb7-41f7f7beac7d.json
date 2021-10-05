@@ -1,0 +1,13 @@
+{
+  "start":21131,
+  "end":21190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, well we're talking about discrimination in this case.",
+  "id":"36eeb0db-d7d2-4cba-8cb7-41f7f7beac7d",
+  "params":{
+    "id":"36eeb0db-d7d2-4cba-8cb7-41f7f7beac7d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

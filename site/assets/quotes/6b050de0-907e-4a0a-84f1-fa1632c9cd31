@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":13940,
+  "end":13944,
+  "text":" had a future out there.\n \n \n   Anne: In the US?\n \n \n   Edgar: Yeah. Because I didn't have the DACA anymore. To work a real job, I\n   needed the social security. And I didn't have that either.\n \n \n   Anne: What about your dad? Or your brother?\n \n \n   Edgar: My brother?\n \n \n   Anne: Yeah. I mean, he was working a real job, right?\n \n \n   Edgar: Yeah.\n \n \n   Anne: Did he have a social security number?\n \n",
+  "label":"PERSON",
+  "id":"6b050de0-907e-4a0a-84f1-fa1632c9cd31",
+  "name":"Edgar"
+}

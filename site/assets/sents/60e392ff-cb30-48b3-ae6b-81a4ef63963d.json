@@ -1,0 +1,13 @@
+{
+  "start":22234,
+  "end":22262,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're going to\n   kill me.",
+  "id":"60e392ff-cb30-48b3-ae6b-81a4ef63963d",
+  "params":{
+    "id":"60e392ff-cb30-48b3-ae6b-81a4ef63963d",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

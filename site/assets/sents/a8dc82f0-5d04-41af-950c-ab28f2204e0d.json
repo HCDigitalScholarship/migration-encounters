@@ -1,0 +1,12 @@
+{
+  "start":35803,
+  "end":35816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   wrong.",
+  "id":"a8dc82f0-5d04-41af-950c-ab28f2204e0d",
+  "params":{
+    "id":"c4cb748d-7c91-4285-a1d5-b8bcbb841064"
+  },
+  "name":"Sylent"
+}

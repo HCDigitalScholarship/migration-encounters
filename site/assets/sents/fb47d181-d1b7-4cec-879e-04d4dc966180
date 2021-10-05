@@ -1,0 +1,12 @@
+{
+  "start":32017,
+  "end":32042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: What about sports?",
+  "id":"fb47d181-d1b7-4cec-879e-04d4dc966180",
+  "params":{
+    "id":"acca8032-94a9-44d0-9530-4eb738d20879"
+  },
+  "name":"Billy"
+}

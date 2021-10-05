@@ -1,0 +1,12 @@
+{
+  "start":15476,
+  "end":15530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Given that crime, were you convicted of that\n   crime?",
+  "id":"392ec4b2-88b8-487b-b025-8e2d3092b92f",
+  "params":{
+    "id":"5fa0edce-c99c-4da4-bc10-3f90f610766e"
+  },
+  "name":"Carlos"
+}

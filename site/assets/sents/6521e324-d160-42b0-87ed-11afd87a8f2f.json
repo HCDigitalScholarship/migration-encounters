@@ -1,0 +1,12 @@
+{
+  "start":40207,
+  "end":40232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have other papers?",
+  "id":"6521e324-d160-42b0-87ed-11afd87a8f2f",
+  "params":{
+    "id":"3c58c774-c3fc-4b34-9671-4539b3113d45"
+  },
+  "name":"Billy"
+}

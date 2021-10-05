@@ -1,0 +1,13 @@
+{
+  "start":25910,
+  "end":26038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     I was good at math because I learned \u2013here in Mexico, they're very good at\n     math and still they are very good at math.",
+  "id":"729d3e46-acae-4263-9bca-2202222b08db",
+  "params":{
+    "id":"729d3e46-acae-4263-9bca-2202222b08db",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

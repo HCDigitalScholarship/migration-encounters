@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":9991,
+  "end":10002,
+  "text":"ta: How long have you been back in Mexico?\n \n <br/>\n \n   Miguel: Three years already. It's been three years, yes. It's been rapid.\n \n <br/>\n \n   Anita: You lived in Mexico City?\n \n <br/>\n \n   Miguel: Mexico City. In one place, _______.\n \n <br/>\n \n   Anita: Who do you live with now?\n \n <br/>\n \n   Miguel: I live with my mom, my brother and myself. Soon my dad wants to\n   come back. That hasn't happened, but we",
+  "label":"GPE",
+  "id":"132826f4-057b-4ab6-b888-8f7d00c095e3",
+  "name":"Miguel A"
+}

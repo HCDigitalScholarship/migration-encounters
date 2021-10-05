@@ -1,0 +1,13 @@
+{
+  "start":20060,
+  "end":20107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were your dreams before you were deported?",
+  "id":"f3caf81b-bb88-4fd7-b138-3a60974625cf",
+  "params":{
+    "id":"f3caf81b-bb88-4fd7-b138-3a60974625cf",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

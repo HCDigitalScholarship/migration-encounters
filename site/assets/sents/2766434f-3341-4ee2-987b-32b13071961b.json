@@ -1,0 +1,13 @@
+{
+  "start":34268,
+  "end":34329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I was making\n   more money and I could afford a taxi.",
+  "id":"2766434f-3341-4ee2-987b-32b13071961b",
+  "params":{
+    "id":"2766434f-3341-4ee2-987b-32b13071961b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

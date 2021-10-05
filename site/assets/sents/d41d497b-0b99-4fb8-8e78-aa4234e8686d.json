@@ -1,0 +1,13 @@
+{
+  "start":19334,
+  "end":19367,
+  "label":"SENT",
+  "type":"sent",
+  "text":"El ah\u00ed se pele\u00f3, le\n     pegaron.",
+  "id":"d41d497b-0b99-4fb8-8e78-aa4234e8686d",
+  "params":{
+    "id":"d41d497b-0b99-4fb8-8e78-aa4234e8686d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

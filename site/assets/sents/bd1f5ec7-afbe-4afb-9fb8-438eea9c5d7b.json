@@ -1,0 +1,13 @@
+{
+  "start":18889,
+  "end":18928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I saw my grandfather and I didn't know.",
+  "id":"bd1f5ec7-afbe-4afb-9fb8-438eea9c5d7b",
+  "params":{
+    "id":"bd1f5ec7-afbe-4afb-9fb8-438eea9c5d7b",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

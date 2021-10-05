@@ -1,0 +1,13 @@
+{
+  "start":42958,
+  "end":43052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I skipped\n one part of the story and I just want to backtrack because I think it\u2019s\n important.",
+  "id":"2d53c80c-a625-4585-bd9a-670204258099",
+  "params":{
+    "id":"2d53c80c-a625-4585-bd9a-670204258099",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

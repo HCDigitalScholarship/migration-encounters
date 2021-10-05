@@ -1,0 +1,12 @@
+{
+  "start":7599,
+  "end":7627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're living with your mom.",
+  "id":"25f72f43-f327-4878-8a0a-a725382b09db",
+  "params":{
+    "id":"938621c3-12f7-4969-88bb-c1acce554219"
+  },
+  "name":"Joana"
+}

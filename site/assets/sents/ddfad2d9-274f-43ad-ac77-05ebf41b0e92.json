@@ -1,0 +1,13 @@
+{
+  "start":10293,
+  "end":10334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, my grandma was diagnosed with cancer.",
+  "id":"ddfad2d9-274f-43ad-ac77-05ebf41b0e92",
+  "params":{
+    "id":"ddfad2d9-274f-43ad-ac77-05ebf41b0e92",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1081,
+  "end":1146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, you're not sixteen, I think, you cannot work over\n   there.",
+  "id":"34c1d8ca-7896-4282-b578-180163f495a8",
+  "params":{
+    "id":"34c1d8ca-7896-4282-b578-180163f495a8",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

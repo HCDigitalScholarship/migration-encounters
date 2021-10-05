@@ -1,0 +1,12 @@
+{
+  "start":51524,
+  "end":51561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is it you miss most from the US?",
+  "id":"cf91942a-a4ef-40d7-a57e-079c0dc4d66d",
+  "params":{
+    "id":"cb31e67f-e351-41a0-a88f-8b62138b314e"
+  },
+  "name":"Mike"
+}

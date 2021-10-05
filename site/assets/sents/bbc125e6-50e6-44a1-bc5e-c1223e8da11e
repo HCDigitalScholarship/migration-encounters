@@ -1,0 +1,12 @@
+{
+  "start":9501,
+  "end":9568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Okay,\n   you're American, you're fine, you went to English class.\"",
+  "id":"bbc125e6-50e6-44a1-bc5e-c1223e8da11e",
+  "params":{
+    "id":"cef571d4-e4a3-46db-859f-883e7c636a34"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":27280,
+  "end":27320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She did do it because now she has a car.",
+  "id":"f408a154-81c6-4a3a-880b-0fe5c056d175",
+  "params":{
+    "id":"c7e19b4d-65c7-4b50-add1-8690ecf484ea"
+  },
+  "name":"Sylent"
+}

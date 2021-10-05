@@ -1,0 +1,13 @@
+{
+  "start":2190,
+  "end":2289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think he told her that\n   she was arrested or something, and we stayed there for five, six hours.",
+  "id":"1ab061f6-744f-491f-a9b7-037c5587b48b",
+  "params":{
+    "id":"1ab061f6-744f-491f-a9b7-037c5587b48b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18003,
+  "end":18024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did you end up?",
+  "id":"a1268b74-dcdf-45aa-83ba-45ad307c7385",
+  "params":{
+    "id":"a1268b74-dcdf-45aa-83ba-45ad307c7385",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

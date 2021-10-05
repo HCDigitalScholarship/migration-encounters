@@ -1,0 +1,12 @@
+{
+  "start":33451,
+  "end":33532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I just like the history of the Red Sox, but I don't watch it\n every Saturday.",
+  "id":"bd529546-72c9-4abf-9cd6-ea9017a8dcf1",
+  "params":{
+    "id":"a8941362-f2c9-4599-9b03-dad6461650fa"
+  },
+  "name":"Billy"
+}

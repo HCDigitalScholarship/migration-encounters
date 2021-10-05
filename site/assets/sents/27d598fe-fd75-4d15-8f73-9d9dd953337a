@@ -1,0 +1,12 @@
+{
+  "start":33471,
+  "end":33520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He goes, \"Like I said, you let me deal with this.",
+  "id":"27d598fe-fd75-4d15-8f73-9d9dd953337a",
+  "params":{
+    "id":"842e350f-f95f-4ba7-84c7-a4c31899946d"
+  },
+  "name":"Cris"
+}

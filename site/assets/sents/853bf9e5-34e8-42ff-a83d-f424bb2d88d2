@@ -1,0 +1,12 @@
+{
+  "start":23307,
+  "end":23334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I was really careful.",
+  "id":"853bf9e5-34e8-42ff-a83d-f424bb2d88d2",
+  "params":{
+    "id":"7ab1ccd9-978a-4210-a1e3-bddfd5a0d820"
+  },
+  "name":"Yair"
+}

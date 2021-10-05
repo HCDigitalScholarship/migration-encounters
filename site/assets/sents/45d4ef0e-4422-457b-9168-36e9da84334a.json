@@ -1,0 +1,13 @@
+{
+  "start":53049,
+  "end":53067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got\n   here",
+  "id":"45d4ef0e-4422-457b-9168-36e9da84334a",
+  "params":{
+    "id":"45d4ef0e-4422-457b-9168-36e9da84334a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

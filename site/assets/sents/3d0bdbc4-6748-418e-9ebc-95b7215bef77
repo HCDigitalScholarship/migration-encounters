@@ -1,0 +1,12 @@
+{
+  "start":6768,
+  "end":6786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a long story.",
+  "id":"3d0bdbc4-6748-418e-9ebc-95b7215bef77",
+  "params":{
+    "id":"bb34004e-daca-408c-9d71-9d3954e09fab"
+  },
+  "name":"Carlos"
+}

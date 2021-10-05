@@ -1,0 +1,15 @@
+{
+  "start":16853,
+  "end":16882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People say that on the phone?",
+  "id":"9d29e059-d08b-4009-8122-0be2a79adf79",
+  "params":{
+    "id":"9d29e059-d08b-4009-8122-0be2a79adf79",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

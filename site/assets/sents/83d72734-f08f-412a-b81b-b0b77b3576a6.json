@@ -1,0 +1,13 @@
+{
+  "start":9625,
+  "end":9650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was getting locked up.",
+  "id":"83d72734-f08f-412a-b81b-b0b77b3576a6",
+  "params":{
+    "id":"83d72734-f08f-412a-b81b-b0b77b3576a6",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

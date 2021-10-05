@@ -1,0 +1,12 @@
+{
+  "start":26215,
+  "end":26231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You never\n know.",
+  "id":"06eb456b-dd4a-4187-839d-ef7065ad7d90",
+  "params":{
+    "id":"cf74f355-8cbb-45d1-aa3a-ba382a11f0ca"
+  },
+  "name":"Billy"
+}

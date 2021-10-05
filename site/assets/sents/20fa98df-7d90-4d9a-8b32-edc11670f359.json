@@ -1,0 +1,13 @@
+{
+  "start":11300,
+  "end":11335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you spoke another\n   language?\"",
+  "id":"20fa98df-7d90-4d9a-8b32-edc11670f359",
+  "params":{
+    "id":"20fa98df-7d90-4d9a-8b32-edc11670f359",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13,
+  "end":129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first question for you is why did you or your family decide to\n   leave Mexico, and how did you cross the border?",
+  "id":"8f6d1f23-7bda-4bb5-8f38-b183f7e6f050",
+  "params":{
+    "id":"2094a010-fca4-4aeb-a4c9-99ac7f396d12"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1445,
+  "end":1500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I travel a lot and I like going to a lot\n   of places.\"",
+  "id":"2e63a3a1-bdef-4b1f-8d61-611c286049e8",
+  "params":{
+    "id":"57fd4c49-069d-45d2-af42-b2a1319a5527"
+  },
+  "name":"Luis B"
+}

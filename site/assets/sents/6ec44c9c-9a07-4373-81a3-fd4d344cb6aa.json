@@ -1,0 +1,13 @@
+{
+  "start":95,
+  "end":126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you remember?",
+  "id":"6ec44c9c-9a07-4373-81a3-fd4d344cb6aa",
+  "params":{
+    "id":"6ec44c9c-9a07-4373-81a3-fd4d344cb6aa",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

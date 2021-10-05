@@ -1,0 +1,13 @@
+{
+  "start":26393,
+  "end":26447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're doing what\n   you have to do, you're moving on.",
+  "id":"df9c62f0-eb56-467e-8057-3706c6fcfacf",
+  "params":{
+    "id":"df9c62f0-eb56-467e-8057-3706c6fcfacf",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

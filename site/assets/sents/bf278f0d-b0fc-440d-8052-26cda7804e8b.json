@@ -1,0 +1,13 @@
+{
+  "start":64361,
+  "end":64441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And Americans are so, \"You did\n   something wrong, but I'm not going to take it.",
+  "id":"bf278f0d-b0fc-440d-8052-26cda7804e8b",
+  "params":{
+    "id":"bf278f0d-b0fc-440d-8052-26cda7804e8b",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

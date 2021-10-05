@@ -1,0 +1,13 @@
+{
+  "start":11295,
+  "end":11407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, they don't, because at my last job, over there when I went to\n   ____ in the movie theaters, they hire me.",
+  "id":"d3762b74-da8e-4f73-bdc2-498e590d5414",
+  "params":{
+    "id":"d3762b74-da8e-4f73-bdc2-498e590d5414",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

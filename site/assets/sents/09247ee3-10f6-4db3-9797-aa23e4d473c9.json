@@ -1,0 +1,13 @@
+{
+  "start":20131,
+  "end":20178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean\nit's only two hours away from the house.",
+  "id":"09247ee3-10f6-4db3-9797-aa23e4d473c9",
+  "params":{
+    "id":"09247ee3-10f6-4db3-9797-aa23e4d473c9",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":39634,
+  "end":39666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No tenemos eso\u201d.\n [what\u2019s that?]",
+  "id":"abd21765-d7fa-4284-8c14-212f45db7317",
+  "params":{
+    "id":"a09a648e-219d-4438-8dd1-87e474212941"
+  },
+  "name":"Billy"
+}

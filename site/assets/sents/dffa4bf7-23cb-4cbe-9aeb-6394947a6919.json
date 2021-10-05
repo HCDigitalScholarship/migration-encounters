@@ -1,0 +1,13 @@
+{
+  "start":15663,
+  "end":15737,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had all the tools in the back, and I was just coming\n   back from work.",
+  "id":"dffa4bf7-23cb-4cbe-9aeb-6394947a6919",
+  "params":{
+    "id":"dffa4bf7-23cb-4cbe-9aeb-6394947a6919",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

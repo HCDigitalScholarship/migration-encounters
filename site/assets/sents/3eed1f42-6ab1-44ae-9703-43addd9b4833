@@ -1,0 +1,12 @@
+{
+  "start":42142,
+  "end":42184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I say,\n   \"Well, you're actually educated.",
+  "id":"3eed1f42-6ab1-44ae-9703-43addd9b4833",
+  "params":{
+    "id":"c6a9573f-25e1-4456-b576-9e4050699e96"
+  },
+  "name":"Miguel A"
+}

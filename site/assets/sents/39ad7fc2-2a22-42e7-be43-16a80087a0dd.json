@@ -1,0 +1,13 @@
+{
+  "start":38566,
+  "end":38589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People can come and go.",
+  "id":"39ad7fc2-2a22-42e7-be43-16a80087a0dd",
+  "params":{
+    "id":"39ad7fc2-2a22-42e7-be43-16a80087a0dd",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

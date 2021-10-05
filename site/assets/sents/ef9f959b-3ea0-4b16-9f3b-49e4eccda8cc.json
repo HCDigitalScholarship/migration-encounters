@@ -1,0 +1,13 @@
+{
+  "start":52926,
+  "end":52943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   mom's side.",
+  "id":"ef9f959b-3ea0-4b16-9f3b-49e4eccda8cc",
+  "params":{
+    "id":"ef9f959b-3ea0-4b16-9f3b-49e4eccda8cc",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

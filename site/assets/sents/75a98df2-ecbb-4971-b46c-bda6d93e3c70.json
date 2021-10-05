@@ -1,0 +1,13 @@
+{
+  "start":22820,
+  "end":22937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when you request a\n   manager, and you're requesting something that agent can't do, you're going\n   to be denied.",
+  "id":"75a98df2-ecbb-4971-b46c-bda6d93e3c70",
+  "params":{
+    "id":"75a98df2-ecbb-4971-b46c-bda6d93e3c70",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

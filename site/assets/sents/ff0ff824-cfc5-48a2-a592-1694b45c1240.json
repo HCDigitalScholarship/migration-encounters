@@ -1,0 +1,12 @@
+{
+  "start":20826,
+  "end":20846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is it a call center?",
+  "id":"ff0ff824-cfc5-48a2-a592-1694b45c1240",
+  "params":{
+    "id":"279e93a3-dc41-4e56-9c42-fdc393234e96"
+  },
+  "name":"Edgar"
+}

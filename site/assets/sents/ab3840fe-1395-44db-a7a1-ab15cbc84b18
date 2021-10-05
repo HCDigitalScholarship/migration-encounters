@@ -1,0 +1,12 @@
+{
+  "start":12888,
+  "end":12952,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was the only one that talked English,\n   and it was just hard.",
+  "id":"ab3840fe-1395-44db-a7a1-ab15cbc84b18",
+  "params":{
+    "id":"d4813f6b-925e-45c0-a17b-14b0ea5ece0e"
+  },
+  "name":"Mike"
+}

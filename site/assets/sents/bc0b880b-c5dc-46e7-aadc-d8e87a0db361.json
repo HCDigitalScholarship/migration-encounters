@@ -1,0 +1,12 @@
+{
+  "start":1402,
+  "end":1430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   really wanted a girl.",
+  "id":"bc0b880b-c5dc-46e7-aadc-d8e87a0db361",
+  "params":{
+    "id":"d0a5d0eb-bee2-4af6-9ba9-8bb73df5a778"
+  },
+  "name":"Hugo"
+}

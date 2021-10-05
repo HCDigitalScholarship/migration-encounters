@@ -1,0 +1,12 @@
+{
+  "start":7680,
+  "end":7805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad kind of predicted it too\u2014\"Be careful son,\u201d Cause he\n   knew that I liked to talk about politics, that was my weakness.",
+  "id":"4d46e572-53ed-4ca4-8670-228946b8504d",
+  "params":{
+    "id":"bd7c5540-ae11-4a80-a86d-9faff82e10d0"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6103,
+  "end":6161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Sergio: What about school?\n \n \n   Rodolfo: School?",
+  "id":"9f9dec83-c3d7-4eb6-8679-9844f294f1d3",
+  "params":{
+    "id":"9f9dec83-c3d7-4eb6-8679-9844f294f1d3",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

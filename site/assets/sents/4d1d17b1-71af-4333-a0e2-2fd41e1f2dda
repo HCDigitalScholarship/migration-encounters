@@ -1,0 +1,12 @@
+{
+  "start":44871,
+  "end":44891,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you say\n   that?",
+  "id":"4d1d17b1-71af-4333-a0e2-2fd41e1f2dda",
+  "params":{
+    "id":"85cdc2d8-b4d9-41bb-b249-b3dbe020b104"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8831,
+  "end":8853,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just like blind.",
+  "id":"a70eb64a-2027-4277-975e-7a97e6f606f4",
+  "params":{
+    "id":"a70eb64a-2027-4277-975e-7a97e6f606f4",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

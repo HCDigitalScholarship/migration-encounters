@@ -1,0 +1,12 @@
+{
+  "start":32252,
+  "end":32261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm here.",
+  "id":"4012e0a4-e0e0-4b7c-99b9-ffe9e6a7b1bd",
+  "params":{
+    "id":"37d16fda-94e7-45cc-a6f0-5caff56f39e1"
+  },
+  "name":"Abel"
+}

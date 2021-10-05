@@ -1,0 +1,12 @@
+{
+  "start":10776,
+  "end":10795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that like?",
+  "id":"8051f075-966f-4e41-8074-9b433846c050",
+  "params":{
+    "id":"a5333248-cd37-43b7-ae9e-4fc826395933"
+  },
+  "name":"Kevin"
+}

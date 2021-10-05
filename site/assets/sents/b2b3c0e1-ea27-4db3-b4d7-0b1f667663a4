@@ -1,0 +1,12 @@
+{
+  "start":28432,
+  "end":28462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How you are supposed to do it.",
+  "id":"b2b3c0e1-ea27-4db3-b4d7-0b1f667663a4",
+  "params":{
+    "id":"6f6b465f-45fa-4ad8-a44d-b919195f663a"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21375,
+  "end":21400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hopefully, it'll be good.",
+  "id":"8e5a4e93-6a5c-41c0-9ea8-c40284ce82c9",
+  "params":{
+    "id":"06c0a331-fc96-4011-abf7-3e31d253da6e"
+  },
+  "name":"Edgar"
+}

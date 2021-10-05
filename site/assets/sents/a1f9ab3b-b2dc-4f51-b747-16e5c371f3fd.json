@@ -1,0 +1,13 @@
+{
+  "start":23288,
+  "end":23340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"First through sixth grade we all went to Elementary.",
+  "id":"a1f9ab3b-b2dc-4f51-b747-16e5c371f3fd",
+  "params":{
+    "id":"a1f9ab3b-b2dc-4f51-b747-16e5c371f3fd",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

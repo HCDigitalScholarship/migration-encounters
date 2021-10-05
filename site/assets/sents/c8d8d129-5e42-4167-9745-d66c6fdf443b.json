@@ -1,0 +1,13 @@
+{
+  "start":58664,
+  "end":58693,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what Cuernavaca means.",
+  "id":"c8d8d129-5e42-4167-9745-d66c6fdf443b",
+  "params":{
+    "id":"c8d8d129-5e42-4167-9745-d66c6fdf443b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

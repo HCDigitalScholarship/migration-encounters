@@ -1,0 +1,13 @@
+{
+  "start":50312,
+  "end":50373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Finalmente, regres\u00f3 a M\u00e9xico \u00bfC\u00f3mo fue para usted?\n \n ",
+  "id":"bf1579ab-7e7e-4608-bae8-380665222e8b",
+  "params":{
+    "id":"bf1579ab-7e7e-4608-bae8-380665222e8b",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

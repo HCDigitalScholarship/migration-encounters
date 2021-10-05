@@ -1,0 +1,13 @@
+{
+  "start":12878,
+  "end":12886,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia:",
+  "id":"c25ab967-c2ea-4507-b6e3-9c127c0f02aa",
+  "params":{
+    "id":"c25ab967-c2ea-4507-b6e3-9c127c0f02aa",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

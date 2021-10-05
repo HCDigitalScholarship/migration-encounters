@@ -1,0 +1,13 @@
+{
+  "start":15405,
+  "end":15466,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a sheriff, and he just asked for the driver's license.",
+  "id":"39073c22-37af-43e4-80c1-280d15259c77",
+  "params":{
+    "id":"39073c22-37af-43e4-80c1-280d15259c77",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

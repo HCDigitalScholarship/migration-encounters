@@ -1,0 +1,13 @@
+{
+  "start":5888,
+  "end":5912,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was pretty difficult.",
+  "id":"c5e97a13-8c6b-4e34-8b6f-71262958ba23",
+  "params":{
+    "id":"c5e97a13-8c6b-4e34-8b6f-71262958ba23",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

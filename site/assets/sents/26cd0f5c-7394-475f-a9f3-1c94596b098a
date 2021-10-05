@@ -1,0 +1,12 @@
+{
+  "start":9002,
+  "end":9036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   like taking calls, it's nice.",
+  "id":"26cd0f5c-7394-475f-a9f3-1c94596b098a",
+  "params":{
+    "id":"638164b1-f21b-40b5-8c53-ecfe26288ac5"
+  },
+  "name":"Ivan"
+}

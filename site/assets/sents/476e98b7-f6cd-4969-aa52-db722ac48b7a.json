@@ -1,0 +1,13 @@
+{
+  "start":6998,
+  "end":7011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're good.",
+  "id":"476e98b7-f6cd-4969-aa52-db722ac48b7a",
+  "params":{
+    "id":"476e98b7-f6cd-4969-aa52-db722ac48b7a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27805,
+  "end":27863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My teacher was like,\n     \"Okay, I'll teach you guys more.",
+  "id":"09a2d4c4-b36c-411d-a011-b657ce2f9a97",
+  "params":{
+    "id":"09a2d4c4-b36c-411d-a011-b657ce2f9a97",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

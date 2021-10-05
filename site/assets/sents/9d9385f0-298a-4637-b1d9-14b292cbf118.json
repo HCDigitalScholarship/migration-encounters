@@ -1,0 +1,13 @@
+{
+  "start":33314,
+  "end":33341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I smoke, it goes away.",
+  "id":"9d9385f0-298a-4637-b1d9-14b292cbf118",
+  "params":{
+    "id":"9d9385f0-298a-4637-b1d9-14b292cbf118",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

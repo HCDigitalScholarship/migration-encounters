@@ -1,0 +1,12 @@
+{
+  "start":63990,
+  "end":64035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There is already a plan for you type\n thing.\"",
+  "id":"8e664f6c-a53e-4728-8f54-736a3814e3cf",
+  "params":{
+    "id":"6f42e964-f1a0-4214-8d65-f2a62c441137"
+  },
+  "name":"Axel"
+}

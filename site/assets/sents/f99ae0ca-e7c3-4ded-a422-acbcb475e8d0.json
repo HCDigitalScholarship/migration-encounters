@@ -1,0 +1,13 @@
+{
+  "start":2281,
+  "end":2309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel: That I don't remember.",
+  "id":"f99ae0ca-e7c3-4ded-a422-acbcb475e8d0",
+  "params":{
+    "id":"f99ae0ca-e7c3-4ded-a422-acbcb475e8d0",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

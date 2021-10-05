@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":20217,
+  "end":20222,
+  "text":"ned?\n \n \n   Joana: And then, well, I went into custody. They tried to get me out, but\n   they couldn't. I.C.E. took me in. That's how I got back to Mexico.\n \n \n   Anita: Were you in detention?\n \n \n   Joana: Yes.\n \n \n   Anita: For how long?\n \n \n   Joana: For about a month, and I got out pretty quickly because I had my\n   passport with me.\n \n \n   Anita: You just happened to have your passport with you?\n ",
+  "label":"PERSON",
+  "id":"3721dcef-bb20-4dbe-bc20-f2248033646f",
+  "name":"Joana"
+}

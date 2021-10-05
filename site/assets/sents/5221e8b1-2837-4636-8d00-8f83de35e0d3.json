@@ -1,0 +1,13 @@
+{
+  "start":22175,
+  "end":22246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It's not like, I woke up and I said, \u201cI'm going to go steal a car.\u201d",
+  "id":"5221e8b1-2837-4636-8d00-8f83de35e0d3",
+  "params":{
+    "id":"5221e8b1-2837-4636-8d00-8f83de35e0d3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

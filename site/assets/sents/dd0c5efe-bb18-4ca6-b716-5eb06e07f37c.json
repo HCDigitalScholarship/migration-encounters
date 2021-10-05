@@ -1,0 +1,13 @@
+{
+  "start":65059,
+  "end":65104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I don't have a partner, I'll do it myself.",
+  "id":"dd0c5efe-bb18-4ca6-b716-5eb06e07f37c",
+  "params":{
+    "id":"dd0c5efe-bb18-4ca6-b716-5eb06e07f37c",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

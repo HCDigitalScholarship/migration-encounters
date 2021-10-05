@@ -1,0 +1,13 @@
+{
+  "start":29237,
+  "end":29270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Because I learned it in Mexico.\"",
+  "id":"e08147bd-447a-4a61-b9ff-e80bcc099462",
+  "params":{
+    "id":"e08147bd-447a-4a61-b9ff-e80bcc099462",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

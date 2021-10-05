@@ -1,0 +1,12 @@
+{
+  "start":13538,
+  "end":13579,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's really bad, I hope she gets better.",
+  "id":"a21248f6-1efe-4e4f-99ea-bd0bdac09f9b",
+  "params":{
+    "id":"df819d46-23b3-40d5-b861-60facc081050"
+  },
+  "name":"Hugo"
+}

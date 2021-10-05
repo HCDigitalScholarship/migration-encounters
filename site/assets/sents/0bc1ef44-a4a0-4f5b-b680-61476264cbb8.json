@@ -1,0 +1,13 @@
+{
+  "start":55890,
+  "end":55920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't even\n dorms anymore.",
+  "id":"0bc1ef44-a4a0-4f5b-b680-61476264cbb8",
+  "params":{
+    "id":"0bc1ef44-a4a0-4f5b-b680-61476264cbb8",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

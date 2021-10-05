@@ -1,0 +1,12 @@
+{
+  "start":12308,
+  "end":12342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Adrian: What about the Mexican ID?",
+  "id":"cc73fd6f-4c5e-4caf-b361-14ec7f2b1697",
+  "params":{
+    "id":"a46aefbe-de9b-4e30-b373-85e1390eaab1"
+  },
+  "name":"Juan A"
+}

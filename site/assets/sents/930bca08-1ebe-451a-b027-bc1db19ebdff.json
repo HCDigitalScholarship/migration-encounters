@@ -1,0 +1,13 @@
+{
+  "start":3718,
+  "end":3739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why\n   did you leave?",
+  "id":"930bca08-1ebe-451a-b027-bc1db19ebdff",
+  "params":{
+    "id":"930bca08-1ebe-451a-b027-bc1db19ebdff",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

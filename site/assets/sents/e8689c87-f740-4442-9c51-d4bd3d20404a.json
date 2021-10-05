@@ -1,0 +1,13 @@
+{
+  "start":2413,
+  "end":2468,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess he was trying to find better job opportunities.",
+  "id":"e8689c87-f740-4442-9c51-d4bd3d20404a",
+  "params":{
+    "id":"e8689c87-f740-4442-9c51-d4bd3d20404a",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

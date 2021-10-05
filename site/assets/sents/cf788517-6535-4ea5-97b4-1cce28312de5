@@ -1,0 +1,12 @@
+{
+  "start":51840,
+  "end":51880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You know how Martin Luther King did?",
+  "id":"cf788517-6535-4ea5-97b4-1cce28312de5",
+  "params":{
+    "id":"5e2ec313-83b5-46d5-9037-d2fda97494f4"
+  },
+  "name":"Mike"
+}

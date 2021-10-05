@@ -1,0 +1,12 @@
+{
+  "start":4560,
+  "end":4607,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you live in an apartment, or?",
+  "id":"9727f988-301f-4d5e-8ecd-1a6826c3035d",
+  "params":{
+    "id":"32fc6bde-90c7-4fab-8aa7-eb52043704f3"
+  },
+  "name":"Ivan"
+}

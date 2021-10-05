@@ -1,0 +1,13 @@
+{
+  "start":6828,
+  "end":6920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, (where we lived) it's a nice small town where it's not\n   too much violence there.",
+  "id":"da2a061a-40b3-47f4-8533-08cbc528dacf",
+  "params":{
+    "id":"da2a061a-40b3-47f4-8533-08cbc528dacf",
+    "class":"anno"
+  },
+  "name":"Many"
+}

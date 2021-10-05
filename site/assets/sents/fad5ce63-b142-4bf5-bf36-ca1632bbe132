@@ -1,0 +1,12 @@
+{
+  "start":24430,
+  "end":24453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that a hard process?",
+  "id":"fad5ce63-b142-4bf5-bf36-ca1632bbe132",
+  "params":{
+    "id":"79f1f995-1fbd-43b3-b00f-23707d16c2a3"
+  },
+  "name":"Many"
+}

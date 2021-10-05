@@ -1,0 +1,12 @@
+{
+  "start":28085,
+  "end":28122,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, has the last year been difficult?",
+  "id":"b72f15d7-2cc4-4065-8b12-f252e00623b7",
+  "params":{
+    "id":"b2274dc2-995d-4139-bcde-5d73e81acf7b"
+  },
+  "name":"Joseph"
+}

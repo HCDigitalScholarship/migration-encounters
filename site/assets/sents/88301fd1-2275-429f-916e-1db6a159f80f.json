@@ -1,0 +1,13 @@
+{
+  "start":50415,
+  "end":50505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And right now, unfortunately I don't have a job position\n     that actually pays you that.",
+  "id":"88301fd1-2275-429f-916e-1db6a159f80f",
+  "params":{
+    "id":"88301fd1-2275-429f-916e-1db6a159f80f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

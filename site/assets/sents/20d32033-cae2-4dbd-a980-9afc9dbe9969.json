@@ -1,0 +1,13 @@
+{
+  "start":31773,
+  "end":31786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm leaving.\"",
+  "id":"20d32033-cae2-4dbd-a980-9afc9dbe9969",
+  "params":{
+    "id":"20d32033-cae2-4dbd-a980-9afc9dbe9969",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

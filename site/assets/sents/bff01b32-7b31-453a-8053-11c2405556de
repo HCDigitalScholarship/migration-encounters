@@ -1,0 +1,12 @@
+{
+  "start":24035,
+  "end":24091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I grew up without\n   a father, so I know what it's like.",
+  "id":"bff01b32-7b31-453a-8053-11c2405556de",
+  "params":{
+    "id":"64d7492e-86d6-4046-8ce8-a917cbc42c51"
+  },
+  "name":"Kevin"
+}

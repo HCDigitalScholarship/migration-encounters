@@ -1,0 +1,13 @@
+{
+  "start":20061,
+  "end":20100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, dealing with\n   architecture.",
+  "id":"65b3c69d-5749-434c-bb3d-7d8dc763a9b6",
+  "params":{
+    "id":"65b3c69d-5749-434c-bb3d-7d8dc763a9b6",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9475,
+  "end":9523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you currently working or what are you doing?",
+  "id":"635e015b-8ab7-428c-a12c-3ca435f476b4",
+  "params":{
+    "id":"635e015b-8ab7-428c-a12c-3ca435f476b4",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

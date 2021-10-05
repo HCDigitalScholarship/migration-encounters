@@ -1,0 +1,13 @@
+{
+  "start":37684,
+  "end":37709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You gave a service, then.",
+  "id":"6381d457-4282-46d7-91d5-bdd223b1b463",
+  "params":{
+    "id":"6381d457-4282-46d7-91d5-bdd223b1b463",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

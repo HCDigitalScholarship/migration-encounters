@@ -1,0 +1,12 @@
+{
+  "start":40440,
+  "end":40538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Billy: I do want to continue studying a lot but right now, I need to help\n my mom.",
+  "id":"b11c13a7-a24c-4db7-8847-010a962f1d10",
+  "params":{
+    "id":"21b97e94-b0f1-450d-828f-927dcb45a528"
+  },
+  "name":"Billy"
+}

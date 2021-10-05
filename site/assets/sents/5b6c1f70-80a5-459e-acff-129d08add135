@@ -1,0 +1,12 @@
+{
+  "start":31427,
+  "end":31459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is what I got to deal with.",
+  "id":"5b6c1f70-80a5-459e-acff-129d08add135",
+  "params":{
+    "id":"ed857a16-3654-4adb-93af-032ef0f9674b"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42595,
+  "end":42628,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People tell me that I'm too nice.",
+  "id":"91bad807-fd5b-4ea7-aa85-ec899f0440a8",
+  "params":{
+    "id":"e8c7e51b-a488-4925-9634-5ec102d83d42"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9581,
+  "end":9621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the first time I\nwent to the pen.",
+  "id":"018c6873-3969-4cf7-b59f-0a0f2e8faf82",
+  "params":{
+    "id":"4b5f61f5-356c-459e-ac15-ef82ebdcc74b"
+  },
+  "name":"Abel"
+}

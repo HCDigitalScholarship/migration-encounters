@@ -1,0 +1,13 @@
+{
+  "start":30364,
+  "end":30385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like I'm\n     alone.\"",
+  "id":"fc54a64c-46fc-4671-82b6-a9f7d29f501d",
+  "params":{
+    "id":"fc54a64c-46fc-4671-82b6-a9f7d29f501d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

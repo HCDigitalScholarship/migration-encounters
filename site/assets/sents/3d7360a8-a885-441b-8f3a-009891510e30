@@ -1,0 +1,12 @@
+{
+  "start":15815,
+  "end":16035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hugo: Hopefully, because last time his grandmother told me that he was\n   going to come, I was about to buy the tickets, and then at the last minute,\n   she said, \u201cNo, he's too small,\u201d this and that, and they lied to me.",
+  "id":"3d7360a8-a885-441b-8f3a-009891510e30",
+  "params":{
+    "id":"2cb4fb57-baa5-4b51-b515-7974674dc266"
+  },
+  "name":"Hugo"
+}

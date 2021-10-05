@@ -1,0 +1,13 @@
+{
+  "start":228,
+  "end":259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The village is really\n   small.",
+  "id":"ff1e9b2c-02b0-4405-9462-5c3f9ba1dda0",
+  "params":{
+    "id":"ff1e9b2c-02b0-4405-9462-5c3f9ba1dda0",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

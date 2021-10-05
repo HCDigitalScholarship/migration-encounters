@@ -1,0 +1,12 @@
+{
+  "start":36898,
+  "end":36926,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm an illegal\n   immigrant.",
+  "id":"ada3b2f8-ac87-44f9-98ae-56319463d949",
+  "params":{
+    "id":"469e32a6-f983-4e92-8837-4fbaaad4e5fb"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24580,
+  "end":24603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The bus takes you home.",
+  "id":"9cc3151c-4e15-48bb-828b-da568e135ac3",
+  "params":{
+    "id":"6dc5b7aa-adeb-410d-9176-3266d8e452d3"
+  },
+  "name":"Yair"
+}

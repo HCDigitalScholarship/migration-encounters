@@ -1,0 +1,13 @@
+{
+  "start":26104,
+  "end":26176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do too [Laila laughs], it's one of my big passions too, I get\n   that.",
+  "id":"f10d54f3-4e28-40d7-a495-f94b8837c711",
+  "params":{
+    "id":"f10d54f3-4e28-40d7-a495-f94b8837c711",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23641,
+  "end":23685,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people wouldn't even give me some food.",
+  "id":"bb830811-1e20-42f9-abcf-fd1a6cc1d365",
+  "params":{
+    "id":"bb830811-1e20-42f9-abcf-fd1a6cc1d365",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

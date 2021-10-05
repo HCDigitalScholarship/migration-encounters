@@ -1,0 +1,13 @@
+{
+  "start":31587,
+  "end":31650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And yeah, we went through, but we didn't found anybody\n   else.",
+  "id":"aef244a6-4b5f-4ee7-8d97-1e559158efee",
+  "params":{
+    "id":"aef244a6-4b5f-4ee7-8d97-1e559158efee",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

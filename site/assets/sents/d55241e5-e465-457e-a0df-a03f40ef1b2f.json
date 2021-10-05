@@ -1,0 +1,13 @@
+{
+  "start":20121,
+  "end":20139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I.C.E. took me in.",
+  "id":"d55241e5-e465-457e-a0df-a03f40ef1b2f",
+  "params":{
+    "id":"d55241e5-e465-457e-a0df-a03f40ef1b2f",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

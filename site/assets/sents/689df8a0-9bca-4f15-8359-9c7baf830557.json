@@ -1,0 +1,13 @@
+{
+  "start":28165,
+  "end":28237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's going to be something else, but food has always been my\n   passion.",
+  "id":"689df8a0-9bca-4f15-8359-9c7baf830557",
+  "params":{
+    "id":"689df8a0-9bca-4f15-8359-9c7baf830557",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

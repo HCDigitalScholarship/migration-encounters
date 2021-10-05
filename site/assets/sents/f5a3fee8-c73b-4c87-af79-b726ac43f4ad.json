@@ -1,0 +1,12 @@
+{
+  "start":16678,
+  "end":16759,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You wake up at 6:00 A.M., you get home at\n   8:00, and it's still the same thing.",
+  "id":"f5a3fee8-c73b-4c87-af79-b726ac43f4ad",
+  "params":{
+    "id":"0eda5790-6878-4b52-8719-1abf8479abf1"
+  },
+  "name":"Joana"
+}

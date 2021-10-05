@@ -1,0 +1,12 @@
+{
+  "start":25512,
+  "end":25532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go buy the movies.",
+  "id":"7ccc8363-4e66-46a8-b01b-fb2c8b3243fa",
+  "params":{
+    "id":"87ad0d03-4799-489f-b3a2-8baac97c207b"
+  },
+  "name":"Abel"
+}

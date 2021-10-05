@@ -1,0 +1,13 @@
+{
+  "start":5678,
+  "end":5784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And if\n   I didn't do my work right, she would put a bad grade on my work and she\n   wouldn't tell me why.",
+  "id":"a643e419-60e5-446a-a902-a1911f9795bc",
+  "params":{
+    "id":"a643e419-60e5-446a-a902-a1911f9795bc",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

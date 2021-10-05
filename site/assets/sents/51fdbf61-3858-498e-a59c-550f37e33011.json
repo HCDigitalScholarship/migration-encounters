@@ -1,0 +1,13 @@
+{
+  "start":18011,
+  "end":18046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I came back, I was thirty-one.",
+  "id":"51fdbf61-3858-498e-a59c-550f37e33011",
+  "params":{
+    "id":"51fdbf61-3858-498e-a59c-550f37e33011",
+    "class":"anno"
+  },
+  "name":"Many"
+}

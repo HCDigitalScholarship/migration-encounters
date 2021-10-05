@@ -1,0 +1,12 @@
+{
+  "start":19924,
+  "end":19962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me everything that I needed.",
+  "id":"324d8fb2-a877-4193-bc28-ffc9de1a0623",
+  "params":{
+    "id":"224a7efc-aa74-4397-8eae-8fb0431b12b8"
+  },
+  "name":"Mike"
+}

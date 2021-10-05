@@ -1,0 +1,13 @@
+{
+  "start":7282,
+  "end":7340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d No, that's the area code to\n   Oklahoma, look it up man.",
+  "id":"7044f4c4-7627-4620-bdfd-a1314832cc3b",
+  "params":{
+    "id":"7044f4c4-7627-4620-bdfd-a1314832cc3b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

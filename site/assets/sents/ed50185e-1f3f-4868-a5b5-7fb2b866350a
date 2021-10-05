@@ -1,0 +1,12 @@
+{
+  "start":421,
+  "end":440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a little boy.",
+  "id":"ed50185e-1f3f-4868-a5b5-7fb2b866350a",
+  "params":{
+    "id":"7cca9fc5-34f5-46f1-be8d-d76464eb131d"
+  },
+  "name":"Ivan"
+}

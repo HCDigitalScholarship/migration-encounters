@@ -1,0 +1,13 @@
+{
+  "start":40255,
+  "end":40310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have my report cards and my diploma, but I haven't...",
+  "id":"2c23511b-06f1-47a9-9f5e-9f169c4a930d",
+  "params":{
+    "id":"2c23511b-06f1-47a9-9f5e-9f169c4a930d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

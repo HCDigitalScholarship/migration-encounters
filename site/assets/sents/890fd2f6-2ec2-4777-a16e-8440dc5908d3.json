@@ -1,0 +1,13 @@
+{
+  "start":272,
+  "end":351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It might be\n   painful for you to talk about, and I'm sorry if that's the case.",
+  "id":"890fd2f6-2ec2-4777-a16e-8440dc5908d3",
+  "params":{
+    "id":"890fd2f6-2ec2-4777-a16e-8440dc5908d3",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

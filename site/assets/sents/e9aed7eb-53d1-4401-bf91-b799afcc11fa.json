@@ -1,0 +1,13 @@
+{
+  "start":2134,
+  "end":2251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And we used to think that\u2019s because she didn't understand, but it\n was because she wanted us to practice the Spanish.",
+  "id":"e9aed7eb-53d1-4401-bf91-b799afcc11fa",
+  "params":{
+    "id":"e9aed7eb-53d1-4401-bf91-b799afcc11fa",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

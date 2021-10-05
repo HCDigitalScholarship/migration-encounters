@@ -1,0 +1,13 @@
+{
+  "start":12300,
+  "end":12392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They threw the\n   food at the ground and threw our stuff at the ground so we can pick it up.",
+  "id":"60d640c7-83b8-4c94-9de9-157140ef8fba",
+  "params":{
+    "id":"60d640c7-83b8-4c94-9de9-157140ef8fba",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

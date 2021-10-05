@@ -1,0 +1,13 @@
+{
+  "start":11421,
+  "end":11526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do know of other friends\n   that their parents were at work all day and he was by himself at the house.",
+  "id":"90b18a2b-d157-48f4-ae27-ccc4aa7cbf0f",
+  "params":{
+    "id":"90b18a2b-d157-48f4-ae27-ccc4aa7cbf0f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

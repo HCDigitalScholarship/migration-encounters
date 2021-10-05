@@ -1,0 +1,13 @@
+{
+  "start":21355,
+  "end":21406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He knew that he\n   couldn't push me around anymore.",
+  "id":"6c679480-c183-4fba-b6fd-0ac60adb27e1",
+  "params":{
+    "id":"6c679480-c183-4fba-b6fd-0ac60adb27e1",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

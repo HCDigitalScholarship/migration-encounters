@@ -1,0 +1,12 @@
+{
+  "start":40550,
+  "end":40564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How's it been?",
+  "id":"29573292-095c-4400-a8cb-2100b28fdeb4",
+  "params":{
+    "id":"b28e4078-93dc-48fd-8efc-4f6155d812a8"
+  },
+  "name":"Joseph"
+}

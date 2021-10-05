@@ -1,0 +1,12 @@
+{
+  "start":29165,
+  "end":29230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   like, \"I do live in a nice area, but my house is not nice.",
+  "id":"c245c7f1-e623-4f46-9806-4b8993a0deb4",
+  "params":{
+    "id":"5e71c437-7509-4815-ae47-8a1ce2723b55"
+  },
+  "name":"Miguel C"
+}

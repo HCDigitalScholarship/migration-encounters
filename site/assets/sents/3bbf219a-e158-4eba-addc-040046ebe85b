@@ -1,0 +1,12 @@
+{
+  "start":28794,
+  "end":28818,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was too\n   expensive.",
+  "id":"3bbf219a-e158-4eba-addc-040046ebe85b",
+  "params":{
+    "id":"d94533b2-d22f-4901-a4da-3699008d7233"
+  },
+  "name":"Sylent"
+}

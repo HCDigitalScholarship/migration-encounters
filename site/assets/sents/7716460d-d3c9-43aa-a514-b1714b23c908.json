@@ -1,0 +1,13 @@
+{
+  "start":8585,
+  "end":8639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me and my wife, we was having a good life\n   together.",
+  "id":"7716460d-d3c9-43aa-a514-b1714b23c908",
+  "params":{
+    "id":"7716460d-d3c9-43aa-a514-b1714b23c908",
+    "class":"anno"
+  },
+  "name":"Many"
+}

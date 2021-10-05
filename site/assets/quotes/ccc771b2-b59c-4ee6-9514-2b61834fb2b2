@@ -1,0 +1,13 @@
+{
+  "id":"ccc771b2-b59c-4ee6-9514-2b61834fb2b2",
+  "type":"text",
+  "start":2181,
+  "end":2337,
+  "label":"Leaving the US, Detention",
+  "params":{
+    "id":"ccc771b2-b59c-4ee6-9514-2b61834fb2b2",
+    "class":"anno"
+  },
+  "name":"Ivan",
+  "text":"Anita: What caused you to leave the United States? Was it your decision?\n   Were you detained and deported?\n \n \n   Ivan: I was detained and deported.\n \n \n  "
+}

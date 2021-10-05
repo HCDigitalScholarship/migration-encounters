@@ -1,0 +1,12 @@
+{
+  "start":17978,
+  "end":18018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Diana: That you don't make enough money.",
+  "id":"4fb17857-b3e8-44d8-9ffa-d58825b2ef06",
+  "params":{
+    "id":"2cb51a99-d942-4f1d-9ea9-5624f6bb9d7c"
+  },
+  "name":"Diana"
+}

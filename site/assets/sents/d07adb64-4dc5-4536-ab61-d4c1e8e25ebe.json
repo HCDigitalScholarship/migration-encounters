@@ -1,0 +1,15 @@
+{
+  "start":16741,
+  "end":16837,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Frank: \"I don\u2019t want to fuck with Mexicans so transfer me to an American\n   department\".",
+  "id":"d07adb64-4dc5-4536-ab61-d4c1e8e25ebe",
+  "params":{
+    "id":"d07adb64-4dc5-4536-ab61-d4c1e8e25ebe",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

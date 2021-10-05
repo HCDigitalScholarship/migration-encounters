@@ -1,0 +1,12 @@
+{
+  "start":65040,
+  "end":65050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's good.",
+  "id":"4707e48f-dbdd-4026-bbab-cb2064fe7094",
+  "params":{
+    "id":"4b28fa25-a1df-47ba-a15a-83a70291c020"
+  },
+  "name":"Daniel B"
+}

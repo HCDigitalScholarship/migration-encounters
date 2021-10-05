@@ -1,0 +1,12 @@
+{
+  "start":1089,
+  "end":1175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She helped me send all the forms and two or\n   three weeks after, I received a letter.",
+  "id":"05a69343-ffad-47dd-a4b2-ea1c6efd43cd",
+  "params":{
+    "id":"794178f6-aff4-44ee-851e-17b62b5e373e"
+  },
+  "name":"Frank"
+}

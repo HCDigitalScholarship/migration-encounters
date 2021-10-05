@@ -1,0 +1,12 @@
+{
+  "start":19019,
+  "end":19035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n beautiful.",
+  "id":"62edeab2-b6db-44c0-882a-8e48d5019cf8",
+  "params":{
+    "id":"59b19007-5a6d-462d-a954-99acef09c57d"
+  },
+  "name":"Ana"
+}

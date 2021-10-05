@@ -1,0 +1,13 @@
+{
+  "start":733,
+  "end":760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was already over there.",
+  "id":"b11f2ceb-1df5-4a99-ba58-82bdc22005d4",
+  "params":{
+    "id":"b11f2ceb-1df5-4a99-ba58-82bdc22005d4",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

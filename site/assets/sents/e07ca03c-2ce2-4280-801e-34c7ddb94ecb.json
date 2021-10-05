@@ -1,0 +1,13 @@
+{
+  "start":10282,
+  "end":10323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So have you felt welcomed back to Mexico?",
+  "id":"e07ca03c-2ce2-4280-801e-34c7ddb94ecb",
+  "params":{
+    "id":"e07ca03c-2ce2-4280-801e-34c7ddb94ecb",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

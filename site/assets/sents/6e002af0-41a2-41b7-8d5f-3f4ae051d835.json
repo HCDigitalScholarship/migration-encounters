@@ -1,0 +1,13 @@
+{
+  "start":46440,
+  "end":46479,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just going to chill out for a year.",
+  "id":"6e002af0-41a2-41b7-8d5f-3f4ae051d835",
+  "params":{
+    "id":"6e002af0-41a2-41b7-8d5f-3f4ae051d835",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

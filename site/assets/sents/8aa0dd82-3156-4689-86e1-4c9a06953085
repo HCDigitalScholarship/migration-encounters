@@ -1,0 +1,12 @@
+{
+  "start":25519,
+  "end":25556,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did someone give you some\n   therapy.",
+  "id":"8aa0dd82-3156-4689-86e1-4c9a06953085",
+  "params":{
+    "id":"a951882e-cc4f-422b-b634-e36f7de7fe22"
+  },
+  "name":"Mike"
+}

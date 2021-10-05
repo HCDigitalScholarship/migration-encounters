@@ -1,0 +1,13 @@
+{
+  "start":23920,
+  "end":23947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you currently volunteer?",
+  "id":"827b50ba-9ff3-4ec5-980a-13bfa60b0f31",
+  "params":{
+    "id":"827b50ba-9ff3-4ec5-980a-13bfa60b0f31",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

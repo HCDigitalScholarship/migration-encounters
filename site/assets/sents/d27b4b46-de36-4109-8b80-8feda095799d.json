@@ -1,0 +1,13 @@
+{
+  "start":9581,
+  "end":9617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We didn't know\n   where to get that.",
+  "id":"d27b4b46-de36-4109-8b80-8feda095799d",
+  "params":{
+    "id":"d27b4b46-de36-4109-8b80-8feda095799d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

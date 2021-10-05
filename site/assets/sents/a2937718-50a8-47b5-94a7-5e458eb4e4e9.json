@@ -1,0 +1,13 @@
+{
+  "start":35997,
+  "end":36031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But they're not doing that, to\n me",
+  "id":"a2937718-50a8-47b5-94a7-5e458eb4e4e9",
+  "params":{
+    "id":"a2937718-50a8-47b5-94a7-5e458eb4e4e9",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

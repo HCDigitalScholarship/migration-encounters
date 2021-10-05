@@ -1,0 +1,13 @@
+{
+  "start":8114,
+  "end":8139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The black and white ones.",
+  "id":"de8c78c1-59e9-45a7-bffa-6bb25b247743",
+  "params":{
+    "id":"de8c78c1-59e9-45a7-bffa-6bb25b247743",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

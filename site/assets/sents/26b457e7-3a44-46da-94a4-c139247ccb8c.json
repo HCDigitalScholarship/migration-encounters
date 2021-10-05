@@ -1,0 +1,15 @@
+{
+  "start":20291,
+  "end":20358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I say compassion, I don't mean feeling bad, but understanding.",
+  "id":"26b457e7-3a44-46da-94a4-c139247ccb8c",
+  "params":{
+    "id":"26b457e7-3a44-46da-94a4-c139247ccb8c",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

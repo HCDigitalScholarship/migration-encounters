@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":14716,
+  "end":14736,
+  "label":"TYPO -- remove golf course name",
+  "id":"d9d0284f-d08e-42ff-b8ab-4ee018ca5a2b",
+  "params":{
+    "id":"983a8579-c386-41f2-b64d-2af5c8e12fdf"
+  },
+  "name":"Rodolfo",
+  "text":"Wilmette Golf Course"
+}

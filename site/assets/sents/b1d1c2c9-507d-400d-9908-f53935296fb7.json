@@ -1,0 +1,13 @@
+{
+  "start":31212,
+  "end":31275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He comes back, and I have never seen him counting his\n   money.",
+  "id":"b1d1c2c9-507d-400d-9908-f53935296fb7",
+  "params":{
+    "id":"b1d1c2c9-507d-400d-9908-f53935296fb7",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

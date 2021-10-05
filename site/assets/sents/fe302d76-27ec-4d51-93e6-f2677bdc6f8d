@@ -1,0 +1,12 @@
+{
+  "start":1860,
+  "end":1900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to make a lot of friends\n   there.",
+  "id":"fe302d76-27ec-4d51-93e6-f2677bdc6f8d",
+  "params":{
+    "id":"c326034b-9ab9-4f1f-9e55-7baff7d4172d"
+  },
+  "name":"Carlos"
+}

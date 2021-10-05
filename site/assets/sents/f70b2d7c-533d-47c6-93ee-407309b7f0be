@@ -1,0 +1,12 @@
+{
+  "start":34122,
+  "end":34170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Explain to me what it is\n   that you're feeling.",
+  "id":"f70b2d7c-533d-47c6-93ee-407309b7f0be",
+  "params":{
+    "id":"5d033d37-7a32-4825-b9a0-8d087f1c5a00"
+  },
+  "name":"Ruben"
+}

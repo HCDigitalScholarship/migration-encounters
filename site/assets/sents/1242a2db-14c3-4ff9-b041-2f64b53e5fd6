@@ -1,0 +1,12 @@
+{
+  "start":18048,
+  "end":18062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was hard?",
+  "id":"1242a2db-14c3-4ff9-b041-2f64b53e5fd6",
+  "params":{
+    "id":"76020da9-ad8d-43dc-b776-098fec442008"
+  },
+  "name":"Rodrigo"
+}

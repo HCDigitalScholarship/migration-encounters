@@ -1,0 +1,12 @@
+{
+  "start":42349,
+  "end":42365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not all of them.",
+  "id":"ebbb6088-9100-4f73-995e-25500eea9ae2",
+  "params":{
+    "id":"a115914c-a36e-49bb-a000-bc90764f4ace"
+  },
+  "name":"Sylent"
+}

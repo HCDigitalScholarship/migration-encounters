@@ -1,0 +1,12 @@
+{
+  "start":34317,
+  "end":34353,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And are they both US citizens, then?",
+  "id":"2c9eac46-c2cf-4c2a-8de5-79a883e2683a",
+  "params":{
+    "id":"af18395a-1de6-4cb5-8c31-362d754c8f34"
+  },
+  "name":"Daniel"
+}

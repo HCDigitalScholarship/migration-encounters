@@ -1,0 +1,13 @@
+{
+  "start":39695,
+  "end":39727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he's in detention right now.",
+  "id":"9d73ecd8-bf72-4af4-a8a0-1c183b9087c9",
+  "params":{
+    "id":"9d73ecd8-bf72-4af4-a8a0-1c183b9087c9",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

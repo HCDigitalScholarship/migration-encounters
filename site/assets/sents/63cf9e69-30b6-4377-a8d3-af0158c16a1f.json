@@ -1,0 +1,13 @@
+{
+  "start":7459,
+  "end":7472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 11, 12.",
+  "id":"63cf9e69-30b6-4377-a8d3-af0158c16a1f",
+  "params":{
+    "id":"63cf9e69-30b6-4377-a8d3-af0158c16a1f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

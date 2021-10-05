@@ -1,0 +1,12 @@
+{
+  "start":21604,
+  "end":21645,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said \u201cSorry, I just can't let you go.\u201d",
+  "id":"e5d2b3c8-6003-42b5-81aa-1c91d1a8d38f",
+  "params":{
+    "id":"d3902596-89d1-453f-97af-8985d00883f0"
+  },
+  "name":"Rocio"
+}

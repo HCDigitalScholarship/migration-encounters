@@ -1,0 +1,13 @@
+{
+  "start":32172,
+  "end":32261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I think that my experience here, to be coming back over here is\n   not as big deal.",
+  "id":"1fae4b8b-13f9-4ec0-abed-ea78315f97d7",
+  "params":{
+    "id":"1fae4b8b-13f9-4ec0-abed-ea78315f97d7",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

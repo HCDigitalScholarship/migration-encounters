@@ -1,0 +1,13 @@
+{
+  "start":65124,
+  "end":65222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I think just the fact that you're thinking through all this,\n     the evil will not come out.",
+  "id":"f8aa7ef8-9044-4935-93f8-20cce892b20d",
+  "params":{
+    "id":"f8aa7ef8-9044-4935-93f8-20cce892b20d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

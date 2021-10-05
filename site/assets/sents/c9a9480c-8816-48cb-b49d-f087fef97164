@@ -1,0 +1,12 @@
+{
+  "start":10491,
+  "end":10510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's got two kids.",
+  "id":"c9a9480c-8816-48cb-b49d-f087fef97164",
+  "params":{
+    "id":"25b639e4-ffbd-4215-92dc-ea9441aebdff"
+  },
+  "name":"Jose"
+}

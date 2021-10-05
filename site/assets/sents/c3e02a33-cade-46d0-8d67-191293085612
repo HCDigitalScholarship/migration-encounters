@@ -1,0 +1,12 @@
+{
+  "start":25825,
+  "end":25870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"You don't have the\n   proper documentation.\"",
+  "id":"c3e02a33-cade-46d0-8d67-191293085612",
+  "params":{
+    "id":"a5ddf159-80a1-4695-b7d5-04257f2557ff"
+  },
+  "name":"Rodolfo"
+}

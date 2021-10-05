@@ -1,0 +1,12 @@
+{
+  "start":1368,
+  "end":1408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of\n   job was it in the hotel?",
+  "id":"b3f77893-00b6-4c7d-b5e3-531801954db3",
+  "params":{
+    "id":"c43bb2c2-cce0-40f3-af49-c5743b65ea94"
+  },
+  "name":"Rocio"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3965,
+  "end":4035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then from there, from Minnesota, they wanted to move\n   to California.",
+  "id":"43fa1b54-54ab-4af2-a4f0-66c9d799d102",
+  "params":{
+    "id":"43fa1b54-54ab-4af2-a4f0-66c9d799d102",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

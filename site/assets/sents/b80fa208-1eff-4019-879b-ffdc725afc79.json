@@ -1,0 +1,13 @@
+{
+  "start":9366,
+  "end":9450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened after too many problems, she started\n   talking with different people.",
+  "id":"b80fa208-1eff-4019-879b-ffdc725afc79",
+  "params":{
+    "id":"b80fa208-1eff-4019-879b-ffdc725afc79",
+    "class":"anno"
+  },
+  "name":"Many"
+}

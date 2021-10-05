@@ -1,0 +1,13 @@
+{
+  "start":35729,
+  "end":35802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Axel: Gave them all the information, they're like, \"Okay.",
+  "id":"f0740a32-084c-42ea-ad14-4d69ae7f68c2",
+  "params":{
+    "id":"f0740a32-084c-42ea-ad14-4d69ae7f68c2",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

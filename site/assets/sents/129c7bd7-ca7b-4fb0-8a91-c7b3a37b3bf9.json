@@ -1,0 +1,13 @@
+{
+  "start":1122,
+  "end":1151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   just got past, you know?",
+  "id":"129c7bd7-ca7b-4fb0-8a91-c7b3a37b3bf9",
+  "params":{
+    "id":"129c7bd7-ca7b-4fb0-8a91-c7b3a37b3bf9",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

@@ -1,0 +1,12 @@
+{
+  "start":61152,
+  "end":61290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you\n   answered my question because I was going to ask, since you love outdoorsy\n   stuff, what outdoorsy stuff do you get to do here?",
+  "id":"b7c9763d-92e9-49e4-b5b6-64262f3cce31",
+  "params":{
+    "id":"4da343c6-41db-44f5-afaa-eabd974b5924"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21448,
+  "end":21485,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"What do you want me to cook, beans?\"",
+  "id":"7c5e6df5-9e5a-4ab9-988b-1ec4a0ceeea4",
+  "params":{
+    "id":"ae49f8e8-8bb0-4862-8a7a-e0490ee2a979"
+  },
+  "name":"Beto"
+}

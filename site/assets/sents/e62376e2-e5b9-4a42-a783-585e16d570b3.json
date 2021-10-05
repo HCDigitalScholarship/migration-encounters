@@ -1,0 +1,13 @@
+{
+  "start":10100,
+  "end":10177,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the North part of Orange County, you have a place\n   called Little Saigon.",
+  "id":"e62376e2-e5b9-4a42-a783-585e16d570b3",
+  "params":{
+    "id":"e62376e2-e5b9-4a42-a783-585e16d570b3",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

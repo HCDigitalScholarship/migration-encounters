@@ -1,0 +1,13 @@
+{
+  "start":5245,
+  "end":5279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis: Go to school and readapt and",
+  "id":"e0ef4810-fa77-4f6b-9728-951843d0a1eb",
+  "params":{
+    "id":"e0ef4810-fa77-4f6b-9728-951843d0a1eb",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

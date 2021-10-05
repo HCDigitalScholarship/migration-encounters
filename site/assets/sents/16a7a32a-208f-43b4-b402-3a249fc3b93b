@@ -1,0 +1,12 @@
+{
+  "start":16505,
+  "end":16552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: Did they give you money, food, shelter?",
+  "id":"16a7a32a-208f-43b4-b402-3a249fc3b93b",
+  "params":{
+    "id":"675476af-cd55-4440-91a4-90e2893661d2"
+  },
+  "name":"Josue"
+}

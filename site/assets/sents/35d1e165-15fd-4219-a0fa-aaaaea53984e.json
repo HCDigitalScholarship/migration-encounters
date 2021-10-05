@@ -1,0 +1,13 @@
+{
+  "start":3495,
+  "end":3569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, we\n   got married and then we went back to Mexico to get married here.",
+  "id":"35d1e165-15fd-4219-a0fa-aaaaea53984e",
+  "params":{
+    "id":"35d1e165-15fd-4219-a0fa-aaaaea53984e",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":52875,
+  "end":52926,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went\n into some streets, the streets that I knew.",
+  "id":"0de74b08-2153-4e25-adea-d2023e8805d7",
+  "params":{
+    "id":"9ce2e972-bf93-4044-8e93-175dcc2f4c6c"
+  },
+  "name":"Axel"
+}

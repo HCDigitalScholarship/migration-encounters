@@ -1,0 +1,13 @@
+{
+  "start":21465,
+  "end":21497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think you\n   grow as a person.",
+  "id":"5d7b2fc4-905a-4569-9568-9006b7e2ed11",
+  "params":{
+    "id":"5d7b2fc4-905a-4569-9568-9006b7e2ed11",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

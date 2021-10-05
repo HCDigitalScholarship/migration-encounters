@@ -1,0 +1,12 @@
+{
+  "start":4230,
+  "end":4286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a small\n   town, it's called _________, California.",
+  "id":"aa18bbc2-d70a-4427-8800-70c12eee0854",
+  "params":{
+    "id":"156dea3c-7f9e-4213-8d1d-b831ffa43750"
+  },
+  "name":"Rodrigo"
+}

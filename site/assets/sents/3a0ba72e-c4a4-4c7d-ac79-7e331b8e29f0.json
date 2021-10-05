@@ -1,0 +1,13 @@
+{
+  "start":10029,
+  "end":10068,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   how high school is out there.",
+  "id":"3a0ba72e-c4a4-4c7d-ac79-7e331b8e29f0",
+  "params":{
+    "id":"3a0ba72e-c4a4-4c7d-ac79-7e331b8e29f0",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

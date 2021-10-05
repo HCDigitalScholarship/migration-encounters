@@ -1,0 +1,13 @@
+{
+  "start":22156,
+  "end":22193,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nmiss being able to go to the beach.",
+  "id":"5c0e56c5-760e-4cc5-b987-8d99a6fba6fd",
+  "params":{
+    "id":"5c0e56c5-760e-4cc5-b987-8d99a6fba6fd",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

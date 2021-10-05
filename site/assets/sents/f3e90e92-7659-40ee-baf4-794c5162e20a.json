@@ -1,0 +1,13 @@
+{
+  "start":36319,
+  "end":36345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I even thought about that.",
+  "id":"f3e90e92-7659-40ee-baf4-794c5162e20a",
+  "params":{
+    "id":"f3e90e92-7659-40ee-baf4-794c5162e20a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

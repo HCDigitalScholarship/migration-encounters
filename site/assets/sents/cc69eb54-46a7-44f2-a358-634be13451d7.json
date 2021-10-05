@@ -1,0 +1,13 @@
+{
+  "start":6860,
+  "end":6883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nobody touches Daniel.\"",
+  "id":"cc69eb54-46a7-44f2-a358-634be13451d7",
+  "params":{
+    "id":"cc69eb54-46a7-44f2-a358-634be13451d7",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

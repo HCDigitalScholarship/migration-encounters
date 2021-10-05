@@ -1,0 +1,13 @@
+{
+  "start":5181,
+  "end":5238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived with my father, my mother, my brother and myself.",
+  "id":"3ba55f4b-c119-479a-9c8d-8a9854f645f5",
+  "params":{
+    "id":"3ba55f4b-c119-479a-9c8d-8a9854f645f5",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

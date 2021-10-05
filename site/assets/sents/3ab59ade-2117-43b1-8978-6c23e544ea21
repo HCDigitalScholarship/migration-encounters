@@ -1,0 +1,12 @@
+{
+  "start":24120,
+  "end":24220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in senior year, I was about to finish when I received the\n   news that my pa was going to die.",
+  "id":"3ab59ade-2117-43b1-8978-6c23e544ea21",
+  "params":{
+    "id":"55be8076-bcd7-4663-a912-4cda544b1293"
+  },
+  "name":"Luis B"
+}

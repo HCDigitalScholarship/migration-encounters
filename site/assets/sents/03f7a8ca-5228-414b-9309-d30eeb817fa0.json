@@ -1,0 +1,13 @@
+{
+  "start":5692,
+  "end":5737,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was really excited, and she was happy.",
+  "id":"03f7a8ca-5228-414b-9309-d30eeb817fa0",
+  "params":{
+    "id":"03f7a8ca-5228-414b-9309-d30eeb817fa0",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

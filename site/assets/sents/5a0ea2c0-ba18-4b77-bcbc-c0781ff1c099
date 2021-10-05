@@ -1,0 +1,12 @@
+{
+  "start":21538,
+  "end":21590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You seem like such a calm person, so I'm asking you.",
+  "id":"5a0ea2c0-ba18-4b77-bcbc-c0781ff1c099",
+  "params":{
+    "id":"c12e45d3-b51c-49ad-99bf-f9f2998f1f14"
+  },
+  "name":"Rodrigo"
+}

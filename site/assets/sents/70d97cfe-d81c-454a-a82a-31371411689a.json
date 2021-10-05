@@ -1,0 +1,12 @@
+{
+  "start":47585,
+  "end":47626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where are\n you so we can go pick you up?\"",
+  "id":"70d97cfe-d81c-454a-a82a-31371411689a",
+  "params":{
+    "id":"67a2c24c-94a0-4bb6-913b-9066f66e9e98"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25122,
+  "end":25207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll transfer\n   you to the IVR\u2014\"\n \n \n   Anita: To the what?\n \n \n   Rodrigo: The IVR.",
+  "id":"df920abb-2379-4453-89c3-ac076c168903",
+  "params":{
+    "id":"8dcdb12f-c9fe-4447-93f6-bc19b896ccc9"
+  },
+  "name":"Rodrigo"
+}

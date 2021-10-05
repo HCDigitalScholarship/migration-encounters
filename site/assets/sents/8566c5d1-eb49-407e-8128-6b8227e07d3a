@@ -1,0 +1,12 @@
+{
+  "start":15221,
+  "end":15298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n My dad told me, \"Dude, if you get arrested, that's going to be an issue.\"\n ",
+  "id":"8566c5d1-eb49-407e-8128-6b8227e07d3a",
+  "params":{
+    "id":"56358be6-2755-43a0-b459-f4eeb5c3b9fe"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32157,
+  "end":32228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   tell my mom, either, because she was going to be mad at me.",
+  "id":"c9648c36-fbed-4aa6-b7c8-89f3b0156c5e",
+  "params":{
+    "id":"c9648c36-fbed-4aa6-b7c8-89f3b0156c5e",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

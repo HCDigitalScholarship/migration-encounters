@@ -1,0 +1,13 @@
+{
+  "start":24790,
+  "end":24829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going to be there three months.\u201d",
+  "id":"69c550b1-c8ec-4dd7-995b-b4371bd6d220",
+  "params":{
+    "id":"69c550b1-c8ec-4dd7-995b-b4371bd6d220",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

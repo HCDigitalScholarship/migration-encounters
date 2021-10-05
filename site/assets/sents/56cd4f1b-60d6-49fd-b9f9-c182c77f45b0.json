@@ -1,0 +1,13 @@
+{
+  "start":8977,
+  "end":9068,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents don't drink, my\n   parents don't abuse you guys, my parents really care for you.",
+  "id":"56cd4f1b-60d6-49fd-b9f9-c182c77f45b0",
+  "params":{
+    "id":"56cd4f1b-60d6-49fd-b9f9-c182c77f45b0",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

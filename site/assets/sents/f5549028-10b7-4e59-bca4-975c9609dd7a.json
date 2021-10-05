@@ -1,0 +1,13 @@
+{
+  "start":4536,
+  "end":4558,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How'd you manage that?",
+  "id":"f5549028-10b7-4e59-bca4-975c9609dd7a",
+  "params":{
+    "id":"f5549028-10b7-4e59-bca4-975c9609dd7a",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

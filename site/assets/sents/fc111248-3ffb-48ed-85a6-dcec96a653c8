@@ -1,0 +1,12 @@
+{
+  "start":23292,
+  "end":23342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mi hija la m\u00e1s peque\u00f1a ya estaba aqu\u00ed con mi mam\u00e1.",
+  "id":"fc111248-3ffb-48ed-85a6-dcec96a653c8",
+  "params":{
+    "id":"d7db2dcb-1390-4f74-bc41-687ea55f5c33"
+  },
+  "name":"Maria"
+}

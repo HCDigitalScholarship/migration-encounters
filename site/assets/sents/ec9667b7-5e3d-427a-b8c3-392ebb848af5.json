@@ -1,0 +1,13 @@
+{
+  "start":50345,
+  "end":50402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything went back to normal once I got back to school.",
+  "id":"ec9667b7-5e3d-427a-b8c3-392ebb848af5",
+  "params":{
+    "id":"ec9667b7-5e3d-427a-b8c3-392ebb848af5",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

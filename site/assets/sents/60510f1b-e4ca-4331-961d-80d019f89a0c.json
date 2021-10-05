@@ -1,0 +1,13 @@
+{
+  "start":20855,
+  "end":20970,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They said, \"We're going to protect you but at the same time\n   if you see something happening, you need to step up.",
+  "id":"60510f1b-e4ca-4331-961d-80d019f89a0c",
+  "params":{
+    "id":"60510f1b-e4ca-4331-961d-80d019f89a0c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

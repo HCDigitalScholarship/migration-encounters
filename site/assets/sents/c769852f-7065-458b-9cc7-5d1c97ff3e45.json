@@ -1,0 +1,13 @@
+{
+  "start":27141,
+  "end":27223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was angry when I had to go to the US because I had everything here,\n   you know?",
+  "id":"c769852f-7065-458b-9cc7-5d1c97ff3e45",
+  "params":{
+    "id":"c769852f-7065-458b-9cc7-5d1c97ff3e45",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

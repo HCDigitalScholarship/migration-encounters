@@ -1,0 +1,13 @@
+{
+  "start":6769,
+  "end":6841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So then going from that, said your family moved, where did you move\n to?",
+  "id":"e3afcb22-0b28-453d-b518-49625b199931",
+  "params":{
+    "id":"e3afcb22-0b28-453d-b518-49625b199931",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

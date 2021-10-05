@@ -1,0 +1,12 @@
+{
+  "start":9339,
+  "end":9365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That's what I thought.",
+  "id":"0ab67c85-3cae-4975-8d4a-c0e2c6a97783",
+  "params":{
+    "id":"6d7bdcbf-0dbf-48e8-967b-375dc5d1fdde"
+  },
+  "name":"Many"
+}

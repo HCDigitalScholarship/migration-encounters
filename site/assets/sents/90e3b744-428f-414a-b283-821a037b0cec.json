@@ -1,0 +1,13 @@
+{
+  "start":30650,
+  "end":30752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At least the\n   last girlfriend that I had, her mother was the one that had the pants in\n   the house.",
+  "id":"90e3b744-428f-414a-b283-821a037b0cec",
+  "params":{
+    "id":"90e3b744-428f-414a-b283-821a037b0cec",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

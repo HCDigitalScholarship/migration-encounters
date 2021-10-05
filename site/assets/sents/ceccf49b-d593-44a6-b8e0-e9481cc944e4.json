@@ -1,0 +1,13 @@
+{
+  "start":41556,
+  "end":41575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They'll let you go.",
+  "id":"ceccf49b-d593-44a6-b8e0-e9481cc944e4",
+  "params":{
+    "id":"ceccf49b-d593-44a6-b8e0-e9481cc944e4",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

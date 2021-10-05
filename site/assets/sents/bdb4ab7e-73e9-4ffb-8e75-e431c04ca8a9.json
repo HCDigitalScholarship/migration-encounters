@@ -1,0 +1,13 @@
+{
+  "start":15268,
+  "end":15355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If someone here does not\n     have the same ideas, we don't actually have this problem.",
+  "id":"bdb4ab7e-73e9-4ffb-8e75-e431c04ca8a9",
+  "params":{
+    "id":"bdb4ab7e-73e9-4ffb-8e75-e431c04ca8a9",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

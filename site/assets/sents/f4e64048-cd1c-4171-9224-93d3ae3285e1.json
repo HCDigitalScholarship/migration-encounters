@@ -1,0 +1,12 @@
+{
+  "start":7613,
+  "end":7647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody is asking me for a Nokia?",
+  "id":"f4e64048-cd1c-4171-9224-93d3ae3285e1",
+  "params":{
+    "id":"9ca2eb7c-58b0-4b8f-a031-e76883203bc8"
+  },
+  "name":"Beto"
+}

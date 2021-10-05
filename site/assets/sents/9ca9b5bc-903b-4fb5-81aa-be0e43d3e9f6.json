@@ -1,0 +1,13 @@
+{
+  "start":43582,
+  "end":43644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita:\n \n \n   Do you feel Mexican or American or both?",
+  "id":"9ca9b5bc-903b-4fb5-81aa-be0e43d3e9f6",
+  "params":{
+    "id":"9ca9b5bc-903b-4fb5-81aa-be0e43d3e9f6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

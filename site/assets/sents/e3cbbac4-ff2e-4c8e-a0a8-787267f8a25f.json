@@ -1,0 +1,13 @@
+{
+  "start":2383,
+  "end":2418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you detained by the\n   police?",
+  "id":"e3cbbac4-ff2e-4c8e-a0a8-787267f8a25f",
+  "params":{
+    "id":"e3cbbac4-ff2e-4c8e-a0a8-787267f8a25f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

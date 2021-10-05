@@ -1,0 +1,13 @@
+{
+  "start":31118,
+  "end":31130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He loved me.",
+  "id":"e9b3de90-3252-43cb-9085-6843bccf5e6f",
+  "params":{
+    "id":"e9b3de90-3252-43cb-9085-6843bccf5e6f",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

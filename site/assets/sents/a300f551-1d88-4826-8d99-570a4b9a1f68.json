@@ -1,0 +1,13 @@
+{
+  "start":21106,
+  "end":21146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to go back, I'm not going\nto lie.",
+  "id":"a300f551-1d88-4826-8d99-570a4b9a1f68",
+  "params":{
+    "id":"a300f551-1d88-4826-8d99-570a4b9a1f68",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

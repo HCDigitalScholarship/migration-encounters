@@ -1,0 +1,13 @@
+{
+  "start":10088,
+  "end":10127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d They saw the car at this guy's house.",
+  "id":"9b5e29ff-5b3b-4ddf-886d-6b58fd373f79",
+  "params":{
+    "id":"9b5e29ff-5b3b-4ddf-886d-6b58fd373f79",
+    "class":"anno"
+  },
+  "name":"Many"
+}

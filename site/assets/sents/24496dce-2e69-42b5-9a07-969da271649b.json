@@ -1,0 +1,13 @@
+{
+  "start":66024,
+  "end":66070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It makes me feel good when\n   people say that.",
+  "id":"24496dce-2e69-42b5-9a07-969da271649b",
+  "params":{
+    "id":"24496dce-2e69-42b5-9a07-969da271649b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

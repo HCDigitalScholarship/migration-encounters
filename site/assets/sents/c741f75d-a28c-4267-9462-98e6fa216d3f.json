@@ -1,0 +1,13 @@
+{
+  "start":19989,
+  "end":20009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had an abortion?",
+  "id":"c741f75d-a28c-4267-9462-98e6fa216d3f",
+  "params":{
+    "id":"c741f75d-a28c-4267-9462-98e6fa216d3f",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

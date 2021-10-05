@@ -1,0 +1,13 @@
+{
+  "start":24369,
+  "end":24391,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't belong there",
+  "id":"5d1f9bf0-a6fd-4ccb-8fd6-aa9782b24cc0",
+  "params":{
+    "id":"5d1f9bf0-a6fd-4ccb-8fd6-aa9782b24cc0",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

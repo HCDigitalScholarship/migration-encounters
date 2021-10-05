@@ -1,0 +1,13 @@
+{
+  "start":67897,
+  "end":67926,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And now, not just\n   anybody.",
+  "id":"52b77e61-2f44-4c3f-a806-339fb87f3ccb",
+  "params":{
+    "id":"52b77e61-2f44-4c3f-a806-339fb87f3ccb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

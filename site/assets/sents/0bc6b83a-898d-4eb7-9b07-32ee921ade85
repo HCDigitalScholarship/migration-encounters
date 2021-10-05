@@ -1,0 +1,12 @@
+{
+  "start":14269,
+  "end":14286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, you can say.",
+  "id":"0bc6b83a-898d-4eb7-9b07-32ee921ade85",
+  "params":{
+    "id":"c6496594-982f-47c0-8c78-c09e9fc4192b"
+  },
+  "name":"Frank"
+}

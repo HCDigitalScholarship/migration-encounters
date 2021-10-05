@@ -1,0 +1,13 @@
+{
+  "start":28204,
+  "end":28239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It doesn't matter who's next to us.",
+  "id":"2fe917e3-4536-4aef-9fe7-3bebe2769dce",
+  "params":{
+    "id":"2fe917e3-4536-4aef-9fe7-3bebe2769dce",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

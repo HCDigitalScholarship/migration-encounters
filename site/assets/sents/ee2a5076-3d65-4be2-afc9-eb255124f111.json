@@ -1,0 +1,13 @@
+{
+  "start":49512,
+  "end":49541,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This guy was into\n   his job.",
+  "id":"ee2a5076-3d65-4be2-afc9-eb255124f111",
+  "params":{
+    "id":"ee2a5076-3d65-4be2-afc9-eb255124f111",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

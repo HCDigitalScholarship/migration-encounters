@@ -1,0 +1,15 @@
+{
+  "start":11831,
+  "end":11874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To those of you that were learning English?",
+  "id":"0afb0310-02d1-47df-8dc9-5068b5dbff7d",
+  "params":{
+    "id":"0afb0310-02d1-47df-8dc9-5068b5dbff7d",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

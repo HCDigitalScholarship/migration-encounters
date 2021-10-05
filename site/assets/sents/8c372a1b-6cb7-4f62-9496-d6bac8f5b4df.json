@@ -1,0 +1,13 @@
+{
+  "start":2150,
+  "end":2173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I'm the only child.",
+  "id":"8c372a1b-6cb7-4f62-9496-d6bac8f5b4df",
+  "params":{
+    "id":"8c372a1b-6cb7-4f62-9496-d6bac8f5b4df",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

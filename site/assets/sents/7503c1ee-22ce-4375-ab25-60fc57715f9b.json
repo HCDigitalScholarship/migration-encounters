@@ -1,0 +1,12 @@
+{
+  "start":26902,
+  "end":26949,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Anne: Yeah.\n      \n      \n Ben:",
+  "id":"7503c1ee-22ce-4375-ab25-60fc57715f9b",
+  "params":{
+    "id":"705c4132-a0ca-4b02-9685-30b29f0299b2"
+  },
+  "name":"Ben"
+}

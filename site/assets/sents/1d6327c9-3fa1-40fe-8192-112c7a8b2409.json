@@ -1,0 +1,13 @@
+{
+  "start":51454,
+  "end":51511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We fear what we\n   don't know, especially we fear change.",
+  "id":"1d6327c9-3fa1-40fe-8192-112c7a8b2409",
+  "params":{
+    "id":"1d6327c9-3fa1-40fe-8192-112c7a8b2409",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

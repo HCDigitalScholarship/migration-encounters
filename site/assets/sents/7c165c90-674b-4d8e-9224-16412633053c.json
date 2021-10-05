@@ -1,0 +1,13 @@
+{
+  "start":65956,
+  "end":66096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The stuff that should make you mad,\n doesn't make you mad and the stuff that shouldn't make you mad, you get mad\n about small stuff like...\"",
+  "id":"7c165c90-674b-4d8e-9224-16412633053c",
+  "params":{
+    "id":"7c165c90-674b-4d8e-9224-16412633053c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

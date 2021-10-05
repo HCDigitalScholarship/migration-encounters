@@ -1,0 +1,12 @@
+{
+  "start":10337,
+  "end":10392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then my\n   mom, she had a really, really hard time.",
+  "id":"f3fa5d10-08fa-4525-b299-a1d20b5f8622",
+  "params":{
+    "id":"d3f15e4f-9594-4e11-a7fc-0f90645ce379"
+  },
+  "name":"Ilse"
+}

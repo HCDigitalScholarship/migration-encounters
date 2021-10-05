@@ -1,0 +1,13 @@
+{
+  "start":23445,
+  "end":23457,
+  "label":"SENT",
+  "type":"sent",
+  "text":"no\n   money,",
+  "id":"cdf9c68b-1a67-412e-81bd-a1391df06c7c",
+  "params":{
+    "id":"cdf9c68b-1a67-412e-81bd-a1391df06c7c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

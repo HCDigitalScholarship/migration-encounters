@@ -1,0 +1,12 @@
+{
+  "start":55953,
+  "end":55993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm really good at swimming, by the way.",
+  "id":"bdcc5bed-3401-4b44-8ed7-3fb2dbbfd6e0",
+  "params":{
+    "id":"7e3af1c0-ff3d-498d-a18f-6bc4a61008bd"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40404,
+  "end":40440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't you want to continue studying?",
+  "id":"8be9da47-9668-4bbf-9b9f-331173524885",
+  "params":{
+    "id":"8e142afc-de9f-4391-9855-d19638104100"
+  },
+  "name":"Billy"
+}

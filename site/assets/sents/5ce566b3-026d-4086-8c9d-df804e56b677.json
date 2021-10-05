@@ -1,0 +1,13 @@
+{
+  "start":34913,
+  "end":35022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's not\n     as fast as you hope, it's not as fast as you think money will buy, but\n     it's a process.",
+  "id":"5ce566b3-026d-4086-8c9d-df804e56b677",
+  "params":{
+    "id":"5ce566b3-026d-4086-8c9d-df804e56b677",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

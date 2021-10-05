@@ -1,0 +1,13 @@
+{
+  "start":8541,
+  "end":8637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Roberto: For a while, not for a little bit, but I thought I was only going\n   to be for a while.",
+  "id":"f5a46396-df59-40d0-a877-97a33e0fa58a",
+  "params":{
+    "id":"f5a46396-df59-40d0-a877-97a33e0fa58a",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11812,
+  "end":11821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know?",
+  "id":"da9bb988-9c04-4099-8e0d-83ff402f63ee",
+  "params":{
+    "id":"da9bb988-9c04-4099-8e0d-83ff402f63ee",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

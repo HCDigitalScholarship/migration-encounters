@@ -1,0 +1,12 @@
+{
+  "start":23836,
+  "end":23860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He made a\n   commentary.",
+  "id":"de3d6ac6-2375-47db-a0c1-d874a0159609",
+  "params":{
+    "id":"40072e2c-b8b6-4e15-9daf-e685edbcffc4"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42674,
+  "end":42704,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You cut hair and\u2014\n \n \n   Mike:",
+  "id":"a508c656-ce34-49f5-a200-e179ff922f71",
+  "params":{
+    "id":"1b15ac02-0052-4258-ac0c-a96b6962a61d"
+  },
+  "name":"Mike"
+}

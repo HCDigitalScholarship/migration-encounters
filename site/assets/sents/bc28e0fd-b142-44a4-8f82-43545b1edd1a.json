@@ -1,0 +1,13 @@
+{
+  "start":22516,
+  "end":22600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Anita:\n \n \n     A toaster oven?\n \n \n     Beto:\n \n \n     Toaster oven, yes.",
+  "id":"bc28e0fd-b142-44a4-8f82-43545b1edd1a",
+  "params":{
+    "id":"bc28e0fd-b142-44a4-8f82-43545b1edd1a",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

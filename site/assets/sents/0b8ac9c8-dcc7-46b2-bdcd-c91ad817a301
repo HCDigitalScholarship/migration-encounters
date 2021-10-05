@@ -1,0 +1,12 @@
+{
+  "start":3160,
+  "end":3204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was fifteen years old, I was\n   sixteen.",
+  "id":"0b8ac9c8-dcc7-46b2-bdcd-c91ad817a301",
+  "params":{
+    "id":"224037dc-0ab4-41bc-a893-e4f178839ce1"
+  },
+  "name":"Many"
+}

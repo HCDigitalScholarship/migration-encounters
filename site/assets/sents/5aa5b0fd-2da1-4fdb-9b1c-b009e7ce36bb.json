@@ -1,0 +1,13 @@
+{
+  "start":1196,
+  "end":1218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did you grow up?",
+  "id":"5aa5b0fd-2da1-4fdb-9b1c-b009e7ce36bb",
+  "params":{
+    "id":"5aa5b0fd-2da1-4fdb-9b1c-b009e7ce36bb",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

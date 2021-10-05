@@ -1,0 +1,12 @@
+{
+  "start":31337,
+  "end":31391,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going to let me go, but how about further down?",
+  "id":"7bade64e-9845-42bc-a65f-2eaabe17f677",
+  "params":{
+    "id":"e4c1dc49-4460-4cc8-b990-47528acd399f"
+  },
+  "name":"Daniel"
+}

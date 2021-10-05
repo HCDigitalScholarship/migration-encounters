@@ -1,0 +1,13 @@
+{
+  "start":13730,
+  "end":13747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was confusing.",
+  "id":"4a032cae-b6c9-4cf8-8731-c9533ad8f919",
+  "params":{
+    "id":"4a032cae-b6c9-4cf8-8731-c9533ad8f919",
+    "class":"anno"
+  },
+  "name":"Many"
+}

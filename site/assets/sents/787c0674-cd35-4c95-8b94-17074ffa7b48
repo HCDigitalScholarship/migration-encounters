@@ -1,0 +1,12 @@
+{
+  "start":3173,
+  "end":3194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ivan: In immigration.",
+  "id":"787c0674-cd35-4c95-8b94-17074ffa7b48",
+  "params":{
+    "id":"49c90bd3-e1c3-4a7c-8ac5-dc13ee0d9a27"
+  },
+  "name":"Ivan"
+}

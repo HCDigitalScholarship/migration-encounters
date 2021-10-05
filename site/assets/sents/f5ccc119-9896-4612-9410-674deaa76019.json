@@ -1,0 +1,13 @@
+{
+  "start":28963,
+  "end":29001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   There's something wrong in Mexico.",
+  "id":"f5ccc119-9896-4612-9410-674deaa76019",
+  "params":{
+    "id":"f5ccc119-9896-4612-9410-674deaa76019",
+    "class":"anno"
+  },
+  "name":"Many"
+}

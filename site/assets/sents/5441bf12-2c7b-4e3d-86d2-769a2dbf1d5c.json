@@ -1,0 +1,13 @@
+{
+  "start":52456,
+  "end":52498,
+  "label":"SENT",
+  "type":"sent",
+  "text":"US, Mexico, that's what you want to\n   be?",
+  "id":"5441bf12-2c7b-4e3d-86d2-769a2dbf1d5c",
+  "params":{
+    "id":"5441bf12-2c7b-4e3d-86d2-769a2dbf1d5c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

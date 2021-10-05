@@ -1,0 +1,13 @@
+{
+  "start":18034,
+  "end":18067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandfather was really strict.",
+  "id":"632cd62a-f200-46ee-b51b-e9cb513de93e",
+  "params":{
+    "id":"632cd62a-f200-46ee-b51b-e9cb513de93e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

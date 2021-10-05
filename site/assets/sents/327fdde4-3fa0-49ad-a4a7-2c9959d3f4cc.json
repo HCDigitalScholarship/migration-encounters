@@ -1,0 +1,13 @@
+{
+  "start":8828,
+  "end":8892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   conversation with her and telling her, \"Hey, you know what?",
+  "id":"327fdde4-3fa0-49ad-a4a7-2c9959d3f4cc",
+  "params":{
+    "id":"327fdde4-3fa0-49ad-a4a7-2c9959d3f4cc",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

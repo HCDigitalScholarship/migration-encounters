@@ -1,0 +1,12 @@
+{
+  "start":23527,
+  "end":23565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, my dad hired somebody to find us.",
+  "id":"1b5d0e3a-37c7-4e7c-b470-92c9ef40d7dd",
+  "params":{
+    "id":"a9001a67-4314-4a8b-a91a-ca67e2621bfc"
+  },
+  "name":"Luisa"
+}

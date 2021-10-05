@@ -1,0 +1,12 @@
+{
+  "start":6720,
+  "end":6825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was also trying to grab his gun and grab\n   the cell phone at the same time, but it was just too much.",
+  "id":"d1a97cfa-0139-4f02-8d3f-edf8db6b1c66",
+  "params":{
+    "id":"df1a4077-81f1-4b30-8ca5-8fdf7de3b47f"
+  },
+  "name":"Kevin"
+}

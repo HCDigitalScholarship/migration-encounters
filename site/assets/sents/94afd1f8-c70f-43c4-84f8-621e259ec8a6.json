@@ -1,0 +1,13 @@
+{
+  "start":23121,
+  "end":23180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, it's got its dark\n   moments, but it's a nice city.",
+  "id":"94afd1f8-c70f-43c4-84f8-621e259ec8a6",
+  "params":{
+    "id":"94afd1f8-c70f-43c4-84f8-621e259ec8a6",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

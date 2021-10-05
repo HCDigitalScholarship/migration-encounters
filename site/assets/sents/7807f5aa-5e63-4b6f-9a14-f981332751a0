@@ -1,0 +1,12 @@
+{
+  "start":37492,
+  "end":37583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want people to tell me,\n   \"Hey, you have to do this because it's the right thing.\"",
+  "id":"7807f5aa-5e63-4b6f-9a14-f981332751a0",
+  "params":{
+    "id":"25026ff5-f7d0-4e50-8532-8bc81c6be165"
+  },
+  "name":"Sylent"
+}

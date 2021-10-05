@@ -1,0 +1,12 @@
+{
+  "start":929,
+  "end":985,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She went through the desert, she went through the river.",
+  "id":"048e9ada-75a5-48ad-96be-c3c4f3278f78",
+  "params":{
+    "id":"7d28acb7-19bb-4ea5-9bc7-97d4cdc5f657"
+  },
+  "name":"Luisa"
+}

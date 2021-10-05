@@ -1,0 +1,13 @@
+{
+  "start":23952,
+  "end":23994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I haven't really gotten into it that much.",
+  "id":"64fd341d-646a-4204-ae0f-d91d5d740354",
+  "params":{
+    "id":"64fd341d-646a-4204-ae0f-d91d5d740354",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

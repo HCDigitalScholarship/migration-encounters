@@ -1,0 +1,12 @@
+{
+  "start":7052,
+  "end":7134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was super\n   nervous at the time, but since I was 12, 13, I don't remember.",
+  "id":"502e74da-4e18-48db-a870-97bc340db0e9",
+  "params":{
+    "id":"61f8a1f0-cb63-404d-a66c-aef68f3f3eb2"
+  },
+  "name":"Luis A"
+}

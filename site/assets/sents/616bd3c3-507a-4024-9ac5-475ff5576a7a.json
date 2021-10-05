@@ -1,0 +1,13 @@
+{
+  "start":23682,
+  "end":23689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He did?",
+  "id":"616bd3c3-507a-4024-9ac5-475ff5576a7a",
+  "params":{
+    "id":"616bd3c3-507a-4024-9ac5-475ff5576a7a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

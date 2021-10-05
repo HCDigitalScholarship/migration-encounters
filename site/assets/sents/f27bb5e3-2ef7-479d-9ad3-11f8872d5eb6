@@ -1,0 +1,12 @@
+{
+  "start":27077,
+  "end":27132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Well, this, this goes like this and you go like that\".",
+  "id":"f27bb5e3-2ef7-479d-9ad3-11f8872d5eb6",
+  "params":{
+    "id":"62062a86-1b77-4153-9b43-9ab1b4f0948c"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21290,
+  "end":21368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody get into the taxicab, we let somebody\n   else know where we're going.",
+  "id":"4774a8d1-2293-4408-8c13-b2d9f0a8a7c7",
+  "params":{
+    "id":"4774a8d1-2293-4408-8c13-b2d9f0a8a7c7",
+    "class":"anno"
+  },
+  "name":"Many"
+}

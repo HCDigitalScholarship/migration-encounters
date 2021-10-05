@@ -1,0 +1,13 @@
+{
+  "start":38587,
+  "end":38665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never\n     told them my experiences at school because of the respect I have.",
+  "id":"1639ea6d-d493-435c-8fcb-2641eda2041d",
+  "params":{
+    "id":"1639ea6d-d493-435c-8fcb-2641eda2041d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

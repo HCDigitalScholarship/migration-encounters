@@ -1,0 +1,13 @@
+{
+  "start":11995,
+  "end":12084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you never actually went before a judge for this case that the\n   cop stopped you for?",
+  "id":"38c9d6c7-431d-4e95-8471-70459212ad2b",
+  "params":{
+    "id":"38c9d6c7-431d-4e95-8471-70459212ad2b",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

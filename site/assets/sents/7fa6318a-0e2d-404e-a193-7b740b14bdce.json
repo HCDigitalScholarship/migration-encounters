@@ -1,0 +1,13 @@
+{
+  "start":2799,
+  "end":2901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: I could see them--that they were advancing in life, and I was still\n   in the same spot.",
+  "id":"7fa6318a-0e2d-404e-a193-7b740b14bdce",
+  "params":{
+    "id":"7fa6318a-0e2d-404e-a193-7b740b14bdce",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

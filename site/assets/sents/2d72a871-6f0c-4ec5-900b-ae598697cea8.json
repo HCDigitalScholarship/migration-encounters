@@ -1,0 +1,13 @@
+{
+  "start":35355,
+  "end":35436,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, you're going to get what you want, but you're going to affect all of\n   us.\"",
+  "id":"2d72a871-6f0c-4ec5-900b-ae598697cea8",
+  "params":{
+    "id":"2d72a871-6f0c-4ec5-900b-ae598697cea8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

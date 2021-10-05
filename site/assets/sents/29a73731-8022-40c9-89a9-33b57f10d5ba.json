@@ -1,0 +1,13 @@
+{
+  "start":31991,
+  "end":32004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hate\n   it.",
+  "id":"29a73731-8022-40c9-89a9-33b57f10d5ba",
+  "params":{
+    "id":"29a73731-8022-40c9-89a9-33b57f10d5ba",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4860,
+  "end":4869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know?",
+  "id":"d8e009a2-d010-4081-bc2f-1af2c4a8f267",
+  "params":{
+    "id":"54ea5872-c516-47bc-b0ba-454ef77d8833"
+  },
+  "name":"Erik"
+}

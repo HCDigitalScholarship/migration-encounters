@@ -1,0 +1,12 @@
+{
+  "start":30310,
+  "end":30337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nforgot what I was saying.",
+  "id":"0ad2fe24-c45c-4b8e-8b61-a670a61c87cf",
+  "params":{
+    "id":"01cb7814-4391-42a3-8655-ca6392586e69"
+  },
+  "name":"Abel"
+}

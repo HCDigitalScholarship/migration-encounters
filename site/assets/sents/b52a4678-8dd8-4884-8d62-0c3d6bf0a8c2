@@ -1,0 +1,12 @@
+{
+  "start":2380,
+  "end":2446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They try\n   not to make fun of you because they know how it feels.",
+  "id":"b52a4678-8dd8-4884-8d62-0c3d6bf0a8c2",
+  "params":{
+    "id":"148831a8-377e-4a70-ace5-1fa8fed68264"
+  },
+  "name":"Daniel"
+}

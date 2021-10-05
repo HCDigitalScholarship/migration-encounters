@@ -1,0 +1,13 @@
+{
+  "start":2297,
+  "end":2382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell me a bit about, I guess, more details in there, like\n   what happened?",
+  "id":"4649f6cc-432e-4f71-8984-05f41446ddd3",
+  "params":{
+    "id":"4649f6cc-432e-4f71-8984-05f41446ddd3",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

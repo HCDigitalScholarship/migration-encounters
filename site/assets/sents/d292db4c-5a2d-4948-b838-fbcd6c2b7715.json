@@ -1,0 +1,13 @@
+{
+  "start":13523,
+  "end":13602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\nthe bounty hunters came and got me, took me to the INS building in\ndowntown.",
+  "id":"d292db4c-5a2d-4948-b838-fbcd6c2b7715",
+  "params":{
+    "id":"d292db4c-5a2d-4948-b838-fbcd6c2b7715",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

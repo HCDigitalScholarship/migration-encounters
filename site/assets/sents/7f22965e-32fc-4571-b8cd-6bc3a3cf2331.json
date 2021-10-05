@@ -1,0 +1,13 @@
+{
+  "start":15239,
+  "end":15282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to drive really careful and stuff.",
+  "id":"7f22965e-32fc-4571-b8cd-6bc3a3cf2331",
+  "params":{
+    "id":"7f22965e-32fc-4571-b8cd-6bc3a3cf2331",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

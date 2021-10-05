@@ -1,0 +1,13 @@
+{
+  "start":7268,
+  "end":7363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody asks me that like, \"Dude, is your\n real name Billy or is it William?\"\n      \n      \n ",
+  "id":"b4ebc5eb-cf40-434a-93fe-e0a884739321",
+  "params":{
+    "id":"b4ebc5eb-cf40-434a-93fe-e0a884739321",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

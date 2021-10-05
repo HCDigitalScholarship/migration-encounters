@@ -1,0 +1,12 @@
+{
+  "start":25832,
+  "end":25925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You speak to me in Spanish, I've got to translate from English to\n   Spanish to speak to you.",
+  "id":"93f23969-75b4-4678-8869-532e650dc38c",
+  "params":{
+    "id":"7cd760e9-4c61-44c4-a533-ebbb50be7822"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24354,
+  "end":24397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you're a lazy person, you won't\nhave ...",
+  "id":"bea6cf2c-f291-4f00-bf3d-b72ebb659eb2",
+  "params":{
+    "id":"bea6cf2c-f291-4f00-bf3d-b72ebb659eb2",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":22341,
+  "end":22357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"What\n   colors?",
+  "id":"7aa95ce1-d9b2-4759-8748-8f45197bca96",
+  "params":{
+    "id":"fd73cd41-095d-4e5d-a3a9-a4bff08839d6"
+  },
+  "name":"Luis A"
+}

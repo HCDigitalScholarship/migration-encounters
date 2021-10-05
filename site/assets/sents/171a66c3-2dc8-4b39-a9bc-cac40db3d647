@@ -1,0 +1,12 @@
+{
+  "start":28550,
+  "end":28600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have anything else that you want to\n   add?",
+  "id":"171a66c3-2dc8-4b39-a9bc-cac40db3d647",
+  "params":{
+    "id":"2b6d63b0-79e5-461a-95a5-b8fe14063c8f"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3810,
+  "end":3834,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He just forgot about me.",
+  "id":"9eb880ce-7d90-484f-8c1a-22dee65f70ca",
+  "params":{
+    "id":"9eb880ce-7d90-484f-8c1a-22dee65f70ca",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

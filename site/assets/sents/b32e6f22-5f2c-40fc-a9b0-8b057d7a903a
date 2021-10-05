@@ -1,0 +1,12 @@
+{
+  "start":14345,
+  "end":14392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I haven't seen you in so many\n   years already.",
+  "id":"b32e6f22-5f2c-40fc-a9b0-8b057d7a903a",
+  "params":{
+    "id":"873049d9-e7f5-4f00-a901-379f192e908c"
+  },
+  "name":"Kevin"
+}

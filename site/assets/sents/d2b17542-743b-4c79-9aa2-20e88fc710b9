@@ -1,0 +1,12 @@
+{
+  "start":26900,
+  "end":26961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can take\n   me away from my mom, anybody, but not my son.",
+  "id":"d2b17542-743b-4c79-9aa2-20e88fc710b9",
+  "params":{
+    "id":"e4970077-d3e7-4620-81fb-b5ac89a750e9"
+  },
+  "name":"Kevin"
+}

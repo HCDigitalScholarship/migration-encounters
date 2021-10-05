@@ -1,0 +1,12 @@
+{
+  "start":5500,
+  "end":5540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's when you run into the police.",
+  "id":"4f6f1dd4-e50b-4d15-9b02-be9f5db52f38",
+  "params":{
+    "id":"c27d71cd-73c1-498d-b8c5-2019a0a3ea5a"
+  },
+  "name":"Hugo"
+}

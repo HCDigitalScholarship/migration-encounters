@@ -1,0 +1,13 @@
+{
+  "start":29481,
+  "end":29560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He kicks in the door a bunch of times and he\n   gets a hammer and he breaks it.",
+  "id":"1a4e9c08-ef55-494f-8876-82c88fc14ac8",
+  "params":{
+    "id":"1a4e9c08-ef55-494f-8876-82c88fc14ac8",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

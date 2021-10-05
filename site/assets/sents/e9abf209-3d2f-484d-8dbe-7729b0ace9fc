@@ -1,0 +1,12 @@
+{
+  "start":10549,
+  "end":10576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because it's\n   symbolical.",
+  "id":"e9abf209-3d2f-484d-8dbe-7729b0ace9fc",
+  "params":{
+    "id":"e82c0618-fc05-47d9-9170-0d94137304e8"
+  },
+  "name":"Cris"
+}

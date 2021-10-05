@@ -1,0 +1,13 @@
+{
+  "start":8669,
+  "end":8715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You belong to ICE court, or immigration court.",
+  "id":"af9365fb-27c3-49fd-951c-2b3f55b919e9",
+  "params":{
+    "id":"af9365fb-27c3-49fd-951c-2b3f55b919e9",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32559,
+  "end":32610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could pick up\n a book and read it and just learn.",
+  "id":"0b234325-fb9b-41db-b2c5-de7816263bd9",
+  "params":{
+    "id":"0b234325-fb9b-41db-b2c5-de7816263bd9",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

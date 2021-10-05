@@ -1,0 +1,13 @@
+{
+  "start":34258,
+  "end":34271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's great.",
+  "id":"bf4fdf2d-7aeb-4c4c-afc9-c6fae78c8a00",
+  "params":{
+    "id":"bf4fdf2d-7aeb-4c4c-afc9-c6fae78c8a00",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

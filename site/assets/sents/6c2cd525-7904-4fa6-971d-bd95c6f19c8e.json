@@ -1,0 +1,13 @@
+{
+  "start":31836,
+  "end":31947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember they told me, \"Shut up,\" and\n   they put me in a different cell, because I kept on telling everybody",
+  "id":"6c2cd525-7904-4fa6-971d-bd95c6f19c8e",
+  "params":{
+    "id":"6c2cd525-7904-4fa6-971d-bd95c6f19c8e",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

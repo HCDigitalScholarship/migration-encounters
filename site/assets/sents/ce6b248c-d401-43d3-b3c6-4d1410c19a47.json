@@ -1,0 +1,13 @@
+{
+  "start":2350,
+  "end":2373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luisa: With my parents?",
+  "id":"ce6b248c-d401-43d3-b3c6-4d1410c19a47",
+  "params":{
+    "id":"ce6b248c-d401-43d3-b3c6-4d1410c19a47",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

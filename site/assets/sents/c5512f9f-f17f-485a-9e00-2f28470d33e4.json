@@ -1,0 +1,13 @@
+{
+  "start":33705,
+  "end":33714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's 15.",
+  "id":"c5512f9f-f17f-485a-9e00-2f28470d33e4",
+  "params":{
+    "id":"c5512f9f-f17f-485a-9e00-2f28470d33e4",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

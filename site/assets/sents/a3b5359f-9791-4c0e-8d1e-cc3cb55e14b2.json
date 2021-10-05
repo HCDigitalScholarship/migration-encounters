@@ -1,0 +1,13 @@
+{
+  "start":2548,
+  "end":2585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I liked it, it was a beautiful\nplace.",
+  "id":"a3b5359f-9791-4c0e-8d1e-cc3cb55e14b2",
+  "params":{
+    "id":"a3b5359f-9791-4c0e-8d1e-cc3cb55e14b2",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

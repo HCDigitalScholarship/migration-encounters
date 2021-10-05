@@ -1,0 +1,12 @@
+{
+  "start":23509,
+  "end":23572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean it's not quite there, but it's not quite\n   here either.",
+  "id":"af7f3455-e3ed-4f25-9af2-7bf0a3c8a74e",
+  "params":{
+    "id":"d2353ed8-a39b-43bf-ab7c-b550363b5170"
+  },
+  "name":"Luis B"
+}

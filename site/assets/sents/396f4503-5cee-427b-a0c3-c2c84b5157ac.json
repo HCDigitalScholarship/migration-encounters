@@ -1,0 +1,13 @@
+{
+  "start":7819,
+  "end":7991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over here, you can't\n really trust that thing where somebody comes up to you and they're like,\n \"Hey, I need some help, something's going on right here around the corner.\n ",
+  "id":"396f4503-5cee-427b-a0c3-c2c84b5157ac",
+  "params":{
+    "id":"396f4503-5cee-427b-a0c3-c2c84b5157ac",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

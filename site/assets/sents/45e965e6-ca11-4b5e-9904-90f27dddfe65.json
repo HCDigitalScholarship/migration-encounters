@@ -1,0 +1,13 @@
+{
+  "start":13155,
+  "end":13206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They came back looking for me, I\n was already what?",
+  "id":"45e965e6-ca11-4b5e-9904-90f27dddfe65",
+  "params":{
+    "id":"45e965e6-ca11-4b5e-9904-90f27dddfe65",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

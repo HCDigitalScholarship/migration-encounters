@@ -1,0 +1,12 @@
+{
+  "start":28496,
+  "end":28511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At least to me.",
+  "id":"e83bb83d-d64b-47f7-b92d-ace8d52dd01c",
+  "params":{
+    "id":"d739b722-de15-44e6-857a-921b174e904e"
+  },
+  "name":"Hugo"
+}

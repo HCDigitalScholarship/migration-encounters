@@ -1,0 +1,13 @@
+{
+  "start":22486,
+  "end":22511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would never go to them.",
+  "id":"3254e639-974b-49ab-883d-7e2543f9cb19",
+  "params":{
+    "id":"3254e639-974b-49ab-883d-7e2543f9cb19",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

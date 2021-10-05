@@ -1,0 +1,13 @@
+{
+  "start":32536,
+  "end":32561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a brand-new truck.",
+  "id":"79dd5944-f84d-4ded-b951-571c304ce642",
+  "params":{
+    "id":"79dd5944-f84d-4ded-b951-571c304ce642",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

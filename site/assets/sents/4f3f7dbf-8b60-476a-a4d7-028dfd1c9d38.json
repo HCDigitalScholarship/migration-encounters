@@ -1,0 +1,15 @@
+{
+  "start":8646,
+  "end":8684,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\n   that's what I would really like.",
+  "id":"4f3f7dbf-8b60-476a-a4d7-028dfd1c9d38",
+  "params":{
+    "id":"4f3f7dbf-8b60-476a-a4d7-028dfd1c9d38",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

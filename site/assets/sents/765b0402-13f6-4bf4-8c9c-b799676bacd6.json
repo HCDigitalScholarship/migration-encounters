@@ -1,0 +1,13 @@
+{
+  "start":30058,
+  "end":30139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you think about your own identity, do you think of yourself as a\n   Mexican?",
+  "id":"765b0402-13f6-4bf4-8c9c-b799676bacd6",
+  "params":{
+    "id":"765b0402-13f6-4bf4-8c9c-b799676bacd6",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10172,
+  "end":10236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That happened because I never have time to\n   solve the problem.",
+  "id":"34518b1c-cff5-449a-9d10-7a6839944629",
+  "params":{
+    "id":"e9b8f31c-0546-4062-9186-84444e75cac0"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":56973,
+  "end":57004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well thank you very, very much.",
+  "id":"8be711f7-ffa9-4353-bdb0-805478d6122b",
+  "params":{
+    "id":"8be711f7-ffa9-4353-bdb0-805478d6122b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

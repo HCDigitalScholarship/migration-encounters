@@ -1,0 +1,12 @@
+{
+  "start":30805,
+  "end":30837,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They go through\n that every day.",
+  "id":"f569abe7-ed5f-461c-bf49-f0a16af0c6d9",
+  "params":{
+    "id":"a3845a4b-c6c7-4eeb-a1f7-ba2646a32fc4"
+  },
+  "name":"Billy"
+}

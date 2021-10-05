@@ -1,0 +1,13 @@
+{
+  "start":3330,
+  "end":3406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once everybody crossed\n   over, we ran for a couple of minutes to a Walmart.",
+  "id":"ec61e206-0bf5-4b6c-a1c2-a8b72875d594",
+  "params":{
+    "id":"ec61e206-0bf5-4b6c-a1c2-a8b72875d594",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7452,
+  "end":7523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Someone else comes in like a distraction\n like, \"Hey, what's going on?\"",
+  "id":"6916e7f6-0546-4dda-8364-62add0c33e1e",
+  "params":{
+    "id":"6916e7f6-0546-4dda-8364-62add0c33e1e",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

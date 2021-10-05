@@ -1,0 +1,12 @@
+{
+  "start":11224,
+  "end":11256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I had wondered about that.",
+  "id":"d8ba0e24-1c42-4c28-a896-b02f3050f8a7",
+  "params":{
+    "id":"a2115780-9982-4020-a86a-6c04e698093b"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16888,
+  "end":16896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, yes.",
+  "id":"dbea0e91-d100-4adf-a69c-7b8efe781c99",
+  "params":{
+    "id":"dbea0e91-d100-4adf-a69c-7b8efe781c99",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

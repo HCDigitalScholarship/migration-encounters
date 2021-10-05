@@ -1,0 +1,12 @@
+{
+  "start":9495,
+  "end":9567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She tells me, \"I remember Ms. Mule and she used to use hand\n   gestures.",
+  "id":"c2ea6594-7f6d-4a8f-bf32-fc1eb7add10b",
+  "params":{
+    "id":"05b61c48-1862-457b-8c89-5cab77cc26d8"
+  },
+  "name":"Rodolfo"
+}

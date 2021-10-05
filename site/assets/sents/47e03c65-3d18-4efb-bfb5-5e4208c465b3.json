@@ -1,0 +1,13 @@
+{
+  "start":10292,
+  "end":10400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   it seems easy for you to take a joy ride, \u201cOh we'll take it over there to\n   certain people's houses.",
+  "id":"47e03c65-3d18-4efb-bfb5-5e4208c465b3",
+  "params":{
+    "id":"47e03c65-3d18-4efb-bfb5-5e4208c465b3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

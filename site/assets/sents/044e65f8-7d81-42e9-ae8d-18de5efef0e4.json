@@ -1,0 +1,13 @@
+{
+  "start":18653,
+  "end":18768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he's like, \"Look I'm going to run your name and if you have\n   anything, I'm going to take you, this and that.\"",
+  "id":"044e65f8-7d81-42e9-ae8d-18de5efef0e4",
+  "params":{
+    "id":"044e65f8-7d81-42e9-ae8d-18de5efef0e4",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

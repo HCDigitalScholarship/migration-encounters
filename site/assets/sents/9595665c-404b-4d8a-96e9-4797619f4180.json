@@ -1,0 +1,13 @@
+{
+  "start":18631,
+  "end":18690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've read that book, I think more\n   than 30 times already.",
+  "id":"9595665c-404b-4d8a-96e9-4797619f4180",
+  "params":{
+    "id":"9595665c-404b-4d8a-96e9-4797619f4180",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

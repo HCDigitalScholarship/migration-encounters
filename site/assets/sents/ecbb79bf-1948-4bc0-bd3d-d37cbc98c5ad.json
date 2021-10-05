@@ -1,0 +1,13 @@
+{
+  "start":6199,
+  "end":6228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember washing\n   my car.",
+  "id":"ecbb79bf-1948-4bc0-bd3d-d37cbc98c5ad",
+  "params":{
+    "id":"ecbb79bf-1948-4bc0-bd3d-d37cbc98c5ad",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

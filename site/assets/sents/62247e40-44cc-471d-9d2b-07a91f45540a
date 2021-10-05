@@ -1,0 +1,12 @@
+{
+  "start":30006,
+  "end":30022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was just you.",
+  "id":"62247e40-44cc-471d-9d2b-07a91f45540a",
+  "params":{
+    "id":"af9f3b25-b0a6-4cac-ae5c-066a53943765"
+  },
+  "name":"Joana"
+}

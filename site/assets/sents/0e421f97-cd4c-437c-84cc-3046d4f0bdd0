@@ -1,0 +1,12 @@
+{
+  "start":4160,
+  "end":4269,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, they scanned me literally, they run all my information,\n   they didn't find any social security number.",
+  "id":"0e421f97-cd4c-437c-84cc-3046d4f0bdd0",
+  "params":{
+    "id":"49a74b56-f777-4455-8b8d-1b7bcf387b4b"
+  },
+  "name":"Noe"
+}

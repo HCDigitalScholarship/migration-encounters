@@ -1,0 +1,13 @@
+{
+  "start":16935,
+  "end":16973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There\n     are a lot of Olive Gardens.",
+  "id":"539495f8-1350-4235-8fbb-13f93cffc762",
+  "params":{
+    "id":"539495f8-1350-4235-8fbb-13f93cffc762",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

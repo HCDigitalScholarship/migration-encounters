@@ -1,0 +1,13 @@
+{
+  "start":35259,
+  "end":35302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That's the only time I've been to Juvy.",
+  "id":"8ae31eff-8cc2-4838-b35f-e3f4ae04130f",
+  "params":{
+    "id":"8ae31eff-8cc2-4838-b35f-e3f4ae04130f",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

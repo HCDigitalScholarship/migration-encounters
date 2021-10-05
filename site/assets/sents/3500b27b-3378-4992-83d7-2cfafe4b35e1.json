@@ -1,0 +1,13 @@
+{
+  "start":10551,
+  "end":10629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At first it was all like, \"Okay, who are\n you?\" \u201cWell, I'm ____ son.\u201d \u201cOh wow.",
+  "id":"3500b27b-3378-4992-83d7-2cfafe4b35e1",
+  "params":{
+    "id":"3500b27b-3378-4992-83d7-2cfafe4b35e1",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16119,
+  "end":16209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, even a US citizen is going to have trouble getting\n across the bridge [Laughs].",
+  "id":"cfe7f7a9-2cdf-41cf-964c-89ada3920ec6",
+  "params":{
+    "id":"cfe7f7a9-2cdf-41cf-964c-89ada3920ec6",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21336,
+  "end":21408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I'll take the job with my aunt, since I know I'll be\n   with family.\u201d",
+  "id":"7b8e8dc8-68a6-437c-89ed-6108e5cb9674",
+  "params":{
+    "id":"7b8e8dc8-68a6-437c-89ed-6108e5cb9674",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

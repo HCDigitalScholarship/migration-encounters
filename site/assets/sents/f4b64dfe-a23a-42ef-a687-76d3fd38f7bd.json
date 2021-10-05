@@ -1,0 +1,13 @@
+{
+  "start":38075,
+  "end":38119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would love that someone\n could understand.",
+  "id":"f4b64dfe-a23a-42ef-a687-76d3fd38f7bd",
+  "params":{
+    "id":"f4b64dfe-a23a-42ef-a687-76d3fd38f7bd",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

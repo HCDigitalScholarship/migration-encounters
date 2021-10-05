@@ -1,0 +1,13 @@
+{
+  "start":31658,
+  "end":31676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are\n   you hungry?",
+  "id":"381c354d-dc30-4ce7-a0fd-6a376b8db86e",
+  "params":{
+    "id":"381c354d-dc30-4ce7-a0fd-6a376b8db86e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

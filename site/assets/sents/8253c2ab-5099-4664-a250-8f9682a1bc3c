@@ -1,0 +1,12 @@
+{
+  "start":23101,
+  "end":23161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nmean, like in California, you don't know about California?",
+  "id":"8253c2ab-5099-4664-a250-8f9682a1bc3c",
+  "params":{
+    "id":"6533564a-9afd-4c5a-a860-4d18cc250f96"
+  },
+  "name":"Abel"
+}

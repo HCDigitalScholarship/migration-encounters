@@ -1,0 +1,12 @@
+{
+  "start":3150,
+  "end":3175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was your house like?",
+  "id":"5dbc9c1c-ff86-4e95-997c-9c0464b7bd50",
+  "params":{
+    "id":"3fad9057-4c73-42a0-8942-7cb017f849a9"
+  },
+  "name":"Roberto"
+}

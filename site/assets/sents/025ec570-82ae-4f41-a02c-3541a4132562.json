@@ -1,0 +1,13 @@
+{
+  "start":30322,
+  "end":30362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, I\n   feel happy, I feel good.",
+  "id":"025ec570-82ae-4f41-a02c-3541a4132562",
+  "params":{
+    "id":"025ec570-82ae-4f41-a02c-3541a4132562",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2133,
+  "end":2154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to ask you.",
+  "id":"c77c3cc7-5dab-4663-8b2a-36ec9dd2cc9c",
+  "params":{
+    "id":"c77c3cc7-5dab-4663-8b2a-36ec9dd2cc9c",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

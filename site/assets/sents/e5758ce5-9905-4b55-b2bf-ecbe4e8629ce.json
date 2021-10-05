@@ -1,0 +1,13 @@
+{
+  "start":1210,
+  "end":1249,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really like that old stuff, for sure.",
+  "id":"e5758ce5-9905-4b55-b2bf-ecbe4e8629ce",
+  "params":{
+    "id":"e5758ce5-9905-4b55-b2bf-ecbe4e8629ce",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

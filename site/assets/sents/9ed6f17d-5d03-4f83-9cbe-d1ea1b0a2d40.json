@@ -1,0 +1,13 @@
+{
+  "start":9622,
+  "end":9657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were really expensive for him.",
+  "id":"9ed6f17d-5d03-4f83-9cbe-d1ea1b0a2d40",
+  "params":{
+    "id":"9ed6f17d-5d03-4f83-9cbe-d1ea1b0a2d40",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

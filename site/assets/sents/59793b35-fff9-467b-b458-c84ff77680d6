@@ -1,0 +1,12 @@
+{
+  "start":24903,
+  "end":24921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can't get to work.",
+  "id":"59793b35-fff9-467b-b458-c84ff77680d6",
+  "params":{
+    "id":"912f666f-e0ae-4056-a71d-557461adf984"
+  },
+  "name":"Billy"
+}

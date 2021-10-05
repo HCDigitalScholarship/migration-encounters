@@ -1,0 +1,13 @@
+{
+  "start":25762,
+  "end":25781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Help my family out.",
+  "id":"054a4bdf-06e2-472b-9d66-6e7a6a149c57",
+  "params":{
+    "id":"054a4bdf-06e2-472b-9d66-6e7a6a149c57",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

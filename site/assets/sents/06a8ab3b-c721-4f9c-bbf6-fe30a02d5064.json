@@ -1,0 +1,13 @@
+{
+  "start":36715,
+  "end":36778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n     Were you a soccer fan?\n \n \n     Beto:\n \n \n     ",
+  "id":"06a8ab3b-c721-4f9c-bbf6-fe30a02d5064",
+  "params":{
+    "id":"06a8ab3b-c721-4f9c-bbf6-fe30a02d5064",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

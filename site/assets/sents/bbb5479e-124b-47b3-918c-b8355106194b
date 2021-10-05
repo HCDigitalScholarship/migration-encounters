@@ -1,0 +1,12 @@
+{
+  "start":9045,
+  "end":9063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got in trouble.",
+  "id":"bbb5479e-124b-47b3-918c-b8355106194b",
+  "params":{
+    "id":"3e030a51-cb65-4986-bb1d-f5b1a6b96d9e"
+  },
+  "name":"Abel"
+}

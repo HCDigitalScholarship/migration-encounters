@@ -1,0 +1,12 @@
+{
+  "start":2345,
+  "end":2393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, we went to LA to buy a social security card.",
+  "id":"be439f42-86a5-4be3-a95c-da7c34e0054d",
+  "params":{
+    "id":"82730fe8-3234-43ff-b5b9-27e828dbdbf5"
+  },
+  "name":"Rocio"
+}

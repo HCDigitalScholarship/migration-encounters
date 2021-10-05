@@ -1,0 +1,12 @@
+{
+  "start":211,
+  "end":256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You grew up in Mexico City or somewhere else?",
+  "id":"306de90b-f682-4257-9bb1-531490f83109",
+  "params":{
+    "id":"2554695d-a094-40d4-af71-27d47a4fdfb8"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,13 @@
+{
+  "start":54573,
+  "end":54602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n     can go to my country.\"",
+  "id":"dee6b4e9-eaf8-4a09-a2b4-d5952b7039ee",
+  "params":{
+    "id":"dee6b4e9-eaf8-4a09-a2b4-d5952b7039ee",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

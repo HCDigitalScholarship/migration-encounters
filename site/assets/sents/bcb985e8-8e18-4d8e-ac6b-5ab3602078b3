@@ -1,0 +1,12 @@
+{
+  "start":49399,
+  "end":49424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So do you have a job now?",
+  "id":"bcb985e8-8e18-4d8e-ac6b-5ab3602078b3",
+  "params":{
+    "id":"f7cca771-6929-4c11-aea7-d627fc98b59a"
+  },
+  "name":"Mike"
+}

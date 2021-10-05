@@ -1,0 +1,12 @@
+{
+  "start":13566,
+  "end":13606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A\n   lot of people hated him [Chuckles].",
+  "id":"ab14ad95-9de0-494e-a6c7-09825cfa4f03",
+  "params":{
+    "id":"e022272d-54f0-4ed5-9a87-2c86246e3383"
+  },
+  "name":"Laila"
+}

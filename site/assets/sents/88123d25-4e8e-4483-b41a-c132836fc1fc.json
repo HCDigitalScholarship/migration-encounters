@@ -1,0 +1,13 @@
+{
+  "start":9069,
+  "end":9085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What more do\n   ",
+  "id":"88123d25-4e8e-4483-b41a-c132836fc1fc",
+  "params":{
+    "id":"88123d25-4e8e-4483-b41a-c132836fc1fc",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

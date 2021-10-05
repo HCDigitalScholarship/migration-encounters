@@ -1,0 +1,12 @@
+{
+  "start":31555,
+  "end":31588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Okay, I'll take it.\"",
+  "id":"5c284047-9cce-4f38-96d9-fbeb6517df4d",
+  "params":{
+    "id":"2466051e-31b2-4359-a745-ab282014bd29"
+  },
+  "name":"Carlos"
+}

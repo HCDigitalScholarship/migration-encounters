@@ -1,0 +1,12 @@
+{
+  "start":23822,
+  "end":23853,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"This is\n     great.",
+  "id":"1659bcb7-9936-40f8-a03d-b6dc92cf62a8",
+  "params":{
+    "id":"760630c5-202d-4eb0-9298-cdfb020e10c2"
+  },
+  "name":"Beto"
+}

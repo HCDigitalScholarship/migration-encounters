@@ -1,0 +1,12 @@
+{
+  "start":11973,
+  "end":12016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   I never really got into that at all.",
+  "id":"37ac3a54-cd65-4cfd-9a3d-1a4a34d73ac1",
+  "params":{
+    "id":"bc823d39-2caf-4981-97c7-15ccf8b5e464"
+  },
+  "name":"Edgar"
+}

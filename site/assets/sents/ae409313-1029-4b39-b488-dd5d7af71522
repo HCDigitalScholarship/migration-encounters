@@ -1,0 +1,12 @@
+{
+  "start":26118,
+  "end":26212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The teacher pointed at me for\n     something and then the girl told me, \"Hey he's calling you.",
+  "id":"ae409313-1029-4b39-b488-dd5d7af71522",
+  "params":{
+    "id":"e0b6c6e5-5b02-4f82-a4ad-d32ea93dcf3f"
+  },
+  "name":"Beto"
+}

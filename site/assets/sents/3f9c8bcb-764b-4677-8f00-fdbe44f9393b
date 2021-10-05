@@ -1,0 +1,12 @@
+{
+  "start":19076,
+  "end":19117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you living with that grandmother now?",
+  "id":"3f9c8bcb-764b-4677-8f00-fdbe44f9393b",
+  "params":{
+    "id":"ae4e3a26-0804-41eb-8793-a1f23dcecf77"
+  },
+  "name":"Melani"
+}

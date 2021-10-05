@@ -1,0 +1,13 @@
+{
+  "start":49209,
+  "end":49227,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You did your part.",
+  "id":"ec80140e-ba63-49b1-abbf-43845eb58d52",
+  "params":{
+    "id":"ec80140e-ba63-49b1-abbf-43845eb58d52",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

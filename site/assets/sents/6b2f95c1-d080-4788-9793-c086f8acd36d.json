@@ -1,0 +1,12 @@
+{
+  "start":32075,
+  "end":32168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people in the US think\n   that, oh, I'm hearing you don't have the right to be here.",
+  "id":"6b2f95c1-d080-4788-9793-c086f8acd36d",
+  "params":{
+    "id":"cb0283a3-9ef9-4fdb-b409-46118792cdab"
+  },
+  "name":"Laila"
+}

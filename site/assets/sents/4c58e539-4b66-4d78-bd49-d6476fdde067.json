@@ -1,0 +1,13 @@
+{
+  "start":40058,
+  "end":40076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But they felt bad.",
+  "id":"4c58e539-4b66-4d78-bd49-d6476fdde067",
+  "params":{
+    "id":"4c58e539-4b66-4d78-bd49-d6476fdde067",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24208,
+  "end":24238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So have you made friends here?",
+  "id":"d1d0dbf7-2a68-49d5-b2e3-9791fbf94753",
+  "params":{
+    "id":"7145c0ff-9e10-4f33-a354-5b321bbf63de"
+  },
+  "name":"Edgar"
+}

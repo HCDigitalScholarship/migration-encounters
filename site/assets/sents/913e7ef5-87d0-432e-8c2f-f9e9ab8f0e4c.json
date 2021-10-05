@@ -1,0 +1,13 @@
+{
+  "start":28525,
+  "end":28547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's your dream?",
+  "id":"913e7ef5-87d0-432e-8c2f-f9e9ab8f0e4c",
+  "params":{
+    "id":"913e7ef5-87d0-432e-8c2f-f9e9ab8f0e4c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

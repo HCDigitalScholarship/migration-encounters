@@ -1,0 +1,13 @@
+{
+  "start":35542,
+  "end":35598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me ha costado mucho\n     trabajo, o se me hizo muy f\u00e1cil",
+  "id":"49509ef8-0f9c-4ae0-bd8f-2bc682473921",
+  "params":{
+    "id":"49509ef8-0f9c-4ae0-bd8f-2bc682473921",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14029,
+  "end":14070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, he was working a real job, right?",
+  "id":"b96d46e1-2cdf-49ad-bad1-40b3ea989865",
+  "params":{
+    "id":"b96d46e1-2cdf-49ad-bad1-40b3ea989865",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

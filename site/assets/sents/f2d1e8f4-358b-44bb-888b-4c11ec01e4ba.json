@@ -1,0 +1,13 @@
+{
+  "start":32672,
+  "end":32697,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he's holding his gun.",
+  "id":"f2d1e8f4-358b-44bb-888b-4c11ec01e4ba",
+  "params":{
+    "id":"f2d1e8f4-358b-44bb-888b-4c11ec01e4ba",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19959,
+  "end":20009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   already hired, and then I quit over here.",
+  "id":"66ba4ade-995e-435f-8551-8a070b6f174a",
+  "params":{
+    "id":"66ba4ade-995e-435f-8551-8a070b6f174a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

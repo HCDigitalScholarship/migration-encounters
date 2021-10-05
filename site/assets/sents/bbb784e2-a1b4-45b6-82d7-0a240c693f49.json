@@ -1,0 +1,13 @@
+{
+  "start":24789,
+  "end":24824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In Mexico\n   they have other foods.",
+  "id":"bbb784e2-a1b4-45b6-82d7-0a240c693f49",
+  "params":{
+    "id":"bbb784e2-a1b4-45b6-82d7-0a240c693f49",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21637,
+  "end":21705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But,\n   yeah, once I got to prison, I guess I felt it more directly.",
+  "id":"1e9ec605-a296-4077-84d8-99956f6be0f7",
+  "params":{
+    "id":"1e9ec605-a296-4077-84d8-99956f6be0f7",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2319,
+  "end":2340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   was doing that.",
+  "id":"d8fb9f12-1e0e-4693-9292-edd9b7e936c2",
+  "params":{
+    "id":"718629fd-52ab-4ab0-a9cb-34f79d52ee13"
+  },
+  "name":"Carlos"
+}

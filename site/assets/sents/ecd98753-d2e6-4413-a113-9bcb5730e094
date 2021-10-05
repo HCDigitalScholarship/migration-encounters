@@ -1,0 +1,12 @@
+{
+  "start":5180,
+  "end":5241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not only\n   American, but I'm also now Mexican American.\u201d",
+  "id":"ecd98753-d2e6-4413-a113-9bcb5730e094",
+  "params":{
+    "id":"f73068f9-e9f6-4195-9b1b-dc84070c5988"
+  },
+  "name":"Miguel B"
+}

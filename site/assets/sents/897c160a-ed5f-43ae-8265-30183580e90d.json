@@ -1,0 +1,13 @@
+{
+  "start":9166,
+  "end":9215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean, I do get kind of irritated sometimes.",
+  "id":"897c160a-ed5f-43ae-8265-30183580e90d",
+  "params":{
+    "id":"897c160a-ed5f-43ae-8265-30183580e90d",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

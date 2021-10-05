@@ -1,0 +1,13 @@
+{
+  "start":43036,
+  "end":43120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't have the paper, but\n     you have the experience, we'll pay this much.\"",
+  "id":"788b4a93-9c08-46d2-8c88-7740c7bab2e1",
+  "params":{
+    "id":"788b4a93-9c08-46d2-8c88-7740c7bab2e1",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

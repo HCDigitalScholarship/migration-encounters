@@ -1,0 +1,13 @@
+{
+  "start":5179,
+  "end":5239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you were at\n   school, did you do any extracurriculars?",
+  "id":"387d97d7-8ba2-4ff6-a5aa-f81f5764b2a5",
+  "params":{
+    "id":"387d97d7-8ba2-4ff6-a5aa-f81f5764b2a5",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

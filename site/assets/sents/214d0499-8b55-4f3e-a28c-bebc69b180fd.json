@@ -1,0 +1,13 @@
+{
+  "start":13269,
+  "end":13293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Because you can't fly.\"",
+  "id":"214d0499-8b55-4f3e-a28c-bebc69b180fd",
+  "params":{
+    "id":"214d0499-8b55-4f3e-a28c-bebc69b180fd",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

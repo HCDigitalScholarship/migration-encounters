@@ -1,0 +1,12 @@
+{
+  "start":1779,
+  "end":1811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about your time in ____.",
+  "id":"f4f63707-bf56-458b-a8e3-f4998b578194",
+  "params":{
+    "id":"1edb6697-c1a7-4807-af07-3bd9399e1f0a"
+  },
+  "name":"Carlos"
+}

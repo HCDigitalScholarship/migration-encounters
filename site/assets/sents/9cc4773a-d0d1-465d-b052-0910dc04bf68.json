@@ -1,0 +1,13 @@
+{
+  "start":29292,
+  "end":29371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I think that really\n   changed me, or helped me a lot, living over there.",
+  "id":"9cc4773a-d0d1-465d-b052-0910dc04bf68",
+  "params":{
+    "id":"9cc4773a-d0d1-465d-b052-0910dc04bf68",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

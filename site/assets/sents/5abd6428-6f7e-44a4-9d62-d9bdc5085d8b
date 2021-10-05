@@ -1,0 +1,12 @@
+{
+  "start":62045,
+  "end":62164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n told her that you can live in that apartment, it's under my dad's name,\n nobody's going to charge you rent, nothing.",
+  "id":"5abd6428-6f7e-44a4-9d62-d9bdc5085d8b",
+  "params":{
+    "id":"a182814a-7ff7-4289-821b-7c99a0247017"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":38355,
+  "end":38400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm the only one who's artistically inclined.",
+  "id":"73d6aef7-d1d0-438e-876e-6f68e3e0f516",
+  "params":{
+    "id":"73d6aef7-d1d0-438e-876e-6f68e3e0f516",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

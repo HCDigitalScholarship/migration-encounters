@@ -1,0 +1,13 @@
+{
+  "start":20706,
+  "end":20721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were high.",
+  "id":"24c6a75d-42a1-4e19-b55f-afca8b5f8915",
+  "params":{
+    "id":"24c6a75d-42a1-4e19-b55f-afca8b5f8915",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20128,
+  "end":20159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It all happened in first grade.",
+  "id":"2f9a3b3e-567e-400b-bb47-894021a18b42",
+  "params":{
+    "id":"b29f9946-a3a3-409c-9c93-aa32e488cfc3"
+  },
+  "name":"Carlos"
+}

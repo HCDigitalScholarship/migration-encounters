@@ -1,0 +1,13 @@
+{
+  "start":13876,
+  "end":13909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were living with your family?",
+  "id":"c624f3c0-4048-4ca7-baa9-7f7b500fbebc",
+  "params":{
+    "id":"c624f3c0-4048-4ca7-baa9-7f7b500fbebc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

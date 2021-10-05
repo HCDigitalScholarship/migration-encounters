@@ -1,0 +1,13 @@
+{
+  "start":66444,
+  "end":66478,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My family members are really nosy.",
+  "id":"fea0e52c-14a2-4783-b904-bd132f382eb0",
+  "params":{
+    "id":"fea0e52c-14a2-4783-b904-bd132f382eb0",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

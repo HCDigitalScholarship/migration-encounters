@@ -1,0 +1,13 @@
+{
+  "start":6512,
+  "end":6535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How much would you say?",
+  "id":"17460cd3-8df2-421d-a525-201fcd2e6eef",
+  "params":{
+    "id":"17460cd3-8df2-421d-a525-201fcd2e6eef",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

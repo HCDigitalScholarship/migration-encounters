@@ -1,0 +1,13 @@
+{
+  "start":29350,
+  "end":29396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a million sushi rolls that I can make.",
+  "id":"223b18c2-9017-4688-9a34-f65668a8072a",
+  "params":{
+    "id":"223b18c2-9017-4688-9a34-f65668a8072a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

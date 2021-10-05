@@ -1,0 +1,13 @@
+{
+  "start":19200,
+  "end":19212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Quite a lot.",
+  "id":"b4373e60-b0c3-4a37-9ed1-b52a44c5e467",
+  "params":{
+    "id":"b4373e60-b0c3-4a37-9ed1-b52a44c5e467",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10264,
+  "end":10298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not that friendly with people.",
+  "id":"883d37d2-7f42-415d-8add-dcc468b32499",
+  "params":{
+    "id":"883d37d2-7f42-415d-8add-dcc468b32499",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23401,
+  "end":23418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You'll forget it.",
+  "id":"73aff99d-05e7-4f32-8125-e255e7e79059",
+  "params":{
+    "id":"73aff99d-05e7-4f32-8125-e255e7e79059",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

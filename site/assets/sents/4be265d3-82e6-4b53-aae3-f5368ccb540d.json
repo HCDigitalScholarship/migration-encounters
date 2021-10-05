@@ -1,0 +1,13 @@
+{
+  "start":27081,
+  "end":27102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I\n   don't write.",
+  "id":"4be265d3-82e6-4b53-aae3-f5368ccb540d",
+  "params":{
+    "id":"4be265d3-82e6-4b53-aae3-f5368ccb540d",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

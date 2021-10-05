@@ -1,0 +1,12 @@
+{
+  "start":21723,
+  "end":21778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not exactly sure, some university there in Orlando.",
+  "id":"234d7dfd-0db0-47b6-80ca-d543d67b6bdd",
+  "params":{
+    "id":"dbeb857b-ac4e-475f-8e6a-9bff1e25bad0"
+  },
+  "name":"Ben"
+}

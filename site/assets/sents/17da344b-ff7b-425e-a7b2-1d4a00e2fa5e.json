@@ -1,0 +1,13 @@
+{
+  "start":36347,
+  "end":36366,
+  "label":"SENT",
+  "type":"sent",
+  "text":"another\n   country.",
+  "id":"17da344b-ff7b-425e-a7b2-1d4a00e2fa5e",
+  "params":{
+    "id":"17da344b-ff7b-425e-a7b2-1d4a00e2fa5e",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

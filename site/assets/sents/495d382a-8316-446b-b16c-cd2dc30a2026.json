@@ -1,0 +1,13 @@
+{
+  "start":9985,
+  "end":10002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"Bro.\"",
+  "id":"495d382a-8316-446b-b16c-cd2dc30a2026",
+  "params":{
+    "id":"495d382a-8316-446b-b16c-cd2dc30a2026",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

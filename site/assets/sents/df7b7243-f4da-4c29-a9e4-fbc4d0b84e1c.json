@@ -1,0 +1,13 @@
+{
+  "start":21831,
+  "end":21976,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom threw plates,\n   tools, bamboo sticks, anything she could really get her hands on to make\n   her point that she was not to be messed with.",
+  "id":"df7b7243-f4da-4c29-a9e4-fbc4d0b84e1c",
+  "params":{
+    "id":"df7b7243-f4da-4c29-a9e4-fbc4d0b84e1c",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

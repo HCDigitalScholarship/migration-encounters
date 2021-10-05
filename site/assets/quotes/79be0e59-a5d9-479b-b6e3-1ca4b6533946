@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":4,
+  "end":235,
+  "label":"Mexico",
+  "id":"79be0e59-a5d9-479b-b6e3-1ca4b6533946",
+  "params":{
+    "id":"ca4df9d5-8ff1-47cf-afc8-e664fba0f9f8"
+  },
+  "name":"Ivan",
+  "text":"Anita: How old are you Ivan?\n \n \n   Ivan: How old? I'm twenty-seven years old.\n \n \n   Anita: You were born in Mexico?\n \n \n   Ivan: Yes. I was born in Mexico.\n \n \n   Anita: Where in Mexico?\n \n \n   Ivan: In the city of Mexico.\n \n \n  "
+}

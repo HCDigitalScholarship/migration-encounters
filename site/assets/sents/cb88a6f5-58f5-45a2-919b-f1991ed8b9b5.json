@@ -1,0 +1,13 @@
+{
+  "start":12380,
+  "end":12435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n   Consular ID, can you use it in your own country?",
+  "id":"cb88a6f5-58f5-45a2-919b-f1991ed8b9b5",
+  "params":{
+    "id":"cb88a6f5-58f5-45a2-919b-f1991ed8b9b5",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

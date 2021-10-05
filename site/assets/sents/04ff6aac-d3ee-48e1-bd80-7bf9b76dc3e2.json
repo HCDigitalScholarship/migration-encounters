@@ -1,0 +1,13 @@
+{
+  "start":25017,
+  "end":25081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You'll see somebody that has tags and\nyou'll be like, \"Hey, man.",
+  "id":"04ff6aac-d3ee-48e1-bd80-7bf9b76dc3e2",
+  "params":{
+    "id":"04ff6aac-d3ee-48e1-bd80-7bf9b76dc3e2",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

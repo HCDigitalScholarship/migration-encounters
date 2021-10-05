@@ -1,0 +1,13 @@
+{
+  "start":10594,
+  "end":10623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   used to play the violin.",
+  "id":"bed9d3ca-7426-4b0d-a5ed-aa3f2dbed104",
+  "params":{
+    "id":"bed9d3ca-7426-4b0d-a5ed-aa3f2dbed104",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

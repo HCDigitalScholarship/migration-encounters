@@ -1,0 +1,13 @@
+{
+  "start":8984,
+  "end":9098,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even in parent teacher conferences, she would\n   literally always talk to my mom as if she'd be really interested.",
+  "id":"f0072fff-353a-4f6c-ac9d-ebd4b748f3c2",
+  "params":{
+    "id":"f0072fff-353a-4f6c-ac9d-ebd4b748f3c2",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

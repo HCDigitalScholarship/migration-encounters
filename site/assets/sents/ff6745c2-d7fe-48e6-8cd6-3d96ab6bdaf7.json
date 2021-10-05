@@ -1,0 +1,13 @@
+{
+  "start":9058,
+  "end":9103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I have my whole\n   family here in Mexico.",
+  "id":"ff6745c2-d7fe-48e6-8cd6-3d96ab6bdaf7",
+  "params":{
+    "id":"ff6745c2-d7fe-48e6-8cd6-3d96ab6bdaf7",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

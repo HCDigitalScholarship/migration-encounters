@@ -1,0 +1,12 @@
+{
+  "start":28741,
+  "end":28763,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have any hopes?",
+  "id":"6dc49ef9-62c5-47b1-abfe-fde9f5189d75",
+  "params":{
+    "id":"2ad1c2ed-48cc-426a-b2c1-092d9142383c"
+  },
+  "name":"Kevin"
+}

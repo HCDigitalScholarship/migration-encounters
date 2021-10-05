@@ -1,0 +1,12 @@
+{
+  "start":7060,
+  "end":7080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I followed them.",
+  "id":"840165b8-685c-4d8c-a3e4-db4637711725",
+  "params":{
+    "id":"e65ccb3b-529e-4ff0-b943-8e784cc07db9"
+  },
+  "name":"Edgar"
+}

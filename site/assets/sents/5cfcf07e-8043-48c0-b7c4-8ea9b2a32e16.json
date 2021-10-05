@@ -1,0 +1,13 @@
+{
+  "start":28861,
+  "end":28868,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was.",
+  "id":"5cfcf07e-8043-48c0-b7c4-8ea9b2a32e16",
+  "params":{
+    "id":"5cfcf07e-8043-48c0-b7c4-8ea9b2a32e16",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

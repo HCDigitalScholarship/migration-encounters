@@ -1,0 +1,12 @@
+{
+  "start":26006,
+  "end":26040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to do\n   that for a living.",
+  "id":"5af923dc-96a4-41e2-bdf1-35bbb37cbfd5",
+  "params":{
+    "id":"3742f0e2-33b7-4780-89bb-0c20030b2ed7"
+  },
+  "name":"Laila"
+}

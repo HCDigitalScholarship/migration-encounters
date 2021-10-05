@@ -1,0 +1,13 @@
+{
+  "start":34888,
+  "end":34931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   could have been like other religions.",
+  "id":"af6adca8-e91d-479d-ae2b-557a4f6aa13d",
+  "params":{
+    "id":"af6adca8-e91d-479d-ae2b-557a4f6aa13d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

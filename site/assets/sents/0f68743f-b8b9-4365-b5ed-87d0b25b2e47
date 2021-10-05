@@ -1,0 +1,12 @@
+{
+  "start":32407,
+  "end":32472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \u201cHow do you think she feels when you tell\n   her that?\u201d",
+  "id":"0f68743f-b8b9-4365-b5ed-87d0b25b2e47",
+  "params":{
+    "id":"31445c93-66b2-4df6-8caf-a34670a5a7df"
+  },
+  "name":"Hugo"
+}

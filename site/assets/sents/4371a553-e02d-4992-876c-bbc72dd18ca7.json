@@ -1,0 +1,13 @@
+{
+  "start":23963,
+  "end":23994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Ana: Thank you.",
+  "id":"4371a553-e02d-4992-876c-bbc72dd18ca7",
+  "params":{
+    "id":"4371a553-e02d-4992-876c-bbc72dd18ca7",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":42016,
+  "end":42036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like from here.",
+  "id":"09c0bd31-7ce1-4d47-a151-6c67a8504812",
+  "params":{
+    "id":"09c0bd31-7ce1-4d47-a151-6c67a8504812",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

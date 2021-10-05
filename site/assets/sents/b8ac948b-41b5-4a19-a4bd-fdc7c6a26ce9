@@ -1,0 +1,12 @@
+{
+  "start":11323,
+  "end":11367,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Angelo: [Affirmative noise].\n      \n      \n ",
+  "id":"b8ac948b-41b5-4a19-a4bd-fdc7c6a26ce9",
+  "params":{
+    "id":"b380c0a2-39f7-4334-8e12-fc54c5b074b9"
+  },
+  "name":"Angelo"
+}

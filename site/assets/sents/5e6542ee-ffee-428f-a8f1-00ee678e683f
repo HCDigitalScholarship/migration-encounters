@@ -1,0 +1,12 @@
+{
+  "start":46734,
+  "end":46816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't say it's been bad, but it's really hard to try to adjust to\n   everything.",
+  "id":"5e6542ee-ffee-428f-a8f1-00ee678e683f",
+  "params":{
+    "id":"bdf8d878-a660-4714-a25a-119a57367200"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28230,
+  "end":28250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't give up.",
+  "id":"f2a72404-b5c7-4aae-84cd-414efa94a4ab",
+  "params":{
+    "id":"f2a72404-b5c7-4aae-84cd-414efa94a4ab",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9232,
+  "end":9246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened?",
+  "id":"428bb0cf-31f4-41bd-b578-dab13da6dc83",
+  "params":{
+    "id":"428bb0cf-31f4-41bd-b578-dab13da6dc83",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22502,
+  "end":22516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The other one.",
+  "id":"f7b8d022-dd24-4db8-92a0-e6b80b85de29",
+  "params":{
+    "id":"f7b8d022-dd24-4db8-92a0-e6b80b85de29",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

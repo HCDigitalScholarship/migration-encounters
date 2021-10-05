@@ -1,0 +1,12 @@
+{
+  "start":32492,
+  "end":32507,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: My dad.",
+  "id":"e649a450-73a9-4ab6-8651-892b843d7611",
+  "params":{
+    "id":"8b477369-e0d2-4cb7-bd8b-7bcf36d7edf8"
+  },
+  "name":"Carlos"
+}

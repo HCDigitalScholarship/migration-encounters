@@ -1,0 +1,12 @@
+{
+  "start":37143,
+  "end":37209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's kind of what they're doing, not really doing their job.",
+  "id":"c36c65f0-e43f-49cf-9bf9-c119ec76d4f7",
+  "params":{
+    "id":"e766eda6-6144-42e8-b948-bd810b4d0f75"
+  },
+  "name":"Ben"
+}

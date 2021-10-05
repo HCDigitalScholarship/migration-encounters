@@ -1,0 +1,13 @@
+{
+  "start":1570,
+  "end":1595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What city did you end up?",
+  "id":"510c7114-1c5f-46d2-9063-ec4a82fa718e",
+  "params":{
+    "id":"510c7114-1c5f-46d2-9063-ec4a82fa718e",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

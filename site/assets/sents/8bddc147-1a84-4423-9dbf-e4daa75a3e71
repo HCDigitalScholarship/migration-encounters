@@ -1,0 +1,12 @@
+{
+  "start":15305,
+  "end":15327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   They sent me back.",
+  "id":"8bddc147-1a84-4423-9dbf-e4daa75a3e71",
+  "params":{
+    "id":"1e9be9f9-7ac1-4f5f-839b-b94e3b4fc7ac"
+  },
+  "name":"Many"
+}

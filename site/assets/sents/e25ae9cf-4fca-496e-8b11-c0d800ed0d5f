@@ -1,0 +1,12 @@
+{
+  "start":12520,
+  "end":12588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew her for years, but when I got in trouble, she was writing\nme.",
+  "id":"e25ae9cf-4fca-496e-8b11-c0d800ed0d5f",
+  "params":{
+    "id":"ee376293-fdb3-4246-8c4d-75919dd03db3"
+  },
+  "name":"Abel"
+}

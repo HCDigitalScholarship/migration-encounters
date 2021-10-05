@@ -1,0 +1,13 @@
+{
+  "start":66547,
+  "end":66562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love it here.",
+  "id":"0be54b9d-7c6a-47f4-ba03-6e49da77cdc1",
+  "params":{
+    "id":"0be54b9d-7c6a-47f4-ba03-6e49da77cdc1",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

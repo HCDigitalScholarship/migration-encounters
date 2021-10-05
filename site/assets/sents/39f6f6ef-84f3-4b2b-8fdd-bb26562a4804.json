@@ -1,0 +1,13 @@
+{
+  "start":8200,
+  "end":8225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's\n   a\n \n \n   lawyer.",
+  "id":"39f6f6ef-84f3-4b2b-8fdd-bb26562a4804",
+  "params":{
+    "id":"39f6f6ef-84f3-4b2b-8fdd-bb26562a4804",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27905,
+  "end":27925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you call it?",
+  "id":"10eb32f8-6685-41d5-9fca-a3ea1ae4b25c",
+  "params":{
+    "id":"10eb32f8-6685-41d5-9fca-a3ea1ae4b25c",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

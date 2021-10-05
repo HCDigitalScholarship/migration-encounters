@@ -1,0 +1,12 @@
+{
+  "start":3880,
+  "end":3902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you major in?",
+  "id":"74908de2-b14d-4b4e-9a92-bec8057bc6cb",
+  "params":{
+    "id":"dbbe2489-2e2c-43df-b27c-e2a8437413f3"
+  },
+  "name":"Joseph"
+}

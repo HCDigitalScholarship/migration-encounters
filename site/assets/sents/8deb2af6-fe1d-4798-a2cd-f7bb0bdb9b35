@@ -1,0 +1,12 @@
+{
+  "start":1878,
+  "end":1935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who did you live with when you were in the United States?",
+  "id":"8deb2af6-fe1d-4798-a2cd-f7bb0bdb9b35",
+  "params":{
+    "id":"4e9f3689-39cc-49d3-b9f5-b91be2bcce29"
+  },
+  "name":"Ivan"
+}

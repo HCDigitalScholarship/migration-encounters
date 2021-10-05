@@ -1,0 +1,13 @@
+{
+  "start":386,
+  "end":420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And she was like,\n   \"No, Miguel.\"",
+  "id":"58f62d39-6bcb-4d63-9343-5c7b6d5d43b0",
+  "params":{
+    "id":"58f62d39-6bcb-4d63-9343-5c7b6d5d43b0",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28867,
+  "end":28934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would I be, like, what type of\n   person would I be right now?",
+  "id":"e8e32ef3-386c-4e88-9d85-f349b5c740fc",
+  "params":{
+    "id":"e8e32ef3-386c-4e88-9d85-f349b5c740fc",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

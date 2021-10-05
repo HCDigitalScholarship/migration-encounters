@@ -1,0 +1,12 @@
+{
+  "start":9002,
+  "end":9020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not in California.",
+  "id":"86303582-ba40-478d-b66f-3daa9a2aba00",
+  "params":{
+    "id":"3a54fa8a-ba9c-47de-b86e-051968b48d21"
+  },
+  "name":"Rodrigo"
+}

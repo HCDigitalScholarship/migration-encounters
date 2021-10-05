@@ -1,0 +1,12 @@
+{
+  "start":6711,
+  "end":6734,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in the wrong car.",
+  "id":"a1faa852-0350-4736-89b4-0b24f2d9120a",
+  "params":{
+    "id":"342690f1-e012-4324-98b6-4b8ae778f730"
+  },
+  "name":"Ivan"
+}

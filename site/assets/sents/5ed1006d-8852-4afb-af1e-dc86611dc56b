@@ -1,0 +1,12 @@
+{
+  "start":43763,
+  "end":43779,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is a blunt?",
+  "id":"5ed1006d-8852-4afb-af1e-dc86611dc56b",
+  "params":{
+    "id":"a6274972-634e-4a30-9fa2-f8be01158630"
+  },
+  "name":"Mike"
+}

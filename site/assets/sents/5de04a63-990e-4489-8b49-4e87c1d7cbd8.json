@@ -1,0 +1,13 @@
+{
+  "start":2102,
+  "end":2124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that\n   like?",
+  "id":"5de04a63-990e-4489-8b49-4e87c1d7cbd8",
+  "params":{
+    "id":"5de04a63-990e-4489-8b49-4e87c1d7cbd8",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

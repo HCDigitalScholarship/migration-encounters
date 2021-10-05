@@ -1,0 +1,13 @@
+{
+  "start":32587,
+  "end":32620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nothing's going to happen to me.\"",
+  "id":"e7e873cc-3c60-4785-b1c1-3735867f8b25",
+  "params":{
+    "id":"e7e873cc-3c60-4785-b1c1-3735867f8b25",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

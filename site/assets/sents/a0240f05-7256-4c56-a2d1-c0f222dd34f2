@@ -1,0 +1,12 @@
+{
+  "start":15330,
+  "end":15355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're still in Arizona?",
+  "id":"a0240f05-7256-4c56-a2d1-c0f222dd34f2",
+  "params":{
+    "id":"7045b316-9787-4467-8b63-9e0a7d1b0b3b"
+  },
+  "name":"Mike"
+}

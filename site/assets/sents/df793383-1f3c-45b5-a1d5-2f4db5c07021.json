@@ -1,0 +1,13 @@
+{
+  "start":7808,
+  "end":7939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Carlos: That happened to be troublesome for me because one of them\n   snitched, and they pointed out that I was there, too.",
+  "id":"df793383-1f3c-45b5-a1d5-2f4db5c07021",
+  "params":{
+    "id":"df793383-1f3c-45b5-a1d5-2f4db5c07021",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

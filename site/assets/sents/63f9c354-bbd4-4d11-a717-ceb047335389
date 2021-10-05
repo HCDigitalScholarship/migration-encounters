@@ -1,0 +1,12 @@
+{
+  "start":207,
+  "end":261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad left for the US when I was about two years old.",
+  "id":"63f9c354-bbd4-4d11-a717-ceb047335389",
+  "params":{
+    "id":"c106cce4-fbd6-4116-86fb-f359a37167ca"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31442,
+  "end":31471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But now, we're getting there.",
+  "id":"6a8fcf0a-01d4-454b-9b06-dbf70e5ca157",
+  "params":{
+    "id":"6a8fcf0a-01d4-454b-9b06-dbf70e5ca157",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6001,
+  "end":6033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n     customer's information.",
+  "id":"bba0e2e4-fa45-49b5-aa32-446ed09f3379",
+  "params":{
+    "id":"c5403111-e12a-4b8e-a932-84387d4e9ad1"
+  },
+  "name":"Beto"
+}

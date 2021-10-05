@@ -1,0 +1,12 @@
+{
+  "start":3913,
+  "end":3967,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He came to\n   Mexico when he was only seven years old.",
+  "id":"5eb0d4e8-df96-45e1-85b4-75226970d65d",
+  "params":{
+    "id":"fd7c2bc4-7f95-44fa-9bbb-a8bec8cf1143"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10090,
+  "end":10115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess that was just it.",
+  "id":"804f2905-85e0-4e78-b11f-cccf6aaab0a3",
+  "params":{
+    "id":"b1f2955d-346d-42d1-8fc4-d22d43f8148f"
+  },
+  "name":"Sylent"
+}

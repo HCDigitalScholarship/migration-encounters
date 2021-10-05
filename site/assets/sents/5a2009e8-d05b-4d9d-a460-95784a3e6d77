@@ -1,0 +1,12 @@
+{
+  "start":66095,
+  "end":66117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It makes me feel good.",
+  "id":"5a2009e8-d05b-4d9d-a460-95784a3e6d77",
+  "params":{
+    "id":"243cd093-9662-433e-8e3e-df3198f61d86"
+  },
+  "name":"Cris"
+}

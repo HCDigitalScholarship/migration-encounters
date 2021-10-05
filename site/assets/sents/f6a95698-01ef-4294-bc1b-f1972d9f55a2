@@ -1,0 +1,12 @@
+{
+  "start":32367,
+  "end":32490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you are saying the decision to come to the US was what...\n \n \n   Mike: Not even that, it's just getting with my stepdad.",
+  "id":"f6a95698-01ef-4294-bc1b-f1972d9f55a2",
+  "params":{
+    "id":"77efd972-7dd1-4077-bcb8-3e98e677b857"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11,
+  "end":60,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you left the United States?",
+  "id":"04f52c66-418e-43d7-833a-a33286e94af6",
+  "params":{
+    "id":"b3d7994b-cf6e-4fa2-b7d3-7810cb020733"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":45267,
+  "end":45302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just part of being\n   Mexican.",
+  "id":"01d79cd4-fe04-41cb-a4e4-ca59ead0bea8",
+  "params":{
+    "id":"01d79cd4-fe04-41cb-a4e4-ca59ead0bea8",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

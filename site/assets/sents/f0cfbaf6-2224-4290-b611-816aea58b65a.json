@@ -1,0 +1,13 @@
+{
+  "start":22390,
+  "end":22421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"about\n   this much of my skull.",
+  "id":"f0cfbaf6-2224-4290-b611-816aea58b65a",
+  "params":{
+    "id":"f0cfbaf6-2224-4290-b611-816aea58b65a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

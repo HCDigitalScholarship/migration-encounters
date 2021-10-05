@@ -1,0 +1,13 @@
+{
+  "start":12864,
+  "end":12887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was no other way.",
+  "id":"0e1942f6-6dab-42c7-a075-e055d0dbb53d",
+  "params":{
+    "id":"0e1942f6-6dab-42c7-a075-e055d0dbb53d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

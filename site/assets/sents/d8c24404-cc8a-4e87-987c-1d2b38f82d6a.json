@@ -1,0 +1,13 @@
+{
+  "start":4823,
+  "end":4861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you get a license in California?",
+  "id":"d8c24404-cc8a-4e87-987c-1d2b38f82d6a",
+  "params":{
+    "id":"d8c24404-cc8a-4e87-987c-1d2b38f82d6a",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

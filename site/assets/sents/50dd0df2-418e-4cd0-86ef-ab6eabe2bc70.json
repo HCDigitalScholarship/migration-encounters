@@ -1,0 +1,13 @@
+{
+  "start":4531,
+  "end":4584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Kindergarten, first grade, something like that.",
+  "id":"50dd0df2-418e-4cd0-86ef-ab6eabe2bc70",
+  "params":{
+    "id":"50dd0df2-418e-4cd0-86ef-ab6eabe2bc70",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

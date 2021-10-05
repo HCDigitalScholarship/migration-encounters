@@ -1,0 +1,13 @@
+{
+  "start":6354,
+  "end":6430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She'll talk like this [imitates] because\n   she can't move half of her face.",
+  "id":"02432d84-47a0-44a9-b989-0d3493b989b5",
+  "params":{
+    "id":"02432d84-47a0-44a9-b989-0d3493b989b5",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

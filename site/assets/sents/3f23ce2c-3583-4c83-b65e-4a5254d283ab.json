@@ -1,0 +1,13 @@
+{
+  "start":26589,
+  "end":26619,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a call center right here.",
+  "id":"3f23ce2c-3583-4c83-b65e-4a5254d283ab",
+  "params":{
+    "id":"3f23ce2c-3583-4c83-b65e-4a5254d283ab",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

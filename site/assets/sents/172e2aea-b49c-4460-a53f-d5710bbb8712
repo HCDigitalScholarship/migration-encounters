@@ -1,0 +1,12 @@
+{
+  "start":26745,
+  "end":26815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Well, you better thank\n   her, because she just gave you life again.\"",
+  "id":"172e2aea-b49c-4460-a53f-d5710bbb8712",
+  "params":{
+    "id":"caa20026-076e-4732-9c47-98fd95d55fe9"
+  },
+  "name":"Ruben"
+}

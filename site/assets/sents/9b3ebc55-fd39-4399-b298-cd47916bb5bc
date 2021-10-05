@@ -1,0 +1,12 @@
+{
+  "start":16444,
+  "end":16505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It looks like things are a little different in a call center.",
+  "id":"9b3ebc55-fd39-4399-b298-cd47916bb5bc",
+  "params":{
+    "id":"2d3712d2-400f-46db-8dc6-43ef2dba2653"
+  },
+  "name":"Beto"
+}

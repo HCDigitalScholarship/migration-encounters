@@ -1,0 +1,12 @@
+{
+  "start":30034,
+  "end":30050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It got physical.",
+  "id":"b0759192-f5f4-4e88-a245-54fb0d7841ef",
+  "params":{
+    "id":"baa703fa-7984-4de6-bc0c-a8a2b21abcad"
+  },
+  "name":"Angelo"
+}

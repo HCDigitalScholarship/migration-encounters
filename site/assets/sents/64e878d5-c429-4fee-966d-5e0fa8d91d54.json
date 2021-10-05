@@ -1,0 +1,13 @@
+{
+  "start":23443,
+  "end":23601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I had done it legally,\n I think it would've been much easier, and I would've probably done a lot\n better, had a lot of things to look forward to and stuff.",
+  "id":"64e878d5-c429-4fee-966d-5e0fa8d91d54",
+  "params":{
+    "id":"64e878d5-c429-4fee-966d-5e0fa8d91d54",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

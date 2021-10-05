@@ -1,0 +1,12 @@
+{
+  "start":20549,
+  "end":20568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was pretty cool.",
+  "id":"1eab4dcd-f898-4142-90f9-9abd910cf893",
+  "params":{
+    "id":"75d42fdc-3ba9-4de8-add5-02bf8b17ed00"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20727,
+  "end":20748,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It is\n     beautiful.",
+  "id":"1b1260a4-eb33-45e8-979a-12a7fc71dbb9",
+  "params":{
+    "id":"660f008a-1a29-406e-b202-a8ab27abf023"
+  },
+  "name":"Beto"
+}

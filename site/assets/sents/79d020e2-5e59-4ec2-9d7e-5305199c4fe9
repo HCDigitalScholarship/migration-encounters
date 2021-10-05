@@ -1,0 +1,12 @@
+{
+  "start":8069,
+  "end":8114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And did you go to a different town this time?",
+  "id":"79d020e2-5e59-4ec2-9d7e-5305199c4fe9",
+  "params":{
+    "id":"4d2b2f58-6392-4a20-9dce-8e893e2718a8"
+  },
+  "name":"Luis A"
+}

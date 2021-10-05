@@ -1,0 +1,12 @@
+{
+  "start":27082,
+  "end":27121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you dropped out of school what year?",
+  "id":"7c0fb392-7a63-4870-b7ba-98a0b5c81225",
+  "params":{
+    "id":"8bfe14ce-5f08-4f36-9733-4cc2f8267f87"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11108,
+  "end":11140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can\n   come back over here.\"",
+  "id":"71cd1b92-1d2e-4c99-93e7-054444689fcb",
+  "params":{
+    "id":"45ffa716-3816-46c8-9247-ad038bbf1e20"
+  },
+  "name":"Yair"
+}

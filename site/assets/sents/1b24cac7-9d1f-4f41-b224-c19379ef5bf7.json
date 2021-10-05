@@ -1,0 +1,13 @@
+{
+  "start":1262,
+  "end":1315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That's basically what a therapist would tell you.",
+  "id":"1b24cac7-9d1f-4f41-b224-c19379ef5bf7",
+  "params":{
+    "id":"1b24cac7-9d1f-4f41-b224-c19379ef5bf7",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

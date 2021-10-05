@@ -1,0 +1,12 @@
+{
+  "start":27289,
+  "end":27310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm a good\n   person.",
+  "id":"7f7b8092-8d2e-453e-adba-0a536939747a",
+  "params":{
+    "id":"c1bddcf2-68bc-4c70-8dac-fc8ede9dc588"
+  },
+  "name":"Rodolfo"
+}

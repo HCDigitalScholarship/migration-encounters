@@ -1,0 +1,13 @@
+{
+  "start":28123,
+  "end":28167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And in that box\n   with the number of boxes.",
+  "id":"f3d04448-66f7-40f1-bb15-a619e053607d",
+  "params":{
+    "id":"f3d04448-66f7-40f1-bb15-a619e053607d",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

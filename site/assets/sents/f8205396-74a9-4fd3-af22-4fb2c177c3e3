@@ -1,0 +1,12 @@
+{
+  "start":13311,
+  "end":13365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: Yeah, with chicken, and onions, and chipotle.",
+  "id":"f8205396-74a9-4fd3-af22-4fb2c177c3e3",
+  "params":{
+    "id":"cb919b28-f583-4974-8066-e93ea7b6ec40"
+  },
+  "name":"Rodrigo"
+}

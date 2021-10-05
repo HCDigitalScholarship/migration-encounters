@@ -1,0 +1,13 @@
+{
+  "start":32087,
+  "end":32142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Obviously, the Dodgers, I love going to the\n   stadium.",
+  "id":"f112e415-efee-4e67-a305-486702c980f9",
+  "params":{
+    "id":"f112e415-efee-4e67-a305-486702c980f9",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

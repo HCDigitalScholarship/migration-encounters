@@ -1,0 +1,13 @@
+{
+  "start":10796,
+  "end":10833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On top of that, we're not from there.",
+  "id":"9c41d5bd-2c0e-4b1b-be3b-8452a03f4af9",
+  "params":{
+    "id":"9c41d5bd-2c0e-4b1b-be3b-8452a03f4af9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

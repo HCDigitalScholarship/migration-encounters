@@ -1,0 +1,12 @@
+{
+  "start":36672,
+  "end":36705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said that you're married now?",
+  "id":"aee3d3f7-7ba8-45a7-9c0a-7fc210372454",
+  "params":{
+    "id":"42c52ceb-9332-4ca9-bead-76cf6af9d497"
+  },
+  "name":"Daniel B"
+}

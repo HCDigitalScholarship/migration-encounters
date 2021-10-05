@@ -1,0 +1,13 @@
+{
+  "start":45237,
+  "end":45264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She wants you to come back.",
+  "id":"e214376a-fb8b-48fa-852b-73ba338dd42e",
+  "params":{
+    "id":"e214376a-fb8b-48fa-852b-73ba338dd42e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

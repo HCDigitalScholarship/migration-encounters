@@ -1,0 +1,13 @@
+{
+  "start":52243,
+  "end":52284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just said that it was random checks.",
+  "id":"f3d6cb33-b818-4d4b-b9b0-fce2ac7f3c29",
+  "params":{
+    "id":"f3d6cb33-b818-4d4b-b9b0-fce2ac7f3c29",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

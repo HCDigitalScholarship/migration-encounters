@@ -1,0 +1,13 @@
+{
+  "start":4586,
+  "end":4617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Chicago is such a huge\n   city.",
+  "id":"7baf770b-ad66-4570-8c5d-58589c7779f7",
+  "params":{
+    "id":"7baf770b-ad66-4570-8c5d-58589c7779f7",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

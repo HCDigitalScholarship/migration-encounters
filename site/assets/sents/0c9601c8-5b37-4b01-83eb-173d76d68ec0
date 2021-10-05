@@ -1,0 +1,12 @@
+{
+  "start":3981,
+  "end":4002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What a success story.",
+  "id":"0c9601c8-5b37-4b01-83eb-173d76d68ec0",
+  "params":{
+    "id":"283779f4-9f3d-42c3-8519-f4b2872fadba"
+  },
+  "name":"Joseph"
+}

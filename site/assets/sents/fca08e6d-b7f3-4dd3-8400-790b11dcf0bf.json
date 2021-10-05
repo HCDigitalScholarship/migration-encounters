@@ -1,0 +1,13 @@
+{
+  "start":5932,
+  "end":5954,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to do all that.",
+  "id":"fca08e6d-b7f3-4dd3-8400-790b11dcf0bf",
+  "params":{
+    "id":"fca08e6d-b7f3-4dd3-8400-790b11dcf0bf",
+    "class":"anno"
+  },
+  "name":"Many"
+}

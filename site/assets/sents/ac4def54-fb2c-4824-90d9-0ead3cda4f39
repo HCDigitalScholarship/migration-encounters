@@ -1,0 +1,12 @@
+{
+  "start":26016,
+  "end":26025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get it.",
+  "id":"ac4def54-fb2c-4824-90d9-0ead3cda4f39",
+  "params":{
+    "id":"ee3a328c-07f3-458c-b119-e1a6da4e7b67"
+  },
+  "name":"Luisa"
+}

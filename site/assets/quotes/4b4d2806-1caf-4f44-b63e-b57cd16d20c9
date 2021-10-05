@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":27834,
+  "end":27838,
+  "text":"v>\n   \n     Anne: This is Anne and I am doing a follow-up survey with Joseph.\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: And thank you for coming.\n   \n   \n     Joseph: It's been crazy.\n   \n   \n     Anne: This is our last hour doing interviews so I'm so glad you're\n     here.\n   \n   \n     Joseph: I know the guy downstairs told me, \"You're literally the last\n     guy we're going to...\" I'm like, \"Oh y",
+  "label":"PERSON",
+  "id":"4b4d2806-1caf-4f44-b63e-b57cd16d20c9",
+  "name":"Joseph"
+}

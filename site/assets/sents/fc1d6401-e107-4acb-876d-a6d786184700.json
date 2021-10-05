@@ -1,0 +1,13 @@
+{
+  "start":537,
+  "end":556,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was fantastic.",
+  "id":"fc1d6401-e107-4acb-876d-a6d786184700",
+  "params":{
+    "id":"fc1d6401-e107-4acb-876d-a6d786184700",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

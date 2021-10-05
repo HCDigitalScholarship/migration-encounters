@@ -1,0 +1,13 @@
+{
+  "start":54067,
+  "end":54099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're just like my stepmother.",
+  "id":"3dd4470d-2578-4dca-b2fd-e67b749c915e",
+  "params":{
+    "id":"3dd4470d-2578-4dca-b2fd-e67b749c915e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

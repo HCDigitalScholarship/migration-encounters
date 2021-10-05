@@ -1,0 +1,13 @@
+{
+  "start":54150,
+  "end":54184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   know, this kind of caveman.",
+  "id":"c0dd03bd-9696-4746-9ea2-8a21335eb18f",
+  "params":{
+    "id":"c0dd03bd-9696-4746-9ea2-8a21335eb18f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

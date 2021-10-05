@@ -1,0 +1,13 @@
+{
+  "start":60081,
+  "end":60089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia:",
+  "id":"fbc42b10-3d7f-4791-9944-a1642f2b95cd",
+  "params":{
+    "id":"fbc42b10-3d7f-4791-9944-a1642f2b95cd",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

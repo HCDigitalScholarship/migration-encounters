@@ -1,0 +1,12 @@
+{
+  "start":8021,
+  "end":8063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had contact with my people a little bit.",
+  "id":"9c655a5c-0035-4345-b8d4-8118cb73831a",
+  "params":{
+    "id":"89040aae-b1ae-484d-bdee-893907540903"
+  },
+  "name":"Kevin"
+}

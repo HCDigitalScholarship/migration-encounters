@@ -1,0 +1,13 @@
+{
+  "start":8725,
+  "end":8770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I start working\n   with this guy as a helper.",
+  "id":"ed083cff-e2eb-4bbc-9a16-9cdad79f4253",
+  "params":{
+    "id":"ed083cff-e2eb-4bbc-9a16-9cdad79f4253",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

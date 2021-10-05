@@ -1,0 +1,12 @@
+{
+  "start":42260,
+  "end":42333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So how did that lead to your final deportation or voluntary\n   departure?",
+  "id":"6186e04c-56b9-4942-91cc-9d2f3b1a35e1",
+  "params":{
+    "id":"067690d1-da47-4146-a5f1-e59af3ca833c"
+  },
+  "name":"Mike"
+}

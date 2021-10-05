@@ -1,0 +1,12 @@
+{
+  "start":2249,
+  "end":2279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's the same thing, you know?",
+  "id":"ce0e87a5-830b-49fe-9a53-8a1a78209c7e",
+  "params":{
+    "id":"ac2b5636-1aea-46ce-955f-70d445c3c909"
+  },
+  "name":"Hugo"
+}

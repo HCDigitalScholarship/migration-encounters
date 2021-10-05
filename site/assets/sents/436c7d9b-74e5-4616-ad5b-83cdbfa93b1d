@@ -1,0 +1,12 @@
+{
+  "start":24299,
+  "end":24320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to be aware.",
+  "id":"436c7d9b-74e5-4616-ad5b-83cdbfa93b1d",
+  "params":{
+    "id":"23cfda6e-c75b-487b-8852-40214502f371"
+  },
+  "name":"Daniel"
+}

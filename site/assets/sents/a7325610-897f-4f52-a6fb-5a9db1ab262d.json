@@ -1,0 +1,13 @@
+{
+  "start":41281,
+  "end":41351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Us,\n   growing up in the States, we know that that's a horrible thing.",
+  "id":"a7325610-897f-4f52-a6fb-5a9db1ab262d",
+  "params":{
+    "id":"a7325610-897f-4f52-a6fb-5a9db1ab262d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

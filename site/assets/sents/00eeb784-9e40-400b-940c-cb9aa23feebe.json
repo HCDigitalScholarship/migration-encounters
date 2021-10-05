@@ -1,0 +1,13 @@
+{
+  "start":13996,
+  "end":14041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico, you\n   could become a lawyer.",
+  "id":"00eeb784-9e40-400b-940c-cb9aa23feebe",
+  "params":{
+    "id":"00eeb784-9e40-400b-940c-cb9aa23feebe",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

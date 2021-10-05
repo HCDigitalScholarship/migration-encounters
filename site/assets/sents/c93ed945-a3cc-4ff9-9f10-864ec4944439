@@ -1,0 +1,12 @@
+{
+  "start":15574,
+  "end":15588,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was driving.",
+  "id":"c93ed945-a3cc-4ff9-9f10-864ec4944439",
+  "params":{
+    "id":"85fce921-809e-4fa8-9f14-a17f109e0646"
+  },
+  "name":"Sylent"
+}

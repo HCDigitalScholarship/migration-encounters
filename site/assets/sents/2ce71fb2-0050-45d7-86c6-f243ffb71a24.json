@@ -1,0 +1,13 @@
+{
+  "start":1646,
+  "end":1676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when I got the\n   help.",
+  "id":"2ce71fb2-0050-45d7-86c6-f243ffb71a24",
+  "params":{
+    "id":"2ce71fb2-0050-45d7-86c6-f243ffb71a24",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15425,
+  "end":15444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You got handcuffed.",
+  "id":"f945726c-f808-4e42-ac16-6cec357880fb",
+  "params":{
+    "id":"f945726c-f808-4e42-ac16-6cec357880fb",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

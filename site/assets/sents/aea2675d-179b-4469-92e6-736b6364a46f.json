@@ -1,0 +1,13 @@
+{
+  "start":55379,
+  "end":55396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then when\n   ",
+  "id":"aea2675d-179b-4469-92e6-736b6364a46f",
+  "params":{
+    "id":"aea2675d-179b-4469-92e6-736b6364a46f",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

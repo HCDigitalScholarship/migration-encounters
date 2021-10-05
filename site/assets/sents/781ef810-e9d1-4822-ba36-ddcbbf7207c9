@@ -1,0 +1,12 @@
+{
+  "start":28379,
+  "end":28407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's either one, or it's 20.",
+  "id":"781ef810-e9d1-4822-ba36-ddcbbf7207c9",
+  "params":{
+    "id":"1132bc5d-38a3-4c64-a1cc-2bd0f57f1883"
+  },
+  "name":"Kevin"
+}

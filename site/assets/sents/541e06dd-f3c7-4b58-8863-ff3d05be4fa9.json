@@ -1,0 +1,12 @@
+{
+  "start":25020,
+  "end":25077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know how he did it, but he\n   actually went back.",
+  "id":"541e06dd-f3c7-4b58-8863-ff3d05be4fa9",
+  "params":{
+    "id":"8f98e4b3-9920-4f04-ab55-1e0efe4d9d53"
+  },
+  "name":"Edgar"
+}

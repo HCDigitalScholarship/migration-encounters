@@ -1,0 +1,12 @@
+{
+  "start":33800,
+  "end":33836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It floats, but I'm happy in my life.",
+  "id":"1f20cba4-c9ce-43ef-bd89-6f70fdba1ba3",
+  "params":{
+    "id":"b4225ffa-ea5b-4606-a818-b7ce53018efe"
+  },
+  "name":"Kevin"
+}

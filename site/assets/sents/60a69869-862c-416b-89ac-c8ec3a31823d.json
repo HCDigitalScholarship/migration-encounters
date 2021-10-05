@@ -1,0 +1,13 @@
+{
+  "start":34130,
+  "end":34173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But here in Mexico City, it's not that bad.",
+  "id":"60a69869-862c-416b-89ac-c8ec3a31823d",
+  "params":{
+    "id":"60a69869-862c-416b-89ac-c8ec3a31823d",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

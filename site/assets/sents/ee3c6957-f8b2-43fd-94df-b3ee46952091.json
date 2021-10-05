@@ -1,0 +1,13 @@
+{
+  "start":10740,
+  "end":10761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: En la escuela.",
+  "id":"ee3c6957-f8b2-43fd-94df-b3ee46952091",
+  "params":{
+    "id":"ee3c6957-f8b2-43fd-94df-b3ee46952091",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

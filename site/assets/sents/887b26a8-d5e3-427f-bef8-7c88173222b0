@@ -1,0 +1,12 @@
+{
+  "start":11659,
+  "end":11705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"By the second one, my\n   son was already born.",
+  "id":"887b26a8-d5e3-427f-bef8-7c88173222b0",
+  "params":{
+    "id":"c03a3e03-8a22-4be2-b05a-382fd50575c5"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6911,
+  "end":6940,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he says, \"What hospital?\"",
+  "id":"658ab8a0-f507-43de-965f-09bd924daa75",
+  "params":{
+    "id":"658ab8a0-f507-43de-965f-09bd924daa75",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

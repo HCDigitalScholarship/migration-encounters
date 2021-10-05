@@ -1,0 +1,12 @@
+{
+  "start":13643,
+  "end":13732,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, remember I told you, I was going to go to\n   such place and bring back such thing.\"",
+  "id":"0789116a-94d2-4029-af8b-64f1d7a4f684",
+  "params":{
+    "id":"51874582-a13a-481a-ad13-faafafb4cc86"
+  },
+  "name":"Miguel C"
+}

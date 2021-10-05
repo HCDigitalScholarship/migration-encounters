@@ -1,0 +1,13 @@
+{
+  "start":49957,
+  "end":49998,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got deported, I had three\n   cars.",
+  "id":"1f6bd385-d2c6-498f-802e-a01f6a312c4d",
+  "params":{
+    "id":"1f6bd385-d2c6-498f-802e-a01f6a312c4d",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

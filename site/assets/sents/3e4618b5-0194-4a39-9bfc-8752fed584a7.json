@@ -1,0 +1,13 @@
+{
+  "start":17007,
+  "end":17023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n   care.",
+  "id":"3e4618b5-0194-4a39-9bfc-8752fed584a7",
+  "params":{
+    "id":"3e4618b5-0194-4a39-9bfc-8752fed584a7",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

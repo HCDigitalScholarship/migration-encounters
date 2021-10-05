@@ -1,0 +1,13 @@
+{
+  "start":39910,
+  "end":39969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n     have never went to a physical financial institution.",
+  "id":"a786e8c2-fe6f-4a61-9436-1cd45fcbfd4c",
+  "params":{
+    "id":"a786e8c2-fe6f-4a61-9436-1cd45fcbfd4c",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

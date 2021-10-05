@@ -1,0 +1,13 @@
+{
+  "start":28909,
+  "end":28932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tim: What is that like?",
+  "id":"27b470c9-b390-4bc8-a8dc-1446b7868067",
+  "params":{
+    "id":"27b470c9-b390-4bc8-a8dc-1446b7868067",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":95,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So maybe you could start by telling me about the circumstances of\n   going to the US.",
+  "id":"f8304462-7657-4950-b33e-83c6f9b99131",
+  "params":{
+    "id":"ae131bef-534d-412c-8b54-d0b9c7fcf55c"
+  },
+  "name":"Jose"
+}

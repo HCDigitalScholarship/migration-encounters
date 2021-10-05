@@ -1,0 +1,12 @@
+{
+  "start":47432,
+  "end":47473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was really\n disappointed at that point.",
+  "id":"c5ee143c-0df9-49f8-ba28-3ede298dba5d",
+  "params":{
+    "id":"bc5b5b51-f551-405a-93ce-c99ece8317cf"
+  },
+  "name":"Axel"
+}

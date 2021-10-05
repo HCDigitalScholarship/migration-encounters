@@ -1,0 +1,12 @@
+{
+  "start":18995,
+  "end":19033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's very \u2013you don't stress that much.",
+  "id":"4b48bd49-b0e7-4b49-9573-28073717a71d",
+  "params":{
+    "id":"ce691c49-4545-4aea-8265-ebdbe13a671b"
+  },
+  "name":"Beto"
+}

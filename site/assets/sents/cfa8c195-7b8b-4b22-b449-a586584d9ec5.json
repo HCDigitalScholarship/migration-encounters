@@ -1,0 +1,13 @@
+{
+  "start":6164,
+  "end":6293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When there's\n   a thunderstorm and it's so dark, the thunder and then you're blacked out,\n   you're blinded because of the light.",
+  "id":"cfa8c195-7b8b-4b22-b449-a586584d9ec5",
+  "params":{
+    "id":"cfa8c195-7b8b-4b22-b449-a586584d9ec5",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

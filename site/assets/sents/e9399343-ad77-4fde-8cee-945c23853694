@@ -1,0 +1,12 @@
+{
+  "start":20568,
+  "end":20624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said, \u201cI'm from ____, I'm not used to this weather.\u201d",
+  "id":"e9399343-ad77-4fde-8cee-945c23853694",
+  "params":{
+    "id":"db60a297-3b02-4084-83c1-2bb8043c91fe"
+  },
+  "name":"Josue"
+}

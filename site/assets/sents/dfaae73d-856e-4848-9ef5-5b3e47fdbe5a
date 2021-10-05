@@ -1,0 +1,12 @@
+{
+  "start":6152,
+  "end":6268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you mind\n   going into your last time in the US when you had your company and then when\n   you were undocumented?",
+  "id":"dfaae73d-856e-4848-9ef5-5b3e47fdbe5a",
+  "params":{
+    "id":"340c5352-8251-4fc3-96e5-dae3c6755bcd"
+  },
+  "name":"Daniel"
+}

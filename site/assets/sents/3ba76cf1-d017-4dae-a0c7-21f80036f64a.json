@@ -1,0 +1,13 @@
+{
+  "start":17256,
+  "end":17315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There is no point in paying your bond or bail,\n   whatever.",
+  "id":"3ba76cf1-d017-4dae-a0c7-21f80036f64a",
+  "params":{
+    "id":"3ba76cf1-d017-4dae-a0c7-21f80036f64a",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

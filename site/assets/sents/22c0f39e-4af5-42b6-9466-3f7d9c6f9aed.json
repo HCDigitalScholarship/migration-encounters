@@ -1,0 +1,13 @@
+{
+  "start":2244,
+  "end":2284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did your parents tell you what happened?",
+  "id":"22c0f39e-4af5-42b6-9466-3f7d9c6f9aed",
+  "params":{
+    "id":"22c0f39e-4af5-42b6-9466-3f7d9c6f9aed",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2315,
+  "end":2362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can play music and make people feel\n good.\"",
+  "id":"4b20dd7c-4c5f-442f-b4b8-91e8841e4346",
+  "params":{
+    "id":"4b20dd7c-4c5f-442f-b4b8-91e8841e4346",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

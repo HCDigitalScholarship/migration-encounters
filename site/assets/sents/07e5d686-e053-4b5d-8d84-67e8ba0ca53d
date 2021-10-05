@@ -1,0 +1,12 @@
+{
+  "start":22117,
+  "end":22201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought everybody was against me\n   and I didn't really trust anybody until after.",
+  "id":"07e5d686-e053-4b5d-8d84-67e8ba0ca53d",
+  "params":{
+    "id":"46f7a68d-7360-421d-8704-a1b48ed1579a"
+  },
+  "name":"Ruben"
+}

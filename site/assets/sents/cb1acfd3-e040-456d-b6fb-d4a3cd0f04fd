@@ -1,0 +1,12 @@
+{
+  "start":37085,
+  "end":37175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You are in the wrong hood, you're wearing the wrong color, you're going\n   to get beat up.",
+  "id":"cb1acfd3-e040-456d-b6fb-d4a3cd0f04fd",
+  "params":{
+    "id":"a0d06584-ccca-467e-a0e1-acacb7300e4b"
+  },
+  "name":"Mike"
+}

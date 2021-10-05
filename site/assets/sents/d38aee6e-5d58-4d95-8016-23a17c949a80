@@ -1,0 +1,12 @@
+{
+  "start":34545,
+  "end":34602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"You want to\n   fucking play smart with me?\"",
+  "id":"d38aee6e-5d58-4d95-8016-23a17c949a80",
+  "params":{
+    "id":"6e10529f-f0bc-436e-80ed-eed6c422931d"
+  },
+  "name":"Cris"
+}

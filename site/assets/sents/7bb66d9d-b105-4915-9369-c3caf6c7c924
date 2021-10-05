@@ -1,0 +1,12 @@
+{
+  "start":19085,
+  "end":19140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you built your company, your wife was a US citizen?",
+  "id":"7bb66d9d-b105-4915-9369-c3caf6c7c924",
+  "params":{
+    "id":"82e29713-55ee-4523-9474-a9be07931d00"
+  },
+  "name":"Ben"
+}

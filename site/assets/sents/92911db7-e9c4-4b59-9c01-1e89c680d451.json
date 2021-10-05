@@ -1,0 +1,13 @@
+{
+  "start":4073,
+  "end":4126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought that was the\n   coolest thing in the world.",
+  "id":"92911db7-e9c4-4b59-9c01-1e89c680d451",
+  "params":{
+    "id":"92911db7-e9c4-4b59-9c01-1e89c680d451",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

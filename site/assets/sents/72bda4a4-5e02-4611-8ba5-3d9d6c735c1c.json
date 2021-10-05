@@ -1,0 +1,13 @@
+{
+  "start":12797,
+  "end":12901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told the judge, she turned and looked at him\n   and the guy said, \u201cOkay, we're deferring the charges.\u201d",
+  "id":"72bda4a4-5e02-4611-8ba5-3d9d6c735c1c",
+  "params":{
+    "id":"72bda4a4-5e02-4611-8ba5-3d9d6c735c1c",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

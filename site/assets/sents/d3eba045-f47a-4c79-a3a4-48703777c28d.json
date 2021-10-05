@@ -1,0 +1,13 @@
+{
+  "start":3489,
+  "end":3534,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it was a bigger deal for\n my parents.",
+  "id":"d3eba045-f47a-4c79-a3a4-48703777c28d",
+  "params":{
+    "id":"d3eba045-f47a-4c79-a3a4-48703777c28d",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

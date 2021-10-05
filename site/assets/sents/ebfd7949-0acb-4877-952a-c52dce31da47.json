@@ -1,0 +1,13 @@
+{
+  "start":12424,
+  "end":12453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you describe that for me?",
+  "id":"ebfd7949-0acb-4877-952a-c52dce31da47",
+  "params":{
+    "id":"ebfd7949-0acb-4877-952a-c52dce31da47",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

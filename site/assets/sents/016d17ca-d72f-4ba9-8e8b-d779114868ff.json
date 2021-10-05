@@ -1,0 +1,13 @@
+{
+  "start":3243,
+  "end":3325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo nom\u00e1s llevaba una tarjetita que era\n     seg\u00fan era el permiso pero yo no sab\u00eda.",
+  "id":"016d17ca-d72f-4ba9-8e8b-d779114868ff",
+  "params":{
+    "id":"016d17ca-d72f-4ba9-8e8b-d779114868ff",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

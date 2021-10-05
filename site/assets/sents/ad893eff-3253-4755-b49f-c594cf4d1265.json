@@ -1,0 +1,13 @@
+{
+  "start":52258,
+  "end":52341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n   Anita: With a bottle of gin.\n \n <br/>\n \n   Miguel: With a bottle of gin.",
+  "id":"ad893eff-3253-4755-b49f-c594cf4d1265",
+  "params":{
+    "id":"ad893eff-3253-4755-b49f-c594cf4d1265",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

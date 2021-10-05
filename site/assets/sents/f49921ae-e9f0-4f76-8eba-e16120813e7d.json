@@ -1,0 +1,13 @@
+{
+  "start":19378,
+  "end":19406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came here to talk to them.",
+  "id":"f49921ae-e9f0-4f76-8eba-e16120813e7d",
+  "params":{
+    "id":"f49921ae-e9f0-4f76-8eba-e16120813e7d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

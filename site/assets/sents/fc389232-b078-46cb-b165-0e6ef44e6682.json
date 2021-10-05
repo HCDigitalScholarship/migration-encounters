@@ -1,0 +1,13 @@
+{
+  "start":20872,
+  "end":20954,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't know how\n   to speak Spanish, but I believe her last name was Hispanic.",
+  "id":"fc389232-b078-46cb-b165-0e6ef44e6682",
+  "params":{
+    "id":"fc389232-b078-46cb-b165-0e6ef44e6682",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

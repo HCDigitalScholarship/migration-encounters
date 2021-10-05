@@ -1,0 +1,12 @@
+{
+  "start":82099,
+  "end":82171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most people\n     think Aztec is a proper name, but it's actually Mexica.",
+  "id":"f9c912bb-7db7-481b-b3fa-129b59eb776e",
+  "params":{
+    "id":"96ef100b-f949-496c-9e87-fb0e8a756b21"
+  },
+  "name":"Cuauht\u00e9moc"
+}

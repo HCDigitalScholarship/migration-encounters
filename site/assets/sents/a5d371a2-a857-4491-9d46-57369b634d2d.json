@@ -1,0 +1,13 @@
+{
+  "start":8596,
+  "end":8611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"your\n   helmet?",
+  "id":"a5d371a2-a857-4491-9d46-57369b634d2d",
+  "params":{
+    "id":"a5d371a2-a857-4491-9d46-57369b634d2d",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

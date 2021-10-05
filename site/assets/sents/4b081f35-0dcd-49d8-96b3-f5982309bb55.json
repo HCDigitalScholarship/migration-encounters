@@ -1,0 +1,13 @@
+{
+  "start":35388,
+  "end":35437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People that are 60 and up, they\n   don't like us.",
+  "id":"4b081f35-0dcd-49d8-96b3-f5982309bb55",
+  "params":{
+    "id":"4b081f35-0dcd-49d8-96b3-f5982309bb55",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

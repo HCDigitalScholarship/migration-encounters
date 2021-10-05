@@ -1,0 +1,13 @@
+{
+  "start":1072,
+  "end":1113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I remember that when I left, I cried.",
+  "id":"18be4f83-2398-40bd-a00d-b98c0a1e17ce",
+  "params":{
+    "id":"18be4f83-2398-40bd-a00d-b98c0a1e17ce",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

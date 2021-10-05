@@ -1,0 +1,13 @@
+{
+  "start":28076,
+  "end":28203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom has a\n   boyfriend, my dad has a girlfriend, so I guess they put those issues aside\n   as, \"Hey now, we're still family.",
+  "id":"73d2d7dc-3465-4716-854c-4dce32de51f4",
+  "params":{
+    "id":"73d2d7dc-3465-4716-854c-4dce32de51f4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19040,
+  "end":19101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My friends\n   were laughing, saying, \"Man, your mom is crazy.",
+  "id":"0520f339-4525-4350-b522-f9c03f71a56b",
+  "params":{
+    "id":"037e1dde-56c0-42a8-a506-a01bef74d74d"
+  },
+  "name":"Ruben"
+}

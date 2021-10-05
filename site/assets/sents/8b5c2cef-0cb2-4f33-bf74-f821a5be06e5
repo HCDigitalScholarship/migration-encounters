@@ -1,0 +1,12 @@
+{
+  "start":129,
+  "end":146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you?",
+  "id":"8b5c2cef-0cb2-4f33-bf74-f821a5be06e5",
+  "params":{
+    "id":"5fa2d1c0-ef9c-4245-a009-756520de9250"
+  },
+  "name":"Laura A"
+}

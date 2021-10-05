@@ -1,0 +1,13 @@
+{
+  "start":31844,
+  "end":31893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to let you know what's right and wrong.",
+  "id":"9e1ed8bf-30bc-4f45-a835-7f562b65f387",
+  "params":{
+    "id":"9e1ed8bf-30bc-4f45-a835-7f562b65f387",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

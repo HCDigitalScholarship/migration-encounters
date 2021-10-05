@@ -1,0 +1,13 @@
+{
+  "start":6317,
+  "end":6379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As soon as we got there, the light was actually turning yellow",
+  "id":"7fb1a8a9-110d-4390-9794-2b31609aec8f",
+  "params":{
+    "id":"7fb1a8a9-110d-4390-9794-2b31609aec8f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

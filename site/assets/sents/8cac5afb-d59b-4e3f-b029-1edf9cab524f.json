@@ -1,0 +1,13 @@
+{
+  "start":23239,
+  "end":23345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always try to hear music in English,\n   and read books, and stuff like that, and watch movies in English",
+  "id":"8cac5afb-d59b-4e3f-b029-1edf9cab524f",
+  "params":{
+    "id":"8cac5afb-d59b-4e3f-b029-1edf9cab524f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

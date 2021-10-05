@@ -1,0 +1,13 @@
+{
+  "start":2747,
+  "end":2792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We broke into a house, stole a lot of things.",
+  "id":"e1d29b99-069a-4861-831d-bb336c6007a3",
+  "params":{
+    "id":"e1d29b99-069a-4861-831d-bb336c6007a3",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

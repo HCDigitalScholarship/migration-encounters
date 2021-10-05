@@ -1,0 +1,12 @@
+{
+  "start":12010,
+  "end":12067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luckily, I was the only one\n   known there at that place.",
+  "id":"d1301c7f-9d2b-4ccb-b33c-457d098b140e",
+  "params":{
+    "id":"601ebe91-d578-466c-aaaf-3be1743fb1e6"
+  },
+  "name":"Kevin"
+}

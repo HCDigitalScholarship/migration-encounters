@@ -1,0 +1,13 @@
+{
+  "start":38486,
+  "end":38536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's the only thing I had a\n   problem with.",
+  "id":"6f402fd6-8568-4a64-886b-54cf4b970cae",
+  "params":{
+    "id":"6f402fd6-8568-4a64-886b-54cf4b970cae",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

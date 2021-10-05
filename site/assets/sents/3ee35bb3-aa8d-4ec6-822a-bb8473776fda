@@ -1,0 +1,12 @@
+{
+  "start":8420,
+  "end":8490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why they\n named me Billy my brother's name is Miguel ___.",
+  "id":"3ee35bb3-aa8d-4ec6-822a-bb8473776fda",
+  "params":{
+    "id":"5b4843c4-0558-44b7-81f7-05d806640ef6"
+  },
+  "name":"Billy"
+}

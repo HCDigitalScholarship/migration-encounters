@@ -1,0 +1,13 @@
+{
+  "start":11102,
+  "end":11126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me a\n   check.",
+  "id":"ff7f3b25-606d-452a-93bc-2352713b4315",
+  "params":{
+    "id":"ff7f3b25-606d-452a-93bc-2352713b4315",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

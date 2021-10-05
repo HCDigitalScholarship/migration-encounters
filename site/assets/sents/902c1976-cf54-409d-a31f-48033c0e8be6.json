@@ -1,0 +1,13 @@
+{
+  "start":11140,
+  "end":11194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n It wasn't a matter of \u201cI'm going to stay in Mexico.\u201d",
+  "id":"902c1976-cf54-409d-a31f-48033c0e8be6",
+  "params":{
+    "id":"902c1976-cf54-409d-a31f-48033c0e8be6",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2475,
+  "end":2536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In my family, my dad\n   was an alcoholic and stuff like that.",
+  "id":"02a05ec7-0845-477d-9bc0-1e7d976d3cc8",
+  "params":{
+    "id":"02a05ec7-0845-477d-9bc0-1e7d976d3cc8",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

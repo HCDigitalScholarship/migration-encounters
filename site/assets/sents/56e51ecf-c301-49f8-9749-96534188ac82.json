@@ -1,0 +1,13 @@
+{
+  "start":31711,
+  "end":31799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dream here is, one, to help here and I can't say it's a\n goal that's going to be met.",
+  "id":"56e51ecf-c301-49f8-9749-96534188ac82",
+  "params":{
+    "id":"56e51ecf-c301-49f8-9749-96534188ac82",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

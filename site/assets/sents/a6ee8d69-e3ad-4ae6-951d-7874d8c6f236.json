@@ -1,0 +1,13 @@
+{
+  "start":35725,
+  "end":35742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wouldn't do it.",
+  "id":"a6ee8d69-e3ad-4ae6-951d-7874d8c6f236",
+  "params":{
+    "id":"a6ee8d69-e3ad-4ae6-951d-7874d8c6f236",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

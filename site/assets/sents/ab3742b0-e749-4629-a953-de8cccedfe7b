@@ -1,0 +1,12 @@
+{
+  "start":468,
+  "end":519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't go farther than what you're expecting to.",
+  "id":"ab3742b0-e749-4629-a953-de8cccedfe7b",
+  "params":{
+    "id":"bce8fc26-a781-4d0f-9067-895e14dd8df3"
+  },
+  "name":"Beto"
+}

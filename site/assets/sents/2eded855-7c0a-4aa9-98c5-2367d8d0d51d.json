@@ -1,0 +1,13 @@
+{
+  "start":41770,
+  "end":41825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I think now everybody realizes that was a\n mistake.",
+  "id":"2eded855-7c0a-4aa9-98c5-2367d8d0d51d",
+  "params":{
+    "id":"2eded855-7c0a-4aa9-98c5-2367d8d0d51d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

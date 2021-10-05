@@ -1,0 +1,13 @@
+{
+  "start":28161,
+  "end":28188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   met her two years ago.",
+  "id":"b67fab1d-0645-47b8-be0f-8cccd18bfc18",
+  "params":{
+    "id":"b67fab1d-0645-47b8-be0f-8cccd18bfc18",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

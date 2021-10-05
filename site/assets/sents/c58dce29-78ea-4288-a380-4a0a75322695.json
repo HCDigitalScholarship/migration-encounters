@@ -1,0 +1,13 @@
+{
+  "start":39900,
+  "end":39929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how I've always\n felt.",
+  "id":"c58dce29-78ea-4288-a380-4a0a75322695",
+  "params":{
+    "id":"c58dce29-78ea-4288-a380-4a0a75322695",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

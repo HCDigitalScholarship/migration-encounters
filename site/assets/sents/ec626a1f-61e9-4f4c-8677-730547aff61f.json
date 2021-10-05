@@ -1,0 +1,13 @@
+{
+  "start":7764,
+  "end":7847,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was getting too\n   stressed out being inside in jail so I just signed the papers.",
+  "id":"ec626a1f-61e9-4f4c-8677-730547aff61f",
+  "params":{
+    "id":"ec626a1f-61e9-4f4c-8677-730547aff61f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

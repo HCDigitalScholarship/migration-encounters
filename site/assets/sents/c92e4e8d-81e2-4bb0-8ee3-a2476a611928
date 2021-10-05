@@ -1,0 +1,12 @@
+{
+  "start":31903,
+  "end":31930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   wanted something more.",
+  "id":"c92e4e8d-81e2-4bb0-8ee3-a2476a611928",
+  "params":{
+    "id":"98ce1417-dbc7-4c1c-b20b-d1e3eef50f7b"
+  },
+  "name":"Luisa"
+}

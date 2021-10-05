@@ -1,0 +1,13 @@
+{
+  "start":25979,
+  "end":26052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I said,\n \u201cSit here two years and wait and then probably get deported?",
+  "id":"0bb2655f-f2de-44b4-b389-edc788b26075",
+  "params":{
+    "id":"0bb2655f-f2de-44b4-b389-edc788b26075",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

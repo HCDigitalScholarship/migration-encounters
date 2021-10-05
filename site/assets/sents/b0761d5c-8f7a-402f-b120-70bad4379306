@@ -1,0 +1,12 @@
+{
+  "start":40032,
+  "end":40065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo ten\u00eda que hacerte responsable.",
+  "id":"b0761d5c-8f7a-402f-b120-70bad4379306",
+  "params":{
+    "id":"e23b3e3f-3180-4a14-9280-6798cef7f5c6"
+  },
+  "name":"Maria"
+}

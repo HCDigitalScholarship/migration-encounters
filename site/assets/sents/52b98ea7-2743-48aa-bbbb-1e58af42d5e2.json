@@ -1,0 +1,13 @@
+{
+  "start":35653,
+  "end":35670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know what I am.",
+  "id":"52b98ea7-2743-48aa-bbbb-1e58af42d5e2",
+  "params":{
+    "id":"52b98ea7-2743-48aa-bbbb-1e58af42d5e2",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

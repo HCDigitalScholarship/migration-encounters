@@ -1,0 +1,12 @@
+{
+  "start":35495,
+  "end":35517,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   like that.",
+  "id":"c83bd0df-e35e-4bf4-9aee-3b38095951b9",
+  "params":{
+    "id":"f4e784b8-b6bc-4319-9177-e10191965281"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":49861,
+  "end":49983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The whole city, a lot has changed, some new bridges, new streets,\n new everything was a little bit different in two years.",
+  "id":"b775e901-ad23-4b46-82e0-abfbff7d6fab",
+  "params":{
+    "id":"b775e901-ad23-4b46-82e0-abfbff7d6fab",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

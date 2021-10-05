@@ -1,0 +1,12 @@
+{
+  "start":16299,
+  "end":16332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The customer's still at the door.",
+  "id":"0b6bfe4d-a543-409e-8cc1-5bfb09ed61a3",
+  "params":{
+    "id":"5d7c699d-91b2-4c7f-9df9-dd8f9a4bce23"
+  },
+  "name":"Noe"
+}

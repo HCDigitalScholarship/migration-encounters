@@ -1,0 +1,12 @@
+{
+  "start":26060,
+  "end":26087,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a\n     Chicano girl.",
+  "id":"54184aa3-d95a-44f0-9472-803ad5cfd1aa",
+  "params":{
+    "id":"0a4c6a30-eea2-4f0b-b9c6-c0f2d70b7a84"
+  },
+  "name":"Beto"
+}

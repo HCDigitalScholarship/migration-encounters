@@ -1,0 +1,13 @@
+{
+  "start":23901,
+  "end":24020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The vegetation, the nature, because I remember in the US I can go out\n   in the soccer fields and there's actual grass.",
+  "id":"7e96e4ef-8949-4022-a2db-212612a099d9",
+  "params":{
+    "id":"7e96e4ef-8949-4022-a2db-212612a099d9",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

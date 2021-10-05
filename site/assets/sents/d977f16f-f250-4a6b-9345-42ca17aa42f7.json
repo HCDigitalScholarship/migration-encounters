@@ -1,0 +1,13 @@
+{
+  "start":9735,
+  "end":9760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in county,\n   also.",
+  "id":"d977f16f-f250-4a6b-9345-42ca17aa42f7",
+  "params":{
+    "id":"d977f16f-f250-4a6b-9345-42ca17aa42f7",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

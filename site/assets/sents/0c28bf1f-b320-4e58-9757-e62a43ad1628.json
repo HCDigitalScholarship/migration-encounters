@@ -1,0 +1,13 @@
+{
+  "start":22931,
+  "end":22964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I got caught at the border.",
+  "id":"0c28bf1f-b320-4e58-9757-e62a43ad1628",
+  "params":{
+    "id":"0c28bf1f-b320-4e58-9757-e62a43ad1628",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

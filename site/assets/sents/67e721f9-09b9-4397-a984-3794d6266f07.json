@@ -1,0 +1,12 @@
+{
+  "start":7500,
+  "end":7545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have driver's\n   license for another state.",
+  "id":"67e721f9-09b9-4397-a984-3794d6266f07",
+  "params":{
+    "id":"86311402-4b18-4c17-9086-51647ad2a7e2"
+  },
+  "name":"Erik"
+}

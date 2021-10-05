@@ -1,0 +1,13 @@
+{
+  "start":9292,
+  "end":9431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n It wasn't someone actually asking you or checking to see if everything was\n okay, it was mostly of, \"What's going on with you right now?\"",
+  "id":"cea8dc09-0ffb-4544-8c76-cd6c176f1315",
+  "params":{
+    "id":"cea8dc09-0ffb-4544-8c76-cd6c176f1315",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

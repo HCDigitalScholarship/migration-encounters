@@ -1,0 +1,12 @@
+{
+  "start":443,
+  "end":500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you end up crossing the border or did you get a visa?",
+  "id":"b8885749-86d0-495c-86b7-d02accd373ea",
+  "params":{
+    "id":"8a6e93c6-170e-4744-9f13-49ca6f6cdc56"
+  },
+  "name":"Pablo"
+}

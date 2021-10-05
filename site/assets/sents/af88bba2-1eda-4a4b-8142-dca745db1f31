@@ -1,0 +1,12 @@
+{
+  "start":29390,
+  "end":29418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Never mind, I can't do that.",
+  "id":"af88bba2-1eda-4a4b-8142-dca745db1f31",
+  "params":{
+    "id":"9d3f9b5e-8b47-4a4f-bdde-1b5885c86123"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26910,
+  "end":27033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, if you're going to come over here and do the same\n   thing you were doing over there, I think you would be wrong.",
+  "id":"54dcef12-945b-4665-9840-6e577090c822",
+  "params":{
+    "id":"8abd8e68-dd5e-4476-bf59-f27950e718bf"
+  },
+  "name":"Ruben"
+}

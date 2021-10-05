@@ -1,0 +1,12 @@
+{
+  "start":37295,
+  "end":37397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can do it by yourself, but I would need equipment and somebody\n to show me restaurants and places.",
+  "id":"e1eb00fe-5d2b-418f-a750-98ad2da17a81",
+  "params":{
+    "id":"ec234bcf-1d59-4ef7-a0f4-b1ec16c29ff9"
+  },
+  "name":"Billy"
+}

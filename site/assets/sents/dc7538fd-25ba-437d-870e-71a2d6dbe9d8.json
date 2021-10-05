@@ -1,0 +1,13 @@
+{
+  "start":22475,
+  "end":22488,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was weird.",
+  "id":"dc7538fd-25ba-437d-870e-71a2d6dbe9d8",
+  "params":{
+    "id":"dc7538fd-25ba-437d-870e-71a2d6dbe9d8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

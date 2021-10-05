@@ -1,0 +1,13 @@
+{
+  "start":32315,
+  "end":32336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I wanted.",
+  "id":"e9412c82-8452-4c56-b4ac-204d433f9ae0",
+  "params":{
+    "id":"e9412c82-8452-4c56-b4ac-204d433f9ae0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

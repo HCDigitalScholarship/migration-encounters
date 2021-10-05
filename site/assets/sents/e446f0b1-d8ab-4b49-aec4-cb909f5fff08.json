@@ -1,0 +1,13 @@
+{
+  "start":22579,
+  "end":22595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're pro what?",
+  "id":"e446f0b1-d8ab-4b49-aec4-cb909f5fff08",
+  "params":{
+    "id":"e446f0b1-d8ab-4b49-aec4-cb909f5fff08",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

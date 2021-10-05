@@ -1,0 +1,12 @@
+{
+  "start":13580,
+  "end":13644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   has schizophrenia because she used to smoke crystal meth.",
+  "id":"6275b02a-965d-4d7a-b17f-39b6eefa2acc",
+  "params":{
+    "id":"bd3cc846-86ab-4d1c-acce-9344b3c2af44"
+  },
+  "name":"Hugo"
+}

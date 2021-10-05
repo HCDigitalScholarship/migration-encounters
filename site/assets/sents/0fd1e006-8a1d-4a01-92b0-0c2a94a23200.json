@@ -1,0 +1,13 @@
+{
+  "start":27633,
+  "end":27674,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think they're going to want that.",
+  "id":"0fd1e006-8a1d-4a01-92b0-0c2a94a23200",
+  "params":{
+    "id":"0fd1e006-8a1d-4a01-92b0-0c2a94a23200",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

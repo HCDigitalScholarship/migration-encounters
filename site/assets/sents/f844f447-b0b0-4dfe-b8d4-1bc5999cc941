@@ -1,0 +1,12 @@
+{
+  "start":30888,
+  "end":30905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like it so far.",
+  "id":"f844f447-b0b0-4dfe-b8d4-1bc5999cc941",
+  "params":{
+    "id":"1f0b84f5-a834-4ff3-a888-5d5eaba92527"
+  },
+  "name":"Carlos"
+}

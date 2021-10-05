@@ -1,0 +1,12 @@
+{
+  "start":16128,
+  "end":16190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't know those things because they've never been there.",
+  "id":"e43c7db5-8584-4d3d-abcb-4b94619cb40e",
+  "params":{
+    "id":"863a7136-30ca-4707-a097-f4b449a82e6b"
+  },
+  "name":"Beto"
+}

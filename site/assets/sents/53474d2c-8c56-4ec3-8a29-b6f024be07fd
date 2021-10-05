@@ -1,0 +1,12 @@
+{
+  "start":6295,
+  "end":6351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me more about why Canada instead of the US?",
+  "id":"53474d2c-8c56-4ec3-8a29-b6f024be07fd",
+  "params":{
+    "id":"161e4a45-a52d-451d-bb7f-ce7fa8bae43a"
+  },
+  "name":"Frank"
+}

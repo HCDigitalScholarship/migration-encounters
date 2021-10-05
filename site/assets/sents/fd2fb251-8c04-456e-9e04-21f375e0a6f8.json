@@ -1,0 +1,12 @@
+{
+  "start":1024,
+  "end":1080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you would just see like people scream,\n   \"la migra.\"",
+  "id":"fd2fb251-8c04-456e-9e04-21f375e0a6f8",
+  "params":{
+    "id":"630bec46-27ba-41e2-aa78-90ac5da4af6f"
+  },
+  "name":"Jeimmy"
+}

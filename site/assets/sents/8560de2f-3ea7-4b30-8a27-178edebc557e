@@ -1,0 +1,12 @@
+{
+  "start":16065,
+  "end":16069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes.",
+  "id":"8560de2f-3ea7-4b30-8a27-178edebc557e",
+  "params":{
+    "id":"c25aa020-e9a0-45d6-8ebe-497fb64386a8"
+  },
+  "name":"Juan B"
+}

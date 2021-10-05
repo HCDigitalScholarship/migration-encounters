@@ -1,0 +1,12 @@
+{
+  "start":300,
+  "end":338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   what I wanted to hear about.",
+  "id":"b08393a7-4db3-4f69-b805-6d54290f7d65",
+  "params":{
+    "id":"3dfb1dd8-beac-4b3e-9c07-ec37bf1f0624"
+  },
+  "name":"Rodrigo"
+}

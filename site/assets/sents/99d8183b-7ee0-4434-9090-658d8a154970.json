@@ -1,0 +1,13 @@
+{
+  "start":1840,
+  "end":1920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me\n     fui.\n \n <br/>\n \n     Anita: \u00bfC\u00f3mo fue la cruzada?\n \n <br/>\n \n     Maria:",
+  "id":"99d8183b-7ee0-4434-9090-658d8a154970",
+  "params":{
+    "id":"99d8183b-7ee0-4434-9090-658d8a154970",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34334,
+  "end":34377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I mean, I used to have a\n   girlfriend.",
+  "id":"51a63b3e-910f-41da-9566-08be96c4ec67",
+  "params":{
+    "id":"51a63b3e-910f-41da-9566-08be96c4ec67",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

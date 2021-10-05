@@ -1,0 +1,13 @@
+{
+  "start":25564,
+  "end":25593,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's really my\n strong point.",
+  "id":"91c300d8-c38c-4716-9d19-1a01d100b9f7",
+  "params":{
+    "id":"91c300d8-c38c-4716-9d19-1a01d100b9f7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

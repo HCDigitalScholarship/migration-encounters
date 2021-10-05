@@ -1,0 +1,13 @@
+{
+  "start":25469,
+  "end":25511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I listen to English music, I watch movies.",
+  "id":"3bee0cfe-676c-4e25-955d-c0a96672cddd",
+  "params":{
+    "id":"3bee0cfe-676c-4e25-955d-c0a96672cddd",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

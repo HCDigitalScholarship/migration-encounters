@@ -1,0 +1,13 @@
+{
+  "start":26412,
+  "end":26461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d\n \n \n     Beto:\n \n \n     \"Just go try to do it.\"",
+  "id":"59ab52bd-86d4-4655-afe7-7c391be869d3",
+  "params":{
+    "id":"59ab52bd-86d4-4655-afe7-7c391be869d3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

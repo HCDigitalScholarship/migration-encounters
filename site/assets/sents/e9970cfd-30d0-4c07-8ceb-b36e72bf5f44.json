@@ -1,0 +1,13 @@
+{
+  "start":3768,
+  "end":3786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was born there?",
+  "id":"e9970cfd-30d0-4c07-8ceb-b36e72bf5f44",
+  "params":{
+    "id":"e9970cfd-30d0-4c07-8ceb-b36e72bf5f44",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

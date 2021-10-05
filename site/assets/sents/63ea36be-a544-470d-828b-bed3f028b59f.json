@@ -1,0 +1,13 @@
+{
+  "start":39411,
+  "end":39455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's Mexican, but he came back to work here.",
+  "id":"63ea36be-a544-470d-828b-bed3f028b59f",
+  "params":{
+    "id":"63ea36be-a544-470d-828b-bed3f028b59f",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

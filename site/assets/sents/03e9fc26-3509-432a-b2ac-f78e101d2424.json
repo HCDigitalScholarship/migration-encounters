@@ -1,0 +1,13 @@
+{
+  "start":1954,
+  "end":1994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have cousins,\n   uncles, aunts mostly.",
+  "id":"03e9fc26-3509-432a-b2ac-f78e101d2424",
+  "params":{
+    "id":"03e9fc26-3509-432a-b2ac-f78e101d2424",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

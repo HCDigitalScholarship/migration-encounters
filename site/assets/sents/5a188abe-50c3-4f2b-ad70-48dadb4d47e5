@@ -1,0 +1,12 @@
+{
+  "start":4939,
+  "end":4951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I tried.",
+  "id":"5a188abe-50c3-4f2b-ad70-48dadb4d47e5",
+  "params":{
+    "id":"2038fec8-33b4-43dc-a1c2-45f7fc839790"
+  },
+  "name":"Daniel"
+}

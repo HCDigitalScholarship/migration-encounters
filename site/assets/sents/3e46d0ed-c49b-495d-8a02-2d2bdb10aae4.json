@@ -1,0 +1,13 @@
+{
+  "start":10982,
+  "end":11012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I wish you all the best.",
+  "id":"3e46d0ed-c49b-495d-8a02-2d2bdb10aae4",
+  "params":{
+    "id":"3e46d0ed-c49b-495d-8a02-2d2bdb10aae4",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

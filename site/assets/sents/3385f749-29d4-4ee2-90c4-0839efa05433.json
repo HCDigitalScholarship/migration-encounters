@@ -1,0 +1,13 @@
+{
+  "start":42736,
+  "end":42832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As far as it goes when I started getting into trouble, I did my lie\n detector test, I failed it.",
+  "id":"3385f749-29d4-4ee2-90c4-0839efa05433",
+  "params":{
+    "id":"3385f749-29d4-4ee2-90c4-0839efa05433",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

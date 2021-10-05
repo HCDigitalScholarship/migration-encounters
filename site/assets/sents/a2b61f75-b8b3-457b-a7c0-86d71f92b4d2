@@ -1,0 +1,12 @@
+{
+  "start":23566,
+  "end":23614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom really did not leave\n   any trace at all.",
+  "id":"a2b61f75-b8b3-457b-a7c0-86d71f92b4d2",
+  "params":{
+    "id":"02e01786-b4c0-4819-867d-2151159b655b"
+  },
+  "name":"Luisa"
+}

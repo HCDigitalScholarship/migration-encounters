@@ -1,0 +1,13 @@
+{
+  "start":35456,
+  "end":35558,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I go to a party and I get drunk and this and that and I get locked\n   up\u2014Oh well, I'm still young.\"",
+  "id":"6a37417c-d0d2-4302-a819-21ba182debbd",
+  "params":{
+    "id":"6a37417c-d0d2-4302-a819-21ba182debbd",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

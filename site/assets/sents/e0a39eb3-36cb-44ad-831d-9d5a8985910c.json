@@ -1,0 +1,13 @@
+{
+  "start":29292,
+  "end":29389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"if you have them in a bad environment, your parenting is not\n going to supersede the environment.",
+  "id":"e0a39eb3-36cb-44ad-831d-9d5a8985910c",
+  "params":{
+    "id":"e0a39eb3-36cb-44ad-831d-9d5a8985910c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

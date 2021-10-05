@@ -1,0 +1,12 @@
+{
+  "start":23502,
+  "end":23530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was never really serious.",
+  "id":"1bc8ef9e-f8dc-432c-b5bb-4b18171379ac",
+  "params":{
+    "id":"0521f557-f6f2-4914-b334-d0d1efa4e339"
+  },
+  "name":"Axel"
+}

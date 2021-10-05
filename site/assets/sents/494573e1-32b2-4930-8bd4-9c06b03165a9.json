@@ -1,0 +1,13 @@
+{
+  "start":54500,
+  "end":54573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the only thing that separates\n   me from everybody else back home.",
+  "id":"494573e1-32b2-4930-8bd4-9c06b03165a9",
+  "params":{
+    "id":"494573e1-32b2-4930-8bd4-9c06b03165a9",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

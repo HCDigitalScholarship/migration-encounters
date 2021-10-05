@@ -1,0 +1,12 @@
+{
+  "start":93,
+  "end":182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me a bit about how old you were when you migrated,\n   what the reasons were?",
+  "id":"9119f428-1e38-42fe-9932-a6202fe480a9",
+  "params":{
+    "id":"3531aa01-4244-407d-9971-b56b6e77d822"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5061,
+  "end":5081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything is dirty.",
+  "id":"edf3a78d-a979-42f4-900c-e4606bfda16d",
+  "params":{
+    "id":"471a2129-2ad9-4e09-b837-aac042362685"
+  },
+  "name":"Noe"
+}

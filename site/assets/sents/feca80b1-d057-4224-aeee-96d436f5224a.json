@@ -1,0 +1,12 @@
+{
+  "start":15416,
+  "end":15440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: What?\n \n \n   Jose:",
+  "id":"feca80b1-d057-4224-aeee-96d436f5224a",
+  "params":{
+    "id":"6f072b82-7630-4952-bcca-2a59dd6a5fa1"
+  },
+  "name":"Jose"
+}

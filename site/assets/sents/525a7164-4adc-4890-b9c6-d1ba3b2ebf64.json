@@ -1,0 +1,13 @@
+{
+  "start":5034,
+  "end":5060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they know you were 15?",
+  "id":"525a7164-4adc-4890-b9c6-d1ba3b2ebf64",
+  "params":{
+    "id":"525a7164-4adc-4890-b9c6-d1ba3b2ebf64",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

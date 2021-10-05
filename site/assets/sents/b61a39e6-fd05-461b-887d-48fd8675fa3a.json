@@ -1,0 +1,13 @@
+{
+  "start":6770,
+  "end":6810,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's probably one of my favorite ones.",
+  "id":"b61a39e6-fd05-461b-887d-48fd8675fa3a",
+  "params":{
+    "id":"b61a39e6-fd05-461b-887d-48fd8675fa3a",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30776,
+  "end":30815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like being inside of the house.",
+  "id":"8c21c00f-ed1a-4fcf-bf1a-b516ce41e461",
+  "params":{
+    "id":"7140a404-2502-4822-a474-103cab6ee632"
+  },
+  "name":"Cris"
+}

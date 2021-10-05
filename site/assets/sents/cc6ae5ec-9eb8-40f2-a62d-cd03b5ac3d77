@@ -1,0 +1,12 @@
+{
+  "start":27655,
+  "end":27680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What am I supposed to do?",
+  "id":"cc6ae5ec-9eb8-40f2-a62d-cd03b5ac3d77",
+  "params":{
+    "id":"d3495045-a579-4549-a541-0a3ccba03351"
+  },
+  "name":"Luis A"
+}

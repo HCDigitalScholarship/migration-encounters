@@ -1,0 +1,13 @@
+{
+  "start":52530,
+  "end":52544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Casi no sal\u00eda.",
+  "id":"f51eac48-c753-401a-9af0-c384f31de27b",
+  "params":{
+    "id":"f51eac48-c753-401a-9af0-c384f31de27b",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

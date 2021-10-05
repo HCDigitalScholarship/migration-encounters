@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":2998,
+  "end":3002,
+  "text":" \n   Ivan: Yes.\n \n \n   Anita: Is that a misdemeanor?\n \n \n   Ivan: Yes. Well it was kind of, yeah.\n \n \n   Anita: Were you detained?\n \n \n   Ivan: Yes, I was detained.\n \n \n   Anita: For how long?\n \n \n   Ivan: The first time I was detained for maybe about six, seven months. The\n   second time I was detained for almost a year.\n \n \n   Anita: In immigration or in federal?\n \n \n   Ivan: In immigration. I was n",
+  "label":"PERSON",
+  "id":"d6863b1d-0097-438e-9cb7-1931f0abc283",
+  "name":"Ivan"
+}

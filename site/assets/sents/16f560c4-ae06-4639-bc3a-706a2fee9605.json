@@ -1,0 +1,13 @@
+{
+  "start":31704,
+  "end":31783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told everybody,\n   \"Man, don't sign anything, don't talk, don't say anything.",
+  "id":"16f560c4-ae06-4639-bc3a-706a2fee9605",
+  "params":{
+    "id":"16f560c4-ae06-4639-bc3a-706a2fee9605",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

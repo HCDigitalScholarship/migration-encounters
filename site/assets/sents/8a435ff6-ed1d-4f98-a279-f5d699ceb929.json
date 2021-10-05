@@ -1,0 +1,13 @@
+{
+  "start":15661,
+  "end":15691,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Really?\n \n \n   Rodrigo:",
+  "id":"8a435ff6-ed1d-4f98-a279-f5d699ceb929",
+  "params":{
+    "id":"8a435ff6-ed1d-4f98-a279-f5d699ceb929",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

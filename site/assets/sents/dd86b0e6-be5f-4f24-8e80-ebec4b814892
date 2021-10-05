@@ -1,0 +1,12 @@
+{
+  "start":18658,
+  "end":18701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can go for you, but you have to tell me.\"",
+  "id":"dd86b0e6-be5f-4f24-8e80-ebec4b814892",
+  "params":{
+    "id":"85e680fc-9ab1-4941-ae24-fbe12586f57f"
+  },
+  "name":"Luis B"
+}

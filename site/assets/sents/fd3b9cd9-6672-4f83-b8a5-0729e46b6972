@@ -1,0 +1,12 @@
+{
+  "start":32287,
+  "end":32310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your mom loves\n   you.\u201d",
+  "id":"fd3b9cd9-6672-4f83-b8a5-0729e46b6972",
+  "params":{
+    "id":"902ee037-ea0b-4e1e-a975-c0c46d043677"
+  },
+  "name":"Hugo"
+}

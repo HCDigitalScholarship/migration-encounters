@@ -1,0 +1,13 @@
+{
+  "start":25180,
+  "end":25270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was working in a call center at\n   that time and mostly for returnees, it's mostly that.",
+  "id":"17d9618b-423f-42b5-bf86-67770ec5f12d",
+  "params":{
+    "id":"17d9618b-423f-42b5-bf86-67770ec5f12d",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

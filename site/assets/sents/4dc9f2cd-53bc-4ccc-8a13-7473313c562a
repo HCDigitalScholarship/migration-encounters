@@ -1,0 +1,12 @@
+{
+  "start":12431,
+  "end":12483,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, in Texas, you couldn't get a license, could you?",
+  "id":"4dc9f2cd-53bc-4ccc-8a13-7473313c562a",
+  "params":{
+    "id":"33b4d8ee-259a-414d-af98-88097e3ac344"
+  },
+  "name":"Ben"
+}

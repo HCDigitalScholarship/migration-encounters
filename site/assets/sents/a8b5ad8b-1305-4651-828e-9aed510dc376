@@ -1,0 +1,12 @@
+{
+  "start":48127,
+  "end":48147,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Miguel: In the mall.",
+  "id":"a8b5ad8b-1305-4651-828e-9aed510dc376",
+  "params":{
+    "id":"b17b7cb0-fcf8-4c85-bd2d-61bb46bbc018"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":12,
+  "end":162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, just to start, do you mind telling me just the background, how\n   old you were, kind of like your early memories in the US, that kind of\n   thing?",
+  "id":"3eae50ce-2093-4d72-9279-b3e44c8fc211",
+  "params":{
+    "id":"4462e436-c599-4ed2-bbc0-dd088db4fc42"
+  },
+  "name":"Zayuri"
+}

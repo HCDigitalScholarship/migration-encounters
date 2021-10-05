@@ -1,0 +1,13 @@
+{
+  "start":19409,
+  "end":19442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You should have had me out there.",
+  "id":"74c45969-07e7-4c06-9be5-6d50d7d9b5e5",
+  "params":{
+    "id":"74c45969-07e7-4c06-9be5-6d50d7d9b5e5",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

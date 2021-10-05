@@ -1,0 +1,13 @@
+{
+  "start":8064,
+  "end":8191,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   actually had to call my mom because I had some money that I needed to get\n   to leave the States, because I knew the case.",
+  "id":"28bea4d4-cfda-466c-8e55-1780c43f533f",
+  "params":{
+    "id":"28bea4d4-cfda-466c-8e55-1780c43f533f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

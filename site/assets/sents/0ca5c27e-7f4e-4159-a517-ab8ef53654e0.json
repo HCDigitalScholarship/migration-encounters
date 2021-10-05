@@ -1,0 +1,12 @@
+{
+  "start":31857,
+  "end":31902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have two brothers that were born in the US.",
+  "id":"0ca5c27e-7f4e-4159-a517-ab8ef53654e0",
+  "params":{
+    "id":"33e0bd17-7893-4f6c-8c1c-422997cba64f"
+  },
+  "name":"Jeimmy"
+}

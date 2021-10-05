@@ -1,0 +1,13 @@
+{
+  "start":30929,
+  "end":30971,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, even the way that he talks sometimes.",
+  "id":"37fbe835-e40f-4bf8-a3b3-1fcbea584fb3",
+  "params":{
+    "id":"37fbe835-e40f-4bf8-a3b3-1fcbea584fb3",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

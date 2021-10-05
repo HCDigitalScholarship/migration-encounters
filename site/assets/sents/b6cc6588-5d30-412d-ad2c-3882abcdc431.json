@@ -1,0 +1,13 @@
+{
+  "start":3954,
+  "end":4042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You can talk to them, but you just can't share food, you can't do certain\n   things.",
+  "id":"b6cc6588-5d30-412d-ad2c-3882abcdc431",
+  "params":{
+    "id":"b6cc6588-5d30-412d-ad2c-3882abcdc431",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14104,
+  "end":14141,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did he have a social security number?",
+  "id":"698cc385-2830-45ab-bcbb-f4a7282b74e4",
+  "params":{
+    "id":"d5c2d95b-249c-49a0-82ff-0bab479046f1"
+  },
+  "name":"Edgar"
+}

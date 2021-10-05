@@ -1,0 +1,13 @@
+{
+  "start":40286,
+  "end":40314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"It's your street?",
+  "id":"79e8ad52-8a02-452d-a86c-42f3a33cb37e",
+  "params":{
+    "id":"79e8ad52-8a02-452d-a86c-42f3a33cb37e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23854,
+  "end":23879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me have another one.\"",
+  "id":"7a10b1c9-4a3d-4c3e-bacd-9cd9a9ea6470",
+  "params":{
+    "id":"7a10b1c9-4a3d-4c3e-bacd-9cd9a9ea6470",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

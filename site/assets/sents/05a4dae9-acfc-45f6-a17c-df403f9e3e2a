@@ -1,0 +1,12 @@
+{
+  "start":16877,
+  "end":16912,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That really hurt like a lot, a lot.",
+  "id":"05a4dae9-acfc-45f6-a17c-df403f9e3e2a",
+  "params":{
+    "id":"d4bd3e5b-c38f-40e4-b176-3a995a9e6fd6"
+  },
+  "name":"Mike"
+}

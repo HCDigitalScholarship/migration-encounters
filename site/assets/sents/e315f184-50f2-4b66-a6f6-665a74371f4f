@@ -1,0 +1,12 @@
+{
+  "start":9794,
+  "end":9843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was probably\n   a field thing, from Guatemala.",
+  "id":"e315f184-50f2-4b66-a6f6-665a74371f4f",
+  "params":{
+    "id":"d527b22b-772d-40ee-89cc-ac44ce50190e"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2118,
+  "end":2129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Nice.",
+  "id":"8a23e50e-6c77-47ef-85de-a3c60dccfbe3",
+  "params":{
+    "id":"8a23e50e-6c77-47ef-85de-a3c60dccfbe3",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

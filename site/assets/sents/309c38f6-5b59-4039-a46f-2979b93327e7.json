@@ -1,0 +1,13 @@
+{
+  "start":12726,
+  "end":12785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would just sell\u2014\n \n \n   Anne: With your mom?\n \n \n   Mike:",
+  "id":"309c38f6-5b59-4039-a46f-2979b93327e7",
+  "params":{
+    "id":"309c38f6-5b59-4039-a46f-2979b93327e7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

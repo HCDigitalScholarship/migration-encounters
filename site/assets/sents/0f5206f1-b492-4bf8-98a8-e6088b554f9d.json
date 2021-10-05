@@ -1,0 +1,13 @@
+{
+  "start":34593,
+  "end":34654,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I found that out almost a week or two after I got\n to Mexico.",
+  "id":"0f5206f1-b492-4bf8-98a8-e6088b554f9d",
+  "params":{
+    "id":"0f5206f1-b492-4bf8-98a8-e6088b554f9d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

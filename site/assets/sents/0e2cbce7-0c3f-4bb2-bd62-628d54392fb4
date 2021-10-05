@@ -1,0 +1,12 @@
+{
+  "start":77299,
+  "end":77339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"No, but he's\n always helped.",
+  "id":"0e2cbce7-0c3f-4bb2-bd62-628d54392fb4",
+  "params":{
+    "id":"ccc4ba81-a52d-4cf2-9998-38dd0ed7dfec"
+  },
+  "name":"Axel"
+}

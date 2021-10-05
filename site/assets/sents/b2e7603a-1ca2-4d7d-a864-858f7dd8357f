@@ -1,0 +1,12 @@
+{
+  "start":9581,
+  "end":9616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when did you first go to juvey?",
+  "id":"b2e7603a-1ca2-4d7d-a864-858f7dd8357f",
+  "params":{
+    "id":"0d12579e-77d7-451b-9e9e-c91481e3d71d"
+  },
+  "name":"Hugo"
+}

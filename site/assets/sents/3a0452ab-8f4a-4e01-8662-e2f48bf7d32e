@@ -1,0 +1,12 @@
+{
+  "start":6923,
+  "end":6943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His name was Johnny.",
+  "id":"3a0452ab-8f4a-4e01-8662-e2f48bf7d32e",
+  "params":{
+    "id":"7d80be2a-5d9b-4370-a868-377d6adcdc19"
+  },
+  "name":"Daniel B"
+}

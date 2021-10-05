@@ -1,0 +1,13 @@
+{
+  "start":10165,
+  "end":10216,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Working at a restaurant, I don't like it that much.",
+  "id":"34ffc370-f335-4cb9-9851-b2c9e75431d5",
+  "params":{
+    "id":"34ffc370-f335-4cb9-9851-b2c9e75431d5",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

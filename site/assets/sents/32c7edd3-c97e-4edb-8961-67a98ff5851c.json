@@ -1,0 +1,13 @@
+{
+  "start":11526,
+  "end":11568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I was like, \"Hey, just come over here.",
+  "id":"32c7edd3-c97e-4edb-8961-67a98ff5851c",
+  "params":{
+    "id":"32c7edd3-c97e-4edb-8961-67a98ff5851c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

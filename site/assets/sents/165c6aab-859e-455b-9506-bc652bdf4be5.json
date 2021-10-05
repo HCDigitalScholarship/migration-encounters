@@ -1,0 +1,13 @@
+{
+  "start":12876,
+  "end":12899,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sugar tastes different.",
+  "id":"165c6aab-859e-455b-9506-bc652bdf4be5",
+  "params":{
+    "id":"165c6aab-859e-455b-9506-bc652bdf4be5",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

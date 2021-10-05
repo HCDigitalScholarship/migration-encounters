@@ -1,0 +1,13 @@
+{
+  "start":36581,
+  "end":36601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not your fault.",
+  "id":"637e5e01-a044-4c82-ba3a-635cf2c42548",
+  "params":{
+    "id":"637e5e01-a044-4c82-ba3a-635cf2c42548",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

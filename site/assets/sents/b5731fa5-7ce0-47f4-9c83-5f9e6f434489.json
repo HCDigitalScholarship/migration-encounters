@@ -1,0 +1,13 @@
+{
+  "start":7039,
+  "end":7114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My home, my cars, and\n   practically all my belongings, I left them behind.",
+  "id":"b5731fa5-7ce0-47f4-9c83-5f9e6f434489",
+  "params":{
+    "id":"b5731fa5-7ce0-47f4-9c83-5f9e6f434489",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

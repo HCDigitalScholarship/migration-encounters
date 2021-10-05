@@ -1,0 +1,13 @@
+{
+  "start":8381,
+  "end":8407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Didn't know what to\n   do.",
+  "id":"e35ca175-1287-46ec-bf12-28cdc9692a96",
+  "params":{
+    "id":"e35ca175-1287-46ec-bf12-28cdc9692a96",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

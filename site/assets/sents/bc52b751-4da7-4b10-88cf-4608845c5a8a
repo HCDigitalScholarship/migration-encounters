@@ -1,0 +1,12 @@
+{
+  "start":73025,
+  "end":73045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think it's enough.",
+  "id":"bc52b751-4da7-4b10-88cf-4608845c5a8a",
+  "params":{
+    "id":"81b6be0d-469a-4358-afe8-f2e273de7362"
+  },
+  "name":"Daniel B"
+}

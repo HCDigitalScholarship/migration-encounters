@@ -1,0 +1,13 @@
+{
+  "start":9656,
+  "end":9678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad was\n   at work.",
+  "id":"2eb676a1-2755-44f8-9233-4db9bb6d388b",
+  "params":{
+    "id":"2eb676a1-2755-44f8-9233-4db9bb6d388b",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

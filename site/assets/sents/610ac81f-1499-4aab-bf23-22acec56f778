@@ -1,0 +1,12 @@
+{
+  "start":5343,
+  "end":5348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ivan:",
+  "id":"610ac81f-1499-4aab-bf23-22acec56f778",
+  "params":{
+    "id":"75f5542f-5c45-4137-af09-d945f21522a1"
+  },
+  "name":"Ivan"
+}

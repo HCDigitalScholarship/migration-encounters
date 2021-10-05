@@ -1,0 +1,12 @@
+{
+  "start":2483,
+  "end":2544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You went to the US, and probably you didn't know any English?",
+  "id":"f1bc4b28-4db2-4fa2-8be2-e466c3e86949",
+  "params":{
+    "id":"26239935-6e65-4a6f-bd26-f1d902340293"
+  },
+  "name":"Carlos"
+}

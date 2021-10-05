@@ -1,0 +1,13 @@
+{
+  "start":14859,
+  "end":14924,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to have a degree, and\n   I want to be able to help people.",
+  "id":"78d6b7fd-8482-4d03-8f5e-669cfdbd0c49",
+  "params":{
+    "id":"78d6b7fd-8482-4d03-8f5e-669cfdbd0c49",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

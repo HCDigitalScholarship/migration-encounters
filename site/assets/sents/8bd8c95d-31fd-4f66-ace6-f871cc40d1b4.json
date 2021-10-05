@@ -1,0 +1,13 @@
+{
+  "start":50463,
+  "end":50551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And one question is do you think that the US government has\n   responsibility for Roddy?",
+  "id":"8bd8c95d-31fd-4f66-ace6-f871cc40d1b4",
+  "params":{
+    "id":"8bd8c95d-31fd-4f66-ace6-f871cc40d1b4",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

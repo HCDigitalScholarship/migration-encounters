@@ -1,0 +1,12 @@
+{
+  "start":26761,
+  "end":26791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because my\n   dad works a lot.",
+  "id":"4bb48f01-2091-4a56-8ce2-e7ba986e12bf",
+  "params":{
+    "id":"df3e71ff-98b3-413b-ab6b-687b6f657176"
+  },
+  "name":"Hugo"
+}

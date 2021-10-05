@@ -1,0 +1,13 @@
+{
+  "start":22747,
+  "end":22767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were a good kid.",
+  "id":"ab140af7-bbe4-4a2c-9810-884d1aebc40a",
+  "params":{
+    "id":"ab140af7-bbe4-4a2c-9810-884d1aebc40a",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

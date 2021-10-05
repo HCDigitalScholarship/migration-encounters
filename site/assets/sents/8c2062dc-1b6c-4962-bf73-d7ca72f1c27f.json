@@ -1,0 +1,13 @@
+{
+  "start":851,
+  "end":889,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me and my mama had to go\n   somewhere.",
+  "id":"8c2062dc-1b6c-4962-bf73-d7ca72f1c27f",
+  "params":{
+    "id":"8c2062dc-1b6c-4962-bf73-d7ca72f1c27f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

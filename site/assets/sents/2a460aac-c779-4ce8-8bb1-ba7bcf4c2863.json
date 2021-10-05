@@ -1,0 +1,13 @@
+{
+  "start":6123,
+  "end":6206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I\n   was younger with the same teacher that adopted me, she's an Aztec dancer.",
+  "id":"2a460aac-c779-4ce8-8bb1-ba7bcf4c2863",
+  "params":{
+    "id":"2a460aac-c779-4ce8-8bb1-ba7bcf4c2863",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

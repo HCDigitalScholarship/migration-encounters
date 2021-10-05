@@ -1,0 +1,12 @@
+{
+  "start":9101,
+  "end":9154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't have any money, they'll take your phone.",
+  "id":"c9e3e037-adae-4d5a-8204-a7c01798fd7d",
+  "params":{
+    "id":"a8ea3eb6-fec1-449d-b490-99dc30087568"
+  },
+  "name":"Axel"
+}

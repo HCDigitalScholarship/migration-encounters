@@ -1,0 +1,13 @@
+{
+  "start":12023,
+  "end":12047,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like an outsider.",
+  "id":"836d09d4-b7d3-4a19-af6a-3d5f79defad2",
+  "params":{
+    "id":"836d09d4-b7d3-4a19-af6a-3d5f79defad2",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

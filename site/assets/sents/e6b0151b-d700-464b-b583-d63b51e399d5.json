@@ -1,0 +1,13 @@
+{
+  "start":1753,
+  "end":1816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom, she's the one who got me the job at Jan-Kens Enameling.",
+  "id":"e6b0151b-d700-464b-b583-d63b51e399d5",
+  "params":{
+    "id":"e6b0151b-d700-464b-b583-d63b51e399d5",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

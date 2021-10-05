@@ -1,0 +1,13 @@
+{
+  "start":31922,
+  "end":32019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just changed a little, started\n   wearing dress shoes, maybe tighter pants, maybe dress shirts.",
+  "id":"e071fbd4-f885-4c64-ab4e-8442edc34fe4",
+  "params":{
+    "id":"e071fbd4-f885-4c64-ab4e-8442edc34fe4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

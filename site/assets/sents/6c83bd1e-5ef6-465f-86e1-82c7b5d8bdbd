@@ -1,0 +1,12 @@
+{
+  "start":20701,
+  "end":20729,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work here at EG Logistics.",
+  "id":"6c83bd1e-5ef6-465f-86e1-82c7b5d8bdbd",
+  "params":{
+    "id":"e9beafad-bcf8-4b43-882f-71bcb232297f"
+  },
+  "name":"Edgar"
+}

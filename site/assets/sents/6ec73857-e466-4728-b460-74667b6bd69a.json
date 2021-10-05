@@ -1,0 +1,13 @@
+{
+  "start":30967,
+  "end":30988,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n got black, huh?\"",
+  "id":"6ec73857-e466-4728-b460-74667b6bd69a",
+  "params":{
+    "id":"6ec73857-e466-4728-b460-74667b6bd69a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42308,
+  "end":42368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me just a number that looked legit, but it wasn't.",
+  "id":"0c5efe09-d772-4f1b-8364-6a4bfbd108ea",
+  "params":{
+    "id":"6d1e0e9d-d0ed-4b83-88df-ecb203ef37ef"
+  },
+  "name":"Axel"
+}

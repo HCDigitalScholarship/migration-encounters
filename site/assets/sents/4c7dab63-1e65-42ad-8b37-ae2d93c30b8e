@@ -1,0 +1,12 @@
+{
+  "start":28847,
+  "end":28862,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really\n   am.",
+  "id":"4c7dab63-1e65-42ad-8b37-ae2d93c30b8e",
+  "params":{
+    "id":"629dfabd-4f62-4e33-8fca-46698b0b91da"
+  },
+  "name":"Ilse"
+}

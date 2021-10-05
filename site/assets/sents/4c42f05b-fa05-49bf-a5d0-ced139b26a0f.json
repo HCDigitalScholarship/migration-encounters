@@ -1,0 +1,13 @@
+{
+  "start":53202,
+  "end":53239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I exceeded\n   everybody in the class.",
+  "id":"4c42f05b-fa05-49bf-a5d0-ced139b26a0f",
+  "params":{
+    "id":"4c42f05b-fa05-49bf-a5d0-ced139b26a0f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5979,
+  "end":6004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was just a checkpoint.",
+  "id":"c3ba5d58-019c-4075-8170-6b48775f852d",
+  "params":{
+    "id":"969fac16-9cfb-49a9-a9af-dc3cc0e9cef4"
+  },
+  "name":"Sylent"
+}

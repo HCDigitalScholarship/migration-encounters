@@ -1,0 +1,12 @@
+{
+  "start":31440,
+  "end":31509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot\n   of people that tell me I can get the visa and stuff.",
+  "id":"3a694b8d-96e9-45b1-a07f-9bb89adbe9e5",
+  "params":{
+    "id":"23582d09-831b-4fd3-9c2f-ce57fdbcee68"
+  },
+  "name":"Yair"
+}

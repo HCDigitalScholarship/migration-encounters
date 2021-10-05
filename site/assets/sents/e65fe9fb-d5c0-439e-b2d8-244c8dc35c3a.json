@@ -1,0 +1,13 @@
+{
+  "start":7699,
+  "end":7833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This says \u201cOklas,\u201d which is how us\n   Chicanos\u2014Ochos as they call us here\u2014that's how we say Oklahoma back there.\n   Oklas, Oklas City.",
+  "id":"e65fe9fb-d5c0-439e-b2d8-244c8dc35c3a",
+  "params":{
+    "id":"e65fe9fb-d5c0-439e-b2d8-244c8dc35c3a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10258,
+  "end":10271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's great.",
+  "id":"92910c50-7bf7-4b90-9d6f-7ac18fd0e6f4",
+  "params":{
+    "id":"87a48c2e-1941-4392-b865-b89793e8ffab"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2641,
+  "end":2726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every time you go to a call center, you wait to see what's\n     going to happen next.",
+  "id":"cf8cc9dc-2263-4d47-ab4e-a98ff0c48403",
+  "params":{
+    "id":"cf8cc9dc-2263-4d47-ab4e-a98ff0c48403",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28483,
+  "end":28548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Another thing that I forgot to\n mention, my mom's from Nicaragua.",
+  "id":"172a9257-da7a-4be3-968a-3d2834d6f5ce",
+  "params":{
+    "id":"172a9257-da7a-4be3-968a-3d2834d6f5ce",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1097,
+  "end":1123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were born in Veracruz.",
+  "id":"d4375ee6-7715-4790-8ac6-3b7fb69f0e11",
+  "params":{
+    "id":"c7e2ce4a-0dcc-4409-aba0-af074433156b"
+  },
+  "name":"Joana"
+}

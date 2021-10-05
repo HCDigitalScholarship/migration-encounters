@@ -1,0 +1,13 @@
+{
+  "start":7500,
+  "end":7513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s great.",
+  "id":"7358a84f-6dc8-4b5f-bc6d-10130a83d0f7",
+  "params":{
+    "id":"7358a84f-6dc8-4b5f-bc6d-10130a83d0f7",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

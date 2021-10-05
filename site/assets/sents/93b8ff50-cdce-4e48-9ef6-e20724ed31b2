@@ -1,0 +1,12 @@
+{
+  "start":32352,
+  "end":32459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I know, but you can see in the news people are\n   coming, the trucks are disappearing with the people.",
+  "id":"93b8ff50-cdce-4e48-9ef6-e20724ed31b2",
+  "params":{
+    "id":"af983d77-9705-4411-bda7-591d13b4307e"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5567,
+  "end":5605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew that my\n   grandma was Mexican.",
+  "id":"42c0d79e-931a-4cca-a1ae-b9e1f8b58fa7",
+  "params":{
+    "id":"0e67554e-db02-4f07-922f-2b4f904dd83e"
+  },
+  "name":"Luis B"
+}

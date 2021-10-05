@@ -1,0 +1,13 @@
+{
+  "start":3172,
+  "end":3184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's cool.",
+  "id":"1c6f5896-7678-42be-a7cd-1f0f26ffdef1",
+  "params":{
+    "id":"1c6f5896-7678-42be-a7cd-1f0f26ffdef1",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":34568,
+  "end":34606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's every day they're dumping people.",
+  "id":"7f899966-0a2c-4b2c-abe9-96c65baf9572",
+  "params":{
+    "id":"be6cfe69-d2fc-4992-b110-cb0af97d003f"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":557,
+  "end":599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, as you can tell,\n Billy is a musician.",
+  "id":"4314e11e-4ed8-4fea-a55f-c51d40c6e6a3",
+  "params":{
+    "id":"48830af1-ce45-4afa-9e47-4a6cc2c35ff1"
+  },
+  "name":"Billy"
+}

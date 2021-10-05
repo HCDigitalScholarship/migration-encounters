@@ -1,0 +1,13 @@
+{
+  "start":18427,
+  "end":18458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That book's\n   helped me a lot.",
+  "id":"0f796b66-f0e9-4d58-ac50-6d0c8f2b9600",
+  "params":{
+    "id":"0f796b66-f0e9-4d58-ac50-6d0c8f2b9600",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

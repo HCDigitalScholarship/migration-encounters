@@ -1,0 +1,12 @@
+{
+  "start":14510,
+  "end":14562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You understand that you're\n   not a hundred percent.",
+  "id":"ee36f1dc-0714-49eb-8a25-0f4a88c239cb",
+  "params":{
+    "id":"865b0d1c-c518-40fd-9a84-1f852f7d6fca"
+  },
+  "name":"Joseph"
+}

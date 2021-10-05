@@ -1,0 +1,15 @@
+{
+  "start":3314,
+  "end":3348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"was just a copy, not the hard copy",
+  "id":"2c18089c-fade-4b4f-a9da-c98e97a177e5",
+  "params":{
+    "id":"2c18089c-fade-4b4f-a9da-c98e97a177e5",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

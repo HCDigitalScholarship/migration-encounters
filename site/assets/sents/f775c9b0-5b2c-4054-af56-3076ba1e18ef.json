@@ -1,0 +1,13 @@
+{
+  "start":3918,
+  "end":3980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about the events that led to your deportation?",
+  "id":"f775c9b0-5b2c-4054-af56-3076ba1e18ef",
+  "params":{
+    "id":"f775c9b0-5b2c-4054-af56-3076ba1e18ef",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

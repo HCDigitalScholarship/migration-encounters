@@ -1,0 +1,12 @@
+{
+  "start":6765,
+  "end":6792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when you weren't\n   working",
+  "id":"6c9bdc2c-cc08-4883-9bdf-d23cffa9b567",
+  "params":{
+    "id":"b8f80850-2638-49c5-beac-86cadb2143c5"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23025,
+  "end":23049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't get to see him.",
+  "id":"ce84fd00-090c-48d1-9d33-b539c07d06e3",
+  "params":{
+    "id":"46f6fe9a-9367-4240-a098-b8118789804f"
+  },
+  "name":"Ruben"
+}

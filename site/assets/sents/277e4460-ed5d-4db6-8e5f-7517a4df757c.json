@@ -1,0 +1,13 @@
+{
+  "start":612,
+  "end":620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For you.",
+  "id":"277e4460-ed5d-4db6-8e5f-7517a4df757c",
+  "params":{
+    "id":"277e4460-ed5d-4db6-8e5f-7517a4df757c",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

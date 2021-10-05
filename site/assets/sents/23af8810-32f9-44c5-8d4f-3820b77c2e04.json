@@ -1,0 +1,13 @@
+{
+  "start":23948,
+  "end":23969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't worry about me.",
+  "id":"23af8810-32f9-44c5-8d4f-3820b77c2e04",
+  "params":{
+    "id":"23af8810-32f9-44c5-8d4f-3820b77c2e04",
+    "class":"anno"
+  },
+  "name":"Many"
+}

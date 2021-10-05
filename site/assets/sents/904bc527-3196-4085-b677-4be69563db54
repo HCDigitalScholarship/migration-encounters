@@ -1,0 +1,12 @@
+{
+  "start":16376,
+  "end":16423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't know English, you\n   don't fit in.",
+  "id":"904bc527-3196-4085-b677-4be69563db54",
+  "params":{
+    "id":"2319a3b0-211d-42d3-86b5-451004a4ecf2"
+  },
+  "name":"Mike"
+}

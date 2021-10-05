@@ -1,0 +1,15 @@
+{
+  "start":5880,
+  "end":5982,
+  "label":"SENT",
+  "type":"sent",
+  "text":", at this moment I'm doing an extra course of\n   programming so I can learn a little another specialty",
+  "id":"5c2c434b-f38c-468a-adc6-b708f546acfb",
+  "params":{
+    "id":"5c2c434b-f38c-468a-adc6-b708f546acfb",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1155,
+  "end":1211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And do you remember your first day in the United States?",
+  "id":"d1c82794-d260-488b-8da4-a29c69475334",
+  "params":{
+    "id":"de7d04bd-a47b-4e91-a354-d112da0eccdf"
+  },
+  "name":"Ilse"
+}

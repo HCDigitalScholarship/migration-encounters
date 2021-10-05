@@ -1,0 +1,12 @@
+{
+  "start":14723,
+  "end":14767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of food\n   do you like over there?",
+  "id":"48db8faf-7157-4c48-a3cb-499cabd3574a",
+  "params":{
+    "id":"9f199af1-8e59-4648-bca0-4032f956e97f"
+  },
+  "name":"Juan A"
+}

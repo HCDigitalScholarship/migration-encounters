@@ -1,0 +1,12 @@
+{
+  "start":32652,
+  "end":32662,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   dad.",
+  "id":"6ac13ee4-fe08-4cd1-858d-cbfbcb1054e2",
+  "params":{
+    "id":"ea9a08f5-81ec-4713-a75a-b07877d3e6af"
+  },
+  "name":"Hugo"
+}

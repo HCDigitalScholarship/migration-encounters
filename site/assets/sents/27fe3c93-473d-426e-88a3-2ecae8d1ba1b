@@ -1,0 +1,12 @@
+{
+  "start":21257,
+  "end":21290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This one\n   was not that swollen.",
+  "id":"27fe3c93-473d-426e-88a3-2ecae8d1ba1b",
+  "params":{
+    "id":"b0d71931-008c-4d12-a8cd-21cc763a616c"
+  },
+  "name":"Cris"
+}

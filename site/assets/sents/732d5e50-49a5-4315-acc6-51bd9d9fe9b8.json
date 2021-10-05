@@ -1,0 +1,13 @@
+{
+  "start":1229,
+  "end":1253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me what you did.",
+  "id":"732d5e50-49a5-4315-acc6-51bd9d9fe9b8",
+  "params":{
+    "id":"732d5e50-49a5-4315-acc6-51bd9d9fe9b8",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

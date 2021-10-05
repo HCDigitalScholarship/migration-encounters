@@ -1,0 +1,13 @@
+{
+  "start":10166,
+  "end":10183,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Every two?",
+  "id":"a3e922b7-77fc-4968-b092-d3da84ee4fc6",
+  "params":{
+    "id":"a3e922b7-77fc-4968-b092-d3da84ee4fc6",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

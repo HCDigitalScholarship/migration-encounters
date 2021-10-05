@@ -1,0 +1,13 @@
+{
+  "start":53090,
+  "end":53159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got to Teletech, I didn't even know what\n   the key pads were.",
+  "id":"df135212-789b-4648-b4a9-0d664af9cfd5",
+  "params":{
+    "id":"df135212-789b-4648-b4a9-0d664af9cfd5",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

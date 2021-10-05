@@ -1,0 +1,13 @@
+{
+  "start":12370,
+  "end":12395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess we talk about it.",
+  "id":"58e19a8a-8690-413b-85a3-ba4c7eb902cc",
+  "params":{
+    "id":"58e19a8a-8690-413b-85a3-ba4c7eb902cc",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

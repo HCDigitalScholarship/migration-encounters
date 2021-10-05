@@ -1,0 +1,13 @@
+{
+  "start":8789,
+  "end":8846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody telling me they going to help me to\n   go back.",
+  "id":"22c841bd-7c38-413f-8903-5783d9b6581c",
+  "params":{
+    "id":"22c841bd-7c38-413f-8903-5783d9b6581c",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

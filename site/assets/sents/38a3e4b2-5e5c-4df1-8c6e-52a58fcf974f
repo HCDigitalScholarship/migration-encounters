@@ -1,0 +1,12 @@
+{
+  "start":46172,
+  "end":46266,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mike: I could've gone and fought the case and did all that stuff, but I was\n   like, \"No dude.",
+  "id":"38a3e4b2-5e5c-4df1-8c6e-52a58fcf974f",
+  "params":{
+    "id":"48ced450-91d6-40a3-9f42-f566cb125358"
+  },
+  "name":"Mike"
+}

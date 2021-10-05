@@ -1,0 +1,12 @@
+{
+  "start":10200,
+  "end":10241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people would say, \"Stay inside.\"",
+  "id":"3439fa6c-5736-4952-a103-2ad8aa1c5d12",
+  "params":{
+    "id":"f118e511-b8ed-4b9d-8859-71420ee8e5b2"
+  },
+  "name":"Ruben"
+}

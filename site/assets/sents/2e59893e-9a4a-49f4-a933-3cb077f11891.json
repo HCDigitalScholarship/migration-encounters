@@ -1,0 +1,13 @@
+{
+  "start":28416,
+  "end":28488,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you have\n   somebody, you want to take them out and do extra stuff.",
+  "id":"2e59893e-9a4a-49f4-a933-3cb077f11891",
+  "params":{
+    "id":"2e59893e-9a4a-49f4-a933-3cb077f11891",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

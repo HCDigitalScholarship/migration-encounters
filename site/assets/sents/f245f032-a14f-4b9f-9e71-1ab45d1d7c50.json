@@ -1,0 +1,13 @@
+{
+  "start":5045,
+  "end":5075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love to take care of my son.",
+  "id":"f245f032-a14f-4b9f-9e71-1ab45d1d7c50",
+  "params":{
+    "id":"f245f032-a14f-4b9f-9e71-1ab45d1d7c50",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

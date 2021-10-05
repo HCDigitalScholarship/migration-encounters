@@ -1,0 +1,13 @@
+{
+  "start":45030,
+  "end":45219,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or, \"Yes, this is a way to formulate a question without being\n     condescending or without being aggressive, without being persuading.\n     You're just being neutral.\"\n   \n   \n     Joseph:",
+  "id":"00aa4a3d-2dc3-4bf5-80ee-38d6b5c4b962",
+  "params":{
+    "id":"00aa4a3d-2dc3-4bf5-80ee-38d6b5c4b962",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

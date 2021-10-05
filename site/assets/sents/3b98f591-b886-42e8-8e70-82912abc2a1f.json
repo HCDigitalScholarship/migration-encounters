@@ -1,0 +1,13 @@
+{
+  "start":61693,
+  "end":61750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The car, she could have kept it for herself and used\n it.",
+  "id":"3b98f591-b886-42e8-8e70-82912abc2a1f",
+  "params":{
+    "id":"3b98f591-b886-42e8-8e70-82912abc2a1f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

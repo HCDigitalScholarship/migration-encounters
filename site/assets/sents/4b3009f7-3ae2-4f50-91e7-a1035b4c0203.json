@@ -1,0 +1,13 @@
+{
+  "start":4492,
+  "end":4548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I want to see my kids and\n   I want to do it legally.",
+  "id":"4b3009f7-3ae2-4f50-91e7-a1035b4c0203",
+  "params":{
+    "id":"4b3009f7-3ae2-4f50-91e7-a1035b4c0203",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":31724,
+  "end":31770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, what's\n     going on with this guy?",
+  "id":"f5a5fbf4-19c9-41f9-9b5a-ee6861eb6170",
+  "params":{
+    "id":"fc8a8252-d2fb-4518-a503-f0ce84b9ee2a"
+  },
+  "name":"Beto"
+}

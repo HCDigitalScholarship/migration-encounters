@@ -1,0 +1,12 @@
+{
+  "start":25241,
+  "end":25267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's the\n nicest guy ever.",
+  "id":"fa4146f6-ed3c-4144-bf94-6a2e12d583a2",
+  "params":{
+    "id":"a43fa469-fb2e-4804-82c1-483bf902c312"
+  },
+  "name":"Billy"
+}

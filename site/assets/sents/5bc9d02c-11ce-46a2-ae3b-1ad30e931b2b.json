@@ -1,0 +1,13 @@
+{
+  "start":1622,
+  "end":1651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He and your mom had split up.",
+  "id":"5bc9d02c-11ce-46a2-ae3b-1ad30e931b2b",
+  "params":{
+    "id":"5bc9d02c-11ce-46a2-ae3b-1ad30e931b2b",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

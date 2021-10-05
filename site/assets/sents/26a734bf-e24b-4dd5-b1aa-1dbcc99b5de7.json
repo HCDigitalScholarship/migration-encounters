@@ -1,0 +1,13 @@
+{
+  "start":25089,
+  "end":25118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just want to see my family.",
+  "id":"26a734bf-e24b-4dd5-b1aa-1dbcc99b5de7",
+  "params":{
+    "id":"26a734bf-e24b-4dd5-b1aa-1dbcc99b5de7",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

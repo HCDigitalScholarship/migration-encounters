@@ -1,0 +1,12 @@
+{
+  "start":42074,
+  "end":42108,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to\n   have my own kitchen.\"",
+  "id":"aa665db9-cc3c-4daa-9a8c-070645fe2c16",
+  "params":{
+    "id":"75091cee-576a-4bc0-ab1b-db772fbd0efe"
+  },
+  "name":"Sylent"
+}

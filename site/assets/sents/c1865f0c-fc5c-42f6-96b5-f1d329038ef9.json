@@ -1,0 +1,13 @@
+{
+  "start":50890,
+  "end":50930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because my older daughter, she calls me.",
+  "id":"c1865f0c-fc5c-42f6-96b5-f1d329038ef9",
+  "params":{
+    "id":"c1865f0c-fc5c-42f6-96b5-f1d329038ef9",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

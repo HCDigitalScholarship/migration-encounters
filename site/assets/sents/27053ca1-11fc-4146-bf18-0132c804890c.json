@@ -1,0 +1,13 @@
+{
+  "start":4000,
+  "end":4008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia:",
+  "id":"27053ca1-11fc-4146-bf18-0132c804890c",
+  "params":{
+    "id":"27053ca1-11fc-4146-bf18-0132c804890c",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

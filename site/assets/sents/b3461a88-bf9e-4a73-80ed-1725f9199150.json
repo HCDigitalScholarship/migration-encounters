@@ -1,0 +1,13 @@
+{
+  "start":31502,
+  "end":31518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's harder now.",
+  "id":"b3461a88-bf9e-4a73-80ed-1725f9199150",
+  "params":{
+    "id":"b3461a88-bf9e-4a73-80ed-1725f9199150",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

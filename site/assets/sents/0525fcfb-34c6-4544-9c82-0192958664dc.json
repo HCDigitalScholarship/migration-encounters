@@ -1,0 +1,13 @@
+{
+  "start":14084,
+  "end":14104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My baby\n   mama too.",
+  "id":"0525fcfb-34c6-4544-9c82-0192958664dc",
+  "params":{
+    "id":"0525fcfb-34c6-4544-9c82-0192958664dc",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

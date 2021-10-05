@@ -1,0 +1,13 @@
+{
+  "start":11050,
+  "end":11101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If\n   you get deported, they will pay you the trip.",
+  "id":"b4b24041-c295-4c72-856a-fc4f76ba53d5",
+  "params":{
+    "id":"b4b24041-c295-4c72-856a-fc4f76ba53d5",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

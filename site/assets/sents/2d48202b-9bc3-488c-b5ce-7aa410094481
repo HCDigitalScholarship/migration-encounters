@@ -1,0 +1,12 @@
+{
+  "start":39315,
+  "end":39362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She asked me, \u201cIs this what you\n   want to do?\u201d",
+  "id":"2d48202b-9bc3-488c-b5ce-7aa410094481",
+  "params":{
+    "id":"255e4a73-2fb9-4f3d-9e43-d8fe59b14d89"
+  },
+  "name":"Rodolfo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4705,
+  "end":4721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work for Dish.",
+  "id":"3c818d5d-e5ac-40b8-8fab-d1d5ba011ef9",
+  "params":{
+    "id":"a58904c9-244e-48ec-9d46-3f42d63b7a2e"
+  },
+  "name":"Ivan"
+}

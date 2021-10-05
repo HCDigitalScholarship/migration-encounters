@@ -1,0 +1,12 @@
+{
+  "start":8255,
+  "end":8295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess she didn't know where to put me.",
+  "id":"52b5f408-73f2-44af-a02a-cc11fcf6a630",
+  "params":{
+    "id":"402eba5e-1f54-4c7b-a902-4017466dd8c8"
+  },
+  "name":"Luisa"
+}

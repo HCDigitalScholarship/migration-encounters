@@ -1,0 +1,13 @@
+{
+  "start":18566,
+  "end":18681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, so they come, and they start talking, \"Oh yeah, it\n was just a political discussion that got a little heated.\"",
+  "id":"c44b3b0a-2c4f-4c9a-86f7-7126a888122d",
+  "params":{
+    "id":"c44b3b0a-2c4f-4c9a-86f7-7126a888122d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1812,
+  "end":1964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If the account moves and you already become a general manager or\n     supervisor, if they moved back to States, you're going back to [_____]\n     again.",
+  "id":"29250a75-0a5b-434e-a145-202183a9ba41",
+  "params":{
+    "id":"29250a75-0a5b-434e-a145-202183a9ba41",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

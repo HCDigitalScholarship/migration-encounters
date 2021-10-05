@@ -1,0 +1,13 @@
+{
+  "start":10006,
+  "end":10011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah.",
+  "id":"9c357603-40bd-4c75-8a8f-0c5f98d20e47",
+  "params":{
+    "id":"9c357603-40bd-4c75-8a8f-0c5f98d20e47",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

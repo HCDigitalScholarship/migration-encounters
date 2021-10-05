@@ -1,0 +1,12 @@
+{
+  "start":33081,
+  "end":33105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just like to have fun.",
+  "id":"f595c328-3969-4510-a7a3-36daeb0fcc8c",
+  "params":{
+    "id":"cac2bad3-51df-44e8-9de5-49517bb6713b"
+  },
+  "name":"Kevin"
+}

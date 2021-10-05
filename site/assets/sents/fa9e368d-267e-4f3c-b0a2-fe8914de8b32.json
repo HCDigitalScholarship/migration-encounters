@@ -1,0 +1,13 @@
+{
+  "start":37040,
+  "end":37067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I don't want to travel.",
+  "id":"fa9e368d-267e-4f3c-b0a2-fe8914de8b32",
+  "params":{
+    "id":"fa9e368d-267e-4f3c-b0a2-fe8914de8b32",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

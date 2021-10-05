@@ -1,0 +1,12 @@
+{
+  "start":32470,
+  "end":32602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somos seres humanos, cometemos errores, a veces tomamos\n     decisiones que no ten\u00edamos que tomar pero no por eso se acaba el mundo.",
+  "id":"ed5f2dec-c4b3-41be-8ddf-5ce2e016844b",
+  "params":{
+    "id":"6ba50903-48e4-444b-bd71-b02160c4f00f"
+  },
+  "name":"Maria"
+}

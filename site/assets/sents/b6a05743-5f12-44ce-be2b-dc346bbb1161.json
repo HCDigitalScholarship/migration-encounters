@@ -1,0 +1,13 @@
+{
+  "start":3290,
+  "end":3314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a great childhood.",
+  "id":"b6a05743-5f12-44ce-be2b-dc346bbb1161",
+  "params":{
+    "id":"b6a05743-5f12-44ce-be2b-dc346bbb1161",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

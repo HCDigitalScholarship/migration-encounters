@@ -1,0 +1,12 @@
+{
+  "start":7183,
+  "end":7237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"By\n   the time I got the courage, she got off the bus.",
+  "id":"ce1e1723-ac08-4eca-b382-5db5783ad091",
+  "params":{
+    "id":"506d8b25-73e7-4209-8dab-69fa2e7a84b3"
+  },
+  "name":"Zayuri"
+}

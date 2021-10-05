@@ -1,0 +1,13 @@
+{
+  "start":15538,
+  "end":15564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I will\n   say, \"Excuse me?",
+  "id":"ac6fcdde-402a-4362-99b2-07a0629a85b0",
+  "params":{
+    "id":"ac6fcdde-402a-4362-99b2-07a0629a85b0",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

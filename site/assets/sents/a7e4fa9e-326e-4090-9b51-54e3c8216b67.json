@@ -1,0 +1,15 @@
+{
+  "start":7707,
+  "end":7857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I could get a good engineer here, it's better to\n   serve to my country, but if it's a possibility, I will be more than happy\n   to go back to USA.",
+  "id":"a7e4fa9e-326e-4090-9b51-54e3c8216b67",
+  "params":{
+    "id":"a7e4fa9e-326e-4090-9b51-54e3c8216b67",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

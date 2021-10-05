@@ -1,0 +1,13 @@
+{
+  "start":403,
+  "end":416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don\u2019t know.",
+  "id":"d89991dc-f77d-4b26-97df-e0495a36fc33",
+  "params":{
+    "id":"d89991dc-f77d-4b26-97df-e0495a36fc33",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

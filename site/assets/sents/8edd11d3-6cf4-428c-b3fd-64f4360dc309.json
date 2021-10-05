@@ -1,0 +1,13 @@
+{
+  "start":17512,
+  "end":17526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Keep it real.",
+  "id":"8edd11d3-6cf4-428c-b3fd-64f4360dc309",
+  "params":{
+    "id":"8edd11d3-6cf4-428c-b3fd-64f4360dc309",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

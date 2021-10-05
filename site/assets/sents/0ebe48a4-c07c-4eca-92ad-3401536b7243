@@ -1,0 +1,12 @@
+{
+  "start":21911,
+  "end":21939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told my dad, \"See,\n   Dad?",
+  "id":"0ebe48a4-c07c-4eca-92ad-3401536b7243",
+  "params":{
+    "id":"58c9f10f-4f6d-4f9a-8dce-606e993f0319"
+  },
+  "name":"Yair"
+}

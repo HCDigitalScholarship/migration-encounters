@@ -1,0 +1,12 @@
+{
+  "start":13391,
+  "end":13465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It just\n   depended on if you had money or if there was food on the table.",
+  "id":"bc32c9d7-1309-4b48-8615-a3ee18b95f7d",
+  "params":{
+    "id":"ce58f0ec-1c67-4c39-b468-473eadeddd7e"
+  },
+  "name":"Mike"
+}

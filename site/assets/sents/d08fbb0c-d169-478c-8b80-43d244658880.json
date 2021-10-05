@@ -1,0 +1,13 @@
+{
+  "start":31548,
+  "end":31573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   get really sad.",
+  "id":"d08fbb0c-d169-478c-8b80-43d244658880",
+  "params":{
+    "id":"d08fbb0c-d169-478c-8b80-43d244658880",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24293,
+  "end":24330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's nothing like\n     over there.",
+  "id":"a7b09649-95bd-4a43-aa0e-8747e942a6f1",
+  "params":{
+    "id":"e0cddb1b-6135-43e5-aa2f-280a07de578e"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1877,
+  "end":1906,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you become a US resident?",
+  "id":"876d6ea8-46c3-4134-a0dc-b6ee43010f25",
+  "params":{
+    "id":"c5469508-146e-4feb-b3db-5f0339f7aa0b"
+  },
+  "name":"Josue"
+}

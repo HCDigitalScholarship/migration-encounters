@@ -1,0 +1,13 @@
+{
+  "start":32332,
+  "end":32336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes.",
+  "id":"e449af1c-1360-4175-8d3c-47d2900fd68a",
+  "params":{
+    "id":"e449af1c-1360-4175-8d3c-47d2900fd68a",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

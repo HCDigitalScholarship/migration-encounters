@@ -1,0 +1,12 @@
+{
+  "start":8443,
+  "end":8533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You thought you were going to be here just for a little bit and\n   then go back to the US?",
+  "id":"d82ca14a-4d39-4a9a-9c19-ba86ed0b69ce",
+  "params":{
+    "id":"46c649a6-982e-4ba5-949c-bcf6e9f3f18f"
+  },
+  "name":"Roberto"
+}

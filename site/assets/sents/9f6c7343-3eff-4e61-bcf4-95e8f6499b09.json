@@ -1,0 +1,13 @@
+{
+  "start":12187,
+  "end":12306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n And I ended up in New Orleans after Hurricane Katrina to repair a bunch of\n apartments which we had worked on before.",
+  "id":"9f6c7343-3eff-4e61-bcf4-95e8f6499b09",
+  "params":{
+    "id":"9f6c7343-3eff-4e61-bcf4-95e8f6499b09",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

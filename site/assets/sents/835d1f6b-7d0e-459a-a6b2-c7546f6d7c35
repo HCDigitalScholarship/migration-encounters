@@ -1,0 +1,12 @@
+{
+  "start":32337,
+  "end":32351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pay attention.",
+  "id":"835d1f6b-7d0e-459a-a6b2-c7546f6d7c35",
+  "params":{
+    "id":"a39a33eb-7cdf-4fcd-b09c-2cc259f0d110"
+  },
+  "name":"Beto"
+}

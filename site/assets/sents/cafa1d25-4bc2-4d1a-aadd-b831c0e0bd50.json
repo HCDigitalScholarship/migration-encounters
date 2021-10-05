@@ -1,0 +1,13 @@
+{
+  "start":3861,
+  "end":3865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow.",
+  "id":"cafa1d25-4bc2-4d1a-aadd-b831c0e0bd50",
+  "params":{
+    "id":"cafa1d25-4bc2-4d1a-aadd-b831c0e0bd50",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

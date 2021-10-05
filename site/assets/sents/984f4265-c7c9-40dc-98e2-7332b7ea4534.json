@@ -1,0 +1,13 @@
+{
+  "start":0,
+  "end":177,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n Anne: Maybe you could start by telling me how you ended up going to the US,\n how old you were, what the motivation was, what your first impressions\n were, something like that.",
+  "id":"984f4265-c7c9-40dc-98e2-7332b7ea4534",
+  "params":{
+    "id":"984f4265-c7c9-40dc-98e2-7332b7ea4534",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

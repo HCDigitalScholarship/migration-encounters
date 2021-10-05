@@ -1,0 +1,13 @@
+{
+  "start":15675,
+  "end":15701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We wanted to check it out.",
+  "id":"c8d8fd61-0e09-44c9-b672-f359794371e2",
+  "params":{
+    "id":"c8d8fd61-0e09-44c9-b672-f359794371e2",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

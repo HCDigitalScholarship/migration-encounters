@@ -1,0 +1,13 @@
+{
+  "start":6470,
+  "end":6536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when did you have\n   to move from East Palo Alto to Menlo Park?",
+  "id":"fdea4b04-76e6-4d0d-bb53-3e52e2cb7920",
+  "params":{
+    "id":"fdea4b04-76e6-4d0d-bb53-3e52e2cb7920",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

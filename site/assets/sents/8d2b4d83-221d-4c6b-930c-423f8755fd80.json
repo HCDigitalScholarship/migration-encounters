@@ -1,0 +1,13 @@
+{
+  "start":10060,
+  "end":10106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then from there, I moved back to\n   Minnesota.",
+  "id":"8d2b4d83-221d-4c6b-930c-423f8755fd80",
+  "params":{
+    "id":"8d2b4d83-221d-4c6b-930c-423f8755fd80",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29807,
+  "end":29819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Denied what?",
+  "id":"3e3d9997-1db0-4019-baec-f263bfd1fa45",
+  "params":{
+    "id":"3e3d9997-1db0-4019-baec-f263bfd1fa45",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

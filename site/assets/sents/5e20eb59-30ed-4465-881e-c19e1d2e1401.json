@@ -1,0 +1,13 @@
+{
+  "start":38912,
+  "end":38942,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People are\n   still suffering.",
+  "id":"5e20eb59-30ed-4465-881e-c19e1d2e1401",
+  "params":{
+    "id":"5e20eb59-30ed-4465-881e-c19e1d2e1401",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

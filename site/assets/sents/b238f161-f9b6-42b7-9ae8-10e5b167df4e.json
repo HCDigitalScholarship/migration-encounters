@@ -1,0 +1,13 @@
+{
+  "start":3518,
+  "end":3548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"Yes,\n   we are illegal.",
+  "id":"b238f161-f9b6-42b7-9ae8-10e5b167df4e",
+  "params":{
+    "id":"b238f161-f9b6-42b7-9ae8-10e5b167df4e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

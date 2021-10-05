@@ -1,0 +1,12 @@
+{
+  "start":15001,
+  "end":15004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"JC:",
+  "id":"7c6e55fe-a5c9-41e6-8ef4-2b114d7de608",
+  "params":{
+    "id":"b34295cd-2c5f-4891-8860-5a609d8715a8"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7850,
+  "end":7870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sure they signed",
+  "id":"791a3f91-ea3b-4be8-95c0-3fb4697ceebe",
+  "params":{
+    "id":"791a3f91-ea3b-4be8-95c0-3fb4697ceebe",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,15 @@
+{
+  "start":163,
+  "end":192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell me that story?",
+  "id":"2d813df9-63f2-4684-b108-a6149760306c",
+  "params":{
+    "id":"2d813df9-63f2-4684-b108-a6149760306c",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

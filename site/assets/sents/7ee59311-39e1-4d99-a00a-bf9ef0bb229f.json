@@ -1,0 +1,13 @@
+{
+  "start":10438,
+  "end":10491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He always tells me, \"I wanna eat\n   tacos de canasta.",
+  "id":"7ee59311-39e1-4d99-a00a-bf9ef0bb229f",
+  "params":{
+    "id":"7ee59311-39e1-4d99-a00a-bf9ef0bb229f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

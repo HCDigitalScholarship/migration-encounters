@@ -1,0 +1,12 @@
+{
+  "start":32384,
+  "end":32445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"O sea como que, \u201c\u00bfEs en serio Maria, lo que estas haciendo?\u201d.",
+  "id":"060a02fa-a57e-466f-b208-7b1f9d891cdb",
+  "params":{
+    "id":"2ea7c8a2-2f09-444b-9e17-2363b2de3536"
+  },
+  "name":"Maria"
+}

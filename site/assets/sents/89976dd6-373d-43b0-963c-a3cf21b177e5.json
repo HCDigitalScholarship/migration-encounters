@@ -1,0 +1,13 @@
+{
+  "start":14750,
+  "end":14790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"How are you Mexican, man?",
+  "id":"89976dd6-373d-43b0-963c-a3cf21b177e5",
+  "params":{
+    "id":"89976dd6-373d-43b0-963c-a3cf21b177e5",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35438,
+  "end":35581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of them are grouchy when you say, \"Hey, buenas tardes\",\n   they look at you like \"What's good about?\" but they have to get to like\n   you.",
+  "id":"53b9fdc8-e18d-449e-ae72-8860c16ae127",
+  "params":{
+    "id":"53b9fdc8-e18d-449e-ae72-8860c16ae127",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35793,
+  "end":35848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I didn't have\n   tattoos when I was a teenager.",
+  "id":"73c8d6e2-7041-4ca5-a9dd-fe3990c42429",
+  "params":{
+    "id":"73c8d6e2-7041-4ca5-a9dd-fe3990c42429",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

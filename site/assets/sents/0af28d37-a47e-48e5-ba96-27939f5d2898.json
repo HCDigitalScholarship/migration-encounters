@@ -1,0 +1,13 @@
+{
+  "start":8979,
+  "end":9030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Doctors just\n going, \"She just needs birth control.",
+  "id":"0af28d37-a47e-48e5-ba96-27939f5d2898",
+  "params":{
+    "id":"0af28d37-a47e-48e5-ba96-27939f5d2898",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

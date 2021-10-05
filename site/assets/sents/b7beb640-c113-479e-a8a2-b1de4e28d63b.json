@@ -1,0 +1,13 @@
+{
+  "start":14190,
+  "end":14243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, people will say \"Man, that's a\n   stereotype.",
+  "id":"b7beb640-c113-479e-a8a2-b1de4e28d63b",
+  "params":{
+    "id":"b7beb640-c113-479e-a8a2-b1de4e28d63b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

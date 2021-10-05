@@ -1,0 +1,13 @@
+{
+  "start":34067,
+  "end":34085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n past two days",
+  "id":"f805e03f-fbb1-4307-bc20-ff1ea6e7dfec",
+  "params":{
+    "id":"f805e03f-fbb1-4307-bc20-ff1ea6e7dfec",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

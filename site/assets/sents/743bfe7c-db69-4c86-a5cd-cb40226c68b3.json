@@ -1,0 +1,13 @@
+{
+  "start":7648,
+  "end":7667,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're\n     gone.\u201d",
+  "id":"743bfe7c-db69-4c86-a5cd-cb40226c68b3",
+  "params":{
+    "id":"743bfe7c-db69-4c86-a5cd-cb40226c68b3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

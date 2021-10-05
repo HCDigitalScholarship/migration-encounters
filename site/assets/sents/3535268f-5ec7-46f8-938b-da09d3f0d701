@@ -1,0 +1,12 @@
+{
+  "start":9506,
+  "end":9524,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Blah, blah, blah.\"",
+  "id":"3535268f-5ec7-46f8-938b-da09d3f0d701",
+  "params":{
+    "id":"b6e80cec-4cd7-4e20-aed2-f4af865fae14"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":51346,
+  "end":51378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have relatives in Mexico?",
+  "id":"cabb8ff8-91ec-494e-87fb-8c61c59e8409",
+  "params":{
+    "id":"cabb8ff8-91ec-494e-87fb-8c61c59e8409",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

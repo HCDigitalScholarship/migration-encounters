@@ -1,0 +1,12 @@
+{
+  "start":1712,
+  "end":1731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where was your dad?",
+  "id":"b7726e58-d5f6-4193-87f7-459a21c476a6",
+  "params":{
+    "id":"0a56f8fe-137d-41b2-a7cd-3d6adb935e60"
+  },
+  "name":"Joana"
+}

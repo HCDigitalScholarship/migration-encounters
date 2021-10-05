@@ -1,0 +1,15 @@
+{
+  "start":12400,
+  "end":12552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were making me a little\n   more impotent because I wanted to have science classes, math classes as\n   normal, and was not getting in matched to it.",
+  "id":"fb3c37ce-d688-4040-ab07-9575a7619e59",
+  "params":{
+    "id":"fb3c37ce-d688-4040-ab07-9575a7619e59",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

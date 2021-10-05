@@ -1,0 +1,12 @@
+{
+  "start":41537,
+  "end":41558,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know what I mean?",
+  "id":"64f57bb7-211b-40e7-8e54-6c39a263a1b9",
+  "params":{
+    "id":"5197f792-135f-411c-84c2-b0274f6a538a"
+  },
+  "name":"Mike"
+}

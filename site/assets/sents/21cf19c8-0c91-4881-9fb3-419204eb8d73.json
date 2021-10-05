@@ -1,0 +1,13 @@
+{
+  "start":17069,
+  "end":17124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of money in there, so take care\n   of it.",
+  "id":"21cf19c8-0c91-4881-9fb3-419204eb8d73",
+  "params":{
+    "id":"21cf19c8-0c91-4881-9fb3-419204eb8d73",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

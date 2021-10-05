@@ -1,0 +1,13 @@
+{
+  "start":25600,
+  "end":25638,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They are\n   not going to like my ears.",
+  "id":"64c5604b-77a0-4393-9df6-79d7475194b9",
+  "params":{
+    "id":"64c5604b-77a0-4393-9df6-79d7475194b9",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

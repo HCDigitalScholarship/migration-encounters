@@ -1,0 +1,12 @@
+{
+  "start":12320,
+  "end":12344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"For a fight.",
+  "id":"c6e9d135-7578-4c1a-8aa8-78b2d4ced656",
+  "params":{
+    "id":"d548ce72-16be-4f27-bc91-7e9d5f206d19"
+  },
+  "name":"Kevin"
+}

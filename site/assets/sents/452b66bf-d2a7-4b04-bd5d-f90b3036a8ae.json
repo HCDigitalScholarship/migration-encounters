@@ -1,0 +1,13 @@
+{
+  "start":13127,
+  "end":13217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If\n I want to do anything at all, I'm not going to do it here at work or\n outside of work.",
+  "id":"452b66bf-d2a7-4b04-bd5d-f90b3036a8ae",
+  "params":{
+    "id":"452b66bf-d2a7-4b04-bd5d-f90b3036a8ae",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

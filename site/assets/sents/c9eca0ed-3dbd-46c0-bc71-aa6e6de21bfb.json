@@ -1,0 +1,13 @@
+{
+  "start":15124,
+  "end":15146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you smoking weed?",
+  "id":"c9eca0ed-3dbd-46c0-bc71-aa6e6de21bfb",
+  "params":{
+    "id":"c9eca0ed-3dbd-46c0-bc71-aa6e6de21bfb",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

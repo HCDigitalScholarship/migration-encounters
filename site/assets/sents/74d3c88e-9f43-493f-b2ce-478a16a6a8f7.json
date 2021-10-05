@@ -1,0 +1,13 @@
+{
+  "start":26012,
+  "end":26056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used\n   to live in a different state here.",
+  "id":"74d3c88e-9f43-493f-b2ce-478a16a6a8f7",
+  "params":{
+    "id":"74d3c88e-9f43-493f-b2ce-478a16a6a8f7",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

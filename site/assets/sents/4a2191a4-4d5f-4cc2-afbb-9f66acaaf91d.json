@@ -1,0 +1,13 @@
+{
+  "start":68220,
+  "end":68305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n   think you could find somebody in Mexico know how to make some chili beans.",
+  "id":"4a2191a4-4d5f-4cc2-afbb-9f66acaaf91d",
+  "params":{
+    "id":"4a2191a4-4d5f-4cc2-afbb-9f66acaaf91d",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

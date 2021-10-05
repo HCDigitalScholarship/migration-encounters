@@ -1,0 +1,12 @@
+{
+  "start":11881,
+  "end":11948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He told me, \"We're\n   immigrants, we come from a different country.",
+  "id":"a00a855a-99d9-4c0e-9caf-9c5160e75d78",
+  "params":{
+    "id":"bdd5bbe3-51ff-4e50-bc14-dc15b1c8f211"
+  },
+  "name":"Rodolfo"
+}

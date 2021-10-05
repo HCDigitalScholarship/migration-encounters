@@ -1,0 +1,13 @@
+{
+  "start":321,
+  "end":425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, since I learned that I was living illegally in the United States, I\n   got discriminated for that.",
+  "id":"d257234c-054c-4297-9a0f-75a0f97f2767",
+  "params":{
+    "id":"d257234c-054c-4297-9a0f-75a0f97f2767",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

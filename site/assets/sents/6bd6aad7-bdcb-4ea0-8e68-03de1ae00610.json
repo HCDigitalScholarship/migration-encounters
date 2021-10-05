@@ -1,0 +1,13 @@
+{
+  "start":3784,
+  "end":3815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom didn't know any English.",
+  "id":"6bd6aad7-bdcb-4ea0-8e68-03de1ae00610",
+  "params":{
+    "id":"6bd6aad7-bdcb-4ea0-8e68-03de1ae00610",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

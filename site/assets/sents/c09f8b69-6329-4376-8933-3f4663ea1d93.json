@@ -1,0 +1,13 @@
+{
+  "start":11280,
+  "end":11404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I remember one time the cops came to my house, because my\n   little brother was playing outside and it was school hours.",
+  "id":"c09f8b69-6329-4376-8933-3f4663ea1d93",
+  "params":{
+    "id":"c09f8b69-6329-4376-8933-3f4663ea1d93",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

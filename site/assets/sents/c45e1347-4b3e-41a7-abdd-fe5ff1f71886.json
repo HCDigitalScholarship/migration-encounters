@@ -1,0 +1,13 @@
+{
+  "start":38211,
+  "end":38288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was one point in time that I had to\n   smoke before I do something fun.",
+  "id":"c45e1347-4b3e-41a7-abdd-fe5ff1f71886",
+  "params":{
+    "id":"c45e1347-4b3e-41a7-abdd-fe5ff1f71886",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

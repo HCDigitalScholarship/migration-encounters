@@ -1,0 +1,13 @@
+{
+  "start":37811,
+  "end":37874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One thing I know is I know the ins and outs of labor in the US.",
+  "id":"f5384839-4939-4efd-88c0-60f11b89e4df",
+  "params":{
+    "id":"f5384839-4939-4efd-88c0-60f11b89e4df",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

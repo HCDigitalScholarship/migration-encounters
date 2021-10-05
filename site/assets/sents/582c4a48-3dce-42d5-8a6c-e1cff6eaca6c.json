@@ -1,0 +1,13 @@
+{
+  "start":21551,
+  "end":21598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I really feel like this was all my fault.",
+  "id":"582c4a48-3dce-42d5-8a6c-e1cff6eaca6c",
+  "params":{
+    "id":"582c4a48-3dce-42d5-8a6c-e1cff6eaca6c",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

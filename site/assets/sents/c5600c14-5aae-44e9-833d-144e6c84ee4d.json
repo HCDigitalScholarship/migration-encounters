@@ -1,0 +1,13 @@
+{
+  "start":37856,
+  "end":37891,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\u2019s about your economic situation.",
+  "id":"c5600c14-5aae-44e9-833d-144e6c84ee4d",
+  "params":{
+    "id":"c5600c14-5aae-44e9-833d-144e6c84ee4d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

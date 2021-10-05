@@ -1,0 +1,13 @@
+{
+  "start":7681,
+  "end":7718,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I came back, I came back by bus.",
+  "id":"2f570332-593b-4916-aca8-19f94bb088d2",
+  "params":{
+    "id":"2f570332-593b-4916-aca8-19f94bb088d2",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

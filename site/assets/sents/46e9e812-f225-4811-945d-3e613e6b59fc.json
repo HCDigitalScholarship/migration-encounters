@@ -1,0 +1,13 @@
+{
+  "start":14244,
+  "end":14281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you learn your English, Juan?",
+  "id":"46e9e812-f225-4811-945d-3e613e6b59fc",
+  "params":{
+    "id":"46e9e812-f225-4811-945d-3e613e6b59fc",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

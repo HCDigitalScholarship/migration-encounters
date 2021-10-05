@@ -1,0 +1,13 @@
+{
+  "start":67673,
+  "end":67778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've heard it one time on the radio, but\n   I never took a chance to listen to it because I was into rap.",
+  "id":"38aeb6b0-5502-47ec-a179-52b2afbd829f",
+  "params":{
+    "id":"38aeb6b0-5502-47ec-a179-52b2afbd829f",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

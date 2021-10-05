@@ -1,0 +1,13 @@
+{
+  "start":21131,
+  "end":21184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luckily nothing\n   ever happened when I was in there.",
+  "id":"abdc4ab3-3d3b-4ad3-b6ca-c9e85a33876a",
+  "params":{
+    "id":"abdc4ab3-3d3b-4ad3-b6ca-c9e85a33876a",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

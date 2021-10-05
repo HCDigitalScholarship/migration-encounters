@@ -1,0 +1,13 @@
+{
+  "start":27132,
+  "end":27155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He works for a company.",
+  "id":"176af072-0c6b-4f9f-a94a-e9e74e6499b0",
+  "params":{
+    "id":"176af072-0c6b-4f9f-a94a-e9e74e6499b0",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

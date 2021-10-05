@@ -1,0 +1,12 @@
+{
+  "start":14638,
+  "end":14663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Probably like 50%.",
+  "id":"089c45f8-91b2-4275-b22d-a1b411d3fa01",
+  "params":{
+    "id":"5de07048-e8a0-4cb6-9575-3fb7e0cc2f78"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":39293,
+  "end":39317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't afford\n   a car.",
+  "id":"b81b6865-5902-4ef8-bebf-70cfb24ef628",
+  "params":{
+    "id":"b81b6865-5902-4ef8-bebf-70cfb24ef628",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2985,
+  "end":3048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you were trying to go to NYU while you were in the military.",
+  "id":"e079b876-2cfe-461d-a430-6b669de13d9f",
+  "params":{
+    "id":"711d2313-e8d7-4833-91e6-ce6c108a7118"
+  },
+  "name":"Joseph"
+}

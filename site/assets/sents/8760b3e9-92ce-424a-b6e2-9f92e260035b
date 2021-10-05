@@ -1,0 +1,12 @@
+{
+  "start":26640,
+  "end":26672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And what are your\n   dreams now?",
+  "id":"8760b3e9-92ce-424a-b6e2-9f92e260035b",
+  "params":{
+    "id":"551380b4-6550-41f1-afb5-d7e88985ad84"
+  },
+  "name":"Hugo"
+}

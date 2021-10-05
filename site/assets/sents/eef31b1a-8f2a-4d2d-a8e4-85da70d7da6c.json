@@ -1,0 +1,12 @@
+{
+  "start":3529,
+  "end":3552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It gave me an identity.",
+  "id":"eef31b1a-8f2a-4d2d-a8e4-85da70d7da6c",
+  "params":{
+    "id":"84da430b-b86b-4fe4-a5be-b3c067ea1453"
+  },
+  "name":"Billy"
+}

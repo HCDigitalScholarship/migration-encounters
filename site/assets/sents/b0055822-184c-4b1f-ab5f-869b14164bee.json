@@ -1,0 +1,13 @@
+{
+  "start":7319,
+  "end":7393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I just\n   punched the window again, and my whole body went through it.",
+  "id":"b0055822-184c-4b1f-ab5f-869b14164bee",
+  "params":{
+    "id":"b0055822-184c-4b1f-ab5f-869b14164bee",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6298,
+  "end":6333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have another\n   uncle in Atlanta.",
+  "id":"e7db1522-3b4f-434a-aa16-dcb5591a1743",
+  "params":{
+    "id":"4726b0db-835a-41db-b64d-507f867249e7"
+  },
+  "name":"Many"
+}

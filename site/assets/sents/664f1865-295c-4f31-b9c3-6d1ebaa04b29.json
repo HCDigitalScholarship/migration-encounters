@@ -1,0 +1,13 @@
+{
+  "start":21577,
+  "end":21606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Wherever I went, he went.",
+  "id":"664f1865-295c-4f31-b9c3-6d1ebaa04b29",
+  "params":{
+    "id":"664f1865-295c-4f31-b9c3-6d1ebaa04b29",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

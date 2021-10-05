@@ -1,0 +1,13 @@
+{
+  "start":140,
+  "end":161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was born in Mexico.",
+  "id":"656f7bb2-552b-4877-980d-f5dcd04b403f",
+  "params":{
+    "id":"656f7bb2-552b-4877-980d-f5dcd04b403f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

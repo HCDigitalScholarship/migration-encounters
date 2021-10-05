@@ -1,0 +1,13 @@
+{
+  "start":22598,
+  "end":22642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to leave the\n hospital immediately.",
+  "id":"190072f2-e8fc-468e-81cb-3ad4b15c842f",
+  "params":{
+    "id":"190072f2-e8fc-468e-81cb-3ad4b15c842f",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

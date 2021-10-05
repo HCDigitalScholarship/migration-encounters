@@ -1,0 +1,12 @@
+{
+  "start":11870,
+  "end":11904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Police came and they\n arrested me.",
+  "id":"9e49f451-00d0-474e-b767-405a7326e8b0",
+  "params":{
+    "id":"d281eac0-4589-4538-abb3-789ad325bd89"
+  },
+  "name":"Billy"
+}

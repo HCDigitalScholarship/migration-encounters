@@ -1,0 +1,13 @@
+{
+  "start":31790,
+  "end":31833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know how things are over there now.",
+  "id":"cbc737c5-68cb-4cf3-a6a8-9f03c66960f6",
+  "params":{
+    "id":"cbc737c5-68cb-4cf3-a6a8-9f03c66960f6",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

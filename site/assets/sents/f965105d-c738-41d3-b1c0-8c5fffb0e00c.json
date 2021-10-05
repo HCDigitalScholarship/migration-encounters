@@ -1,0 +1,13 @@
+{
+  "start":3146,
+  "end":3213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Beto:\n \n \n     I've been to a lot of call centers, a lot.",
+  "id":"f965105d-c738-41d3-b1c0-8c5fffb0e00c",
+  "params":{
+    "id":"f965105d-c738-41d3-b1c0-8c5fffb0e00c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

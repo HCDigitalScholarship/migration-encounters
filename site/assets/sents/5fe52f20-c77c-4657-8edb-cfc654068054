@@ -1,0 +1,12 @@
+{
+  "start":9406,
+  "end":9540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I earned a scholarship to get into the University of Chicago,\n   but it was only for one semester and I couldn't pay the whole career.",
+  "id":"5fe52f20-c77c-4657-8edb-cfc654068054",
+  "params":{
+    "id":"78cb24ea-10cd-4e4b-8373-1382b9b5fa44"
+  },
+  "name":"Laura B"
+}

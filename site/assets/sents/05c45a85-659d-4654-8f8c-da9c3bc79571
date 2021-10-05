@@ -1,0 +1,12 @@
+{
+  "start":29185,
+  "end":29347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me a station, I'll probably go to the\n station and then from there, just meet me there because I'm not going to\n get lost and I don't really trust the areas.",
+  "id":"05c45a85-659d-4654-8f8c-da9c3bc79571",
+  "params":{
+    "id":"c00df402-c03e-43af-bc0c-fd6f30adb6ee"
+  },
+  "name":"Axel"
+}

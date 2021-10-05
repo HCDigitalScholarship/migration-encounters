@@ -1,0 +1,12 @@
+{
+  "start":8562,
+  "end":8591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was just normal.",
+  "id":"9b0a563a-c2a3-457c-8709-9e7cf98c5990",
+  "params":{
+    "id":"2f33a45b-0fa6-4620-a73b-b6004d0e9cf6"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26261,
+  "end":26275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not like here.",
+  "id":"de4eb21a-629f-4b13-85cb-a63f54cbc485",
+  "params":{
+    "id":"de4eb21a-629f-4b13-85cb-a63f54cbc485",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23573,
+  "end":23611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if that makes much sense.",
+  "id":"2c209e20-a534-457f-ad2d-9f9a2b3ffb9f",
+  "params":{
+    "id":"2e2997eb-b63f-4d6a-8893-58f4a88a13fe"
+  },
+  "name":"Luis B"
+}

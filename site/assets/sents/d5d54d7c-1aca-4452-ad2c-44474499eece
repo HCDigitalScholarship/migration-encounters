@@ -1,0 +1,12 @@
+{
+  "start":36084,
+  "end":36096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   know?",
+  "id":"d5d54d7c-1aca-4452-ad2c-44474499eece",
+  "params":{
+    "id":"7780204f-eeb0-4eea-96cd-56ead2cfb54a"
+  },
+  "name":"Ilse"
+}

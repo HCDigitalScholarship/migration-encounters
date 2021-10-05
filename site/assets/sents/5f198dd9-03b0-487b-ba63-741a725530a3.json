@@ -1,0 +1,13 @@
+{
+  "start":8960,
+  "end":9038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it's weird because when I'm 50 years old you can't keep calling\n me Billy.",
+  "id":"5f198dd9-03b0-487b-ba63-741a725530a3",
+  "params":{
+    "id":"5f198dd9-03b0-487b-ba63-741a725530a3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":22112,
+  "end":22139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not what registered.",
+  "id":"e9690644-d2ad-4fa7-8400-416170d5d1aa",
+  "params":{
+    "id":"81df3450-de64-4ae0-beee-9a085fc6af6e"
+  },
+  "name":"Luis B"
+}

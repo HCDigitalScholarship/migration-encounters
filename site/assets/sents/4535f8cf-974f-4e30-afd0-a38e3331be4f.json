@@ -1,0 +1,13 @@
+{
+  "start":14916,
+  "end":14946,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you said you were Mexican.",
+  "id":"4535f8cf-974f-4e30-afd0-a38e3331be4f",
+  "params":{
+    "id":"4535f8cf-974f-4e30-afd0-a38e3331be4f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":30191,
+  "end":30197,
+  "text":"u've been doing\n   something good for a while.\n \n \n   Anne: And that's what you're doing.\n \n \n   Hugo: Yes. I'm taking care of mine. I'm doing what I'm supposed to.\n \n \n   Anne: Has life been okay in Mexico in the last six months?\n \n \n   Hugo: Yeah, I mean it's okay, it's just you struggle way more. They don't\n   take care of anything here, like government wise. I don't want my baby to\n   be in a school",
+  "label":"GPE",
+  "id":"c55b68b8-5db2-498a-9251-5326385ec088",
+  "name":"Hugo"
+}

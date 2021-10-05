@@ -1,0 +1,13 @@
+{
+  "start":307,
+  "end":342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"to\n   go there and see what happens",
+  "id":"c64316f6-c65b-4f92-b6cd-bcf30cdd60fe",
+  "params":{
+    "id":"c64316f6-c65b-4f92-b6cd-bcf30cdd60fe",
+    "class":"anno"
+  },
+  "name":"Many"
+}

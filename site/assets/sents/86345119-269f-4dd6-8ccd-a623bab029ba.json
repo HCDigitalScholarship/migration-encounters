@@ -1,0 +1,13 @@
+{
+  "start":15080,
+  "end":15096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I'm Mexican.",
+  "id":"86345119-269f-4dd6-8ccd-a623bab029ba",
+  "params":{
+    "id":"86345119-269f-4dd6-8ccd-a623bab029ba",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

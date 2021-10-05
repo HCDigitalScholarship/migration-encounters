@@ -1,0 +1,13 @@
+{
+  "start":12428,
+  "end":12440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a few.",
+  "id":"96e025d4-8ed0-49c0-ade1-616f9a2de339",
+  "params":{
+    "id":"96e025d4-8ed0-49c0-ade1-616f9a2de339",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10396,
+  "end":10429,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have just one more\n   question.",
+  "id":"6185b1d7-f0e1-4c36-846e-d47220450271",
+  "params":{
+    "id":"a29a7239-4587-4d4b-a5e3-7f5125f73fbb"
+  },
+  "name":"Frank"
+}

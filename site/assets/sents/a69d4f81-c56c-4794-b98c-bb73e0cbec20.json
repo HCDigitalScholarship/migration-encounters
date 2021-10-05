@@ -1,0 +1,13 @@
+{
+  "start":15866,
+  "end":15888,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a\n     voucher.",
+  "id":"a69d4f81-c56c-4794-b98c-bb73e0cbec20",
+  "params":{
+    "id":"a69d4f81-c56c-4794-b98c-bb73e0cbec20",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14482,
+  "end":14512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that\n   like for you?",
+  "id":"27bf1f75-5178-48da-a121-b1a1af956185",
+  "params":{
+    "id":"5c0f6847-6836-44be-a2e7-6bc8e01f173f"
+  },
+  "name":"Laila"
+}

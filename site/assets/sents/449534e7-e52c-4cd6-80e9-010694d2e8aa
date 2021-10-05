@@ -1,0 +1,12 @@
+{
+  "start":8181,
+  "end":8200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was pretty nice.",
+  "id":"449534e7-e52c-4cd6-80e9-010694d2e8aa",
+  "params":{
+    "id":"006c0dd3-fd05-4fee-ad6d-d8fe22d43532"
+  },
+  "name":"Laura A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24358,
+  "end":24388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   going to know the truth.",
+  "id":"ccfe52f5-7e7b-4bd7-a5ea-01885c3fa420",
+  "params":{
+    "id":"55f49f86-cd15-48fd-81b6-9dc1a56b7888"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1196,
+  "end":1228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You couldn't speak at the table.",
+  "id":"dd41422d-4147-4be6-a1f2-70df6c57e207",
+  "params":{
+    "id":"acd37309-2ff9-4409-bbf5-10b9c2318910"
+  },
+  "name":"Ruben"
+}

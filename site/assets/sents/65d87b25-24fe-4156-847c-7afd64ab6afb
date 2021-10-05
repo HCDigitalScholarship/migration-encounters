@@ -1,0 +1,12 @@
+{
+  "start":2176,
+  "end":2255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went to the\n   car, they put a bandage in our eyes so we don't see the road.",
+  "id":"65d87b25-24fe-4156-847c-7afd64ab6afb",
+  "params":{
+    "id":"4078bc7b-e9ec-45fe-b3bd-d9f3290fbb5d"
+  },
+  "name":"Laura B"
+}

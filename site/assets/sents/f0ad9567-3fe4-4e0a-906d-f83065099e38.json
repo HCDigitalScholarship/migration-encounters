@@ -1,0 +1,13 @@
+{
+  "start":5366,
+  "end":5392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That wasn't hard actually.",
+  "id":"f0ad9567-3fe4-4e0a-906d-f83065099e38",
+  "params":{
+    "id":"f0ad9567-3fe4-4e0a-906d-f83065099e38",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

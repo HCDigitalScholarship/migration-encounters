@@ -1,0 +1,13 @@
+{
+  "start":25296,
+  "end":25337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you want to do\n   with your life?",
+  "id":"a2dff1b0-355d-4079-90fb-7d94478d2dc3",
+  "params":{
+    "id":"a2dff1b0-355d-4079-90fb-7d94478d2dc3",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

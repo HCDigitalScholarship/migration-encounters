@@ -1,0 +1,12 @@
+{
+  "start":17008,
+  "end":17079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"About a girl who used\n   to be a dancer and then her leg got amputated.",
+  "id":"bc2c99a1-42ef-41c4-97e8-cbe38d871cb4",
+  "params":{
+    "id":"eb7ad894-15cc-49cd-8679-3b1eae7eeb0a"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":852,
+  "end":945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n mainly it was to give us a better life, because things are bad around that\n little town.",
+  "id":"22eca7be-cef5-4e00-890d-fcf7a88291b0",
+  "params":{
+    "id":"22eca7be-cef5-4e00-890d-fcf7a88291b0",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

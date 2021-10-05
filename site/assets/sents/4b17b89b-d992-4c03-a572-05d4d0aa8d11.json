@@ -1,0 +1,12 @@
+{
+  "start":37958,
+  "end":37977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"some\n   other crime",
+  "id":"4b17b89b-d992-4c03-a572-05d4d0aa8d11",
+  "params":{
+    "id":"75a150c4-6375-4676-a602-ee6a595db79d"
+  },
+  "name":"Cris"
+}

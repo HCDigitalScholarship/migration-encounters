@@ -1,0 +1,12 @@
+{
+  "start":30540,
+  "end":30559,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're about to eat.",
+  "id":"f8e7aa8a-97d4-4911-8000-e4984da32e72",
+  "params":{
+    "id":"dfa0173f-b392-453b-8f50-469436eb5e79"
+  },
+  "name":"Daniel"
+}

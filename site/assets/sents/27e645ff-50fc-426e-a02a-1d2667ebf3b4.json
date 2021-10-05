@@ -1,0 +1,13 @@
+{
+  "start":32571,
+  "end":32584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can't do it.\u201d",
+  "id":"27e645ff-50fc-426e-a02a-1d2667ebf3b4",
+  "params":{
+    "id":"27e645ff-50fc-426e-a02a-1d2667ebf3b4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

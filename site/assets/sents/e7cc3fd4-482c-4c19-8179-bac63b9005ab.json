@@ -1,0 +1,13 @@
+{
+  "start":31539,
+  "end":31589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfCree usted que vivir en Estados Unidos le cambi\u00f3?",
+  "id":"e7cc3fd4-482c-4c19-8179-bac63b9005ab",
+  "params":{
+    "id":"e7cc3fd4-482c-4c19-8179-bac63b9005ab",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

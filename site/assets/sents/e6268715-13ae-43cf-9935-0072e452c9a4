@@ -1,0 +1,12 @@
+{
+  "start":20281,
+  "end":20315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you hope to return to the U.S.?",
+  "id":"e6268715-13ae-43cf-9935-0072e452c9a4",
+  "params":{
+    "id":"d047f392-337d-4c42-8ff8-7a368b591023"
+  },
+  "name":"Zayuri"
+}

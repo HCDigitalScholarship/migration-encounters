@@ -1,0 +1,13 @@
+{
+  "start":41,
+  "end":87,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it like to grow up without\n   papers?",
+  "id":"39e24c0a-82e6-4e65-a12f-7cb58b0f8d63",
+  "params":{
+    "id":"39e24c0a-82e6-4e65-a12f-7cb58b0f8d63",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

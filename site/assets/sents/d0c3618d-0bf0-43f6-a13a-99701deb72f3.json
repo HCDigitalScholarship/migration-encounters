@@ -1,0 +1,13 @@
+{
+  "start":19962,
+  "end":20022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, my dad, he\n started getting involved with another woman.",
+  "id":"d0c3618d-0bf0-43f6-a13a-99701deb72f3",
+  "params":{
+    "id":"d0c3618d-0bf0-43f6-a13a-99701deb72f3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

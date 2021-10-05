@@ -1,0 +1,13 @@
+{
+  "start":340,
+  "end":368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"No it's Miguel.\"",
+  "id":"6f686426-198b-4e90-a341-2883fba0e836",
+  "params":{
+    "id":"6f686426-198b-4e90-a341-2883fba0e836",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

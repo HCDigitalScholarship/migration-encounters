@@ -1,0 +1,12 @@
+{
+  "start":12017,
+  "end":12066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if he is Republican,\n   or Democrat.",
+  "id":"e779e55a-5dda-45f9-a4ac-2131c58dc12f",
+  "params":{
+    "id":"7e7d0c09-c866-4175-853b-df7de5c8cd35"
+  },
+  "name":"Erik"
+}

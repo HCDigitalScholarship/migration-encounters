@@ -1,0 +1,12 @@
+{
+  "start":12504,
+  "end":12527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a license, I did.",
+  "id":"92c70a06-75bb-4ea2-9c61-706b6a25b31c",
+  "params":{
+    "id":"0b570b2d-e808-41a3-8523-405dc5da8470"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":16127,
+  "end":16157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   That was my uncle's house.",
+  "id":"e6d55be4-260b-49dd-83ce-1cc0e7c589b5",
+  "params":{
+    "id":"2afab242-ebf8-4807-9b88-87b664a64c7d"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":41490,
+  "end":41536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"How could people do you\n   like...\"",
+  "id":"d42f1709-9f32-476b-a81b-4708dc5a9e28",
+  "params":{
+    "id":"d42f1709-9f32-476b-a81b-4708dc5a9e28",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

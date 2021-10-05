@@ -1,0 +1,12 @@
+{
+  "start":12128,
+  "end":12192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I can't see her because I don't have the money to bring her.",
+  "id":"ce389be5-9ae5-42eb-8f61-3190eca73abd",
+  "params":{
+    "id":"33e41fd3-c3ee-4cbd-98fb-d5da980d2fdf"
+  },
+  "name":"Rocio"
+}

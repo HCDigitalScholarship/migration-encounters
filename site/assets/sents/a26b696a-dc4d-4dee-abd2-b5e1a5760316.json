@@ -1,0 +1,12 @@
+{
+  "start":7880,
+  "end":7902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you ask about him?",
+  "id":"a26b696a-dc4d-4dee-abd2-b5e1a5760316",
+  "params":{
+    "id":"aa545b0d-118c-4c25-9933-acee1bc6a5f7"
+  },
+  "name":"Joana"
+}

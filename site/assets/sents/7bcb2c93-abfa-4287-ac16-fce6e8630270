@@ -1,0 +1,12 @@
+{
+  "start":1181,
+  "end":1206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were born in Veracuz?",
+  "id":"7bcb2c93-abfa-4287-ac16-fce6e8630270",
+  "params":{
+    "id":"f67ba43c-934f-4c97-8869-86ca2fa25e70"
+  },
+  "name":"Joana"
+}

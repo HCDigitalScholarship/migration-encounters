@@ -1,0 +1,13 @@
+{
+  "start":27496,
+  "end":27593,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The dollar over here is big money, but over there,\n   I've seen everything is cheaper over there.",
+  "id":"232d82a7-30cb-4056-9625-e8afa163941c",
+  "params":{
+    "id":"232d82a7-30cb-4056-9625-e8afa163941c",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

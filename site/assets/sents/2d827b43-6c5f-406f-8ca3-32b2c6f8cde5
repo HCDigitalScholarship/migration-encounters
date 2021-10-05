@@ -1,0 +1,12 @@
+{
+  "start":21219,
+  "end":21243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't do that here?",
+  "id":"2d827b43-6c5f-406f-8ca3-32b2c6f8cde5",
+  "params":{
+    "id":"de4fc63d-8291-440d-b7a4-bfa800eff9de"
+  },
+  "name":"Josue"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6432,
+  "end":6472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah there was a lot of hunger in there.",
+  "id":"c9636b0d-3665-499f-a47d-28ec43bdd3e4",
+  "params":{
+    "id":"c9636b0d-3665-499f-a47d-28ec43bdd3e4",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14302,
+  "end":14317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was Mexican.",
+  "id":"6419fed0-75ce-4486-93a6-be47866541a8",
+  "params":{
+    "id":"6419fed0-75ce-4486-93a6-be47866541a8",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

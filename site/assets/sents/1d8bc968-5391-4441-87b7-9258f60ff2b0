@@ -1,0 +1,12 @@
+{
+  "start":1968,
+  "end":1995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was renting an apartment.",
+  "id":"1d8bc968-5391-4441-87b7-9258f60ff2b0",
+  "params":{
+    "id":"671bb1ea-ce2a-45da-97ac-eadb734a1e35"
+  },
+  "name":"Ivan"
+}

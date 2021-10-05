@@ -1,0 +1,13 @@
+{
+  "start":30263,
+  "end":30295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As I mentioned, I feel American.",
+  "id":"65ff53f8-84c4-4d21-8918-453a7fc7b417",
+  "params":{
+    "id":"65ff53f8-84c4-4d21-8918-453a7fc7b417",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

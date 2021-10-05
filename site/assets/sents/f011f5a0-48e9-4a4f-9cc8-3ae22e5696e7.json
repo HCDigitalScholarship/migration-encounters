@@ -1,0 +1,13 @@
+{
+  "start":5301,
+  "end":5363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We only had\nproblems with the people we didn't get along with.",
+  "id":"f011f5a0-48e9-4a4f-9cc8-3ae22e5696e7",
+  "params":{
+    "id":"f011f5a0-48e9-4a4f-9cc8-3ae22e5696e7",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

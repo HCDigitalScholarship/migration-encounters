@@ -1,0 +1,13 @@
+{
+  "start":7782,
+  "end":7813,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember not having anything.",
+  "id":"f3c92ecf-a6a3-49cf-9985-d87a06ebf9d9",
+  "params":{
+    "id":"f3c92ecf-a6a3-49cf-9985-d87a06ebf9d9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

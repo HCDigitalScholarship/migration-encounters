@@ -1,0 +1,12 @@
+{
+  "start":31337,
+  "end":31373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I stopped eating all that fast food.",
+  "id":"b586ef4a-57c8-4ff1-a91f-215d27f62df7",
+  "params":{
+    "id":"106f8833-a21e-4e28-8ee3-b8665ce5d5a1"
+  },
+  "name":"Axel"
+}

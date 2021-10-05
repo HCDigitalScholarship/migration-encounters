@@ -1,0 +1,13 @@
+{
+  "start":26706,
+  "end":26805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When he looked at me with those surprised eyes\n     I was like, \"Oh, I think I did something wrong.",
+  "id":"0c6b2781-4288-467b-bbe0-2dcffcfa59bd",
+  "params":{
+    "id":"0c6b2781-4288-467b-bbe0-2dcffcfa59bd",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

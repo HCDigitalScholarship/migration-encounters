@@ -1,0 +1,13 @@
+{
+  "start":8612,
+  "end":8627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   happy.",
+  "id":"bc67831f-c0b5-4a84-a44a-7822f9292b97",
+  "params":{
+    "id":"bc67831f-c0b5-4a84-a44a-7822f9292b97",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

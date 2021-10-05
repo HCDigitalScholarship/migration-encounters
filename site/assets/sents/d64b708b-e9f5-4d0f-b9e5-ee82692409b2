@@ -1,0 +1,12 @@
+{
+  "start":5179,
+  "end":5283,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, at one point everybody\u2014when I said everybody, I'm talking about\n   my mom, my dad, and my sisters.",
+  "id":"d64b708b-e9f5-4d0f-b9e5-ee82692409b2",
+  "params":{
+    "id":"c29328d0-50c1-41fe-9371-40d681050e69"
+  },
+  "name":"Daniel"
+}

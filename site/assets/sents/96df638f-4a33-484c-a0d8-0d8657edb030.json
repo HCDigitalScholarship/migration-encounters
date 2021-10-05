@@ -1,0 +1,13 @@
+{
+  "start":21554,
+  "end":21599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he just got settled last week in Orlando.",
+  "id":"96df638f-4a33-484c-a0d8-0d8657edb030",
+  "params":{
+    "id":"96df638f-4a33-484c-a0d8-0d8657edb030",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

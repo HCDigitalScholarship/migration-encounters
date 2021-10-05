@@ -1,0 +1,12 @@
+{
+  "start":37949,
+  "end":38009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you smoke, it makes you feel like nothing is important.",
+  "id":"bb4379a4-474c-48fa-9c26-59c31154633c",
+  "params":{
+    "id":"c6250006-5581-40cb-ae5c-bd4cacbfbb16"
+  },
+  "name":"Mike"
+}

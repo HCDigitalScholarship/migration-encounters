@@ -1,0 +1,12 @@
+{
+  "start":8073,
+  "end":8097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We would do dumb things.",
+  "id":"58846bd0-d559-4fea-bddf-c788455d9c67",
+  "params":{
+    "id":"49c1c548-ecfd-4595-b055-dc18b76a43fe"
+  },
+  "name":"Hugo"
+}

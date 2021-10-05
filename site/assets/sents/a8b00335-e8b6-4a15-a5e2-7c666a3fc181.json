@@ -1,0 +1,13 @@
+{
+  "start":8216,
+  "end":8320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I remember this, when I start\n   talking about this, my mind just gets crazy, it starts going back.",
+  "id":"a8b00335-e8b6-4a15-a5e2-7c666a3fc181",
+  "params":{
+    "id":"a8b00335-e8b6-4a15-a5e2-7c666a3fc181",
+    "class":"anno"
+  },
+  "name":"Many"
+}

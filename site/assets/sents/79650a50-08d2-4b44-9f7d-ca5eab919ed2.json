@@ -1,0 +1,13 @@
+{
+  "start":26362,
+  "end":26377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's amazing.",
+  "id":"79650a50-08d2-4b44-9f7d-ca5eab919ed2",
+  "params":{
+    "id":"79650a50-08d2-4b44-9f7d-ca5eab919ed2",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

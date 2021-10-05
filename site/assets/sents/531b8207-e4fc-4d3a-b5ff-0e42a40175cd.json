@@ -1,0 +1,13 @@
+{
+  "start":6328,
+  "end":6383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They almost kind of get\n mad at you for getting robbed.",
+  "id":"531b8207-e4fc-4d3a-b5ff-0e42a40175cd",
+  "params":{
+    "id":"531b8207-e4fc-4d3a-b5ff-0e42a40175cd",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

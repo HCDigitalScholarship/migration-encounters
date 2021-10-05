@@ -1,0 +1,13 @@
+{
+  "start":3407,
+  "end":3443,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a\n   rough day, that one day.",
+  "id":"6405b13d-e143-43b4-acd3-a3d384df40f8",
+  "params":{
+    "id":"6405b13d-e143-43b4-acd3-a3d384df40f8",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

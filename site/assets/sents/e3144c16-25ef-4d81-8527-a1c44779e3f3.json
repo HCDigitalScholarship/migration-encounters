@@ -1,0 +1,13 @@
+{
+  "start":18256,
+  "end":18288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't have friends at school.",
+  "id":"e3144c16-25ef-4d81-8527-a1c44779e3f3",
+  "params":{
+    "id":"e3144c16-25ef-4d81-8527-a1c44779e3f3",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

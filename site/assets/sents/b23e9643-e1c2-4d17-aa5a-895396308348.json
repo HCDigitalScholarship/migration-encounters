@@ -1,0 +1,13 @@
+{
+  "start":1187,
+  "end":1208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   like him.",
+  "id":"b23e9643-e1c2-4d17-aa5a-895396308348",
+  "params":{
+    "id":"b23e9643-e1c2-4d17-aa5a-895396308348",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

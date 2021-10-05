@@ -1,0 +1,13 @@
+{
+  "start":23587,
+  "end":23679,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes it would be like, \"Wow, your people don't have a lot of\n money, blah, blah, blah.\"",
+  "id":"30a6d2d4-955f-45b9-a52b-c798168e3a60",
+  "params":{
+    "id":"30a6d2d4-955f-45b9-a52b-c798168e3a60",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

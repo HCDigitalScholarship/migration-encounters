@@ -1,0 +1,12 @@
+{
+  "start":24318,
+  "end":24347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you gone back to school?",
+  "id":"5dfa41ba-3698-4003-87cd-b4bfe09cff36",
+  "params":{
+    "id":"9bf14083-37dd-4861-a1f8-0f4f3ce2b54d"
+  },
+  "name":"Luis B"
+}

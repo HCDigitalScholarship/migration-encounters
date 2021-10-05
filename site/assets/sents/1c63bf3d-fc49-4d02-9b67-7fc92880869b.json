@@ -1,0 +1,13 @@
+{
+  "start":57107,
+  "end":57125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hopefully one day.",
+  "id":"1c63bf3d-fc49-4d02-9b67-7fc92880869b",
+  "params":{
+    "id":"1c63bf3d-fc49-4d02-9b67-7fc92880869b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

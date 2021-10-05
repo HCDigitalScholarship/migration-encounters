@@ -1,0 +1,13 @@
+{
+  "start":22456,
+  "end":22505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the end of the day, I'm really not even yours.",
+  "id":"c54f8e78-4eee-48c8-bd42-e4167c1fd528",
+  "params":{
+    "id":"c54f8e78-4eee-48c8-bd42-e4167c1fd528",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21962,
+  "end":22001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you speak a little more about that?",
+  "id":"0c7b89a8-8cf4-443e-8016-c3dd2912d7a6",
+  "params":{
+    "id":"0c7b89a8-8cf4-443e-8016-c3dd2912d7a6",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

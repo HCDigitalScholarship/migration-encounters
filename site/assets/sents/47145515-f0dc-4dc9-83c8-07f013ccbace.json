@@ -1,0 +1,13 @@
+{
+  "start":5255,
+  "end":5298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it just came at the\n perfect time, man.",
+  "id":"47145515-f0dc-4dc9-83c8-07f013ccbace",
+  "params":{
+    "id":"47145515-f0dc-4dc9-83c8-07f013ccbace",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1280,
+  "end":1305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   dad pulled her out.",
+  "id":"46a153b3-fbcf-4ec7-b6a3-463e13876620",
+  "params":{
+    "id":"46a153b3-fbcf-4ec7-b6a3-463e13876620",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

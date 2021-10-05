@@ -1,0 +1,13 @@
+{
+  "start":17781,
+  "end":17861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was this one book by Clive Owen, I believe, something about\n   the demons.",
+  "id":"fe7b1839-cdc0-4abe-b20c-1fba90b8db6f",
+  "params":{
+    "id":"fe7b1839-cdc0-4abe-b20c-1fba90b8db6f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

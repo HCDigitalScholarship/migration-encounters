@@ -1,0 +1,13 @@
+{
+  "start":15916,
+  "end":15961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I've learned\n   to keep that balance.",
+  "id":"743d70b3-fc2a-4d2d-960c-f98fd2355b03",
+  "params":{
+    "id":"743d70b3-fc2a-4d2d-960c-f98fd2355b03",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11352,
+  "end":11386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like somebody is crying wolf.",
+  "id":"fe6c3f97-03c7-44e0-8ce6-c6b059d4ff11",
+  "params":{
+    "id":"0345c953-d8ce-445d-8d02-2cc5ce8aa127"
+  },
+  "name":"Beto"
+}

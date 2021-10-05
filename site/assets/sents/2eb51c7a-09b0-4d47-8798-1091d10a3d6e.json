@@ -1,0 +1,12 @@
+{
+  "start":42066,
+  "end":42139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So yeah, now I think a lot of\n people realize that it wasn't a good idea.",
+  "id":"2eb51c7a-09b0-4d47-8798-1091d10a3d6e",
+  "params":{
+    "id":"1cf14f88-5a91-4aad-ac6a-e5735d3dc205"
+  },
+  "name":"Billy"
+}

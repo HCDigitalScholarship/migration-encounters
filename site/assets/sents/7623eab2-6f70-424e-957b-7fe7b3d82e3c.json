@@ -1,0 +1,13 @@
+{
+  "start":2220,
+  "end":2237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, yes it was.",
+  "id":"7623eab2-6f70-424e-957b-7fe7b3d82e3c",
+  "params":{
+    "id":"7623eab2-6f70-424e-957b-7fe7b3d82e3c",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17124,
+  "end":17184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d I didn't even know I lost my wallet, and they returned it.",
+  "id":"2b7a3f29-158e-4f84-930c-dc9bff199671",
+  "params":{
+    "id":"2b7a3f29-158e-4f84-930c-dc9bff199671",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

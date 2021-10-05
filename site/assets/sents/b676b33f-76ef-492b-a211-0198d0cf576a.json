@@ -1,0 +1,13 @@
+{
+  "start":3262,
+  "end":3360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, the first time was in Phoenix, Arizona, and then the second\n   time was in Atlanta, Georgia.",
+  "id":"b676b33f-76ef-492b-a211-0198d0cf576a",
+  "params":{
+    "id":"b676b33f-76ef-492b-a211-0198d0cf576a",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

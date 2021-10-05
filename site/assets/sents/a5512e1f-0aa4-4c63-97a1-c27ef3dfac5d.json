@@ -1,0 +1,13 @@
+{
+  "start":19554,
+  "end":19644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something that's missing here when you go in, the way they treat\n     you, it's beautiful.",
+  "id":"a5512e1f-0aa4-4c63-97a1-c27ef3dfac5d",
+  "params":{
+    "id":"a5512e1f-0aa4-4c63-97a1-c27ef3dfac5d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

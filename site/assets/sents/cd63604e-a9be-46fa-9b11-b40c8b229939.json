@@ -1,0 +1,13 @@
+{
+  "start":10243,
+  "end":10286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I said, \"It's just out of the question.",
+  "id":"cd63604e-a9be-46fa-9b11-b40c8b229939",
+  "params":{
+    "id":"cd63604e-a9be-46fa-9b11-b40c8b229939",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

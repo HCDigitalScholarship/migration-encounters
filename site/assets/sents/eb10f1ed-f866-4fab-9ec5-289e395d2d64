@@ -1,0 +1,12 @@
+{
+  "start":55832,
+  "end":55942,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know a lot of families that they\n   have to go through the most, but they still do it, because they have to.",
+  "id":"eb10f1ed-f866-4fab-9ec5-289e395d2d64",
+  "params":{
+    "id":"af673f46-04dd-454a-bab9-e95920880beb"
+  },
+  "name":"Mike"
+}

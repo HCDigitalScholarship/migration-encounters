@@ -1,0 +1,13 @@
+{
+  "start":35101,
+  "end":35125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everywhere in the world.",
+  "id":"6ee15424-374e-477c-898a-beeb5d05dacf",
+  "params":{
+    "id":"6ee15424-374e-477c-898a-beeb5d05dacf",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

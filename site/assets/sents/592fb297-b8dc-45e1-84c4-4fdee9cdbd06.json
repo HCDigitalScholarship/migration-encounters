@@ -1,0 +1,13 @@
+{
+  "start":35929,
+  "end":35955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You think with your heart.",
+  "id":"592fb297-b8dc-45e1-84c4-4fdee9cdbd06",
+  "params":{
+    "id":"592fb297-b8dc-45e1-84c4-4fdee9cdbd06",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

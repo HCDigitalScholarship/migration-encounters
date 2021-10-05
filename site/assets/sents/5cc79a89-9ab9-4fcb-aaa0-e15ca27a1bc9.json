@@ -1,0 +1,13 @@
+{
+  "start":48516,
+  "end":48570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pero ella sale con una\n     amiguita y pasa todo esto.",
+  "id":"5cc79a89-9ab9-4fcb-aaa0-e15ca27a1bc9",
+  "params":{
+    "id":"5cc79a89-9ab9-4fcb-aaa0-e15ca27a1bc9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

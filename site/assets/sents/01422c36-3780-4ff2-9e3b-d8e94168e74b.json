@@ -1,0 +1,13 @@
+{
+  "start":12212,
+  "end":12250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave\nme bail, which wasn't a lot.",
+  "id":"01422c36-3780-4ff2-9e3b-d8e94168e74b",
+  "params":{
+    "id":"01422c36-3780-4ff2-9e3b-d8e94168e74b",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

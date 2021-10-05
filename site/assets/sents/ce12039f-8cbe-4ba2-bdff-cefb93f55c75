@@ -1,0 +1,12 @@
+{
+  "start":21689,
+  "end":21705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She has papers.\"",
+  "id":"ce12039f-8cbe-4ba2-bdff-cefb93f55c75",
+  "params":{
+    "id":"1e4d58b2-fc72-48e1-b378-8438a869bd29"
+  },
+  "name":"Hugo"
+}

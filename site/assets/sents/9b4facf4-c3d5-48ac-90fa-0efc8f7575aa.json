@@ -1,0 +1,13 @@
+{
+  "start":55998,
+  "end":56040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I didn't understand\n   that until now.",
+  "id":"9b4facf4-c3d5-48ac-90fa-0efc8f7575aa",
+  "params":{
+    "id":"9b4facf4-c3d5-48ac-90fa-0efc8f7575aa",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

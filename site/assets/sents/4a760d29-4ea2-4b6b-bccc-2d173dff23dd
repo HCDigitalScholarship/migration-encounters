@@ -1,0 +1,12 @@
+{
+  "start":26672,
+  "end":26705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     How'd you get that result?\"",
+  "id":"4a760d29-4ea2-4b6b-bccc-2d173dff23dd",
+  "params":{
+    "id":"2bde6d6a-641a-4661-ad9b-0ad9e0f85aed"
+  },
+  "name":"Beto"
+}

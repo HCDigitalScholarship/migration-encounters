@@ -1,0 +1,12 @@
+{
+  "start":21698,
+  "end":21730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is it you miss from the US?",
+  "id":"952f59c7-6cec-467f-be59-923a80913a03",
+  "params":{
+    "id":"cebb0b94-ffc1-4c05-85fa-60457f5f786b"
+  },
+  "name":"Edgar"
+}

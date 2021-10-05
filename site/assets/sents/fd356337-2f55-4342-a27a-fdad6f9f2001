@@ -1,0 +1,12 @@
+{
+  "start":16026,
+  "end":16050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He doesn't like Spanish.",
+  "id":"fd356337-2f55-4342-a27a-fdad6f9f2001",
+  "params":{
+    "id":"bc7f788f-01cd-4976-8ea6-c25b099c294b"
+  },
+  "name":"Diana"
+}

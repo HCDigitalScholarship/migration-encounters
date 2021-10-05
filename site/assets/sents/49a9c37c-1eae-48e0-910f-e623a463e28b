@@ -1,0 +1,12 @@
+{
+  "start":2401,
+  "end":2471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't like going to school because I didn't understand anything.",
+  "id":"49a9c37c-1eae-48e0-910f-e623a463e28b",
+  "params":{
+    "id":"d1c3d107-a11e-41d4-9231-b6a6567a3a44"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":386,
+  "end":392,
+  "text":"gio: What is your city of birth?\n \n \n   Josue: Veracruz.\n \n \n   Sergio: Veracruz. Did you go to school in your birth country before you\n   left?\n \n \n   Josue: I did, yeah. Up until secundaria.\n \n \n   Sergio: That'd be like ninth grade, 10th grade?\n \n \n   Josue: Like eighth grade.\n \n \n   Sergio: Eighth grade?\n \n \n   Josue: Yeah, \u2018cause I started ninth in the States.\n \n \n   Sergio: Okay. Did you work in y",
+  "label":"PERSON",
+  "id":"1d9ebce4-f164-499b-a852-ea89dbbdd5ca",
+  "name":"Josue"
+}

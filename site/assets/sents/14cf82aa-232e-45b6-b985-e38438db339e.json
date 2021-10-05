@@ -1,0 +1,13 @@
+{
+  "start":20777,
+  "end":20798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me how you felt.",
+  "id":"14cf82aa-232e-45b6-b985-e38438db339e",
+  "params":{
+    "id":"14cf82aa-232e-45b6-b985-e38438db339e",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

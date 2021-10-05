@@ -1,0 +1,13 @@
+{
+  "start":17427,
+  "end":17519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tim: What American football players do you like?\n \n \n   Jeimmy: Honestly, I don't know them.",
+  "id":"a5367527-3df5-4e97-8b1d-f0331d0ac023",
+  "params":{
+    "id":"a5367527-3df5-4e97-8b1d-f0331d0ac023",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

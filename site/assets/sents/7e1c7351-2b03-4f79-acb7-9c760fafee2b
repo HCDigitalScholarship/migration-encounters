@@ -1,0 +1,12 @@
+{
+  "start":72699,
+  "end":72727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm good\n   with 500 pesos.\"",
+  "id":"7e1c7351-2b03-4f79-acb7-9c760fafee2b",
+  "params":{
+    "id":"431a55e7-9699-4bd1-801f-29ef34805510"
+  },
+  "name":"Daniel B"
+}

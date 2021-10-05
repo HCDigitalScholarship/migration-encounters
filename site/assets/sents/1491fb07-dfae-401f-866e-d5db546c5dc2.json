@@ -1,0 +1,13 @@
+{
+  "start":69470,
+  "end":69492,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That stuff hurts, man.",
+  "id":"1491fb07-dfae-401f-866e-d5db546c5dc2",
+  "params":{
+    "id":"1491fb07-dfae-401f-866e-d5db546c5dc2",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

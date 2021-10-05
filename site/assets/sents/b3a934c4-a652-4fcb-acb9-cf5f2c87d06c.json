@@ -1,0 +1,13 @@
+{
+  "start":22656,
+  "end":22731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of them, it was their\n   parents got deported so they have to follow.",
+  "id":"b3a934c4-a652-4fcb-acb9-cf5f2c87d06c",
+  "params":{
+    "id":"b3a934c4-a652-4fcb-acb9-cf5f2c87d06c",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

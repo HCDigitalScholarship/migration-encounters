@@ -1,0 +1,13 @@
+{
+  "start":52084,
+  "end":52093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel...",
+  "id":"57f5066e-1210-4f7a-8a51-e24886acfa0f",
+  "params":{
+    "id":"57f5066e-1210-4f7a-8a51-e24886acfa0f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

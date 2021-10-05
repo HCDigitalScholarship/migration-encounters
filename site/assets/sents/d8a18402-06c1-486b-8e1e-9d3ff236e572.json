@@ -1,0 +1,13 @@
+{
+  "start":986,
+  "end":1021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, they separated me and my mom.",
+  "id":"d8a18402-06c1-486b-8e1e-9d3ff236e572",
+  "params":{
+    "id":"d8a18402-06c1-486b-8e1e-9d3ff236e572",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

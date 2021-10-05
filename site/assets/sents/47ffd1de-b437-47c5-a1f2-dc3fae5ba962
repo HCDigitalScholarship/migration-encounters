@@ -1,0 +1,12 @@
+{
+  "start":14236,
+  "end":14329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I went to court, I\n   saw that they were like, \"Oh, I see that you got deported before.\"",
+  "id":"47ffd1de-b437-47c5-a1f2-dc3fae5ba962",
+  "params":{
+    "id":"5abc8d0f-7575-4a49-9723-7bdd3ed32812"
+  },
+  "name":"Miguel B"
+}

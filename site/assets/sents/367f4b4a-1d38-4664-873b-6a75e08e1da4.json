@@ -1,0 +1,13 @@
+{
+  "start":35111,
+  "end":35195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I took that really into heart and said,\n   \u201cI have the name of an Aztec emperor.",
+  "id":"367f4b4a-1d38-4664-873b-6a75e08e1da4",
+  "params":{
+    "id":"367f4b4a-1d38-4664-873b-6a75e08e1da4",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20591,
+  "end":20618,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a very limited market.",
+  "id":"d63642a0-3049-4dd8-b567-00498982ac8a",
+  "params":{
+    "id":"d63642a0-3049-4dd8-b567-00498982ac8a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":858,
+  "end":896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Until what grade did you go to school?",
+  "id":"5dd84a08-b239-442c-9e78-651db88d2249",
+  "params":{
+    "id":"62d9e1ef-8e24-4072-b207-8b9be7180fb8"
+  },
+  "name":"Ivan"
+}

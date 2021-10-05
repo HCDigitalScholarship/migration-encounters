@@ -1,0 +1,13 @@
+{
+  "start":23171,
+  "end":23191,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was always there.",
+  "id":"8af9d4be-a1fe-4340-85d3-da56d7f22c7c",
+  "params":{
+    "id":"8af9d4be-a1fe-4340-85d3-da56d7f22c7c",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

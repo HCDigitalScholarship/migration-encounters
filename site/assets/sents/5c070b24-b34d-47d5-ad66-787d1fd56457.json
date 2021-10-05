@@ -1,0 +1,13 @@
+{
+  "start":12811,
+  "end":12868,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But one day, we just decided we're going\n   to come back.",
+  "id":"5c070b24-b34d-47d5-ad66-787d1fd56457",
+  "params":{
+    "id":"5c070b24-b34d-47d5-ad66-787d1fd56457",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

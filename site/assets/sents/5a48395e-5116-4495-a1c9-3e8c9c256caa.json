@@ -1,0 +1,13 @@
+{
+  "start":1898,
+  "end":1919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We don't say illegal.",
+  "id":"5a48395e-5116-4495-a1c9-3e8c9c256caa",
+  "params":{
+    "id":"5a48395e-5116-4495-a1c9-3e8c9c256caa",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

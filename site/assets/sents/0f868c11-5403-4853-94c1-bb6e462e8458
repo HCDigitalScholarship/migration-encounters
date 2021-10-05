@@ -1,0 +1,12 @@
+{
+  "start":19384,
+  "end":19427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: \u00bfA su esposo?\n \n <br/>\n \n     Maria:",
+  "id":"0f868c11-5403-4853-94c1-bb6e462e8458",
+  "params":{
+    "id":"109a1a7b-3795-44db-8197-a72b2410c5c9"
+  },
+  "name":"Maria"
+}

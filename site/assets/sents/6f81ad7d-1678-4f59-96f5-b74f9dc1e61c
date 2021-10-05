@@ -1,0 +1,12 @@
+{
+  "start":20512,
+  "end":20539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was most of my dreams.",
+  "id":"6f81ad7d-1678-4f59-96f5-b74f9dc1e61c",
+  "params":{
+    "id":"db282c15-9942-4d8d-8c1c-0ea4edfeb5f7"
+  },
+  "name":"Yair"
+}

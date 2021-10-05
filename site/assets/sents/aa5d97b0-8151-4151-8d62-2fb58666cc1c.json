@@ -1,0 +1,13 @@
+{
+  "start":7117,
+  "end":7176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was working, didn't think I was\n   going to get deported.",
+  "id":"aa5d97b0-8151-4151-8d62-2fb58666cc1c",
+  "params":{
+    "id":"aa5d97b0-8151-4151-8d62-2fb58666cc1c",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

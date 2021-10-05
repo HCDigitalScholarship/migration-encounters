@@ -1,0 +1,12 @@
+{
+  "start":1447,
+  "end":1487,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What [inaudible\n   00:01:20] did you do?",
+  "id":"d46c61a3-c3d4-4205-b97f-7dcd6ee00119",
+  "params":{
+    "id":"a327793d-852f-4591-ad51-f6ecf0f755c4"
+  },
+  "name":"Kevin"
+}

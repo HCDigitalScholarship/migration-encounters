@@ -1,0 +1,13 @@
+{
+  "start":65255,
+  "end":65267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wish that.",
+  "id":"6d137f3d-8694-4acb-9947-64b3bc373d1d",
+  "params":{
+    "id":"6d137f3d-8694-4acb-9947-64b3bc373d1d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

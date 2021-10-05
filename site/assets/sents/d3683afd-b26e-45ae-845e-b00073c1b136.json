@@ -1,0 +1,13 @@
+{
+  "start":5953,
+  "end":5966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was scared.",
+  "id":"d3683afd-b26e-45ae-845e-b00073c1b136",
+  "params":{
+    "id":"d3683afd-b26e-45ae-845e-b00073c1b136",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

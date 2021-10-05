@@ -1,0 +1,12 @@
+{
+  "start":34011,
+  "end":34030,
+  "label":"SENT",
+  "type":"sent",
+  "text":", you can't get it.",
+  "id":"de0b9f07-cb1d-4ef2-9fd5-900000c9aa2b",
+  "params":{
+    "id":"b0469989-1b0d-4816-b49e-3153e8951f65"
+  },
+  "name":"Hugo"
+}

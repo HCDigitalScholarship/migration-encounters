@@ -1,0 +1,12 @@
+{
+  "start":3710,
+  "end":3750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't\n   have to buy any vegetables.",
+  "id":"abc96e9c-17e0-4fe9-bebe-3b4c5e8f5fb1",
+  "params":{
+    "id":"8be68de7-dd07-4b90-ac61-cd64cd3ee910"
+  },
+  "name":"Ruben"
+}

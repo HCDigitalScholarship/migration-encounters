@@ -1,0 +1,13 @@
+{
+  "start":28300,
+  "end":28315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You all right?\"",
+  "id":"003a68bb-8f11-4ee0-b9f3-dabbfb290d67",
+  "params":{
+    "id":"003a68bb-8f11-4ee0-b9f3-dabbfb290d67",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

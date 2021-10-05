@@ -1,0 +1,12 @@
+{
+  "start":32,
+  "end":52,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Josue: Male.",
+  "id":"70cb712a-9a76-4dbd-9444-b98862698019",
+  "params":{
+    "id":"390f85c2-f340-424a-aa41-252c6682971c"
+  },
+  "name":"Josue"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1311,
+  "end":1334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, it was just fine.",
+  "id":"43d0f7dc-d93a-4e0d-a964-da55c2003843",
+  "params":{
+    "id":"43d0f7dc-d93a-4e0d-a964-da55c2003843",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

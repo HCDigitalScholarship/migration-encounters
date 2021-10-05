@@ -1,0 +1,13 @@
+{
+  "start":7006,
+  "end":7026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Say something nice.\"",
+  "id":"358163ba-6daf-44bd-bdc1-1e8244e49843",
+  "params":{
+    "id":"358163ba-6daf-44bd-bdc1-1e8244e49843",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

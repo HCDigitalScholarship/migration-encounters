@@ -1,0 +1,13 @@
+{
+  "start":11739,
+  "end":11812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you know that\n   this was happening as you were coming out of school?",
+  "id":"45b0d169-e910-4317-b4a9-e6c4bc6c29d2",
+  "params":{
+    "id":"45b0d169-e910-4317-b4a9-e6c4bc6c29d2",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

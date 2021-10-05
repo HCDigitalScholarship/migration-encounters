@@ -1,0 +1,13 @@
+{
+  "start":16805,
+  "end":16827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you call them?",
+  "id":"aaa16c9f-8d73-4a40-ae4e-0f9cbcd80762",
+  "params":{
+    "id":"aaa16c9f-8d73-4a40-ae4e-0f9cbcd80762",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

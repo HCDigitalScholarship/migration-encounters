@@ -1,0 +1,12 @@
+{
+  "start":42866,
+  "end":42891,
+  "label":"SENT",
+  "type":"sent",
+  "text":", I love being in the US.",
+  "id":"6ecc8c9f-6ce5-4551-b3e4-50efd771f3d3",
+  "params":{
+    "id":"3fcefeda-48bf-45f4-86a7-ae85487f901a"
+  },
+  "name":"Laila"
+}

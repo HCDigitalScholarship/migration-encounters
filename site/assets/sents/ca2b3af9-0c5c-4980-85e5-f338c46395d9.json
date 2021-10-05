@@ -1,0 +1,13 @@
+{
+  "start":5260,
+  "end":5324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So my curiosity brought me to try to see what that\n   was about.",
+  "id":"ca2b3af9-0c5c-4980-85e5-f338c46395d9",
+  "params":{
+    "id":"ca2b3af9-0c5c-4980-85e5-f338c46395d9",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

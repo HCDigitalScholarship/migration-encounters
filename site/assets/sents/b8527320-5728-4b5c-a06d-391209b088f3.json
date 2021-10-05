@@ -1,0 +1,13 @@
+{
+  "start":34015,
+  "end":34096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I made changes\n     to the team, started making more decision calls to get known.",
+  "id":"b8527320-5728-4b5c-a06d-391209b088f3",
+  "params":{
+    "id":"b8527320-5728-4b5c-a06d-391209b088f3",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

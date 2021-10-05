@@ -1,0 +1,12 @@
+{
+  "start":11105,
+  "end":11130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She wanted me to go back.",
+  "id":"5b36dcb9-12d2-4d6e-b332-f2de9e245bcd",
+  "params":{
+    "id":"eda6b30f-2f9d-4004-a9c9-0dd79f5043bc"
+  },
+  "name":"Edgar"
+}

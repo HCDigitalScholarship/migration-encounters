@@ -1,0 +1,12 @@
+{
+  "start":11498,
+  "end":11577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you could have stayed in the U.S., what do you think you might\n   have done?",
+  "id":"01d8602c-e691-40d7-bc4b-1b3c60bf076e",
+  "params":{
+    "id":"24d72303-ea7e-4378-975a-24684df529d3"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13732,
+  "end":13746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We talk a lot.",
+  "id":"c678c0f7-ef3f-4a2a-ab99-b725d479b6c9",
+  "params":{
+    "id":"c678c0f7-ef3f-4a2a-ab99-b725d479b6c9",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

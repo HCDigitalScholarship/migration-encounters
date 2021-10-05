@@ -1,0 +1,12 @@
+{
+  "start":6060,
+  "end":6079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Anyone else?",
+  "id":"72a00a3b-c303-4f3a-b010-42f432619d95",
+  "params":{
+    "id":"82dbcf17-ff96-46ce-bf01-c9613222571d"
+  },
+  "name":"Melani"
+}

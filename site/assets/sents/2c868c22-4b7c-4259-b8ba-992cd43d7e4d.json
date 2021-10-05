@@ -1,0 +1,13 @@
+{
+  "start":38650,
+  "end":38667,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis: Definitely.",
+  "id":"2c868c22-4b7c-4259-b8ba-992cd43d7e4d",
+  "params":{
+    "id":"2c868c22-4b7c-4259-b8ba-992cd43d7e4d",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":31676,
+  "end":31691,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which is crazy.",
+  "id":"da48705c-9208-44a6-9d94-b23a906d7468",
+  "params":{
+    "id":"cb009ebc-c35b-439e-a872-8651366a7637"
+  },
+  "name":"Mike"
+}

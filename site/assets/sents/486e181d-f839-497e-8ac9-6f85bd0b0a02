@@ -1,0 +1,12 @@
+{
+  "start":26213,
+  "end":26246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The teacher is\n     calling you.\"",
+  "id":"486e181d-f839-497e-8ac9-6f85bd0b0a02",
+  "params":{
+    "id":"42910bee-20ad-4202-bde1-947390f7342e"
+  },
+  "name":"Beto"
+}

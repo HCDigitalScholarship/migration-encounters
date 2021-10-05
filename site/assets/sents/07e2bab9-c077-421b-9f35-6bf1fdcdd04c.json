@@ -1,0 +1,13 @@
+{
+  "start":26267,
+  "end":26332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think one day they can come back here in Mexico to\n   visit me.",
+  "id":"07e2bab9-c077-421b-9f35-6bf1fdcdd04c",
+  "params":{
+    "id":"07e2bab9-c077-421b-9f35-6bf1fdcdd04c",
+    "class":"anno"
+  },
+  "name":"Many"
+}

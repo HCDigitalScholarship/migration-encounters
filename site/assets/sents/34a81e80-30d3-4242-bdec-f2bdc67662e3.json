@@ -1,0 +1,13 @@
+{
+  "start":3753,
+  "end":3771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you graduated.",
+  "id":"34a81e80-30d3-4242-bdec-f2bdc67662e3",
+  "params":{
+    "id":"34a81e80-30d3-4242-bdec-f2bdc67662e3",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

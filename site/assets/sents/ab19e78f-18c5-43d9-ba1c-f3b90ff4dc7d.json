@@ -1,0 +1,13 @@
+{
+  "start":44152,
+  "end":44405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n parents got me a lawyer and he didn't take the plea, and we fought it and\n fought it, and my second court, I was late due to traffic, and because of\n that, they told me that they were going to have to put me in custody\n because I was in flight risk.",
+  "id":"ab19e78f-18c5-43d9-ba1c-f3b90ff4dc7d",
+  "params":{
+    "id":"ab19e78f-18c5-43d9-ba1c-f3b90ff4dc7d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

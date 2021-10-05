@@ -1,0 +1,12 @@
+{
+  "start":14304,
+  "end":14356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either the\n train line, the substation or the buses.",
+  "id":"bbd9a219-ab17-4fd1-a562-3a902fa4da57",
+  "params":{
+    "id":"689f28ba-637f-4c1b-b0df-577be7905150"
+  },
+  "name":"Axel"
+}

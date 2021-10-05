@@ -1,0 +1,13 @@
+{
+  "start":1706,
+  "end":1775,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And 10\n   minutes later, \"Are you sure that you don't need me today?\"",
+  "id":"99a8df12-607e-43e8-9cd1-a5ca08c2def7",
+  "params":{
+    "id":"99a8df12-607e-43e8-9cd1-a5ca08c2def7",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

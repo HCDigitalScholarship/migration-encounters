@@ -1,0 +1,13 @@
+{
+  "start":27745,
+  "end":27766,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't go to work.",
+  "id":"6ac95a48-5517-4c94-86ae-32bc6334991f",
+  "params":{
+    "id":"6ac95a48-5517-4c94-86ae-32bc6334991f",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

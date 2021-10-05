@@ -1,0 +1,13 @@
+{
+  "start":6360,
+  "end":6401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was just barely working on\n   his own.",
+  "id":"e2dc6b3d-7278-42ef-8701-d95f8c6e5c80",
+  "params":{
+    "id":"e2dc6b3d-7278-42ef-8701-d95f8c6e5c80",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2935,
+  "end":2990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We traveled, we went to Washington, D.C.,\n   came back.",
+  "id":"c4a8cc72-1889-4e10-b394-ec4e89a99064",
+  "params":{
+    "id":"c4a8cc72-1889-4e10-b394-ec4e89a99064",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":58453,
+  "end":58554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My daughter's mom wouldn't go, because they\n wouldn't let her in because she wasn't immediate family.",
+  "id":"9e030fe6-1680-4030-96ad-572b0074e966",
+  "params":{
+    "id":"9e030fe6-1680-4030-96ad-572b0074e966",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

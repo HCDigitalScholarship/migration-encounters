@@ -1,0 +1,13 @@
+{
+  "start":40221,
+  "end":40297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot\n   of people that came back, they don't even know what Mexico is like.",
+  "id":"a4cd992d-f8c4-4d2d-871c-0ec398685e5b",
+  "params":{
+    "id":"a4cd992d-f8c4-4d2d-871c-0ec398685e5b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16704,
+  "end":16725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I'm from\n   here.",
+  "id":"d54614d9-b1cf-414e-9e6a-e74170a667ec",
+  "params":{
+    "id":"d54614d9-b1cf-414e-9e6a-e74170a667ec",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

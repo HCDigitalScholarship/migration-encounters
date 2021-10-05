@@ -1,0 +1,12 @@
+{
+  "start":75363,
+  "end":75379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love grilling.",
+  "id":"4c9b34e9-c51f-4b65-8af5-c63594a83beb",
+  "params":{
+    "id":"5ea49a02-3412-4880-bdde-9a4f39cb422f"
+  },
+  "name":"Cris"
+}

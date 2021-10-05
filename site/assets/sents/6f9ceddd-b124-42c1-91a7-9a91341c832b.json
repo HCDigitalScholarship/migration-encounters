@@ -1,0 +1,13 @@
+{
+  "start":41271,
+  "end":41290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: [to Roddy]",
+  "id":"6f9ceddd-b124-42c1-91a7-9a91341c832b",
+  "params":{
+    "id":"6f9ceddd-b124-42c1-91a7-9a91341c832b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18125,
+  "end":18142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't see me.",
+  "id":"c37c2e94-33ec-4f07-b6d2-403a8cb08843",
+  "params":{
+    "id":"416e3d5e-5b5a-48e0-a364-e36333f4171e"
+  },
+  "name":"Ben"
+}

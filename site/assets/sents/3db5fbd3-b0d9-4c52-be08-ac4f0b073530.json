@@ -1,0 +1,15 @@
+{
+  "start":4129,
+  "end":4133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   ",
+  "id":"3db5fbd3-b0d9-4c52-be08-ac4f0b073530",
+  "params":{
+    "id":"3db5fbd3-b0d9-4c52-be08-ac4f0b073530",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

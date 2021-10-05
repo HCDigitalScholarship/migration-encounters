@@ -1,0 +1,13 @@
+{
+  "start":5011,
+  "end":5066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad is the black sheep of his side of the\n   family.",
+  "id":"b4f34a4d-a6e6-455f-83de-dffd83c679d4",
+  "params":{
+    "id":"b4f34a4d-a6e6-455f-83de-dffd83c679d4",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

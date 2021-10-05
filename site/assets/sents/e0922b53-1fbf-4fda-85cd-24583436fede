@@ -1,0 +1,12 @@
+{
+  "start":5314,
+  "end":5373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   was hearing that, \"You need to empty out this bucket.\"",
+  "id":"e0922b53-1fbf-4fda-85cd-24583436fede",
+  "params":{
+    "id":"ee9d48df-0fd4-4899-be6c-b657a55663d6"
+  },
+  "name":"Rodolfo"
+}

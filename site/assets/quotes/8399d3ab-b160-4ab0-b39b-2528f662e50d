@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1324,
+  "end":1331,
+  "text":"\n \n \n   Ivan: Restaurant jobs. My last job was painting. I used to be a painter. I\n   used to paint houses, interior and exterior houses. I actually went and\n   painted the Braves stadium in Atlanta, Georgia.\n \n \n   Anita: Really?\n \n \n   Ivan: Yes.\n \n \n   Anita: You painted the Braves stadium?\n \n \n   Ivan: Yeah, I painted inside. With one of my bosses. We painted the inside\n   of that stadium. The hotel,",
+  "label":"GPE",
+  "id":"8399d3ab-b160-4ab0-b39b-2528f662e50d",
+  "name":"Ivan"
+}

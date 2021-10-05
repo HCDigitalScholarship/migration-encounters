@@ -1,0 +1,13 @@
+{
+  "start":52282,
+  "end":52307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just want to be a help.",
+  "id":"d1ff3a01-91fe-4b02-ac17-e7eae16df1ed",
+  "params":{
+    "id":"d1ff3a01-91fe-4b02-ac17-e7eae16df1ed",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

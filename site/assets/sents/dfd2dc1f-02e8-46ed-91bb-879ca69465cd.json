@@ -1,0 +1,13 @@
+{
+  "start":20825,
+  "end":20925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n better that I don't see this because I'm going to end up getting stressed\n out and pissed off.",
+  "id":"dfd2dc1f-02e8-46ed-91bb-879ca69465cd",
+  "params":{
+    "id":"dfd2dc1f-02e8-46ed-91bb-879ca69465cd",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

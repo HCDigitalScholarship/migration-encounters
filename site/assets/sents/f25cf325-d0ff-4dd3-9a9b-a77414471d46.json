@@ -1,0 +1,13 @@
+{
+  "start":20289,
+  "end":20386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   went and talked to her even though the attorney told her not to get in\n   touch with her.",
+  "id":"f25cf325-d0ff-4dd3-9a9b-a77414471d46",
+  "params":{
+    "id":"f25cf325-d0ff-4dd3-9a9b-a77414471d46",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

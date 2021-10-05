@@ -1,0 +1,13 @@
+{
+  "start":15979,
+  "end":16123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when you returned, were you were greeted by any Mexican\n   authorities, or any government representative, non-government\n   representatives?",
+  "id":"415e1366-109c-4a92-bf03-6506d78328c3",
+  "params":{
+    "id":"415e1366-109c-4a92-bf03-6506d78328c3",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

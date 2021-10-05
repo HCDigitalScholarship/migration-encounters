@@ -1,0 +1,12 @@
+{
+  "start":21415,
+  "end":21462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well at the end, I got the voluntary departure.",
+  "id":"1f503fa2-9b2f-46c0-9787-9fa482eb3833",
+  "params":{
+    "id":"7f83b651-476b-42a8-b004-7427c60e3cbc"
+  },
+  "name":"Hugo"
+}

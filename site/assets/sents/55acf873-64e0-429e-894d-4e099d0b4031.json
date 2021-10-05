@@ -1,0 +1,13 @@
+{
+  "start":5208,
+  "end":5217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My boy is",
+  "id":"55acf873-64e0-429e-894d-4e099d0b4031",
+  "params":{
+    "id":"55acf873-64e0-429e-894d-4e099d0b4031",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

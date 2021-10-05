@@ -1,0 +1,12 @@
+{
+  "start":8121,
+  "end":8150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A bag of\n   chips, whatever.\"",
+  "id":"487f1919-4de7-400b-b9eb-76aa0d580b72",
+  "params":{
+    "id":"042a9c9b-be7e-48c3-94f4-391ff21b1804"
+  },
+  "name":"Mike"
+}

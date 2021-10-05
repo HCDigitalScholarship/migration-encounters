@@ -1,0 +1,13 @@
+{
+  "start":37874,
+  "end":37909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n That is one thing that I do know.",
+  "id":"fc98633a-40df-4447-89ee-2d0be9f6af1c",
+  "params":{
+    "id":"fc98633a-40df-4447-89ee-2d0be9f6af1c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

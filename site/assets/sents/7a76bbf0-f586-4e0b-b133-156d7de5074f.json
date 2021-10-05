@@ -1,0 +1,13 @@
+{
+  "start":20482,
+  "end":20495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was awful!",
+  "id":"7a76bbf0-f586-4e0b-b133-156d7de5074f",
+  "params":{
+    "id":"7a76bbf0-f586-4e0b-b133-156d7de5074f",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

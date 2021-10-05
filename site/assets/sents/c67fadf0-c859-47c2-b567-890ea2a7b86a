@@ -1,0 +1,12 @@
+{
+  "start":59013,
+  "end":59041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My second daughter\n neither.",
+  "id":"c67fadf0-c859-47c2-b567-890ea2a7b86a",
+  "params":{
+    "id":"c080f720-ba42-46e5-aae2-55ea746dbd6b"
+  },
+  "name":"Axel"
+}

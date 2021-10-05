@@ -1,0 +1,12 @@
+{
+  "start":29678,
+  "end":29702,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were your\n   ideas?",
+  "id":"ed0c4849-d31b-4435-8430-f508dd57705f",
+  "params":{
+    "id":"0e32facc-4e0e-4da4-97ce-ac5e41157990"
+  },
+  "name":"Hugo"
+}

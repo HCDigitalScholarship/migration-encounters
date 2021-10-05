@@ -1,0 +1,12 @@
+{
+  "start":5082,
+  "end":5092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It smells.",
+  "id":"2af9a8e1-98ae-432e-9343-8e17e5205059",
+  "params":{
+    "id":"aed88bdb-edb3-4e9f-b369-89981b8c34e0"
+  },
+  "name":"Noe"
+}

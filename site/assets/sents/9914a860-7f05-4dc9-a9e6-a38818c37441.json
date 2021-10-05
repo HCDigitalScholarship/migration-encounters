@@ -1,0 +1,13 @@
+{
+  "start":23853,
+  "end":23886,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nobody wants to be in the county.",
+  "id":"9914a860-7f05-4dc9-a9e6-a38818c37441",
+  "params":{
+    "id":"9914a860-7f05-4dc9-a9e6-a38818c37441",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

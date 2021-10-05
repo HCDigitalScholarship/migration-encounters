@@ -1,0 +1,12 @@
+{
+  "start":11000,
+  "end":11055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isn't it after that that they started deporting people.",
+  "id":"f51dc026-17ef-4de1-b062-a08b99ba388e",
+  "params":{
+    "id":"e17bd266-30a9-445d-850b-8b869ccae322"
+  },
+  "name":"Ruben"
+}

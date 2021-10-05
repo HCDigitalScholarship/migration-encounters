@@ -1,0 +1,12 @@
+{
+  "start":2187,
+  "end":2240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was your overall experience in school in the US?",
+  "id":"90bbc104-cded-4c17-b39b-1972d3b90849",
+  "params":{
+    "id":"24ee4edb-d4bb-474f-be79-b00df95c4c91"
+  },
+  "name":"Miguel B"
+}

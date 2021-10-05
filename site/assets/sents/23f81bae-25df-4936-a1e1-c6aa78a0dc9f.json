@@ -1,0 +1,13 @@
+{
+  "start":38848,
+  "end":38866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But you know what?",
+  "id":"23f81bae-25df-4936-a1e1-c6aa78a0dc9f",
+  "params":{
+    "id":"23f81bae-25df-4936-a1e1-c6aa78a0dc9f",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

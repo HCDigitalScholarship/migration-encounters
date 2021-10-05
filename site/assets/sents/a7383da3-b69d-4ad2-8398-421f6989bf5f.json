@@ -1,0 +1,13 @@
+{
+  "start":28408,
+  "end":28467,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   we're coming over, and you're not going to stop it.\"",
+  "id":"a7383da3-b69d-4ad2-8398-421f6989bf5f",
+  "params":{
+    "id":"a7383da3-b69d-4ad2-8398-421f6989bf5f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

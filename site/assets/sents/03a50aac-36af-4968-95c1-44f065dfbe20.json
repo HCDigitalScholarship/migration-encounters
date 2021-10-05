@@ -1,0 +1,13 @@
+{
+  "start":21299,
+  "end":21332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom's a beautiful human being.",
+  "id":"03a50aac-36af-4968-95c1-44f065dfbe20",
+  "params":{
+    "id":"03a50aac-36af-4968-95c1-44f065dfbe20",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

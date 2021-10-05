@@ -1,0 +1,12 @@
+{
+  "start":27349,
+  "end":27475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was deported, I was at Laredo and I was there for three weeks\n   until one of my sisters helped my wife pack a trailer.",
+  "id":"8d047a33-2d0c-41fc-b47c-88f703bbe097",
+  "params":{
+    "id":"dc06919a-a470-4774-ad2f-6635c00080d1"
+  },
+  "name":"Daniel"
+}

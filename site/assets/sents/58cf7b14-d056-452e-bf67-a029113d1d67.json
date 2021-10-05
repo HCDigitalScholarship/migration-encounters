@@ -1,0 +1,13 @@
+{
+  "start":19333,
+  "end":19369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   was really scary [Chuckles].",
+  "id":"58cf7b14-d056-452e-bf67-a029113d1d67",
+  "params":{
+    "id":"58cf7b14-d056-452e-bf67-a029113d1d67",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10560,
+  "end":10608,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when I got in contact\n   with my brother.",
+  "id":"e8cdf3b0-104d-425a-aa0f-33f8eb84a35c",
+  "params":{
+    "id":"e8cdf3b0-104d-425a-aa0f-33f8eb84a35c",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11418,
+  "end":11452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Yeah.\n      \n      \n Billy:",
+  "id":"e7b7b1be-2e57-4d16-87d0-408507bb825b",
+  "params":{
+    "id":"22fd1c0d-56ec-4fe6-9752-2887a4ad98b4"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25249,
+  "end":25264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's the IVR?",
+  "id":"e8701cfc-23be-4a39-9437-b5ff450bb031",
+  "params":{
+    "id":"1234127d-29dd-42db-9f8c-e0b3c318a31e"
+  },
+  "name":"Rodrigo"
+}

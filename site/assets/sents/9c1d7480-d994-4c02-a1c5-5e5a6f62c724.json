@@ -1,0 +1,12 @@
+{
+  "start":30382,
+  "end":30401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my wallet.\"",
+  "id":"9c1d7480-d994-4c02-a1c5-5e5a6f62c724",
+  "params":{
+    "id":"ecb806e0-3f16-47e1-a848-d526afa255e7"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26117,
+  "end":26178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you lived in the US, were you ever able to visit Mexico?",
+  "id":"6d372815-9c1c-4840-bfe7-231d2c4bd459",
+  "params":{
+    "id":"6d372815-9c1c-4840-bfe7-231d2c4bd459",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

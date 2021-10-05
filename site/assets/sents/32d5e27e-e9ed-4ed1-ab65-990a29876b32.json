@@ -1,0 +1,13 @@
+{
+  "start":16622,
+  "end":16720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They are a\n     very curious people that already learned or are trying to learn the\n     language.",
+  "id":"32d5e27e-e9ed-4ed1-ab65-990a29876b32",
+  "params":{
+    "id":"32d5e27e-e9ed-4ed1-ab65-990a29876b32",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7656,
+  "end":7725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I'd get a ticket, they'd get my\n car taken away, stuff like that.",
+  "id":"cd0595b8-117b-40f0-b0b1-3fbb0c58c110",
+  "params":{
+    "id":"cd0595b8-117b-40f0-b0b1-3fbb0c58c110",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

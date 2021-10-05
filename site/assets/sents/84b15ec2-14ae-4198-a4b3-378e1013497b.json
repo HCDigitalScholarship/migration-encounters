@@ -1,0 +1,13 @@
+{
+  "start":42225,
+  "end":42314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Do you think that you come back with certain values that are\n   different?",
+  "id":"84b15ec2-14ae-4198-a4b3-378e1013497b",
+  "params":{
+    "id":"84b15ec2-14ae-4198-a4b3-378e1013497b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

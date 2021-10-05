@@ -1,0 +1,12 @@
+{
+  "start":26293,
+  "end":26327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\n   a son that was just born.",
+  "id":"b7168be3-0763-474c-b717-d0af989ef57f",
+  "params":{
+    "id":"52819786-667d-4020-bdce-4321d7d45ce6"
+  },
+  "name":"Kevin"
+}

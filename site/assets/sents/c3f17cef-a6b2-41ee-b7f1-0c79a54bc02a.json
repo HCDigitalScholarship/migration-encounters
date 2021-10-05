@@ -1,0 +1,13 @@
+{
+  "start":4907,
+  "end":5011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My head will\n   constantly hurt, really strong migraines, but they're not migraines at the\n   same time.",
+  "id":"c3f17cef-a6b2-41ee-b7f1-0c79a54bc02a",
+  "params":{
+    "id":"c3f17cef-a6b2-41ee-b7f1-0c79a54bc02a",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9268,
+  "end":9304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   getting suspended for that.",
+  "id":"afd921d1-78a8-4248-992d-65b24af05f1e",
+  "params":{
+    "id":"afd921d1-78a8-4248-992d-65b24af05f1e",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

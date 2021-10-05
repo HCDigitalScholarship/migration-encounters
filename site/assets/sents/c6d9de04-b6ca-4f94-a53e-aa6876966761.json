@@ -1,0 +1,13 @@
+{
+  "start":35995,
+  "end":36081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cYou know, they go to\n     Dodger Stadium, they're Americans, hotdogs, beer, all this.",
+  "id":"c6d9de04-b6ca-4f94-a53e-aa6876966761",
+  "params":{
+    "id":"c6d9de04-b6ca-4f94-a53e-aa6876966761",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

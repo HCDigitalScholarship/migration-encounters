@@ -1,0 +1,12 @@
+{
+  "start":33560,
+  "end":33596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't have this here in Mexico.",
+  "id":"938b70e4-fbb9-4c31-8339-16461b0b9ff9",
+  "params":{
+    "id":"d228afd0-a3af-4db0-b8d7-531c702fcc45"
+  },
+  "name":"Beto"
+}

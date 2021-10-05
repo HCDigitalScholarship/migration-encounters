@@ -1,0 +1,13 @@
+{
+  "start":30903,
+  "end":30973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"maybe I'm thinking of George W. Bush the second\n time he went through.",
+  "id":"56afcced-5b48-4f34-804c-a9eed501876e",
+  "params":{
+    "id":"56afcced-5b48-4f34-804c-a9eed501876e",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

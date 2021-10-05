@@ -1,0 +1,13 @@
+{
+  "start":5181,
+  "end":5195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Middle school.",
+  "id":"ec7e5f18-bed2-431d-97ae-87d59b29cadb",
+  "params":{
+    "id":"ec7e5f18-bed2-431d-97ae-87d59b29cadb",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

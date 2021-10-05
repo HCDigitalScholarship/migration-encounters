@@ -1,0 +1,13 @@
+{
+  "start":25323,
+  "end":25356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tim: An automated system.\n \n \n   ",
+  "id":"a5e13fe7-145c-4630-89d3-ae87457bc1af",
+  "params":{
+    "id":"a5e13fe7-145c-4630-89d3-ae87457bc1af",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12882,
+  "end":12906,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, I work\n here.",
+  "id":"0cdb95b6-ec03-4730-8b99-f09d728805fd",
+  "params":{
+    "id":"0cdb95b6-ec03-4730-8b99-f09d728805fd",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

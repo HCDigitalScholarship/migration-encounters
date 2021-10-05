@@ -1,0 +1,13 @@
+{
+  "start":48324,
+  "end":48349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Three and some probation.",
+  "id":"24c81671-d94c-4184-9d92-6ee4ff2ffb7b",
+  "params":{
+    "id":"24c81671-d94c-4184-9d92-6ee4ff2ffb7b",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

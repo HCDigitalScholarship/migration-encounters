@@ -1,0 +1,13 @@
+{
+  "start":30384,
+  "end":30438,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The way I think now, it's\n   different from back then.",
+  "id":"3ffc9321-5c8f-4370-8b16-8b16bbb6cae1",
+  "params":{
+    "id":"3ffc9321-5c8f-4370-8b16-8b16bbb6cae1",
+    "class":"anno"
+  },
+  "name":"Many"
+}

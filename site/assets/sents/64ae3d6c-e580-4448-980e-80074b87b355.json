@@ -1,0 +1,13 @@
+{
+  "start":21615,
+  "end":21665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n   I didn't have the things that they had.",
+  "id":"64ae3d6c-e580-4448-980e-80074b87b355",
+  "params":{
+    "id":"64ae3d6c-e580-4448-980e-80074b87b355",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

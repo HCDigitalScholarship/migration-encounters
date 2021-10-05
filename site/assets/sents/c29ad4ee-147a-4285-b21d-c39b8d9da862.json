@@ -1,0 +1,13 @@
+{
+  "start":10228,
+  "end":10261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Erik: At that time?\n \n \n   Anita:",
+  "id":"c29ad4ee-147a-4285-b21d-c39b8d9da862",
+  "params":{
+    "id":"c29ad4ee-147a-4285-b21d-c39b8d9da862",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,12 @@
+{
+  "start":38225,
+  "end":38325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the U.S. it's more about race, obviously because of the history\n between the black and the white.",
+  "id":"f78ea18a-958e-4384-92c2-3b3cd9995c01",
+  "params":{
+    "id":"ed67deb1-d3f2-421a-a454-323184c6ff42"
+  },
+  "name":"Billy"
+}

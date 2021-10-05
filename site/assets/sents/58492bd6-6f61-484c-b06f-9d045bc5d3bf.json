@@ -1,0 +1,13 @@
+{
+  "start":12667,
+  "end":12696,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot\n   of American citizens",
+  "id":"58492bd6-6f61-484c-b06f-9d045bc5d3bf",
+  "params":{
+    "id":"58492bd6-6f61-484c-b06f-9d045bc5d3bf",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

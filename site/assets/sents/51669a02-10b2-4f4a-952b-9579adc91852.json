@@ -1,0 +1,13 @@
+{
+  "start":11735,
+  "end":11751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   little kid.",
+  "id":"51669a02-10b2-4f4a-952b-9579adc91852",
+  "params":{
+    "id":"51669a02-10b2-4f4a-952b-9579adc91852",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

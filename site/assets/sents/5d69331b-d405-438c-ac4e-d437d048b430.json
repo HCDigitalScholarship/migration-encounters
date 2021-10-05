@@ -1,0 +1,13 @@
+{
+  "start":16425,
+  "end":16442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like the rules.",
+  "id":"5d69331b-d405-438c-ac4e-d437d048b430",
+  "params":{
+    "id":"5d69331b-d405-438c-ac4e-d437d048b430",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

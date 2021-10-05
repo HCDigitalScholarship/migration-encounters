@@ -1,0 +1,12 @@
+{
+  "start":28973,
+  "end":29041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: I didn't like her and I didn't want to do that to her.",
+  "id":"d97781b2-1a27-4bed-ad27-89a9c0ce29bd",
+  "params":{
+    "id":"8125f3b4-9b1e-4406-aafa-29ebbd9e4853"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32352,
+  "end":32387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But don't go\n     too much into it.",
+  "id":"df35882d-d807-409d-8aa8-c08a43ae973f",
+  "params":{
+    "id":"ba1a4ffb-4987-4ce8-99ec-984fe4c9941c"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":63655,
+  "end":63700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like, \"Hey, you're getting in\n trouble.",
+  "id":"8e3dda1e-80a9-464e-90cf-192ae4895119",
+  "params":{
+    "id":"f6762634-031a-4926-934c-8cd1a3053bbe"
+  },
+  "name":"Axel"
+}

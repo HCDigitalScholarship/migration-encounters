@@ -1,0 +1,12 @@
+{
+  "start":20001,
+  "end":20021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It's just known.",
+  "id":"a59636f1-2d92-41fd-ac17-611d98ef3e44",
+  "params":{
+    "id":"afd9ee5c-275e-4bfd-8b20-7feacbe41bbf"
+  },
+  "name":"Kevin"
+}

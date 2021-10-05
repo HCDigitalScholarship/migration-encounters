@@ -1,0 +1,13 @@
+{
+  "start":8507,
+  "end":8551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's been the hardest part back in Mexico?",
+  "id":"9f8e0175-a7b2-48ac-bc25-74c7259b6d89",
+  "params":{
+    "id":"9f8e0175-a7b2-48ac-bc25-74c7259b6d89",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

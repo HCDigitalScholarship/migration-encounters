@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":5849,
+  "end":5855,
+  "text":"ities did you live in the US?\n \n \n   Melani: ____ Arkansas.\n \n \n   Anita: You went to school. How much schooling did you complete?\n \n \n   Melani: Um\u2014\n \n \n   Anita: What grade did you complete?\n \n \n   Melani: I just finished my high school diploma, yeah.\n \n \n   Anita: Did you work in the US?\n \n \n   Melani: No.\n \n \n   Anita: Who did you live with when you were in the US?\n \n \n   Melani: Both my parents.\n \n",
+  "label":"PERSON",
+  "id":"f6609467-d19f-4ba8-be89-6c136b00c54c",
+  "name":"Melani"
+}

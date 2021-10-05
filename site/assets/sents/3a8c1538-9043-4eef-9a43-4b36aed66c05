@@ -1,0 +1,12 @@
+{
+  "start":8771,
+  "end":8803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long did you live in the US?",
+  "id":"3a8c1538-9043-4eef-9a43-4b36aed66c05",
+  "params":{
+    "id":"a8aa676c-df5f-4c2e-b0e4-955e5f52b999"
+  },
+  "name":"Josue"
+}

@@ -1,0 +1,13 @@
+{
+  "start":55567,
+  "end":55602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And a lot of thing is survival too.",
+  "id":"b5a2c694-84d3-4728-a813-be159063fa63",
+  "params":{
+    "id":"b5a2c694-84d3-4728-a813-be159063fa63",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

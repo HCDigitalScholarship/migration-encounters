@@ -1,0 +1,13 @@
+{
+  "start":9529,
+  "end":9555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis: [Affirmative sound].",
+  "id":"b66c6273-beea-4dd1-9e86-cf9ab36b9983",
+  "params":{
+    "id":"b66c6273-beea-4dd1-9e86-cf9ab36b9983",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

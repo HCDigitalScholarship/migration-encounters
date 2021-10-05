@@ -1,0 +1,13 @@
+{
+  "start":6112,
+  "end":6123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   noise.",
+  "id":"e27ee1a9-061f-4f87-983f-bd75d3906fb3",
+  "params":{
+    "id":"e27ee1a9-061f-4f87-983f-bd75d3906fb3",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

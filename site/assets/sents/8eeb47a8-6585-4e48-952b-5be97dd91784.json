@@ -1,0 +1,13 @@
+{
+  "start":11265,
+  "end":11327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   never did\n \n \n   the legal paperwork for the adoption.",
+  "id":"8eeb47a8-6585-4e48-952b-5be97dd91784",
+  "params":{
+    "id":"8eeb47a8-6585-4e48-952b-5be97dd91784",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

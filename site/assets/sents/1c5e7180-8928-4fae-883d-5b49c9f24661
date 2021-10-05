@@ -1,0 +1,12 @@
+{
+  "start":25341,
+  "end":25378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most of my friends talked in Spanish.",
+  "id":"1c5e7180-8928-4fae-883d-5b49c9f24661",
+  "params":{
+    "id":"3691e25a-7da3-49cc-ba52-e60288f6c869"
+  },
+  "name":"Beto"
+}

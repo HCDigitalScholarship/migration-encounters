@@ -1,0 +1,13 @@
+{
+  "start":23652,
+  "end":23677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what broke you up?",
+  "id":"76d9c02a-0fea-4725-8e68-c534269c9e9a",
+  "params":{
+    "id":"76d9c02a-0fea-4725-8e68-c534269c9e9a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

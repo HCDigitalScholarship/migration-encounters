@@ -1,0 +1,13 @@
+{
+  "start":22679,
+  "end":22695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just crazy.",
+  "id":"c8e8225e-92b7-45d1-9259-eaae307f669e",
+  "params":{
+    "id":"c8e8225e-92b7-45d1-9259-eaae307f669e",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

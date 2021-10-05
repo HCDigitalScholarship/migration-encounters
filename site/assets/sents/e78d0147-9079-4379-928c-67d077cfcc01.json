@@ -1,0 +1,13 @@
+{
+  "start":13210,
+  "end":13259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"it doesn't mean that, it means\n   something else.",
+  "id":"e78d0147-9079-4379-928c-67d077cfcc01",
+  "params":{
+    "id":"e78d0147-9079-4379-928c-67d077cfcc01",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

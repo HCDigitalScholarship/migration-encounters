@@ -1,0 +1,13 @@
+{
+  "start":34541,
+  "end":34552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was mad.",
+  "id":"8e77dfbf-3bbd-452c-95a1-59dfeb725d3a",
+  "params":{
+    "id":"8e77dfbf-3bbd-452c-95a1-59dfeb725d3a",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

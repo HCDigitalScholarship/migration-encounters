@@ -1,0 +1,13 @@
+{
+  "start":337,
+  "end":416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of the first questions we have is why did your family migrate\n   to the US?",
+  "id":"459bb78a-351c-4480-9868-4beaef12819c",
+  "params":{
+    "id":"459bb78a-351c-4480-9868-4beaef12819c",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

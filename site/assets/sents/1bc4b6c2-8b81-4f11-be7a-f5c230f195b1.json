@@ -1,0 +1,13 @@
+{
+  "start":26602,
+  "end":26627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"It's you again, Robert.\"",
+  "id":"1bc4b6c2-8b81-4f11-be7a-f5c230f195b1",
+  "params":{
+    "id":"1bc4b6c2-8b81-4f11-be7a-f5c230f195b1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

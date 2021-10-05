@@ -1,0 +1,13 @@
+{
+  "start":13189,
+  "end":13224,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This was after you got out of jail?",
+  "id":"c7757ec4-8b9b-4437-a24b-ecb9aa7c61a0",
+  "params":{
+    "id":"c7757ec4-8b9b-4437-a24b-ecb9aa7c61a0",
+    "class":"anno"
+  },
+  "name":"Many"
+}

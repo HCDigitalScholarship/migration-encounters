@@ -1,0 +1,12 @@
+{
+  "start":5091,
+  "end":5121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if you\n   get me.",
+  "id":"e0f6637f-f1d0-441a-b30d-58e2bdb48ddb",
+  "params":{
+    "id":"6982c9db-5ebc-46fa-b285-59089c060023"
+  },
+  "name":"Erik"
+}

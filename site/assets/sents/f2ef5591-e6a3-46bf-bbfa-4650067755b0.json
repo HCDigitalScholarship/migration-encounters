@@ -1,0 +1,13 @@
+{
+  "start":35999,
+  "end":36042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Always think about the worst-case scenario.",
+  "id":"f2ef5591-e6a3-46bf-bbfa-4650067755b0",
+  "params":{
+    "id":"f2ef5591-e6a3-46bf-bbfa-4650067755b0",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

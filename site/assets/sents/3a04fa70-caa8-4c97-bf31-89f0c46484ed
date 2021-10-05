@@ -1,0 +1,12 @@
+{
+  "start":11559,
+  "end":11616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I do something, I do it better, and people\n   like it.",
+  "id":"3a04fa70-caa8-4c97-bf31-89f0c46484ed",
+  "params":{
+    "id":"16b96e64-2d85-4ee1-a01a-e4cf49b63c63"
+  },
+  "name":"Daniel"
+}

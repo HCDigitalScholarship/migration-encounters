@@ -1,0 +1,13 @@
+{
+  "start":10361,
+  "end":10480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My father always told me that we had to be very\n   discreet, keep things private. \u201cIf they ask you, you were born here.",
+  "id":"efdcc46f-a464-4342-8fd0-bd05d5780ef5",
+  "params":{
+    "id":"efdcc46f-a464-4342-8fd0-bd05d5780ef5",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

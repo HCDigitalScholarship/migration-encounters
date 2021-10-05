@@ -1,0 +1,13 @@
+{
+  "start":3481,
+  "end":3524,
+  "label":"SENT",
+  "type":"sent",
+  "text":"By 12 he said you should have two chickens.",
+  "id":"dbe22ec8-cd4e-43a3-b356-1bb19a2f441e",
+  "params":{
+    "id":"dbe22ec8-cd4e-43a3-b356-1bb19a2f441e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

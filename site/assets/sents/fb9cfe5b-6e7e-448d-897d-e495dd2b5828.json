@@ -1,0 +1,13 @@
+{
+  "start":31337,
+  "end":31373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Hey, you want a job?\"",
+  "id":"fb9cfe5b-6e7e-448d-897d-e495dd2b5828",
+  "params":{
+    "id":"fb9cfe5b-6e7e-448d-897d-e495dd2b5828",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

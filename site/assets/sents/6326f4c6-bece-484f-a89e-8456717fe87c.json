@@ -1,0 +1,13 @@
+{
+  "start":31510,
+  "end":31556,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would do it, but I\n   mean I think that well",
+  "id":"6326f4c6-bece-484f-a89e-8456717fe87c",
+  "params":{
+    "id":"6326f4c6-bece-484f-a89e-8456717fe87c",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

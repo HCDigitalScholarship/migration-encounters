@@ -1,0 +1,12 @@
+{
+  "start":15287,
+  "end":15336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was asking me\n   all these sorts of questions.",
+  "id":"7c210cee-e3de-4ce1-8bfc-3274f7e7d33f",
+  "params":{
+    "id":"3456d349-ff42-4584-86d4-74c4a4af6dae"
+  },
+  "name":"Daniel"
+}

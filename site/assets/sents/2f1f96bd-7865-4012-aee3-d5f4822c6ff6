@@ -1,0 +1,12 @@
+{
+  "start":53064,
+  "end":53120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going\n to go home, you're going to see your mom.\"",
+  "id":"2f1f96bd-7865-4012-aee3-d5f4822c6ff6",
+  "params":{
+    "id":"4f551bb2-4aa7-48a5-a023-5f80b5191002"
+  },
+  "name":"Angelo"
+}

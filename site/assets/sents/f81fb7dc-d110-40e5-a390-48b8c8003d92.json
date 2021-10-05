@@ -1,0 +1,13 @@
+{
+  "start":3537,
+  "end":3642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After the Walmart, we were taken to a hotel\n   safe house and we were actually ditched at the safe house.",
+  "id":"f81fb7dc-d110-40e5-a390-48b8c8003d92",
+  "params":{
+    "id":"f81fb7dc-d110-40e5-a390-48b8c8003d92",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

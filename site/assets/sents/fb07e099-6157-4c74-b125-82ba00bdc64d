@@ -1,0 +1,12 @@
+{
+  "start":26247,
+  "end":26272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said that in Spanish.",
+  "id":"fb07e099-6157-4c74-b125-82ba00bdc64d",
+  "params":{
+    "id":"ff1fb3ad-b7e9-446b-98ed-b9cc914d390a"
+  },
+  "name":"Beto"
+}

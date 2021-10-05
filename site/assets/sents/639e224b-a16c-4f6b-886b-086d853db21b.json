@@ -1,0 +1,13 @@
+{
+  "start":33264,
+  "end":33285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People are different.",
+  "id":"639e224b-a16c-4f6b-886b-086d853db21b",
+  "params":{
+    "id":"639e224b-a16c-4f6b-886b-086d853db21b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

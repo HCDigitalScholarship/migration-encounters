@@ -1,0 +1,12 @@
+{
+  "start":5246,
+  "end":5290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Damn, why do I like Taco Bell?\"",
+  "id":"f7eb1049-8ea2-48a5-9380-bb7782ea4641",
+  "params":{
+    "id":"962b3df3-9255-497e-8c4a-a00c8fab61f6"
+  },
+  "name":"Mike"
+}

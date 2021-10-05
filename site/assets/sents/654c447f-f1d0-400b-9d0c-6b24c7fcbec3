@@ -1,0 +1,12 @@
+{
+  "start":42,
+  "end":93,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Soy Anita y estoy aqu\u00ed con Maria\u2014la mam\u00e1 de Sylent.",
+  "id":"654c447f-f1d0-400b-9d0c-6b24c7fcbec3",
+  "params":{
+    "id":"e015774a-129b-4bca-b1f0-7b158cd09daa"
+  },
+  "name":"Maria"
+}

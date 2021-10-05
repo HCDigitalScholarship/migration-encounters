@@ -1,0 +1,13 @@
+{
+  "start":8122,
+  "end":8188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   So, I only have three stars because they're going to be stars.",
+  "id":"0b3e5206-b832-4761-b07c-d1bb04b7b029",
+  "params":{
+    "id":"0b3e5206-b832-4761-b07c-d1bb04b7b029",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31553,
+  "end":31653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then\n   here I went to the offices, they have a high school division that takes\n   care of that.",
+  "id":"99eae6df-7a7b-4a76-af02-c95a6d2d4d95",
+  "params":{
+    "id":"99eae6df-7a7b-4a76-af02-c95a6d2d4d95",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

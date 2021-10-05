@@ -1,0 +1,13 @@
+{
+  "start":4283,
+  "end":4317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We never really\n   spoke about it.",
+  "id":"1b25a76b-2e4e-46a5-b261-eb589afcb73d",
+  "params":{
+    "id":"1b25a76b-2e4e-46a5-b261-eb589afcb73d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

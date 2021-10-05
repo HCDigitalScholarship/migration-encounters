@@ -1,0 +1,12 @@
+{
+  "start":27652,
+  "end":27711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is Anne and I am doing a follow-up survey with Joseph.",
+  "id":"749bcbf4-0d5a-4005-b757-676631915c42",
+  "params":{
+    "id":"414aa016-0a35-4752-a4d3-97b6a70cce69"
+  },
+  "name":"Joseph"
+}

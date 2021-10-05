@@ -1,0 +1,12 @@
+{
+  "start":10500,
+  "end":10525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like thought I stole one.",
+  "id":"1831b190-36a8-46e0-ab79-21bddaef7551",
+  "params":{
+    "id":"0b3dbad8-916a-4aac-ae0d-2f66017f6498"
+  },
+  "name":"Axel"
+}

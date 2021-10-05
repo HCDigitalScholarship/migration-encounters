@@ -1,0 +1,12 @@
+{
+  "start":61332,
+  "end":61351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What about fishing?",
+  "id":"05fc4aa4-a1d6-4d42-843c-f0673728f68f",
+  "params":{
+    "id":"3cfe4b5c-f317-4de3-94bc-0f3ad014f73a"
+  },
+  "name":"Cris"
+}

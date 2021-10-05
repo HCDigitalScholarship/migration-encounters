@@ -1,0 +1,12 @@
+{
+  "start":34,
+  "end":124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm here with Roberto ten, Robert ten, on\n   recorder number five, starting the interview.",
+  "id":"a961ea00-3f79-4276-bb97-4cb5ec4aa31c",
+  "params":{
+    "id":"abc025a8-3239-4fae-a4a7-8f33631732de"
+  },
+  "name":"Roberto"
+}

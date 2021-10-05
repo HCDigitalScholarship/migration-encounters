@@ -1,0 +1,12 @@
+{
+  "start":4345,
+  "end":4452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I asked you the question, Do you fear the US\n authorities, that was a dominant part of your childhood?",
+  "id":"7fe85bda-43c0-43f8-b2af-f8c79468e662",
+  "params":{
+    "id":"b3405648-ba6d-48a0-bcf2-a0bf39bbe545"
+  },
+  "name":"Angelo"
+}

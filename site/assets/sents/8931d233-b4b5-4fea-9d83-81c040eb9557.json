@@ -1,0 +1,13 @@
+{
+  "start":8741,
+  "end":8807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She got some problems there, and she was losing a\n   lot of blood.",
+  "id":"8931d233-b4b5-4fea-9d83-81c040eb9557",
+  "params":{
+    "id":"8931d233-b4b5-4fea-9d83-81c040eb9557",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

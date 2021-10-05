@@ -1,0 +1,12 @@
+{
+  "start":8277,
+  "end":8294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was messed up.",
+  "id":"2f23c016-c8f1-4aaa-901b-5837db8e4a70",
+  "params":{
+    "id":"33efa4e7-6486-44b8-946d-66b0f0e0aa60"
+  },
+  "name":"Pablo"
+}

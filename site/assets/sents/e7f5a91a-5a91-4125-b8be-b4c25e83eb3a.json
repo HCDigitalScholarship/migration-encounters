@@ -1,0 +1,13 @@
+{
+  "start":26585,
+  "end":26635,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They go to study and they really never\n   go back.",
+  "id":"e7f5a91a-5a91-4125-b8be-b4c25e83eb3a",
+  "params":{
+    "id":"e7f5a91a-5a91-4125-b8be-b4c25e83eb3a",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

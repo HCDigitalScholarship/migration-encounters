@@ -1,0 +1,12 @@
+{
+  "start":10980,
+  "end":11020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   don't have a criminal background?",
+  "id":"8cc162dd-e538-49e9-bb06-7c1e468aca7d",
+  "params":{
+    "id":"4295744a-4f21-4937-a7bf-8c75f3bc47f3"
+  },
+  "name":"Erik"
+}

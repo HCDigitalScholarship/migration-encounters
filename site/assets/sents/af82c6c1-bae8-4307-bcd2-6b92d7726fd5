@@ -1,0 +1,12 @@
+{
+  "start":76224,
+  "end":76275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The\n   famous dish at your restaurant?\n \n \n   Cris:",
+  "id":"af82c6c1-bae8-4307-bcd2-6b92d7726fd5",
+  "params":{
+    "id":"a4a6a6ae-3598-4a37-8c96-3b049ce4645c"
+  },
+  "name":"Cris"
+}

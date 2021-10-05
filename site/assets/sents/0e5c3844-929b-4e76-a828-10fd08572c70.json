@@ -1,0 +1,13 @@
+{
+  "start":2337,
+  "end":2435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well so, the first time, when I was a kid and I didn't even\n   know that I wasn't really American.",
+  "id":"0e5c3844-929b-4e76-a828-10fd08572c70",
+  "params":{
+    "id":"0e5c3844-929b-4e76-a828-10fd08572c70",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

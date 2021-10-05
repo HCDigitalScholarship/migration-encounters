@@ -1,0 +1,13 @@
+{
+  "start":7134,
+  "end":7156,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lost my best friend.",
+  "id":"4fc77ced-de3f-43fb-9818-8b708f70e363",
+  "params":{
+    "id":"4fc77ced-de3f-43fb-9818-8b708f70e363",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

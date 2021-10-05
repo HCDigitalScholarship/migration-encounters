@@ -1,0 +1,13 @@
+{
+  "start":10766,
+  "end":10812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And the people were so nice to me,\n   so nice.",
+  "id":"a4de2428-483d-449c-a629-c8dfe202da96",
+  "params":{
+    "id":"a4de2428-483d-449c-a629-c8dfe202da96",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

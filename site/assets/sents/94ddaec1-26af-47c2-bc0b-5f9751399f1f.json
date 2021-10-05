@@ -1,0 +1,13 @@
+{
+  "start":3583,
+  "end":3604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was a US citizen?",
+  "id":"94ddaec1-26af-47c2-bc0b-5f9751399f1f",
+  "params":{
+    "id":"94ddaec1-26af-47c2-bc0b-5f9751399f1f",
+    "class":"anno"
+  },
+  "name":"Many"
+}

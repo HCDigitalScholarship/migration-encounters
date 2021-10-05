@@ -1,0 +1,12 @@
+{
+  "start":40235,
+  "end":40265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was the second pregnancy?",
+  "id":"f73960d2-3533-402f-ba33-5bae3bacdc17",
+  "params":{
+    "id":"b293b208-8d4e-4304-86e8-2650337c479d"
+  },
+  "name":"Mike"
+}

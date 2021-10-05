@@ -1,0 +1,13 @@
+{
+  "start":16108,
+  "end":16139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It doesn't matter what I\n   do.",
+  "id":"1b2f0738-2720-4312-895b-95e07bb86139",
+  "params":{
+    "id":"1b2f0738-2720-4312-895b-95e07bb86139",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11950,
+  "end":11999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been trying to set my life straight\n   here.",
+  "id":"e4e25d8d-e5c4-4834-843c-571587dfaeaf",
+  "params":{
+    "id":"e4e25d8d-e5c4-4834-843c-571587dfaeaf",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

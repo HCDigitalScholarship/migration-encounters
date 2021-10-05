@@ -1,0 +1,13 @@
+{
+  "start":27016,
+  "end":27025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Mexico.\"",
+  "id":"7bd4b4a8-330d-4f2c-8620-aa89e49edcce",
+  "params":{
+    "id":"7bd4b4a8-330d-4f2c-8620-aa89e49edcce",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22290,
+  "end":22336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like, \"What the hell are you doing, man?",
+  "id":"12c8ff57-e330-4a7b-a292-7698c16f19d8",
+  "params":{
+    "id":"12c8ff57-e330-4a7b-a292-7698c16f19d8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

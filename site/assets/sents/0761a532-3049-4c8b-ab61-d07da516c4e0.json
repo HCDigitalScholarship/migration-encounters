@@ -1,0 +1,13 @@
+{
+  "start":7400,
+  "end":7484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt welcomed on my side because the people that I knew were always\n   kind to me.",
+  "id":"0761a532-3049-4c8b-ab61-d07da516c4e0",
+  "params":{
+    "id":"0761a532-3049-4c8b-ab61-d07da516c4e0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

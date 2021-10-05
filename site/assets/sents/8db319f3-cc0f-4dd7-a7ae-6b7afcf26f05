@@ -1,0 +1,12 @@
+{
+  "start":19784,
+  "end":19790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can.",
+  "id":"8db319f3-cc0f-4dd7-a7ae-6b7afcf26f05",
+  "params":{
+    "id":"161ec4ce-68da-4fb4-b555-8bb483da68b0"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19829,
+  "end":19840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just\n",
+  "id":"64aa00e9-ef54-4659-a7ce-011b4f5028b1",
+  "params":{
+    "id":"64aa00e9-ef54-4659-a7ce-011b4f5028b1",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

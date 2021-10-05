@@ -1,0 +1,12 @@
+{
+  "start":40423,
+  "end":40485,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I know that my brother, he doesn't go to work out of town.",
+  "id":"fe6f43bf-ba95-4a2d-905a-1726b8a55385",
+  "params":{
+    "id":"13314e2c-ca0b-4431-a8d0-10f9957aaa38"
+  },
+  "name":"Cris"
+}

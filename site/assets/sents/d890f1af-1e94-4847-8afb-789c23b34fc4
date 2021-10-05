@@ -1,0 +1,12 @@
+{
+  "start":8000,
+  "end":8083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could\n   speak to somebody, but in the beginning it was frustrating because I\n   ",
+  "id":"d890f1af-1e94-4847-8afb-789c23b34fc4",
+  "params":{
+    "id":"cb9b42e8-b68e-4070-a19e-19b32337d156"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":505,
+  "end":527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I just went back.",
+  "id":"105ea4e8-2f54-40e9-8cfd-b7238b409ccc",
+  "params":{
+    "id":"105ea4e8-2f54-40e9-8cfd-b7238b409ccc",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12337,
+  "end":12369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy: Absolutely.\n \n \n   Laila:",
+  "id":"65dd0626-7ad5-4af5-8fd2-cc431e3c1fe9",
+  "params":{
+    "id":"65dd0626-7ad5-4af5-8fd2-cc431e3c1fe9",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

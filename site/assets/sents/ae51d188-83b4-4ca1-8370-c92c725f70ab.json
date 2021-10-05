@@ -1,0 +1,13 @@
+{
+  "start":20349,
+  "end":20450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So the violence that you encountered didn't qualify, because the\n   perpetrator was not a us citizen.",
+  "id":"ae51d188-83b4-4ca1-8370-c92c725f70ab",
+  "params":{
+    "id":"ae51d188-83b4-4ca1-8370-c92c725f70ab",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

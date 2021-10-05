@@ -1,0 +1,12 @@
+{
+  "start":2190,
+  "end":2228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, now I'm beginning to understand.",
+  "id":"473e08ea-c4b5-419a-9184-6ee61cd3b5de",
+  "params":{
+    "id":"456bf523-e59a-4023-8945-9a2ea23e7d30"
+  },
+  "name":"Joana"
+}

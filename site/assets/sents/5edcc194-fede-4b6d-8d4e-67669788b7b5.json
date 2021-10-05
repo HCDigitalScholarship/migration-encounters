@@ -1,0 +1,13 @@
+{
+  "start":25230,
+  "end":25295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are your\n   hopes and dreams now that you're back in Mexico?",
+  "id":"5edcc194-fede-4b6d-8d4e-67669788b7b5",
+  "params":{
+    "id":"5edcc194-fede-4b6d-8d4e-67669788b7b5",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

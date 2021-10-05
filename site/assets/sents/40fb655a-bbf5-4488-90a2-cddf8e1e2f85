@@ -1,0 +1,12 @@
+{
+  "start":64686,
+  "end":64716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's always the same\n   thing.",
+  "id":"40fb655a-bbf5-4488-90a2-cddf8e1e2f85",
+  "params":{
+    "id":"e53668b7-4558-4440-bcd3-2715d65e5df7"
+  },
+  "name":"Cris"
+}

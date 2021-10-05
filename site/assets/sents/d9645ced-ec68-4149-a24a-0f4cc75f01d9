@@ -1,0 +1,12 @@
+{
+  "start":16299,
+  "end":16314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Oh, yeah.",
+  "id":"d9645ced-ec68-4149-a24a-0f4cc75f01d9",
+  "params":{
+    "id":"a3a9db5e-be8c-486c-9b8b-4476c497ebe9"
+  },
+  "name":"Luis A"
+}

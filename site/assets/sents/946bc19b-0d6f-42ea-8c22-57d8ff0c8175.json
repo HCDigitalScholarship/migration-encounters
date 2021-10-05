@@ -1,0 +1,13 @@
+{
+  "start":39767,
+  "end":39785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I was happy.",
+  "id":"946bc19b-0d6f-42ea-8c22-57d8ff0c8175",
+  "params":{
+    "id":"946bc19b-0d6f-42ea-8c22-57d8ff0c8175",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

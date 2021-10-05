@@ -1,0 +1,12 @@
+{
+  "start":9081,
+  "end":9110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Carolina: My grandma.",
+  "id":"4311f140-0068-41e5-bcd4-f3ace8d18daf",
+  "params":{
+    "id":"095bfb68-7546-4f04-a706-da91a77eb4cc"
+  },
+  "name":"Carolina"
+}

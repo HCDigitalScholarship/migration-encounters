@@ -1,0 +1,13 @@
+{
+  "start":9933,
+  "end":9988,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's good enough for me, at least I know one\n   word.",
+  "id":"d636d38b-ed6d-49c5-bef8-6921d009dbae",
+  "params":{
+    "id":"d636d38b-ed6d-49c5-bef8-6921d009dbae",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

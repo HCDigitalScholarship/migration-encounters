@@ -1,0 +1,12 @@
+{
+  "start":27097,
+  "end":27109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's true.",
+  "id":"e4c140bd-7cc7-46cf-8701-043d7522e511",
+  "params":{
+    "id":"61356dfa-4782-4a49-a52c-617ade39a8dc"
+  },
+  "name":"Daniel"
+}

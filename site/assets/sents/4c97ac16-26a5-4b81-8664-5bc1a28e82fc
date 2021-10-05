@@ -1,0 +1,12 @@
+{
+  "start":775,
+  "end":819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who were you living with when they were away",
+  "id":"4c97ac16-26a5-4b81-8664-5bc1a28e82fc",
+  "params":{
+    "id":"b5ba8680-656f-453d-bb6e-9224aaf9935b"
+  },
+  "name":"Ruben"
+}

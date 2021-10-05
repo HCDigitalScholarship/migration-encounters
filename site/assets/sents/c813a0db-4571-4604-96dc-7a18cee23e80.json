@@ -1,0 +1,12 @@
+{
+  "start":4379,
+  "end":4397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Should we go back?",
+  "id":"c813a0db-4571-4604-96dc-7a18cee23e80",
+  "params":{
+    "id":"336f4441-3672-4ad8-a7e1-fc2d985a5713"
+  },
+  "name":"Luis A"
+}

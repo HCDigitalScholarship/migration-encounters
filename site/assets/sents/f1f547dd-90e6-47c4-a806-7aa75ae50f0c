@@ -1,0 +1,12 @@
+{
+  "start":13687,
+  "end":13701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where was she?",
+  "id":"f1f547dd-90e6-47c4-a806-7aa75ae50f0c",
+  "params":{
+    "id":"7d027e89-1c5f-4a53-af0f-5cb5791c08df"
+  },
+  "name":"Many"
+}

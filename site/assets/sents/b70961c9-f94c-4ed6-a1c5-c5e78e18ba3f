@@ -1,0 +1,12 @@
+{
+  "start":32370,
+  "end":32424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hit the front door and\n   I open it for some people.",
+  "id":"b70961c9-f94c-4ed6-a1c5-c5e78e18ba3f",
+  "params":{
+    "id":"5ca29209-8eeb-4473-bb3b-31a43acea5d0"
+  },
+  "name":"Cris"
+}

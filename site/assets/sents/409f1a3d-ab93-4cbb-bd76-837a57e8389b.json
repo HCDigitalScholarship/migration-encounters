@@ -1,0 +1,13 @@
+{
+  "start":26514,
+  "end":26542,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just for one\n   person.",
+  "id":"409f1a3d-ab93-4cbb-bd76-837a57e8389b",
+  "params":{
+    "id":"409f1a3d-ab93-4cbb-bd76-837a57e8389b",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

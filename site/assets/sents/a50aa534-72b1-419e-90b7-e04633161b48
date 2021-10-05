@@ -1,0 +1,12 @@
+{
+  "start":32356,
+  "end":32406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you persuade them that there's another way?",
+  "id":"a50aa534-72b1-419e-90b7-e04633161b48",
+  "params":{
+    "id":"cfcfa303-40c2-4347-b68b-e34332c8bfd0"
+  },
+  "name":"Ruben"
+}

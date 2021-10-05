@@ -1,0 +1,13 @@
+{
+  "start":31640,
+  "end":31659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to stop, man.",
+  "id":"b80e8bf4-ac6c-4d14-9a2c-614d0959f2dc",
+  "params":{
+    "id":"b80e8bf4-ac6c-4d14-9a2c-614d0959f2dc",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

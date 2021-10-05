@@ -1,0 +1,13 @@
+{
+  "start":21201,
+  "end":21220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's interesting.",
+  "id":"e223fe33-e5fd-48b6-b7c5-196482933bc4",
+  "params":{
+    "id":"e223fe33-e5fd-48b6-b7c5-196482933bc4",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

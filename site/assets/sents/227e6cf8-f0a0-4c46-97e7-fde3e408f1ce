@@ -1,0 +1,12 @@
+{
+  "start":5588,
+  "end":5615,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   mean, I don't like it.",
+  "id":"227e6cf8-f0a0-4c46-97e7-fde3e408f1ce",
+  "params":{
+    "id":"00520a18-e4e3-4aba-bc0a-066c0f8a44f4"
+  },
+  "name":"Ivan"
+}

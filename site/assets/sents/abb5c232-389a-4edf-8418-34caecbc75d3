@@ -1,0 +1,12 @@
+{
+  "start":6023,
+  "end":6080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You wanted to be a\n   Mexican citizen\u2014\n \n \n   Dan: Right.",
+  "id":"abb5c232-389a-4edf-8418-34caecbc75d3",
+  "params":{
+    "id":"48b9a71a-32ad-4d69-ac29-11c2bbbe2998"
+  },
+  "name":"Daniel"
+}

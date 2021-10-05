@@ -1,0 +1,12 @@
+{
+  "start":26342,
+  "end":26361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, that's so nice.",
+  "id":"71d9a41e-1790-4300-aaa4-1c2ab69cc49c",
+  "params":{
+    "id":"62e580b6-d1b1-4b66-9c97-f46680ae8cac"
+  },
+  "name":"Ilse"
+}

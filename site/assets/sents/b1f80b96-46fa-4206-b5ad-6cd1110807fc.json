@@ -1,0 +1,13 @@
+{
+  "start":23686,
+  "end":23729,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, they will be\n   like, are you hungry?",
+  "id":"b1f80b96-46fa-4206-b5ad-6cd1110807fc",
+  "params":{
+    "id":"b1f80b96-46fa-4206-b5ad-6cd1110807fc",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":12144,
+  "end":12153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One year.",
+  "id":"e81a3e0e-5c53-485e-9208-155af2b93f52",
+  "params":{
+    "id":"3f80eea1-68bd-4b7f-9b69-73e76dff85ee"
+  },
+  "name":"Frank"
+}

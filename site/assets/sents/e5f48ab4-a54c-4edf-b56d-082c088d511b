@@ -1,0 +1,12 @@
+{
+  "start":7712,
+  "end":7740,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think that's\n   true?",
+  "id":"e5f48ab4-a54c-4edf-b56d-082c088d511b",
+  "params":{
+    "id":"608a8189-9ef9-449e-9b34-25cc9d9eec8f"
+  },
+  "name":"Yosell"
+}

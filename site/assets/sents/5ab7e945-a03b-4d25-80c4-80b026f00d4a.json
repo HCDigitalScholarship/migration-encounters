@@ -1,0 +1,13 @@
+{
+  "start":2958,
+  "end":2969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, really?",
+  "id":"5ab7e945-a03b-4d25-80c4-80b026f00d4a",
+  "params":{
+    "id":"5ab7e945-a03b-4d25-80c4-80b026f00d4a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

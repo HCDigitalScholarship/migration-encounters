@@ -1,0 +1,12 @@
+{
+  "start":15058,
+  "end":15071,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's so cute.",
+  "id":"d3c2f929-18f6-41aa-b7c1-b16357787c96",
+  "params":{
+    "id":"fc479607-47fa-4cff-b263-18cbb169f106"
+  },
+  "name":"Hugo"
+}

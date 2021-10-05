@@ -1,0 +1,13 @@
+{
+  "start":30575,
+  "end":30602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   couldn't go to school.",
+  "id":"a0736775-c02a-4902-b7ea-b2b78a59845d",
+  "params":{
+    "id":"a0736775-c02a-4902-b7ea-b2b78a59845d",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

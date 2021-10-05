@@ -1,0 +1,13 @@
+{
+  "start":46896,
+  "end":46937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to\n   go,\" or something like that.",
+  "id":"5efd34f0-8fe8-4879-ac47-8662cd4db131",
+  "params":{
+    "id":"5efd34f0-8fe8-4879-ac47-8662cd4db131",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

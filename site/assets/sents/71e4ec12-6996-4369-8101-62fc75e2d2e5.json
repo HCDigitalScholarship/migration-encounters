@@ -1,0 +1,13 @@
+{
+  "start":33597,
+  "end":33624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was no\n     bullying.",
+  "id":"71e4ec12-6996-4369-8101-62fc75e2d2e5",
+  "params":{
+    "id":"71e4ec12-6996-4369-8101-62fc75e2d2e5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

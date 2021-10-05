@@ -1,0 +1,12 @@
+{
+  "start":10552,
+  "end":10575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother was bullied.",
+  "id":"cf9cf6df-7c25-409d-829c-89244c12a35b",
+  "params":{
+    "id":"84fb5204-872e-4189-97d5-070752758a16"
+  },
+  "name":"Joana"
+}

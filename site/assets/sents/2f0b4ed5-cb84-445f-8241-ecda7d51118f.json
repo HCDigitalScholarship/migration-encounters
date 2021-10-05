@@ -1,0 +1,13 @@
+{
+  "start":9643,
+  "end":9731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What I like about this job is that it makes me feel like at\n   home, like in the States.",
+  "id":"2f0b4ed5-cb84-445f-8241-ecda7d51118f",
+  "params":{
+    "id":"2f0b4ed5-cb84-445f-8241-ecda7d51118f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

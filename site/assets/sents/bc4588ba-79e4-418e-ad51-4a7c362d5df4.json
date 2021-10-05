@@ -1,0 +1,13 @@
+{
+  "start":8900,
+  "end":8929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean, it was just luck.",
+  "id":"bc4588ba-79e4-418e-ad51-4a7c362d5df4",
+  "params":{
+    "id":"bc4588ba-79e4-418e-ad51-4a7c362d5df4",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24496,
+  "end":24541,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n     How?\n \n \n     Beto:\n \n \n     ",
+  "id":"b372ca8d-c4f1-48fd-af49-fd5a5b0cc293",
+  "params":{
+    "id":"b372ca8d-c4f1-48fd-af49-fd5a5b0cc293",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

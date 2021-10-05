@@ -1,0 +1,12 @@
+{
+  "start":31377,
+  "end":31441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Before, when he was a kid, I think he\n   needed more of his mom.",
+  "id":"d22e8712-7f84-4b45-9d56-c7811d649399",
+  "params":{
+    "id":"edc69cab-271d-454d-9104-c16e6573f3d8"
+  },
+  "name":"Rodrigo"
+}

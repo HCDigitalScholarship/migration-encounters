@@ -1,0 +1,13 @@
+{
+  "start":2457,
+  "end":2488,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I got a scholarship for NYU.",
+  "id":"ae823686-5138-4e86-8592-b1055ef9b954",
+  "params":{
+    "id":"ae823686-5138-4e86-8592-b1055ef9b954",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

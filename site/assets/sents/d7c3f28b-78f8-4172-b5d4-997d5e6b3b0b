@@ -1,0 +1,12 @@
+{
+  "start":63342,
+  "end":63386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n     dad growing up, my mom growing up...",
+  "id":"d7c3f28b-78f8-4172-b5d4-997d5e6b3b0b",
+  "params":{
+    "id":"0f43b2cb-500c-4c5b-b925-2966bd3c610c"
+  },
+  "name":"Joseph"
+}

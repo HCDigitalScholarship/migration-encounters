@@ -1,0 +1,13 @@
+{
+  "start":32681,
+  "end":32731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On\n   the side, they would make some Mexican food.",
+  "id":"f2c76cda-222a-49ce-98d7-4310274e81cc",
+  "params":{
+    "id":"f2c76cda-222a-49ce-98d7-4310274e81cc",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

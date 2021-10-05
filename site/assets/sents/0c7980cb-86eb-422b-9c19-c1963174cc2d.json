@@ -1,0 +1,13 @@
+{
+  "start":54546,
+  "end":54604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't deprive somebody of their family like that, man.",
+  "id":"0c7980cb-86eb-422b-9c19-c1963174cc2d",
+  "params":{
+    "id":"0c7980cb-86eb-422b-9c19-c1963174cc2d",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

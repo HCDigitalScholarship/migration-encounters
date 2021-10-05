@@ -1,0 +1,13 @@
+{
+  "start":16023,
+  "end":16095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And my dad was doing maintenance work at the apartments where we\n lived.",
+  "id":"e6a7483c-6834-44e4-9a48-fd62fbb5e30f",
+  "params":{
+    "id":"e6a7483c-6834-44e4-9a48-fd62fbb5e30f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3571,
+  "end":3613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   process?\n \n \n   Miguel: When I was 18.",
+  "id":"06a9abbb-1f48-4c35-a651-ca0a52c0e994",
+  "params":{
+    "id":"06a9abbb-1f48-4c35-a651-ca0a52c0e994",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

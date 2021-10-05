@@ -1,0 +1,13 @@
+{
+  "start":15225,
+  "end":15320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We used to live in really cheap apartments until we moved up and\n   started living really good.",
+  "id":"1ccbfdf9-1184-4d8e-9c45-79062f1d7be0",
+  "params":{
+    "id":"1ccbfdf9-1184-4d8e-9c45-79062f1d7be0",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

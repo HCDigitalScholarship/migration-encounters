@@ -1,0 +1,13 @@
+{
+  "start":10956,
+  "end":10982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Juan: Twenty four.",
+  "id":"4f6cf138-b750-4c0a-a1d6-34d152c9af36",
+  "params":{
+    "id":"4f6cf138-b750-4c0a-a1d6-34d152c9af36",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

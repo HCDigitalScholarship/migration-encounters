@@ -1,0 +1,12 @@
+{
+  "start":1920,
+  "end":1979,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We say, \"undocumented,\" or, \"unauthorized,\" or\n   whatever.",
+  "id":"d7db3297-a788-46c6-8b25-437ca370866f",
+  "params":{
+    "id":"f12dbd3d-e55b-4142-9b1f-27f240d936ca"
+  },
+  "name":"Sylent"
+}

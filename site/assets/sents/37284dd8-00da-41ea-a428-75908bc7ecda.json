@@ -1,0 +1,15 @@
+{
+  "start":14726,
+  "end":14773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you feel accepted by the community overall?",
+  "id":"37284dd8-00da-41ea-a428-75908bc7ecda",
+  "params":{
+    "id":"37284dd8-00da-41ea-a428-75908bc7ecda",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36258,
+  "end":36371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I already had got an offer, but I was\n   advised not to take that offer because they were underpaying me.",
+  "id":"be6dfed6-8a59-42ba-a08d-ae1a1e9fab9f",
+  "params":{
+    "id":"3088ecd8-2afe-4b7f-b9c9-eb814e1db768"
+  },
+  "name":"Luis A"
+}

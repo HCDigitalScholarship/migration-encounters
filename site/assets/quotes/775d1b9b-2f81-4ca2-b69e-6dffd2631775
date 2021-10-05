@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":51140,
+  "end":51144,
+  "text":"ph: Yeah.\n   \n   \n     Anne: So, do you currently live with anyone or do you live alone?\n   \n   \n     Joseph: I found roommates.\n   \n   \n     Anne: So, friends?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you still have relatives in the US?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you ever see them?\n   \n   \n     Joseph: Mom and dad, no. Brother and sister, maybe sometimes.\n   \n   \n     Anne",
+  "label":"PERSON",
+  "id":"775d1b9b-2f81-4ca2-b69e-6dffd2631775",
+  "name":"Joseph"
+}

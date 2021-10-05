@@ -1,0 +1,13 @@
+{
+  "start":64963,
+  "end":65038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they rob people to make ends meet, but then they\n   get too used to it.",
+  "id":"505d285a-8b07-40bf-bca8-d353af5e4eba",
+  "params":{
+    "id":"505d285a-8b07-40bf-bca8-d353af5e4eba",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13264,
+  "end":13304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you hadn't been detained by ICE yet?",
+  "id":"b75a2821-d1b5-47f0-84ac-45ed3ab699b7",
+  "params":{
+    "id":"b75a2821-d1b5-47f0-84ac-45ed3ab699b7",
+    "class":"anno"
+  },
+  "name":"Many"
+}

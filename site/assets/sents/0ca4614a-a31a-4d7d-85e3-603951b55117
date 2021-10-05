@@ -1,0 +1,12 @@
+{
+  "start":14890,
+  "end":14940,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: You didn't only read fantasy?\n \n \n   Luisa:",
+  "id":"0ca4614a-a31a-4d7d-85e3-603951b55117",
+  "params":{
+    "id":"18a3ab7c-8d23-4a63-8175-276acd973f33"
+  },
+  "name":"Luisa"
+}

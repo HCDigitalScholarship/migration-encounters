@@ -1,0 +1,12 @@
+{
+  "start":5122,
+  "end":5178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say\n   that we're not even part\u2014we're not even ___.",
+  "id":"77744b67-3013-4334-8ed3-43d8140bc7dc",
+  "params":{
+    "id":"556724a1-85a5-490c-af48-cdacdbcc6885"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3362,
+  "end":3458,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"Dude, I just wanted to thank you because you took\n me out of my heroin addiction.\"",
+  "id":"199a45e4-8d26-489e-bb5b-8a7bb1d44ae5",
+  "params":{
+    "id":"199a45e4-8d26-489e-bb5b-8a7bb1d44ae5",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

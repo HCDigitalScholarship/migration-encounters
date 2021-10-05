@@ -1,0 +1,12 @@
+{
+  "start":2878,
+  "end":2903,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My sister didn't like it.",
+  "id":"067c3d3a-781a-4ee1-9974-c25b1f73c01a",
+  "params":{
+    "id":"0d5a8ac1-0e48-45e6-abde-b4386853cb37"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":12705,
+  "end":12724,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about that.",
+  "id":"290a4f11-b12d-4a19-8a59-0415509b63df",
+  "params":{
+    "id":"34c7b1fe-4028-40c5-bdde-12fd0169c5b0"
+  },
+  "name":"Luisa"
+}

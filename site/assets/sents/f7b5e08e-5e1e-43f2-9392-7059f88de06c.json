@@ -1,0 +1,13 @@
+{
+  "start":22421,
+  "end":22443,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is in California?",
+  "id":"f7b5e08e-5e1e-43f2-9392-7059f88de06c",
+  "params":{
+    "id":"f7b5e08e-5e1e-43f2-9392-7059f88de06c",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

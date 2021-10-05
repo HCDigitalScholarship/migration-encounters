@@ -1,0 +1,13 @@
+{
+  "start":54416,
+  "end":54464,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's been having this job for the longest\n time.",
+  "id":"9a3d09f2-27a2-4536-a46b-a700cd50490b",
+  "params":{
+    "id":"9a3d09f2-27a2-4536-a46b-a700cd50490b",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

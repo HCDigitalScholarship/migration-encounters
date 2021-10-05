@@ -1,0 +1,12 @@
+{
+  "start":36082,
+  "end":36118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cinco de Mayo,\n     they're Mexican.",
+  "id":"96c64b7d-dab0-4032-871b-3538b77f821c",
+  "params":{
+    "id":"2aaea16d-c234-4799-ad71-2b850df9d09e"
+  },
+  "name":"Beto"
+}

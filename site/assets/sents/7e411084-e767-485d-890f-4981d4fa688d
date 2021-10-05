@@ -1,0 +1,12 @@
+{
+  "start":7291,
+  "end":7317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So did you get in trouble?",
+  "id":"7e411084-e767-485d-890f-4981d4fa688d",
+  "params":{
+    "id":"d063d5bb-1cd5-421e-a32e-788d0ff3d4e3"
+  },
+  "name":"Edgar"
+}

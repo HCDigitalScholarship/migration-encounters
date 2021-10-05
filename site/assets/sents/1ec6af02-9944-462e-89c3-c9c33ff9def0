@@ -1,0 +1,12 @@
+{
+  "start":16070,
+  "end":16127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Here I don't think that\u2019s going to be a\n     good idea.\"",
+  "id":"1ec6af02-9944-462e-89c3-c9c33ff9def0",
+  "params":{
+    "id":"1780d877-1d7a-4be7-ad6a-daf721958e91"
+  },
+  "name":"Beto"
+}

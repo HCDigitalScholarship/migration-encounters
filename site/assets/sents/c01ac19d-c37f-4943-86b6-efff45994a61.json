@@ -1,0 +1,13 @@
+{
+  "start":42150,
+  "end":42196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfY estos ocho a\u00f1os que tuviste que pasar sola?",
+  "id":"c01ac19d-c37f-4943-86b6-efff45994a61",
+  "params":{
+    "id":"c01ac19d-c37f-4943-86b6-efff45994a61",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8493,
+  "end":8527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're about to get\n   in trouble.",
+  "id":"2115be23-138e-4c59-9fd5-04442752f34c",
+  "params":{
+    "id":"56ba3942-712b-47be-9400-c724bc72c195"
+  },
+  "name":"Carlos"
+}

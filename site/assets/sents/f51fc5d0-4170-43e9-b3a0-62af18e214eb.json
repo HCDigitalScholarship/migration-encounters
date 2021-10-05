@@ -1,0 +1,13 @@
+{
+  "start":41289,
+  "end":41407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't just pick up the phone whenever you want and\n   call your loved ones because you've got to pay for that too.",
+  "id":"f51fc5d0-4170-43e9-b3a0-62af18e214eb",
+  "params":{
+    "id":"f51fc5d0-4170-43e9-b3a0-62af18e214eb",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

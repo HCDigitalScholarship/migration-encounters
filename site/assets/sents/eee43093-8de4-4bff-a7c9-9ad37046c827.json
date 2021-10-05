@@ -1,0 +1,13 @@
+{
+  "start":8956,
+  "end":9022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the end, you're the company and\n     you work for this company.",
+  "id":"eee43093-8de4-4bff-a7c9-9ad37046c827",
+  "params":{
+    "id":"eee43093-8de4-4bff-a7c9-9ad37046c827",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25917,
+  "end":25948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom sent her back to Mexico.",
+  "id":"67a3f87a-6f7e-4910-9e60-7b9a226dc62e",
+  "params":{
+    "id":"75d9d963-2d53-4887-a34b-6f5592236946"
+  },
+  "name":"Sylent"
+}

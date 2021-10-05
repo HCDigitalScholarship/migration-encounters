@@ -1,0 +1,12 @@
+{
+  "start":42221,
+  "end":42253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Rodrigo: By her grandma.",
+  "id":"fdf42cb7-9947-4fb3-8451-cb32703217a8",
+  "params":{
+    "id":"057560b4-ad55-4865-aba7-dd3ad6d8922c"
+  },
+  "name":"Rodrigo"
+}

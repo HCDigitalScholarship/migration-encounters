@@ -1,0 +1,13 @@
+{
+  "start":49514,
+  "end":49535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"10,000 Mexican Pesos.",
+  "id":"6a57fa1e-d946-43f3-9966-0d5911712e61",
+  "params":{
+    "id":"6a57fa1e-d946-43f3-9966-0d5911712e61",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9085,
+  "end":9088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"you",
+  "id":"ca3280bd-360a-4f5b-8ea3-bc95b1c1f622",
+  "params":{
+    "id":"1c881c93-f885-45c2-add5-ccb96e3e83d5"
+  },
+  "name":"Hugo"
+}

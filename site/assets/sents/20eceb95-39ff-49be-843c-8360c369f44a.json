@@ -1,0 +1,13 @@
+{
+  "start":34904,
+  "end":34961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"I told you to shut the fuck up.\"\n \n \n   Cris:",
+  "id":"20eceb95-39ff-49be-843c-8360c369f44a",
+  "params":{
+    "id":"20eceb95-39ff-49be-843c-8360c369f44a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

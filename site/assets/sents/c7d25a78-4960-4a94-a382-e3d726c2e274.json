@@ -1,0 +1,12 @@
+{
+  "start":105,
+  "end":127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was three years old.",
+  "id":"c7d25a78-4960-4a94-a382-e3d726c2e274",
+  "params":{
+    "id":"fd8eaaaa-09e5-4538-a951-8c6fa843a376"
+  },
+  "name":"Daniel"
+}

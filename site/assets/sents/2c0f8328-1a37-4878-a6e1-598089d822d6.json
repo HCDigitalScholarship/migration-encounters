@@ -1,0 +1,13 @@
+{
+  "start":15097,
+  "end":15133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But at first, I thought I was white.",
+  "id":"2c0f8328-1a37-4878-a6e1-598089d822d6",
+  "params":{
+    "id":"2c0f8328-1a37-4878-a6e1-598089d822d6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

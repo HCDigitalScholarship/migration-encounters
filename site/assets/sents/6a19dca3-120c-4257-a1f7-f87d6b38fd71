@@ -1,0 +1,12 @@
+{
+  "start":28265,
+  "end":28304,
+  "label":"SENT",
+  "type":"sent",
+  "text":", you're going to destroy\n their faith.",
+  "id":"6a19dca3-120c-4257-a1f7-f87d6b38fd71",
+  "params":{
+    "id":"cfbf7f26-6c19-4a08-93dc-bd022da21e11"
+  },
+  "name":"Ben"
+}

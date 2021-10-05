@@ -1,0 +1,12 @@
+{
+  "start":6562,
+  "end":6580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   didn\u2019t know\u2026",
+  "id":"5371e6ff-0e0f-4047-8f99-5109724d3768",
+  "params":{
+    "id":"b12ef180-2ea8-48a9-9e4a-ff0d691d7db4"
+  },
+  "name":"Joseph"
+}

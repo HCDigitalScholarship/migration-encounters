@@ -1,0 +1,12 @@
+{
+  "start":9200,
+  "end":9235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"while the FBI was\n   following them",
+  "id":"9353e841-9baf-4d57-820a-64aa38e026e5",
+  "params":{
+    "id":"6764e330-311e-4126-a6b9-12e2ee1aab99"
+  },
+  "name":"Kevin"
+}

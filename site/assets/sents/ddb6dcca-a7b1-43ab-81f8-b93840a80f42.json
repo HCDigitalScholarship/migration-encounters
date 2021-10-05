@@ -1,0 +1,13 @@
+{
+  "start":5382,
+  "end":5405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still remember today.",
+  "id":"ddb6dcca-a7b1-43ab-81f8-b93840a80f42",
+  "params":{
+    "id":"ddb6dcca-a7b1-43ab-81f8-b93840a80f42",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40298,
+  "end":40361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even\n   trying to get an education, what are we going to study?",
+  "id":"659fe1a7-4869-4ffd-9f36-74043fc47b96",
+  "params":{
+    "id":"659fe1a7-4869-4ffd-9f36-74043fc47b96",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

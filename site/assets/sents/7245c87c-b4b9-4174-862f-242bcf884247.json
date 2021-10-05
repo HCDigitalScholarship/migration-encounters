@@ -1,0 +1,13 @@
+{
+  "start":30358,
+  "end":30392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was asking you about your papers",
+  "id":"7245c87c-b4b9-4174-862f-242bcf884247",
+  "params":{
+    "id":"7245c87c-b4b9-4174-862f-242bcf884247",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

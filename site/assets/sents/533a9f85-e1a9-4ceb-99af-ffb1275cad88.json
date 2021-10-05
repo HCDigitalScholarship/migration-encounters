@@ -1,0 +1,13 @@
+{
+  "start":51425,
+  "end":51454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because this guy's got money.",
+  "id":"533a9f85-e1a9-4ceb-99af-ffb1275cad88",
+  "params":{
+    "id":"533a9f85-e1a9-4ceb-99af-ffb1275cad88",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

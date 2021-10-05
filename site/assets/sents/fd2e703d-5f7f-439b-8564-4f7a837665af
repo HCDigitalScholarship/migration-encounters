@@ -1,0 +1,12 @@
+{
+  "start":60100,
+  "end":60152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't worry, you're the only person\n I can count on.",
+  "id":"fd2e703d-5f7f-439b-8564-4f7a837665af",
+  "params":{
+    "id":"b5e158c8-bfa5-4ae6-9b44-8a9c9633a9a7"
+  },
+  "name":"Axel"
+}

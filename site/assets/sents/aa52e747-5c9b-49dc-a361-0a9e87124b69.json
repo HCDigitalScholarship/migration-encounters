@@ -1,0 +1,13 @@
+{
+  "start":5572,
+  "end":5622,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the U.S. people are more independent than here.",
+  "id":"aa52e747-5c9b-49dc-a361-0a9e87124b69",
+  "params":{
+    "id":"aa52e747-5c9b-49dc-a361-0a9e87124b69",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

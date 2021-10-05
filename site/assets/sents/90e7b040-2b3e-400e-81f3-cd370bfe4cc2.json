@@ -1,0 +1,13 @@
+{
+  "start":1982,
+  "end":2007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's one of my favorites.",
+  "id":"90e7b040-2b3e-400e-81f3-cd370bfe4cc2",
+  "params":{
+    "id":"90e7b040-2b3e-400e-81f3-cd370bfe4cc2",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

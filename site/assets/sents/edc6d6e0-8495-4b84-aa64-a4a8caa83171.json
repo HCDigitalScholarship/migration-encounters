@@ -1,0 +1,13 @@
+{
+  "start":2946,
+  "end":3029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And so that let me know, \"Dude, you're here to help\n others and, yeah, just do it.\"",
+  "id":"edc6d6e0-8495-4b84-aa64-a4a8caa83171",
+  "params":{
+    "id":"edc6d6e0-8495-4b84-aa64-a4a8caa83171",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

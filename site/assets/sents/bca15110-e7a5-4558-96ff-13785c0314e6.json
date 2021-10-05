@@ -1,0 +1,13 @@
+{
+  "start":7755,
+  "end":7798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And this is a poem you've written yourself?",
+  "id":"bca15110-e7a5-4558-96ff-13785c0314e6",
+  "params":{
+    "id":"bca15110-e7a5-4558-96ff-13785c0314e6",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

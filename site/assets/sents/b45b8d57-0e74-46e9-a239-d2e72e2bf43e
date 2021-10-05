@@ -1,0 +1,12 @@
+{
+  "start":35524,
+  "end":35589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it seems\n like it\u2019s not even in the equation.\n      \n      \n ",
+  "id":"b45b8d57-0e74-46e9-a239-d2e72e2bf43e",
+  "params":{
+    "id":"5b225db5-75cf-4f37-bfeb-cb7fc8335244"
+  },
+  "name":"Ben"
+}

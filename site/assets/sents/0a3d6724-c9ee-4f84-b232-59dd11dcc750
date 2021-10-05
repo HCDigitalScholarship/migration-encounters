@@ -1,0 +1,12 @@
+{
+  "start":26772,
+  "end":26786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can do it?",
+  "id":"0a3d6724-c9ee-4f84-b232-59dd11dcc750",
+  "params":{
+    "id":"81dbf553-bedc-41e4-ba64-648c2d131d0e"
+  },
+  "name":"Billy"
+}

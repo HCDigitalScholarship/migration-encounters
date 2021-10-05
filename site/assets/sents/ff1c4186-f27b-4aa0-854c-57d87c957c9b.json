@@ -1,0 +1,13 @@
+{
+  "start":64673,
+  "end":64713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"that understands how things are nowadays",
+  "id":"ff1c4186-f27b-4aa0-854c-57d87c957c9b",
+  "params":{
+    "id":"ff1c4186-f27b-4aa0-854c-57d87c957c9b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36366,
+  "end":36385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"But what are you?\"",
+  "id":"9c4e7d83-5581-45e2-b63b-d5558b60d99e",
+  "params":{
+    "id":"9c4e7d83-5581-45e2-b63b-d5558b60d99e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

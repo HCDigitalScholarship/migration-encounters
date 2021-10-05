@@ -1,0 +1,13 @@
+{
+  "start":20262,
+  "end":20292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't\"\n      \n      \n Ben:",
+  "id":"08f0f45d-feb5-4554-a1a5-5c69e3b34923",
+  "params":{
+    "id":"08f0f45d-feb5-4554-a1a5-5c69e3b34923",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

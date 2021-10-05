@@ -1,0 +1,13 @@
+{
+  "start":42512,
+  "end":42561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was not\n   able to say no to my dad [Sniffles].",
+  "id":"e8df2134-0033-4d0f-a893-14f349e95aad",
+  "params":{
+    "id":"e8df2134-0033-4d0f-a893-14f349e95aad",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

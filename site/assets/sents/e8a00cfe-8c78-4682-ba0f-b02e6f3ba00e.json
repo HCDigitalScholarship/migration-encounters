@@ -1,0 +1,13 @@
+{
+  "start":32503,
+  "end":32562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"An\n   extremely philosophical experience, right [chuckles]?",
+  "id":"e8a00cfe-8c78-4682-ba0f-b02e6f3ba00e",
+  "params":{
+    "id":"e8a00cfe-8c78-4682-ba0f-b02e6f3ba00e",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

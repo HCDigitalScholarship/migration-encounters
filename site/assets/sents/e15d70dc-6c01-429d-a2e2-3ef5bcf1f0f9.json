@@ -1,0 +1,13 @@
+{
+  "start":12813,
+  "end":12842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went back to United States.",
+  "id":"e15d70dc-6c01-429d-a2e2-3ef5bcf1f0f9",
+  "params":{
+    "id":"e15d70dc-6c01-429d-a2e2-3ef5bcf1f0f9",
+    "class":"anno"
+  },
+  "name":"Many"
+}

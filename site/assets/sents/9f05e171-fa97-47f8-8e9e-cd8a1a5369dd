@@ -1,0 +1,12 @@
+{
+  "start":1332,
+  "end":1366,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He went back and forth to Del\nMar.",
+  "id":"9f05e171-fa97-47f8-8e9e-cd8a1a5369dd",
+  "params":{
+    "id":"807629be-4339-4e9b-8809-c79d99925c25"
+  },
+  "name":"Abel"
+}

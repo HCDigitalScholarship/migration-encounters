@@ -1,0 +1,13 @@
+{
+  "start":5875,
+  "end":5989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We knew that they were going to be looking for us, obviously, or\n   someone out there, so we just decided to wait.",
+  "id":"064038a8-e23b-45cf-9169-18e6e5cc079f",
+  "params":{
+    "id":"064038a8-e23b-45cf-9169-18e6e5cc079f",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

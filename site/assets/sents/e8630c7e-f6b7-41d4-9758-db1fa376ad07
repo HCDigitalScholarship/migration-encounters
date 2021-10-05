@@ -1,0 +1,12 @@
+{
+  "start":9091,
+  "end":9151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could find some other kinds of people,\n   but that's ...",
+  "id":"e8630c7e-f6b7-41d4-9758-db1fa376ad07",
+  "params":{
+    "id":"dca08bfd-e522-4de6-9e0d-9472f78e0ba4"
+  },
+  "name":"Rodrigo"
+}

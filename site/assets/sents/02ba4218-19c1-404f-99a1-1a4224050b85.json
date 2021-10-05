@@ -1,0 +1,13 @@
+{
+  "start":8176,
+  "end":8200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did not have a lawyer.",
+  "id":"02ba4218-19c1-404f-99a1-1a4224050b85",
+  "params":{
+    "id":"02ba4218-19c1-404f-99a1-1a4224050b85",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

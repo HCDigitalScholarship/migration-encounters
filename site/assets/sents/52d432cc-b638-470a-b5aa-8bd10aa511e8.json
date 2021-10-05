@@ -1,0 +1,13 @@
+{
+  "start":10990,
+  "end":11016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was already 18, I think.",
+  "id":"52d432cc-b638-470a-b5aa-8bd10aa511e8",
+  "params":{
+    "id":"52d432cc-b638-470a-b5aa-8bd10aa511e8",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

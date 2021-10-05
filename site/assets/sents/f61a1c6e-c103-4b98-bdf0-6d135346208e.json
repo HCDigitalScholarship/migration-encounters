@@ -1,0 +1,13 @@
+{
+  "start":10396,
+  "end":10436,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it\n   looked like a big ball of fire.",
+  "id":"f61a1c6e-c103-4b98-bdf0-6d135346208e",
+  "params":{
+    "id":"f61a1c6e-c103-4b98-bdf0-6d135346208e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

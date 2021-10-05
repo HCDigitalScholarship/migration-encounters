@@ -1,0 +1,13 @@
+{
+  "start":8023,
+  "end":8056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you informed of your rights?",
+  "id":"26960540-114b-4786-9371-b580e5781ef4",
+  "params":{
+    "id":"26960540-114b-4786-9371-b580e5781ef4",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

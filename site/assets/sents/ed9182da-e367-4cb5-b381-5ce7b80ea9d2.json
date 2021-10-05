@@ -1,0 +1,13 @@
+{
+  "start":34741,
+  "end":34782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is there anything you want to leave with?",
+  "id":"ed9182da-e367-4cb5-b381-5ce7b80ea9d2",
+  "params":{
+    "id":"ed9182da-e367-4cb5-b381-5ce7b80ea9d2",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

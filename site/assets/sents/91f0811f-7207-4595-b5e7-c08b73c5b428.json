@@ -1,0 +1,13 @@
+{
+  "start":11446,
+  "end":11471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here I\n   fought my case.",
+  "id":"91f0811f-7207-4595-b5e7-c08b73c5b428",
+  "params":{
+    "id":"91f0811f-7207-4595-b5e7-c08b73c5b428",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3173,
+  "end":3199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were your parents working?",
+  "id":"85a69eac-c30f-4559-bdeb-ec3c2e2c2711",
+  "params":{
+    "id":"85a69eac-c30f-4559-bdeb-ec3c2e2c2711",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

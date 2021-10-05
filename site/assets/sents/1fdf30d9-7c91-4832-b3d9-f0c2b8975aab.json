@@ -1,0 +1,13 @@
+{
+  "start":16278,
+  "end":16312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like a cell, like a big cell.",
+  "id":"1fdf30d9-7c91-4832-b3d9-f0c2b8975aab",
+  "params":{
+    "id":"1fdf30d9-7c91-4832-b3d9-f0c2b8975aab",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

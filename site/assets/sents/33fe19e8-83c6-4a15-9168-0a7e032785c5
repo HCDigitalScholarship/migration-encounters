@@ -1,0 +1,12 @@
+{
+  "start":10250,
+  "end":10310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And so, I would do that 10 times and then I would feel good.",
+  "id":"33fe19e8-83c6-4a15-9168-0a7e032785c5",
+  "params":{
+    "id":"d5a337ce-00dd-43b8-a684-7d7aa6b9466b"
+  },
+  "name":"Billy"
+}

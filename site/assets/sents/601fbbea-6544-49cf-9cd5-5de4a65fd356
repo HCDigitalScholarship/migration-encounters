@@ -1,0 +1,12 @@
+{
+  "start":23887,
+  "end":23918,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because you're sleeping next to",
+  "id":"601fbbea-6544-49cf-9cd5-5de4a65fd356",
+  "params":{
+    "id":"6ee151a2-daf5-4896-ab9f-22af02c3b3e3"
+  },
+  "name":"Hugo"
+}

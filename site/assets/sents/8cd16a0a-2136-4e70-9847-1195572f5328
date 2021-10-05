@@ -1,0 +1,12 @@
+{
+  "start":17259,
+  "end":17292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to\n tell you the story.",
+  "id":"8cd16a0a-2136-4e70-9847-1195572f5328",
+  "params":{
+    "id":"27695b4f-b3ae-42b3-bb91-5e28c9e3994b"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":16550,
+  "end":16577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[foreign language 00:23:49]",
+  "id":"48307425-8b24-43f1-8ce7-de25a44255e6",
+  "params":{
+    "id":"eb11b2f6-28a5-4720-85b6-db0546036969"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14056,
+  "end":14093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're running late already to\n work.",
+  "id":"f240e683-ddd2-4853-a084-0dc3e2f0e4db",
+  "params":{
+    "id":"f240e683-ddd2-4853-a084-0dc3e2f0e4db",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

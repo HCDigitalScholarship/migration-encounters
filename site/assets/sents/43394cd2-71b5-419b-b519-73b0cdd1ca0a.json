@@ -1,0 +1,13 @@
+{
+  "start":22729,
+  "end":22761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My life is going\n   to continue.",
+  "id":"43394cd2-71b5-419b-b519-73b0cdd1ca0a",
+  "params":{
+    "id":"43394cd2-71b5-419b-b519-73b0cdd1ca0a",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

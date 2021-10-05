@@ -1,0 +1,13 @@
+{
+  "start":294,
+  "end":362,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He saw an\n   opportunity and thought that it would be better for us.",
+  "id":"d4d1c02c-e9b0-4b58-979e-37bb0a5ee6c6",
+  "params":{
+    "id":"d4d1c02c-e9b0-4b58-979e-37bb0a5ee6c6",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

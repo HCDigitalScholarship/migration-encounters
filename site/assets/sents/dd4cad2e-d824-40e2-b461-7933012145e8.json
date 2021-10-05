@@ -1,0 +1,12 @@
+{
+  "start":5146,
+  "end":5174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had gone to\n   Taco Bell.",
+  "id":"dd4cad2e-d824-40e2-b461-7933012145e8",
+  "params":{
+    "id":"66fe4401-18b1-4140-94cc-118cbef2c333"
+  },
+  "name":"Mike"
+}

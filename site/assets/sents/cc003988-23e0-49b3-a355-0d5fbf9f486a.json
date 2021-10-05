@@ -1,0 +1,13 @@
+{
+  "start":30030,
+  "end":30125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's good, because you can get it\n anywhere at any time, but it's contaminating the whole city.",
+  "id":"cc003988-23e0-49b3-a355-0d5fbf9f486a",
+  "params":{
+    "id":"cc003988-23e0-49b3-a355-0d5fbf9f486a",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

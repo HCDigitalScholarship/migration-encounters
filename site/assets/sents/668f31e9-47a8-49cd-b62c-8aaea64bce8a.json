@@ -1,0 +1,13 @@
+{
+  "start":4558,
+  "end":4564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus:",
+  "id":"668f31e9-47a8-49cd-b62c-8aaea64bce8a",
+  "params":{
+    "id":"668f31e9-47a8-49cd-b62c-8aaea64bce8a",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

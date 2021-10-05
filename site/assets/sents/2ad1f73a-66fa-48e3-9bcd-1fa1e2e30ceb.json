@@ -1,0 +1,13 @@
+{
+  "start":2160,
+  "end":2215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We saw the road, but I don't know where\n   we, exactly.",
+  "id":"2ad1f73a-66fa-48e3-9bcd-1fa1e2e30ceb",
+  "params":{
+    "id":"2ad1f73a-66fa-48e3-9bcd-1fa1e2e30ceb",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

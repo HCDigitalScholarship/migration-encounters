@@ -1,0 +1,13 @@
+{
+  "start":9353,
+  "end":9372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is super cool.",
+  "id":"275cf126-2f92-4e32-b6f2-29ddb90d3ff0",
+  "params":{
+    "id":"275cf126-2f92-4e32-b6f2-29ddb90d3ff0",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

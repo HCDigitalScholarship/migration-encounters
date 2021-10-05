@@ -1,0 +1,13 @@
+{
+  "start":31618,
+  "end":31697,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can go\n to your room, I'll stay in the living room, I'm not going anywhere.",
+  "id":"813628c6-4c6f-4e8a-b798-210578155201",
+  "params":{
+    "id":"813628c6-4c6f-4e8a-b798-210578155201",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

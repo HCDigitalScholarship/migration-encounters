@@ -1,0 +1,13 @@
+{
+  "start":6588,
+  "end":6635,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what happened to the family after she left?",
+  "id":"e74f631b-7a13-4d98-8f4e-d3cdfd844ebe",
+  "params":{
+    "id":"e74f631b-7a13-4d98-8f4e-d3cdfd844ebe",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

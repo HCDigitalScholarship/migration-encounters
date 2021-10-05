@@ -1,0 +1,13 @@
+{
+  "start":12859,
+  "end":12875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Tim\n   laughs].",
+  "id":"9660f057-f794-4ae9-a7e6-bcefe87a5780",
+  "params":{
+    "id":"9660f057-f794-4ae9-a7e6-bcefe87a5780",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

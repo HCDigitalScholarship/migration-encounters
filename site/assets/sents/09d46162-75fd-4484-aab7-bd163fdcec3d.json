@@ -1,0 +1,13 @@
+{
+  "start":13725,
+  "end":13755,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how I did my two years.",
+  "id":"09d46162-75fd-4484-aab7-bd163fdcec3d",
+  "params":{
+    "id":"09d46162-75fd-4484-aab7-bd163fdcec3d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

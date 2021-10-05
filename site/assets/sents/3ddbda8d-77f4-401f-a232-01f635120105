@@ -1,0 +1,12 @@
+{
+  "start":15044,
+  "end":15067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What am I going to say?",
+  "id":"3ddbda8d-77f4-401f-a232-01f635120105",
+  "params":{
+    "id":"3af4d39c-41f0-4c08-bd6f-67762996ed08"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5532,
+  "end":5613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then\n   they changed management and that's when they started checking things.",
+  "id":"9edaa628-0eef-47c0-8bdf-e8a14e45f81b",
+  "params":{
+    "id":"c293e536-ef1e-4624-80a6-07a6b1bf2070"
+  },
+  "name":"Josue"
+}

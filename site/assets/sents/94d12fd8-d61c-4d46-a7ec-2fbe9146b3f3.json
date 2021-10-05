@@ -1,0 +1,13 @@
+{
+  "start":9839,
+  "end":9932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I mean the only thing I've learnt is [Russian 00:09:31], and\n   that's just a greeting.",
+  "id":"94d12fd8-d61c-4d46-a7ec-2fbe9146b3f3",
+  "params":{
+    "id":"94d12fd8-d61c-4d46-a7ec-2fbe9146b3f3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

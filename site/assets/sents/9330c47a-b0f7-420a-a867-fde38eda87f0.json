@@ -1,0 +1,13 @@
+{
+  "start":58007,
+  "end":58023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my thing.",
+  "id":"9330c47a-b0f7-420a-a867-fde38eda87f0",
+  "params":{
+    "id":"9330c47a-b0f7-420a-a867-fde38eda87f0",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

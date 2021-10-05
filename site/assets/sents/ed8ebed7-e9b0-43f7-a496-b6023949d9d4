@@ -1,0 +1,12 @@
+{
+  "start":10475,
+  "end":10559,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They give you access to computers to\n   communicate with your family and everything.",
+  "id":"ed8ebed7-e9b0-43f7-a496-b6023949d9d4",
+  "params":{
+    "id":"d4440d1f-7589-4291-8621-73885c9d9c12"
+  },
+  "name":"Noe"
+}

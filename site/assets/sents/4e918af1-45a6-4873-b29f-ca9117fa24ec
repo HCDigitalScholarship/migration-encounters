@@ -1,0 +1,12 @@
+{
+  "start":33749,
+  "end":33780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, I have a girlfriend.",
+  "id":"4e918af1-45a6-4873-b29f-ca9117fa24ec",
+  "params":{
+    "id":"3c44918b-f409-4738-b1d2-e9e13004fd11"
+  },
+  "name":"Carlos"
+}

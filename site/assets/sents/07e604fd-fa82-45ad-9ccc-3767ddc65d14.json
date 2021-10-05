@@ -1,0 +1,13 @@
+{
+  "start":30157,
+  "end":30194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't have a good organization.",
+  "id":"07e604fd-fa82-45ad-9ccc-3767ddc65d14",
+  "params":{
+    "id":"07e604fd-fa82-45ad-9ccc-3767ddc65d14",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

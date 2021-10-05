@@ -1,0 +1,12 @@
+{
+  "start":15889,
+  "end":16020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go to the liquor store, you go to the store, you ask for\n     certain amount and then they put some numbers, and that's money.\"",
+  "id":"0ccc3fee-7924-4997-b57a-f9177438b0e8",
+  "params":{
+    "id":"faa47e70-f81a-48d5-9c81-410b37f0ffe4"
+  },
+  "name":"Beto"
+}

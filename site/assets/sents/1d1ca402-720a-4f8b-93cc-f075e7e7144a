@@ -1,0 +1,12 @@
+{
+  "start":21000,
+  "end":21024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's very\n   collective.",
+  "id":"1d1ca402-720a-4f8b-93cc-f075e7e7144a",
+  "params":{
+    "id":"ff5d116a-f132-4c58-acd8-f73fa25eeacc"
+  },
+  "name":"Miguel A"
+}

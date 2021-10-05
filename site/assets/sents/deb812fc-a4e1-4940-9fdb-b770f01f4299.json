@@ -1,0 +1,13 @@
+{
+  "start":41820,
+  "end":41879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you want to know?\u201d Because \u201cwhere are\n   you from?\u201d",
+  "id":"deb812fc-a4e1-4940-9fdb-b770f01f4299",
+  "params":{
+    "id":"deb812fc-a4e1-4940-9fdb-b770f01f4299",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

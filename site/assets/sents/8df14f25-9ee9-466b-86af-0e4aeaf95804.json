@@ -1,0 +1,13 @@
+{
+  "start":18576,
+  "end":18585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's two.",
+  "id":"8df14f25-9ee9-466b-86af-0e4aeaf95804",
+  "params":{
+    "id":"8df14f25-9ee9-466b-86af-0e4aeaf95804",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

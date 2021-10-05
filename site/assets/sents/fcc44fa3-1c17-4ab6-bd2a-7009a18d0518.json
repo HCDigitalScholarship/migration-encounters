@@ -1,0 +1,13 @@
+{
+  "start":31177,
+  "end":31262,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt discriminated because of that\n   because I'd dress like I do now with my hats.",
+  "id":"fcc44fa3-1c17-4ab6-bd2a-7009a18d0518",
+  "params":{
+    "id":"fcc44fa3-1c17-4ab6-bd2a-7009a18d0518",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

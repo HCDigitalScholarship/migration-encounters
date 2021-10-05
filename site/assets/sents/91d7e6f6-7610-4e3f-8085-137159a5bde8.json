@@ -1,0 +1,15 @@
+{
+  "start":10373,
+  "end":10395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's very inspiring.",
+  "id":"91d7e6f6-7610-4e3f-8085-137159a5bde8",
+  "params":{
+    "id":"91d7e6f6-7610-4e3f-8085-137159a5bde8",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21859,
+  "end":21928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d But so, that's what happened, so then\n   that's how I got deported.",
+  "id":"970803f4-041f-41ab-bdf5-c32f955ef98f",
+  "params":{
+    "id":"970803f4-041f-41ab-bdf5-c32f955ef98f",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

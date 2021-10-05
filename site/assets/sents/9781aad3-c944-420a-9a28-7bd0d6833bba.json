@@ -1,0 +1,13 @@
+{
+  "start":26223,
+  "end":26294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't\n   have to watch my back and say, \"What neighborhood am I in?\".",
+  "id":"9781aad3-c944-420a-9a28-7bd0d6833bba",
+  "params":{
+    "id":"9781aad3-c944-420a-9a28-7bd0d6833bba",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32720,
+  "end":32842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It sounds like you were able to think really quickly and\n   navigate those situations to protect yourself and your family.",
+  "id":"c0a89983-75f3-4a84-b23f-b0f4ab42fdc1",
+  "params":{
+    "id":"c0a89983-75f3-4a84-b23f-b0f4ab42fdc1",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

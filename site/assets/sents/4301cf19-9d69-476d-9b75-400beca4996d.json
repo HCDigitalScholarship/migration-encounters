@@ -1,0 +1,13 @@
+{
+  "start":23548,
+  "end":23580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would you like to be doing?",
+  "id":"4301cf19-9d69-476d-9b75-400beca4996d",
+  "params":{
+    "id":"4301cf19-9d69-476d-9b75-400beca4996d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

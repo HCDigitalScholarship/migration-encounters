@@ -1,0 +1,13 @@
+{
+  "start":8701,
+  "end":8754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   I think we were too young when we got married.",
+  "id":"b517b021-865a-46cb-bf03-0ac840d47e78",
+  "params":{
+    "id":"b517b021-865a-46cb-bf03-0ac840d47e78",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9805,
+  "end":9825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, Russian's tough.",
+  "id":"7305dc99-c037-41b7-a3c0-f44d1f155da7",
+  "params":{
+    "id":"7305dc99-c037-41b7-a3c0-f44d1f155da7",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

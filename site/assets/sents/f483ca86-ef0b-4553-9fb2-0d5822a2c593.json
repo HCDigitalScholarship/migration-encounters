@@ -1,0 +1,12 @@
+{
+  "start":1820,
+  "end":1839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a\n   janitor.",
+  "id":"f483ca86-ef0b-4553-9fb2-0d5822a2c593",
+  "params":{
+    "id":"92b169c6-ac3c-4067-b5f2-e31674189349"
+  },
+  "name":"Ivan"
+}

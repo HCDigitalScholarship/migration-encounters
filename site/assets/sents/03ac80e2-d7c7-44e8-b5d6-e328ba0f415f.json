@@ -1,0 +1,13 @@
+{
+  "start":31088,
+  "end":31128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The wife has the final decision, really.",
+  "id":"03ac80e2-d7c7-44e8-b5d6-e328ba0f415f",
+  "params":{
+    "id":"03ac80e2-d7c7-44e8-b5d6-e328ba0f415f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

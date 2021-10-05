@@ -1,0 +1,13 @@
+{
+  "start":10154,
+  "end":10190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: I'm building.\n      \n      \n ",
+  "id":"d5feed2e-8dce-4d82-8474-9f4652fe1710",
+  "params":{
+    "id":"d5feed2e-8dce-4d82-8474-9f4652fe1710",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4126,
+  "end":4231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, I'm leasing the phones and have to explain to them that they're\n     not financing the phones.",
+  "id":"e2b1ece3-1ebb-4093-a659-8b145e0fd293",
+  "params":{
+    "id":"e2b1ece3-1ebb-4093-a659-8b145e0fd293",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

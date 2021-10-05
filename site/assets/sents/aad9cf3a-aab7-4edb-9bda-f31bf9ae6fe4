@@ -1,0 +1,12 @@
+{
+  "start":11765,
+  "end":11790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She live in Palm Springs.",
+  "id":"aad9cf3a-aab7-4edb-9bda-f31bf9ae6fe4",
+  "params":{
+    "id":"5bbefd0c-a728-4a32-82b4-164b40f5f800"
+  },
+  "name":"Rocio"
+}

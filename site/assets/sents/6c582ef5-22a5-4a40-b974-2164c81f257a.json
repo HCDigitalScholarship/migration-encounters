@@ -1,0 +1,13 @@
+{
+  "start":14256,
+  "end":14314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When did you go back to the United States the second time?",
+  "id":"6c582ef5-22a5-4a40-b974-2164c81f257a",
+  "params":{
+    "id":"6c582ef5-22a5-4a40-b974-2164c81f257a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

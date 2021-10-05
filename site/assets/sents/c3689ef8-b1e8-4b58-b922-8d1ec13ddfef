@@ -1,0 +1,12 @@
+{
+  "start":10905,
+  "end":10937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This was a secret that you kept?",
+  "id":"c3689ef8-b1e8-4b58-b922-8d1ec13ddfef",
+  "params":{
+    "id":"085c2b67-52f5-4b7a-a854-5587bc8513bc"
+  },
+  "name":"Joana"
+}

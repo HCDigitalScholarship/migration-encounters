@@ -1,0 +1,13 @@
+{
+  "start":9311,
+  "end":9348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We used to love writing on the walls.",
+  "id":"40299d11-b989-400d-a12b-30bd1a8e5eaa",
+  "params":{
+    "id":"40299d11-b989-400d-a12b-30bd1a8e5eaa",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

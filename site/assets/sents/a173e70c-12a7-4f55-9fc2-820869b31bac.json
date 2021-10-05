@@ -1,0 +1,13 @@
+{
+  "start":25479,
+  "end":25580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When my first, I was detained when I was 19\u2014well no, I got in\n trouble when I was 19, detained at 27.",
+  "id":"a173e70c-12a7-4f55-9fc2-820869b31bac",
+  "params":{
+    "id":"a173e70c-12a7-4f55-9fc2-820869b31bac",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":53008,
+  "end":53049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like,\n   \"What the F are you doing?",
+  "id":"3708932d-a7b1-4792-ab35-38d8754d0d03",
+  "params":{
+    "id":"3708932d-a7b1-4792-ab35-38d8754d0d03",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

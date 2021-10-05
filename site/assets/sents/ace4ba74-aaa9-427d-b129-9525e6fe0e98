@@ -1,0 +1,12 @@
+{
+  "start":2727,
+  "end":2752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, I'm here right now.",
+  "id":"ace4ba74-aaa9-427d-b129-9525e6fe0e98",
+  "params":{
+    "id":"f9325e0e-53f4-4dd1-a183-47a78c5d7f08"
+  },
+  "name":"Beto"
+}

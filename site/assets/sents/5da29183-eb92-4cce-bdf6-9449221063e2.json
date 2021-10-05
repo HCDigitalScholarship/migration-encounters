@@ -1,0 +1,13 @@
+{
+  "start":12450,
+  "end":12488,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: In the county jail?\n \n \n   Many:",
+  "id":"5da29183-eb92-4cce-bdf6-9449221063e2",
+  "params":{
+    "id":"5da29183-eb92-4cce-bdf6-9449221063e2",
+    "class":"anno"
+  },
+  "name":"Many"
+}

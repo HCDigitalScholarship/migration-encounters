@@ -1,0 +1,12 @@
+{
+  "start":31911,
+  "end":31940,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did everything I wanted to.",
+  "id":"a130d2ee-cf5a-48bb-a8b0-d9cbda17bb85",
+  "params":{
+    "id":"e83d69f2-693a-42a6-bad0-0fb9829f3856"
+  },
+  "name":"Kevin"
+}

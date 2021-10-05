@@ -1,0 +1,13 @@
+{
+  "start":38204,
+  "end":38326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if you're Mexican living here, they didn't care so why would\n   they care about another person that hasn't been here?",
+  "id":"f4eead64-5b35-4f2f-9a54-a98f1bcec00d",
+  "params":{
+    "id":"f4eead64-5b35-4f2f-9a54-a98f1bcec00d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,15 @@
+{
+  "start":18976,
+  "end":19196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Frank: For example, being crossing as an immigrant instead of crossing on\n   the flight because it could help them also to get more in more income\n   instead of just paying a [coyote] so they can cross us.\n \n \n   Lizzie:",
+  "id":"058588cf-8600-47aa-94d3-061c136c50ee",
+  "params":{
+    "id":"058588cf-8600-47aa-94d3-061c136c50ee",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

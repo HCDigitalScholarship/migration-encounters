@@ -1,0 +1,12 @@
+{
+  "start":7246,
+  "end":7337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We would go to the clubs, nightclubs, we\n   would go to the bars, we would go to the parks.",
+  "id":"5bdc6bb3-cd3d-4dfe-a361-b4b5af395044",
+  "params":{
+    "id":"d62e472b-233b-43b3-a3fe-022ceaa7e444"
+  },
+  "name":"Pablo"
+}

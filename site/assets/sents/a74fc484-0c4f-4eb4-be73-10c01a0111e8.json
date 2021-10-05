@@ -1,0 +1,13 @@
+{
+  "start":11774,
+  "end":11821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\nwas supposed to get out and I didn't get out.",
+  "id":"a74fc484-0c4f-4eb4-be73-10c01a0111e8",
+  "params":{
+    "id":"a74fc484-0c4f-4eb4-be73-10c01a0111e8",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

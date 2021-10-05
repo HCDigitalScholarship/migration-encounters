@@ -1,0 +1,13 @@
+{
+  "start":5322,
+  "end":5420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I jumped into the construction and started my own\n business, then my dad went to work for me.",
+  "id":"bf039ad1-da54-4fd2-876b-90282f2ec447",
+  "params":{
+    "id":"bf039ad1-da54-4fd2-876b-90282f2ec447",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

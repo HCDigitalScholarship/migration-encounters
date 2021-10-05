@@ -1,0 +1,13 @@
+{
+  "start":12780,
+  "end":12816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I had my daughter with\nher.",
+  "id":"930f1daf-5ed4-487a-9a6e-8f067ebc04dc",
+  "params":{
+    "id":"930f1daf-5ed4-487a-9a6e-8f067ebc04dc",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

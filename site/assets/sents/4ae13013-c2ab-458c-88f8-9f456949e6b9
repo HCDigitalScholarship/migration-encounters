@@ -1,0 +1,12 @@
+{
+  "start":122,
+  "end":179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to start by thanking you for coming to talk to us.",
+  "id":"4ae13013-c2ab-458c-88f8-9f456949e6b9",
+  "params":{
+    "id":"a7766a35-4917-4fce-8aa4-12250cfe607e"
+  },
+  "name":"Yair"
+}

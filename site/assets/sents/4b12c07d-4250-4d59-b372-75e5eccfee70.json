@@ -1,0 +1,13 @@
+{
+  "start":21208,
+  "end":21234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She visits us once a year.",
+  "id":"4b12c07d-4250-4d59-b372-75e5eccfee70",
+  "params":{
+    "id":"4b12c07d-4250-4d59-b372-75e5eccfee70",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

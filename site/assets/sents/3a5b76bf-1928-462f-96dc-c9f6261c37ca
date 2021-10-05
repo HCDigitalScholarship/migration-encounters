@@ -1,0 +1,12 @@
+{
+  "start":4170,
+  "end":4194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get\n   into the train.",
+  "id":"3a5b76bf-1928-462f-96dc-c9f6261c37ca",
+  "params":{
+    "id":"dd00f49f-194d-4902-bd0c-453a6938c71e"
+  },
+  "name":"Many"
+}

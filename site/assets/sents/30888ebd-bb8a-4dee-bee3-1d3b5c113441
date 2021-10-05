@@ -1,0 +1,12 @@
+{
+  "start":2920,
+  "end":2945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom had\nto go to work.",
+  "id":"30888ebd-bb8a-4dee-bee3-1d3b5c113441",
+  "params":{
+    "id":"6a774d54-c6be-49f1-b565-36d40ae9b55f"
+  },
+  "name":"Abel"
+}

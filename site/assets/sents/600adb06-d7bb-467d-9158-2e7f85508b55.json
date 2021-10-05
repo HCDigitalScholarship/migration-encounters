@@ -1,0 +1,13 @@
+{
+  "start":28397,
+  "end":28433,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad's been gone for twenty years.",
+  "id":"600adb06-d7bb-467d-9158-2e7f85508b55",
+  "params":{
+    "id":"600adb06-d7bb-467d-9158-2e7f85508b55",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

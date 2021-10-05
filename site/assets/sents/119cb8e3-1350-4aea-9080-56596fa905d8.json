@@ -1,0 +1,13 @@
+{
+  "start":1597,
+  "end":1686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of my uncles got the opportunity to move to\n   Chicago\u2014a job opportunity\u2014so he moved.",
+  "id":"119cb8e3-1350-4aea-9080-56596fa905d8",
+  "params":{
+    "id":"119cb8e3-1350-4aea-9080-56596fa905d8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

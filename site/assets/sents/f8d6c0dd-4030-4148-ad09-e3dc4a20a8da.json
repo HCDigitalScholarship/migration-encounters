@@ -1,0 +1,15 @@
+{
+  "start":14135,
+  "end":14230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Also, there was comments that they think that we don't know\n   English and they start saying...",
+  "id":"f8d6c0dd-4030-4148-ad09-e3dc4a20a8da",
+  "params":{
+    "id":"f8d6c0dd-4030-4148-ad09-e3dc4a20a8da",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

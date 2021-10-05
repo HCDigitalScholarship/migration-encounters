@@ -1,0 +1,13 @@
+{
+  "start":40713,
+  "end":40784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No s\u00e9 si fui una\n     de las mejores madres porque me considero que no.",
+  "id":"e4eac850-9423-43e6-bcf8-62a25bac113a",
+  "params":{
+    "id":"e4eac850-9423-43e6-bcf8-62a25bac113a",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

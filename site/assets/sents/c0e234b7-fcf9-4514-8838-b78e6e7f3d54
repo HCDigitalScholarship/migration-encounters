@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just want to thank you, first of all, for coming to talk to us,\n   because I'm sure it's not easy.",
+  "id":"c0e234b7-fcf9-4514-8838-b78e6e7f3d54",
+  "params":{
+    "id":"13acc7dd-0a66-4888-bfb0-a1e62e8e9e9e"
+  },
+  "name":"Miguel C"
+}

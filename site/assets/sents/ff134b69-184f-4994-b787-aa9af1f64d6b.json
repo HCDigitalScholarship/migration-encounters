@@ -1,0 +1,13 @@
+{
+  "start":16008,
+  "end":16024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The third thing-",
+  "id":"ff134b69-184f-4994-b787-aa9af1f64d6b",
+  "params":{
+    "id":"ff134b69-184f-4994-b787-aa9af1f64d6b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

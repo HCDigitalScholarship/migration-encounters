@@ -1,0 +1,12 @@
+{
+  "start":8120,
+  "end":8153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But, were you living in Maryland?",
+  "id":"3d9e2e59-ee82-4595-85cf-3ac44c222f67",
+  "params":{
+    "id":"ecbd559f-3cbd-4fe5-9a42-aa1d552f94ef"
+  },
+  "name":"Erik"
+}

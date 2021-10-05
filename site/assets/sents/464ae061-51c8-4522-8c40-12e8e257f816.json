@@ -1,0 +1,13 @@
+{
+  "start":17829,
+  "end":17850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lost\n   everything.",
+  "id":"464ae061-51c8-4522-8c40-12e8e257f816",
+  "params":{
+    "id":"464ae061-51c8-4522-8c40-12e8e257f816",
+    "class":"anno"
+  },
+  "name":"Many"
+}

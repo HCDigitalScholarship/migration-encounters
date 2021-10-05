@@ -1,0 +1,13 @@
+{
+  "start":32726,
+  "end":32752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Would you like to come in?",
+  "id":"a1803481-4d6a-4386-9568-5261e0ed0a90",
+  "params":{
+    "id":"a1803481-4d6a-4386-9568-5261e0ed0a90",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

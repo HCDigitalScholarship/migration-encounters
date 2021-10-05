@@ -1,0 +1,13 @@
+{
+  "start":9337,
+  "end":9380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I was like, \"It's just a\n   summer job.\"",
+  "id":"88c29193-5e50-4c7b-a36c-c3119a385d59",
+  "params":{
+    "id":"88c29193-5e50-4c7b-a36c-c3119a385d59",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

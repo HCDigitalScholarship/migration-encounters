@@ -1,0 +1,13 @@
+{
+  "start":5660,
+  "end":5721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And they're like \"Okay, just\n   wait there, she's coming out.",
+  "id":"cd4eae4c-687c-4cb6-91d3-2b3d3a4b0c2b",
+  "params":{
+    "id":"cd4eae4c-687c-4cb6-91d3-2b3d3a4b0c2b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9325,
+  "end":9355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where were you in the process?",
+  "id":"9b4de5c3-ada6-4656-8d99-0ced4560a3a0",
+  "params":{
+    "id":"96872af6-a006-49e0-a31e-f4a198c97645"
+  },
+  "name":"Miguel B"
+}

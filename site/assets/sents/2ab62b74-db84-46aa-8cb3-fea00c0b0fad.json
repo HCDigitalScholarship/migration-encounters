@@ -1,0 +1,13 @@
+{
+  "start":36798,
+  "end":36848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So yeah,\n they're really into jazz here in Mexico.",
+  "id":"2ab62b74-db84-46aa-8cb3-fea00c0b0fad",
+  "params":{
+    "id":"2ab62b74-db84-46aa-8cb3-fea00c0b0fad",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14157,
+  "end":14234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n   I came here [from US to Mexico] a month and a week ago\u2014to Mexico City.",
+  "id":"ab2f2e30-20a4-4ab1-81af-09638d3b141c",
+  "params":{
+    "id":"ab2f2e30-20a4-4ab1-81af-09638d3b141c",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

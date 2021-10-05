@@ -1,0 +1,13 @@
+{
+  "start":12289,
+  "end":12337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was there, they tell\n   them, finish the GED.",
+  "id":"abbec8cd-2910-47b5-8fe1-e7d3aee9d466",
+  "params":{
+    "id":"abbec8cd-2910-47b5-8fe1-e7d3aee9d466",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

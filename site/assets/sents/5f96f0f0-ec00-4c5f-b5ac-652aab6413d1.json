@@ -1,0 +1,13 @@
+{
+  "start":29134,
+  "end":29161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't really tell life.",
+  "id":"5f96f0f0-ec00-4c5f-b5ac-652aab6413d1",
+  "params":{
+    "id":"5f96f0f0-ec00-4c5f-b5ac-652aab6413d1",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

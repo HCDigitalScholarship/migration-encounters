@@ -1,0 +1,13 @@
+{
+  "start":8581,
+  "end":8616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like,\n   \"Please God help me.",
+  "id":"d65f2162-7160-4e17-8cf1-d5f72fff83a2",
+  "params":{
+    "id":"d65f2162-7160-4e17-8cf1-d5f72fff83a2",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32529,
+  "end":32598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n You're not going to get rich there, but you can make a good living.",
+  "id":"20e2ce23-49e6-464e-84cc-676dd7dae559",
+  "params":{
+    "id":"dbed8637-99df-4411-a6a0-ba38e2616dde"
+  },
+  "name":"Ben"
+}

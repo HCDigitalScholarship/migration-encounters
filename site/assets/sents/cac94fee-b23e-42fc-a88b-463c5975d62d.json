@@ -1,0 +1,13 @@
+{
+  "start":20845,
+  "end":20938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d The people get crowded at the\n   door when the subway open the door, they just get crowded.",
+  "id":"cac94fee-b23e-42fc-a88b-463c5975d62d",
+  "params":{
+    "id":"cac94fee-b23e-42fc-a88b-463c5975d62d",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

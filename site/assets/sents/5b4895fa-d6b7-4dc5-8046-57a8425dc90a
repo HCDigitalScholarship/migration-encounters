@@ -1,0 +1,12 @@
+{
+  "start":883,
+  "end":957,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about your first job that you had in the United\n   States?",
+  "id":"5b4895fa-d6b7-4dc5-8046-57a8425dc90a",
+  "params":{
+    "id":"f5e111d7-ddad-4f4c-a737-13ab9f0dda8e"
+  },
+  "name":"Juan A"
+}

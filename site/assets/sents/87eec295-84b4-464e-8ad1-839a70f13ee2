@@ -1,0 +1,12 @@
+{
+  "start":54805,
+  "end":54842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: Viv\u00ed sola o con unas roommies.",
+  "id":"87eec295-84b4-464e-8ad1-839a70f13ee2",
+  "params":{
+    "id":"7393b98c-5fa6-4405-a2fc-8fcf7d6d2244"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":71,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n Anne: You said you went to the States when you were three months old?",
+  "id":"d2bc6a3d-a8d2-4373-845a-6fb3886822fd",
+  "params":{
+    "id":"2b91e7c1-cc16-4192-b77f-2b1520dad550"
+  },
+  "name":"Ben"
+}

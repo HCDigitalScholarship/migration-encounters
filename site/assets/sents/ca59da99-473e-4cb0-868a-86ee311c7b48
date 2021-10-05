@@ -1,0 +1,12 @@
+{
+  "start":1247,
+  "end":1333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You see, I was very angry from the time my mom\n   told me that we had to leave Mexico.",
+  "id":"ca59da99-473e-4cb0-868a-86ee311c7b48",
+  "params":{
+    "id":"c53f9a14-5b65-418c-906e-43af350e679f"
+  },
+  "name":"Ilse"
+}

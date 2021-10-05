@@ -1,0 +1,13 @@
+{
+  "start":7973,
+  "end":8016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I don't know, I think I was just lucky.",
+  "id":"b53cd9e5-deff-4d5c-a35e-6ada224ca0a0",
+  "params":{
+    "id":"b53cd9e5-deff-4d5c-a35e-6ada224ca0a0",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

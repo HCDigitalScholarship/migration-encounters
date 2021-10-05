@@ -1,0 +1,13 @@
+{
+  "start":10802,
+  "end":10848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His name was Eduardo, but he was a US citizen.",
+  "id":"8feb23c7-3b4a-44b7-a4d7-86d73bf1828a",
+  "params":{
+    "id":"8feb23c7-3b4a-44b7-a4d7-86d73bf1828a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

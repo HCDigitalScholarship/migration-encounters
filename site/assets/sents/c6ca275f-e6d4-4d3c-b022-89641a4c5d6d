@@ -1,0 +1,12 @@
+{
+  "start":37584,
+  "end":37675,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would say, \"Hey,\n   but you're not telling me what the bad thing is so how do I know what",
+  "id":"c6ca275f-e6d4-4d3c-b022-89641a4c5d6d",
+  "params":{
+    "id":"bd7ca5e6-81ca-4427-9ab3-97beb4ead52d"
+  },
+  "name":"Sylent"
+}

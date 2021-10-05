@@ -1,0 +1,13 @@
+{
+  "start":8779,
+  "end":8798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that like?",
+  "id":"902441b8-e080-496d-bacb-4b0260305aed",
+  "params":{
+    "id":"902441b8-e080-496d-bacb-4b0260305aed",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

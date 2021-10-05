@@ -1,0 +1,13 @@
+{
+  "start":10682,
+  "end":10723,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You mean you didn't want to get deported?",
+  "id":"4ad5a6d0-8b4a-4de3-aa39-72f5be34e2a5",
+  "params":{
+    "id":"4ad5a6d0-8b4a-4de3-aa39-72f5be34e2a5",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

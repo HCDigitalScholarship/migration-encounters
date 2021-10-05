@@ -1,0 +1,13 @@
+{
+  "start":18743,
+  "end":18772,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you do something for me?\"",
+  "id":"df694ae3-58bb-415c-bb8d-5f567ad2f625",
+  "params":{
+    "id":"df694ae3-58bb-415c-bb8d-5f567ad2f625",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

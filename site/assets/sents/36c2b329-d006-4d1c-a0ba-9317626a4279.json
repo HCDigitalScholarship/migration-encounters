@@ -1,0 +1,13 @@
+{
+  "start":67749,
+  "end":67765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not\n true.\"",
+  "id":"36c2b329-d006-4d1c-a0ba-9317626a4279",
+  "params":{
+    "id":"36c2b329-d006-4d1c-a0ba-9317626a4279",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":59294,
+  "end":59344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of these days, we're going to see\n each other.",
+  "id":"2be0aa4d-9caf-46b7-9882-9b6e04de233c",
+  "params":{
+    "id":"0810d2d2-265b-4f70-9f22-90aae25f8baa"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10125,
+  "end":10149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was there for 10 days.",
+  "id":"2cec4164-267b-4853-b441-d51b03cad859",
+  "params":{
+    "id":"2cec4164-267b-4853-b441-d51b03cad859",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

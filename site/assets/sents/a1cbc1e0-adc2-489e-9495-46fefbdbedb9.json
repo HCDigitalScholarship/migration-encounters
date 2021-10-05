@@ -1,0 +1,13 @@
+{
+  "start":32094,
+  "end":32137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People don't\n   know why we celebrate that.",
+  "id":"a1cbc1e0-adc2-489e-9495-46fefbdbedb9",
+  "params":{
+    "id":"a1cbc1e0-adc2-489e-9495-46fefbdbedb9",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

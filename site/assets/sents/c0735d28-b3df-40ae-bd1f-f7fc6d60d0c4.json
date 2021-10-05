@@ -1,0 +1,13 @@
+{
+  "start":45317,
+  "end":45371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y me dijo, \u201cMami I\n     love you, I love you forever\u201d.",
+  "id":"c0735d28-b3df-40ae-bd1f-f7fc6d60d0c4",
+  "params":{
+    "id":"c0735d28-b3df-40ae-bd1f-f7fc6d60d0c4",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

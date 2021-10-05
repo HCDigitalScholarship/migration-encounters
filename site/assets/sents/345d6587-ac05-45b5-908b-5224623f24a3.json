@@ -1,0 +1,13 @@
+{
+  "start":41993,
+  "end":42032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You should just\n   live with your dad.\"",
+  "id":"345d6587-ac05-45b5-908b-5224623f24a3",
+  "params":{
+    "id":"345d6587-ac05-45b5-908b-5224623f24a3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

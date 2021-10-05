@@ -1,0 +1,13 @@
+{
+  "start":17140,
+  "end":17166,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have four kids in total.",
+  "id":"bfb2e201-a98c-42b9-9929-81eb92f20e77",
+  "params":{
+    "id":"bfb2e201-a98c-42b9-9929-81eb92f20e77",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6338,
+  "end":6369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you get along with them?",
+  "id":"01b98bad-37f6-439e-a3f9-fcd19c3745bd",
+  "params":{
+    "id":"01b98bad-37f6-439e-a3f9-fcd19c3745bd",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":39302,
+  "end":39342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   like, \u201cNah, don't tell me this.",
+  "id":"69de12bc-1c69-42c2-a1e4-44d2da2617d6",
+  "params":{
+    "id":"f676cbc5-1040-4936-a8dc-e2615d26c9d5"
+  },
+  "name":"Cris"
+}

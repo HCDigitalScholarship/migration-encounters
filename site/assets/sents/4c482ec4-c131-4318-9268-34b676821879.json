@@ -1,0 +1,13 @@
+{
+  "start":32503,
+  "end":32570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After two weeks I was\n like, \"Dad, I can't do this no more, please.",
+  "id":"4c482ec4-c131-4318-9268-34b676821879",
+  "params":{
+    "id":"4c482ec4-c131-4318-9268-34b676821879",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

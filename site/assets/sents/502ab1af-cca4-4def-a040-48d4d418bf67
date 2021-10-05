@@ -1,0 +1,12 @@
+{
+  "start":23380,
+  "end":23428,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, tell me about that, if you feel comfortable.",
+  "id":"502ab1af-cca4-4def-a040-48d4d418bf67",
+  "params":{
+    "id":"f0cda361-2aca-4dc9-bf4c-0a0da74081db"
+  },
+  "name":"Ilse"
+}

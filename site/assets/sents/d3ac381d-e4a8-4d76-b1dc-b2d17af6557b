@@ -1,0 +1,12 @@
+{
+  "start":23898,
+  "end":23923,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was always pretty fun.",
+  "id":"d3ac381d-e4a8-4d76-b1dc-b2d17af6557b",
+  "params":{
+    "id":"b58ae669-accb-4638-a630-8ab14b22b740"
+  },
+  "name":"Axel"
+}

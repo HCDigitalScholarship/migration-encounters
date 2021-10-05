@@ -1,0 +1,12 @@
+{
+  "start":51209,
+  "end":51261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"You passed the lie detector test again.\"",
+  "id":"bba15a8f-19dc-4277-a27a-46e6ae5f3bb4",
+  "params":{
+    "id":"36d97e0c-807e-4c6a-bdda-94fdbc21255f"
+  },
+  "name":"Axel"
+}

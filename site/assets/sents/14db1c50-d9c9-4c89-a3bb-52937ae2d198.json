@@ -1,0 +1,13 @@
+{
+  "start":5263,
+  "end":5321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really don't know why, but all of them are\n     similar.",
+  "id":"14db1c50-d9c9-4c89-a3bb-52937ae2d198",
+  "params":{
+    "id":"14db1c50-d9c9-4c89-a3bb-52937ae2d198",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27997,
+  "end":28019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ten years is too much.",
+  "id":"56f204a6-bb96-485b-ad70-f3f89aa7d6ab",
+  "params":{
+    "id":"56f204a6-bb96-485b-ad70-f3f89aa7d6ab",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

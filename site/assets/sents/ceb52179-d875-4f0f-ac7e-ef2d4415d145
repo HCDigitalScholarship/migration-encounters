@@ -1,0 +1,12 @@
+{
+  "start":3902,
+  "end":3964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, right now I'm in a call center where you lease phones.",
+  "id":"ceb52179-d875-4f0f-ac7e-ef2d4415d145",
+  "params":{
+    "id":"c2572847-801e-4142-948d-63b89d54bcde"
+  },
+  "name":"Beto"
+}

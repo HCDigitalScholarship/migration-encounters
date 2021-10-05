@@ -1,0 +1,13 @@
+{
+  "start":31575,
+  "end":31625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm probably smarter\n   than that guy right there.",
+  "id":"922cd9ab-0a01-4c9d-b9c3-39c91272192d",
+  "params":{
+    "id":"922cd9ab-0a01-4c9d-b9c3-39c91272192d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

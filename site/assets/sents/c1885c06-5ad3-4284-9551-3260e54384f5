@@ -1,0 +1,12 @@
+{
+  "start":7114,
+  "end":7154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I did it, I might as well just do it.",
+  "id":"c1885c06-5ad3-4284-9551-3260e54384f5",
+  "params":{
+    "id":"ca4b1ebf-3f18-48b4-a589-0f03e9206f7c"
+  },
+  "name":"Kevin"
+}

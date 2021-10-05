@@ -1,0 +1,13 @@
+{
+  "start":24712,
+  "end":24753,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was bothering this guy, and I got mad.",
+  "id":"9d9fe06c-13d0-4e79-9d90-2e6f8815740a",
+  "params":{
+    "id":"9d9fe06c-13d0-4e79-9d90-2e6f8815740a",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

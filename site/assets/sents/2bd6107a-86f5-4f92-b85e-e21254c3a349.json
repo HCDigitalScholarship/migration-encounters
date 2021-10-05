@@ -1,0 +1,13 @@
+{
+  "start":10199,
+  "end":10292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: Era Pilgrims pero, okay: Pilgrims mantiene varios grupos\n     con diferentes personas.",
+  "id":"2bd6107a-86f5-4f92-b85e-e21254c3a349",
+  "params":{
+    "id":"2bd6107a-86f5-4f92-b85e-e21254c3a349",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

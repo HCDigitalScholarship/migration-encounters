@@ -1,0 +1,13 @@
+{
+  "start":2565,
+  "end":2630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, in the beginning, he just take me to school, but I\n   quit.",
+  "id":"6228008a-0ffc-496a-b24a-03d465bf7b0b",
+  "params":{
+    "id":"6228008a-0ffc-496a-b24a-03d465bf7b0b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

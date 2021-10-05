@@ -1,0 +1,12 @@
+{
+  "start":12173,
+  "end":12196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's very impressive.",
+  "id":"65fb4514-7978-4208-bf9d-93c53056aa78",
+  "params":{
+    "id":"ba36262e-c106-413e-9c90-d796efac8848"
+  },
+  "name":"Frank"
+}

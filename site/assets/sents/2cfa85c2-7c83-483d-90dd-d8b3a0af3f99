@@ -1,0 +1,12 @@
+{
+  "start":9989,
+  "end":10004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Lizzy laughs].",
+  "id":"2cfa85c2-7c83-483d-90dd-d8b3a0af3f99",
+  "params":{
+    "id":"e195869a-da86-41ce-90eb-51888085dca7"
+  },
+  "name":"Cris"
+}

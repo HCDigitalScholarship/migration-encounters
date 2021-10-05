@@ -1,0 +1,12 @@
+{
+  "start":12345,
+  "end":12385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Best\n   thing to do is turn yourself in.",
+  "id":"22214cad-910b-4f75-8b7c-82befa624f4f",
+  "params":{
+    "id":"8c48ae5e-5589-45b3-8fe1-b12636b73c3c"
+  },
+  "name":"Kevin"
+}

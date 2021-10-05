@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":8610,
+  "end":8616,
+  "text":"n you left the US, or how did you leave\n   the US?\n \n \n   Pablo: I was 22. I was 22. 21 or 22.\n \n \n   Isabel: What led to you leaving the US? What happened?\n \n \n   Pablo: Well, I got deported.\n \n \n   Isabel: Oh, you were deported?\n \n \n   Pablo: Yeah.\n \n \n   Isabel: What were the events leading up to deportation? What caused it?\n \n \n   Pablo: I was driving without a license.\n \n \n   Isabel: Driving withou",
+  "label":"PERSON",
+  "id":"45f1f621-11ae-4dd6-a67a-54df8ed3e608",
+  "name":"Pablo"
+}

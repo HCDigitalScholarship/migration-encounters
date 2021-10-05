@@ -1,0 +1,13 @@
+{
+  "start":49253,
+  "end":49315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why I felt like I got to kind of stay away from\n   him.",
+  "id":"4edb8390-e86d-4301-a617-33b72c38d0bd",
+  "params":{
+    "id":"4edb8390-e86d-4301-a617-33b72c38d0bd",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

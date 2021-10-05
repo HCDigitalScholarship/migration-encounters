@@ -1,0 +1,13 @@
+{
+  "start":24160,
+  "end":24199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, being with ICE was\n   horrible.",
+  "id":"ca92f951-8c75-4a5d-8b6b-e8d9dd235b53",
+  "params":{
+    "id":"ca92f951-8c75-4a5d-8b6b-e8d9dd235b53",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

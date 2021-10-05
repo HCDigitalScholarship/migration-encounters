@@ -1,0 +1,13 @@
+{
+  "start":41776,
+  "end":41802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where's my\n   family from?",
+  "id":"60e050be-4735-4c23-9828-ffbf468d9d3b",
+  "params":{
+    "id":"60e050be-4735-4c23-9828-ffbf468d9d3b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

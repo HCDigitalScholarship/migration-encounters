@@ -1,0 +1,13 @@
+{
+  "start":53675,
+  "end":53803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I believe that if you're really, really dedicated, anything is\n   possible, and I feel like that country made me realize it.",
+  "id":"f9b16fa0-67d8-4082-88e5-62d7710dae2b",
+  "params":{
+    "id":"f9b16fa0-67d8-4082-88e5-62d7710dae2b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

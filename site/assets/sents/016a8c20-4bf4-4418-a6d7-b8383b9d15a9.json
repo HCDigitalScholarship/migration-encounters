@@ -1,0 +1,13 @@
+{
+  "start":8382,
+  "end":8460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So then how old were you when you left the US, or how did you leave\n   the US?",
+  "id":"016a8c20-4bf4-4418-a6d7-b8383b9d15a9",
+  "params":{
+    "id":"016a8c20-4bf4-4418-a6d7-b8383b9d15a9",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

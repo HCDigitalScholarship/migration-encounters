@@ -1,0 +1,12 @@
+{
+  "start":20402,
+  "end":20424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It just wouldn't work.",
+  "id":"c5460fc1-1a16-41c9-9901-8dd6d7155428",
+  "params":{
+    "id":"18297b1e-d366-4b88-b912-f228cfcfa632"
+  },
+  "name":"Cris"
+}

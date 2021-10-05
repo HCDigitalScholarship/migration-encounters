@@ -1,0 +1,13 @@
+{
+  "start":47103,
+  "end":47154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   other than that, Mexico has been good to me.",
+  "id":"4b355d0b-fe3d-426f-a46c-357997baf2f0",
+  "params":{
+    "id":"4b355d0b-fe3d-426f-a46c-357997baf2f0",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

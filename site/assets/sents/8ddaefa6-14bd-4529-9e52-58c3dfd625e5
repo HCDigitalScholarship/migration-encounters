@@ -1,0 +1,12 @@
+{
+  "start":21429,
+  "end":21445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His father died.",
+  "id":"8ddaefa6-14bd-4529-9e52-58c3dfd625e5",
+  "params":{
+    "id":"2f22859c-c9ae-4172-a79a-fb3ace481e84"
+  },
+  "name":"Luisa"
+}

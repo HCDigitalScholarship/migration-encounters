@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":9321,
+  "end":9327,
+  "text":"sue: Yes.\n \n \n   Sergio: That's funny. Any other way that you followed the news?\n \n \n   Josue: Well, I mean more so more recently, through the phone. But back\n   then, it was with a newspaper.\n \n \n   Sergio: Just newspaper?\n \n \n   Josue: Yeah.\n \n \n   Sergio: So, while you were in the United States, did you follow Mexican\n   political news?\n \n \n   Josue: No.\n \n \n   Sergio: Did you qualify for DACA?\n \n \n ",
+  "label":"PERSON",
+  "id":"0959f6ee-cccd-4613-a594-96a376a0fd09",
+  "name":"Josue"
+}

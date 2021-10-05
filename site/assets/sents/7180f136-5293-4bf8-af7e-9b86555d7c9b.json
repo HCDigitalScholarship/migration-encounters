@@ -1,0 +1,13 @@
+{
+  "start":29412,
+  "end":29431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Joseph: Six months.",
+  "id":"7180f136-5293-4bf8-af7e-9b86555d7c9b",
+  "params":{
+    "id":"7180f136-5293-4bf8-af7e-9b86555d7c9b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

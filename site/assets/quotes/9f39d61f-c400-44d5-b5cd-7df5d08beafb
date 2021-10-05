@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":3497,
+  "end":3503,
+  "text":"\n \n   Sergio: You understand everything I'm saying?\n \n \n   Josue: I do, yeah.\n \n \n   Sergio: And what cities did you live in? You mentioned ___?\n \n \n   Josue: ____ Washington was the only one.\n \n \n   Sergio: _____ Washington?\n \n \n   Josue: Yeah. that area.\n \n \n   Sergio: Did you go to school in the US?\n \n \n   Josue: I did, yeah.\n \n \n   Sergio: Up to what year?\n \n \n   Josue: I was in college, _____ for a",
+  "label":"PERSON",
+  "id":"9f39d61f-c400-44d5-b5cd-7df5d08beafb",
+  "name":"Josue"
+}

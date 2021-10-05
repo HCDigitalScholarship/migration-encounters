@@ -1,0 +1,12 @@
+{
+  "start":42713,
+  "end":42771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those are\n   the programs that we need to send money into.",
+  "id":"24cbd1c0-a8d3-44bc-bb96-37b03bc04a2f",
+  "params":{
+    "id":"c278d434-da3a-4556-8a00-39c4c9cc9e32"
+  },
+  "name":"Julio Cesar"
+}

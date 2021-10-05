@@ -1,0 +1,13 @@
+{
+  "start":24120,
+  "end":24164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been about a year and a half ago, yeah.",
+  "id":"f981ddbd-b678-434c-8a2b-6cae2865c94e",
+  "params":{
+    "id":"f981ddbd-b678-434c-8a2b-6cae2865c94e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

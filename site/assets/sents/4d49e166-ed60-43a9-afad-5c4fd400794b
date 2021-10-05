@@ -1,0 +1,12 @@
+{
+  "start":31000,
+  "end":31025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not going nowhere.",
+  "id":"4d49e166-ed60-43a9-afad-5c4fd400794b",
+  "params":{
+    "id":"55e22db5-622e-4658-9cf0-d3e4e271bd8e"
+  },
+  "name":"Kevin"
+}

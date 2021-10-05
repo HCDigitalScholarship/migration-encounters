@@ -1,0 +1,13 @@
+{
+  "start":28157,
+  "end":28186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was still in high school.",
+  "id":"c0d88960-aac5-4fc8-ae38-a181b4bef3ed",
+  "params":{
+    "id":"c0d88960-aac5-4fc8-ae38-a181b4bef3ed",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

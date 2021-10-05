@@ -1,0 +1,13 @@
+{
+  "start":194,
+  "end":229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's start with the first\n   time.",
+  "id":"7733a296-dc1d-4662-84fd-8c6108653e14",
+  "params":{
+    "id":"7733a296-dc1d-4662-84fd-8c6108653e14",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

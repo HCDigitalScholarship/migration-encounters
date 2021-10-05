@@ -1,0 +1,13 @@
+{
+  "start":30472,
+  "end":30505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm really excited about\n   that.",
+  "id":"16a5313e-3236-47e0-96d4-e0ce6a2f65b4",
+  "params":{
+    "id":"16a5313e-3236-47e0-96d4-e0ce6a2f65b4",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

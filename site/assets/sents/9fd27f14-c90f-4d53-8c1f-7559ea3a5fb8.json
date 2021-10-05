@@ -1,0 +1,13 @@
+{
+  "start":16138,
+  "end":16161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always tried my best.",
+  "id":"9fd27f14-c90f-4d53-8c1f-7559ea3a5fb8",
+  "params":{
+    "id":"9fd27f14-c90f-4d53-8c1f-7559ea3a5fb8",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

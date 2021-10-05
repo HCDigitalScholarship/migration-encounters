@@ -1,0 +1,12 @@
+{
+  "start":28678,
+  "end":28700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you thinking?",
+  "id":"cf8bd2b3-86e6-4408-b3ef-670fdba574c8",
+  "params":{
+    "id":"6086887a-355a-48d5-bdcb-5da8cbcb0b29"
+  },
+  "name":"Brenda"
+}

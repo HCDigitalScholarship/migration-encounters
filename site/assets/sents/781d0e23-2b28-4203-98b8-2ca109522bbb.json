@@ -1,0 +1,13 @@
+{
+  "start":28895,
+  "end":28965,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I was always sleepy because I used to take two\n   antidepressants.",
+  "id":"781d0e23-2b28-4203-98b8-2ca109522bbb",
+  "params":{
+    "id":"781d0e23-2b28-4203-98b8-2ca109522bbb",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

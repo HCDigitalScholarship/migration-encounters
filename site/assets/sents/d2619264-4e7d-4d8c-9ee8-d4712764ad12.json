@@ -1,0 +1,13 @@
+{
+  "start":15928,
+  "end":15984,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I called her and asked her if I can go\n   live with her.",
+  "id":"d2619264-4e7d-4d8c-9ee8-d4712764ad12",
+  "params":{
+    "id":"d2619264-4e7d-4d8c-9ee8-d4712764ad12",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

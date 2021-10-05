@@ -1,0 +1,12 @@
+{
+  "start":40783,
+  "end":40805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That got put on pause.",
+  "id":"1a34c7c2-02b2-4b16-81ed-5fe1983db4bf",
+  "params":{
+    "id":"7b4fdf6f-b651-427b-807c-d5a7b2a27651"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10404,
+  "end":10450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I started kicking doors and\n   everything.",
+  "id":"eb50b2e7-8e1a-4787-927e-25cb9844e430",
+  "params":{
+    "id":"e0fce340-0f8c-41f1-88ca-9805d38e88b3"
+  },
+  "name":"Many"
+}

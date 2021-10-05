@@ -1,0 +1,13 @@
+{
+  "start":13864,
+  "end":13904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you get to see them before you left?",
+  "id":"591eca07-f53e-40df-b67c-9fce6b2e21e4",
+  "params":{
+    "id":"591eca07-f53e-40df-b67c-9fce6b2e21e4",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34201,
+  "end":34209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Exactly.",
+  "id":"7d430d6f-e25e-4b09-a2e2-181eadb77eb2",
+  "params":{
+    "id":"7d430d6f-e25e-4b09-a2e2-181eadb77eb2",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

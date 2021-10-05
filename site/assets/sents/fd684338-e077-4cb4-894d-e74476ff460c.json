@@ -1,0 +1,13 @@
+{
+  "start":27899,
+  "end":27930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry for the bad\n   words.",
+  "id":"fd684338-e077-4cb4-894d-e74476ff460c",
+  "params":{
+    "id":"fd684338-e077-4cb4-894d-e74476ff460c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

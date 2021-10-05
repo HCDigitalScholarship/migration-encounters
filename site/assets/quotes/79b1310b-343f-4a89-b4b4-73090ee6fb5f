@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":2578,
+  "end":2583,
+  "text":"pen? Were you detained by the\n   police? Were you imprisoned? Was there a raid at where you worked? Were you\n   in the wrong place at the wrong time?\n \n \n   Ivan: No. Detained with the police.\n \n \n   Anita: Was it for a traffic violation, affiliation with gangs, some little\n   crime or some bigger crime?\n \n \n   Ivan: No, it was possession.\n \n \n   Anita: Possession of?\n \n \n   Ivan: Of drugs.\n \n \n   Anit",
+  "label":"PERSON",
+  "id":"79b1310b-343f-4a89-b4b4-73090ee6fb5f",
+  "name":"Ivan"
+}

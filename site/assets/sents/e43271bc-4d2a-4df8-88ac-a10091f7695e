@@ -1,0 +1,12 @@
+{
+  "start":26708,
+  "end":26726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just told him...",
+  "id":"e43271bc-4d2a-4df8-88ac-a10091f7695e",
+  "params":{
+    "id":"212336fb-b87e-4990-aa4c-65eb08e46ed6"
+  },
+  "name":"Kevin"
+}

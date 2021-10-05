@@ -1,0 +1,13 @@
+{
+  "start":19086,
+  "end":19155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I shouldn't have\n   run my mouth, but he could have not taken me.",
+  "id":"97ee1a1e-74af-4da7-9354-d1bf887ae171",
+  "params":{
+    "id":"97ee1a1e-74af-4da7-9354-d1bf887ae171",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

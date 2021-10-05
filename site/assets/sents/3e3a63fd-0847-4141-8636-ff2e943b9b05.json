@@ -1,0 +1,13 @@
+{
+  "start":15813,
+  "end":15872,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you work hard, you get stuff\n   faster, you have things.",
+  "id":"3e3a63fd-0847-4141-8636-ff2e943b9b05",
+  "params":{
+    "id":"3e3a63fd-0847-4141-8636-ff2e943b9b05",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

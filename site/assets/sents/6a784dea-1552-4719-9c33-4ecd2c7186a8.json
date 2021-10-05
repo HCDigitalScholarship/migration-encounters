@@ -1,0 +1,13 @@
+{
+  "start":5438,
+  "end":5538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The last time I\n   went, I went by myself and I rung the doorbell and they were like \"Who is\n   it?\"",
+  "id":"6a784dea-1552-4719-9c33-4ecd2c7186a8",
+  "params":{
+    "id":"6a784dea-1552-4719-9c33-4ecd2c7186a8",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

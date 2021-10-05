@@ -1,0 +1,12 @@
+{
+  "start":21349,
+  "end":21380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What year are we talking about?",
+  "id":"59b2a011-ed82-4615-a0c7-7d500ebfb48d",
+  "params":{
+    "id":"7988d705-0e9f-4371-9b1d-0aba5eafb082"
+  },
+  "name":"Joana"
+}

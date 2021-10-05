@@ -1,0 +1,13 @@
+{
+  "start":38844,
+  "end":38877,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was working, I had gotten a car",
+  "id":"52d0a92c-7ed9-473b-9262-afe8982f5697",
+  "params":{
+    "id":"52d0a92c-7ed9-473b-9262-afe8982f5697",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

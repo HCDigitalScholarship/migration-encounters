@@ -1,0 +1,12 @@
+{
+  "start":17421,
+  "end":17447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You made a lot of friends?",
+  "id":"7fc394e8-0e48-4df1-a22f-8b57462b7b9c",
+  "params":{
+    "id":"afba3190-c632-4e46-99fd-5d04e2d83acd"
+  },
+  "name":"Yair"
+}

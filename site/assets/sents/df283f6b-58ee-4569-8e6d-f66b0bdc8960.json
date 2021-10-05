@@ -1,0 +1,13 @@
+{
+  "start":22219,
+  "end":22258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm living like I\u2019m\n     in the States.",
+  "id":"df283f6b-58ee-4569-8e6d-f66b0bdc8960",
+  "params":{
+    "id":"df283f6b-58ee-4569-8e6d-f66b0bdc8960",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36022,
+  "end":36083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't our decision most of the time, why we had to leave.",
+  "id":"ec3eab34-1387-4c4a-b3a9-8b8fe053558f",
+  "params":{
+    "id":"ec3eab34-1387-4c4a-b3a9-8b8fe053558f",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

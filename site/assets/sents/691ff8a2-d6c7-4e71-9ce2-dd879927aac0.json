@@ -1,0 +1,13 @@
+{
+  "start":5025,
+  "end":5054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got an hour\n   to get away.",
+  "id":"691ff8a2-d6c7-4e71-9ce2-dd879927aac0",
+  "params":{
+    "id":"691ff8a2-d6c7-4e71-9ce2-dd879927aac0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

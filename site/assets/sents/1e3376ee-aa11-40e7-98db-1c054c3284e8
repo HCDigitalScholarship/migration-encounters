@@ -1,0 +1,12 @@
+{
+  "start":6502,
+  "end":6529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lost my fiance in combat.",
+  "id":"1e3376ee-aa11-40e7-98db-1c054c3284e8",
+  "params":{
+    "id":"63097f1e-f7e1-4847-9f41-bbc66dbb47ed"
+  },
+  "name":"Joseph"
+}

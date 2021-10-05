@@ -1,0 +1,12 @@
+{
+  "start":7402,
+  "end":7430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember how it goes?",
+  "id":"e9faf18f-b7ce-48af-b4b3-07f9ffd0bfb1",
+  "params":{
+    "id":"30c3d6bf-03a5-4661-93a8-7d0e4f225fd0"
+  },
+  "name":"Roberto"
+}

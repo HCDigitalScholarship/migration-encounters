@@ -1,0 +1,13 @@
+{
+  "start":5314,
+  "end":5521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I don't know if it's because of the emotional trauma or because of the\n   tumor, but once we got to Chicago, it was evident that something was wrong\n   with my mother and she started going to the doctor.",
+  "id":"5ced9b5a-a5b5-4ba8-bf30-34b13e8d89a0",
+  "params":{
+    "id":"5ced9b5a-a5b5-4ba8-bf30-34b13e8d89a0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

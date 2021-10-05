@@ -1,0 +1,13 @@
+{
+  "start":10547,
+  "end":10575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n seemed to like it a lot.",
+  "id":"70bd74a3-24a6-4ed9-aaac-1f5347de1254",
+  "params":{
+    "id":"70bd74a3-24a6-4ed9-aaac-1f5347de1254",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

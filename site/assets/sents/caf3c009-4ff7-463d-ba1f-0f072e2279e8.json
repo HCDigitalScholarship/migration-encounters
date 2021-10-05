@@ -1,0 +1,13 @@
+{
+  "start":67,
+  "end":229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The reason why my family moved to the US was because both my\n   grandfather and my biological fathers struggled with addiction, with\n   alcoholism and drug abuse.",
+  "id":"caf3c009-4ff7-463d-ba1f-0f072e2279e8",
+  "params":{
+    "id":"caf3c009-4ff7-463d-ba1f-0f072e2279e8",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

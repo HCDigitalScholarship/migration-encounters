@@ -1,0 +1,13 @@
+{
+  "start":1714,
+  "end":1770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's one of the most important American musicians, ever.",
+  "id":"3e462f6e-63fb-450e-b91e-f5e6dd104cfa",
+  "params":{
+    "id":"3e462f6e-63fb-450e-b91e-f5e6dd104cfa",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

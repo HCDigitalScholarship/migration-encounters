@@ -1,0 +1,12 @@
+{
+  "start":21593,
+  "end":21678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, Juan, before we finish the interview, do you want to say\n   something more, or?",
+  "id":"73cb045a-d743-4c90-9ac0-4d91b4939048",
+  "params":{
+    "id":"dfd3bc84-0258-4331-b351-7f708c3381d5"
+  },
+  "name":"Juan A"
+}

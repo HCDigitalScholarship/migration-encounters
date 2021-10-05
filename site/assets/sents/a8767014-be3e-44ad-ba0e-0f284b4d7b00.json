@@ -1,0 +1,13 @@
+{
+  "start":9431,
+  "end":9441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She cried.",
+  "id":"a8767014-be3e-44ad-ba0e-0f284b4d7b00",
+  "params":{
+    "id":"a8767014-be3e-44ad-ba0e-0f284b4d7b00",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

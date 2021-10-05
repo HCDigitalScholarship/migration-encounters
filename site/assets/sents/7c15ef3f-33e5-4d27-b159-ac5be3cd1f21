@@ -1,0 +1,12 @@
+{
+  "start":42337,
+  "end":42348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of us.",
+  "id":"7c15ef3f-33e5-4d27-b159-ac5be3cd1f21",
+  "params":{
+    "id":"e1b960b5-d9cf-469b-84f6-0d557b7435ba"
+  },
+  "name":"Sylent"
+}

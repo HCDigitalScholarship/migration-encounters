@@ -1,0 +1,13 @@
+{
+  "start":41385,
+  "end":41414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What type of person are you?\"",
+  "id":"e1a9724c-1d6c-4677-a810-e2839ed48ccf",
+  "params":{
+    "id":"e1a9724c-1d6c-4677-a810-e2839ed48ccf",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

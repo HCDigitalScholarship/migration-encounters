@@ -1,0 +1,13 @@
+{
+  "start":35956,
+  "end":35998,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your heart, it's not wise\n   as your head.",
+  "id":"e484b25b-fb85-47bb-b501-d794941cfac4",
+  "params":{
+    "id":"e484b25b-fb85-47bb-b501-d794941cfac4",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

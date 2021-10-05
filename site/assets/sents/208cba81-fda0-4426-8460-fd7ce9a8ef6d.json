@@ -1,0 +1,13 @@
+{
+  "start":16600,
+  "end":16656,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do want to\n   go hug them, be with them, and all that.",
+  "id":"208cba81-fda0-4426-8460-fd7ce9a8ef6d",
+  "params":{
+    "id":"208cba81-fda0-4426-8460-fd7ce9a8ef6d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

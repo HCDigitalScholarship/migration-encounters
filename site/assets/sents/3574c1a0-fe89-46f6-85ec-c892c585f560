@@ -1,0 +1,12 @@
+{
+  "start":45631,
+  "end":45658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   said, \"Screw it.\"",
+  "id":"3574c1a0-fe89-46f6-85ec-c892c585f560",
+  "params":{
+    "id":"bbe50e0b-f130-41e7-9c30-ded67e972f98"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7433,
+  "end":7445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hit them up.",
+  "id":"4e56c0b7-c504-4caf-8f8c-158ca04cfca2",
+  "params":{
+    "id":"4e56c0b7-c504-4caf-8f8c-158ca04cfca2",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40798,
+  "end":40811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Around there.",
+  "id":"b04edb83-4fe0-466a-a1d9-94cb8c63f129",
+  "params":{
+    "id":"b04edb83-4fe0-466a-a1d9-94cb8c63f129",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

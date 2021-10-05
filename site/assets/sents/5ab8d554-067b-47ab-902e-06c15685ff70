@@ -1,0 +1,12 @@
+{
+  "start":9326,
+  "end":9413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents got together when they were pretty young, not that\n young, but pretty young.",
+  "id":"5ab8d554-067b-47ab-902e-06c15685ff70",
+  "params":{
+    "id":"4cea57bc-12bc-433d-a230-322f28e63306"
+  },
+  "name":"Brenda"
+}

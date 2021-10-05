@@ -1,0 +1,12 @@
+{
+  "start":33326,
+  "end":33341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to quit.",
+  "id":"cdb9bf0c-1220-4064-a3d6-b69d42c64291",
+  "params":{
+    "id":"eb2b2e22-bff4-4bb4-a6c5-19d5e8128778"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40486,
+  "end":40580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n   had so many job offers making 30 plus an hour out of town but he doesn't\n   take them.",
+  "id":"5abbc5c3-ba06-4961-b82d-84b405b04e59",
+  "params":{
+    "id":"5abbc5c3-ba06-4961-b82d-84b405b04e59",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

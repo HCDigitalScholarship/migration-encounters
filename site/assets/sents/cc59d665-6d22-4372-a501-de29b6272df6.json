@@ -1,0 +1,13 @@
+{
+  "start":542,
+  "end":591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to be\n   shepherd, I used to have a sheep.",
+  "id":"cc59d665-6d22-4372-a501-de29b6272df6",
+  "params":{
+    "id":"cc59d665-6d22-4372-a501-de29b6272df6",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

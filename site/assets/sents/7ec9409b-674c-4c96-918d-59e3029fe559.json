@@ -1,0 +1,13 @@
+{
+  "start":42639,
+  "end":42688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I broke down, and I\n told him, \"I need your help.",
+  "id":"7ec9409b-674c-4c96-918d-59e3029fe559",
+  "params":{
+    "id":"7ec9409b-674c-4c96-918d-59e3029fe559",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

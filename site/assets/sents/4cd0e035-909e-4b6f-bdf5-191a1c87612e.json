@@ -1,0 +1,13 @@
+{
+  "start":24562,
+  "end":24579,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was on the bus.",
+  "id":"4cd0e035-909e-4b6f-bdf5-191a1c87612e",
+  "params":{
+    "id":"4cd0e035-909e-4b6f-bdf5-191a1c87612e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4667,
+  "end":4711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I live with them, I watch them grow.",
+  "id":"eecca7e2-49b0-4a54-afd1-622c7ec295c3",
+  "params":{
+    "id":"eecca7e2-49b0-4a54-afd1-622c7ec295c3",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

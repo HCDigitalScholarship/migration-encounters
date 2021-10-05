@@ -1,0 +1,13 @@
+{
+  "start":849,
+  "end":896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So now I have two sisters and an older brother.",
+  "id":"0ecd2255-41bb-447a-adf5-309bf6d51e04",
+  "params":{
+    "id":"0ecd2255-41bb-447a-adf5-309bf6d51e04",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

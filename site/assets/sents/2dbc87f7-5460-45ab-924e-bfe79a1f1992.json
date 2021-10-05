@@ -1,0 +1,13 @@
+{
+  "start":42627,
+  "end":42705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In my school we used to always pledge our\n   allegiance to the flag, you know?",
+  "id":"2dbc87f7-5460-45ab-924e-bfe79a1f1992",
+  "params":{
+    "id":"2dbc87f7-5460-45ab-924e-bfe79a1f1992",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

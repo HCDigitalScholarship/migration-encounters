@@ -1,0 +1,12 @@
+{
+  "start":10434,
+  "end":10474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever\n   happens is going to happen.\u201d",
+  "id":"2926c608-5572-4ad5-94a4-efdacfd1068d",
+  "params":{
+    "id":"83617317-3bc9-46b0-9053-518a98ef79ed"
+  },
+  "name":"Noe"
+}

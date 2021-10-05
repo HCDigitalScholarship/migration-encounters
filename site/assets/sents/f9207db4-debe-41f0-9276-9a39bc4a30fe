@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you could just start by telling me about the circumstances that\n   led to you coming to the US the first time, and how old you were, and what\n   your first impressions were, what motivated the move?",
+  "id":"f9207db4-debe-41f0-9276-9a39bc4a30fe",
+  "params":{
+    "id":"9e3ca753-3d35-454c-bd24-739c0209b118"
+  },
+  "name":"Carolina"
+}

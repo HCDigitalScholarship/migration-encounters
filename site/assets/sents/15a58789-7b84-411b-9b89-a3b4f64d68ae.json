@@ -1,0 +1,13 @@
+{
+  "start":11840,
+  "end":11854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He has others.",
+  "id":"15a58789-7b84-411b-9b89-a3b4f64d68ae",
+  "params":{
+    "id":"15a58789-7b84-411b-9b89-a3b4f64d68ae",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

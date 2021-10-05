@@ -1,0 +1,12 @@
+{
+  "start":27386,
+  "end":27402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\nout of it.",
+  "id":"b9f38a49-0e6f-4668-9e78-940c5fd194e6",
+  "params":{
+    "id":"89ea7b21-e351-4a4d-a2b0-1480c95cbdf0"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18409,
+  "end":18435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mexican parents are tough.",
+  "id":"1e6c5417-4062-4336-ac67-2c87024df29b",
+  "params":{
+    "id":"1e6c5417-4062-4336-ac67-2c87024df29b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

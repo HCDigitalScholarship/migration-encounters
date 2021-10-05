@@ -1,0 +1,13 @@
+{
+  "start":38183,
+  "end":38290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hey, You know, \"Somebody just stepped on my shoes, they didn't say\n   sorry, man you believe that, Miguel?\"",
+  "id":"1d106a6d-9c2e-4624-b11a-0d40efec37ff",
+  "params":{
+    "id":"1d106a6d-9c2e-4624-b11a-0d40efec37ff",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25198,
+  "end":25217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Oh,\nis that right?",
+  "id":"ae5bb748-0d86-43d3-8887-241a71245edd",
+  "params":{
+    "id":"ae5bb748-0d86-43d3-8887-241a71245edd",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":458,
+  "end":522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that, we\n   went to Chicago where my mom's brother was at.",
+  "id":"0d99e11e-c7a6-4b64-91fb-e5caf3b54af7",
+  "params":{
+    "id":"0d99e11e-c7a6-4b64-91fb-e5caf3b54af7",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

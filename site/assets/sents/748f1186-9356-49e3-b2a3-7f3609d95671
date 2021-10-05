@@ -1,0 +1,12 @@
+{
+  "start":30010,
+  "end":30033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\nThat's why I was late.",
+  "id":"748f1186-9356-49e3-b2a3-7f3609d95671",
+  "params":{
+    "id":"25e8d733-f076-4e13-9ec8-0e41d539806d"
+  },
+  "name":"Abel"
+}

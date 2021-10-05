@@ -1,0 +1,13 @@
+{
+  "start":19218,
+  "end":19265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I moved to ______when I was about\n   seventeen.",
+  "id":"da813520-9d49-4963-990a-c7871e064e16",
+  "params":{
+    "id":"da813520-9d49-4963-990a-c7871e064e16",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

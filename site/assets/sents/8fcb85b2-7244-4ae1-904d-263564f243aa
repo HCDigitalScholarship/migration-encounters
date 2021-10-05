@@ -1,0 +1,12 @@
+{
+  "start":10628,
+  "end":10694,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I will say that I consider myself a Mexican who lived in the U.S..",
+  "id":"8fcb85b2-7244-4ae1-904d-263564f243aa",
+  "params":{
+    "id":"a1cbddb1-c50c-4fe4-bf90-8f9aaa1d8ed4"
+  },
+  "name":"Frank"
+}

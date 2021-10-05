@@ -1,0 +1,13 @@
+{
+  "start":11353,
+  "end":11431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"Hey\n   Jeimmy,\" because everybody was like in break, \"Hey Jeimmy.\"",
+  "id":"0064e7e1-f536-47c2-bf51-3b4355cf6b41",
+  "params":{
+    "id":"0064e7e1-f536-47c2-bf51-3b4355cf6b41",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

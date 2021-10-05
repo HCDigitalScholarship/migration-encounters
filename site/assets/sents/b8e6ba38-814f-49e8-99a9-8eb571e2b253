@@ -1,0 +1,12 @@
+{
+  "start":36244,
+  "end":36272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just reflect back on it.",
+  "id":"b8e6ba38-814f-49e8-99a9-8eb571e2b253",
+  "params":{
+    "id":"6fe4de4c-03fc-47c9-9546-5d2ad67dd4d2"
+  },
+  "name":"Mike"
+}

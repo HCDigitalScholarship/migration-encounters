@@ -1,0 +1,13 @@
+{
+  "start":63070,
+  "end":63113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She got mad because I told her\n that stuff.",
+  "id":"93c05e2c-0ec8-4b5a-910e-ba9e38d33d95",
+  "params":{
+    "id":"93c05e2c-0ec8-4b5a-910e-ba9e38d33d95",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

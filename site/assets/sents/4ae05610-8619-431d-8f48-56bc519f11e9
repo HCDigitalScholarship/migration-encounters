@@ -1,0 +1,12 @@
+{
+  "start":6377,
+  "end":6446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, when I crossed the border the last time, that was back in 2009.",
+  "id":"4ae05610-8619-431d-8f48-56bc519f11e9",
+  "params":{
+    "id":"9ca8bc70-be3f-4922-aeb8-e4be4f3a63c3"
+  },
+  "name":"Daniel"
+}

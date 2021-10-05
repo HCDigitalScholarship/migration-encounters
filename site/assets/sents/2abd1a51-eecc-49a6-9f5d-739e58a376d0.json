@@ -1,0 +1,13 @@
+{
+  "start":37380,
+  "end":37409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I think I can achieve it.",
+  "id":"2abd1a51-eecc-49a6-9f5d-739e58a376d0",
+  "params":{
+    "id":"2abd1a51-eecc-49a6-9f5d-739e58a376d0",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

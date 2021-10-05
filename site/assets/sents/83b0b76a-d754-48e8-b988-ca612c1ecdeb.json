@@ -1,0 +1,13 @@
+{
+  "start":40463,
+  "end":40529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Water is infinite\u2014not really,\n because we're killing it, you know?",
+  "id":"83b0b76a-d754-48e8-b988-ca612c1ecdeb",
+  "params":{
+    "id":"83b0b76a-d754-48e8-b988-ca612c1ecdeb",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

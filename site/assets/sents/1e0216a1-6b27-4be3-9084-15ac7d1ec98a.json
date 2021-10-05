@@ -1,0 +1,13 @@
+{
+  "start":32266,
+  "end":32324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think if we all join forces, we could change everything.",
+  "id":"1e0216a1-6b27-4be3-9084-15ac7d1ec98a",
+  "params":{
+    "id":"1e0216a1-6b27-4be3-9084-15ac7d1ec98a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

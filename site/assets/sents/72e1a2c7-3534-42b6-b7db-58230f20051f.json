@@ -1,0 +1,13 @@
+{
+  "start":33627,
+  "end":33697,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that, I want to\n   study software engineer, and I like it a lot.",
+  "id":"72e1a2c7-3534-42b6-b7db-58230f20051f",
+  "params":{
+    "id":"72e1a2c7-3534-42b6-b7db-58230f20051f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":92,
+  "end":126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first day in the United States?",
+  "id":"e8d6672f-eff5-43d1-8a26-0417d102575a",
+  "params":{
+    "id":"e8d6672f-eff5-43d1-8a26-0417d102575a",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

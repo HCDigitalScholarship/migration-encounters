@@ -1,0 +1,12 @@
+{
+  "start":18081,
+  "end":18125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"this\n   guy from? This guy used to bully me.",
+  "id":"bbff99c5-9829-48cb-8a70-0dcaf33cce1d",
+  "params":{
+    "id":"b29d7cbc-2676-4632-aa5b-8e759e2216d1"
+  },
+  "name":"Cris"
+}

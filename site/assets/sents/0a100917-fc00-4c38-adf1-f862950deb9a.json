@@ -1,0 +1,13 @@
+{
+  "start":27940,
+  "end":28013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I told my lawyer, \"Let's go to\n trial, I'm going to fight this.\"",
+  "id":"0a100917-fc00-4c38-adf1-f862950deb9a",
+  "params":{
+    "id":"0a100917-fc00-4c38-adf1-f862950deb9a",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

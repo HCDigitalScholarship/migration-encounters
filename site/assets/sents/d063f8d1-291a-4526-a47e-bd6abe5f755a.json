@@ -1,0 +1,13 @@
+{
+  "start":4435,
+  "end":4554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But during that, I had to be\n   transferred from one jail to another jail, from a state jail to an\n   immigration jail.",
+  "id":"d063f8d1-291a-4526-a47e-bd6abe5f755a",
+  "params":{
+    "id":"d063f8d1-291a-4526-a47e-bd6abe5f755a",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

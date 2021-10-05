@@ -1,0 +1,13 @@
+{
+  "start":35591,
+  "end":35632,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well they're trying to take me with them.",
+  "id":"cf498d04-afc2-4853-8a3a-739f61379a89",
+  "params":{
+    "id":"cf498d04-afc2-4853-8a3a-739f61379a89",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

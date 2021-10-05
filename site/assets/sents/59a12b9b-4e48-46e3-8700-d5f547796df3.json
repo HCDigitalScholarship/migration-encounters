@@ -1,0 +1,13 @@
+{
+  "start":40949,
+  "end":41009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're at Burger King, they\u2019re living the\n   American life.",
+  "id":"59a12b9b-4e48-46e3-8700-d5f547796df3",
+  "params":{
+    "id":"59a12b9b-4e48-46e3-8700-d5f547796df3",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24081,
+  "end":24109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did the best that I could.",
+  "id":"4be2709d-ad12-416b-9649-fb3b2ec20b2e",
+  "params":{
+    "id":"3d786af5-ca5c-4c14-98e0-e8e8c0fe18e3"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10239,
+  "end":10267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Zayuri: [Affirmative sound].",
+  "id":"fd31f7a3-4a53-47cf-96d4-e3e9ddf24749",
+  "params":{
+    "id":"fd31f7a3-4a53-47cf-96d4-e3e9ddf24749",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12468,
+  "end":12555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It makes no sense to be trying to give my\n   money to the lawyer for him to do nothing.",
+  "id":"8865f9dc-8731-427b-883c-0c0e75c9d959",
+  "params":{
+    "id":"8865f9dc-8731-427b-883c-0c0e75c9d959",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

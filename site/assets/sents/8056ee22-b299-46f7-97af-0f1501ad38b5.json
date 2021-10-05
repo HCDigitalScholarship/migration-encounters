@@ -1,0 +1,13 @@
+{
+  "start":24235,
+  "end":24265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like to rap, I like to sing.",
+  "id":"8056ee22-b299-46f7-97af-0f1501ad38b5",
+  "params":{
+    "id":"8056ee22-b299-46f7-97af-0f1501ad38b5",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

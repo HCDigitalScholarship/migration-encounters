@@ -1,0 +1,12 @@
+{
+  "start":20962,
+  "end":21015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My probation officer was actually the\n   coolest guy.",
+  "id":"5958dcc2-ccdb-41b4-8154-bab210cfd6b2",
+  "params":{
+    "id":"92e6464b-ca1d-4e2c-97f7-945d14160e60"
+  },
+  "name":"Ruben"
+}

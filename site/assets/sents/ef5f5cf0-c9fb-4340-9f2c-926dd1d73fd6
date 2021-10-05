@@ -1,0 +1,12 @@
+{
+  "start":7238,
+  "end":7285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   told me\n \n \n   that it was my own fault.",
+  "id":"ef5f5cf0-c9fb-4340-9f2c-926dd1d73fd6",
+  "params":{
+    "id":"c1696e76-def4-4c30-8ad3-b3a8a8aa50b8"
+  },
+  "name":"Valeria"
+}

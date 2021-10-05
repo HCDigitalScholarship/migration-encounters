@@ -1,0 +1,13 @@
+{
+  "start":34560,
+  "end":34610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: So, are you still together?\n \n \n   Olimpya:",
+  "id":"bf416eb2-92e4-4e81-b4f8-2e1d0a8fe6e0",
+  "params":{
+    "id":"bf416eb2-92e4-4e81-b4f8-2e1d0a8fe6e0",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

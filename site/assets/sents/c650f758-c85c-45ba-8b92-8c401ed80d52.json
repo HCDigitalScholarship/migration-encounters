@@ -1,0 +1,13 @@
+{
+  "start":13041,
+  "end":13083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've only been working there for two weeks",
+  "id":"c650f758-c85c-45ba-8b92-8c401ed80d52",
+  "params":{
+    "id":"c650f758-c85c-45ba-8b92-8c401ed80d52",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

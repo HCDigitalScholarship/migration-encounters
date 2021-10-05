@@ -1,0 +1,13 @@
+{
+  "start":3169,
+  "end":3188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's everything.",
+  "id":"74d8322a-4d68-4382-a30d-07a9c32aef3f",
+  "params":{
+    "id":"74d8322a-4d68-4382-a30d-07a9c32aef3f",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

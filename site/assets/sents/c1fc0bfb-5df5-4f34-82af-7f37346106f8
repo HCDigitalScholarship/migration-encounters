@@ -1,0 +1,12 @@
+{
+  "start":22231,
+  "end":22243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\nwas cool.",
+  "id":"c1fc0bfb-5df5-4f34-82af-7f37346106f8",
+  "params":{
+    "id":"7388fa24-6678-40fb-b9f0-70a4ff762e8b"
+  },
+  "name":"Abel"
+}

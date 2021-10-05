@@ -1,0 +1,13 @@
+{
+  "start":34523,
+  "end":34574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're talking to you; we're not talking to\n   them.",
+  "id":"0ccf6478-33e1-4f49-8df0-bca544cce3cb",
+  "params":{
+    "id":"0ccf6478-33e1-4f49-8df0-bca544cce3cb",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

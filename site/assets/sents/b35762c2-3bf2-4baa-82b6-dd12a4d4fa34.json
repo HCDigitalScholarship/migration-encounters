@@ -1,0 +1,13 @@
+{
+  "start":36188,
+  "end":36222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yes, I go to the Dodger Stadium.\"",
+  "id":"b35762c2-3bf2-4baa-82b6-dd12a4d4fa34",
+  "params":{
+    "id":"b35762c2-3bf2-4baa-82b6-dd12a4d4fa34",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36336,
+  "end":36363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My family is in the States.",
+  "id":"91d7c75f-a38e-47fc-89b6-3694fd10783f",
+  "params":{
+    "id":"91d7c75f-a38e-47fc-89b6-3694fd10783f",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

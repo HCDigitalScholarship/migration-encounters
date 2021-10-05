@@ -1,0 +1,12 @@
+{
+  "start":8333,
+  "end":8383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every time she went to work, they\n   followed her.",
+  "id":"56668fe5-d7f6-4d81-9ac6-06d1d06554a6",
+  "params":{
+    "id":"5bb175ab-a83b-477c-949b-160de6c2dd76"
+  },
+  "name":"Kevin"
+}

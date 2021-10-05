@@ -1,0 +1,13 @@
+{
+  "start":25604,
+  "end":25711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The thing is, the education, it's really high in\n   the United States; it's way better than here in Mexico.",
+  "id":"21eed067-f8dc-4b92-a4f9-7893657e074a",
+  "params":{
+    "id":"21eed067-f8dc-4b92-a4f9-7893657e074a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

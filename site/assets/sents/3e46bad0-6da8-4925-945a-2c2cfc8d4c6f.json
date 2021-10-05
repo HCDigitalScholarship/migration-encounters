@@ -1,0 +1,13 @@
+{
+  "start":7954,
+  "end":7983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But your kid wasn't born yet?",
+  "id":"3e46bad0-6da8-4925-945a-2c2cfc8d4c6f",
+  "params":{
+    "id":"3e46bad0-6da8-4925-945a-2c2cfc8d4c6f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

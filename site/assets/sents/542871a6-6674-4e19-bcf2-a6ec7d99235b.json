@@ -1,0 +1,13 @@
+{
+  "start":4521,
+  "end":4547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom had four more kids.",
+  "id":"542871a6-6674-4e19-bcf2-a6ec7d99235b",
+  "params":{
+    "id":"542871a6-6674-4e19-bcf2-a6ec7d99235b",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

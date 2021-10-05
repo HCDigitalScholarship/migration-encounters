@@ -1,0 +1,13 @@
+{
+  "start":10099,
+  "end":10153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a long time to be kind of waiting, not knowing.",
+  "id":"50f9f777-f7ea-44cc-935d-80bdeb85a924",
+  "params":{
+    "id":"50f9f777-f7ea-44cc-935d-80bdeb85a924",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

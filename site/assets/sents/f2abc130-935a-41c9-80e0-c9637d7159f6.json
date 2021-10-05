@@ -1,0 +1,13 @@
+{
+  "start":8237,
+  "end":8268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long were you detained for?",
+  "id":"f2abc130-935a-41c9-80e0-c9637d7159f6",
+  "params":{
+    "id":"f2abc130-935a-41c9-80e0-c9637d7159f6",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

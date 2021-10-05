@@ -1,0 +1,13 @@
+{
+  "start":7319,
+  "end":7354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   don't find soccer fun anymore.",
+  "id":"a7abc31d-d58b-45e9-9697-cd554df50e72",
+  "params":{
+    "id":"a7abc31d-d58b-45e9-9697-cd554df50e72",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

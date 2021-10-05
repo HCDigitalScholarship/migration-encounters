@@ -1,0 +1,13 @@
+{
+  "start":11252,
+  "end":11365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Juan: I can go look for a job, but it doesn't matter, it doesn't do any\n   good because I cannot identify myself.",
+  "id":"6cf834b7-b77e-471f-b722-89506ca7ad30",
+  "params":{
+    "id":"6cf834b7-b77e-471f-b722-89506ca7ad30",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19211,
+  "end":19319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried to do my test for getting to the\n   UNAM (National Autonomous University of Mexico), but I couldn't.",
+  "id":"52d3ef1c-9054-4adf-b7cf-dbe382e7f408",
+  "params":{
+    "id":"52d3ef1c-9054-4adf-b7cf-dbe382e7f408",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29158,
+  "end":29197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if it's the\n   government.",
+  "id":"c00848c6-dbe9-45b4-8435-1b961874babd",
+  "params":{
+    "id":"c00848c6-dbe9-45b4-8435-1b961874babd",
+    "class":"anno"
+  },
+  "name":"Many"
+}

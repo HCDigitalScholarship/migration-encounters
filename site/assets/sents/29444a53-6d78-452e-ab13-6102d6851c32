@@ -1,0 +1,12 @@
+{
+  "start":10036,
+  "end":10051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Three brothers.",
+  "id":"29444a53-6d78-452e-ab13-6102d6851c32",
+  "params":{
+    "id":"a7bea132-bab7-4439-83a0-72e6c89ff0f8"
+  },
+  "name":"Hugo"
+}

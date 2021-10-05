@@ -1,0 +1,13 @@
+{
+  "start":19296,
+  "end":19320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started working there.",
+  "id":"22bd96a2-81d4-4df5-85dc-3ccfb57b5fcc",
+  "params":{
+    "id":"22bd96a2-81d4-4df5-85dc-3ccfb57b5fcc",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32413,
+  "end":32469,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Were you a good student in the US?\n \n \n   Melani:",
+  "id":"e37a7528-6f43-4ebc-8541-63c2539323a2",
+  "params":{
+    "id":"e37a7528-6f43-4ebc-8541-63c2539323a2",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8784,
+  "end":8815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was she happy to see you again?",
+  "id":"73d0c4b1-0414-4a8a-b6d3-17a0fe3d6064",
+  "params":{
+    "id":"e5a0d79d-b5b2-429b-ba00-4fa5cf544f61"
+  },
+  "name":"Diana"
+}

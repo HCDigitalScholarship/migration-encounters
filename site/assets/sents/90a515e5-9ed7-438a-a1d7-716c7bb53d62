@@ -1,0 +1,12 @@
+{
+  "start":11983,
+  "end":12037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a lot of responsibility to put on\u2014\n \n \n   Mike:",
+  "id":"90a515e5-9ed7-438a-a1d7-716c7bb53d62",
+  "params":{
+    "id":"add3edcd-b5cc-4af6-9122-b23b989a8c0f"
+  },
+  "name":"Mike"
+}

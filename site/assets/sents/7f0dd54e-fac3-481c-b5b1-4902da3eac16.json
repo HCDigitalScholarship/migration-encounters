@@ -1,0 +1,13 @@
+{
+  "start":24465,
+  "end":24509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Died of alcoholism but he was\n very wealthy.",
+  "id":"7f0dd54e-fac3-481c-b5b1-4902da3eac16",
+  "params":{
+    "id":"7f0dd54e-fac3-481c-b5b1-4902da3eac16",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

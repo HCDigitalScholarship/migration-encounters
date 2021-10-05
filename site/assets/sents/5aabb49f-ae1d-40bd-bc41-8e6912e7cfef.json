@@ -1,0 +1,12 @@
+{
+  "start":20107,
+  "end":20127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: First grade.",
+  "id":"5aabb49f-ae1d-40bd-bc41-8e6912e7cfef",
+  "params":{
+    "id":"d57b0bd8-d826-4b86-901c-24895035ce67"
+  },
+  "name":"Carlos"
+}

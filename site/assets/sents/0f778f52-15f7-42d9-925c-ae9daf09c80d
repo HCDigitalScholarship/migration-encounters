@@ -1,0 +1,12 @@
+{
+  "start":20333,
+  "end":20388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How much of the time would you say that you're in fear?",
+  "id":"0f778f52-15f7-42d9-925c-ae9daf09c80d",
+  "params":{
+    "id":"25742531-47c3-4491-861b-335176f30a0e"
+  },
+  "name":"Laila"
+}

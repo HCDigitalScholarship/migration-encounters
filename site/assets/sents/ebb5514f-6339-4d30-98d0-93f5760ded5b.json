@@ -1,0 +1,13 @@
+{
+  "start":40704,
+  "end":40765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I think it's going to be better for him since I'm here.",
+  "id":"ebb5514f-6339-4d30-98d0-93f5760ded5b",
+  "params":{
+    "id":"ebb5514f-6339-4d30-98d0-93f5760ded5b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30243,
+  "end":30350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, one example, when I first got into my village, I make a shrimp\n   fried rice with fruit spring rolls.",
+  "id":"cb19ade2-43e7-457b-91a4-84d056769e7a",
+  "params":{
+    "id":"cb19ade2-43e7-457b-91a4-84d056769e7a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

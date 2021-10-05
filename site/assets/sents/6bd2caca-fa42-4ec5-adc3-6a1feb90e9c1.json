@@ -1,0 +1,13 @@
+{
+  "start":8733,
+  "end":8860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes they tell\n     me, I mean what customers tell me is like, \"I'm not angry about you, I'm\n     angry about the product.",
+  "id":"6bd2caca-fa42-4ec5-adc3-6a1feb90e9c1",
+  "params":{
+    "id":"6bd2caca-fa42-4ec5-adc3-6a1feb90e9c1",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

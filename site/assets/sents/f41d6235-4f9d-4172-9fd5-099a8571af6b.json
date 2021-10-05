@@ -1,0 +1,13 @@
+{
+  "start":34952,
+  "end":34996,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel like I'm still 18 and I'm 26 already.",
+  "id":"f41d6235-4f9d-4172-9fd5-099a8571af6b",
+  "params":{
+    "id":"f41d6235-4f9d-4172-9fd5-099a8571af6b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25242,
+  "end":25277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"most\n   of them are very difficult.",
+  "id":"5d933e8d-d6f9-4fe3-93df-d32cb4d9df7d",
+  "params":{
+    "id":"5d933e8d-d6f9-4fe3-93df-d32cb4d9df7d",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

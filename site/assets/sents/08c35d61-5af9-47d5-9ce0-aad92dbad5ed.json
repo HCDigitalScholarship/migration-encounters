@@ -1,0 +1,13 @@
+{
+  "start":1409,
+  "end":1533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What I do, I just jumped onto the train on this side of Mexico and\n   I just wait for the train to cross the bridge and like",
+  "id":"08c35d61-5af9-47d5-9ce0-aad92dbad5ed",
+  "params":{
+    "id":"08c35d61-5af9-47d5-9ce0-aad92dbad5ed",
+    "class":"anno"
+  },
+  "name":"Many"
+}

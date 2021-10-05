@@ -1,0 +1,13 @@
+{
+  "start":23480,
+  "end":23542,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But here's the positive thing, they have talked to each other.",
+  "id":"b58e8f3a-bcf0-4979-a922-dc0bf5d4c5a1",
+  "params":{
+    "id":"b58e8f3a-bcf0-4979-a922-dc0bf5d4c5a1",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

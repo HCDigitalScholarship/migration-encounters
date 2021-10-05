@@ -1,0 +1,12 @@
+{
+  "start":10034,
+  "end":10057,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my second week.",
+  "id":"8d6cc1ee-4fa6-498f-ab30-28c98bbc6e28",
+  "params":{
+    "id":"11e159fd-0653-448d-8f34-60c59f5a8648"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":905,
+  "end":920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where was this?",
+  "id":"83751d5a-f8a8-4068-bcda-ef5831b86c73",
+  "params":{
+    "id":"83751d5a-f8a8-4068-bcda-ef5831b86c73",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3610,
+  "end":3632,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would just watch TV.",
+  "id":"e43baf5e-fe50-49b0-8546-ea55814dc7ec",
+  "params":{
+    "id":"e43baf5e-fe50-49b0-8546-ea55814dc7ec",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

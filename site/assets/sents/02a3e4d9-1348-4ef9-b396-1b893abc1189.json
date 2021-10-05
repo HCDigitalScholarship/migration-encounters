@@ -1,0 +1,13 @@
+{
+  "start":33790,
+  "end":33816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean,\n   you're working.",
+  "id":"02a3e4d9-1348-4ef9-b396-1b893abc1189",
+  "params":{
+    "id":"02a3e4d9-1348-4ef9-b396-1b893abc1189",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40311,
+  "end":40359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know\n I haven't brought my diploma here.",
+  "id":"05f58086-ec9a-4a19-9ca5-0baf2035ae25",
+  "params":{
+    "id":"ec1824df-64eb-4098-9460-60de1a14b4b1"
+  },
+  "name":"Billy"
+}

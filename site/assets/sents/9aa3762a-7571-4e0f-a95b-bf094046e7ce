@@ -1,0 +1,12 @@
+{
+  "start":5091,
+  "end":5125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we just\n   found our own place.",
+  "id":"9aa3762a-7571-4e0f-a95b-bf094046e7ce",
+  "params":{
+    "id":"e0866393-89fb-472f-b77f-13c418ec8364"
+  },
+  "name":"Many"
+}

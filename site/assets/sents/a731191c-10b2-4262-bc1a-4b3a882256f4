@@ -1,0 +1,12 @@
+{
+  "start":32080,
+  "end":32114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You been there, you studied there.",
+  "id":"a731191c-10b2-4262-bc1a-4b3a882256f4",
+  "params":{
+    "id":"bc49f251-d52c-4ee9-b961-51dadce76458"
+  },
+  "name":"Beto"
+}

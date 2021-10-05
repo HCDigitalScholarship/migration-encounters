@@ -1,0 +1,12 @@
+{
+  "start":55485,
+  "end":55553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or, \"If I can't get it like this, I'm going to get it\n   like that.\"",
+  "id":"0e1225d9-55b7-4ece-b3d5-b68de7e3929a",
+  "params":{
+    "id":"03b78c2a-7a92-487e-ba64-674162347d34"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20003,
+  "end":20031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, still with your grandma.",
+  "id":"06d52aa3-83c4-4d12-a0e2-6d89a16fe5db",
+  "params":{
+    "id":"9a7ba9d9-ee1b-4559-878b-692cd8dfad80"
+  },
+  "name":"Edgar"
+}

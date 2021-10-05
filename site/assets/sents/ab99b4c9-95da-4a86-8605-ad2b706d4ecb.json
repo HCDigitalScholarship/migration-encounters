@@ -1,0 +1,13 @@
+{
+  "start":39607,
+  "end":39633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \u201cque es eso?",
+  "id":"ab99b4c9-95da-4a86-8605-ad2b706d4ecb",
+  "params":{
+    "id":"ab99b4c9-95da-4a86-8605-ad2b706d4ecb",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

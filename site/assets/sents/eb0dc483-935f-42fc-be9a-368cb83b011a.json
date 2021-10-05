@@ -1,0 +1,13 @@
+{
+  "start":55025,
+  "end":55045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   not going to.",
+  "id":"eb0dc483-935f-42fc-be9a-368cb83b011a",
+  "params":{
+    "id":"eb0dc483-935f-42fc-be9a-368cb83b011a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

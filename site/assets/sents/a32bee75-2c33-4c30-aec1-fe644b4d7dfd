@@ -1,0 +1,12 @@
+{
+  "start":16822,
+  "end":16884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We walked in here, and two people were like, \"Hey, what's up?\"",
+  "id":"a32bee75-2c33-4c30-aec1-fe644b4d7dfd",
+  "params":{
+    "id":"3bb36569-7cee-41d5-b110-929ebb49074f"
+  },
+  "name":"Kevin"
+}

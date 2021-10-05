@@ -1,0 +1,13 @@
+{
+  "start":26311,
+  "end":26472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She signed us up for this program where\n   you could go ride along with the cop and you would go to a store, you had\n   $200 and you could buy whatever you want.",
+  "id":"0c4cf0d2-4965-4803-8e29-e343ecc92c88",
+  "params":{
+    "id":"0c4cf0d2-4965-4803-8e29-e343ecc92c88",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

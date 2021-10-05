@@ -1,0 +1,13 @@
+{
+  "start":40039,
+  "end":40096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And from there I came back to the\n city and I tried Uber.",
+  "id":"96312dbe-c903-4251-8132-77a2913230f9",
+  "params":{
+    "id":"96312dbe-c903-4251-8132-77a2913230f9",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":127,
+  "end":159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: Three years old.",
+  "id":"4ae7cd6f-953d-4988-9a16-e7c24850921e",
+  "params":{
+    "id":"235c75c7-f6f3-4f10-af80-6bc5dd6207c5"
+  },
+  "name":"Daniel"
+}

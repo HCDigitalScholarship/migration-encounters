@@ -1,0 +1,13 @@
+{
+  "start":2130,
+  "end":2187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was the city that you moved to when you first moved?",
+  "id":"37bd0071-0106-4b5a-9f1c-64c27928cf8d",
+  "params":{
+    "id":"37bd0071-0106-4b5a-9f1c-64c27928cf8d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

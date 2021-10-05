@@ -1,0 +1,13 @@
+{
+  "start":26636,
+  "end":26658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just do as I'm told.",
+  "id":"a62d37d9-bb2b-47d1-944e-60b992033788",
+  "params":{
+    "id":"a62d37d9-bb2b-47d1-944e-60b992033788",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

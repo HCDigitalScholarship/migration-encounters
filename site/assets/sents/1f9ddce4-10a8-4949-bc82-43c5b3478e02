@@ -1,0 +1,12 @@
+{
+  "start":28504,
+  "end":28523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"You already knew?\"",
+  "id":"1f9ddce4-10a8-4949-bc82-43c5b3478e02",
+  "params":{
+    "id":"8cd58a52-6c77-420e-815f-55d9f9cdf017"
+  },
+  "name":"Beto"
+}

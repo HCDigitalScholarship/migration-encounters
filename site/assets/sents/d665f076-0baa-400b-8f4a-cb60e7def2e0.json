@@ -1,0 +1,13 @@
+{
+  "start":740,
+  "end":777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been working for\n   seven years.",
+  "id":"d665f076-0baa-400b-8f4a-cb60e7def2e0",
+  "params":{
+    "id":"d665f076-0baa-400b-8f4a-cb60e7def2e0",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

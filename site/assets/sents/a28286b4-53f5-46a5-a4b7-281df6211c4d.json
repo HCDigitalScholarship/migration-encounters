@@ -1,0 +1,13 @@
+{
+  "start":32088,
+  "end":32143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since I was nine years old, I was involved with sports.",
+  "id":"a28286b4-53f5-46a5-a4b7-281df6211c4d",
+  "params":{
+    "id":"a28286b4-53f5-46a5-a4b7-281df6211c4d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

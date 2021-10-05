@@ -1,0 +1,13 @@
+{
+  "start":34036,
+  "end":34084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I didn't want to follow the same\n   pattern.",
+  "id":"795cbc8d-76fa-420a-a6f5-a97ea3bbd5d6",
+  "params":{
+    "id":"795cbc8d-76fa-420a-a6f5-a97ea3bbd5d6",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

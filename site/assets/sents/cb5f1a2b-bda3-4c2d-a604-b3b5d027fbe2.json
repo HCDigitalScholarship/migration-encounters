@@ -1,0 +1,13 @@
+{
+  "start":23205,
+  "end":23255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   better life, and then they need to come back.",
+  "id":"cb5f1a2b-bda3-4c2d-a604-b3b5d027fbe2",
+  "params":{
+    "id":"cb5f1a2b-bda3-4c2d-a604-b3b5d027fbe2",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

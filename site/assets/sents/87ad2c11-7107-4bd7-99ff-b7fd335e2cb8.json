@@ -1,0 +1,13 @@
+{
+  "start":22388,
+  "end":22422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n     like, \"What is this?\"",
+  "id":"87ad2c11-7107-4bd7-99ff-b7fd335e2cb8",
+  "params":{
+    "id":"87ad2c11-7107-4bd7-99ff-b7fd335e2cb8",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

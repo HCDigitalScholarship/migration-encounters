@@ -1,0 +1,13 @@
+{
+  "start":1534,
+  "end":1586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"four hours later, I\n   was in Corpus Christi, Texas.",
+  "id":"af1d6f74-b0d9-4949-a782-42fab3111c93",
+  "params":{
+    "id":"af1d6f74-b0d9-4949-a782-42fab3111c93",
+    "class":"anno"
+  },
+  "name":"Many"
+}

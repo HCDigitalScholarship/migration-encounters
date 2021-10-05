@@ -1,0 +1,13 @@
+{
+  "start":9752,
+  "end":9786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They catch me\n and they tell me...",
+  "id":"3c1a241f-efdb-4e4b-8629-581378ac6145",
+  "params":{
+    "id":"3c1a241f-efdb-4e4b-8629-581378ac6145",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

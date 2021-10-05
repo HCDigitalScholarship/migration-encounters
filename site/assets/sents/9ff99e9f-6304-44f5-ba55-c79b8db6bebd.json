@@ -1,0 +1,13 @@
+{
+  "start":31457,
+  "end":31475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was her name?",
+  "id":"9ff99e9f-6304-44f5-ba55-c79b8db6bebd",
+  "params":{
+    "id":"9ff99e9f-6304-44f5-ba55-c79b8db6bebd",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

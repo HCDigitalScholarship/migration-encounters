@@ -1,0 +1,12 @@
+{
+  "start":7340,
+  "end":7360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not\n   one sentence.",
+  "id":"ee129849-9589-446c-b207-79f3feb97e06",
+  "params":{
+    "id":"ede9d67d-8dca-41c7-b0d8-9af4944f1596"
+  },
+  "name":"Luisa"
+}

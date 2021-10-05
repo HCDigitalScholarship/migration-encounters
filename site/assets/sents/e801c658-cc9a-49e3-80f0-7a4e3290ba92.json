@@ -1,0 +1,13 @@
+{
+  "start":29973,
+  "end":30010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"Why did you did that?\"",
+  "id":"e801c658-cc9a-49e3-80f0-7a4e3290ba92",
+  "params":{
+    "id":"e801c658-cc9a-49e3-80f0-7a4e3290ba92",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

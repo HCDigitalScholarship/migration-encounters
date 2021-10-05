@@ -1,0 +1,12 @@
+{
+  "start":14350,
+  "end":14389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   curious because you're a minor.",
+  "id":"5a98e29a-6b6e-44b3-8672-a85a5759b029",
+  "params":{
+    "id":"0dc5214c-e06d-4f72-8c70-2d211e7d2fa2"
+  },
+  "name":"Carlos"
+}

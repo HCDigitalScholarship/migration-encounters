@@ -1,0 +1,12 @@
+{
+  "start":12656,
+  "end":12689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You would sell CDs before school?",
+  "id":"75c90893-0372-4f44-b92a-902494369363",
+  "params":{
+    "id":"b8e62b58-c2dd-4bff-947b-2ecc846ad666"
+  },
+  "name":"Mike"
+}

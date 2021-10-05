@@ -1,0 +1,12 @@
+{
+  "start":28524,
+  "end":28552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said it was really hard.",
+  "id":"e8b59d5e-1370-47d6-b60f-a5fc069248e6",
+  "params":{
+    "id":"b7da9c2a-ea24-4c1b-8c31-170dce411a9c"
+  },
+  "name":"Sylent"
+}

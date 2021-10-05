@@ -1,0 +1,13 @@
+{
+  "start":16965,
+  "end":16989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was he also from Mexico?",
+  "id":"ac19c4ec-5087-485c-bc9c-bf04267bc5c8",
+  "params":{
+    "id":"ac19c4ec-5087-485c-bc9c-bf04267bc5c8",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21531,
+  "end":21543,
+  "label":"SENT",
+  "type":"sent",
+  "text":"was Mexican.",
+  "id":"c64c80be-d104-4248-9039-5fefc616a14d",
+  "params":{
+    "id":"c64c80be-d104-4248-9039-5fefc616a14d",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

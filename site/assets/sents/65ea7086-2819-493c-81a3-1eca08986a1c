@@ -1,0 +1,12 @@
+{
+  "start":27014,
+  "end":27029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a judge.",
+  "id":"65ea7086-2819-493c-81a3-1eca08986a1c",
+  "params":{
+    "id":"e5b0bd05-18d4-4e18-8b2b-eb80d60c7b7c"
+  },
+  "name":"Kevin"
+}

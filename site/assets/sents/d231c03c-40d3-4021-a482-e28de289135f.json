@@ -1,0 +1,12 @@
+{
+  "start":28333,
+  "end":28358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How are you\n   different?",
+  "id":"d231c03c-40d3-4021-a482-e28de289135f",
+  "params":{
+    "id":"7de84872-9ef8-4695-aa25-dea6fb1f2d66"
+  },
+  "name":"Yair"
+}

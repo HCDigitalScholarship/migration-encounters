@@ -1,0 +1,12 @@
+{
+  "start":24235,
+  "end":24307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I\n   passed the test he say, \"Okay, well, you ready to go.\"\n \n \n   ",
+  "id":"d92a8697-56a6-43f5-8bbc-81470c87c5b4",
+  "params":{
+    "id":"51b01ba2-0948-4c30-93a3-34883ab21634"
+  },
+  "name":"Many"
+}

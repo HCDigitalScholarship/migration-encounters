@@ -1,0 +1,13 @@
+{
+  "start":28560,
+  "end":28567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sylent:",
+  "id":"75ff40a8-99a7-4ecf-aa8b-0f9c25fd10e9",
+  "params":{
+    "id":"75ff40a8-99a7-4ecf-aa8b-0f9c25fd10e9",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

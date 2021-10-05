@@ -1,0 +1,13 @@
+{
+  "start":9568,
+  "end":9622,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't provide me with\n   any rights or anything.",
+  "id":"7a1c38a1-c627-4ca0-8d2f-2d9badb9404b",
+  "params":{
+    "id":"7a1c38a1-c627-4ca0-8d2f-2d9badb9404b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36119,
+  "end":36187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me what they are.\u201d\n \n \n     Beto:\n \n \n     \"Do you ever go-\"",
+  "id":"ee8d473a-60d1-4344-a420-ca853d7bc8b8",
+  "params":{
+    "id":"ee8d473a-60d1-4344-a420-ca853d7bc8b8",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12492,
+  "end":12525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said, \"You have to find a job.",
+  "id":"44d73df4-ac9b-4266-b862-4b2f09901022",
+  "params":{
+    "id":"44d73df4-ac9b-4266-b862-4b2f09901022",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

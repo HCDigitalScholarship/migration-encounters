@@ -1,0 +1,13 @@
+{
+  "start":12371,
+  "end":12399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You lock me down for months.",
+  "id":"6a8ec83a-1b2b-4a5f-a703-974d51b11ef4",
+  "params":{
+    "id":"6a8ec83a-1b2b-4a5f-a703-974d51b11ef4",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

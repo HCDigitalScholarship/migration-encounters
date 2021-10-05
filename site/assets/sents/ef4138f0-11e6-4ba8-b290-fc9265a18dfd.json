@@ -1,0 +1,13 @@
+{
+  "start":4996,
+  "end":5002,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laila:",
+  "id":"ef4138f0-11e6-4ba8-b290-fc9265a18dfd",
+  "params":{
+    "id":"ef4138f0-11e6-4ba8-b290-fc9265a18dfd",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

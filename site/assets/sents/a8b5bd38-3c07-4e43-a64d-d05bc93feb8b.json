@@ -1,0 +1,13 @@
+{
+  "start":20276,
+  "end":20421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y dice [Su esposo], \u201cYo hice que mi ropa se la pasaran\n     a \u00e9l para que no pasara fr\u00edo y me dieran la ropa de \u00e9l para que yo en un\n     momento",
+  "id":"a8b5bd38-3c07-4e43-a64d-d05bc93feb8b",
+  "params":{
+    "id":"a8b5bd38-3c07-4e43-a64d-d05bc93feb8b",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

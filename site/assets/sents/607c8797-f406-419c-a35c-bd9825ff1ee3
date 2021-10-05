@@ -1,0 +1,12 @@
+{
+  "start":12837,
+  "end":12898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then\n   their children were American, but they spoke Spanish.",
+  "id":"607c8797-f406-419c-a35c-bd9825ff1ee3",
+  "params":{
+    "id":"2e45f176-301d-4a70-ae53-d2a93e68e7ed"
+  },
+  "name":"Sylent"
+}

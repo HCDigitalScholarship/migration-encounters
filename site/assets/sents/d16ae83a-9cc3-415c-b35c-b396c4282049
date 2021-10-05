@@ -1,0 +1,12 @@
+{
+  "start":25155,
+  "end":25201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When was the last time you saw your daughters?",
+  "id":"d16ae83a-9cc3-415c-b35c-b396c4282049",
+  "params":{
+    "id":"ecd210d1-ffd1-4375-ae14-a344bfeadcc7"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32060,
+  "end":32204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we ran with a lot of luck, but we\n   encountered a lot of dangerous situations that for somehow or another\u2014I\n   feel like I'm a God believer.",
+  "id":"7a9ba25a-5d55-4647-bc63-4d7c4d8cd9fe",
+  "params":{
+    "id":"7a9ba25a-5d55-4647-bc63-4d7c4d8cd9fe",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13041,
+  "end":13080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When did you\n   go back the first time?",
+  "id":"0838138d-f85d-44f4-9a46-2a3e2b71be0c",
+  "params":{
+    "id":"0838138d-f85d-44f4-9a46-2a3e2b71be0c",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

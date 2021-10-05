@@ -1,0 +1,12 @@
+{
+  "start":29693,
+  "end":29795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then when\n     we talked to Human Resources, they're like, \"Yeah, you can't switch\n     that fast.",
+  "id":"e89c5e2e-19cc-4c86-8c1d-b08f9cce408d",
+  "params":{
+    "id":"69decfa8-6cfb-48be-ab0c-2725ec48d456"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8980,
+  "end":9032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was kind of rough, but now\n   she's settled down.",
+  "id":"0c81df29-57d0-4d92-ae1f-e3709f73cb1f",
+  "params":{
+    "id":"3a1b67b1-22cb-47b4-9d07-cf009fb18930"
+  },
+  "name":"Joana"
+}

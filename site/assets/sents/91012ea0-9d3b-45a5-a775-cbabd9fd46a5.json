@@ -1,0 +1,13 @@
+{
+  "start":21377,
+  "end":21414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about the tattoo on your arm.",
+  "id":"91012ea0-9d3b-45a5-a775-cbabd9fd46a5",
+  "params":{
+    "id":"91012ea0-9d3b-45a5-a775-cbabd9fd46a5",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

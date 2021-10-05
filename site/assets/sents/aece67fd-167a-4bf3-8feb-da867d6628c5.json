@@ -1,0 +1,13 @@
+{
+  "start":10862,
+  "end":10875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was great.",
+  "id":"aece67fd-167a-4bf3-8feb-da867d6628c5",
+  "params":{
+    "id":"aece67fd-167a-4bf3-8feb-da867d6628c5",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

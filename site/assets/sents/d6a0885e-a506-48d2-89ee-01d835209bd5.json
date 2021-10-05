@@ -1,0 +1,13 @@
+{
+  "start":5552,
+  "end":5587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I honestly don't like it down here.",
+  "id":"d6a0885e-a506-48d2-89ee-01d835209bd5",
+  "params":{
+    "id":"d6a0885e-a506-48d2-89ee-01d835209bd5",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

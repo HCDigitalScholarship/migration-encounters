@@ -1,0 +1,12 @@
+{
+  "start":33600,
+  "end":33737,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"Oh, you're about to do something\n   that's not right, but if it's your decision, we can't force you or stop you\n   from doing it.\"",
+  "id":"477a455f-6bc9-4fdf-8d63-7649f51a2791",
+  "params":{
+    "id":"0107c7ab-f5e0-42e4-b015-465a89f5c8c4"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8055,
+  "end":8165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   mom was never like that, she would always be like, \"Work for your own\n   things and do it for yourself.\"",
+  "id":"43f8f89b-2e8b-4bec-a88b-fcd5ea01b11a",
+  "params":{
+    "id":"43f8f89b-2e8b-4bec-a88b-fcd5ea01b11a",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

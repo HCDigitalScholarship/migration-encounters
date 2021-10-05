@@ -1,0 +1,13 @@
+{
+  "start":26127,
+  "end":26167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean,\n   they don't have legal papers.",
+  "id":"c008400d-aa90-4183-a056-464e8e98bab7",
+  "params":{
+    "id":"c008400d-aa90-4183-a056-464e8e98bab7",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

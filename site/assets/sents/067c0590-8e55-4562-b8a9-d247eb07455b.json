@@ -1,0 +1,13 @@
+{
+  "start":21981,
+  "end":21999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to study.",
+  "id":"067c0590-8e55-4562-b8a9-d247eb07455b",
+  "params":{
+    "id":"067c0590-8e55-4562-b8a9-d247eb07455b",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

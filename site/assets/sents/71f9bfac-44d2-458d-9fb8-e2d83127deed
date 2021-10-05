@@ -1,0 +1,12 @@
+{
+  "start":2614,
+  "end":2650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was trying to go for a\n   dentist.",
+  "id":"71f9bfac-44d2-458d-9fb8-e2d83127deed",
+  "params":{
+    "id":"5a41fe89-0fd8-4391-8882-296c766ecc00"
+  },
+  "name":"Noe"
+}

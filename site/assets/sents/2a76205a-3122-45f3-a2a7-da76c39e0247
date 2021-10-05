@@ -1,0 +1,12 @@
+{
+  "start":36790,
+  "end":36838,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   little sister was a year old when we left.",
+  "id":"2a76205a-3122-45f3-a2a7-da76c39e0247",
+  "params":{
+    "id":"810a68f1-cbe5-448f-8426-7a3bda1b6d52"
+  },
+  "name":"Luisa"
+}

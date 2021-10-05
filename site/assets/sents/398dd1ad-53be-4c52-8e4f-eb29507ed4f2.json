@@ -1,0 +1,13 @@
+{
+  "start":3923,
+  "end":3955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you said you started school.",
+  "id":"398dd1ad-53be-4c52-8e4f-eb29507ed4f2",
+  "params":{
+    "id":"398dd1ad-53be-4c52-8e4f-eb29507ed4f2",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

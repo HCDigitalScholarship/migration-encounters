@@ -1,0 +1,13 @@
+{
+  "start":28018,
+  "end":28038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And stuff like that.",
+  "id":"c17f36f9-4976-465a-a0f1-c6f3f3ea41ef",
+  "params":{
+    "id":"c17f36f9-4976-465a-a0f1-c6f3f3ea41ef",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

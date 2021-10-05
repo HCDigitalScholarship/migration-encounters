@@ -1,0 +1,13 @@
+{
+  "start":34523,
+  "end":34647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You believe that because you went\n     to Mexican school and you had a certain set of values, you went a different\n     way.",
+  "id":"bc6265fc-6eee-4515-8f7c-d89aa047b06a",
+  "params":{
+    "id":"bc6265fc-6eee-4515-8f7c-d89aa047b06a",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

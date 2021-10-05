@@ -1,0 +1,13 @@
+{
+  "start":5857,
+  "end":5902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just finished my high school diploma, yeah.",
+  "id":"3ca8b7a1-3d42-4535-8a3f-a7cf62817211",
+  "params":{
+    "id":"3ca8b7a1-3d42-4535-8a3f-a7cf62817211",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

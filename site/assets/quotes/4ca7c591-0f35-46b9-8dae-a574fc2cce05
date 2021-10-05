@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":27925,
+  "end":27931,
+  "text":"Joseph: Yes.\n   \n   \n     Anne: And thank you for coming.\n   \n   \n     Joseph: It's been crazy.\n   \n   \n     Anne: This is our last hour doing interviews so I'm so glad you're\n     here.\n   \n   \n     Joseph: I know the guy downstairs told me, \"You're literally the last\n     guy we're going to...\" I'm like, \"Oh yes. Can you tell her that?\"\n   \n   \n     Anne: So, has the last year been difficult?\n   \n   \n",
+  "label":"PERSON",
+  "id":"4ca7c591-0f35-46b9-8dae-a574fc2cce05",
+  "name":"Joseph"
+}

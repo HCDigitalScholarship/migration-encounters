@@ -1,0 +1,12 @@
+{
+  "start":21333,
+  "end":21386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   was strange at first, but I think it was great.",
+  "id":"e9f8d28b-1b57-4bd0-84c4-8294b1f08b79",
+  "params":{
+    "id":"fe4ccc34-d783-4ada-a616-bfdd5cf74129"
+  },
+  "name":"Luisa"
+}

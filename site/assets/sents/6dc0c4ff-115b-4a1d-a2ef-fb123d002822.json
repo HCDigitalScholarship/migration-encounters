@@ -1,0 +1,13 @@
+{
+  "start":942,
+  "end":1011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n   harder because my sister, she was just like four years old.",
+  "id":"6dc0c4ff-115b-4a1d-a2ef-fb123d002822",
+  "params":{
+    "id":"6dc0c4ff-115b-4a1d-a2ef-fb123d002822",
+    "class":"anno"
+  },
+  "name":"Many"
+}

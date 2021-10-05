@@ -1,0 +1,13 @@
+{
+  "start":11353,
+  "end":11417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   can stay in jail two months or you can go back to Mexico.",
+  "id":"2c2be137-654c-4fb4-98ea-af6ece30f400",
+  "params":{
+    "id":"2c2be137-654c-4fb4-98ea-af6ece30f400",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

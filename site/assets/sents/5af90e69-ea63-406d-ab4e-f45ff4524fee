@@ -1,0 +1,12 @@
+{
+  "start":6301,
+  "end":6350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess\n   they decided to take me to a hospital.",
+  "id":"5af90e69-ea63-406d-ab4e-f45ff4524fee",
+  "params":{
+    "id":"b6a07ef9-1bf1-44d3-8b7e-aa3a592e5a52"
+  },
+  "name":"Yordani"
+}

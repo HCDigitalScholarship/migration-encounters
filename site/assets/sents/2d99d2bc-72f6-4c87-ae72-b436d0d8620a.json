@@ -1,0 +1,13 @@
+{
+  "start":6749,
+  "end":6795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was only seven years old\n   when I crossed.\"",
+  "id":"2d99d2bc-72f6-4c87-ae72-b436d0d8620a",
+  "params":{
+    "id":"2d99d2bc-72f6-4c87-ae72-b436d0d8620a",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

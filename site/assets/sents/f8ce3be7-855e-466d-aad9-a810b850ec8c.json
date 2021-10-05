@@ -1,0 +1,12 @@
+{
+  "start":24735,
+  "end":24765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A hamburger isn't a hamburger.",
+  "id":"f8ce3be7-855e-466d-aad9-a810b850ec8c",
+  "params":{
+    "id":"ab2e7ad1-4f0a-402e-9076-4a52c360644d"
+  },
+  "name":"Joana"
+}

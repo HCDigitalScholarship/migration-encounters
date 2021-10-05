@@ -1,0 +1,12 @@
+{
+  "start":10981,
+  "end":10991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like what?",
+  "id":"f5aa8344-df59-4183-92ea-325fe515cecc",
+  "params":{
+    "id":"f00879c0-833b-4929-b02b-eb8197968708"
+  },
+  "name":"Frank"
+}

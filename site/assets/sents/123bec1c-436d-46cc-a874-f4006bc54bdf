@@ -1,0 +1,12 @@
+{
+  "start":17496,
+  "end":17509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: Nice.",
+  "id":"123bec1c-436d-46cc-a874-f4006bc54bdf",
+  "params":{
+    "id":"08ef243c-1f95-4531-a8c6-080cfeb9d4dd"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14231,
+  "end":14253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can I say for example?",
+  "id":"c4f76b6e-f229-4108-be49-1c98a33600a2",
+  "params":{
+    "id":"ae64df43-c0e8-4564-94d5-318f3b57c9e8"
+  },
+  "name":"Frank"
+}

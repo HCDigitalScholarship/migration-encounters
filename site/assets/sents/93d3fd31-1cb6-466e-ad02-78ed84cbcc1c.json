@@ -1,0 +1,13 @@
+{
+  "start":14032,
+  "end":14103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When we're in training and we have to actually introduce\n     ourselves",
+  "id":"93d3fd31-1cb6-466e-ad02-78ed84cbcc1c",
+  "params":{
+    "id":"93d3fd31-1cb6-466e-ad02-78ed84cbcc1c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

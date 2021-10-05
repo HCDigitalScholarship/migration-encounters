@@ -1,0 +1,13 @@
+{
+  "start":22622,
+  "end":22715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was working, at that time, I was a machine\n   operator for _____ products in ____, Georgia.",
+  "id":"56f00b04-f60a-47a7-89ec-662ec38cc6a1",
+  "params":{
+    "id":"56f00b04-f60a-47a7-89ec-662ec38cc6a1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

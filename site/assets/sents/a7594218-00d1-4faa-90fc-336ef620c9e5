@@ -1,0 +1,12 @@
+{
+  "start":6237,
+  "end":6336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: Mostly when I came here, because in that moment I wasn't really\n   informed about anything.",
+  "id":"a7594218-00d1-4faa-90fc-336ef620c9e5",
+  "params":{
+    "id":"d54bd514-f289-4b4d-ad10-ba6f18b18b79"
+  },
+  "name":"Carlos"
+}

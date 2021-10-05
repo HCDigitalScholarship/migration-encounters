@@ -1,0 +1,12 @@
+{
+  "start":20001,
+  "end":20061,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to go to ___ in the morning, Chinatown,\n   by myself.",
+  "id":"6470c322-cdcb-4f7c-9821-7471a67332c7",
+  "params":{
+    "id":"6874ed91-2738-49dc-b006-9c5bac0bfbb1"
+  },
+  "name":"Noe"
+}

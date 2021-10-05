@@ -1,0 +1,12 @@
+{
+  "start":20059,
+  "end":20130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\ndad sent me way out here, because I could've stayed at TJ [Tijuana].",
+  "id":"59eb566f-41f1-477b-8455-6cb5515890de",
+  "params":{
+    "id":"2228a6c6-e204-4c3c-b9a4-0f1a457bf521"
+  },
+  "name":"Abel"
+}

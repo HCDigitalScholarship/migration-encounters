@@ -1,0 +1,13 @@
+{
+  "start":14330,
+  "end":14376,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   like, \"No, I never got deported before.",
+  "id":"d5d822e6-9d04-44c2-9360-4c9c79bdfb3e",
+  "params":{
+    "id":"d5d822e6-9d04-44c2-9360-4c9c79bdfb3e",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

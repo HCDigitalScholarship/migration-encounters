@@ -1,0 +1,13 @@
+{
+  "start":11831,
+  "end":11869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey, we need people, we need people.\"",
+  "id":"24992db2-e4cb-4250-8152-5232d20528f7",
+  "params":{
+    "id":"24992db2-e4cb-4250-8152-5232d20528f7",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

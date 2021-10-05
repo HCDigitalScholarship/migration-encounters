@@ -1,0 +1,13 @@
+{
+  "start":72002,
+  "end":72044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're not\n even asking for your address.",
+  "id":"dcd5f699-263a-4156-a46f-7a72c18787de",
+  "params":{
+    "id":"dcd5f699-263a-4156-a46f-7a72c18787de",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

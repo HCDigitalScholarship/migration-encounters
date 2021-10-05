@@ -1,0 +1,12 @@
+{
+  "start":3370,
+  "end":3398,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it a Mexican restaurant?",
+  "id":"1ecf3609-114c-4a30-847a-64f787cd64a6",
+  "params":{
+    "id":"89ea09af-18f9-4a2f-ad49-f5d4b970deb1"
+  },
+  "name":"Brenda"
+}

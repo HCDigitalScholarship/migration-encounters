@@ -1,0 +1,13 @@
+{
+  "start":29534,
+  "end":29658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   funny, because that's something that we would play with him because we\n   would tell him, \"But you're not Mexican.",
+  "id":"2af5fc34-e02b-48ae-a119-d732633b8eee",
+  "params":{
+    "id":"2af5fc34-e02b-48ae-a119-d732633b8eee",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

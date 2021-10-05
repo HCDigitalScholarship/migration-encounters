@@ -1,0 +1,13 @@
+{
+  "start":19928,
+  "end":20003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Anita:\n \n \n     When you went in there, he remembered your order.",
+  "id":"e1c3a754-fa37-47ac-9eb1-a5a157d61d5f",
+  "params":{
+    "id":"e1c3a754-fa37-47ac-9eb1-a5a157d61d5f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

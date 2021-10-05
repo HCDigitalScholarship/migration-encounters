@@ -1,0 +1,13 @@
+{
+  "start":36687,
+  "end":36717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I learned that at a young age.",
+  "id":"b37a3780-0d64-4c7d-8e47-de8264f9a45e",
+  "params":{
+    "id":"b37a3780-0d64-4c7d-8e47-de8264f9a45e",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

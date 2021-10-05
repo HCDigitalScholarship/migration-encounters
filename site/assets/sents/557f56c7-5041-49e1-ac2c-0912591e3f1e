@@ -1,0 +1,12 @@
+{
+  "start":10240,
+  "end":10260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: In a hog farm?",
+  "id":"557f56c7-5041-49e1-ac2c-0912591e3f1e",
+  "params":{
+    "id":"749042b8-47d1-4151-af5f-b5d63b32dc21"
+  },
+  "name":"Carolina"
+}

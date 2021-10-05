@@ -1,0 +1,13 @@
+{
+  "start":29128,
+  "end":29224,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a lot of times, I'm trying to express a certain idea, but I don't\n know how to use certain words",
+  "id":"d2b9ce59-7f27-44f7-8276-bef029237b68",
+  "params":{
+    "id":"d2b9ce59-7f27-44f7-8276-bef029237b68",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

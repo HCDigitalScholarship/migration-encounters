@@ -1,0 +1,13 @@
+{
+  "start":20282,
+  "end":20299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can look it up.",
+  "id":"e2174a60-8bfc-4f40-bbca-1d66bc03cba0",
+  "params":{
+    "id":"e2174a60-8bfc-4f40-bbca-1d66bc03cba0",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12870,
+  "end":12892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pizzas and hamburgers.",
+  "id":"d4a60628-e89e-49e3-93c3-90bfcb03732a",
+  "params":{
+    "id":"d4a60628-e89e-49e3-93c3-90bfcb03732a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

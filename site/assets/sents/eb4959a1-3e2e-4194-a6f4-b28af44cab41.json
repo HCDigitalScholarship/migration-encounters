@@ -1,0 +1,13 @@
+{
+  "start":4632,
+  "end":4680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Hey, I think I\n   should be doing that.",
+  "id":"eb4959a1-3e2e-4194-a6f4-b28af44cab41",
+  "params":{
+    "id":"eb4959a1-3e2e-4194-a6f4-b28af44cab41",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

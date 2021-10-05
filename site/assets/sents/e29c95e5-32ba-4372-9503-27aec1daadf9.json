@@ -1,0 +1,13 @@
+{
+  "start":47732,
+  "end":47760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so I was in\n   a mall.",
+  "id":"e29c95e5-32ba-4372-9503-27aec1daadf9",
+  "params":{
+    "id":"e29c95e5-32ba-4372-9503-27aec1daadf9",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

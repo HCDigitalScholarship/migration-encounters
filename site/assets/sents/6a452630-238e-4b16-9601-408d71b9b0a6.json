@@ -1,0 +1,15 @@
+{
+  "start":347,
+  "end":417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   They told me that I can join this patrol and they put me on proof.",
+  "id":"6a452630-238e-4b16-9601-408d71b9b0a6",
+  "params":{
+    "id":"6a452630-238e-4b16-9601-408d71b9b0a6",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

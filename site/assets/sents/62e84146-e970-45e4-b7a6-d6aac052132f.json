@@ -1,0 +1,13 @@
+{
+  "start":1526,
+  "end":1600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From Texas, my aunts, they went from\n   Minnesota to Texas, to pick me up.",
+  "id":"62e84146-e970-45e4-b7a6-d6aac052132f",
+  "params":{
+    "id":"62e84146-e970-45e4-b7a6-d6aac052132f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":73441,
+  "end":73461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just\n   kidding.",
+  "id":"42d53c67-c500-4616-a9c1-3f489024c2e1",
+  "params":{
+    "id":"42d53c67-c500-4616-a9c1-3f489024c2e1",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

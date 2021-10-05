@@ -1,0 +1,13 @@
+{
+  "start":10460,
+  "end":10483,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't steal the car.",
+  "id":"2ca9072f-6f35-43fb-a550-e8dfce690b9e",
+  "params":{
+    "id":"2ca9072f-6f35-43fb-a550-e8dfce690b9e",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

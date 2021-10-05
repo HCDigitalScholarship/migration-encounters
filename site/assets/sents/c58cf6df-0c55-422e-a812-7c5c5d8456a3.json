@@ -1,0 +1,13 @@
+{
+  "start":26340,
+  "end":26412,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"He wants you to go to the board and complete\n     the mathematic there.",
+  "id":"c58cf6df-0c55-422e-a812-7c5c5d8456a3",
+  "params":{
+    "id":"c58cf6df-0c55-422e-a812-7c5c5d8456a3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

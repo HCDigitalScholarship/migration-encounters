@@ -1,0 +1,12 @@
+{
+  "start":42587,
+  "end":42611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't live that way.",
+  "id":"470b6865-198c-4375-93aa-9968bb26dfbf",
+  "params":{
+    "id":"eb8bd6ce-6781-4f32-9110-c265c265c033"
+  },
+  "name":"Daniel B"
+}

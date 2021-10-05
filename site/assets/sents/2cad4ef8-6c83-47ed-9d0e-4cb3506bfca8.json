@@ -1,0 +1,13 @@
+{
+  "start":10373,
+  "end":10484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"if\n   I'm going to go to prison for the rest of my life I might as well hold\n   court right here in this place.",
+  "id":"2cad4ef8-6c83-47ed-9d0e-4cb3506bfca8",
+  "params":{
+    "id":"2cad4ef8-6c83-47ed-9d0e-4cb3506bfca8",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

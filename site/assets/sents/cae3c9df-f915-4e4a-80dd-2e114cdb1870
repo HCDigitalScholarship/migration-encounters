@@ -1,0 +1,12 @@
+{
+  "start":25145,
+  "end":25189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would have\n   had a business or something.",
+  "id":"cae3c9df-f915-4e4a-80dd-2e114cdb1870",
+  "params":{
+    "id":"f930e69f-7082-4b79-add4-9d7f170ee49b"
+  },
+  "name":"Hugo"
+}

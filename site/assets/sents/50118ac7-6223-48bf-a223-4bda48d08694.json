@@ -1,0 +1,13 @@
+{
+  "start":30450,
+  "end":30496,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"This is all I have for gas and meals.",
+  "id":"50118ac7-6223-48bf-a223-4bda48d08694",
+  "params":{
+    "id":"50118ac7-6223-48bf-a223-4bda48d08694",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21095,
+  "end":21134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I left,\n they were three and five.",
+  "id":"0b53dd31-23de-4af6-a35e-d8d7d50d6282",
+  "params":{
+    "id":"ad814511-a31e-40ab-b128-bd4e2466b5da"
+  },
+  "name":"Brenda"
+}

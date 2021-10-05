@@ -1,0 +1,13 @@
+{
+  "start":31501,
+  "end":31652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like,\n \u201c[Singing] Yeah man you know I've got a kindhearted woman, she'd shine up\n at him,\u201d and just started rapping and he really felt that music.",
+  "id":"74befc0d-8179-4306-b00a-305e26a86aef",
+  "params":{
+    "id":"74befc0d-8179-4306-b00a-305e26a86aef",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9282,
+  "end":9318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom actually told me\n   about it.",
+  "id":"90eb719f-1cef-4432-b9ae-fa008e8e4763",
+  "params":{
+    "id":"90eb719f-1cef-4432-b9ae-fa008e8e4763",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

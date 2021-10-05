@@ -1,0 +1,13 @@
+{
+  "start":20512,
+  "end":20525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"is traveling.",
+  "id":"ecfc0b78-7d1f-4fa6-aa5d-cd2fe7277d98",
+  "params":{
+    "id":"ecfc0b78-7d1f-4fa6-aa5d-cd2fe7277d98",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

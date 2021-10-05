@@ -1,0 +1,13 @@
+{
+  "start":1926,
+  "end":1941,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't know.",
+  "id":"4d22e19a-41a1-4532-9c7b-d6c08f7ea35c",
+  "params":{
+    "id":"4d22e19a-41a1-4532-9c7b-d6c08f7ea35c",
+    "class":"anno"
+  },
+  "name":"Many"
+}

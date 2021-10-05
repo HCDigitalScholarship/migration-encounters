@@ -1,0 +1,12 @@
+{
+  "start":42875,
+  "end":42883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Exactly.",
+  "id":"e5c6ef7d-c725-41ed-8ced-0556f0a7dce0",
+  "params":{
+    "id":"8023564d-6559-4340-b4b4-5ba43a4ac6cb"
+  },
+  "name":"Sylent"
+}

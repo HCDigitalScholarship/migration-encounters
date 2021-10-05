@@ -1,0 +1,13 @@
+{
+  "start":67820,
+  "end":67871,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know it's\n not true, it doesn't affect me at all.",
+  "id":"19a079cd-0b8c-4ab2-84bd-10de8363514c",
+  "params":{
+    "id":"19a079cd-0b8c-4ab2-84bd-10de8363514c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

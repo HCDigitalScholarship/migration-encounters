@@ -1,0 +1,12 @@
+{
+  "start":23291,
+  "end":23312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you feeling good?",
+  "id":"78e2a39b-f51c-4110-9e96-f43dd4f8fd00",
+  "params":{
+    "id":"c1cc2918-3691-4d7f-97fd-5ebd5578d3da"
+  },
+  "name":"Luis B"
+}

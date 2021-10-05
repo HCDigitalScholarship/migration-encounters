@@ -1,0 +1,13 @@
+{
+  "start":4985,
+  "end":5045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like the environment and the cops, they're\n   all...",
+  "id":"40837a7e-b8c0-4ab4-81e0-5ce0693761ff",
+  "params":{
+    "id":"40837a7e-b8c0-4ab4-81e0-5ce0693761ff",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

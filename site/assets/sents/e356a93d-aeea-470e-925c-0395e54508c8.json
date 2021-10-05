@@ -1,0 +1,13 @@
+{
+  "start":97,
+  "end":216,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n     Maria: [Sonido de afirmaci\u00f3n] As\u00ed es.\n \n <br/>\n \n     Anita much\u00edsimas gracias por venir.\n \n <br/>\n \n     ",
+  "id":"e356a93d-aeea-470e-925c-0395e54508c8",
+  "params":{
+    "id":"e356a93d-aeea-470e-925c-0395e54508c8",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

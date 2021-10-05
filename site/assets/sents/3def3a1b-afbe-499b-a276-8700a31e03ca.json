@@ -1,0 +1,13 @@
+{
+  "start":8881,
+  "end":8921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"God I\n   know you're real.\"",
+  "id":"3def3a1b-afbe-499b-a276-8700a31e03ca",
+  "params":{
+    "id":"3def3a1b-afbe-499b-a276-8700a31e03ca",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

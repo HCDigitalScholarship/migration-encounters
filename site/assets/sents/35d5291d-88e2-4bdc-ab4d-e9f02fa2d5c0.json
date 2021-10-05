@@ -1,0 +1,13 @@
+{
+  "start":72535,
+  "end":72555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's good with me.",
+  "id":"35d5291d-88e2-4bdc-ab4d-e9f02fa2d5c0",
+  "params":{
+    "id":"35d5291d-88e2-4bdc-ab4d-e9f02fa2d5c0",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

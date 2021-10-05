@@ -1,0 +1,13 @@
+{
+  "start":17112,
+  "end":17174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you were in the US still, what do you think you'd be doing?",
+  "id":"f395b646-1005-41dc-b54b-3c5ca1ad9431",
+  "params":{
+    "id":"f395b646-1005-41dc-b54b-3c5ca1ad9431",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

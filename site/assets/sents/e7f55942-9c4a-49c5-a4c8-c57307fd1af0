@@ -1,0 +1,12 @@
+{
+  "start":20561,
+  "end":20606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like I was telling you,\n   they was two kids.",
+  "id":"e7f55942-9c4a-49c5-a4c8-c57307fd1af0",
+  "params":{
+    "id":"03ed8bf0-e71f-4b93-b0c8-ef8abc8cc83e"
+  },
+  "name":"Many"
+}

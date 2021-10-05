@@ -1,0 +1,12 @@
+{
+  "start":4096,
+  "end":4184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, they're always going to be\n   there, but you're always going to meet new people.",
+  "id":"a2521797-9a38-4763-bcc7-54c4efae7c2c",
+  "params":{
+    "id":"92ad4bd7-c102-4d3c-9121-fbba35bdbe04"
+  },
+  "name":"Jeimmy"
+}

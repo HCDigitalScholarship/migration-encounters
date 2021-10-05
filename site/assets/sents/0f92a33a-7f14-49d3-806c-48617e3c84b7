@@ -1,0 +1,12 @@
+{
+  "start":8390,
+  "end":8518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dealing with people is, I'm not going to say the\n     worst because we have to deal with people, but it is very, very difficult.",
+  "id":"0f92a33a-7f14-49d3-806c-48617e3c84b7",
+  "params":{
+    "id":"05ec4bcc-5da5-4f2a-81eb-1007040df370"
+  },
+  "name":"Beto"
+}

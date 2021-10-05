@@ -1,0 +1,12 @@
+{
+  "start":982,
+  "end":1010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was pretty interesting.",
+  "id":"6358dc4f-4d6a-4116-a89b-8b967ebd4c5a",
+  "params":{
+    "id":"aab1d44a-c1e9-4ea1-94eb-c281f6bd9244"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16669,
+  "end":16692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You made that decision?",
+  "id":"da696e38-a16e-4bf2-ba88-8622f042dfa2",
+  "params":{
+    "id":"da696e38-a16e-4bf2-ba88-8622f042dfa2",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

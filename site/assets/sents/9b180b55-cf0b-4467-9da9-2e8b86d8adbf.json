@@ -1,0 +1,13 @@
+{
+  "start":49711,
+  "end":49757,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a lot better than a Call Center, right?",
+  "id":"9b180b55-cf0b-4467-9da9-2e8b86d8adbf",
+  "params":{
+    "id":"9b180b55-cf0b-4467-9da9-2e8b86d8adbf",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

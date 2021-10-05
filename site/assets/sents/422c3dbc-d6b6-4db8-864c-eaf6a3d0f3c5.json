@@ -1,0 +1,13 @@
+{
+  "start":25432,
+  "end":25499,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo creo que s\u00ed fui muy estricta, demasiado estricta con\n     ellos.",
+  "id":"422c3dbc-d6b6-4db8-864c-eaf6a3d0f3c5",
+  "params":{
+    "id":"422c3dbc-d6b6-4db8-864c-eaf6a3d0f3c5",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42401,
+  "end":42423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And she kicked me out.",
+  "id":"77c5c87e-0b76-46e7-aac1-692ede3d2063",
+  "params":{
+    "id":"343711be-791a-4499-a61a-c9b01d81d3be"
+  },
+  "name":"Angelo"
+}

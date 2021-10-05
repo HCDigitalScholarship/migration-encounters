@@ -1,0 +1,12 @@
+{
+  "start":15175,
+  "end":15200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you still in contact?",
+  "id":"55b6cd95-20a9-4042-9b12-1dd03fc2f87b",
+  "params":{
+    "id":"2cfbb0a0-f39e-4ae1-b3e0-09c5c7ecc4b5"
+  },
+  "name":"Kevin"
+}

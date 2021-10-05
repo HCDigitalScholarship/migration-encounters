@@ -1,0 +1,13 @@
+{
+  "start":10,
+  "end":38,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so this is Anne again.",
+  "id":"aef460f9-9284-4fd5-a0ad-ddc149292b73",
+  "params":{
+    "id":"aef460f9-9284-4fd5-a0ad-ddc149292b73",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

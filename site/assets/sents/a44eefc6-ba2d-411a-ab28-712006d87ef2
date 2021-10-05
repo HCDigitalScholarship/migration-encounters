@@ -1,0 +1,12 @@
+{
+  "start":40681,
+  "end":40730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I had two kids, no way to provide\n   for them.",
+  "id":"a44eefc6-ba2d-411a-ab28-712006d87ef2",
+  "params":{
+    "id":"da4ff4ea-a6d5-47ec-9b0e-8838f469929f"
+  },
+  "name":"Mike"
+}

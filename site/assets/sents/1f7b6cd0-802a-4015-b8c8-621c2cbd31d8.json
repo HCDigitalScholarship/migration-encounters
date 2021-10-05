@@ -1,0 +1,13 @@
+{
+  "start":20201,
+  "end":20250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You think jazz is a form of rugged individualism?",
+  "id":"1f7b6cd0-802a-4015-b8c8-621c2cbd31d8",
+  "params":{
+    "id":"1f7b6cd0-802a-4015-b8c8-621c2cbd31d8",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20120,
+  "end":20141,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not talking about",
+  "id":"d43a7fc0-4b1a-4bcd-bdc3-b324375e62d3",
+  "params":{
+    "id":"d43a7fc0-4b1a-4bcd-bdc3-b324375e62d3",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

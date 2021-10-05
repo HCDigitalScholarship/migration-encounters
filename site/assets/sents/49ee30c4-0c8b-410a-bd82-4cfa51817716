@@ -1,0 +1,12 @@
+{
+  "start":70306,
+  "end":70323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n personal life",
+  "id":"49ee30c4-0c8b-410a-bd82-4cfa51817716",
+  "params":{
+    "id":"ea2f23f2-3ebf-458c-aa0a-e37f1f7e958b"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32917,
+  "end":32938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Completely different.",
+  "id":"9f13722b-7e30-4f3d-8781-97a5891ae35a",
+  "params":{
+    "id":"9f13722b-7e30-4f3d-8781-97a5891ae35a",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

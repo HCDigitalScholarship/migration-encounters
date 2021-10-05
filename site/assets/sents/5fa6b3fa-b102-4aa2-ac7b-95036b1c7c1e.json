@@ -1,0 +1,12 @@
+{
+  "start":15,
+  "end":126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can start wherever you want, but maybe a good starting place\n   could be when you came to the US from Mexico",
+  "id":"5fa6b3fa-b102-4aa2-ac7b-95036b1c7c1e",
+  "params":{
+    "id":"355b730e-26ef-4788-88ac-73cbb66dc141"
+  },
+  "name":"Laila"
+}

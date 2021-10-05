@@ -1,0 +1,13 @@
+{
+  "start":29947,
+  "end":29987,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: Oh, you paid taxes, too?",
+  "id":"e3c975a5-d588-4f60-acf3-36ef73d9badc",
+  "params":{
+    "id":"e3c975a5-d588-4f60-acf3-36ef73d9badc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

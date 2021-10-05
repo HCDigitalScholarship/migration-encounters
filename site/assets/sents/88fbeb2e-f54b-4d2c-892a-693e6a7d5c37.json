@@ -1,0 +1,13 @@
+{
+  "start":14182,
+  "end":14237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that\n   something that normally happens?\n \n \n   Dan:",
+  "id":"88fbeb2e-f54b-4d2c-892a-693e6a7d5c37",
+  "params":{
+    "id":"88fbeb2e-f54b-4d2c-892a-693e6a7d5c37",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

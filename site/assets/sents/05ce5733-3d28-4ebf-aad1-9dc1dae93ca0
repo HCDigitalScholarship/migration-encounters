@@ -1,0 +1,12 @@
+{
+  "start":19817,
+  "end":19829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to go.",
+  "id":"05ce5733-3d28-4ebf-aad1-9dc1dae93ca0",
+  "params":{
+    "id":"8ed28d7b-2756-4b83-aa75-66fcdc220717"
+  },
+  "name":"Hugo"
+}

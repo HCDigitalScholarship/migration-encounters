@@ -1,0 +1,13 @@
+{
+  "start":15595,
+  "end":15656,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He knows all about\n   it, but we never talk about that stuff.",
+  "id":"b12fd8db-46ff-4bbe-b88f-a211036aa444",
+  "params":{
+    "id":"b12fd8db-46ff-4bbe-b88f-a211036aa444",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

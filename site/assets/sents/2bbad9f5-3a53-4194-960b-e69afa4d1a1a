@@ -1,0 +1,12 @@
+{
+  "start":1981,
+  "end":2049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that I got to the United States and I started going to school.",
+  "id":"2bbad9f5-3a53-4194-960b-e69afa4d1a1a",
+  "params":{
+    "id":"8bd3bfcc-a347-488f-8e45-084911b13bfb"
+  },
+  "name":"Mike"
+}

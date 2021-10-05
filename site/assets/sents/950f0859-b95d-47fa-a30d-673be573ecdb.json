@@ -1,0 +1,13 @@
+{
+  "start":11460,
+  "end":11523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I remember him crying outside,\n   because the cops got him.",
+  "id":"950f0859-b95d-47fa-a30d-673be573ecdb",
+  "params":{
+    "id":"950f0859-b95d-47fa-a30d-673be573ecdb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

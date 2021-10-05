@@ -1,0 +1,12 @@
+{
+  "start":62892,
+  "end":62939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to ask you, I\n really don't care.",
+  "id":"153da829-1f2f-4b02-bc0d-196638921765",
+  "params":{
+    "id":"0c5cfebf-c219-4ffd-8d88-b3fcf88b8e2a"
+  },
+  "name":"Axel"
+}

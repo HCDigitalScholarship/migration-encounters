@@ -1,0 +1,12 @@
+{
+  "start":18313,
+  "end":18352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Hey, man, don't take his food.",
+  "id":"a012c400-9c7b-4c10-a511-1bdbe72a8f29",
+  "params":{
+    "id":"c78f0be1-ed3a-4fad-a693-795c59ba2c22"
+  },
+  "name":"Sylent"
+}

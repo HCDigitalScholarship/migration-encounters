@@ -1,0 +1,13 @@
+{
+  "start":10172,
+  "end":10236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That happened because I never have time to\n   solve the problem.",
+  "id":"b5d5781b-8f1d-4785-9702-7d9d40a7ada7",
+  "params":{
+    "id":"b5d5781b-8f1d-4785-9702-7d9d40a7ada7",
+    "class":"anno"
+  },
+  "name":"Many"
+}

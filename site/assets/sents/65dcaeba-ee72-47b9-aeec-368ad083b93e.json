@@ -1,0 +1,13 @@
+{
+  "start":15180,
+  "end":15238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We do have rules, but a lot of people don't respect\n   it.",
+  "id":"65dcaeba-ee72-47b9-aeec-368ad083b93e",
+  "params":{
+    "id":"65dcaeba-ee72-47b9-aeec-368ad083b93e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

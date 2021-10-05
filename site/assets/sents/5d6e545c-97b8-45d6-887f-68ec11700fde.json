@@ -1,0 +1,13 @@
+{
+  "start":36802,
+  "end":36859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was more into American football when I was\n     little.",
+  "id":"5d6e545c-97b8-45d6-887f-68ec11700fde",
+  "params":{
+    "id":"5d6e545c-97b8-45d6-887f-68ec11700fde",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

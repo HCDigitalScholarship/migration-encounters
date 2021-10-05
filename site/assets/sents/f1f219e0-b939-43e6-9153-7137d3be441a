@@ -1,0 +1,12 @@
+{
+  "start":20228,
+  "end":20283,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"No, I'm just here because I'm\n   illegal.\"",
+  "id":"f1f219e0-b939-43e6-9153-7137d3be441a",
+  "params":{
+    "id":"ae91f53c-f557-4729-80c8-e6c6f259ce8e"
+  },
+  "name":"Sylent"
+}

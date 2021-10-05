@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":872,
+  "end":885,
+  "text":"y dad.\n \n \n   Anita: With your dad?\n \n \n   Joana: Well, I left by myself. I got here with my dad. He is living here in\n   Mexico City. I stayed for about a year and a half. Then I went back to the\n   United States.\n \n \n   Anita: So, you left with your\u2014you came to Mexico City from where?\n \n \n   Joana: From ___, North Carolina.\n \n \n   Anita: Okay. Wait a minute. You were born where?\n \n \n   Joana: In Veracruz.\n \n",
+  "label":"GPE",
+  "id":"77d38494-ece5-4155-8595-fe7581f5eb20",
+  "name":"Joana"
+}

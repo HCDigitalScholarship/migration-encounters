@@ -1,0 +1,13 @@
+{
+  "start":20679,
+  "end":20757,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of my\nfamily that lives here, and I've met a lot of people here.",
+  "id":"f2e4f98c-e87e-46d2-9f12-1adf6d390a55",
+  "params":{
+    "id":"f2e4f98c-e87e-46d2-9f12-1adf6d390a55",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

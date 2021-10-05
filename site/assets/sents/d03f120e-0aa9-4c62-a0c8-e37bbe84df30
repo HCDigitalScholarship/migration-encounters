@@ -1,0 +1,12 @@
+{
+  "start":163,
+  "end":180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel: Yeah, I do.",
+  "id":"d03f120e-0aa9-4c62-a0c8-e37bbe84df30",
+  "params":{
+    "id":"35dc3b0b-dc1a-4449-9bab-939b1de186c4"
+  },
+  "name":"Abel"
+}

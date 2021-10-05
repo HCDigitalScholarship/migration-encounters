@@ -1,0 +1,13 @@
+{
+  "start":12017,
+  "end":12049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom's always telling me this.",
+  "id":"90edca1f-f93a-40bf-9913-f0c91e939bcb",
+  "params":{
+    "id":"90edca1f-f93a-40bf-9913-f0c91e939bcb",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

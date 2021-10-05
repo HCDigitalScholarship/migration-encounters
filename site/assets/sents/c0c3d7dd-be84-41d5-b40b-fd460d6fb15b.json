@@ -1,0 +1,13 @@
+{
+  "start":23850,
+  "end":23877,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then it just got to me.",
+  "id":"c0c3d7dd-be84-41d5-b40b-fd460d6fb15b",
+  "params":{
+    "id":"c0c3d7dd-be84-41d5-b40b-fd460d6fb15b",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

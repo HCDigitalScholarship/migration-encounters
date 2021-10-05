@@ -1,0 +1,13 @@
+{
+  "start":17214,
+  "end":17246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I stayed with my son right here.",
+  "id":"f65b3c96-033b-48c3-b2f7-f8f0dd0464e1",
+  "params":{
+    "id":"f65b3c96-033b-48c3-b2f7-f8f0dd0464e1",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26565,
+  "end":26592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And here, I go to Acapulco.",
+  "id":"f93f11d8-7b13-4d6c-b582-3af55c5a342a",
+  "params":{
+    "id":"f93f11d8-7b13-4d6c-b582-3af55c5a342a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

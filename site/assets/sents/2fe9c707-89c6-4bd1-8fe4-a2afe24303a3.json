@@ -1,0 +1,13 @@
+{
+  "start":35547,
+  "end":35559,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like life.",
+  "id":"2fe9c707-89c6-4bd1-8fe4-a2afe24303a3",
+  "params":{
+    "id":"2fe9c707-89c6-4bd1-8fe4-a2afe24303a3",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

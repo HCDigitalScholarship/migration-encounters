@@ -1,0 +1,12 @@
+{
+  "start":8559,
+  "end":8573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Diana: By car.",
+  "id":"783e5cac-d39c-4227-8fbd-d131f85382cc",
+  "params":{
+    "id":"cdf514bb-fcdd-4e21-bfe0-e606f2806269"
+  },
+  "name":"Diana"
+}

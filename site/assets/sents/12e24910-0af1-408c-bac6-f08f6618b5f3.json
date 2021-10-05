@@ -1,0 +1,13 @@
+{
+  "start":20248,
+  "end":20288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm definitely going back to the States.",
+  "id":"12e24910-0af1-408c-bac6-f08f6618b5f3",
+  "params":{
+    "id":"12e24910-0af1-408c-bac6-f08f6618b5f3",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

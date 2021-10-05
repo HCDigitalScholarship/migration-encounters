@@ -1,0 +1,13 @@
+{
+  "start":13372,
+  "end":13454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's a\n   lawyer now, but she had to do a lot of things in order to get that way.",
+  "id":"0c6a47df-50a4-45e6-aea7-7c3f5c34e63b",
+  "params":{
+    "id":"0c6a47df-50a4-45e6-aea7-7c3f5c34e63b",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

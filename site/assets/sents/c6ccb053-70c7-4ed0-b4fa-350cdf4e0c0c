@@ -1,0 +1,12 @@
+{
+  "start":6726,
+  "end":6792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to give a banking account with\n   more than 50,000 Pesos.",
+  "id":"c6ccb053-70c7-4ed0-b4fa-350cdf4e0c0c",
+  "params":{
+    "id":"d4f69f43-a256-44d6-9fd7-ce639c5324b4"
+  },
+  "name":"Frank"
+}

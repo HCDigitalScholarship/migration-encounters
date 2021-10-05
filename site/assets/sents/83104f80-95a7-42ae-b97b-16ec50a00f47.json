@@ -1,0 +1,13 @@
+{
+  "start":38120,
+  "end":38146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you worried about him?",
+  "id":"83104f80-95a7-42ae-b97b-16ec50a00f47",
+  "params":{
+    "id":"83104f80-95a7-42ae-b97b-16ec50a00f47",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

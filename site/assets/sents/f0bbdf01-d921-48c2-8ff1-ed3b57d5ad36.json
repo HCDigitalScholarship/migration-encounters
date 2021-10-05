@@ -1,0 +1,13 @@
+{
+  "start":27267,
+  "end":27321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, it's voluntary here, it's a different theme here.",
+  "id":"f0bbdf01-d921-48c2-8ff1-ed3b57d5ad36",
+  "params":{
+    "id":"f0bbdf01-d921-48c2-8ff1-ed3b57d5ad36",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

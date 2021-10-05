@@ -1,0 +1,13 @@
+{
+  "start":14494,
+  "end":14516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He got the best of me.",
+  "id":"1cfc0085-a97b-4340-b30b-344595114685",
+  "params":{
+    "id":"1cfc0085-a97b-4340-b30b-344595114685",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

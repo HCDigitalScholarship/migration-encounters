@@ -1,0 +1,13 @@
+{
+  "start":6511,
+  "end":6540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that, he turned around.",
+  "id":"cb722345-172d-40fd-b03f-9e7a4094b773",
+  "params":{
+    "id":"cb722345-172d-40fd-b03f-9e7a4094b773",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

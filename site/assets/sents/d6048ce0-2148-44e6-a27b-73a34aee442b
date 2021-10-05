@@ -1,0 +1,12 @@
+{
+  "start":11728,
+  "end":11741,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   friends",
+  "id":"d6048ce0-2148-44e6-a27b-73a34aee442b",
+  "params":{
+    "id":"04a8249b-f2cf-4f90-b987-aae381751968"
+  },
+  "name":"Carlos"
+}

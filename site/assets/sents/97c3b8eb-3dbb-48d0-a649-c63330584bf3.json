@@ -1,0 +1,13 @@
+{
+  "start":29638,
+  "end":29654,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Angelo: Exactly.",
+  "id":"97c3b8eb-3dbb-48d0-a649-c63330584bf3",
+  "params":{
+    "id":"97c3b8eb-3dbb-48d0-a649-c63330584bf3",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

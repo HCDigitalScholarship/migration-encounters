@@ -1,0 +1,13 @@
+{
+  "start":1314,
+  "end":1377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't like\n   it, so he said, \"Why don't you come with me?\"",
+  "id":"f2c8b9cd-49f1-4d65-bfa8-47a852a2a53e",
+  "params":{
+    "id":"f2c8b9cd-49f1-4d65-bfa8-47a852a2a53e",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

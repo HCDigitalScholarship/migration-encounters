@@ -1,0 +1,12 @@
+{
+  "start":7544,
+  "end":7606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me a little bit about how it's difficult for you?",
+  "id":"c04c5227-39ea-4ccb-af88-d6d364d55ff6",
+  "params":{
+    "id":"0044905a-afce-4451-a21f-4ef4401be10c"
+  },
+  "name":"Juan A"
+}

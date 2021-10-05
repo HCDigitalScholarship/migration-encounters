@@ -1,0 +1,13 @@
+{
+  "start":562,
+  "end":581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get my furniture.",
+  "id":"c0e25a20-e1c3-4db8-9126-ff185530f07b",
+  "params":{
+    "id":"c0e25a20-e1c3-4db8-9126-ff185530f07b",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

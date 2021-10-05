@@ -1,0 +1,13 @@
+{
+  "start":2701,
+  "end":2746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was 13, I caught my first\n   burglary.",
+  "id":"9c444be1-8a8a-4f26-a264-52c1fa8e663e",
+  "params":{
+    "id":"9c444be1-8a8a-4f26-a264-52c1fa8e663e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

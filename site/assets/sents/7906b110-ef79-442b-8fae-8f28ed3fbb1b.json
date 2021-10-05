@@ -1,0 +1,13 @@
+{
+  "start":13142,
+  "end":13197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We didn't have enough\n   money to pay for a babysitter.",
+  "id":"7906b110-ef79-442b-8fae-8f28ed3fbb1b",
+  "params":{
+    "id":"7906b110-ef79-442b-8fae-8f28ed3fbb1b",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

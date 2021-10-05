@@ -1,0 +1,13 @@
+{
+  "start":6986,
+  "end":7091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't check anything, and that was after 9/11, which the\n   security shouldn't be a little tighter?",
+  "id":"5e9f9122-ca1a-4acb-aad0-d7083bc3fe07",
+  "params":{
+    "id":"5e9f9122-ca1a-4acb-aad0-d7083bc3fe07",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

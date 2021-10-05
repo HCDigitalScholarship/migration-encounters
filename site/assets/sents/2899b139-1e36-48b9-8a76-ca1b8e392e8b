@@ -1,0 +1,12 @@
+{
+  "start":7350,
+  "end":7401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me, you said you left the US in 10th grade?",
+  "id":"2899b139-1e36-48b9-8a76-ca1b8e392e8b",
+  "params":{
+    "id":"1f37e966-3eb4-4a7c-a644-a357ced714b9"
+  },
+  "name":"Carolina"
+}

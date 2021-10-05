@@ -1,0 +1,12 @@
+{
+  "start":7862,
+  "end":7908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, yes, he named me after Billy the Kid, man.",
+  "id":"45e4fbc6-e8af-4ba9-90b4-60833a283b55",
+  "params":{
+    "id":"87c26611-63eb-45ed-962b-3e211426c85a"
+  },
+  "name":"Billy"
+}

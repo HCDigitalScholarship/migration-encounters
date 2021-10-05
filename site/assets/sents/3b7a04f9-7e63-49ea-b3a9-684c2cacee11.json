@@ -1,0 +1,13 @@
+{
+  "start":53212,
+  "end":53270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[I\u2019d like to write\n   about] the US's loss, Mexico's gain.",
+  "id":"3b7a04f9-7e63-49ea-b3a9-684c2cacee11",
+  "params":{
+    "id":"3b7a04f9-7e63-49ea-b3a9-684c2cacee11",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

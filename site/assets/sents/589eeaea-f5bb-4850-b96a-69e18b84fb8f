@@ -1,0 +1,12 @@
+{
+  "start":31683,
+  "end":31725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I want to\n   be able to help them out.",
+  "id":"589eeaea-f5bb-4850-b96a-69e18b84fb8f",
+  "params":{
+    "id":"94f1de86-300e-43d3-b138-09c69ec9393f"
+  },
+  "name":"Ilse"
+}

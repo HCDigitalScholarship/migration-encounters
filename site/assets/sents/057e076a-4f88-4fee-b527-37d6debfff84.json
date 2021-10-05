@@ -1,0 +1,13 @@
+{
+  "start":30750,
+  "end":30775,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At\n   least just to talk.",
+  "id":"057e076a-4f88-4fee-b527-37d6debfff84",
+  "params":{
+    "id":"057e076a-4f88-4fee-b527-37d6debfff84",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

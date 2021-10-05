@@ -1,0 +1,13 @@
+{
+  "start":5155,
+  "end":5251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   with the other one, with _____, they actually had a manager there when I\n   first got in.",
+  "id":"f8b3e97f-e73f-40dc-a80b-e8370a08d84b",
+  "params":{
+    "id":"f8b3e97f-e73f-40dc-a80b-e8370a08d84b",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

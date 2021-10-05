@@ -1,0 +1,12 @@
+{
+  "start":32561,
+  "end":32586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   know what I'm doing.",
+  "id":"fc866391-5f7f-42f8-9995-6c1732a82a68",
+  "params":{
+    "id":"4708e9b5-42a1-47a9-9a26-12825a0303e8"
+  },
+  "name":"Ruben"
+}

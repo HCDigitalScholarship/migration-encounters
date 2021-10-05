@@ -1,0 +1,13 @@
+{
+  "start":18570,
+  "end":18651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't tell a cop that\n   because oh my God, that's it, it's over.\n \n \n   Hugo",
+  "id":"0bfcc6d3-0d6c-4d62-b07c-5ed466737f58",
+  "params":{
+    "id":"0bfcc6d3-0d6c-4d62-b07c-5ed466737f58",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

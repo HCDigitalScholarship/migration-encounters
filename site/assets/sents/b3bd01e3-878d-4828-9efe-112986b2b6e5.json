@@ -1,0 +1,13 @@
+{
+  "start":29928,
+  "end":29989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I\nfirst got here, I used to get taken off the bus a lot.",
+  "id":"b3bd01e3-878d-4828-9efe-112986b2b6e5",
+  "params":{
+    "id":"b3bd01e3-878d-4828-9efe-112986b2b6e5",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

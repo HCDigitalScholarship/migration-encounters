@@ -1,0 +1,13 @@
+{
+  "start":34644,
+  "end":34673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are your hopes for them?",
+  "id":"abd31e3c-fdd7-444c-94d0-4f4e083e5461",
+  "params":{
+    "id":"abd31e3c-fdd7-444c-94d0-4f4e083e5461",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

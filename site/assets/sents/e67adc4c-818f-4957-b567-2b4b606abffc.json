@@ -1,0 +1,13 @@
+{
+  "start":766,
+  "end":815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was getting\n   paid about 700 pesos per week.",
+  "id":"e67adc4c-818f-4957-b567-2b4b606abffc",
+  "params":{
+    "id":"e67adc4c-818f-4957-b567-2b4b606abffc",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

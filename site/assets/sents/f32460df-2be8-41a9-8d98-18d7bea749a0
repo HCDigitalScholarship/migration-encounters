@@ -1,0 +1,12 @@
+{
+  "start":22576,
+  "end":22623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, who is taking care of you during this time?",
+  "id":"f32460df-2be8-41a9-8d98-18d7bea749a0",
+  "params":{
+    "id":"4dc240a7-fed9-4943-9cb5-02d812eab4e6"
+  },
+  "name":"Many"
+}

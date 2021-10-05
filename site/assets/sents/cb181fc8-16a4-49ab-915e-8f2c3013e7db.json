@@ -1,0 +1,13 @@
+{
+  "start":2160,
+  "end":2223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   then from when I was 13, that's when everything started.",
+  "id":"cb181fc8-16a4-49ab-915e-8f2c3013e7db",
+  "params":{
+    "id":"cb181fc8-16a4-49ab-915e-8f2c3013e7db",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":904,
+  "end":950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother, he's three years older\n   than me.",
+  "id":"79f51aef-7743-4784-a057-6271e17aee34",
+  "params":{
+    "id":"99f478cf-19e1-40ff-89b0-cd592ce2cc9f"
+  },
+  "name":"Luis B"
+}

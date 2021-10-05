@@ -1,0 +1,13 @@
+{
+  "start":25469,
+  "end":25534,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you hope to have a family or do you have a family of your own?",
+  "id":"0ed57f9a-2a39-400c-8e59-84b245df1550",
+  "params":{
+    "id":"0ed57f9a-2a39-400c-8e59-84b245df1550",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

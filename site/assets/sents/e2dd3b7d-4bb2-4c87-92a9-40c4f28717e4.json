@@ -1,0 +1,13 @@
+{
+  "start":143,
+  "end":158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did I went?",
+  "id":"e2dd3b7d-4bb2-4c87-92a9-40c4f28717e4",
+  "params":{
+    "id":"e2dd3b7d-4bb2-4c87-92a9-40c4f28717e4",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

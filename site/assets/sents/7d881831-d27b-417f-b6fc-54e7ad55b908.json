@@ -1,0 +1,13 @@
+{
+  "start":35242,
+  "end":35268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Wow.\n      \n      \n ",
+  "id":"7d881831-d27b-417f-b6fc-54e7ad55b908",
+  "params":{
+    "id":"7d881831-d27b-417f-b6fc-54e7ad55b908",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3979,
+  "end":3999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something in my ear.",
+  "id":"5e11ee74-a6c7-4b72-911f-d9d652e60d2c",
+  "params":{
+    "id":"1708789a-560d-485e-bc0e-e40f633d0302"
+  },
+  "name":"Mike"
+}

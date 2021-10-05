@@ -1,0 +1,13 @@
+{
+  "start":21929,
+  "end":21986,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't even like I did something major or\n   anything.",
+  "id":"b6474b5f-eb02-4dbc-a736-d12015463e7a",
+  "params":{
+    "id":"b6474b5f-eb02-4dbc-a736-d12015463e7a",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

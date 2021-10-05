@@ -1,0 +1,13 @@
+{
+  "start":23,
+  "end":90,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's Isabel, and I'm here with Weco doing the interview\n   portion.",
+  "id":"093c4efb-edc4-455b-9061-d8da29dd7902",
+  "params":{
+    "id":"093c4efb-edc4-455b-9061-d8da29dd7902",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

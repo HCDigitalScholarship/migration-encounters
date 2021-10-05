@@ -1,0 +1,13 @@
+{
+  "start":12985,
+  "end":13148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure if you're familiar with this but in grade school, they\n   give you this little magazine that's for Scholastic and they let you buy\n   all these books.",
+  "id":"184652a2-8d32-4626-b7f5-503789d7455a",
+  "params":{
+    "id":"184652a2-8d32-4626-b7f5-503789d7455a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

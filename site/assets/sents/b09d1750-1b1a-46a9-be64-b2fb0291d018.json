@@ -1,0 +1,13 @@
+{
+  "start":19618,
+  "end":19654,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to stop him\n   from...",
+  "id":"b09d1750-1b1a-46a9-be64-b2fb0291d018",
+  "params":{
+    "id":"b09d1750-1b1a-46a9-be64-b2fb0291d018",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

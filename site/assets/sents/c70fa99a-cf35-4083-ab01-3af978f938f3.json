@@ -1,0 +1,13 @@
+{
+  "start":8322,
+  "end":8390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Watching the TV and everything, watching people getting\n   deported.",
+  "id":"c70fa99a-cf35-4083-ab01-3af978f938f3",
+  "params":{
+    "id":"c70fa99a-cf35-4083-ab01-3af978f938f3",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

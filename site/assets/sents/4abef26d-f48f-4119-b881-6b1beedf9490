@@ -1,0 +1,12 @@
+{
+  "start":2970,
+  "end":2990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: For how long?",
+  "id":"4abef26d-f48f-4119-b881-6b1beedf9490",
+  "params":{
+    "id":"0b7e2131-bca7-4fce-854d-e85ac4bdc0f4"
+  },
+  "name":"Ivan"
+}

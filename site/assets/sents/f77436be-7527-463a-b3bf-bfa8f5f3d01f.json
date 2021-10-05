@@ -1,0 +1,13 @@
+{
+  "start":395,
+  "end":475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother was over, I had an older brother, but he left\n to go work over there.",
+  "id":"f77436be-7527-463a-b3bf-bfa8f5f3d01f",
+  "params":{
+    "id":"f77436be-7527-463a-b3bf-bfa8f5f3d01f",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

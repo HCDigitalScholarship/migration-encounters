@@ -1,0 +1,13 @@
+{
+  "start":5071,
+  "end":5107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I mean, I have to stick with it.",
+  "id":"980a9063-5df2-49dd-94b2-22d06b1d347f",
+  "params":{
+    "id":"980a9063-5df2-49dd-94b2-22d06b1d347f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

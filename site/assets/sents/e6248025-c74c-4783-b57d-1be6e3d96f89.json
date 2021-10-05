@@ -1,0 +1,13 @@
+{
+  "start":37612,
+  "end":37649,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just it didn't really get to me.",
+  "id":"e6248025-c74c-4783-b57d-1be6e3d96f89",
+  "params":{
+    "id":"e6248025-c74c-4783-b57d-1be6e3d96f89",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

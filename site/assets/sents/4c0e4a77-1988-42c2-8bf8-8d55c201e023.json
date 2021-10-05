@@ -1,0 +1,13 @@
+{
+  "start":3088,
+  "end":3188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I start\n   paying a charity for St. John's hospital for kids because I have the same\n   problem.",
+  "id":"4c0e4a77-1988-42c2-8bf8-8d55c201e023",
+  "params":{
+    "id":"4c0e4a77-1988-42c2-8bf8-8d55c201e023",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

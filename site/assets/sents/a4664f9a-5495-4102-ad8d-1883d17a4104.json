@@ -1,0 +1,13 @@
+{
+  "start":38926,
+  "end":38966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: What about the Mexican government?",
+  "id":"a4664f9a-5495-4102-ad8d-1883d17a4104",
+  "params":{
+    "id":"a4664f9a-5495-4102-ad8d-1883d17a4104",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

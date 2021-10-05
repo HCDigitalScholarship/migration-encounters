@@ -1,0 +1,12 @@
+{
+  "start":10250,
+  "end":10343,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n   like, \"And I don't even think they speak Spanish, they speak a different\n   dialect.\"",
+  "id":"98fa1d79-dae1-4481-99de-54023080ae22",
+  "params":{
+    "id":"9b564856-7c0e-422c-82d8-5d98c4b4a769"
+  },
+  "name":"Miguel C"
+}

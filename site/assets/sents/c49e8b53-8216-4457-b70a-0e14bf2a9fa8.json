@@ -1,0 +1,13 @@
+{
+  "start":31486,
+  "end":31519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old was he when he came here?",
+  "id":"c49e8b53-8216-4457-b70a-0e14bf2a9fa8",
+  "params":{
+    "id":"c49e8b53-8216-4457-b70a-0e14bf2a9fa8",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

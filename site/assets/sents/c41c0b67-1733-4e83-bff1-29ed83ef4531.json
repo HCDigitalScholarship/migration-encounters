@@ -1,0 +1,13 @@
+{
+  "start":3446,
+  "end":3474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I lived right there.",
+  "id":"c41c0b67-1733-4e83-bff1-29ed83ef4531",
+  "params":{
+    "id":"c41c0b67-1733-4e83-bff1-29ed83ef4531",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

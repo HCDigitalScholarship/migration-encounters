@@ -1,0 +1,15 @@
+{
+  "start":1982,
+  "end":1988,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Frank:",
+  "id":"a061af2f-5add-4fba-9e60-01ecfed362e9",
+  "params":{
+    "id":"a061af2f-5add-4fba-9e60-01ecfed362e9",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15358,
+  "end":15384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me that he died.",
+  "id":"f18a7c68-230c-40c0-a3c2-410d217c2d6f",
+  "params":{
+    "id":"f18a7c68-230c-40c0-a3c2-410d217c2d6f",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

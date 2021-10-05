@@ -1,0 +1,12 @@
+{
+  "start":30197,
+  "end":30238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother, he looks like me, you get me?",
+  "id":"c5dfeebd-c753-4941-a5ac-9895d8981d92",
+  "params":{
+    "id":"543fbc47-f5e1-4e49-838c-9c6089cee83e"
+  },
+  "name":"Billy"
+}

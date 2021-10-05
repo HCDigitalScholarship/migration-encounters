@@ -1,0 +1,13 @@
+{
+  "start":64481,
+  "end":64486,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cris:",
+  "id":"4f761e02-f073-4e25-b8be-41efd3cbf14c",
+  "params":{
+    "id":"4f761e02-f073-4e25-b8be-41efd3cbf14c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

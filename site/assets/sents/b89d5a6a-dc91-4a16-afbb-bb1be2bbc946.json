@@ -1,0 +1,13 @@
+{
+  "start":28162,
+  "end":28207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"You've already done nine months.\n ",
+  "id":"b89d5a6a-dc91-4a16-afbb-bb1be2bbc946",
+  "params":{
+    "id":"b89d5a6a-dc91-4a16-afbb-bb1be2bbc946",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

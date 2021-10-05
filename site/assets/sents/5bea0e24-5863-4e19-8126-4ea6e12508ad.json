@@ -1,0 +1,13 @@
+{
+  "start":17333,
+  "end":17382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My son is from over there, he's already 11 years.",
+  "id":"5bea0e24-5863-4e19-8126-4ea6e12508ad",
+  "params":{
+    "id":"5bea0e24-5863-4e19-8126-4ea6e12508ad",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

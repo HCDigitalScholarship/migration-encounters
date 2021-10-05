@@ -1,0 +1,13 @@
+{
+  "start":38216,
+  "end":38242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: About everything.",
+  "id":"33fd9db8-d6a4-4ccf-95a5-e664d6a94863",
+  "params":{
+    "id":"33fd9db8-d6a4-4ccf-95a5-e664d6a94863",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

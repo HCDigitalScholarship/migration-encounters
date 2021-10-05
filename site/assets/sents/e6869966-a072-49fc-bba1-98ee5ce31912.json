@@ -1,0 +1,13 @@
+{
+  "start":20634,
+  "end":20723,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You came back, resumed living where you had lived in the first\n   six years of your life?",
+  "id":"e6869966-a072-49fc-bba1-98ee5ce31912",
+  "params":{
+    "id":"e6869966-a072-49fc-bba1-98ee5ce31912",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

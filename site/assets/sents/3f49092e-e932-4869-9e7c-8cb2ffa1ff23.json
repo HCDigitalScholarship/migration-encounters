@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":18,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     Maria: Hola.",
+  "id":"3f49092e-e932-4869-9e7c-8cb2ffa1ff23",
+  "params":{
+    "id":"6e2c5185-7f5d-4402-90c3-08360a36906c"
+  },
+  "name":"Maria"
+}

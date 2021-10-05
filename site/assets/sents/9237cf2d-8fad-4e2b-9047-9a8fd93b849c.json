@@ -1,0 +1,13 @@
+{
+  "start":12000,
+  "end":12110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess all the rebellion that I was supposed to do when I was 15 or\n   12, I kind of redid it here in Mexico.",
+  "id":"9237cf2d-8fad-4e2b-9047-9a8fd93b849c",
+  "params":{
+    "id":"9237cf2d-8fad-4e2b-9047-9a8fd93b849c",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":31979,
+  "end":32029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my paperwork, and I'm going back\n   home.\"",
+  "id":"0a20ed39-27d0-46ae-87d8-bd8bdc8e5b81",
+  "params":{
+    "id":"e6cbbb34-9e36-4071-8c31-0c6f9b368b37"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18669,
+  "end":18717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From\n   there, I started looking for other jobs.",
+  "id":"b8e41170-7fc5-4f8b-a9eb-89877cdcdbcb",
+  "params":{
+    "id":"b8e41170-7fc5-4f8b-a9eb-89877cdcdbcb",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

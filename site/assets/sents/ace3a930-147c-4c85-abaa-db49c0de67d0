@@ -1,0 +1,12 @@
+{
+  "start":21998,
+  "end":22072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would just be like, \"Hey, let me borrow some,\n   and I'll pay you back.\"",
+  "id":"ace3a930-147c-4c85-abaa-db49c0de67d0",
+  "params":{
+    "id":"e11280a1-9312-41b5-babe-2a636e11c7b4"
+  },
+  "name":"Kevin"
+}

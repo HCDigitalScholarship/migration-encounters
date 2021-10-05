@@ -1,0 +1,13 @@
+{
+  "start":1127,
+  "end":1161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You grew up as an American, right?",
+  "id":"9a54cb18-1908-4508-b65e-dff95770e1d9",
+  "params":{
+    "id":"9a54cb18-1908-4508-b65e-dff95770e1d9",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

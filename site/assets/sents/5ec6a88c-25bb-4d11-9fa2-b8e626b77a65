@@ -1,0 +1,12 @@
+{
+  "start":43665,
+  "end":43700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n     want to take them serious.",
+  "id":"5ec6a88c-25bb-4d11-9fa2-b8e626b77a65",
+  "params":{
+    "id":"7e8c164b-ca6e-43a9-82b6-547a438c6019"
+  },
+  "name":"Joseph"
+}

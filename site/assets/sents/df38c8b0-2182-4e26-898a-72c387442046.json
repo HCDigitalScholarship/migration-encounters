@@ -1,0 +1,13 @@
+{
+  "start":35128,
+  "end":35164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always pay off my traffic tickets.",
+  "id":"df38c8b0-2182-4e26-898a-72c387442046",
+  "params":{
+    "id":"df38c8b0-2182-4e26-898a-72c387442046",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

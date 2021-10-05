@@ -1,0 +1,13 @@
+{
+  "start":11143,
+  "end":11181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You didn't go to school for two years?",
+  "id":"cf1697ed-2431-4848-99c2-6b5cd7e911c9",
+  "params":{
+    "id":"cf1697ed-2431-4848-99c2-6b5cd7e911c9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

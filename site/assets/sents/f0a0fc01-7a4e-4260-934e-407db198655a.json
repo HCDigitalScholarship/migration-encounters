@@ -1,0 +1,13 @@
+{
+  "start":24408,
+  "end":24425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just smart.",
+  "id":"f0a0fc01-7a4e-4260-934e-407db198655a",
+  "params":{
+    "id":"f0a0fc01-7a4e-4260-934e-407db198655a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25934,
+  "end":25978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But, the first time I didn't have the money.",
+  "id":"a2bc39b4-ff55-4acf-9ce5-1c1eb3f897c1",
+  "params":{
+    "id":"a2bc39b4-ff55-4acf-9ce5-1c1eb3f897c1",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

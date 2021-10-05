@@ -1,0 +1,12 @@
+{
+  "start":31792,
+  "end":31808,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can tell them.",
+  "id":"3d426077-34ff-4a0f-bda8-05015f008eeb",
+  "params":{
+    "id":"bcb56f6a-ebf1-48c5-a3ca-caa0017b4cdc"
+  },
+  "name":"Carlos"
+}

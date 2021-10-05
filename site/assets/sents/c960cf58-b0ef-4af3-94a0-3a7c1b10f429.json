@@ -1,0 +1,13 @@
+{
+  "start":4503,
+  "end":4583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people tell me\n   that I have the chance to get the papers to be legal.",
+  "id":"c960cf58-b0ef-4af3-94a0-3a7c1b10f429",
+  "params":{
+    "id":"c960cf58-b0ef-4af3-94a0-3a7c1b10f429",
+    "class":"anno"
+  },
+  "name":"Many"
+}

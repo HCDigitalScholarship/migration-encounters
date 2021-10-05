@@ -1,0 +1,12 @@
+{
+  "start":38189,
+  "end":38210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My life was whack....",
+  "id":"2f91ee52-6c11-43f9-a78d-56a13e209f5f",
+  "params":{
+    "id":"aa6ca912-3775-4eb3-ad31-ce5aafcd059c"
+  },
+  "name":"Mike"
+}

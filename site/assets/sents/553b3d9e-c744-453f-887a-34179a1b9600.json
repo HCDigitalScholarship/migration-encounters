@@ -1,0 +1,13 @@
+{
+  "start":6852,
+  "end":6892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"No, I'm from\n   Germany.\"",
+  "id":"553b3d9e-c744-453f-887a-34179a1b9600",
+  "params":{
+    "id":"553b3d9e-c744-453f-887a-34179a1b9600",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5885,
+  "end":5976,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would probably walk down the street, and I would always\n   get a dirty look or something.",
+  "id":"1b1989e8-cbf2-4c24-867b-23cbdef8f32e",
+  "params":{
+    "id":"1b1989e8-cbf2-4c24-867b-23cbdef8f32e",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

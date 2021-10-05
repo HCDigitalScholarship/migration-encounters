@@ -1,0 +1,12 @@
+{
+  "start":50709,
+  "end":50750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll say, \"I\n   am doing it for my kids.\"",
+  "id":"645d1619-5fa6-446b-a731-ee58bda019b5",
+  "params":{
+    "id":"7a4c411d-7ed0-47b1-9a15-056be3c793d7"
+  },
+  "name":"Cris"
+}

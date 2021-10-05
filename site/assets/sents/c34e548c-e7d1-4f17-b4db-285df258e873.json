@@ -1,0 +1,13 @@
+{
+  "start":31644,
+  "end":31809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who came here because you were deported, and although he's an\n   American citizen, he's growing up in Mexico \u2014 I mean, he's a Mexican\n   12-year-old.\n \n \n   Rodrigo:",
+  "id":"c34e548c-e7d1-4f17-b4db-285df258e873",
+  "params":{
+    "id":"c34e548c-e7d1-4f17-b4db-285df258e873",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18258,
+  "end":18337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They came to pick me up, and then we just took a\n   flight over to Mexico City.",
+  "id":"5b4f477e-c45c-4a7f-8b03-cbc193f4dd7a",
+  "params":{
+    "id":"5b4f477e-c45c-4a7f-8b03-cbc193f4dd7a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

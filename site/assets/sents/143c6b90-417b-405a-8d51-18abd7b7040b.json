@@ -1,0 +1,13 @@
+{
+  "start":24620,
+  "end":24672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something\n   different and a great opportunity.",
+  "id":"143c6b90-417b-405a-8d51-18abd7b7040b",
+  "params":{
+    "id":"143c6b90-417b-405a-8d51-18abd7b7040b",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29794,
+  "end":29844,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"I do speak Spanish, just not as\n   well.\"",
+  "id":"8756cd4d-510f-4f0a-adc2-26e469f66f8d",
+  "params":{
+    "id":"8756cd4d-510f-4f0a-adc2-26e469f66f8d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

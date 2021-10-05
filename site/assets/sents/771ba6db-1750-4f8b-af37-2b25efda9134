@@ -1,0 +1,12 @@
+{
+  "start":5232,
+  "end":5256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I pulled them out.",
+  "id":"771ba6db-1750-4f8b-af37-2b25efda9134",
+  "params":{
+    "id":"f9ccf19c-8b76-4e78-b7bf-20f1816fde49"
+  },
+  "name":"Kevin"
+}

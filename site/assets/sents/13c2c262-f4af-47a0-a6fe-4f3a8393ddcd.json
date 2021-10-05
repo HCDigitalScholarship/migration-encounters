@@ -1,0 +1,13 @@
+{
+  "start":36852,
+  "end":36904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like it,\n   so I just swept the whole street.",
+  "id":"13c2c262-f4af-47a0-a6fe-4f3a8393ddcd",
+  "params":{
+    "id":"13c2c262-f4af-47a0-a6fe-4f3a8393ddcd",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

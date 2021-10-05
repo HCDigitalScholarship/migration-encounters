@@ -1,0 +1,12 @@
+{
+  "start":30402,
+  "end":30417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Open my wallet.",
+  "id":"401cd14b-f041-451c-bdb9-c5e1a2c33f0d",
+  "params":{
+    "id":"605728f8-68c3-485d-8d5f-fd42b8fc40ef"
+  },
+  "name":"Daniel"
+}

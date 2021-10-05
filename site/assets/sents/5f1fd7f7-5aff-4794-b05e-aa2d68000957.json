@@ -1,0 +1,13 @@
+{
+  "start":3855,
+  "end":3881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just didn't finish that.",
+  "id":"5f1fd7f7-5aff-4794-b05e-aa2d68000957",
+  "params":{
+    "id":"5f1fd7f7-5aff-4794-b05e-aa2d68000957",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

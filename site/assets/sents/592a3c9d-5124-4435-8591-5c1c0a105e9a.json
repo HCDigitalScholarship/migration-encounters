@@ -1,0 +1,13 @@
+{
+  "start":6661,
+  "end":6716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just so\n   crazy, because who does that, you know?",
+  "id":"592a3c9d-5124-4435-8591-5c1c0a105e9a",
+  "params":{
+    "id":"592a3c9d-5124-4435-8591-5c1c0a105e9a",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

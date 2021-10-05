@@ -1,0 +1,13 @@
+{
+  "start":21518,
+  "end":21552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would talk behind my\n   back.",
+  "id":"d2bf2b1c-ee05-41fa-a8d5-f791055ef55e",
+  "params":{
+    "id":"d2bf2b1c-ee05-41fa-a8d5-f791055ef55e",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

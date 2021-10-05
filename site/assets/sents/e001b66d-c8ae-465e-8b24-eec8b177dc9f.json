@@ -1,0 +1,13 @@
+{
+  "start":19492,
+  "end":19528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I would, I would call it a salad.",
+  "id":"e001b66d-c8ae-465e-8b24-eec8b177dc9f",
+  "params":{
+    "id":"e001b66d-c8ae-465e-8b24-eec8b177dc9f",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

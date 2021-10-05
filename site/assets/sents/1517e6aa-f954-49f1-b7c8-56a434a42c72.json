@@ -1,0 +1,13 @@
+{
+  "start":5290,
+  "end":5350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know I'm really\n   smart, and I know I'm capable of doing.",
+  "id":"1517e6aa-f954-49f1-b7c8-56a434a42c72",
+  "params":{
+    "id":"1517e6aa-f954-49f1-b7c8-56a434a42c72",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

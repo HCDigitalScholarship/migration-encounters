@@ -1,0 +1,13 @@
+{
+  "start":3101,
+  "end":3148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of them were actually\n   in-class studies.",
+  "id":"510c1f16-126a-4db8-9269-540c89ad594f",
+  "params":{
+    "id":"510c1f16-126a-4db8-9269-540c89ad594f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

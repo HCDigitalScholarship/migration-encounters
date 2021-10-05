@@ -1,0 +1,13 @@
+{
+  "start":28285,
+  "end":28328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somehow, some way, we're still coming over.",
+  "id":"84deacf2-0bb8-4e33-af33-8d88aeaa2436",
+  "params":{
+    "id":"84deacf2-0bb8-4e33-af33-8d88aeaa2436",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40086,
+  "end":40143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Including just to get your ID here, you go through a lot.",
+  "id":"e70cd207-2dcd-45b0-b1ac-9d1cdeff8b5d",
+  "params":{
+    "id":"e70cd207-2dcd-45b0-b1ac-9d1cdeff8b5d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

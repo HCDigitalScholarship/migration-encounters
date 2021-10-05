@@ -1,0 +1,13 @@
+{
+  "start":40295,
+  "end":40325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And when I got here it's like,",
+  "id":"b3229cb5-497b-4c60-af93-c3775a387a69",
+  "params":{
+    "id":"b3229cb5-497b-4c60-af93-c3775a387a69",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

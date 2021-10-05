@@ -1,0 +1,12 @@
+{
+  "start":7839,
+  "end":7869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we\n   decided to come back.",
+  "id":"4d5c6ff8-b959-43cc-8b7f-48367c877945",
+  "params":{
+    "id":"38cdd161-2153-4049-92c1-c864560efed3"
+  },
+  "name":"Carolina"
+}

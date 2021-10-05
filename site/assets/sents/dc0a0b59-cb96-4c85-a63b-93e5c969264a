@@ -1,0 +1,12 @@
+{
+  "start":11152,
+  "end":11197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're never going to fix something like this.",
+  "id":"dc0a0b59-cb96-4c85-a63b-93e5c969264a",
+  "params":{
+    "id":"6d94bbf9-491e-429d-bca9-9a473aedb94a"
+  },
+  "name":"Many"
+}

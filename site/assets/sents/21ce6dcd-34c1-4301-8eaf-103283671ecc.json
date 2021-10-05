@@ -1,0 +1,13 @@
+{
+  "start":40153,
+  "end":40187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, well we're pretty much done.",
+  "id":"21ce6dcd-34c1-4301-8eaf-103283671ecc",
+  "params":{
+    "id":"21ce6dcd-34c1-4301-8eaf-103283671ecc",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

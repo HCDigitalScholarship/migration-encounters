@@ -1,0 +1,13 @@
+{
+  "start":3440,
+  "end":3575,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that was what they started to do after the earthquake, because\n   before the earthquake they actually worked for a painting company.",
+  "id":"3b6875c5-34b1-48d4-ba17-03282e1f0b1f",
+  "params":{
+    "id":"3b6875c5-34b1-48d4-ba17-03282e1f0b1f",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

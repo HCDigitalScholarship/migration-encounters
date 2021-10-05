@@ -1,0 +1,12 @@
+{
+  "start":48722,
+  "end":48758,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I forgot what we were talking about.",
+  "id":"55adbed7-d36e-4cd2-81d8-adac30542c4b",
+  "params":{
+    "id":"df597126-5ee2-47ae-a2ef-5ee9bb3cbba8"
+  },
+  "name":"Cris"
+}

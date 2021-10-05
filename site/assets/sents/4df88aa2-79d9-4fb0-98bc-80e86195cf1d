@@ -1,0 +1,12 @@
+{
+  "start":27045,
+  "end":27085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico you can find\n   anything.",
+  "id":"4df88aa2-79d9-4fb0-98bc-80e86195cf1d",
+  "params":{
+    "id":"0bfb70da-ce6b-44e9-99dd-b9ec7a1340a2"
+  },
+  "name":"Yair"
+}

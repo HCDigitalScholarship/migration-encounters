@@ -1,0 +1,12 @@
+{
+  "start":31122,
+  "end":31340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A new wave comes in, maybe 15 people, and the five people that\n   are left\u2014since you already took all of the capacity you're supposed to have\n   for agents and the rest of them don't have credentials\u2014don't do anything.",
+  "id":"d67e866d-ce98-44b9-9864-bac8f6be53a2",
+  "params":{
+    "id":"96bd47a4-3fda-4b43-b66e-338d4c0f4692"
+  },
+  "name":"Carlos"
+}

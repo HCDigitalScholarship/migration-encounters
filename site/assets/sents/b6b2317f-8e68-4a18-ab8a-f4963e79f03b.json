@@ -1,0 +1,13 @@
+{
+  "start":6677,
+  "end":6735,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then, from there, I went to\n   Hillview Middle School.",
+  "id":"b6b2317f-8e68-4a18-ab8a-f4963e79f03b",
+  "params":{
+    "id":"b6b2317f-8e68-4a18-ab8a-f4963e79f03b",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4346,
+  "end":4380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And did you like school back then?",
+  "id":"d02b0e1a-0d5e-40a8-bdd7-4236ff8e4908",
+  "params":{
+    "id":"a7904a1b-3c11-4673-9d58-f421b838c959"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12353,
+  "end":12370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   working man.",
+  "id":"004c5338-8a18-450f-af19-8e3a5120033c",
+  "params":{
+    "id":"004c5338-8a18-450f-af19-8e3a5120033c",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

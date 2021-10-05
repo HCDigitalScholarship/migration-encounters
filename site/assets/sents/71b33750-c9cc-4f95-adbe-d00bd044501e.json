@@ -1,0 +1,13 @@
+{
+  "start":11426,
+  "end":11539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want to go\n ahead and let us take you in and we'll put this big bag of stuff that I got\n with you, on you?",
+  "id":"71b33750-c9cc-4f95-adbe-d00bd044501e",
+  "params":{
+    "id":"71b33750-c9cc-4f95-adbe-d00bd044501e",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

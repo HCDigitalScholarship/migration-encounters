@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":19959,
+  "end":19964,
+  "text":"you live now?\n \n \n   Edgar: Now, I live in Tec\u00e1mac. In Mexico.\n \n \n   Anne: And how far away from here?\n \n \n   Edgar: From here, like an hour and a half.\n \n \n   Anne: And who do you live with?\n \n \n   Edgar: I live with my grandma.\n \n \n   Anne: Oh, still with your grandma.\n \n \n   Edgar: Yeah. Yeah.\n \n \n   Anne: She must be happy that you're happier.\n \n \n   Edgar: Yeah. Really happy. She got really happy",
+  "label":"PERSON",
+  "id":"66591e5c-21f6-4643-9140-3d09d2ee4d19",
+  "name":"Edgar"
+}

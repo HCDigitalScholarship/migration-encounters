@@ -1,0 +1,12 @@
+{
+  "start":32894,
+  "end":32943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"You want to stay here\n   with the kids?\"",
+  "id":"d4623dfd-f309-4e4c-8e44-6c413ce8d10f",
+  "params":{
+    "id":"d03a0de1-d2a3-4c96-9031-89c0af6b612c"
+  },
+  "name":"Daniel"
+}

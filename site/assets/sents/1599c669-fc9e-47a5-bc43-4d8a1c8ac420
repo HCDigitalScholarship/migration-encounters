@@ -1,0 +1,12 @@
+{
+  "start":795,
+  "end":811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many grades?",
+  "id":"1599c669-fc9e-47a5-bc43-4d8a1c8ac420",
+  "params":{
+    "id":"cd8fdbd0-0bf8-4f51-a976-c236b9724c32"
+  },
+  "name":"Miguel A"
+}

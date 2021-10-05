@@ -1,0 +1,12 @@
+{
+  "start":6198,
+  "end":6209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It depends.",
+  "id":"2e08af66-06e6-457f-acd3-9e2bb6ff70a2",
+  "params":{
+    "id":"e0431f0b-6f4f-4efe-984a-95134df8eb91"
+  },
+  "name":"Ivan"
+}

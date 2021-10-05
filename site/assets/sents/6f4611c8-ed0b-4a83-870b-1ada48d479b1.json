@@ -1,0 +1,13 @@
+{
+  "start":65837,
+  "end":65855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Big, old,\n   huge.",
+  "id":"6f4611c8-ed0b-4a83-870b-1ada48d479b1",
+  "params":{
+    "id":"6f4611c8-ed0b-4a83-870b-1ada48d479b1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

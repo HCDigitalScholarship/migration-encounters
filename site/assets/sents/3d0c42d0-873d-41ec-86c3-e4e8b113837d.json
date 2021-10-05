@@ -1,0 +1,13 @@
+{
+  "start":18419,
+  "end":18470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You spent most of your childhood there [in the US].",
+  "id":"3d0c42d0-873d-41ec-86c3-e4e8b113837d",
+  "params":{
+    "id":"3d0c42d0-873d-41ec-86c3-e4e8b113837d",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

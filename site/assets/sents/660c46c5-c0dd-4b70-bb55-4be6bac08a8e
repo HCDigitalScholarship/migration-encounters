@@ -1,0 +1,12 @@
+{
+  "start":32802,
+  "end":32830,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's more of a Mexico thing.",
+  "id":"660c46c5-c0dd-4b70-bb55-4be6bac08a8e",
+  "params":{
+    "id":"cfdcc769-5ece-4b02-bde4-c0c55bb1ea13"
+  },
+  "name":"Juan B"
+}

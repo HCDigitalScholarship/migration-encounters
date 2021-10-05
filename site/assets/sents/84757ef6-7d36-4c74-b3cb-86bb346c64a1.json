@@ -1,0 +1,13 @@
+{
+  "start":46110,
+  "end":46158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just haven't talked about this in a long time.",
+  "id":"84757ef6-7d36-4c74-b3cb-86bb346c64a1",
+  "params":{
+    "id":"84757ef6-7d36-4c74-b3cb-86bb346c64a1",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

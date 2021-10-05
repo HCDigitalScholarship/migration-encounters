@@ -1,0 +1,13 @@
+{
+  "start":46070,
+  "end":46079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hi, Dad.",
+  "id":"1cc7c176-33c7-4d1c-889c-f79bacf2e941",
+  "params":{
+    "id":"1cc7c176-33c7-4d1c-889c-f79bacf2e941",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

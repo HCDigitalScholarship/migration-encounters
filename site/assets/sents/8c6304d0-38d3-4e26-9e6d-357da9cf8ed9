@@ -1,0 +1,12 @@
+{
+  "start":5804,
+  "end":5825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's another story.",
+  "id":"8c6304d0-38d3-4e26-9e6d-357da9cf8ed9",
+  "params":{
+    "id":"47e2c8d5-7e77-4ebc-85d8-3dd9ac0cb829"
+  },
+  "name":"Rodrigo"
+}

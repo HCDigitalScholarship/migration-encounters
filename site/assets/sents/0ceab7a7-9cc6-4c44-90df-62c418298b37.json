@@ -1,0 +1,13 @@
+{
+  "start":20503,
+  "end":20508,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ilse:",
+  "id":"0ceab7a7-9cc6-4c44-90df-62c418298b37",
+  "params":{
+    "id":"0ceab7a7-9cc6-4c44-90df-62c418298b37",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

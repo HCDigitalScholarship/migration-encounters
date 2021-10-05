@@ -1,0 +1,13 @@
+{
+  "start":40824,
+  "end":40845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to lie.",
+  "id":"50d96182-b3f5-4e45-bbd2-4a633070a9b4",
+  "params":{
+    "id":"50d96182-b3f5-4e45-bbd2-4a633070a9b4",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

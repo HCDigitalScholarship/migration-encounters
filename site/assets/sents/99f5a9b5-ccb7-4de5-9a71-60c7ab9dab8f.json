@@ -1,0 +1,13 @@
+{
+  "start":7195,
+  "end":7212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Yeah, cool.",
+  "id":"99f5a9b5-ccb7-4de5-9a71-60c7ab9dab8f",
+  "params":{
+    "id":"99f5a9b5-ccb7-4de5-9a71-60c7ab9dab8f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

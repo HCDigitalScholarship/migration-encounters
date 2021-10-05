@@ -1,0 +1,13 @@
+{
+  "start":35370,
+  "end":35403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How about the Mexican government?",
+  "id":"83ff28fc-868b-47c0-a65f-d21ef5fe6851",
+  "params":{
+    "id":"83ff28fc-868b-47c0-a65f-d21ef5fe6851",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

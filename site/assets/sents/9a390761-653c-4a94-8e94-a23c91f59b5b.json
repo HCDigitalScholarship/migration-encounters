@@ -1,0 +1,13 @@
+{
+  "start":52020,
+  "end":52087,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still feel like I'm going to change society in a\n   positive way.",
+  "id":"9a390761-653c-4a94-8e94-a23c91f59b5b",
+  "params":{
+    "id":"9a390761-653c-4a94-8e94-a23c91f59b5b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

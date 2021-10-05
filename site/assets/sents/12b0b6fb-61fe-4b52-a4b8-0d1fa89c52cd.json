@@ -1,0 +1,13 @@
+{
+  "start":15000,
+  "end":15035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long did\n   ICE detain you for?",
+  "id":"12b0b6fb-61fe-4b52-a4b8-0d1fa89c52cd",
+  "params":{
+    "id":"12b0b6fb-61fe-4b52-a4b8-0d1fa89c52cd",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

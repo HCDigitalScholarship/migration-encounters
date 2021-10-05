@@ -1,0 +1,13 @@
+{
+  "start":6827,
+  "end":6868,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you look me up, I have all our photos.",
+  "id":"7c254ca7-e986-4035-a18f-b7744ca2f3f6",
+  "params":{
+    "id":"7c254ca7-e986-4035-a18f-b7744ca2f3f6",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

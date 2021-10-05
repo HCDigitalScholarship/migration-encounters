@@ -1,0 +1,12 @@
+{
+  "start":1025,
+  "end":1046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like,\n   \"Okay.",
+  "id":"93c3914a-3754-4ba6-8a7b-08cae14f0bf8",
+  "params":{
+    "id":"99e69d95-cf9c-4d24-91eb-de16583f1121"
+  },
+  "name":"Yair"
+}

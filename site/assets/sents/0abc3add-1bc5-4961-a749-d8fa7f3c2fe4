@@ -1,0 +1,12 @@
+{
+  "start":17505,
+  "end":17625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something\n   that I don't have when I was here in Mexico, but when I went to San\n   Antonio, what I found it was just...",
+  "id":"0abc3add-1bc5-4961-a749-d8fa7f3c2fe4",
+  "params":{
+    "id":"c724985a-4a51-43a6-939a-15d1e9b6ba4a"
+  },
+  "name":"Many"
+}

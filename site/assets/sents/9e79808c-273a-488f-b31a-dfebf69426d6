@@ -1,0 +1,12 @@
+{
+  "start":10224,
+  "end":10235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Why?",
+  "id":"9e79808c-273a-488f-b31a-dfebf69426d6",
+  "params":{
+    "id":"33accff9-8d21-409e-b8c5-bca24e6b5246"
+  },
+  "name":"Diana"
+}

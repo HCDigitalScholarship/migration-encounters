@@ -1,0 +1,13 @@
+{
+  "start":43080,
+  "end":43104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   extremely driven.",
+  "id":"738b5ab1-b064-408f-9082-9abb87b6651f",
+  "params":{
+    "id":"738b5ab1-b064-408f-9082-9abb87b6651f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

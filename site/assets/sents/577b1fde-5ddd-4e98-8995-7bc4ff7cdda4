@@ -1,0 +1,12 @@
+{
+  "start":27368,
+  "end":27436,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My lawyer kept telling me to be quiet, and I told\n   my lawyer, \"No.",
+  "id":"577b1fde-5ddd-4e98-8995-7bc4ff7cdda4",
+  "params":{
+    "id":"2b92d653-2c1b-4b95-a944-a60de845c1b4"
+  },
+  "name":"Kevin"
+}

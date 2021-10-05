@@ -1,0 +1,13 @@
+{
+  "start":2800,
+  "end":2916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I listened to a lot of music with a Spanish-English dictionary and\n   me sitting in my living room with that, a lot.",
+  "id":"bc7ec1a6-e006-4849-ada8-a6b0b9a79995",
+  "params":{
+    "id":"bc7ec1a6-e006-4849-ada8-a6b0b9a79995",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

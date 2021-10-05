@@ -1,0 +1,13 @@
+{
+  "start":12,
+  "end":50,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did your family migrate to the US?",
+  "id":"22680ca6-1849-453c-9aad-ab89a19be09f",
+  "params":{
+    "id":"22680ca6-1849-453c-9aad-ab89a19be09f",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

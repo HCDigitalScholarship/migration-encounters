@@ -1,0 +1,13 @@
+{
+  "start":10253,
+  "end":10309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People are going out, and people are shooting\n   people.",
+  "id":"78d6eb58-03ab-44fc-8b26-0585ab8a1993",
+  "params":{
+    "id":"78d6eb58-03ab-44fc-8b26-0585ab8a1993",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

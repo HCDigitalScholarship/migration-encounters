@@ -1,0 +1,13 @@
+{
+  "start":36141,
+  "end":36177,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then you just end up doing that.",
+  "id":"96e56c49-a834-4094-b434-735c52e9c486",
+  "params":{
+    "id":"96e56c49-a834-4094-b434-735c52e9c486",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

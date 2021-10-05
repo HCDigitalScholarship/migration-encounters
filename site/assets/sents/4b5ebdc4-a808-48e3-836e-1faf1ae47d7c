@@ -1,0 +1,12 @@
+{
+  "start":30230,
+  "end":30252,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or, \"Do this instead.\"",
+  "id":"4b5ebdc4-a808-48e3-836e-1faf1ae47d7c",
+  "params":{
+    "id":"d80547b5-2ca9-4e15-86b1-a0359d22a317"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21086,
+  "end":21100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened?",
+  "id":"0d3342fc-492e-4c16-9b6a-d5e4ee6f380a",
+  "params":{
+    "id":"ca479004-87b0-44b0-a0b8-28283970ef44"
+  },
+  "name":"Ivan B"
+}

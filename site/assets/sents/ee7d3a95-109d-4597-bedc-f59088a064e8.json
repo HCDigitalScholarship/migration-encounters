@@ -1,0 +1,13 @@
+{
+  "start":40233,
+  "end":40263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I gave\n   that to the teacher.",
+  "id":"ee7d3a95-109d-4597-bedc-f59088a064e8",
+  "params":{
+    "id":"ee7d3a95-109d-4597-bedc-f59088a064e8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

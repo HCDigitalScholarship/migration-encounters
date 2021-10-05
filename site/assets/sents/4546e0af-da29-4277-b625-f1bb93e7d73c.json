@@ -1,0 +1,13 @@
+{
+  "start":28960,
+  "end":29003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Out of nowhere my uncle knocks on the door.",
+  "id":"4546e0af-da29-4277-b625-f1bb93e7d73c",
+  "params":{
+    "id":"4546e0af-da29-4277-b625-f1bb93e7d73c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

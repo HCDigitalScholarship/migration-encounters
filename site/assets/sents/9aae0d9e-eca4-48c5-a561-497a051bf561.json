@@ -1,0 +1,13 @@
+{
+  "start":9105,
+  "end":9153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It went in one ear and it came out the\n   other.",
+  "id":"9aae0d9e-eca4-48c5-a561-497a051bf561",
+  "params":{
+    "id":"9aae0d9e-eca4-48c5-a561-497a051bf561",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

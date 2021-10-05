@@ -1,0 +1,13 @@
+{
+  "start":29314,
+  "end":29356,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But now I tell her,\n   \"How good are you?\"",
+  "id":"5b01845a-76e2-4f2c-98d6-a352ef48fd8f",
+  "params":{
+    "id":"5b01845a-76e2-4f2c-98d6-a352ef48fd8f",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

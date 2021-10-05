@@ -1,0 +1,12 @@
+{
+  "start":39553,
+  "end":39652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mi hijo s\u00f3lo llor\u00f3 y me dijo, \u201cMami, este es un sacrificio que hicimos en\n     familia [Llorando]\u201d.",
+  "id":"8b672ad0-e41c-43f8-85b3-5007454d0231",
+  "params":{
+    "id":"1fd6c8cb-1ee3-4eb7-be2f-4323cb0edafe"
+  },
+  "name":"Maria"
+}

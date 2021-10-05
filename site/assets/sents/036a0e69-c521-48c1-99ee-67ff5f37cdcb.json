@@ -1,0 +1,13 @@
+{
+  "start":12871,
+  "end":12899,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why don't you come with us?\"",
+  "id":"036a0e69-c521-48c1-99ee-67ff5f37cdcb",
+  "params":{
+    "id":"036a0e69-c521-48c1-99ee-67ff5f37cdcb",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

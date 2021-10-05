@@ -1,0 +1,13 @@
+{
+  "start":35582,
+  "end":35637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lady right here who has been living 50 years.",
+  "id":"abff6149-8d79-42fb-a839-cf9e501a2aae",
+  "params":{
+    "id":"abff6149-8d79-42fb-a839-cf9e501a2aae",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":0,
+  "end":195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Claudia: First things first, this is Claudia and I am interviewing Danielel 14\n   and way before we start, I just want to say thank you for coming out here\n   and talking with us and with me.",
+  "id":"fede766e-14c1-48e4-a88f-399c1b3ec875",
+  "params":{
+    "id":"fede766e-14c1-48e4-a88f-399c1b3ec875",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

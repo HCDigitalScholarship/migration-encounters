@@ -1,0 +1,12 @@
+{
+  "start":19650,
+  "end":19705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what she\n   thought, but I was very clear.",
+  "id":"271feb68-aced-417a-a76f-2be091aab0c4",
+  "params":{
+    "id":"75f73f12-b96f-42d8-b256-1f67b432b9f5"
+  },
+  "name":"Daniel"
+}

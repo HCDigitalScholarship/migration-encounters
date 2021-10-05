@@ -1,0 +1,12 @@
+{
+  "start":30239,
+  "end":30338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He has the nose, speaks\n like me, he has the characteristics but he's darker and he has brown eyes.",
+  "id":"5e0e0013-eb38-4e13-89c4-cb2f41d305b0",
+  "params":{
+    "id":"a0c65818-455a-49a1-874f-703da62905a7"
+  },
+  "name":"Billy"
+}

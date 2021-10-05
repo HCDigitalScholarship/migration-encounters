@@ -1,0 +1,12 @@
+{
+  "start":60933,
+  "end":60957,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you read the Bible?",
+  "id":"1ee65981-2b14-4e54-9322-be5a98df30ac",
+  "params":{
+    "id":"d6608622-e07d-4c90-98ec-18214dbfb4dc"
+  },
+  "name":"Daniel B"
+}

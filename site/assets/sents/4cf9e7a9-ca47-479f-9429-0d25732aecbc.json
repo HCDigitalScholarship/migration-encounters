@@ -1,0 +1,13 @@
+{
+  "start":69532,
+  "end":69574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"I don't really care about that.",
+  "id":"4cf9e7a9-ca47-479f-9429-0d25732aecbc",
+  "params":{
+    "id":"4cf9e7a9-ca47-479f-9429-0d25732aecbc",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

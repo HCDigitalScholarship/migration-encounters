@@ -1,0 +1,13 @@
+{
+  "start":5522,
+  "end":5557,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Miguel: Here or over there?",
+  "id":"e9905b8e-df8d-4bac-aaae-744e624f2397",
+  "params":{
+    "id":"e9905b8e-df8d-4bac-aaae-744e624f2397",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

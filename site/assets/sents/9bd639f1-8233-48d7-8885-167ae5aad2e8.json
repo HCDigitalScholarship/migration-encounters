@@ -1,0 +1,13 @@
+{
+  "start":1938,
+  "end":1953,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n You're young.",
+  "id":"9bd639f1-8233-48d7-8885-167ae5aad2e8",
+  "params":{
+    "id":"9bd639f1-8233-48d7-8885-167ae5aad2e8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

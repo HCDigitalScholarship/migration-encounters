@@ -1,0 +1,12 @@
+{
+  "start":30811,
+  "end":30824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We pay taxes.",
+  "id":"d9086055-5f8b-4c57-8b44-cf1e8163d433",
+  "params":{
+    "id":"c5d28db7-eeda-4717-b457-326e24b83b7d"
+  },
+  "name":"Joana"
+}

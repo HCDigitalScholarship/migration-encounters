@@ -1,0 +1,13 @@
+{
+  "start":2302,
+  "end":2330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was detained and deported.",
+  "id":"d5c4dd90-afa2-4f63-8a50-61d9bd89f268",
+  "params":{
+    "id":"d5c4dd90-afa2-4f63-8a50-61d9bd89f268",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

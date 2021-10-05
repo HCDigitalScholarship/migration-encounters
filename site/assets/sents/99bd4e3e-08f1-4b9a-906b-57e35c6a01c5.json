@@ -1,0 +1,13 @@
+{
+  "start":23379,
+  "end":23407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I just\n   yelled it out.",
+  "id":"99bd4e3e-08f1-4b9a-906b-57e35c6a01c5",
+  "params":{
+    "id":"99bd4e3e-08f1-4b9a-906b-57e35c6a01c5",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

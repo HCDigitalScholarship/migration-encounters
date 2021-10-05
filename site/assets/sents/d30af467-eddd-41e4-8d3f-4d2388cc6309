@@ -1,0 +1,12 @@
+{
+  "start":6722,
+  "end":6754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me a little bit about that.",
+  "id":"d30af467-eddd-41e4-8d3f-4d2388cc6309",
+  "params":{
+    "id":"d8f675e1-1368-44d0-ac07-d988ac6e657e"
+  },
+  "name":"Melani"
+}

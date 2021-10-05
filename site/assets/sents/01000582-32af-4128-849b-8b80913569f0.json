@@ -1,0 +1,13 @@
+{
+  "start":18276,
+  "end":18314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Weco: Because my mom was hard with me.",
+  "id":"01000582-32af-4128-849b-8b80913569f0",
+  "params":{
+    "id":"01000582-32af-4128-849b-8b80913569f0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

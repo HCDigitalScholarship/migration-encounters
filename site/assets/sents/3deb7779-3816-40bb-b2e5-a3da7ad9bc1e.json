@@ -1,0 +1,13 @@
+{
+  "start":21922,
+  "end":21940,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what happened?",
+  "id":"3deb7779-3816-40bb-b2e5-a3da7ad9bc1e",
+  "params":{
+    "id":"3deb7779-3816-40bb-b2e5-a3da7ad9bc1e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

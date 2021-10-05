@@ -1,0 +1,13 @@
+{
+  "start":21620,
+  "end":21642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He is an amazing boss.",
+  "id":"5fddf7dc-38e1-4e6a-8b81-7ae802b58e77",
+  "params":{
+    "id":"5fddf7dc-38e1-4e6a-8b81-7ae802b58e77",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

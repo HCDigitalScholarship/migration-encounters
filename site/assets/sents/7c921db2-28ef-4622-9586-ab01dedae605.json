@@ -1,0 +1,13 @@
+{
+  "start":18276,
+  "end":18321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   brother-in-law came to pick up the car.",
+  "id":"7c921db2-28ef-4622-9586-ab01dedae605",
+  "params":{
+    "id":"7c921db2-28ef-4622-9586-ab01dedae605",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

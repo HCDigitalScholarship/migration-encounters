@@ -1,0 +1,12 @@
+{
+  "start":32531,
+  "end":32577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, what you're doing right now is\n   amazing.",
+  "id":"c22bb447-97ad-40b9-bd92-7074e8b7e50f",
+  "params":{
+    "id":"897aabf7-94a7-41c6-9a10-c7660fdd5ec8"
+  },
+  "name":"Ilse"
+}

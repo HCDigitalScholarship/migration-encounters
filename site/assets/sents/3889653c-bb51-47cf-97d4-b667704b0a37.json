@@ -1,0 +1,13 @@
+{
+  "start":21385,
+  "end":21401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: Seventh.",
+  "id":"3889653c-bb51-47cf-97d4-b667704b0a37",
+  "params":{
+    "id":"3889653c-bb51-47cf-97d4-b667704b0a37",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

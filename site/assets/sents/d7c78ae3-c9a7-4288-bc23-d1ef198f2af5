@@ -1,0 +1,12 @@
+{
+  "start":29944,
+  "end":29997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's like an important thing that I didn't mention.",
+  "id":"d7c78ae3-c9a7-4288-bc23-d1ef198f2af5",
+  "params":{
+    "id":"dc521ae2-1605-40bb-aac5-c2027cea80bd"
+  },
+  "name":"Luis A"
+}

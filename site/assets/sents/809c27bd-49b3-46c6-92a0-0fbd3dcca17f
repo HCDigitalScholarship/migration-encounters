@@ -1,0 +1,12 @@
+{
+  "start":2365,
+  "end":2419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You feel like you can ricochet bullets off your chest.",
+  "id":"809c27bd-49b3-46c6-92a0-0fbd3dcca17f",
+  "params":{
+    "id":"b9983c35-7c04-465e-8f46-cb0be5ac16ac"
+  },
+  "name":"Donovan"
+}

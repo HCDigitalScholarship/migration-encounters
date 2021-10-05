@@ -1,0 +1,13 @@
+{
+  "start":18092,
+  "end":18107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How was school?",
+  "id":"6092c4cc-d994-42d7-b40a-34b37904243d",
+  "params":{
+    "id":"6092c4cc-d994-42d7-b40a-34b37904243d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

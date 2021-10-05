@@ -1,0 +1,13 @@
+{
+  "start":1128,
+  "end":1153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I'm afraid of mice.",
+  "id":"e03daa94-80f7-4913-ba81-31e47d83a5e3",
+  "params":{
+    "id":"e03daa94-80f7-4913-ba81-31e47d83a5e3",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

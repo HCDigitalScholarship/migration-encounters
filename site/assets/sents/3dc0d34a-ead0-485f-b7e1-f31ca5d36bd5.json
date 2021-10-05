@@ -1,0 +1,13 @@
+{
+  "start":19281,
+  "end":19369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think 10 years ago, if you would've\n asked me, I would have said American, definitely.",
+  "id":"3dc0d34a-ead0-485f-b7e1-f31ca5d36bd5",
+  "params":{
+    "id":"3dc0d34a-ead0-485f-b7e1-f31ca5d36bd5",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32889,
+  "end":33008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was really high because my parents always told me, \"Since\n   you're illegal, you will never have opportunities here.",
+  "id":"2e87b66a-76ed-478e-8d1e-d0fbd56142a6",
+  "params":{
+    "id":"2e87b66a-76ed-478e-8d1e-d0fbd56142a6",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

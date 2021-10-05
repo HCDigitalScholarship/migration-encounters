@@ -1,0 +1,13 @@
+{
+  "start":36635,
+  "end":36658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He called my mom mommy.",
+  "id":"586326eb-05b4-4c75-9560-e15ed1af38ec",
+  "params":{
+    "id":"586326eb-05b4-4c75-9560-e15ed1af38ec",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

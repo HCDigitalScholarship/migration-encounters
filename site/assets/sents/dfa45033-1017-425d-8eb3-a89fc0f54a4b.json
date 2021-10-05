@@ -1,0 +1,13 @@
+{
+  "start":3980,
+  "end":3997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had the permit.",
+  "id":"dfa45033-1017-425d-8eb3-a89fc0f54a4b",
+  "params":{
+    "id":"dfa45033-1017-425d-8eb3-a89fc0f54a4b",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

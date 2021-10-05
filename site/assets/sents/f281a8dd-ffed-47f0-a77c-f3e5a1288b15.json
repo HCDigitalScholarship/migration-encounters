@@ -1,0 +1,13 @@
+{
+  "start":38520,
+  "end":38586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were happy because they didn't know what I was going through.",
+  "id":"f281a8dd-ffed-47f0-a77c-f3e5a1288b15",
+  "params":{
+    "id":"f281a8dd-ffed-47f0-a77c-f3e5a1288b15",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10536,
+  "end":10572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my high school was mostly\n   Latino.",
+  "id":"5d9c8f16-2286-448d-816c-2dc5cf55f268",
+  "params":{
+    "id":"5d9c8f16-2286-448d-816c-2dc5cf55f268",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

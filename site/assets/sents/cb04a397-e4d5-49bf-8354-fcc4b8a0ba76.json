@@ -1,0 +1,13 @@
+{
+  "start":4127,
+  "end":4178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   already has his permit or something whatever.",
+  "id":"cb04a397-e4d5-49bf-8354-fcc4b8a0ba76",
+  "params":{
+    "id":"cb04a397-e4d5-49bf-8354-fcc4b8a0ba76",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

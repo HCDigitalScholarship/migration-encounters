@@ -1,0 +1,12 @@
+{
+  "start":28918,
+  "end":28964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I bought shoes,\n   shirts, and all that stuff.",
+  "id":"f0d51919-7859-45c9-accf-a0b7f0b27e53",
+  "params":{
+    "id":"713d2c82-d119-4a12-9237-36b6be978f91"
+  },
+  "name":"Carlos"
+}

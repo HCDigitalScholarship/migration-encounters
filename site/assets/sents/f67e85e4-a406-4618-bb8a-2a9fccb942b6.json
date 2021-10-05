@@ -1,0 +1,13 @@
+{
+  "start":9493,
+  "end":9533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We thought\n   they were going to hit us.",
+  "id":"f67e85e4-a406-4618-bb8a-2a9fccb942b6",
+  "params":{
+    "id":"f67e85e4-a406-4618-bb8a-2a9fccb942b6",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

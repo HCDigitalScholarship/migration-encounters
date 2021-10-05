@@ -1,0 +1,13 @@
+{
+  "start":18650,
+  "end":18683,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, that's a hard, hard question.",
+  "id":"2be7f769-e900-442a-aa3b-d5979f5b46c2",
+  "params":{
+    "id":"2be7f769-e900-442a-aa3b-d5979f5b46c2",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

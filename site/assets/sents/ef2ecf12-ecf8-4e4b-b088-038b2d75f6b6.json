@@ -1,0 +1,13 @@
+{
+  "start":512,
+  "end":526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Melani: Never.",
+  "id":"ef2ecf12-ecf8-4e4b-b088-038b2d75f6b6",
+  "params":{
+    "id":"ef2ecf12-ecf8-4e4b-b088-038b2d75f6b6",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

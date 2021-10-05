@@ -1,0 +1,12 @@
+{
+  "start":28876,
+  "end":28903,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"They have big old rifles?\"",
+  "id":"1e6c292e-b355-4b15-867b-3bde24e6d00d",
+  "params":{
+    "id":"ca94ec82-44a7-47aa-bcea-90933d382dd5"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":34767,
+  "end":34800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I\n   know that, I'm not dumb.",
+  "id":"ff7083f8-b34b-4f24-94b4-2276097c9585",
+  "params":{
+    "id":"c1e1bdde-b186-44dd-935e-bc20e4cd802e"
+  },
+  "name":"Hugo"
+}

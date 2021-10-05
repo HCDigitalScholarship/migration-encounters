@@ -1,0 +1,12 @@
+{
+  "start":21230,
+  "end":21278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He actually bought me my first pair of sneakers.",
+  "id":"1fd1cb6f-df8c-4cb5-8ac1-1397c79c6585",
+  "params":{
+    "id":"574838ac-d544-4e6a-9060-5a056033ef58"
+  },
+  "name":"Donovan"
+}

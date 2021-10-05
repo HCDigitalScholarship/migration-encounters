@@ -1,0 +1,12 @@
+{
+  "start":26629,
+  "end":26669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I am American but I'm also very Mexican.",
+  "id":"fec54bb9-1ce0-4716-b222-efc092ee384a",
+  "params":{
+    "id":"41cf6940-6caa-47b1-a906-930143998727"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18501,
+  "end":18543,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From Monterey I went to here, Mexico City.",
+  "id":"99abefb7-28d3-4478-bf5c-a09edc2fb1bd",
+  "params":{
+    "id":"99abefb7-28d3-4478-bf5c-a09edc2fb1bd",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

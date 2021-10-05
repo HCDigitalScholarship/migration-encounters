@@ -1,0 +1,12 @@
+{
+  "start":33872,
+  "end":33882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm alive.",
+  "id":"8e2b5fa7-dfdc-4661-bbe8-b48a986a64a4",
+  "params":{
+    "id":"21d7982b-3119-4d62-bd87-c2b9b2c889be"
+  },
+  "name":"Kevin"
+}

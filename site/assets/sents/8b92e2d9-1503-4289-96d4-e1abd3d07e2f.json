@@ -1,0 +1,13 @@
+{
+  "start":2631,
+  "end":2669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In what cities did you live in the US?",
+  "id":"8b92e2d9-1503-4289-96d4-e1abd3d07e2f",
+  "params":{
+    "id":"8b92e2d9-1503-4289-96d4-e1abd3d07e2f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

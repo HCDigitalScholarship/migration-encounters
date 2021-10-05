@@ -1,0 +1,12 @@
+{
+  "start":46651,
+  "end":46682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"October, November,\n   December.",
+  "id":"40e7f990-8431-48d7-bead-e71e2281d4a7",
+  "params":{
+    "id":"db43edc3-9a40-4d3b-ab06-47894cae2212"
+  },
+  "name":"Mike"
+}

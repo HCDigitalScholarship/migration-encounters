@@ -1,0 +1,13 @@
+{
+  "start":36656,
+  "end":36700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     Beto:\n \n \n     No, it was regular.",
+  "id":"3b819cfd-4c3a-48e3-8195-1e26b99bf7f5",
+  "params":{
+    "id":"3b819cfd-4c3a-48e3-8195-1e26b99bf7f5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

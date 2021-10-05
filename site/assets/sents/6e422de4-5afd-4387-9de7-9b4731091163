@@ -1,0 +1,12 @@
+{
+  "start":9443,
+  "end":9513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just looking around like, \u201cWhere's the car?\n   Where's the car?\u201d",
+  "id":"6e422de4-5afd-4387-9de7-9b4731091163",
+  "params":{
+    "id":"fde6a881-7a9b-4e3b-83b1-a075982f16e9"
+  },
+  "name":"Noe"
+}

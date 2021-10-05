@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1099,
+  "end":1104,
+  "text":" \n   Ivan: I went until twelfth grade.\n \n \n   Anita: You finished high school?\n \n \n   Ivan: No.\n \n \n   Anita: Did you work in the U.S.?\n \n \n   Ivan: Yes, I did. I had a lot of jobs in the U.S.\n \n \n   Anita: What kind of jobs?\n \n \n   Ivan: Restaurant jobs. My last job was painting. I used to be a painter. I\n   used to paint houses, interior and exterior houses. I actually went and\n   painted the Braves ",
+  "label":"PERSON",
+  "id":"c68ef456-b7d1-496a-9dcc-9b246f52204b",
+  "name":"Ivan"
+}

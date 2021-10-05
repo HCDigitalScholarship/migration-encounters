@@ -1,0 +1,13 @@
+{
+  "start":35195,
+  "end":35229,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\u2019ve been very fortunate because\n ",
+  "id":"b5541a10-11cb-4e58-8737-2c356b1bf084",
+  "params":{
+    "id":"b5541a10-11cb-4e58-8737-2c356b1bf084",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15970,
+  "end":15995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I crossed the river then.",
+  "id":"36baa05c-e142-4a4a-bc47-5884c3277f87",
+  "params":{
+    "id":"36baa05c-e142-4a4a-bc47-5884c3277f87",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

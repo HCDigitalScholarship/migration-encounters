@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":4345,
+  "end":4395,
+  "label":"Leaving the US, Detention, Reasons, Drug possession",
+  "id":"ee57b2b8-9854-499c-80c4-f482865e4f56",
+  "params":{
+    "id":"16eb463a-205c-4e5b-b706-b4e39a9c236d"
+  },
+  "name":"Mike",
+  "text":"This is the reason I\n   got deported\u2014over a blunt."
+}

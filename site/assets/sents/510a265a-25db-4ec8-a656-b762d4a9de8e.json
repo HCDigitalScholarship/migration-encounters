@@ -1,0 +1,13 @@
+{
+  "start":7777,
+  "end":7817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had you once, and you fell down,\n     ",
+  "id":"510a265a-25db-4ec8-a656-b762d4a9de8e",
+  "params":{
+    "id":"510a265a-25db-4ec8-a656-b762d4a9de8e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

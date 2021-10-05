@@ -1,0 +1,13 @@
+{
+  "start":25489,
+  "end":25506,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure why.",
+  "id":"f58aa457-16d2-4ab5-8b95-958fdf72f51c",
+  "params":{
+    "id":"f58aa457-16d2-4ab5-8b95-958fdf72f51c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

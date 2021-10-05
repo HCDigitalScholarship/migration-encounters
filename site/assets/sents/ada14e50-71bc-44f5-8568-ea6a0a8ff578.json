@@ -1,0 +1,13 @@
+{
+  "start":31110,
+  "end":31234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And since I didn't want to take it on my family, I would just\n   always, whoever wanted it, I'd be the first one to step in.",
+  "id":"ada14e50-71bc-44f5-8568-ea6a0a8ff578",
+  "params":{
+    "id":"ada14e50-71bc-44f5-8568-ea6a0a8ff578",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

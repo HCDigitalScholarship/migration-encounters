@@ -1,0 +1,13 @@
+{
+  "start":1287,
+  "end":1360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But my father also had a tape recorder and he\n had some English cassettes",
+  "id":"7fd46c0d-9cf4-4a8b-a2ee-b01b4fa31d97",
+  "params":{
+    "id":"7fd46c0d-9cf4-4a8b-a2ee-b01b4fa31d97",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

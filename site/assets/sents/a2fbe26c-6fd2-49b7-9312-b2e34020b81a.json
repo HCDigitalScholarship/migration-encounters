@@ -1,0 +1,13 @@
+{
+  "start":1059,
+  "end":1107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in\n   Mexico, we didn't have a stable life.",
+  "id":"a2fbe26c-6fd2-49b7-9312-b2e34020b81a",
+  "params":{
+    "id":"a2fbe26c-6fd2-49b7-9312-b2e34020b81a",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25791,
+  "end":25805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The Outsiders.",
+  "id":"e2304eb6-339e-4d5a-99b4-e730a2447b34",
+  "params":{
+    "id":"e2304eb6-339e-4d5a-99b4-e730a2447b34",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

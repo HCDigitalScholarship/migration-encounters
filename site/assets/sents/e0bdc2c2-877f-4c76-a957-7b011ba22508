@@ -1,0 +1,12 @@
+{
+  "start":243,
+  "end":284,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you migrate to the United States?",
+  "id":"e0bdc2c2-877f-4c76-a957-7b011ba22508",
+  "params":{
+    "id":"f8d7c3c6-2f05-4e08-b368-a84cba0e72fc"
+  },
+  "name":"Ivan"
+}

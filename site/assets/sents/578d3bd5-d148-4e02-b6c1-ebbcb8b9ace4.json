@@ -1,0 +1,13 @@
+{
+  "start":34092,
+  "end":34145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I started working, he used to get really\n   mad.",
+  "id":"578d3bd5-d148-4e02-b6c1-ebbcb8b9ace4",
+  "params":{
+    "id":"578d3bd5-d148-4e02-b6c1-ebbcb8b9ace4",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

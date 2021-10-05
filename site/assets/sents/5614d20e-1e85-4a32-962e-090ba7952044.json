@@ -1,0 +1,13 @@
+{
+  "start":10299,
+  "end":10352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I found the\n   movie theaters and then they \u2013 is",
+  "id":"5614d20e-1e85-4a32-962e-090ba7952044",
+  "params":{
+    "id":"5614d20e-1e85-4a32-962e-090ba7952044",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

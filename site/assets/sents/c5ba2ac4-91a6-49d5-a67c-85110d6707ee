@@ -1,0 +1,12 @@
+{
+  "start":3683,
+  "end":3791,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never, well, in the States I never had\n     a credit card due to the fact that I was an illegal immigrant.",
+  "id":"c5ba2ac4-91a6-49d5-a67c-85110d6707ee",
+  "params":{
+    "id":"21e45466-2a84-4db8-8db2-15f60b3d514b"
+  },
+  "name":"Beto"
+}

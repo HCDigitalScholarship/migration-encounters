@@ -1,0 +1,13 @@
+{
+  "start":38102,
+  "end":38116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it family?",
+  "id":"4d2d6ec9-e7c7-4049-804f-baab7db99293",
+  "params":{
+    "id":"4d2d6ec9-e7c7-4049-804f-baab7db99293",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

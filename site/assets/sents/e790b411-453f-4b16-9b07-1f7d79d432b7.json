@@ -1,0 +1,13 @@
+{
+  "start":12998,
+  "end":13070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You get tired of waking up and not having nobody who cares about\n   you.",
+  "id":"e790b411-453f-4b16-9b07-1f7d79d432b7",
+  "params":{
+    "id":"e790b411-453f-4b16-9b07-1f7d79d432b7",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

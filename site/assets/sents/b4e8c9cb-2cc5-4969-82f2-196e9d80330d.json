@@ -1,0 +1,13 @@
+{
+  "start":24444,
+  "end":24475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I only know like 10, 15 people.",
+  "id":"b4e8c9cb-2cc5-4969-82f2-196e9d80330d",
+  "params":{
+    "id":"b4e8c9cb-2cc5-4969-82f2-196e9d80330d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

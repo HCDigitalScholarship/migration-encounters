@@ -1,0 +1,13 @@
+{
+  "start":24525,
+  "end":24553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But my father was\n   like...",
+  "id":"bcddd3e0-5714-47d4-b618-1472506807e3",
+  "params":{
+    "id":"bcddd3e0-5714-47d4-b618-1472506807e3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

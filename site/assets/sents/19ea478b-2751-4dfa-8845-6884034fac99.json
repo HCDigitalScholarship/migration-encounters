@@ -1,0 +1,13 @@
+{
+  "start":17001,
+  "end":17035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had a smile on their\n   face.",
+  "id":"19ea478b-2751-4dfa-8845-6884034fac99",
+  "params":{
+    "id":"19ea478b-2751-4dfa-8845-6884034fac99",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

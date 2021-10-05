@@ -1,0 +1,13 @@
+{
+  "start":17400,
+  "end":17425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened after that?",
+  "id":"56eb81dd-b2dc-40ab-8249-97048c900e7e",
+  "params":{
+    "id":"56eb81dd-b2dc-40ab-8249-97048c900e7e",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

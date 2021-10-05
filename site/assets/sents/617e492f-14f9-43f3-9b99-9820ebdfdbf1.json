@@ -1,0 +1,13 @@
+{
+  "start":35196,
+  "end":35219,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I am an Aztec emperor.\u201d",
+  "id":"617e492f-14f9-43f3-9b99-9820ebdfdbf1",
+  "params":{
+    "id":"617e492f-14f9-43f3-9b99-9820ebdfdbf1",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

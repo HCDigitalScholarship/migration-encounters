@@ -1,0 +1,13 @@
+{
+  "start":30789,
+  "end":30878,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I even learned the\n     American anthem, but all of a sudden everything started changing.",
+  "id":"0e4e7d13-63ad-4177-baf6-9221d939a46b",
+  "params":{
+    "id":"0e4e7d13-63ad-4177-baf6-9221d939a46b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

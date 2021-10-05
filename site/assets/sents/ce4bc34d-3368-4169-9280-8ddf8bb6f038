@@ -1,0 +1,12 @@
+{
+  "start":42724,
+  "end":42765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to say I feel like American.",
+  "id":"ce4bc34d-3368-4169-9280-8ddf8bb6f038",
+  "params":{
+    "id":"b76437b5-5459-4c17-964e-d98af7e5f201"
+  },
+  "name":"Rodolfo"
+}

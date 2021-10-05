@@ -1,0 +1,12 @@
+{
+  "start":3852,
+  "end":3885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother was\n   born in Mexico.",
+  "id":"3515f372-9584-435a-87f3-2ae52747dfa7",
+  "params":{
+    "id":"8938f094-49bc-4be7-b799-8f8912f3953a"
+  },
+  "name":"Jesus A"
+}

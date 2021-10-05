@@ -1,0 +1,12 @@
+{
+  "start":13008,
+  "end":13040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you come back to Mexico?",
+  "id":"9b7b64f7-54b3-47a1-a00a-cb32b86d04fb",
+  "params":{
+    "id":"5acd02b7-1459-48bd-8a23-fc462e0d50ea"
+  },
+  "name":"Joana"
+}

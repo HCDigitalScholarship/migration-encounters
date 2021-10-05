@@ -1,0 +1,12 @@
+{
+  "start":45557,
+  "end":45591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want to speak more on that?",
+  "id":"4f9577e4-d98e-4fc6-b1a9-5ff91d388dbf",
+  "params":{
+    "id":"bc7e701d-5b13-48f0-8f8b-fc6a7c679178"
+  },
+  "name":"Daniel B"
+}

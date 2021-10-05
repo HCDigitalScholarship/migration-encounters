@@ -1,0 +1,12 @@
+{
+  "start":5560,
+  "end":5598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My son never want\n   to speak Spanish.",
+  "id":"65046fb1-e0d0-4683-a2a7-d898c8d7ac04",
+  "params":{
+    "id":"68562bf8-0370-48b0-bffa-7936be51b369"
+  },
+  "name":"Rocio"
+}

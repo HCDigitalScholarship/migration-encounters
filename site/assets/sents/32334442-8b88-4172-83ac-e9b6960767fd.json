@@ -1,0 +1,13 @@
+{
+  "start":30031,
+  "end":30115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You talked about your association with kids that weren't the best in\n   high school.",
+  "id":"32334442-8b88-4172-83ac-e9b6960767fd",
+  "params":{
+    "id":"32334442-8b88-4172-83ac-e9b6960767fd",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

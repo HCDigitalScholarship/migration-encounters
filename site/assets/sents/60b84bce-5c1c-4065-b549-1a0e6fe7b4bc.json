@@ -1,0 +1,13 @@
+{
+  "start":14939,
+  "end":15038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think you can, but you\n   weren't old enough to know what you couldn't do as an undocumented kid.",
+  "id":"60b84bce-5c1c-4065-b549-1a0e6fe7b4bc",
+  "params":{
+    "id":"60b84bce-5c1c-4065-b549-1a0e6fe7b4bc",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

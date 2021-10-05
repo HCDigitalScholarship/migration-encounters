@@ -1,0 +1,13 @@
+{
+  "start":28307,
+  "end":28360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was late at night, I was the only car on the road.",
+  "id":"1c0e03fe-107e-4f4d-be79-674e75c2140a",
+  "params":{
+    "id":"1c0e03fe-107e-4f4d-be79-674e75c2140a",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

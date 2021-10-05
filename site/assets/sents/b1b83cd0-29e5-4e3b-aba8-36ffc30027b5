@@ -1,0 +1,12 @@
+{
+  "start":23416,
+  "end":23449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: What other?\n \n \n   Josue:",
+  "id":"b1b83cd0-29e5-4e3b-aba8-36ffc30027b5",
+  "params":{
+    "id":"d6dba1d5-6c20-45c8-b710-b9e574121206"
+  },
+  "name":"Josue"
+}

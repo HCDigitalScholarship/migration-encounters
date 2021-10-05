@@ -1,0 +1,12 @@
+{
+  "start":29092,
+  "end":29142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you currently follow what's going on in the US?",
+  "id":"29780537-e1d8-4cbf-a612-770026ca31d7",
+  "params":{
+    "id":"4acf0b93-139e-40c2-b0e5-6ba00b5e4eac"
+  },
+  "name":"Melani"
+}

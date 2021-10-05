@@ -1,0 +1,12 @@
+{
+  "start":31087,
+  "end":31125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I'm doing: facing reality.",
+  "id":"8c998d85-dc19-463e-ab00-ac117405cb4c",
+  "params":{
+    "id":"fd41403e-25b2-4d8f-b48b-486bf646b38b"
+  },
+  "name":"Kevin"
+}

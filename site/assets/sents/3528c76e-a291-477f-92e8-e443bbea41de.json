@@ -1,0 +1,13 @@
+{
+  "start":345,
+  "end":493,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that's why I take the bus and I didn't\n   think about anything, I just take a little bit of money and went to the\n   train station and I just go.",
+  "id":"3528c76e-a291-477f-92e8-e443bbea41de",
+  "params":{
+    "id":"3528c76e-a291-477f-92e8-e443bbea41de",
+    "class":"anno"
+  },
+  "name":"Many"
+}

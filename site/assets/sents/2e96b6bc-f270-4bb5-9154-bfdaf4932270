@@ -1,0 +1,12 @@
+{
+  "start":8971,
+  "end":9001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like dealing with customers.",
+  "id":"2e96b6bc-f270-4bb5-9154-bfdaf4932270",
+  "params":{
+    "id":"195505b7-77a5-4f7e-9f57-7367bd1699e0"
+  },
+  "name":"Ivan"
+}

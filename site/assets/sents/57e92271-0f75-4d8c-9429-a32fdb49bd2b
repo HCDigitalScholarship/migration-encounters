@@ -1,0 +1,12 @@
+{
+  "start":53121,
+  "end":53150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You could do it.\"\n \n \n   ",
+  "id":"57e92271-0f75-4d8c-9429-a32fdb49bd2b",
+  "params":{
+    "id":"044a3b8a-7642-4d96-9d0f-7f2ae0417e0c"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32036,
+  "end":32048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't lie.",
+  "id":"20aae660-3ed7-46cb-bfd4-793efff2b754",
+  "params":{
+    "id":"c52cdc70-7ee8-4233-a745-e783203baaa7"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8839,
+  "end":8870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then luckily he\n   realizes it.",
+  "id":"63aad4aa-8274-4de5-9b3d-d1797a3a86f2",
+  "params":{
+    "id":"586c7494-4faa-441a-abe7-bdaac7ea811a"
+  },
+  "name":"Luis A"
+}

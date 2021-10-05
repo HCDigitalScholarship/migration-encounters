@@ -1,0 +1,13 @@
+{
+  "start":17091,
+  "end":17117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   can't get them back.",
+  "id":"f36aff87-cdd9-4d03-8814-13a2897081db",
+  "params":{
+    "id":"f36aff87-cdd9-4d03-8814-13a2897081db",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9518,
+  "end":9540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't go to\nprison.",
+  "id":"642e2943-990b-4412-8b84-ad8a6f5d0f92",
+  "params":{
+    "id":"642e2943-990b-4412-8b84-ad8a6f5d0f92",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

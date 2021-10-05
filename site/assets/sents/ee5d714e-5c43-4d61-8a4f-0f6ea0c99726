@@ -1,0 +1,12 @@
+{
+  "start":4195,
+  "end":4215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was kind of crazy.",
+  "id":"ee5d714e-5c43-4d61-8a4f-0f6ea0c99726",
+  "params":{
+    "id":"a1a4fc01-1e5f-476c-9cb0-76c30633f986"
+  },
+  "name":"Many"
+}

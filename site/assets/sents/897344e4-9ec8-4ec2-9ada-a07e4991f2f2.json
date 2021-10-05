@@ -1,0 +1,13 @@
+{
+  "start":2141,
+  "end":2163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, was it still cold?",
+  "id":"897344e4-9ec8-4ec2-9ada-a07e4991f2f2",
+  "params":{
+    "id":"897344e4-9ec8-4ec2-9ada-a07e4991f2f2",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

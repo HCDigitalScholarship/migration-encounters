@@ -1,0 +1,12 @@
+{
+  "start":45383,
+  "end":45422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The probation office is closed at five.",
+  "id":"abb042ae-5738-480c-9afa-48fde8e9a68d",
+  "params":{
+    "id":"a0f73e6e-867f-4a23-af0e-a5192e4e6ad7"
+  },
+  "name":"Axel"
+}

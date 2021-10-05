@@ -1,0 +1,12 @@
+{
+  "start":23165,
+  "end":23194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't go\n   to drivers ed.",
+  "id":"75c9a4c1-4d54-449c-9064-e4865ac3b12c",
+  "params":{
+    "id":"bb64c539-7a8c-4b14-8f9b-7265de65c4d8"
+  },
+  "name":"Luisa"
+}

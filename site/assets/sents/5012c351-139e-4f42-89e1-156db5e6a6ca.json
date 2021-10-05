@@ -1,0 +1,13 @@
+{
+  "start":3075,
+  "end":3195,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n and they started a restaurant and that was the main reason.\n      \n      \n Anne: In which town?\n      \n      \n Brenda:",
+  "id":"5012c351-139e-4f42-89e1-156db5e6a6ca",
+  "params":{
+    "id":"5012c351-139e-4f42-89e1-156db5e6a6ca",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

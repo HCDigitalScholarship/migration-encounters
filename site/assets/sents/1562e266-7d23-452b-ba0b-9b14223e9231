@@ -1,0 +1,12 @@
+{
+  "start":25001,
+  "end":25031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Otro angel m\u00e1s para mis hijos.",
+  "id":"1562e266-7d23-452b-ba0b-9b14223e9231",
+  "params":{
+    "id":"213f37bf-aa90-42cb-8234-e7a86b40466f"
+  },
+  "name":"Maria"
+}

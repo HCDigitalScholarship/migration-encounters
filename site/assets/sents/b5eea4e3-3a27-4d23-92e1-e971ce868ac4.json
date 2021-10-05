@@ -1,0 +1,13 @@
+{
+  "start":20376,
+  "end":20437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're just like, \u201cWell it wasn't\n   like that in the States.",
+  "id":"b5eea4e3-3a27-4d23-92e1-e971ce868ac4",
+  "params":{
+    "id":"b5eea4e3-3a27-4d23-92e1-e971ce868ac4",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67563,
+  "end":67598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"McDonald's\n   don't taste the same.",
+  "id":"eb2639a7-fa47-404c-b407-14cecc1a5617",
+  "params":{
+    "id":"eb2639a7-fa47-404c-b407-14cecc1a5617",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

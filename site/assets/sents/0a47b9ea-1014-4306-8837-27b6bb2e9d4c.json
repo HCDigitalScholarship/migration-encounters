@@ -1,0 +1,13 @@
+{
+  "start":7655,
+  "end":7709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They'd say, \u201cWhy you do this?\u201d or something like that.",
+  "id":"0a47b9ea-1014-4306-8837-27b6bb2e9d4c",
+  "params":{
+    "id":"0a47b9ea-1014-4306-8837-27b6bb2e9d4c",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

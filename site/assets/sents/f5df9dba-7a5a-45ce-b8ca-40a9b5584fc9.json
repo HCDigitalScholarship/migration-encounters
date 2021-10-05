@@ -1,0 +1,13 @@
+{
+  "start":2226,
+  "end":2377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got arrested at the beginning of February and I stayed in an\n   immigration facility for two months until I was sent over with my voluntary\n   leave.",
+  "id":"f5df9dba-7a5a-45ce-b8ca-40a9b5584fc9",
+  "params":{
+    "id":"f5df9dba-7a5a-45ce-b8ca-40a9b5584fc9",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

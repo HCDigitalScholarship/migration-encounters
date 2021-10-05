@@ -1,0 +1,12 @@
+{
+  "start":25889,
+  "end":25910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't talk at all.",
+  "id":"4ee666de-8049-4a5d-abad-9a7f5a53cb4d",
+  "params":{
+    "id":"efba5f53-da82-4907-9a60-2aa7f5d0cead"
+  },
+  "name":"Beto"
+}

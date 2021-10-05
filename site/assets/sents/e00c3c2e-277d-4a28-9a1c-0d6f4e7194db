@@ -1,0 +1,12 @@
+{
+  "start":50798,
+  "end":50815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to go home.",
+  "id":"e00c3c2e-277d-4a28-9a1c-0d6f4e7194db",
+  "params":{
+    "id":"4b1fa55c-913b-4ba7-9841-0e0734b3a609"
+  },
+  "name":"Axel"
+}

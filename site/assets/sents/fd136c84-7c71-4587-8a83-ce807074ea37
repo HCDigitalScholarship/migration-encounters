@@ -1,0 +1,12 @@
+{
+  "start":20034,
+  "end":20051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm from Seattle.",
+  "id":"fd136c84-7c71-4587-8a83-ce807074ea37",
+  "params":{
+    "id":"b245a558-e2f9-4032-b4ef-bd2bdb37319d"
+  },
+  "name":"Josue"
+}

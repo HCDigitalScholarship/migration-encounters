@@ -1,0 +1,12 @@
+{
+  "start":8054,
+  "end":8099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you join anyone when you were over there?",
+  "id":"b6bb6ca4-13ce-4a1c-ad79-44e858af92aa",
+  "params":{
+    "id":"7fc6e75f-3343-4a2c-a3c3-b172517a8e80"
+  },
+  "name":"Yosell"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25098,
+  "end":25165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does it mean taking tests, or does it mean actually taking courses?",
+  "id":"aab65110-e9d6-48c5-a174-f0cf94784d71",
+  "params":{
+    "id":"1099928e-de29-472b-b690-9f3ad8825c0a"
+  },
+  "name":"Carlos"
+}

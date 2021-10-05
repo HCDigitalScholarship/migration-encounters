@@ -1,0 +1,13 @@
+{
+  "start":60044,
+  "end":60073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\u2019m thinking that will do it.",
+  "id":"5d1ebf6e-4f7b-49c9-a599-facf634ea00a",
+  "params":{
+    "id":"5d1ebf6e-4f7b-49c9-a599-facf634ea00a",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

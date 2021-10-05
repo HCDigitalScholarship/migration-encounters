@@ -1,0 +1,13 @@
+{
+  "start":13057,
+  "end":13075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   didn't do it.",
+  "id":"5c137061-d644-4b32-9daf-20572f14fa3e",
+  "params":{
+    "id":"5c137061-d644-4b32-9daf-20572f14fa3e",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

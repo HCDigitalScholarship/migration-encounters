@@ -1,0 +1,13 @@
+{
+  "start":14323,
+  "end":14386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was still living in Mexico, I went to an English school.",
+  "id":"2d80b3fa-3df9-43f4-ae28-64b1ab3391a1",
+  "params":{
+    "id":"2d80b3fa-3df9-43f4-ae28-64b1ab3391a1",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

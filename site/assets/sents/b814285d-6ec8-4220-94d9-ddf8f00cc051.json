@@ -1,0 +1,13 @@
+{
+  "start":20706,
+  "end":20761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something I didn't know anything about previously.",
+  "id":"b814285d-6ec8-4220-94d9-ddf8f00cc051",
+  "params":{
+    "id":"b814285d-6ec8-4220-94d9-ddf8f00cc051",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

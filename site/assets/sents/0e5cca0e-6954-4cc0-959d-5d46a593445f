@@ -1,0 +1,12 @@
+{
+  "start":4447,
+  "end":4471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You live in Mexico City?",
+  "id":"0e5cca0e-6954-4cc0-959d-5d46a593445f",
+  "params":{
+    "id":"826a45b4-396f-41bc-9ee9-cc19c5aaf2b1"
+  },
+  "name":"Ivan"
+}

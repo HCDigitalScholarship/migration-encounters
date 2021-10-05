@@ -1,0 +1,12 @@
+{
+  "start":8192,
+  "end":8222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that what\n   you're saying?",
+  "id":"1c1aa853-8173-45cd-9146-06cbad55d210",
+  "params":{
+    "id":"c055b5cd-cba4-4991-a84f-778e358ef508"
+  },
+  "name":"Luis B"
+}

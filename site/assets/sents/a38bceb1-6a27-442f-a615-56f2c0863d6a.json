@@ -1,0 +1,13 @@
+{
+  "start":31980,
+  "end":32028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   When I put my mind to it, I get what I want.",
+  "id":"a38bceb1-6a27-442f-a615-56f2c0863d6a",
+  "params":{
+    "id":"a38bceb1-6a27-442f-a615-56f2c0863d6a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

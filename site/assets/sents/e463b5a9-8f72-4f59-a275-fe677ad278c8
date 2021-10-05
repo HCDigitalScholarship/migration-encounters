@@ -1,0 +1,12 @@
+{
+  "start":12852,
+  "end":12951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n aunt adopted us, she is a US citizen, and the whole thing was supposed to\n be super easy peasy.",
+  "id":"e463b5a9-8f72-4f59-a275-fe677ad278c8",
+  "params":{
+    "id":"e4598b60-9c8e-48a5-a249-469a1d5e309c"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":51078,
+  "end":51104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like, \"Yes, it's me.",
+  "id":"b01e9686-d805-4b18-99ba-d43c82112bca",
+  "params":{
+    "id":"b01e9686-d805-4b18-99ba-d43c82112bca",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

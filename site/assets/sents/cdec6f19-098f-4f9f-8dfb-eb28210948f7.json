@@ -1,0 +1,13 @@
+{
+  "start":20020,
+  "end":20054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got expelled from a school here.",
+  "id":"cdec6f19-098f-4f9f-8dfb-eb28210948f7",
+  "params":{
+    "id":"cdec6f19-098f-4f9f-8dfb-eb28210948f7",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

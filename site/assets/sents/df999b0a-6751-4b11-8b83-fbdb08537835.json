@@ -1,0 +1,13 @@
+{
+  "start":21563,
+  "end":21603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have my kids, I work, I\n   paid taxes.",
+  "id":"df999b0a-6751-4b11-8b83-fbdb08537835",
+  "params":{
+    "id":"df999b0a-6751-4b11-8b83-fbdb08537835",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

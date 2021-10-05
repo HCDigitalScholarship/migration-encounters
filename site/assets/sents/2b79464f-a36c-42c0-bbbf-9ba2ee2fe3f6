@@ -1,0 +1,12 @@
+{
+  "start":30023,
+  "end":30063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's how their grandmothers\n   talked.",
+  "id":"2b79464f-a36c-42c0-bbbf-9ba2ee2fe3f6",
+  "params":{
+    "id":"9e5b8731-db34-4f87-9e26-8d191a136a5f"
+  },
+  "name":"Miguel A"
+}

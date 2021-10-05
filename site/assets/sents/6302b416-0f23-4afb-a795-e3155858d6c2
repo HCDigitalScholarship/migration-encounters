@@ -1,0 +1,12 @@
+{
+  "start":35190,
+  "end":35302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, I've been hearing stories all day long, about kids who\n   went, and their Mexican dads abandoned them.",
+  "id":"6302b416-0f23-4afb-a795-e3155858d6c2",
+  "params":{
+    "id":"afccd832-fe17-40d0-99c3-9cbc93a42098"
+  },
+  "name":"Rodrigo"
+}

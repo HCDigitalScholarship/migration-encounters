@@ -1,0 +1,13 @@
+{
+  "start":27997,
+  "end":28017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to buy\n this.\"",
+  "id":"5c87886e-70c2-470d-afde-6cd42b5086bf",
+  "params":{
+    "id":"5c87886e-70c2-470d-afde-6cd42b5086bf",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28215,
+  "end":28236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are they US citizens?",
+  "id":"320e796c-9756-46ed-ab52-354c0c54206e",
+  "params":{
+    "id":"320e796c-9756-46ed-ab52-354c0c54206e",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

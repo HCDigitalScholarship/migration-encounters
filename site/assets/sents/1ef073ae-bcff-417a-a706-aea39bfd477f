@@ -1,0 +1,12 @@
+{
+  "start":25755,
+  "end":25811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay and I understood \u201cAbraham Lincoln,\u201d and that\u2019s all.",
+  "id":"1ef073ae-bcff-417a-a706-aea39bfd477f",
+  "params":{
+    "id":"a73473e4-402c-4b17-a98d-5b4a17186e03"
+  },
+  "name":"Beto"
+}

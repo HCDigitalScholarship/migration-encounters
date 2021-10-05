@@ -1,0 +1,12 @@
+{
+  "start":7025,
+  "end":7042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember.",
+  "id":"3b548ca8-df9f-42d6-bd93-3419b7400420",
+  "params":{
+    "id":"c5dd8c3d-9ef6-4c41-a065-ae7ae25fb9fa"
+  },
+  "name":"Joana"
+}

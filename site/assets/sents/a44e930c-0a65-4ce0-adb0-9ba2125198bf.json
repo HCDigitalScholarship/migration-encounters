@@ -1,0 +1,12 @@
+{
+  "start":5200,
+  "end":5218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just removed them?",
+  "id":"a44e930c-0a65-4ce0-adb0-9ba2125198bf",
+  "params":{
+    "id":"28c57196-aa63-4724-9841-a473ebeac573"
+  },
+  "name":"Kevin"
+}

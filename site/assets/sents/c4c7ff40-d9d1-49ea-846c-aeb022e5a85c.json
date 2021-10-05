@@ -1,0 +1,13 @@
+{
+  "start":20284,
+  "end":20355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I remember a group of Mexicans from Mexico City approaching\n   me.",
+  "id":"c4c7ff40-d9d1-49ea-846c-aeb022e5a85c",
+  "params":{
+    "id":"c4c7ff40-d9d1-49ea-846c-aeb022e5a85c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

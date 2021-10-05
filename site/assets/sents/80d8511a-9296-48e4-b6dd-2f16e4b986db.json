@@ -1,0 +1,13 @@
+{
+  "start":708,
+  "end":746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't cross the border or anything.",
+  "id":"80d8511a-9296-48e4-b6dd-2f16e4b986db",
+  "params":{
+    "id":"80d8511a-9296-48e4-b6dd-2f16e4b986db",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27557,
+  "end":27581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Good or bad or...",
+  "id":"f4a7ab36-60f8-40d4-b449-32d9e69f4664",
+  "params":{
+    "id":"f4a7ab36-60f8-40d4-b449-32d9e69f4664",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

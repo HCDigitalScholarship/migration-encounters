@@ -1,0 +1,12 @@
+{
+  "start":25426,
+  "end":25552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   will transfer you to the IVR, but I won't promise you that you will be\n   speaking with somebody from the United States.\"",
+  "id":"fcae6b73-547f-4c14-bde1-738c1a33cc9f",
+  "params":{
+    "id":"8230a190-75d9-4bd0-8663-858729b590f4"
+  },
+  "name":"Rodrigo"
+}

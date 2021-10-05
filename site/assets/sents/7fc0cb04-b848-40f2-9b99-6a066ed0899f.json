@@ -1,0 +1,13 @@
+{
+  "start":39827,
+  "end":39837,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A Mexican?",
+  "id":"7fc0cb04-b848-40f2-9b99-6a066ed0899f",
+  "params":{
+    "id":"7fc0cb04-b848-40f2-9b99-6a066ed0899f",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

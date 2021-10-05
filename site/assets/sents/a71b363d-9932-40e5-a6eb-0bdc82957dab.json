@@ -1,0 +1,13 @@
+{
+  "start":51404,
+  "end":51432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, we're humans, right?",
+  "id":"a71b363d-9932-40e5-a6eb-0bdc82957dab",
+  "params":{
+    "id":"a71b363d-9932-40e5-a6eb-0bdc82957dab",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28023,
+  "end":28041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Oh yes.",
+  "id":"9c888db9-b827-4fca-ae40-543f7476f471",
+  "params":{
+    "id":"9c888db9-b827-4fca-ae40-543f7476f471",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

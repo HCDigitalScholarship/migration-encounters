@@ -1,0 +1,13 @@
+{
+  "start":32733,
+  "end":32792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got a skateboard and I did\n that for 12 years of my life.",
+  "id":"77f7adba-2f4f-461f-bb41-7fdcbdef6438",
+  "params":{
+    "id":"77f7adba-2f4f-461f-bb41-7fdcbdef6438",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

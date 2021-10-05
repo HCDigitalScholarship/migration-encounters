@@ -1,0 +1,12 @@
+{
+  "start":5452,
+  "end":5499,
+  "label":"SENT",
+  "type":"sent",
+  "text":",\n then my mother didn't have to work any more.",
+  "id":"2fdd0a7a-89f5-46d0-bb5b-fe5d6224acbf",
+  "params":{
+    "id":"c502dafc-0275-44da-a646-a2f64cef0aab"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":60897,
+  "end":60964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a nice car, had a\n nice TV, everything, I had nice furniture.",
+  "id":"3b2efc69-d2f6-4a0a-af70-4584dec9a17a",
+  "params":{
+    "id":"63feb70b-402d-41e2-a275-66ebc8508c2e"
+  },
+  "name":"Axel"
+}

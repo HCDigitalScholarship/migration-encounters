@@ -1,0 +1,13 @@
+{
+  "start":29693,
+  "end":29773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew he was in in Washington sitting\n     down right there in a big sculpture.",
+  "id":"fcef0be1-c0af-4e0f-93c1-a3c83a49bdc9",
+  "params":{
+    "id":"fcef0be1-c0af-4e0f-93c1-a3c83a49bdc9",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

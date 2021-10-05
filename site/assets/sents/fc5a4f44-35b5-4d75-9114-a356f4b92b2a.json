@@ -1,0 +1,13 @@
+{
+  "start":6097,
+  "end":6155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess that first police officer, he was normal about it.",
+  "id":"fc5a4f44-35b5-4d75-9114-a356f4b92b2a",
+  "params":{
+    "id":"fc5a4f44-35b5-4d75-9114-a356f4b92b2a",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":17931,
+  "end":17960,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you a minor at the time?",
+  "id":"9e232526-4e85-44fb-8cad-957808e9c0d9",
+  "params":{
+    "id":"acee0606-8283-45c2-a4f2-78e1a3135ddf"
+  },
+  "name":"Edgar"
+}

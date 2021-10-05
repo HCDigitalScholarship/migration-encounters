@@ -1,0 +1,12 @@
+{
+  "start":27190,
+  "end":27204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From Columbia.",
+  "id":"dca9b416-ee70-4f1b-b18c-31d1b5d30600",
+  "params":{
+    "id":"c4bd0c85-76af-4b7e-811f-404ebb6b28f9"
+  },
+  "name":"Billy"
+}

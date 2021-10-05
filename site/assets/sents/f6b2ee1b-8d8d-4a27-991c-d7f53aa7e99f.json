@@ -1,0 +1,13 @@
+{
+  "start":17590,
+  "end":17701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   can't take him back because he doesn't know his mom, and he doesn't want to\n   know nothing about his mom.",
+  "id":"f6b2ee1b-8d8d-4a27-991c-d7f53aa7e99f",
+  "params":{
+    "id":"f6b2ee1b-8d8d-4a27-991c-d7f53aa7e99f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

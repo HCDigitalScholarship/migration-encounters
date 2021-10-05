@@ -1,0 +1,13 @@
+{
+  "start":25447,
+  "end":25497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I was like, \"I messed up at that first time.",
+  "id":"8f4e3a9f-e7ff-4b2a-a662-ea259781c68d",
+  "params":{
+    "id":"8f4e3a9f-e7ff-4b2a-a662-ea259781c68d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":26002,
+  "end":26082,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, my dad is the nicest guy ever and I don't blame him for anything\n he's done.",
+  "id":"a8192db0-7603-492b-a10e-2476ef15c733",
+  "params":{
+    "id":"c79e5dd3-560a-429f-b682-de6e846b4282"
+  },
+  "name":"Billy"
+}

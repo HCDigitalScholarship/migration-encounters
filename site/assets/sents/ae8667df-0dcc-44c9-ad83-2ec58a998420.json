@@ -1,0 +1,13 @@
+{
+  "start":36195,
+  "end":36225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to\n   think about it.",
+  "id":"ae8667df-0dcc-44c9-ad83-2ec58a998420",
+  "params":{
+    "id":"ae8667df-0dcc-44c9-ad83-2ec58a998420",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13112,
+  "end":13142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you at that time?",
+  "id":"70da2f8f-7df0-42f3-b931-7d46a17a5389",
+  "params":{
+    "id":"70da2f8f-7df0-42f3-b931-7d46a17a5389",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

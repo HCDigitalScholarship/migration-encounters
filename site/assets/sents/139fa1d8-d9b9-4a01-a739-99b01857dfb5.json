@@ -1,0 +1,13 @@
+{
+  "start":13026,
+  "end":13039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure.",
+  "id":"139fa1d8-d9b9-4a01-a739-99b01857dfb5",
+  "params":{
+    "id":"139fa1d8-d9b9-4a01-a739-99b01857dfb5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

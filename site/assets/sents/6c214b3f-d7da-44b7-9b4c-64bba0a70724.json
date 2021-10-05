@@ -1,0 +1,13 @@
+{
+  "start":71740,
+  "end":71831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to go take my kids shopping, get some stuff,\n   eat some things, try something else.",
+  "id":"6c214b3f-d7da-44b7-9b4c-64bba0a70724",
+  "params":{
+    "id":"6c214b3f-d7da-44b7-9b4c-64bba0a70724",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

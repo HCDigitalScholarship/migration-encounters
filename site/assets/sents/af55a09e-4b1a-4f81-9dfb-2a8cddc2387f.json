@@ -1,0 +1,13 @@
+{
+  "start":28035,
+  "end":28070,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I let my son,\n   with a cell phone.",
+  "id":"af55a09e-4b1a-4f81-9dfb-2a8cddc2387f",
+  "params":{
+    "id":"af55a09e-4b1a-4f81-9dfb-2a8cddc2387f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

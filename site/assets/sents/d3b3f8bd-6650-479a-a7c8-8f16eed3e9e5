@@ -1,0 +1,12 @@
+{
+  "start":40358,
+  "end":40450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's world renowned, I think,\n   because he is the host for the International Poets Meeting.",
+  "id":"d3b3f8bd-6650-479a-a7c8-8f16eed3e9e5",
+  "params":{
+    "id":"4792a4bd-b19a-4de4-903c-971829709a21"
+  },
+  "name":"Luisa"
+}

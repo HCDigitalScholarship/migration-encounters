@@ -1,0 +1,12 @@
+{
+  "start":58007,
+  "end":58023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my thing.",
+  "id":"334b94dc-87de-4803-ba52-1b7bbb3bcb8c",
+  "params":{
+    "id":"fa2db21b-d0f3-4eb3-9c94-8806ea6c227e"
+  },
+  "name":"Cris"
+}

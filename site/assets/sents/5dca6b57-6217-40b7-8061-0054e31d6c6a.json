@@ -1,0 +1,13 @@
+{
+  "start":53751,
+  "end":53788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No me iba porque mi hija estaba aqu\u00ed.",
+  "id":"5dca6b57-6217-40b7-8061-0054e31d6c6a",
+  "params":{
+    "id":"5dca6b57-6217-40b7-8061-0054e31d6c6a",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

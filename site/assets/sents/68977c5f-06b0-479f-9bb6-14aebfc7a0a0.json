@@ -1,0 +1,13 @@
+{
+  "start":25614,
+  "end":25633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I heard about him.\"",
+  "id":"68977c5f-06b0-479f-9bb6-14aebfc7a0a0",
+  "params":{
+    "id":"68977c5f-06b0-479f-9bb6-14aebfc7a0a0",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

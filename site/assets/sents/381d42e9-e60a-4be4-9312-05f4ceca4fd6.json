@@ -1,0 +1,13 @@
+{
+  "start":16242,
+  "end":16265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's him right there.",
+  "id":"381d42e9-e60a-4be4-9312-05f4ceca4fd6",
+  "params":{
+    "id":"381d42e9-e60a-4be4-9312-05f4ceca4fd6",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

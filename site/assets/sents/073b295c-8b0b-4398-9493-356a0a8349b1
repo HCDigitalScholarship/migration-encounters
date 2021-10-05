@@ -1,0 +1,12 @@
+{
+  "start":29735,
+  "end":29793,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"You need to\n   learn how to speak Spanish.\"",
+  "id":"073b295c-8b0b-4398-9493-356a0a8349b1",
+  "params":{
+    "id":"eef15c47-37d6-402a-a474-2ef13ae9fc59"
+  },
+  "name":"Sylent"
+}

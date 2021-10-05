@@ -1,0 +1,13 @@
+{
+  "start":8751,
+  "end":8802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, There was\n   like a lot of activities going on.",
+  "id":"1b47f18a-fe75-4a19-b20e-c28c1ab31a1f",
+  "params":{
+    "id":"1b47f18a-fe75-4a19-b20e-c28c1ab31a1f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

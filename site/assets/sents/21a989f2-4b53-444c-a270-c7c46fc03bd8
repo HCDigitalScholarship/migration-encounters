@@ -1,0 +1,12 @@
+{
+  "start":20302,
+  "end":20317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You liked ____?",
+  "id":"21a989f2-4b53-444c-a270-c7c46fc03bd8",
+  "params":{
+    "id":"060a6a04-3d6e-4df5-a801-39edc6de43a1"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25577,
+  "end":25622,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's an awesome person and he's 89 right now.",
+  "id":"ebc9afdf-e588-4d81-8d1d-9c2fb5423227",
+  "params":{
+    "id":"09ca32b5-ab41-4f76-a311-6bd0c10df521"
+  },
+  "name":"Hugo"
+}

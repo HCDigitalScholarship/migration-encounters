@@ -1,0 +1,13 @@
+{
+  "start":13962,
+  "end":14008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, I started at like 14, I stopped at 19, 20.",
+  "id":"afde21b4-50bb-40e0-bad2-0b387982d20a",
+  "params":{
+    "id":"afde21b4-50bb-40e0-bad2-0b387982d20a",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

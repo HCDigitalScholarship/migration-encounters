@@ -1,0 +1,13 @@
+{
+  "start":13257,
+  "end":13280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We connect really well.",
+  "id":"d31d5e80-f35a-4b80-ba3d-2a00b3de3dea",
+  "params":{
+    "id":"d31d5e80-f35a-4b80-ba3d-2a00b3de3dea",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

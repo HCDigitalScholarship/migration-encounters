@@ -1,0 +1,12 @@
+{
+  "start":2435,
+  "end":2547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was twelve, my pa used\n   to explain to me what was I doing there, or what role I had in that\n   society.",
+  "id":"6cdcb47e-c021-4ee0-a5be-e9485ba21413",
+  "params":{
+    "id":"cfb4a547-7d4b-4e08-bfc1-879d8cf03f9c"
+  },
+  "name":"Luis B"
+}

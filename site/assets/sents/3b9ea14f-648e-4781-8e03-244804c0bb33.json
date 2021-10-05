@@ -1,0 +1,13 @@
+{
+  "start":23055,
+  "end":23088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or what if you\n   misplaced them?",
+  "id":"3b9ea14f-648e-4781-8e03-244804c0bb33",
+  "params":{
+    "id":"3b9ea14f-648e-4781-8e03-244804c0bb33",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

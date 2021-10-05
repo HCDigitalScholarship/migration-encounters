@@ -1,0 +1,12 @@
+{
+  "start":35746,
+  "end":35766,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have a band.",
+  "id":"25ecac45-4377-4fbd-9892-a71cae477420",
+  "params":{
+    "id":"20b4d7ca-ce76-470f-93bd-333840adecab"
+  },
+  "name":"Billy"
+}

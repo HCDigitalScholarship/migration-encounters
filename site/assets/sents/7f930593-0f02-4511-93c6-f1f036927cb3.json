@@ -1,0 +1,13 @@
+{
+  "start":60990,
+  "end":61020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n best of moms at that time",
+  "id":"7f930593-0f02-4511-93c6-f1f036927cb3",
+  "params":{
+    "id":"7f930593-0f02-4511-93c6-f1f036927cb3",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

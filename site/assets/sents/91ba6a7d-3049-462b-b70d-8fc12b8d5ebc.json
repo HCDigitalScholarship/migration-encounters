@@ -1,0 +1,13 @@
+{
+  "start":3618,
+  "end":3646,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, she was born in Texas.",
+  "id":"91ba6a7d-3049-462b-b70d-8fc12b8d5ebc",
+  "params":{
+    "id":"91ba6a7d-3049-462b-b70d-8fc12b8d5ebc",
+    "class":"anno"
+  },
+  "name":"Many"
+}

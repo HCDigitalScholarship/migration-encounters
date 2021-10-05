@@ -1,0 +1,13 @@
+{
+  "start":64733,
+  "end":64817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     It's just that little part of my brain that tells me, are you even\n     ready?",
+  "id":"0b4341e1-ade8-4471-8592-d16e2098f139",
+  "params":{
+    "id":"0b4341e1-ade8-4471-8592-d16e2098f139",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10112,
+  "end":10132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His name was Dennis.",
+  "id":"6f06c124-0dda-433b-a687-6b324a897cd7",
+  "params":{
+    "id":"6f06c124-0dda-433b-a687-6b324a897cd7",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

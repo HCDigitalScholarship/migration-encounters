@@ -1,0 +1,12 @@
+{
+  "start":33983,
+  "end":34000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People need jobs.",
+  "id":"fcd59a7c-1c5c-4bec-9e1f-7fa82b030214",
+  "params":{
+    "id":"4cc2a6f6-ba9c-48cc-ae71-36fa61b098e9"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13988,
+  "end":14004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of things.",
+  "id":"c79e052d-8088-4e57-986f-e93042bdb75c",
+  "params":{
+    "id":"c79e052d-8088-4e57-986f-e93042bdb75c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24001,
+  "end":24075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A couple of them, they\n   get into the bus, they say, \u201cJust give me money.",
+  "id":"d416c773-b054-49c3-8a01-4a9f19410c58",
+  "params":{
+    "id":"07d588ae-c156-437b-bd1e-c8111e4f2d55"
+  },
+  "name":"Noe"
+}

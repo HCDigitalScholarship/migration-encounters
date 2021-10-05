@@ -1,0 +1,12 @@
+{
+  "start":71895,
+  "end":71910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need money.",
+  "id":"6587bf1f-9b5c-4d3e-a7c7-73b258479f2c",
+  "params":{
+    "id":"decd3680-7f1c-4b0b-a884-b56fe64be0a2"
+  },
+  "name":"Daniel B"
+}

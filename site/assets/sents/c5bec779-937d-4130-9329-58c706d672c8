@@ -1,0 +1,12 @@
+{
+  "start":27933,
+  "end":28022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know the guy downstairs told me, \"You're literally the last\n     guy we're going to...\"",
+  "id":"c5bec779-937d-4130-9329-58c706d672c8",
+  "params":{
+    "id":"8859b539-f6c5-42f0-bca1-0198c8a19e35"
+  },
+  "name":"Joseph"
+}

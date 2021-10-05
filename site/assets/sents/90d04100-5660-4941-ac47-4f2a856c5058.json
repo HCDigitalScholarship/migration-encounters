@@ -1,0 +1,13 @@
+{
+  "start":12216,
+  "end":12260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was working in a restaurant in Palo Alto.",
+  "id":"90d04100-5660-4941-ac47-4f2a856c5058",
+  "params":{
+    "id":"90d04100-5660-4941-ac47-4f2a856c5058",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

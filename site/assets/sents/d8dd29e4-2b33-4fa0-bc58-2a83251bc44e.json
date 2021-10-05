@@ -1,0 +1,13 @@
+{
+  "start":62713,
+  "end":62731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Joseph: Hopefully.",
+  "id":"d8dd29e4-2b33-4fa0-bc58-2a83251bc44e",
+  "params":{
+    "id":"d8dd29e4-2b33-4fa0-bc58-2a83251bc44e",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

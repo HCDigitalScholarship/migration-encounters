@@ -1,0 +1,12 @@
+{
+  "start":20812,
+  "end":20845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cHey, take a seat and everything.",
+  "id":"b93a44fe-1a2c-43c4-9ee1-b216e3bcd524",
+  "params":{
+    "id":"51e48daa-36de-4942-a178-e2c099a3e41e"
+  },
+  "name":"Noe"
+}

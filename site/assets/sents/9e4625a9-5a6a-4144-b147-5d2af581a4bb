@@ -1,0 +1,12 @@
+{
+  "start":6793,
+  "end":6859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I heard some other guy\n   scream out, \"Hey, that's my boy, Daniel.",
+  "id":"9e4625a9-5a6a-4144-b147-5d2af581a4bb",
+  "params":{
+    "id":"1a77cd02-d55c-4830-b4df-7c7a34f6046c"
+  },
+  "name":"Daniel B"
+}

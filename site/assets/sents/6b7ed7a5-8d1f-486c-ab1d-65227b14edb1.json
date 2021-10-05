@@ -1,0 +1,13 @@
+{
+  "start":1167,
+  "end":1241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     That's one of the things I actually encountered in the call centers.",
+  "id":"6b7ed7a5-8d1f-486c-ab1d-65227b14edb1",
+  "params":{
+    "id":"6b7ed7a5-8d1f-486c-ab1d-65227b14edb1",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1049,
+  "end":1075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Edgar: Her friend.",
+  "id":"bfa78783-9fc1-40bc-b169-16b55ba1808d",
+  "params":{
+    "id":"bfa78783-9fc1-40bc-b169-16b55ba1808d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

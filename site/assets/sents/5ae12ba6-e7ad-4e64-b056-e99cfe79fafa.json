@@ -1,0 +1,12 @@
+{
+  "start":4183,
+  "end":4319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, they give us some lunch and they took us from the spot that we\n   landed to the bus stations because it's too dangerous down here.",
+  "id":"5ae12ba6-e7ad-4e64-b056-e99cfe79fafa",
+  "params":{
+    "id":"cff86f30-927b-4f51-9628-7a0732c75b7a"
+  },
+  "name":"Ivan"
+}

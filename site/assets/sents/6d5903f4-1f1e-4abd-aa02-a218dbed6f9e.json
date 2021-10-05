@@ -1,0 +1,13 @@
+{
+  "start":4645,
+  "end":4708,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, he told me straight up, he was like,\n   \"You're deported.",
+  "id":"6d5903f4-1f1e-4abd-aa02-a218dbed6f9e",
+  "params":{
+    "id":"6d5903f4-1f1e-4abd-aa02-a218dbed6f9e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

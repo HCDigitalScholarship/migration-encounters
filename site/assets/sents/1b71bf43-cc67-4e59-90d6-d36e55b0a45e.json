@@ -1,0 +1,13 @@
+{
+  "start":37202,
+  "end":37230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're human too, you know?",
+  "id":"1b71bf43-cc67-4e59-90d6-d36e55b0a45e",
+  "params":{
+    "id":"1b71bf43-cc67-4e59-90d6-d36e55b0a45e",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

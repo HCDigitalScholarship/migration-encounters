@@ -1,0 +1,13 @@
+{
+  "start":6941,
+  "end":6952,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Parkland.\"",
+  "id":"ad76e4d3-69d3-4b8c-960a-5773d492506c",
+  "params":{
+    "id":"ad76e4d3-69d3-4b8c-960a-5773d492506c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

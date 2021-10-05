@@ -1,0 +1,13 @@
+{
+  "start":3920,
+  "end":3971,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been about\n   nine years since I've been back.",
+  "id":"ec3cc4d5-3812-499c-9791-7d0b4cf0ea96",
+  "params":{
+    "id":"ec3cc4d5-3812-499c-9791-7d0b4cf0ea96",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

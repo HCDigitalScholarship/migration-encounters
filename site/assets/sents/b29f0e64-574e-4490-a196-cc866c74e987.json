@@ -1,0 +1,13 @@
+{
+  "start":37115,
+  "end":37179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"So you know what you're\n   doing right now, you're separating.\"",
+  "id":"b29f0e64-574e-4490-a196-cc866c74e987",
+  "params":{
+    "id":"b29f0e64-574e-4490-a196-cc866c74e987",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

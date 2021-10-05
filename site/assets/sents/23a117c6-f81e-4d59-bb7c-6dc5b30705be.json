@@ -1,0 +1,13 @@
+{
+  "start":3552,
+  "end":3602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After 13 years, I have another kid, Chris, my son.",
+  "id":"23a117c6-f81e-4d59-bb7c-6dc5b30705be",
+  "params":{
+    "id":"23a117c6-f81e-4d59-bb7c-6dc5b30705be",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

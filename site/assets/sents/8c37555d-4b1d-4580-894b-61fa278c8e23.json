@@ -1,0 +1,13 @@
+{
+  "start":3990,
+  "end":4057,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   beer, but it was just a small glass from the bar that he took.",
+  "id":"8c37555d-4b1d-4580-894b-61fa278c8e23",
+  "params":{
+    "id":"8c37555d-4b1d-4580-894b-61fa278c8e23",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

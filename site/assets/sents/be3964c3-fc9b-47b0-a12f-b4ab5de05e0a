@@ -1,0 +1,12 @@
+{
+  "start":20035,
+  "end":20062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you talking about?",
+  "id":"be3964c3-fc9b-47b0-a12f-b4ab5de05e0a",
+  "params":{
+    "id":"bcfb8f07-f97e-4257-b115-7b281dcab7e0"
+  },
+  "name":"Olimpya"
+}

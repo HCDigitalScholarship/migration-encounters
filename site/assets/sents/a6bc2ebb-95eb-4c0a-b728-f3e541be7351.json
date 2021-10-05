@@ -1,0 +1,12 @@
+{
+  "start":18423,
+  "end":18453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have health insurance?",
+  "id":"a6bc2ebb-95eb-4c0a-b728-f3e541be7351",
+  "params":{
+    "id":"ec5743e6-7299-4799-8a33-e509368fcc1e"
+  },
+  "name":"Rocio"
+}

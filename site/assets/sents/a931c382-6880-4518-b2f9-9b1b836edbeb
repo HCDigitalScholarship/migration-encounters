@@ -1,0 +1,12 @@
+{
+  "start":27309,
+  "end":27330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're really honest.",
+  "id":"a931c382-6880-4518-b2f9-9b1b836edbeb",
+  "params":{
+    "id":"6040ad57-7239-4998-81da-23ac0b142477"
+  },
+  "name":"Kevin"
+}

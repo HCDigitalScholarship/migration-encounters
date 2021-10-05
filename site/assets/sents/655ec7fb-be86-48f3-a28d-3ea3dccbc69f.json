@@ -1,0 +1,13 @@
+{
+  "start":32534,
+  "end":32592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But he's like, \"I'm going to tell them my name is Alexis.\"",
+  "id":"655ec7fb-be86-48f3-a28d-3ea3dccbc69f",
+  "params":{
+    "id":"655ec7fb-be86-48f3-a28d-3ea3dccbc69f",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

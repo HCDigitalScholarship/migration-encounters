@@ -1,0 +1,13 @@
+{
+  "start":49903,
+  "end":49928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I'd\n   be better.",
+  "id":"233dce50-9350-4ccc-9a8d-f9d948f1cfce",
+  "params":{
+    "id":"233dce50-9350-4ccc-9a8d-f9d948f1cfce",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

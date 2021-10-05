@@ -1,0 +1,13 @@
+{
+  "start":35898,
+  "end":35920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just want to relax.\"",
+  "id":"4d5d4ab7-ccda-4e34-83ab-b3e912bf1746",
+  "params":{
+    "id":"4d5d4ab7-ccda-4e34-83ab-b3e912bf1746",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

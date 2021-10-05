@@ -1,0 +1,13 @@
+{
+  "start":19726,
+  "end":19754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand why she did it.",
+  "id":"f8ea9cf0-140c-4844-bf3d-cc6118f6a972",
+  "params":{
+    "id":"f8ea9cf0-140c-4844-bf3d-cc6118f6a972",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

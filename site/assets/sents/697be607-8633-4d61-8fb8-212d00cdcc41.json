@@ -1,0 +1,13 @@
+{
+  "start":24621,
+  "end":24659,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I spent two years in those\n   classes.",
+  "id":"697be607-8633-4d61-8fb8-212d00cdcc41",
+  "params":{
+    "id":"697be607-8633-4d61-8fb8-212d00cdcc41",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

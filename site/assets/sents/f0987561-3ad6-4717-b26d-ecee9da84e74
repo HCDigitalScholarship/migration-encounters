@@ -1,0 +1,12 @@
+{
+  "start":44488,
+  "end":44511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does she look like you?",
+  "id":"f0987561-3ad6-4717-b26d-ecee9da84e74",
+  "params":{
+    "id":"703b27ca-ef93-4943-869f-5ec3e0317e9c"
+  },
+  "name":"Rodrigo"
+}

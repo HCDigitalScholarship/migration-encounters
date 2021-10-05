@@ -1,0 +1,12 @@
+{
+  "start":24275,
+  "end":24301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just say I want to cancel.",
+  "id":"153cf7c5-2b43-4966-8838-271152d865e9",
+  "params":{
+    "id":"cd6e2e63-55e1-4ab8-8143-f71aca465ded"
+  },
+  "name":"Rodrigo"
+}

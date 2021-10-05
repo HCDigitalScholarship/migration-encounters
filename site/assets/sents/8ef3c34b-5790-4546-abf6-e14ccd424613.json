@@ -1,0 +1,13 @@
+{
+  "start":3011,
+  "end":3046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't get back until nighttime.",
+  "id":"8ef3c34b-5790-4546-abf6-e14ccd424613",
+  "params":{
+    "id":"8ef3c34b-5790-4546-abf6-e14ccd424613",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

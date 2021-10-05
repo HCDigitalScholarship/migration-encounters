@@ -1,0 +1,13 @@
+{
+  "start":26244,
+  "end":26278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hopefully once I get settled here.",
+  "id":"2a3b29f1-dff0-42b3-830f-d158051a36bd",
+  "params":{
+    "id":"2a3b29f1-dff0-42b3-830f-d158051a36bd",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

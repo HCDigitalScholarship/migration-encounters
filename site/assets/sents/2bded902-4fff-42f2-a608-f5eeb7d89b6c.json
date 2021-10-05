@@ -1,0 +1,13 @@
+{
+  "start":20812,
+  "end":20846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Which terms and conditions?",
+  "id":"2bded902-4fff-42f2-a608-f5eeb7d89b6c",
+  "params":{
+    "id":"2bded902-4fff-42f2-a608-f5eeb7d89b6c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23434,
+  "end":23483,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People would\n   treat me like you were the worst.",
+  "id":"b2fba540-4ea6-4c64-afa9-1037eb7ec9b9",
+  "params":{
+    "id":"b2fba540-4ea6-4c64-afa9-1037eb7ec9b9",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

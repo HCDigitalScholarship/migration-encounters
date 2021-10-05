@@ -1,0 +1,12 @@
+{
+  "start":7672,
+  "end":7718,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think Billy the Kid's story\n is pretty cool.",
+  "id":"209bdfd9-0c1c-4b92-94e8-ff15b243728b",
+  "params":{
+    "id":"4a0ee277-3c12-42e8-aab3-fc36e75c0af0"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10012,
+  "end":10102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So yeah, I would not say that\n it's comfortable being undocumented and needing healthcare.",
+  "id":"53a9b384-d745-42f1-bb3b-852d3d9738af",
+  "params":{
+    "id":"63721a78-525e-4ab8-b429-7789be33175c"
+  },
+  "name":"Ana"
+}

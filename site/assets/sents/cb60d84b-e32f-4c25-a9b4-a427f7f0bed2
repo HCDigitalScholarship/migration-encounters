@@ -1,0 +1,12 @@
+{
+  "start":43235,
+  "end":43257,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hated her\n   friend.",
+  "id":"cb60d84b-e32f-4c25-a9b4-a427f7f0bed2",
+  "params":{
+    "id":"b254db47-38b0-46c8-965f-3efcd3e53b1a"
+  },
+  "name":"Mike"
+}

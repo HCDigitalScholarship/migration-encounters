@@ -1,0 +1,13 @@
+{
+  "start":8403,
+  "end":8444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Ivan: Abigail, Aubrey and Austin.",
+  "id":"7b2b46a7-24b8-44ee-9442-127167916a2f",
+  "params":{
+    "id":"7b2b46a7-24b8-44ee-9442-127167916a2f",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

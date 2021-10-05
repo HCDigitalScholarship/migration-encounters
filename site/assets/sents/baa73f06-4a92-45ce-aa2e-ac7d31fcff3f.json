@@ -1,0 +1,13 @@
+{
+  "start":23248,
+  "end":23351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not that I really love to\n     cook, but I have to cook because I want a little bit of over there.",
+  "id":"baa73f06-4a92-45ce-aa2e-ac7d31fcff3f",
+  "params":{
+    "id":"baa73f06-4a92-45ce-aa2e-ac7d31fcff3f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

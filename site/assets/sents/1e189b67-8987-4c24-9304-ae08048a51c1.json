@@ -1,0 +1,12 @@
+{
+  "start":31386,
+  "end":31442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just wake up to come to work\n   and not do anything.",
+  "id":"1e189b67-8987-4c24-9304-ae08048a51c1",
+  "params":{
+    "id":"759fd207-b61f-4ec4-a85d-01761d952e51"
+  },
+  "name":"Carlos"
+}

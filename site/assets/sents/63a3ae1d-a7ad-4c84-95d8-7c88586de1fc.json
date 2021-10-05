@@ -1,0 +1,13 @@
+{
+  "start":4865,
+  "end":4910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know when somebody knows where they live?",
+  "id":"63a3ae1d-a7ad-4c84-95d8-7c88586de1fc",
+  "params":{
+    "id":"63a3ae1d-a7ad-4c84-95d8-7c88586de1fc",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

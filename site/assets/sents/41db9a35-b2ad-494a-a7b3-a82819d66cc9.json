@@ -1,0 +1,13 @@
+{
+  "start":9044,
+  "end":9088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: In school, but not big, big trouble.",
+  "id":"41db9a35-b2ad-494a-a7b3-a82819d66cc9",
+  "params":{
+    "id":"41db9a35-b2ad-494a-a7b3-a82819d66cc9",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

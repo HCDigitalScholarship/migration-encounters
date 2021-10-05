@@ -1,0 +1,12 @@
+{
+  "start":30957,
+  "end":30999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Man, you're\n   screwed, dude.",
+  "id":"e9990396-008b-4fa3-b88d-32829369037b",
+  "params":{
+    "id":"358268ed-e704-44cc-a2f5-9095549ddb00"
+  },
+  "name":"Kevin"
+}

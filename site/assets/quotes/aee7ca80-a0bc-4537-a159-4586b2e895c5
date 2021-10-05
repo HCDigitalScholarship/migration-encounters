@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1029,
+  "end":1033,
+  "text":"nita: So you went to school? Until what grade did you go to school?\n \n \n   Ivan: I went until twelfth grade.\n \n \n   Anita: You finished high school?\n \n \n   Ivan: No.\n \n \n   Anita: Did you work in the U.S.?\n \n \n   Ivan: Yes, I did. I had a lot of jobs in the U.S.\n \n \n   Anita: What kind of jobs?\n \n \n   Ivan: Restaurant jobs. My last job was painting. I used to be a painter. I\n   used to paint houses, i",
+  "label":"GPE",
+  "id":"aee7ca80-a0bc-4537-a159-4586b2e895c5",
+  "name":"Ivan"
+}

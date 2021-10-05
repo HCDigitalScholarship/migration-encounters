@@ -1,0 +1,13 @@
+{
+  "start":17845,
+  "end":17855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was out.",
+  "id":"d3c10df7-ffdf-4027-95cc-ff869106c62b",
+  "params":{
+    "id":"d3c10df7-ffdf-4027-95cc-ff869106c62b",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

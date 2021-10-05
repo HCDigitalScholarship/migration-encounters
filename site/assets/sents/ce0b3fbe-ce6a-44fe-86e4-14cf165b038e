@@ -1,0 +1,12 @@
+{
+  "start":5723,
+  "end":5793,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad was carrying my sister and\n   I was grabbing onto my mom's hand",
+  "id":"ce0b3fbe-ce6a-44fe-86e4-14cf165b038e",
+  "params":{
+    "id":"ad074651-53d8-4383-8a18-6e738983207e"
+  },
+  "name":"Ruben"
+}

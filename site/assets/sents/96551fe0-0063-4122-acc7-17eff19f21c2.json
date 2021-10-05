@@ -1,0 +1,13 @@
+{
+  "start":4321,
+  "end":4376,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work in a call center and we\n   do technical support.",
+  "id":"96551fe0-0063-4122-acc7-17eff19f21c2",
+  "params":{
+    "id":"96551fe0-0063-4122-acc7-17eff19f21c2",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

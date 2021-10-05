@@ -1,0 +1,12 @@
+{
+  "start":2162,
+  "end":2189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were with your grandma.",
+  "id":"8e6f4636-3ad2-4c87-81e9-980bc84aacc1",
+  "params":{
+    "id":"5806b9b9-990e-4be3-9b02-7aa9abce574c"
+  },
+  "name":"Joana"
+}

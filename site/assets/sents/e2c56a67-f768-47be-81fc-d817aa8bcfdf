@@ -1,0 +1,12 @@
+{
+  "start":29203,
+  "end":29236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"How come you got all\n     this?\"",
+  "id":"e2c56a67-f768-47be-81fc-d817aa8bcfdf",
+  "params":{
+    "id":"a8ec6ee5-c4ca-418d-96fc-db920e0914b2"
+  },
+  "name":"Beto"
+}

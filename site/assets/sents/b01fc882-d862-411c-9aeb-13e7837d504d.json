@@ -1,0 +1,13 @@
+{
+  "start":27194,
+  "end":27279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was trying to make money so when she could come back, we would have\n   something.",
+  "id":"b01fc882-d862-411c-9aeb-13e7837d504d",
+  "params":{
+    "id":"b01fc882-d862-411c-9aeb-13e7837d504d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

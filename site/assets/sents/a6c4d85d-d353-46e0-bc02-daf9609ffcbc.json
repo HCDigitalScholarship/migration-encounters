@@ -1,0 +1,13 @@
+{
+  "start":9038,
+  "end":9133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have a lot of sports,\n   we have the art classes, and in Mexico we didn't have any of those.",
+  "id":"a6c4d85d-d353-46e0-bc02-daf9609ffcbc",
+  "params":{
+    "id":"a6c4d85d-d353-46e0-bc02-daf9609ffcbc",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

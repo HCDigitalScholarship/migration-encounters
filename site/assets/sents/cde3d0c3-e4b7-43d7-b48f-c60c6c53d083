@@ -1,0 +1,12 @@
+{
+  "start":1285,
+  "end":1300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   English.",
+  "id":"cde3d0c3-e4b7-43d7-b48f-c60c6c53d083",
+  "params":{
+    "id":"64567f9c-6be8-410f-9379-a7b8c32481a0"
+  },
+  "name":"Frank"
+}

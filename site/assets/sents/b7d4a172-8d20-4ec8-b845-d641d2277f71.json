@@ -1,0 +1,13 @@
+{
+  "start":29800,
+  "end":29825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What\n   if we got caught?",
+  "id":"b7d4a172-8d20-4ec8-b845-d641d2277f71",
+  "params":{
+    "id":"b7d4a172-8d20-4ec8-b845-d641d2277f71",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

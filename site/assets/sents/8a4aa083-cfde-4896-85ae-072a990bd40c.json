@@ -1,0 +1,13 @@
+{
+  "start":52499,
+  "end":52570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One, they're\n going to smell my breath, they're going to say I'm drunk.",
+  "id":"8a4aa083-cfde-4896-85ae-072a990bd40c",
+  "params":{
+    "id":"8a4aa083-cfde-4896-85ae-072a990bd40c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18001,
+  "end":18052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Fue algo\n     que ni a mi peor enemigo se lo deseo.",
+  "id":"af691d84-ce1d-4f9e-a73d-997879513642",
+  "params":{
+    "id":"14f574c0-c6e0-4497-b933-64d63a4cd8aa"
+  },
+  "name":"Maria"
+}

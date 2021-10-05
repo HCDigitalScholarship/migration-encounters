@@ -1,0 +1,13 @@
+{
+  "start":8560,
+  "end":8638,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People know that obviously we get some\n decent money because we speak English.",
+  "id":"ecb4aba1-0d61-4da1-807f-f4ec6526cce9",
+  "params":{
+    "id":"ecb4aba1-0d61-4da1-807f-f4ec6526cce9",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

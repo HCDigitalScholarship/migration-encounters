@@ -1,0 +1,13 @@
+{
+  "start":23103,
+  "end":23198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the end, I think they still didn't care but I think the heat\n got turned up and they started",
+  "id":"e0ef3b70-7630-4bac-96e6-7f62e212e5cb",
+  "params":{
+    "id":"e0ef3b70-7630-4bac-96e6-7f62e212e5cb",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

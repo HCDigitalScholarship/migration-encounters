@@ -1,0 +1,12 @@
+{
+  "start":11476,
+  "end":11522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whenever\nsomething happened, you have to jump.",
+  "id":"915b8961-e1c4-488e-b5eb-bf3a93665bd3",
+  "params":{
+    "id":"065d1312-64cc-45b6-a730-58cbb51c5961"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7900,
+  "end":7919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got deported",
+  "id":"8c5849af-0471-4330-bfb8-3e3764a5f3c2",
+  "params":{
+    "id":"51aa15f3-024f-4c15-90bd-3976993c4917"
+  },
+  "name":"Noe"
+}

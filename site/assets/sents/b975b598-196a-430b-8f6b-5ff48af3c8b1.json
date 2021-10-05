@@ -1,0 +1,13 @@
+{
+  "start":19542,
+  "end":19576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That pretty much pulled me\n   out.",
+  "id":"b975b598-196a-430b-8f6b-5ff48af3c8b1",
+  "params":{
+    "id":"b975b598-196a-430b-8f6b-5ff48af3c8b1",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

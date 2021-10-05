@@ -1,0 +1,13 @@
+{
+  "start":27248,
+  "end":27279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: What are you doing now?",
+  "id":"2e73b304-be99-477b-a157-10b1ec9f5204",
+  "params":{
+    "id":"2e73b304-be99-477b-a157-10b1ec9f5204",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

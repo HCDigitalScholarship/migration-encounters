@@ -1,0 +1,12 @@
+{
+  "start":29993,
+  "end":30046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They will be like,\n   \"Hey Ruben, I got this problem.",
+  "id":"7cd4c61f-c98c-4807-b72a-52a661a18801",
+  "params":{
+    "id":"3880a75b-eb09-486c-8be1-5750042ba6c0"
+  },
+  "name":"Ruben"
+}

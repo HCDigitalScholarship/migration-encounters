@@ -1,0 +1,13 @@
+{
+  "start":14805,
+  "end":14863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, when I tried to get out,\n   they told me I couldn't.",
+  "id":"c3904aef-b4c2-4133-9988-12d42086ccf9",
+  "params":{
+    "id":"c3904aef-b4c2-4133-9988-12d42086ccf9",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

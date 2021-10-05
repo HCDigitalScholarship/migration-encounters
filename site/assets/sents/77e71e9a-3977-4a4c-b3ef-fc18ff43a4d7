@@ -1,0 +1,12 @@
+{
+  "start":11270,
+  "end":11278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Stopped.",
+  "id":"77e71e9a-3977-4a4c-b3ef-fc18ff43a4d7",
+  "params":{
+    "id":"3bde7323-b815-4ae3-a79d-bd84a307765b"
+  },
+  "name":"Edgar"
+}

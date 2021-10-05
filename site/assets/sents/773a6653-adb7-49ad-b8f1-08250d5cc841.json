@@ -1,0 +1,13 @@
+{
+  "start":19563,
+  "end":19642,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to do\n   something with my life, and I don't want to ruin it for a drug.",
+  "id":"773a6653-adb7-49ad-b8f1-08250d5cc841",
+  "params":{
+    "id":"773a6653-adb7-49ad-b8f1-08250d5cc841",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3871,
+  "end":3902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really just started relaxing.",
+  "id":"efd2d4af-4fc7-4868-8baf-0fefe3b96015",
+  "params":{
+    "id":"9417434c-cddb-4a2b-bf16-783ad9db91cf"
+  },
+  "name":"Kevin"
+}

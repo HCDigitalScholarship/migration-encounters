@@ -1,0 +1,12 @@
+{
+  "start":34763,
+  "end":34782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something new.",
+  "id":"b1e9d260-24c2-410f-a3bb-9ccfe74be4b3",
+  "params":{
+    "id":"0cc3550e-cbb4-4036-aa09-90bba492d375"
+  },
+  "name":"Rodrigo"
+}

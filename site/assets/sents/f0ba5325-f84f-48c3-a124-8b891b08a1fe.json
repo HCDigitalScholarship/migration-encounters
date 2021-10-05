@@ -1,0 +1,13 @@
+{
+  "start":11015,
+  "end":11036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you like the hogs?",
+  "id":"f0ba5325-f84f-48c3-a124-8b891b08a1fe",
+  "params":{
+    "id":"f0ba5325-f84f-48c3-a124-8b891b08a1fe",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

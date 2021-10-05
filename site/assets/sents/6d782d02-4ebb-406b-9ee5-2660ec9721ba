@@ -1,0 +1,12 @@
+{
+  "start":8037,
+  "end":8092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just talked to her recently because I never knew why.",
+  "id":"6d782d02-4ebb-406b-9ee5-2660ec9721ba",
+  "params":{
+    "id":"58236cad-041d-4570-85bc-fe3987ddabeb"
+  },
+  "name":"Valeria"
+}

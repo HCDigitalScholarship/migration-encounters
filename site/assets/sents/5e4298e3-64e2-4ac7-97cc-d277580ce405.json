@@ -1,0 +1,13 @@
+{
+  "start":18142,
+  "end":18210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My friends, their families would\n   kick them out when they were 13.",
+  "id":"5e4298e3-64e2-4ac7-97cc-d277580ce405",
+  "params":{
+    "id":"5e4298e3-64e2-4ac7-97cc-d277580ce405",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

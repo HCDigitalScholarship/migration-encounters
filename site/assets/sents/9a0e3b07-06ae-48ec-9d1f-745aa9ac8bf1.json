@@ -1,0 +1,13 @@
+{
+  "start":39759,
+  "end":39816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"But\n     you have to have a certificate to back you up?\"",
+  "id":"9a0e3b07-06ae-48ec-9d1f-745aa9ac8bf1",
+  "params":{
+    "id":"9a0e3b07-06ae-48ec-9d1f-745aa9ac8bf1",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

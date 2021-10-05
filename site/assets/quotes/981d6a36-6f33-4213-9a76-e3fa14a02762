@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":2936,
+  "end":2940,
+  "text":"ssession of?\n \n \n   Ivan: Of drugs.\n \n \n   Anita: Of drugs?\n \n \n   Ivan: Yes.\n \n \n   Anita: Is that a misdemeanor?\n \n \n   Ivan: Yes. Well it was kind of, yeah.\n \n \n   Anita: Were you detained?\n \n \n   Ivan: Yes, I was detained.\n \n \n   Anita: For how long?\n \n \n   Ivan: The first time I was detained for maybe about six, seven months. The\n   second time I was detained for almost a year.\n \n \n   Anita: In i",
+  "label":"PERSON",
+  "id":"981d6a36-6f33-4213-9a76-e3fa14a02762",
+  "name":"Ivan"
+}

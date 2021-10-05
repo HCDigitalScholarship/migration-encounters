@@ -1,0 +1,12 @@
+{
+  "start":161,
+  "end":293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was nine years old when I left Mexico to go to the United States\n   and basically left to reunite with my dad, who had left first.",
+  "id":"1db5a2ac-03b8-4d0f-94b8-7025d23339e2",
+  "params":{
+    "id":"0db9399f-270a-42ad-b77f-ca995c41d845"
+  },
+  "name":"Ilse"
+}

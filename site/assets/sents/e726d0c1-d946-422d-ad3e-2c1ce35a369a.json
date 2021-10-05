@@ -1,0 +1,13 @@
+{
+  "start":42858,
+  "end":42881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a little bit hard.",
+  "id":"e726d0c1-d946-422d-ad3e-2c1ce35a369a",
+  "params":{
+    "id":"e726d0c1-d946-422d-ad3e-2c1ce35a369a",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

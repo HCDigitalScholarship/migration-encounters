@@ -1,0 +1,13 @@
+{
+  "start":6723,
+  "end":6792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   In the U.S., I have the option to say, \u201cI\u2019m going to pay my rent.",
+  "id":"570d4f11-7656-4bb8-a8bb-4445b5103e00",
+  "params":{
+    "id":"570d4f11-7656-4bb8-a8bb-4445b5103e00",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26573,
+  "end":26592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was an equation.",
+  "id":"dc2e161c-7649-4820-b5c5-3aa391b3a1f4",
+  "params":{
+    "id":"dc2e161c-7649-4820-b5c5-3aa391b3a1f4",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

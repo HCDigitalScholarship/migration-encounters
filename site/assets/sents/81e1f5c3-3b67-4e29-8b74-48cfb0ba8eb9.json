@@ -1,0 +1,13 @@
+{
+  "start":50968,
+  "end":51001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Los asaltos, yo tuve dos asaltos.",
+  "id":"81e1f5c3-3b67-4e29-8b74-48cfb0ba8eb9",
+  "params":{
+    "id":"81e1f5c3-3b67-4e29-8b74-48cfb0ba8eb9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

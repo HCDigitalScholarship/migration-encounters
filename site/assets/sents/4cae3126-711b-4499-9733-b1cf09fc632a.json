@@ -1,0 +1,13 @@
+{
+  "start":8328,
+  "end":8360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   graduate because ...",
+  "id":"4cae3126-711b-4499-9733-b1cf09fc632a",
+  "params":{
+    "id":"4cae3126-711b-4499-9733-b1cf09fc632a",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

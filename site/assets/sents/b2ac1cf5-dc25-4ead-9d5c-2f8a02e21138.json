@@ -1,0 +1,13 @@
+{
+  "start":27126,
+  "end":27215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once I got into prison, got my lawyer,\n there was a pretty good chance of me fighting it.",
+  "id":"b2ac1cf5-dc25-4ead-9d5c-2f8a02e21138",
+  "params":{
+    "id":"b2ac1cf5-dc25-4ead-9d5c-2f8a02e21138",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

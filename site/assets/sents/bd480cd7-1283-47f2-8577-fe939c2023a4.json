@@ -1,0 +1,13 @@
+{
+  "start":10366,
+  "end":10410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   actually did eight months with federal.",
+  "id":"bd480cd7-1283-47f2-8577-fe939c2023a4",
+  "params":{
+    "id":"bd480cd7-1283-47f2-8577-fe939c2023a4",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

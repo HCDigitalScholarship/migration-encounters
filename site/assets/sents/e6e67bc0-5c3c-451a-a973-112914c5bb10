@@ -1,0 +1,12 @@
+{
+  "start":9000,
+  "end":9001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d",
+  "id":"e6e67bc0-5c3c-451a-a973-112914c5bb10",
+  "params":{
+    "id":"97f2d3c4-6ed9-40df-acd7-30bddb2eb4bf"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6180,
+  "end":6244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Still to this day, there are a few\n   words that she cannot say.",
+  "id":"b2be888f-b4f5-4527-aed4-3d61f9d97393",
+  "params":{
+    "id":"b2be888f-b4f5-4527-aed4-3d61f9d97393",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

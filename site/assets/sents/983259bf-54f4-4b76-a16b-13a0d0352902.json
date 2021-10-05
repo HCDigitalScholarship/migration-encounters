@@ -1,0 +1,13 @@
+{
+  "start":28028,
+  "end":28055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can have a new\n   life.",
+  "id":"983259bf-54f4-4b76-a16b-13a0d0352902",
+  "params":{
+    "id":"983259bf-54f4-4b76-a16b-13a0d0352902",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

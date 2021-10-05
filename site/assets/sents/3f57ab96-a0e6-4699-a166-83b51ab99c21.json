@@ -1,0 +1,13 @@
+{
+  "start":3138,
+  "end":3161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want\n   to stay?",
+  "id":"3f57ab96-a0e6-4699-a166-83b51ab99c21",
+  "params":{
+    "id":"3f57ab96-a0e6-4699-a166-83b51ab99c21",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

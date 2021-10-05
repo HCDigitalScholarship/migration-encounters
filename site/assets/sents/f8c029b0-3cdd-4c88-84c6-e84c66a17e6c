@@ -1,0 +1,12 @@
+{
+  "start":71624,
+  "end":71648,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to go\n   bowling.",
+  "id":"f8c029b0-3cdd-4c88-84c6-e84c66a17e6c",
+  "params":{
+    "id":"95214cd0-33d0-4af9-a454-0a9198397462"
+  },
+  "name":"Daniel B"
+}

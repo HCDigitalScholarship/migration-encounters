@@ -1,0 +1,13 @@
+{
+  "start":25069,
+  "end":25092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We need to deport him.\"",
+  "id":"3ca7a9d3-ebce-42a9-85cf-2f9e0f44283c",
+  "params":{
+    "id":"3ca7a9d3-ebce-42a9-85cf-2f9e0f44283c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

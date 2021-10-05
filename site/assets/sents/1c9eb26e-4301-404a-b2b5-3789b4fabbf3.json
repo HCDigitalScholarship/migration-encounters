@@ -1,0 +1,15 @@
+{
+  "start":1792,
+  "end":1918,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Basically with all my information, they were telling\n   me that because my immigration status, I cannot go to the White House.",
+  "id":"1c9eb26e-4301-404a-b2b5-3789b4fabbf3",
+  "params":{
+    "id":"1c9eb26e-4301-404a-b2b5-3789b4fabbf3",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7339,
+  "end":7399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the same bus but it's one way and then one way\n back.",
+  "id":"b3e71cde-bf55-4b02-bbe2-5b88c223a4d6",
+  "params":{
+    "id":"0b56c79d-d93f-4c6c-a059-2e516b27fca0"
+  },
+  "name":"Brenda"
+}

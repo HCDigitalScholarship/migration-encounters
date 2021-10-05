@@ -1,0 +1,13 @@
+{
+  "start":2620,
+  "end":2652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about that a little bit.",
+  "id":"e946f654-d820-43b7-afb8-dc610c257b2a",
+  "params":{
+    "id":"e946f654-d820-43b7-afb8-dc610c257b2a",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

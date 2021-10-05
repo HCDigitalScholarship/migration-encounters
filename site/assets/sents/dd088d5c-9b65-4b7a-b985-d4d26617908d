@@ -1,0 +1,12 @@
+{
+  "start":15724,
+  "end":15787,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's cake, there's a lot of\n   food in there, and it's free.",
+  "id":"dd088d5c-9b65-4b7a-b985-d4d26617908d",
+  "params":{
+    "id":"02ab29ce-9897-483c-8ada-fdc8cc645368"
+  },
+  "name":"Noe"
+}

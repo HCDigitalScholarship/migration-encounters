@@ -1,0 +1,13 @@
+{
+  "start":23735,
+  "end":23823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There\n   were people that were just pulled over because they didn't have a\n   taillight.",
+  "id":"e153cc86-d7db-4ab8-93fb-ae5115acc80f",
+  "params":{
+    "id":"e153cc86-d7db-4ab8-93fb-ae5115acc80f",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

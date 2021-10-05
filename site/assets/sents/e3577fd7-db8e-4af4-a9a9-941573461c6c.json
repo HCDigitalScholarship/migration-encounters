@@ -1,0 +1,13 @@
+{
+  "start":11355,
+  "end":11392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that, I went\n   to immigration.",
+  "id":"e3577fd7-db8e-4af4-a9a9-941573461c6c",
+  "params":{
+    "id":"e3577fd7-db8e-4af4-a9a9-941573461c6c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

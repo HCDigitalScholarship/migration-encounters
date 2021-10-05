@@ -1,0 +1,13 @@
+{
+  "start":8585,
+  "end":8596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Chuckles].",
+  "id":"c0da05bd-d72e-46b3-97f2-c54991980ae6",
+  "params":{
+    "id":"c0da05bd-d72e-46b3-97f2-c54991980ae6",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

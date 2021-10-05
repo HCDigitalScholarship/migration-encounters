@@ -1,0 +1,12 @@
+{
+  "start":27940,
+  "end":27964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you been depressed?",
+  "id":"2da573a9-6a2c-44a3-b92d-ccfb4e52dbcc",
+  "params":{
+    "id":"07169a7a-232b-424f-8b32-3650495a9f20"
+  },
+  "name":"Melani"
+}

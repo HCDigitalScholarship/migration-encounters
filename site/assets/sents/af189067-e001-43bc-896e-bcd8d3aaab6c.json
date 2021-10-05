@@ -1,0 +1,13 @@
+{
+  "start":11161,
+  "end":11191,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when I got\n up to Akron though",
+  "id":"af189067-e001-43bc-896e-bcd8d3aaab6c",
+  "params":{
+    "id":"af189067-e001-43bc-896e-bcd8d3aaab6c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

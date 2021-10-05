@@ -1,0 +1,13 @@
+{
+  "start":10247,
+  "end":10294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yeah, I'm with Daniel and I'm with\n   Daniel.\"",
+  "id":"91786491-000b-486f-8c09-b967dde09d2f",
+  "params":{
+    "id":"91786491-000b-486f-8c09-b967dde09d2f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

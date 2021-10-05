@@ -1,0 +1,13 @@
+{
+  "start":61512,
+  "end":61580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n lot of my stuff and...\n      \n      \n Anne: Oh, to get the drugs.",
+  "id":"a49ca9f1-139a-42c6-9441-e7ad0d2d5945",
+  "params":{
+    "id":"a49ca9f1-139a-42c6-9441-e7ad0d2d5945",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

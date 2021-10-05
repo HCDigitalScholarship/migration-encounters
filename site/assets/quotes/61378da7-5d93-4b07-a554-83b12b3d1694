@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":20047,
+  "end":20054,
+  "text":"ner. Really mind blowing.\n \n \n   Anita: The book helps you resolve issues?\n \n \n   Donovan: Yeah. It's really, really good. I really recommend it.\n \n \n   Anita: It's called The Four Agreements?\n \n \n   Donovan: Let let me see the... [Pause] This is my app that I'd made\n   recently. The app that I did right here was to help my little girls here\n   learn English. I have a Yandex API. Where did it go? I think",
+  "label":"PERSON",
+  "id":"61378da7-5d93-4b07-a554-83b12b3d1694",
+  "name":"Donovan"
+}

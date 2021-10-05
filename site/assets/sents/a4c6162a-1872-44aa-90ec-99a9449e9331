@@ -1,0 +1,12 @@
+{
+  "start":18559,
+  "end":18633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hopefully the ICE agents were taking\n   care of you until you got to them.",
+  "id":"a4c6162a-1872-44aa-90ec-99a9449e9331",
+  "params":{
+    "id":"ad7c33be-9f6e-4abd-bf65-b36a8ff6498a"
+  },
+  "name":"Carlos"
+}

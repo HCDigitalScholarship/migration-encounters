@@ -1,0 +1,13 @@
+{
+  "start":1791,
+  "end":1895,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They couldn't really give\n   her medical treatment, but they just helped her get back across the border.",
+  "id":"622bc15c-ea0a-438f-8ac5-7acdfd3555f1",
+  "params":{
+    "id":"622bc15c-ea0a-438f-8ac5-7acdfd3555f1",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

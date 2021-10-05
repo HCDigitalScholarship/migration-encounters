@@ -1,0 +1,13 @@
+{
+  "start":2329,
+  "end":2345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n school there",
+  "id":"31225245-11be-4329-adb4-47d68d03f12c",
+  "params":{
+    "id":"31225245-11be-4329-adb4-47d68d03f12c",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

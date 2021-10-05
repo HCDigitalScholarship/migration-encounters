@@ -1,0 +1,13 @@
+{
+  "start":6506,
+  "end":6533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have a favorite one?",
+  "id":"b97e3fbb-ae0b-4917-a35c-e8c618372832",
+  "params":{
+    "id":"b97e3fbb-ae0b-4917-a35c-e8c618372832",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

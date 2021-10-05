@@ -1,0 +1,12 @@
+{
+  "start":12006,
+  "end":12011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay.",
+  "id":"c6d14cf6-39b8-408a-8921-a81eb9026220",
+  "params":{
+    "id":"bc26dc1a-bb0f-4522-ac60-5f50033e51ab"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11822,
+  "end":11884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to go see my counselor\nand I was like, \"Hey, what's up?",
+  "id":"e0911da6-c4b9-4aa5-9018-2d8b7f14b15c",
+  "params":{
+    "id":"e0911da6-c4b9-4aa5-9018-2d8b7f14b15c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

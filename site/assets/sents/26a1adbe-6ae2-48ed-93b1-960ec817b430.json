@@ -1,0 +1,13 @@
+{
+  "start":22042,
+  "end":22083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's the first one in his high\n   school.",
+  "id":"26a1adbe-6ae2-48ed-93b1-960ec817b430",
+  "params":{
+    "id":"26a1adbe-6ae2-48ed-93b1-960ec817b430",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24459,
+  "end":24540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   says, \"If I cannot find something wrong with you, I'm going to release you.",
+  "id":"80331cdf-5518-4567-9758-67e0ffc0f343",
+  "params":{
+    "id":"a9ec8f42-0f07-4a69-a090-97c8efb17c72"
+  },
+  "name":"Daniel B"
+}

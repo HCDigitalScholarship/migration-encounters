@@ -1,0 +1,13 @@
+{
+  "start":3420,
+  "end":3494,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   got married with her mom\u2019s permission because she can\u2019t get married.",
+  "id":"a428b7d4-31fc-477b-bf58-27a174d44c2d",
+  "params":{
+    "id":"a428b7d4-31fc-477b-bf58-27a174d44c2d",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":49952,
+  "end":50049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was telling me it was 3,500, but the landlord was\n   keeping 2,500 and giving him 1,000 of it.",
+  "id":"2d0ade05-bc01-48d2-b91f-0111f37eef0d",
+  "params":{
+    "id":"ffe17056-0aa3-4f65-82fe-79c59af227d1"
+  },
+  "name":"Mike"
+}

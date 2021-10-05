@@ -1,0 +1,13 @@
+{
+  "start":58436,
+  "end":58452,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom, she did.",
+  "id":"ff48e2b6-a834-40de-9ec7-b0afcd603d55",
+  "params":{
+    "id":"ff48e2b6-a834-40de-9ec7-b0afcd603d55",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

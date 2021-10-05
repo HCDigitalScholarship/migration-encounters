@@ -1,0 +1,12 @@
+{
+  "start":10365,
+  "end":10389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She lives with your mom?",
+  "id":"f9070baa-dde1-4ad3-9bd2-cb2572c9f0dd",
+  "params":{
+    "id":"498df668-aaff-4312-98e9-4bb8ebd7d1f3"
+  },
+  "name":"Jose"
+}

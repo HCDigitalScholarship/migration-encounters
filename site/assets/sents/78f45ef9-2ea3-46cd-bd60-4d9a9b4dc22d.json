@@ -1,0 +1,13 @@
+{
+  "start":33622,
+  "end":33654,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever it\n   was, I needed it.",
+  "id":"78f45ef9-2ea3-46cd-bd60-4d9a9b4dc22d",
+  "params":{
+    "id":"78f45ef9-2ea3-46cd-bd60-4d9a9b4dc22d",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

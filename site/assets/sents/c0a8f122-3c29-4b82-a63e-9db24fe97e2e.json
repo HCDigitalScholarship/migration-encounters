@@ -1,0 +1,13 @@
+{
+  "start":3096,
+  "end":3162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have contact with your dad when you were in the\n   States?",
+  "id":"c0a8f122-3c29-4b82-a63e-9db24fe97e2e",
+  "params":{
+    "id":"c0a8f122-3c29-4b82-a63e-9db24fe97e2e",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

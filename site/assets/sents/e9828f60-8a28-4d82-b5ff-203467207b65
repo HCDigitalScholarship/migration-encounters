@@ -1,0 +1,12 @@
+{
+  "start":6355,
+  "end":6405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So if I do anything\n   wrong, I will be sent back.",
+  "id":"e9828f60-8a28-4d82-b5ff-203467207b65",
+  "params":{
+    "id":"25ce66f5-e3b7-4e50-aa69-383849e7d896"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6879,
+  "end":6896,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was not a lot.",
+  "id":"a31a5cc3-f072-4b61-b10d-b1fc491f43d1",
+  "params":{
+    "id":"a31a5cc3-f072-4b61-b10d-b1fc491f43d1",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

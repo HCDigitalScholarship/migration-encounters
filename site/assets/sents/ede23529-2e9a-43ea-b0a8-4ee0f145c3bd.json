@@ -1,0 +1,13 @@
+{
+  "start":17158,
+  "end":17186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want to stay with us?",
+  "id":"ede23529-2e9a-43ea-b0a8-4ee0f145c3bd",
+  "params":{
+    "id":"ede23529-2e9a-43ea-b0a8-4ee0f145c3bd",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

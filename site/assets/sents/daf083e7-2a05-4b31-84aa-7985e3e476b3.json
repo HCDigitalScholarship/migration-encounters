@@ -1,0 +1,13 @@
+{
+  "start":34481,
+  "end":34518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I worked at my job for five\n   years.",
+  "id":"daf083e7-2a05-4b31-84aa-7985e3e476b3",
+  "params":{
+    "id":"daf083e7-2a05-4b31-84aa-7985e3e476b3",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

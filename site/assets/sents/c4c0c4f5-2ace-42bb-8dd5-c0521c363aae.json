@@ -1,0 +1,15 @@
+{
+  "start":6988,
+  "end":7084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We know that\n   most people are scared of providing information to the government.\n \n \n   Frank:",
+  "id":"c4c0c4f5-2ace-42bb-8dd5-c0521c363aae",
+  "params":{
+    "id":"c4c0c4f5-2ace-42bb-8dd5-c0521c363aae",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

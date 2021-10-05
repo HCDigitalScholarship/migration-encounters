@@ -1,0 +1,12 @@
+{
+  "start":10960,
+  "end":11037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of those texture machines, the price tag at that time was\n about $30,000.",
+  "id":"19e34833-204a-4018-b2c3-e02e17395438",
+  "params":{
+    "id":"30245a44-172f-473e-a63d-65e841a341d2"
+  },
+  "name":"Ben"
+}

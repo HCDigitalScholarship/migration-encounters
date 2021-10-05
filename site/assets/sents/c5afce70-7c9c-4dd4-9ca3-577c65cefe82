@@ -1,0 +1,12 @@
+{
+  "start":23542,
+  "end":23623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n So they gave me the taxi pass, I went home, nobody showed up the next\n morning.",
+  "id":"c5afce70-7c9c-4dd4-9ca3-577c65cefe82",
+  "params":{
+    "id":"b2bd5848-bb53-4a33-b2da-a071f71d6af7"
+  },
+  "name":"Angelo"
+}

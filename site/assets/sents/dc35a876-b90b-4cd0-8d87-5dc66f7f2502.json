@@ -1,0 +1,13 @@
+{
+  "start":51322,
+  "end":51351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   know, I learned a lot.",
+  "id":"dc35a876-b90b-4cd0-8d87-5dc66f7f2502",
+  "params":{
+    "id":"dc35a876-b90b-4cd0-8d87-5dc66f7f2502",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

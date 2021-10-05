@@ -1,0 +1,13 @@
+{
+  "start":15731,
+  "end":15788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I waited for a couple\n   of months, three months.",
+  "id":"d875159f-9fd2-45d3-9b98-d8586caf3e98",
+  "params":{
+    "id":"d875159f-9fd2-45d3-9b98-d8586caf3e98",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

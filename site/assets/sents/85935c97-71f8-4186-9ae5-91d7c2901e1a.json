@@ -1,0 +1,13 @@
+{
+  "start":29850,
+  "end":29861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're done.",
+  "id":"85935c97-71f8-4186-9ae5-91d7c2901e1a",
+  "params":{
+    "id":"85935c97-71f8-4186-9ae5-91d7c2901e1a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

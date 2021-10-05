@@ -1,0 +1,13 @@
+{
+  "start":29990,
+  "end":30029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n The transportation system here sucks.",
+  "id":"824488b6-2b05-49ad-8710-e7e1018b5348",
+  "params":{
+    "id":"824488b6-2b05-49ad-8710-e7e1018b5348",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

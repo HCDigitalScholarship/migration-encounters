@@ -1,0 +1,13 @@
+{
+  "start":78860,
+  "end":78892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do\n you plan on maintaining?",
+  "id":"adf45a31-4800-4a9f-a6fe-5ee4e0c3f145",
+  "params":{
+    "id":"adf45a31-4800-4a9f-a6fe-5ee4e0c3f145",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

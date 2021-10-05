@@ -1,0 +1,12 @@
+{
+  "start":18650,
+  "end":18670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you do that?",
+  "id":"045a2e38-ce0f-463a-bc36-fa26c31802fd",
+  "params":{
+    "id":"968de1ba-f2ac-4a6d-9127-b7a43a13f55a"
+  },
+  "name":"Miguel B"
+}

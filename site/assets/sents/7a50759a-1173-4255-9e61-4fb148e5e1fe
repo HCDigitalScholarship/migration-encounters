@@ -1,0 +1,12 @@
+{
+  "start":4797,
+  "end":4828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Which town in California?",
+  "id":"7a50759a-1173-4255-9e61-4fb148e5e1fe",
+  "params":{
+    "id":"3c382603-c810-4b1a-825b-ab491b7b2eec"
+  },
+  "name":"Laura A"
+}

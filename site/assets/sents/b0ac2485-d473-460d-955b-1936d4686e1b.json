@@ -1,0 +1,13 @@
+{
+  "start":14553,
+  "end":14606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My very, very first job\n   was in Wilmette, Illinois.",
+  "id":"b0ac2485-d473-460d-955b-1936d4686e1b",
+  "params":{
+    "id":"b0ac2485-d473-460d-955b-1936d4686e1b",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

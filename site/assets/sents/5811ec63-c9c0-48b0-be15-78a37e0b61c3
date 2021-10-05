@@ -1,0 +1,12 @@
+{
+  "start":46016,
+  "end":46051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's going to bring some issues up.",
+  "id":"5811ec63-c9c0-48b0-be15-78a37e0b61c3",
+  "params":{
+    "id":"04ef2fc0-bc6c-4e06-84ec-800596559297"
+  },
+  "name":"Mike"
+}

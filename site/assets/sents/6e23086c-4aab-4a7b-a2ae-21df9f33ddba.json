@@ -1,0 +1,13 @@
+{
+  "start":11110,
+  "end":11164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have any brothers and\n   sisters who live here?",
+  "id":"6e23086c-4aab-4a7b-a2ae-21df9f33ddba",
+  "params":{
+    "id":"6e23086c-4aab-4a7b-a2ae-21df9f33ddba",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9327,
+  "end":9425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if I have to talk to my supervisor and you need to\n     talk to him, but it has to be fixed.\"",
+  "id":"7fc1ff1d-1ff5-4177-b522-b8bd6049e7b5",
+  "params":{
+    "id":"7fc1ff1d-1ff5-4177-b522-b8bd6049e7b5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

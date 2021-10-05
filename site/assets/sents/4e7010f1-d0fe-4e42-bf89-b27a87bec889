@@ -1,0 +1,12 @@
+{
+  "start":50978,
+  "end":51007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This little LLC for\n   solar.",
+  "id":"4e7010f1-d0fe-4e42-bf89-b27a87bec889",
+  "params":{
+    "id":"3923bf55-8f59-46fd-8c30-e46822a5cafd"
+  },
+  "name":"Mike"
+}

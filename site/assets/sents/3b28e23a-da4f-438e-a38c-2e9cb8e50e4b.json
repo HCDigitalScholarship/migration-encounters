@@ -1,0 +1,13 @@
+{
+  "start":27224,
+  "end":27263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How\n     come you just put the answer?\"",
+  "id":"3b28e23a-da4f-438e-a38c-2e9cb8e50e4b",
+  "params":{
+    "id":"3b28e23a-da4f-438e-a38c-2e9cb8e50e4b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

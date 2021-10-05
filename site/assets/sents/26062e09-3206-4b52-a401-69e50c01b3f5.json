@@ -1,0 +1,13 @@
+{
+  "start":25318,
+  "end":25345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia: Yeah.\n \n \n   Ilse:",
+  "id":"26062e09-3206-4b52-a401-69e50c01b3f5",
+  "params":{
+    "id":"26062e09-3206-4b52-a401-69e50c01b3f5",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

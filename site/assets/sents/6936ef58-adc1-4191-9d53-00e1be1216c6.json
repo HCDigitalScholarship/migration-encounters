@@ -1,0 +1,13 @@
+{
+  "start":38565,
+  "end":38641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people, there's a lot of bad\n   people around here, too, sometimes, no?",
+  "id":"6936ef58-adc1-4191-9d53-00e1be1216c6",
+  "params":{
+    "id":"6936ef58-adc1-4191-9d53-00e1be1216c6",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

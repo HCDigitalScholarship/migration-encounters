@@ -1,0 +1,13 @@
+{
+  "start":25521,
+  "end":25534,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh okay, yes.",
+  "id":"d17ec817-5e37-43d9-bbef-eaacac9def36",
+  "params":{
+    "id":"d17ec817-5e37-43d9-bbef-eaacac9def36",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12652,
+  "end":12695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It just happened that\n   it's not the case.",
+  "id":"f10b7351-104d-4e27-9f85-83aedbdd7f8c",
+  "params":{
+    "id":"f10b7351-104d-4e27-9f85-83aedbdd7f8c",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

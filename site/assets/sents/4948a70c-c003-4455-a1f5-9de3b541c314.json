@@ -1,0 +1,13 @@
+{
+  "start":52172,
+  "end":52266,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y dijo, \u201cNo te preocupes\n     yo voy a estar aqu\u00ed contigo hasta que t\u00fa puedas tomar el metro\u201d,",
+  "id":"4948a70c-c003-4455-a1f5-9de3b541c314",
+  "params":{
+    "id":"4948a70c-c003-4455-a1f5-9de3b541c314",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

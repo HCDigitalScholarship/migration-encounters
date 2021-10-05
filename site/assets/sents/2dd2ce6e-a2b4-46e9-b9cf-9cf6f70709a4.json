@@ -1,0 +1,13 @@
+{
+  "start":6046,
+  "end":6087,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So she spent most of\n   her time working.",
+  "id":"2dd2ce6e-a2b4-46e9-b9cf-9cf6f70709a4",
+  "params":{
+    "id":"2dd2ce6e-a2b4-46e9-b9cf-9cf6f70709a4",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

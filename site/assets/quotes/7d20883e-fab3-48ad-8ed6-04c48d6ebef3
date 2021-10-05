@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":18000,
+  "end":18004,
+  "text":"ut?\n \n \n   Edgar: Yeah, yeah, yeah.\n \n \n   Anne: And they never got you? ICE never came to get you?\n \n \n   Edgar: No.\n \n \n   Anne: Were you a minor at the time?\n \n \n   Edgar: When I went to...\n \n \n   Anne: Jail.\n \n \n   Edgar: No. No, I was already 18. Yeah. No, if I was a minor, they would\n   have took me to juvie, I think.\n \n \n   Anne: Juvie, yeah.\n \n \n   Edgar: Juvie. Yeah. Yeah.\n \n \n   Anne: So it'",
+  "label":"PERSON",
+  "id":"7d20883e-fab3-48ad-8ed6-04c48d6ebef3",
+  "name":"Edgar"
+}

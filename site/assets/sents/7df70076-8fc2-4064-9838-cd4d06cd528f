@@ -1,0 +1,12 @@
+{
+  "start":15865,
+  "end":15877,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me how.",
+  "id":"7df70076-8fc2-4064-9838-cd4d06cd528f",
+  "params":{
+    "id":"24457b1a-6285-4df7-a352-03f073280feb"
+  },
+  "name":"Rocio"
+}

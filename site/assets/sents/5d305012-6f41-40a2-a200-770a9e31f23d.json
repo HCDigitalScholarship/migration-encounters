@@ -1,0 +1,13 @@
+{
+  "start":8978,
+  "end":9062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We never have a coffee and\n   start thinking about our problem, so we just act wild.",
+  "id":"5d305012-6f41-40a2-a200-770a9e31f23d",
+  "params":{
+    "id":"5d305012-6f41-40a2-a200-770a9e31f23d",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":50186,
+  "end":50228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody\n started a rumor I was in Canada.",
+  "id":"e8be37d6-dfb8-40e8-9529-da1b48159397",
+  "params":{
+    "id":"c58a3d4b-5720-447b-ab4d-f81d42e937a5"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":47300,
+  "end":47313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[to\n   Anita]",
+  "id":"f2b10289-a9a7-4b50-b686-325cc138de8d",
+  "params":{
+    "id":"f2b10289-a9a7-4b50-b686-325cc138de8d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

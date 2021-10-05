@@ -1,0 +1,13 @@
+{
+  "start":20758,
+  "end":20776,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I'm\nalive.",
+  "id":"b1c77a3d-bc95-4354-81c3-aaf731cf4375",
+  "params":{
+    "id":"b1c77a3d-bc95-4354-81c3-aaf731cf4375",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

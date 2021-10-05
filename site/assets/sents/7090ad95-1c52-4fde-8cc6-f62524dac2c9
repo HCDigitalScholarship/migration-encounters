@@ -1,0 +1,12 @@
+{
+  "start":40628,
+  "end":40689,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go to a supermarket, you\n know how many apples there are?",
+  "id":"7090ad95-1c52-4fde-8cc6-f62524dac2c9",
+  "params":{
+    "id":"1c01b7ca-7963-4ead-873e-0bb4c5245a01"
+  },
+  "name":"Jesus C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12630,
+  "end":12681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when I got out, I was kind of\ncourting her already.",
+  "id":"78e2c8ea-e2d3-4c04-93ba-597a28b895e0",
+  "params":{
+    "id":"78e2c8ea-e2d3-4c04-93ba-597a28b895e0",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

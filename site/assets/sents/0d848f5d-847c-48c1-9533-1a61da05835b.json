@@ -1,0 +1,13 @@
+{
+  "start":31322,
+  "end":31400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you been able to have these kinds of philosophical\n   conversations here?",
+  "id":"0d848f5d-847c-48c1-9533-1a61da05835b",
+  "params":{
+    "id":"0d848f5d-847c-48c1-9533-1a61da05835b",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

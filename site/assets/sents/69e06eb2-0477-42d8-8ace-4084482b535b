@@ -1,0 +1,12 @@
+{
+  "start":24539,
+  "end":24550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, really?",
+  "id":"69e06eb2-0477-42d8-8ace-4084482b535b",
+  "params":{
+    "id":"69a0047b-6190-4e91-8c13-5837a8d48076"
+  },
+  "name":"Edgar"
+}

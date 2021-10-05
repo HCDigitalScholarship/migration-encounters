@@ -1,0 +1,12 @@
+{
+  "start":14274,
+  "end":14302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I grew up with Harry Potter.",
+  "id":"0e3c3e89-e95c-4df4-8af5-5cee27d53387",
+  "params":{
+    "id":"b96c874c-072d-41fd-8419-b5d2659f0424"
+  },
+  "name":"Luisa"
+}

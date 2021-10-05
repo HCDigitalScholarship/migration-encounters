@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1544,
+  "end":1558,
+  "text":"a: Really?\n \n \n   Ivan: Yes.\n \n \n   Anita: You painted the Braves stadium?\n \n \n   Ivan: Yeah, I painted inside. With one of my bosses. We painted the inside\n   of that stadium. The hotel, it's called the Omni Hotel right now. Yes.\n \n \n   Anita: Wow. How many years did you work in the U.S.?\n \n \n   Ivan: Well, ever since I was fifteen or fourteen. My first job was at a\n   Rainforest Cafe, down in Arizona.\n \n \n   ",
+  "label":"ORG",
+  "id":"7e54cd71-f5f0-4c85-9f3a-72a67b4e66ac",
+  "name":"Ivan"
+}

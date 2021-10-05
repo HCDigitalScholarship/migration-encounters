@@ -1,0 +1,13 @@
+{
+  "start":20599,
+  "end":20662,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I'm sorry, but you have to\n   check the terms and conditions.\"",
+  "id":"53d93a42-5902-4bf8-b847-2bd7ae12d14a",
+  "params":{
+    "id":"53d93a42-5902-4bf8-b847-2bd7ae12d14a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

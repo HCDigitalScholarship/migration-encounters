@@ -1,0 +1,13 @@
+{
+  "start":32451,
+  "end":32530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n   everybody was like, \"Alexis, Alexis\"\u2014because his name is Eduardo Alexis.",
+  "id":"d0a317de-81d1-4836-8836-cde24cdc0d98",
+  "params":{
+    "id":"d0a317de-81d1-4836-8836-cde24cdc0d98",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

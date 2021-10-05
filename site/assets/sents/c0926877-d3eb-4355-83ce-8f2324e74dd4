@@ -1,0 +1,12 @@
+{
+  "start":16036,
+  "end":16125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   made me think that he was going to come and that didn't happen, but it's\n   okay.",
+  "id":"c0926877-d3eb-4355-83ce-8f2324e74dd4",
+  "params":{
+    "id":"f14920f6-a8f2-4c08-bac4-d6fb61ec8234"
+  },
+  "name":"Hugo"
+}

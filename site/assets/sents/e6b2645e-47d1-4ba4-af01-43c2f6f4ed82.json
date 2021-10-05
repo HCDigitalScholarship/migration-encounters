@@ -1,0 +1,13 @@
+{
+  "start":11340,
+  "end":11419,
+  "label":"SENT",
+  "type":"sent",
+  "text":", as soon as I closed the door, police was\n   there just waiting for me outside",
+  "id":"e6b2645e-47d1-4ba4-af01-43c2f6f4ed82",
+  "params":{
+    "id":"e6b2645e-47d1-4ba4-af01-43c2f6f4ed82",
+    "class":"anno"
+  },
+  "name":"Many"
+}

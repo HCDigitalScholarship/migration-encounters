@@ -1,0 +1,13 @@
+{
+  "start":12837,
+  "end":12870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We let them know, \"You know what?",
+  "id":"051eb79f-72b2-433e-b94d-3261e2d27b36",
+  "params":{
+    "id":"051eb79f-72b2-433e-b94d-3261e2d27b36",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

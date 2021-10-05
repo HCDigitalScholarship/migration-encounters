@@ -1,0 +1,13 @@
+{
+  "start":5900,
+  "end":5945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   would still go home from home to school.",
+  "id":"2d395da6-9409-4bf4-9d8b-27b39b748f90",
+  "params":{
+    "id":"2d395da6-9409-4bf4-9d8b-27b39b748f90",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

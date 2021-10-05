@@ -1,0 +1,12 @@
+{
+  "start":34545,
+  "end":34567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But here, they\n catch.",
+  "id":"129d8c03-1003-4b34-b154-7154156fb7e4",
+  "params":{
+    "id":"e89d054d-f945-4c4d-9a25-655fc233b1ff"
+  },
+  "name":"Ben"
+}

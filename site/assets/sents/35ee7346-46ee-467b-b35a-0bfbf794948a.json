@@ -1,0 +1,13 @@
+{
+  "start":28067,
+  "end":28096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is a secret and\u2014\n \n \n   ",
+  "id":"35ee7346-46ee-467b-b35a-0bfbf794948a",
+  "params":{
+    "id":"35ee7346-46ee-467b-b35a-0bfbf794948a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

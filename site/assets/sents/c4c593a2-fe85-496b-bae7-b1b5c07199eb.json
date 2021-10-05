@@ -1,0 +1,13 @@
+{
+  "start":3764,
+  "end":3794,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've never really\n   been a...",
+  "id":"c4c593a2-fe85-496b-bae7-b1b5c07199eb",
+  "params":{
+    "id":"c4c593a2-fe85-496b-bae7-b1b5c07199eb",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

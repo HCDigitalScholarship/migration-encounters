@@ -1,0 +1,13 @@
+{
+  "start":20159,
+  "end":20254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, do you feel like your time in the US has shaped the things that\n   you want here in Mexico?",
+  "id":"91dd9133-f03a-41bf-aa24-b20b139944e8",
+  "params":{
+    "id":"91dd9133-f03a-41bf-aa24-b20b139944e8",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

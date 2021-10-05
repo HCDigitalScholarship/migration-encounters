@@ -1,0 +1,13 @@
+{
+  "start":9227,
+  "end":9274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was in\n   Texas, I think; I don't even know.",
+  "id":"a1e358c2-456c-4206-84ec-098db3fd9fb7",
+  "params":{
+    "id":"a1e358c2-456c-4206-84ec-098db3fd9fb7",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

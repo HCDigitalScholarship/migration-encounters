@@ -1,0 +1,13 @@
+{
+  "start":21206,
+  "end":21250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm Anita, I'm the director of this project.",
+  "id":"7146ae75-d2c7-4a54-bdc3-9d66be3ea158",
+  "params":{
+    "id":"7146ae75-d2c7-4a54-bdc3-9d66be3ea158",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

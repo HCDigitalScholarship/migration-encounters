@@ -1,0 +1,12 @@
+{
+  "start":27401,
+  "end":27441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I passed all of them except for my math.",
+  "id":"1fc642b2-6801-423d-913b-4f5a915d1f21",
+  "params":{
+    "id":"e4fb9b33-80d9-47dc-875b-1e28755caddb"
+  },
+  "name":"Mike"
+}

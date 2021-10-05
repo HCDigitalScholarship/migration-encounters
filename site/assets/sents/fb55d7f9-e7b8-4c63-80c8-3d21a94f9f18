@@ -1,0 +1,12 @@
+{
+  "start":15560,
+  "end":15650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody says \u201cHello,\u201d \u201cGood morning,\u201d \u201cGood\n afternoon,\u201d when you come out of the house.",
+  "id":"fb55d7f9-e7b8-4c63-80c8-3d21a94f9f18",
+  "params":{
+    "id":"b518ce26-4ac1-4e69-8bf4-e4eb24132450"
+  },
+  "name":"Jesus C"
+}

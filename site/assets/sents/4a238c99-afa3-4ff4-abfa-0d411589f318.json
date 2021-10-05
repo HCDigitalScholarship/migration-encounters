@@ -1,0 +1,13 @@
+{
+  "start":48101,
+  "end":48152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, yeah, that's a really good explanation of it.",
+  "id":"4a238c99-afa3-4ff4-abfa-0d411589f318",
+  "params":{
+    "id":"4a238c99-afa3-4ff4-abfa-0d411589f318",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

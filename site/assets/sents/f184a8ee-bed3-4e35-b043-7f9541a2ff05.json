@@ -1,0 +1,13 @@
+{
+  "start":26780,
+  "end":26814,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But she moved to a different city.",
+  "id":"f184a8ee-bed3-4e35-b043-7f9541a2ff05",
+  "params":{
+    "id":"f184a8ee-bed3-4e35-b043-7f9541a2ff05",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

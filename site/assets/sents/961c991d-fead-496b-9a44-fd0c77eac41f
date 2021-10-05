@@ -1,0 +1,12 @@
+{
+  "start":32030,
+  "end":32049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And like, \"Just go.",
+  "id":"961c991d-fead-496b-9a44-fd0c77eac41f",
+  "params":{
+    "id":"2a3f0a16-bc66-4054-9940-6b32002f781d"
+  },
+  "name":"Daniel"
+}

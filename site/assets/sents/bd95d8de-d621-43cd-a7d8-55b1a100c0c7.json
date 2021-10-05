@@ -1,0 +1,13 @@
+{
+  "start":5897,
+  "end":5925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's going\n   to be my life.",
+  "id":"bd95d8de-d621-43cd-a7d8-55b1a100c0c7",
+  "params":{
+    "id":"bd95d8de-d621-43cd-a7d8-55b1a100c0c7",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

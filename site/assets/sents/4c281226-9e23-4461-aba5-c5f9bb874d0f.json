@@ -1,0 +1,13 @@
+{
+  "start":29898,
+  "end":29961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My defense has\n   always been like that, \"Yeah, okay, you too.\"",
+  "id":"4c281226-9e23-4461-aba5-c5f9bb874d0f",
+  "params":{
+    "id":"4c281226-9e23-4461-aba5-c5f9bb874d0f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

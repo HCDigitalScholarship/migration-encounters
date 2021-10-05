@@ -1,0 +1,13 @@
+{
+  "start":30732,
+  "end":30768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I've had it since I've been\nhere.",
+  "id":"b28d7dac-99af-4a33-85db-74b44fe5c687",
+  "params":{
+    "id":"b28d7dac-99af-4a33-85db-74b44fe5c687",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":85,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you just told me, Jesus, that you were a dreamer, that you got\n   DACA.",
+  "id":"78b69a98-61e8-45e7-9aa3-7c7a283ef42d",
+  "params":{
+    "id":"980a59c3-cf62-4728-9dd2-4f32dbeb3c97"
+  },
+  "name":"Jesus A"
+}

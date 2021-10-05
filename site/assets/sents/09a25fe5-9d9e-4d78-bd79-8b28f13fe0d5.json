@@ -1,0 +1,13 @@
+{
+  "start":17576,
+  "end":17628,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't ask for\n   water, because I didn't need it.",
+  "id":"09a25fe5-9d9e-4d78-bd79-8b28f13fe0d5",
+  "params":{
+    "id":"09a25fe5-9d9e-4d78-bd79-8b28f13fe0d5",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

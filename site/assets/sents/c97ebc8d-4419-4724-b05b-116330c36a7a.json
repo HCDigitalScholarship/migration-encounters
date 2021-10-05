@@ -1,0 +1,13 @@
+{
+  "start":9158,
+  "end":9176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to do that.",
+  "id":"c97ebc8d-4419-4724-b05b-116330c36a7a",
+  "params":{
+    "id":"c97ebc8d-4419-4724-b05b-116330c36a7a",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

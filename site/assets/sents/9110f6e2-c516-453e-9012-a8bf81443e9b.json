@@ -1,0 +1,12 @@
+{
+  "start":32815,
+  "end":32870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[you feel really cool, this\n   and that]\n \n \n   Jeimmy:",
+  "id":"9110f6e2-c516-453e-9012-a8bf81443e9b",
+  "params":{
+    "id":"60d323e0-9dd2-4212-8cc1-0899a4cf2d15"
+  },
+  "name":"Jeimmy"
+}

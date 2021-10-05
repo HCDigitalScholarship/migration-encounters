@@ -1,0 +1,12 @@
+{
+  "start":20239,
+  "end":20300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   just hear the gunshots and you just completely freeze.",
+  "id":"270daea7-87ba-4431-9c24-6231d0b5c68c",
+  "params":{
+    "id":"c802a246-af8b-47e2-b1fa-f57548b83b23"
+  },
+  "name":"Laila"
+}

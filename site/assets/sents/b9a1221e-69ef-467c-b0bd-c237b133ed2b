@@ -1,0 +1,12 @@
+{
+  "start":16775,
+  "end":16796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in\n   Arkansas.",
+  "id":"b9a1221e-69ef-467c-b0bd-c237b133ed2b",
+  "params":{
+    "id":"4528b575-42de-44fc-9753-859dd688eae0"
+  },
+  "name":"Sylent"
+}

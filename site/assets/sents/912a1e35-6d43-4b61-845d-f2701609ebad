@@ -1,0 +1,12 @@
+{
+  "start":20200,
+  "end":20342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So,\n   the only thing that I can do was\u2014I know how to drive\u2014one of my friends\n   offered me to work with him with a taxi and they gave me one.",
+  "id":"912a1e35-6d43-4b61-845d-f2701609ebad",
+  "params":{
+    "id":"a84062d1-754a-44ab-9734-1c151fd84af8"
+  },
+  "name":"Many"
+}

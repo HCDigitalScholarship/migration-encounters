@@ -1,0 +1,13 @@
+{
+  "start":6382,
+  "end":6424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know the jobs that you get over there.",
+  "id":"e7263473-fff5-48c4-8760-99c4dfdba887",
+  "params":{
+    "id":"e7263473-fff5-48c4-8760-99c4dfdba887",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

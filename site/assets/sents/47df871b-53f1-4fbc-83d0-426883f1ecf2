@@ -1,0 +1,12 @@
+{
+  "start":20569,
+  "end":20641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Bro,\n you're tripping, dude, doing this in front of me, man.\"",
+  "id":"47df871b-53f1-4fbc-83d0-426883f1ecf2",
+  "params":{
+    "id":"866c02de-6870-4b36-9c44-c8e041b6d89f"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":41576,
+  "end":41646,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say, \"Okay, next time, make sure you\n have your license with you.",
+  "id":"9bcbca85-4c3c-43f3-b7ac-2e10a3eff63a",
+  "params":{
+    "id":"9666fc3f-846c-4b26-ba59-7e0119a4c2f0"
+  },
+  "name":"Axel"
+}

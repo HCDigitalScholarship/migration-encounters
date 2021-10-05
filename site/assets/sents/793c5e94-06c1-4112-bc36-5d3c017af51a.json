@@ -1,0 +1,13 @@
+{
+  "start":3993,
+  "end":4026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I left, I was six years old.",
+  "id":"793c5e94-06c1-4112-bc36-5d3c017af51a",
+  "params":{
+    "id":"793c5e94-06c1-4112-bc36-5d3c017af51a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

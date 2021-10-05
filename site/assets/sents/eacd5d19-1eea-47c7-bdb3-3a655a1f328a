@@ -1,0 +1,12 @@
+{
+  "start":30239,
+  "end":30274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, that was actually very helpful.",
+  "id":"eacd5d19-1eea-47c7-bdb3-3a655a1f328a",
+  "params":{
+    "id":"2e00f37b-7261-47f3-a899-ac2a0b8255d6"
+  },
+  "name":"Joseph"
+}

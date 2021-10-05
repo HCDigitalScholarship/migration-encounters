@@ -1,0 +1,13 @@
+{
+  "start":10926,
+  "end":10962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had to redo\n   all of that stuff.",
+  "id":"03cbd0ef-d8e5-4691-aaf9-bfa071649b79",
+  "params":{
+    "id":"03cbd0ef-d8e5-4691-aaf9-bfa071649b79",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

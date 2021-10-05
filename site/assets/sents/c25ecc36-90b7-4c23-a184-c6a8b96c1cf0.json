@@ -1,0 +1,13 @@
+{
+  "start":4248,
+  "end":4282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never asked my parents about it.",
+  "id":"c25ecc36-90b7-4c23-a184-c6a8b96c1cf0",
+  "params":{
+    "id":"c25ecc36-90b7-4c23-a184-c6a8b96c1cf0",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

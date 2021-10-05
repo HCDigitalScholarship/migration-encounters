@@ -1,0 +1,13 @@
+{
+  "start":37091,
+  "end":37196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't have no background or anything that\n   says, \"Oh, you're a bad person, and you can't be here.\"",
+  "id":"a61d4de2-5f3a-4a37-ab84-f6b110a6e4e8",
+  "params":{
+    "id":"a61d4de2-5f3a-4a37-ab84-f6b110a6e4e8",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

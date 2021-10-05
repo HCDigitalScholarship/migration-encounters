@@ -1,0 +1,13 @@
+{
+  "start":23895,
+  "end":23907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s good.",
+  "id":"8a7ab3b3-218e-4cd7-a1d0-ed183731eb25",
+  "params":{
+    "id":"8a7ab3b3-218e-4cd7-a1d0-ed183731eb25",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

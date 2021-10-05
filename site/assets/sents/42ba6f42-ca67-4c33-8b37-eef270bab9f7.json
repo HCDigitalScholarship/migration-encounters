@@ -1,0 +1,13 @@
+{
+  "start":11003,
+  "end":11043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never applied because\n   I was scared.",
+  "id":"42ba6f42-ca67-4c33-8b37-eef270bab9f7",
+  "params":{
+    "id":"42ba6f42-ca67-4c33-8b37-eef270bab9f7",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

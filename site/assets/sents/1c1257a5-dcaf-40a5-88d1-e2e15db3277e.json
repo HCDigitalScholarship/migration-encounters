@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":69,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell us the circumstances of your coming to U.S.?",
+  "id":"1c1257a5-dcaf-40a5-88d1-e2e15db3277e",
+  "params":{
+    "id":"bc752098-df1a-4179-adf5-1c3367ebe9ec"
+  },
+  "name":"Laura B"
+}

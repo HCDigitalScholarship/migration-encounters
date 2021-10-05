@@ -1,0 +1,12 @@
+{
+  "start":21044,
+  "end":21100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   told him, \"No, you're not going to search the car.\"",
+  "id":"69aff47d-6e25-4c0f-84c3-ee79ab3f2da0",
+  "params":{
+    "id":"2e5f9d24-2749-4b15-9f92-893a4b8e7db8"
+  },
+  "name":"Daniel B"
+}

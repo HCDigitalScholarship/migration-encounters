@@ -1,0 +1,12 @@
+{
+  "start":40290,
+  "end":40357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My literature teacher was\n   extremely well known in the community.",
+  "id":"2cb1cf3d-4d0d-4893-80af-1041973856e0",
+  "params":{
+    "id":"bec09840-4648-49e6-8121-762be2be233c"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9250,
+  "end":9275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was eighteen-years-old.",
+  "id":"3274eeea-76ff-4595-9afd-403ed313a23c",
+  "params":{
+    "id":"3274eeea-76ff-4595-9afd-403ed313a23c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20243,
+  "end":20274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it sounds pretty intense.",
+  "id":"57204b2a-51c1-4efe-ac4a-0c87df7e1499",
+  "params":{
+    "id":"57204b2a-51c1-4efe-ac4a-0c87df7e1499",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

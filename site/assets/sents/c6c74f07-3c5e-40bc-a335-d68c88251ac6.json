@@ -1,0 +1,13 @@
+{
+  "start":1603,
+  "end":1663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Say I'd go pump gas, \"Oh, we don't\n   got no gas right now.\u201d",
+  "id":"c6c74f07-3c5e-40bc-a335-d68c88251ac6",
+  "params":{
+    "id":"c6c74f07-3c5e-40bc-a335-d68c88251ac6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

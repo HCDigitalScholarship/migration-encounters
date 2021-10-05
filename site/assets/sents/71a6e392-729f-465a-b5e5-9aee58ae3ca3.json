@@ -1,0 +1,13 @@
+{
+  "start":39667,
+  "end":39738,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I say, \u201cSe\u00f1ora que est\u00e1 hablando, alla hay un Gatorade atr\u00e1s\n de usted\u201d",
+  "id":"71a6e392-729f-465a-b5e5-9aee58ae3ca3",
+  "params":{
+    "id":"71a6e392-729f-465a-b5e5-9aee58ae3ca3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

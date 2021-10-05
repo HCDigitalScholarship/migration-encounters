@@ -1,0 +1,13 @@
+{
+  "start":6194,
+  "end":6220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Never liked turkey anyway.",
+  "id":"03a4c4e7-2fde-4ad9-b791-84026a65039d",
+  "params":{
+    "id":"03a4c4e7-2fde-4ad9-b791-84026a65039d",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

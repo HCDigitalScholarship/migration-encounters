@@ -1,0 +1,13 @@
+{
+  "start":33071,
+  "end":33125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So yeah, this is a ridiculous\u2014one thing after another!",
+  "id":"d3db2e79-571d-4cf8-b4fb-656a182a5074",
+  "params":{
+    "id":"d3db2e79-571d-4cf8-b4fb-656a182a5074",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8211,
+  "end":8265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I found out, I\n   was like around eight years old.",
+  "id":"0d4a9ab1-53f3-4e85-9a2e-8ac340fe521e",
+  "params":{
+    "id":"0d4a9ab1-53f3-4e85-9a2e-8ac340fe521e",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

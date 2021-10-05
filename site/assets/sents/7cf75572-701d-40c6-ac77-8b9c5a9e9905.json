@@ -1,0 +1,13 @@
+{
+  "start":15342,
+  "end":15404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   like, \"All right, well that makes no sense but okay.\"",
+  "id":"7cf75572-701d-40c6-ac77-8b9c5a9e9905",
+  "params":{
+    "id":"7cf75572-701d-40c6-ac77-8b9c5a9e9905",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

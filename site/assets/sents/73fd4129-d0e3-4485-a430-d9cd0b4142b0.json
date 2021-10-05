@@ -1,0 +1,13 @@
+{
+  "start":25470,
+  "end":25506,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzy: The what?\n \n \n   Noe: Aztecs.",
+  "id":"73fd4129-d0e3-4485-a430-d9cd0b4142b0",
+  "params":{
+    "id":"73fd4129-d0e3-4485-a430-d9cd0b4142b0",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26181,
+  "end":26255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was in high school, there was a lot of people\n   who were in gangs.",
+  "id":"56ab6317-399a-4c76-aeb6-b42ed79266c2",
+  "params":{
+    "id":"56ab6317-399a-4c76-aeb6-b42ed79266c2",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

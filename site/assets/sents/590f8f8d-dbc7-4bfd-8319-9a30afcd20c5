@@ -1,0 +1,12 @@
+{
+  "start":32769,
+  "end":32831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We talk through Messenger, WhatsApp, and through phone, right?",
+  "id":"590f8f8d-dbc7-4bfd-8319-9a30afcd20c5",
+  "params":{
+    "id":"75b58e66-d57e-4843-ac58-0439a3c29f67"
+  },
+  "name":"Carlos"
+}

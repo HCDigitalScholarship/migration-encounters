@@ -1,0 +1,13 @@
+{
+  "start":14287,
+  "end":14337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom would be like, \"No, just stay in\n   school.",
+  "id":"9ed2d944-62f0-4a58-be97-39b3c689d93a",
+  "params":{
+    "id":"9ed2d944-62f0-4a58-be97-39b3c689d93a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

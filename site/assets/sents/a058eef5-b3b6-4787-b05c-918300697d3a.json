@@ -1,0 +1,13 @@
+{
+  "start":35077,
+  "end":35116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really doubt that she will stay here.",
+  "id":"a058eef5-b3b6-4787-b05c-918300697d3a",
+  "params":{
+    "id":"a058eef5-b3b6-4787-b05c-918300697d3a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

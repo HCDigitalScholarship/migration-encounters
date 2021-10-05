@@ -1,0 +1,13 @@
+{
+  "start":13586,
+  "end":13622,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you have in your\n   pockets?",
+  "id":"467aabb8-c04a-4997-8a5d-040df16b26f0",
+  "params":{
+    "id":"467aabb8-c04a-4997-8a5d-040df16b26f0",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

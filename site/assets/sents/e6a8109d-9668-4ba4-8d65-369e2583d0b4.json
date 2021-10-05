@@ -1,0 +1,13 @@
+{
+  "start":14243,
+  "end":14272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just going to go\n   home.",
+  "id":"e6a8109d-9668-4ba4-8d65-369e2583d0b4",
+  "params":{
+    "id":"e6a8109d-9668-4ba4-8d65-369e2583d0b4",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

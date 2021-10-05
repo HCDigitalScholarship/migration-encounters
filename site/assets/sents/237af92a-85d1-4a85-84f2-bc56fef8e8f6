@@ -1,0 +1,12 @@
+{
+  "start":26265,
+  "end":26306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like \"I hope you can forgive me.\u201d",
+  "id":"237af92a-85d1-4a85-84f2-bc56fef8e8f6",
+  "params":{
+    "id":"b6b1dde9-9a16-44ac-a3ec-c94eb063faed"
+  },
+  "name":"Cris"
+}

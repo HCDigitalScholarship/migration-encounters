@@ -1,0 +1,13 @@
+{
+  "start":7642,
+  "end":7673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you\n   go out and do stuff?",
+  "id":"1bfe42da-f0dc-4fe8-86ae-e22c1f01a575",
+  "params":{
+    "id":"1bfe42da-f0dc-4fe8-86ae-e22c1f01a575",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

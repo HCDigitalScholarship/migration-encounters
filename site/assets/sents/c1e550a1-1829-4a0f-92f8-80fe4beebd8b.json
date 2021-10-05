@@ -1,0 +1,13 @@
+{
+  "start":29964,
+  "end":29992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say it very\n   nastily.",
+  "id":"c1e550a1-1829-4a0f-92f8-80fe4beebd8b",
+  "params":{
+    "id":"c1e550a1-1829-4a0f-92f8-80fe4beebd8b",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

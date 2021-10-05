@@ -1,0 +1,12 @@
+{
+  "start":120,
+  "end":154,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe we can start with your arms.",
+  "id":"947e0398-74cc-4d5d-8259-ade4cecffeba",
+  "params":{
+    "id":"fd3f626a-7eeb-4e85-b096-70b39a1f15f1"
+  },
+  "name":"Sylent"
+}

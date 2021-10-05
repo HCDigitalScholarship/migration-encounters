@@ -1,0 +1,12 @@
+{
+  "start":6873,
+  "end":6901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I would play sometimes.",
+  "id":"425aedb9-2e1b-4b20-abcf-1cdc9498da65",
+  "params":{
+    "id":"f98ffc27-852d-45b3-8d49-76827b386ced"
+  },
+  "name":"Billy"
+}

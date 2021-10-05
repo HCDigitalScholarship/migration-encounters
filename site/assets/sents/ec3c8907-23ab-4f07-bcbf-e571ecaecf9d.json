@@ -1,0 +1,13 @@
+{
+  "start":7191,
+  "end":7228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why, but I really can't.",
+  "id":"ec3c8907-23ab-4f07-bcbf-e571ecaecf9d",
+  "params":{
+    "id":"ec3c8907-23ab-4f07-bcbf-e571ecaecf9d",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

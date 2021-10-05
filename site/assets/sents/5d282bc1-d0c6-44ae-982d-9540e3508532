@@ -1,0 +1,12 @@
+{
+  "start":36102,
+  "end":36174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mi mam\u00e1\n     dec\u00eda, \u201cBueno, es que vamos a meter a un abogado y peleen\u201d.",
+  "id":"5d282bc1-d0c6-44ae-982d-9540e3508532",
+  "params":{
+    "id":"1940b18a-3a57-49b3-be7b-2145393f14e6"
+  },
+  "name":"Maria"
+}

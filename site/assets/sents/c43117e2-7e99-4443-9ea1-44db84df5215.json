@@ -1,0 +1,13 @@
+{
+  "start":16888,
+  "end":16898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's go.\u201d",
+  "id":"c43117e2-7e99-4443-9ea1-44db84df5215",
+  "params":{
+    "id":"c43117e2-7e99-4443-9ea1-44db84df5215",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

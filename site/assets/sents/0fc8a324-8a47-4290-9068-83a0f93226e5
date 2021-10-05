@@ -1,0 +1,12 @@
+{
+  "start":32962,
+  "end":32975,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"0fc8a324-8a47-4290-9068-83a0f93226e5",
+  "params":{
+    "id":"2f472611-4719-4f0b-8678-cc80488f98eb"
+  },
+  "name":"Yair"
+}

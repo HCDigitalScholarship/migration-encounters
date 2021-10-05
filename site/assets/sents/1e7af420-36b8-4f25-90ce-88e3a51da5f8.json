@@ -1,0 +1,13 @@
+{
+  "start":16290,
+  "end":16333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when I went to court, they deported me.",
+  "id":"1e7af420-36b8-4f25-90ce-88e3a51da5f8",
+  "params":{
+    "id":"1e7af420-36b8-4f25-90ce-88e3a51da5f8",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

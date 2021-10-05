@@ -1,0 +1,13 @@
+{
+  "start":365,
+  "end":370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Weco:",
+  "id":"6c785682-e7e7-41b6-af24-f8caaf5d8ed8",
+  "params":{
+    "id":"6c785682-e7e7-41b6-af24-f8caaf5d8ed8",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

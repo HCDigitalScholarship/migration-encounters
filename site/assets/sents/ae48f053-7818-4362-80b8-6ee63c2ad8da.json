@@ -1,0 +1,13 @@
+{
+  "start":7150,
+  "end":7209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it took a whole month for the cops to come to my house.",
+  "id":"ae48f053-7818-4362-80b8-6ee63c2ad8da",
+  "params":{
+    "id":"ae48f053-7818-4362-80b8-6ee63c2ad8da",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

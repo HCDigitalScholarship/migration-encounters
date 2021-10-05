@@ -1,0 +1,13 @@
+{
+  "start":7460,
+  "end":7499,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember it was a Walgreens pharmacy.",
+  "id":"78954cf9-fd71-4fc4-a8b3-ea071bdbe0bb",
+  "params":{
+    "id":"78954cf9-fd71-4fc4-a8b3-ea071bdbe0bb",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8224,
+  "end":8281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was always telling me, \"Hey, just pay me back tomorrow",
+  "id":"77664d91-14e2-405f-800f-c143ac52f86d",
+  "params":{
+    "id":"77664d91-14e2-405f-800f-c143ac52f86d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

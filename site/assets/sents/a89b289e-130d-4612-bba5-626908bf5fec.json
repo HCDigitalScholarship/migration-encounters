@@ -1,0 +1,13 @@
+{
+  "start":5384,
+  "end":5469,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As my parents were\n   splitting up, I was acting rebellious, trying to get attention.",
+  "id":"a89b289e-130d-4612-bba5-626908bf5fec",
+  "params":{
+    "id":"a89b289e-130d-4612-bba5-626908bf5fec",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

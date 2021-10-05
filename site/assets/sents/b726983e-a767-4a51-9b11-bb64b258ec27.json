@@ -1,0 +1,13 @@
+{
+  "start":23781,
+  "end":23907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So every time I call AT&amp;T, they're always telling me, \"Can I\n   tell you how we can give you a better ...\"\n \n \n   Rodrigo:",
+  "id":"b726983e-a767-4a51-9b11-bb64b258ec27",
+  "params":{
+    "id":"b726983e-a767-4a51-9b11-bb64b258ec27",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

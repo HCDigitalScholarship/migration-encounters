@@ -1,0 +1,13 @@
+{
+  "start":39362,
+  "end":39431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or when I'm buying a Gatorade, they charge me 22 pesos instead of 15.",
+  "id":"9cbb723e-bf9f-4de3-8594-f52b55c5a767",
+  "params":{
+    "id":"9cbb723e-bf9f-4de3-8594-f52b55c5a767",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

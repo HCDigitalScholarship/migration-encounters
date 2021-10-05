@@ -1,0 +1,13 @@
+{
+  "start":17415,
+  "end":17441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We can talk,\n   whatever.'",
+  "id":"901a689e-f7c5-4d09-aac4-9d553be99367",
+  "params":{
+    "id":"901a689e-f7c5-4d09-aac4-9d553be99367",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

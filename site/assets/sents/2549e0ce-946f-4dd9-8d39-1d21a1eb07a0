@@ -1,0 +1,12 @@
+{
+  "start":31811,
+  "end":31836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not your father miha.",
+  "id":"2549e0ce-946f-4dd9-8d39-1d21a1eb07a0",
+  "params":{
+    "id":"72dfd9eb-70a3-4b72-a6db-19ec85281cbc"
+  },
+  "name":"Hugo"
+}

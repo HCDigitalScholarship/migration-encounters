@@ -1,0 +1,12 @@
+{
+  "start":20201,
+  "end":20226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where will that house be?",
+  "id":"143d9342-c7db-4afd-b53c-1d414560d723",
+  "params":{
+    "id":"3d66c591-6075-47d1-bbe3-21d3773fbb16"
+  },
+  "name":"Jose"
+}

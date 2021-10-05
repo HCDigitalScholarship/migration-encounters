@@ -1,0 +1,12 @@
+{
+  "start":21297,
+  "end":21335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we'll see how this EG works, right?",
+  "id":"bf58c640-e6be-467a-8567-4799612f5458",
+  "params":{
+    "id":"cf523940-12d4-460b-b36d-e533ed3fb641"
+  },
+  "name":"Edgar"
+}

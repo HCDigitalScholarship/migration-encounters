@@ -1,0 +1,13 @@
+{
+  "start":39086,
+  "end":39102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got my social.",
+  "id":"8841856a-6afe-4700-af1c-2f52ee5144a0",
+  "params":{
+    "id":"8841856a-6afe-4700-af1c-2f52ee5144a0",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

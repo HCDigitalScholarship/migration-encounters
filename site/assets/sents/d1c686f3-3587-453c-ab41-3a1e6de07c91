@@ -1,0 +1,12 @@
+{
+  "start":15428,
+  "end":15440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How is that?",
+  "id":"d1c686f3-3587-453c-ab41-3a1e6de07c91",
+  "params":{
+    "id":"0f85239e-3ade-465d-a5bb-aa9443a4e27e"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26229,
+  "end":26248,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I hear.",
+  "id":"86e0ebb2-54e3-4607-9a65-b66f70b2f117",
+  "params":{
+    "id":"86e0ebb2-54e3-4607-9a65-b66f70b2f117",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32905,
+  "end":32945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n     just gave them my like sign here.",
+  "id":"5f84c3a3-3327-4de1-af15-e61407bbd48e",
+  "params":{
+    "id":"5f84c3a3-3327-4de1-af15-e61407bbd48e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

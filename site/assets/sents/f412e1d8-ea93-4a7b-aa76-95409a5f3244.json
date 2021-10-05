@@ -1,0 +1,13 @@
+{
+  "start":182,
+  "end":199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nice to meet you.",
+  "id":"f412e1d8-ea93-4a7b-aa76-95409a5f3244",
+  "params":{
+    "id":"f412e1d8-ea93-4a7b-aa76-95409a5f3244",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

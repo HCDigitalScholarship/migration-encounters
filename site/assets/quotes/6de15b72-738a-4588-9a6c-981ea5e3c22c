@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1226,
+  "end":1232,
+  "text":"   Anne: You were in the military in the United States?\n \n \n   Joseph: Yes.\n \n \n   Anne: So tell me. You grew up as an American, right?\n \n \n   Joseph: Yeah.\n \n \n   Anne: Where did you grow up?\n \n \n   Joseph: New York City.\n \n \n   Anne: Where in New York?\n \n \n   Joseph: Brooklyn, New York.\n \n \n   Joseph: Okay. I was in Red Hook.\n \n \n   Joseph: Now it's nicer. Back in the day, it was still gangs. It was s",
+  "label":"PERSON",
+  "id":"6de15b72-738a-4588-9a6c-981ea5e3c22c",
+  "name":"Joseph"
+}

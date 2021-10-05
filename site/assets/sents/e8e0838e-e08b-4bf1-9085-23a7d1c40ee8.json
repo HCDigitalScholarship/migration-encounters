@@ -1,0 +1,13 @@
+{
+  "start":5693,
+  "end":5733,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And time went by and\n   I regret it now.",
+  "id":"e8e0838e-e08b-4bf1-9085-23a7d1c40ee8",
+  "params":{
+    "id":"e8e0838e-e08b-4bf1-9085-23a7d1c40ee8",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

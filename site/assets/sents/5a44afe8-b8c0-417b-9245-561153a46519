@@ -1,0 +1,12 @@
+{
+  "start":2397,
+  "end":2441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't actually get to\n     move forward.",
+  "id":"5a44afe8-b8c0-417b-9245-561153a46519",
+  "params":{
+    "id":"9d3d535b-c858-4645-8b21-7b7fc1b6c616"
+  },
+  "name":"Beto"
+}

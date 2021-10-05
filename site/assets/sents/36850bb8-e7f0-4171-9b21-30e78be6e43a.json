@@ -1,0 +1,13 @@
+{
+  "start":25487,
+  "end":25520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're totally fine, it's normal.",
+  "id":"36850bb8-e7f0-4171-9b21-30e78be6e43a",
+  "params":{
+    "id":"36850bb8-e7f0-4171-9b21-30e78be6e43a",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

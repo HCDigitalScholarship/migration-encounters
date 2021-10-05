@@ -1,0 +1,12 @@
+{
+  "start":18833,
+  "end":18887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because my\n   paperwork wasn't turned in.\n \n \n   Ilse:",
+  "id":"66e3fe81-bb75-421b-83f5-32dd96c1c639",
+  "params":{
+    "id":"a2c75da3-4742-4c42-b3bc-c94f3e368117"
+  },
+  "name":"Ilse"
+}

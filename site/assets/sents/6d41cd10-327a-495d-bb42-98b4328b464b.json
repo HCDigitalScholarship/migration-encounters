@@ -1,0 +1,13 @@
+{
+  "start":31160,
+  "end":31192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not very familiar with that.",
+  "id":"6d41cd10-327a-495d-bb42-98b4328b464b",
+  "params":{
+    "id":"6d41cd10-327a-495d-bb42-98b4328b464b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

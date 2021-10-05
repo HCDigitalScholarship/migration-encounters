@@ -1,0 +1,12 @@
+{
+  "start":11185,
+  "end":11213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, the police detained you?",
+  "id":"fb84ebb6-dd83-48b8-98fb-fedb48a41c91",
+  "params":{
+    "id":"c0cc6d1f-d46b-4f4d-9c0d-644180f1d614"
+  },
+  "name":"Josue"
+}

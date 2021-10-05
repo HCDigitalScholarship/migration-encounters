@@ -1,0 +1,13 @@
+{
+  "start":15169,
+  "end":15188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We only drank beer.",
+  "id":"64d58c92-a30e-49f7-a0e4-657e63fe8747",
+  "params":{
+    "id":"64d58c92-a30e-49f7-a0e4-657e63fe8747",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

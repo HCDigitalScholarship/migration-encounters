@@ -1,0 +1,13 @@
+{
+  "start":23955,
+  "end":24004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"everything's going to be perfect.\"\n \n \n   Jeimmy:",
+  "id":"c8ffba23-31c7-47e3-9db6-89d83285c031",
+  "params":{
+    "id":"c8ffba23-31c7-47e3-9db6-89d83285c031",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

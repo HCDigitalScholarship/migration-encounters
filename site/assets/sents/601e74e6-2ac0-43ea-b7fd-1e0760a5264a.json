@@ -1,0 +1,13 @@
+{
+  "start":28746,
+  "end":28774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I have a lot of friends.",
+  "id":"601e74e6-2ac0-43ea-b7fd-1e0760a5264a",
+  "params":{
+    "id":"601e74e6-2ac0-43ea-b7fd-1e0760a5264a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9581,
+  "end":9617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We didn't know\n   where to get that.",
+  "id":"c42c3c9c-0ec7-4f64-820b-f923cce4d669",
+  "params":{
+    "id":"07883cbb-7e9b-4ecd-898a-a6d38672424e"
+  },
+  "name":"Sylent"
+}

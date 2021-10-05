@@ -1,0 +1,13 @@
+{
+  "start":34549,
+  "end":34589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, both of them are American citizens.",
+  "id":"5a7c98fb-c508-4c9a-a77f-92fd6f71076b",
+  "params":{
+    "id":"5a7c98fb-c508-4c9a-a77f-92fd6f71076b",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

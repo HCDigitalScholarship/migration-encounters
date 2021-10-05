@@ -1,0 +1,13 @@
+{
+  "start":16859,
+  "end":16887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It makes sense what I think.",
+  "id":"2f90bfcd-8a1d-47d0-a35a-b4e6930fee68",
+  "params":{
+    "id":"2f90bfcd-8a1d-47d0-a35a-b4e6930fee68",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

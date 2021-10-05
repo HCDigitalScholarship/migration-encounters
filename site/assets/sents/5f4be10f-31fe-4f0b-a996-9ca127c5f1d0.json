@@ -1,0 +1,13 @@
+{
+  "start":2267,
+  "end":2345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when you got to the United States, what do you remember from the\n   school?",
+  "id":"5f4be10f-31fe-4f0b-a996-9ca127c5f1d0",
+  "params":{
+    "id":"5f4be10f-31fe-4f0b-a996-9ca127c5f1d0",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

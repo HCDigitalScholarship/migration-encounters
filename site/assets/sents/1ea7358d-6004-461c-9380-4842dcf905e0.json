@@ -1,0 +1,13 @@
+{
+  "start":36242,
+  "end":36331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He made me realize that it doesn't matter what religion\n   you are, you're still a human.",
+  "id":"1ea7358d-6004-461c-9380-4842dcf905e0",
+  "params":{
+    "id":"1ea7358d-6004-461c-9380-4842dcf905e0",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

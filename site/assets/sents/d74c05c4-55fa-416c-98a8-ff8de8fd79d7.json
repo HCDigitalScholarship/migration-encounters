@@ -1,0 +1,13 @@
+{
+  "start":4313,
+  "end":4370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to leave, but I didn't have another choice.",
+  "id":"d74c05c4-55fa-416c-98a8-ff8de8fd79d7",
+  "params":{
+    "id":"d74c05c4-55fa-416c-98a8-ff8de8fd79d7",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35015,
+  "end":35076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And more likely, they're going to be living in\n   the States.",
+  "id":"2a4c2059-fcbb-4211-8e9e-16fa1df12fb6",
+  "params":{
+    "id":"2a4c2059-fcbb-4211-8e9e-16fa1df12fb6",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

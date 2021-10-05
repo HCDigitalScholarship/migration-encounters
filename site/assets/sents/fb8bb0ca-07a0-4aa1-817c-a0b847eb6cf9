@@ -1,0 +1,12 @@
+{
+  "start":24408,
+  "end":24538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to read you some things[from the survey] and you'll just\n   tell me whether: ... finding a job, has that been difficult?",
+  "id":"fb8bb0ca-07a0-4aa1-817c-a0b847eb6cf9",
+  "params":{
+    "id":"defa84d8-5b33-4066-86c0-30d69645e8ae"
+  },
+  "name":"Melani"
+}

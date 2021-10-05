@@ -1,0 +1,13 @@
+{
+  "start":20649,
+  "end":20705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think they\n   were using drugs or something like that.",
+  "id":"b98610da-f95f-416b-9578-2c4485c85791",
+  "params":{
+    "id":"b98610da-f95f-416b-9578-2c4485c85791",
+    "class":"anno"
+  },
+  "name":"Many"
+}

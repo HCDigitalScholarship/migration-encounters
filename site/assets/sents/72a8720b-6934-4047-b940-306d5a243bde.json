@@ -1,0 +1,13 @@
+{
+  "start":8218,
+  "end":8255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Still, you're going back to the call.",
+  "id":"72a8720b-6934-4047-b940-306d5a243bde",
+  "params":{
+    "id":"72a8720b-6934-4047-b940-306d5a243bde",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23795,
+  "end":23841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My family is not going to be\n   there forever.",
+  "id":"918b7243-6b77-4f8e-991c-09a931b9ceb7",
+  "params":{
+    "id":"918b7243-6b77-4f8e-991c-09a931b9ceb7",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

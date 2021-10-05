@@ -1,0 +1,12 @@
+{
+  "start":14193,
+  "end":14209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This was crazy!\u201d",
+  "id":"fa3507c6-26a5-4aa5-8095-3be00f39d51f",
+  "params":{
+    "id":"23001b72-404c-4dce-9067-d698d6721a53"
+  },
+  "name":"Billy"
+}

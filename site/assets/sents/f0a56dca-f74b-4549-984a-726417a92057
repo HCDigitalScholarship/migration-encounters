@@ -1,0 +1,12 @@
+{
+  "start":19716,
+  "end":19816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm about to go to work, I'm the man of the house, my wife\n   doesn't work, I have to pay the bills.",
+  "id":"f0a56dca-f74b-4549-984a-726417a92057",
+  "params":{
+    "id":"0afd0dcb-96da-49e8-a0ca-9a8719c66c0c"
+  },
+  "name":"Hugo"
+}

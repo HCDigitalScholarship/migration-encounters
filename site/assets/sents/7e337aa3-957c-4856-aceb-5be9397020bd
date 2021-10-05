@@ -1,0 +1,12 @@
+{
+  "start":8992,
+  "end":9040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you ever stopped by the police before that?",
+  "id":"7e337aa3-957c-4856-aceb-5be9397020bd",
+  "params":{
+    "id":"30df0d47-8e32-4588-a02a-1573608de1d0"
+  },
+  "name":"Pablo"
+}

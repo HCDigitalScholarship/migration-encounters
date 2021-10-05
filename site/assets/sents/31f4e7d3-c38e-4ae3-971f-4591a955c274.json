@@ -1,0 +1,13 @@
+{
+  "start":19375,
+  "end":19390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Let's go eat.\"",
+  "id":"31f4e7d3-c38e-4ae3-971f-4591a955c274",
+  "params":{
+    "id":"31f4e7d3-c38e-4ae3-971f-4591a955c274",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

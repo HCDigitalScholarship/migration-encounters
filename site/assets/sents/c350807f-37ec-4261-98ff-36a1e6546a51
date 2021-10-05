@@ -1,0 +1,12 @@
+{
+  "start":35860,
+  "end":35937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're giving you a good price?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne:",
+  "id":"c350807f-37ec-4261-98ff-36a1e6546a51",
+  "params":{
+    "id":"4df692a5-7cb6-4f8c-ab80-a8e7220007e8"
+  },
+  "name":"Joseph"
+}

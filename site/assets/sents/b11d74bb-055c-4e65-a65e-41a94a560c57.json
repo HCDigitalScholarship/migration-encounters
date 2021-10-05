@@ -1,0 +1,13 @@
+{
+  "start":25462,
+  "end":25502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know your neighbors\n and everything.",
+  "id":"b11d74bb-055c-4e65-a65e-41a94a560c57",
+  "params":{
+    "id":"b11d74bb-055c-4e65-a65e-41a94a560c57",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

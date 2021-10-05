@@ -1,0 +1,13 @@
+{
+  "start":876,
+  "end":881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah.",
+  "id":"1cd6c2bd-4f93-4eea-9f1c-918fa67b8592",
+  "params":{
+    "id":"1cd6c2bd-4f93-4eea-9f1c-918fa67b8592",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

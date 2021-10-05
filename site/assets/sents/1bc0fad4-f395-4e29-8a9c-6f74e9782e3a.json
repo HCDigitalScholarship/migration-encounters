@@ -1,0 +1,13 @@
+{
+  "start":4965,
+  "end":5015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It didn't take that long \u2026 immediately\n   kind of.",
+  "id":"1bc0fad4-f395-4e29-8a9c-6f74e9782e3a",
+  "params":{
+    "id":"1bc0fad4-f395-4e29-8a9c-6f74e9782e3a",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

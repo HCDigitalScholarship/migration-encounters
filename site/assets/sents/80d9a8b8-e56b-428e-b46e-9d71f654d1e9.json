@@ -1,0 +1,13 @@
+{
+  "start":30163,
+  "end":30181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm working on it.",
+  "id":"80d9a8b8-e56b-428e-b46e-9d71f654d1e9",
+  "params":{
+    "id":"80d9a8b8-e56b-428e-b46e-9d71f654d1e9",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

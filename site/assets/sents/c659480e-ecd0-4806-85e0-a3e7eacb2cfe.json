@@ -1,0 +1,13 @@
+{
+  "start":24594,
+  "end":24627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're going to take care of you.\"",
+  "id":"c659480e-ecd0-4806-85e0-a3e7eacb2cfe",
+  "params":{
+    "id":"c659480e-ecd0-4806-85e0-a3e7eacb2cfe",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

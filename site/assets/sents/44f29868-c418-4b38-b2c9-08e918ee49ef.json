@@ -1,0 +1,13 @@
+{
+  "start":32603,
+  "end":32652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that sort of stereotypical\n   American thing?",
+  "id":"44f29868-c418-4b38-b2c9-08e918ee49ef",
+  "params":{
+    "id":"44f29868-c418-4b38-b2c9-08e918ee49ef",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

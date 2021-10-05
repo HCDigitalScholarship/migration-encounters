@@ -1,0 +1,12 @@
+{
+  "start":32265,
+  "end":32293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, girl, thank you so much!",
+  "id":"db6ba5d3-f6a2-4543-be8c-62ffa9a6e5bc",
+  "params":{
+    "id":"25e978bc-10ab-4aee-9043-8cf9ca4fca96"
+  },
+  "name":"Ilse"
+}

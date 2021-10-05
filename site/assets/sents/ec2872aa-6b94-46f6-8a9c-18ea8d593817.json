@@ -1,0 +1,13 @@
+{
+  "start":20252,
+  "end":20291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're back in the same school together.",
+  "id":"ec2872aa-6b94-46f6-8a9c-18ea8d593817",
+  "params":{
+    "id":"ec2872aa-6b94-46f6-8a9c-18ea8d593817",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

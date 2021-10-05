@@ -1,0 +1,13 @@
+{
+  "start":29042,
+  "end":29147,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But she was\n   just wanting to help me out so I could get my papers, but I couldn't do it\n   to her, man.",
+  "id":"71bdfa88-7546-43c2-9d04-aa52302f6d7a",
+  "params":{
+    "id":"71bdfa88-7546-43c2-9d04-aa52302f6d7a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

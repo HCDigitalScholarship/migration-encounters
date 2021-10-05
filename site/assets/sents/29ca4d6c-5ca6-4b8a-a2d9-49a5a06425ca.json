@@ -1,0 +1,13 @@
+{
+  "start":3826,
+  "end":3888,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're from this little town called La Palma, over in Puebla.",
+  "id":"29ca4d6c-5ca6-4b8a-a2d9-49a5a06425ca",
+  "params":{
+    "id":"29ca4d6c-5ca6-4b8a-a2d9-49a5a06425ca",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

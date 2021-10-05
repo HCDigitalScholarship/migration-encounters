@@ -1,0 +1,12 @@
+{
+  "start":10782,
+  "end":10811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think anyone\n   does.",
+  "id":"0a3537fa-dca3-4f30-8d8e-42878a1f19c5",
+  "params":{
+    "id":"52e9c2d3-ad80-413a-bea1-848366157955"
+  },
+  "name":"Joana"
+}

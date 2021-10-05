@@ -1,0 +1,13 @@
+{
+  "start":65980,
+  "end":66014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because we don't act\n   like them.",
+  "id":"d0b549cb-a885-457a-a921-92ea54b2daa6",
+  "params":{
+    "id":"d0b549cb-a885-457a-a921-92ea54b2daa6",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

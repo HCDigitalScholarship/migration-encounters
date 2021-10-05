@@ -1,0 +1,12 @@
+{
+  "start":29736,
+  "end":29799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom\u2014she\u2019s an amazing driver\u2014but what if she got pulled over?",
+  "id":"8b284da3-2026-4409-a71d-b378a1b7a475",
+  "params":{
+    "id":"d54cdfc0-e106-4a96-9e2e-b63a4dc6e1d7"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24352,
+  "end":24374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was a millionaire.",
+  "id":"b664238d-610e-4afb-b6bb-dfc6673ca623",
+  "params":{
+    "id":"1857cf1e-93ad-4fc6-952b-5b4387a5eec3"
+  },
+  "name":"Billy"
+}

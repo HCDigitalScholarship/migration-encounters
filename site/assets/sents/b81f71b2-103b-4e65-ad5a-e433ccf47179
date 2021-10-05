@@ -1,0 +1,12 @@
+{
+  "start":36239,
+  "end":36281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dec\u00eda, \u201cLo que es tuyo te va a\n     tocar.",
+  "id":"b81f71b2-103b-4e65-ad5a-e433ccf47179",
+  "params":{
+    "id":"c495c92a-5138-48b7-9e84-228ace5ad909"
+  },
+  "name":"Maria"
+}

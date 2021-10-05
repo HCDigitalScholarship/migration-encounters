@@ -1,0 +1,12 @@
+{
+  "start":649,
+  "end":665,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We just crossed.",
+  "id":"c2a2480c-3822-4053-9b0c-f42cdc88a928",
+  "params":{
+    "id":"78841b47-718f-4c2e-9e98-e2ff708241f9"
+  },
+  "name":"Ivan"
+}

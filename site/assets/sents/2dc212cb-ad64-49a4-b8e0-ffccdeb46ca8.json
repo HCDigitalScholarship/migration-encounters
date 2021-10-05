@@ -1,0 +1,13 @@
+{
+  "start":40635,
+  "end":40692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y dec\u00eda, \u201cNo,\n     empezamos esto y lo vamos a terminar.\u201d",
+  "id":"2dc212cb-ad64-49a4-b8e0-ffccdeb46ca8",
+  "params":{
+    "id":"2dc212cb-ad64-49a4-b8e0-ffccdeb46ca8",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

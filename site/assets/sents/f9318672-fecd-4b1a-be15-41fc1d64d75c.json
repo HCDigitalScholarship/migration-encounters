@@ -1,0 +1,13 @@
+{
+  "start":26074,
+  "end":26092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When did you know?",
+  "id":"f9318672-fecd-4b1a-be15-41fc1d64d75c",
+  "params":{
+    "id":"f9318672-fecd-4b1a-be15-41fc1d64d75c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

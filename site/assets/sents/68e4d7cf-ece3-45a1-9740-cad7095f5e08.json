@@ -1,0 +1,13 @@
+{
+  "start":7871,
+  "end":7901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n bus\u2014\n      \n      \n Anne:",
+  "id":"68e4d7cf-ece3-45a1-9740-cad7095f5e08",
+  "params":{
+    "id":"68e4d7cf-ece3-45a1-9740-cad7095f5e08",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

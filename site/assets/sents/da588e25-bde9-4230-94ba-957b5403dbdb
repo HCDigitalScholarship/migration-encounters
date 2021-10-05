@@ -1,0 +1,12 @@
+{
+  "start":5221,
+  "end":5245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So did you enjoy school?",
+  "id":"da588e25-bde9-4230-94ba-957b5403dbdb",
+  "params":{
+    "id":"8ddb5acb-a2a1-4a89-937d-039599fa2ece"
+  },
+  "name":"Edgar"
+}

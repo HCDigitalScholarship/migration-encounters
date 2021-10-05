@@ -1,0 +1,13 @@
+{
+  "start":21005,
+  "end":21032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents, very neat home.",
+  "id":"2de9248a-893d-4eb2-ba50-4881026f4471",
+  "params":{
+    "id":"2de9248a-893d-4eb2-ba50-4881026f4471",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

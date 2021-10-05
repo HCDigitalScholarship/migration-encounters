@@ -1,0 +1,13 @@
+{
+  "start":26497,
+  "end":26614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had an experience where we were buying\n   groceries and four people walked in the store, the store was called Chia.",
+  "id":"5d0ccea4-1a16-440f-9c86-f185411152c6",
+  "params":{
+    "id":"5d0ccea4-1a16-440f-9c86-f185411152c6",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

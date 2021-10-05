@@ -1,0 +1,13 @@
+{
+  "start":0,
+  "end":47,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Abel, you came to the States at age four?",
+  "id":"ee209809-755b-4eef-bb63-34af3ea067d0",
+  "params":{
+    "id":"ee209809-755b-4eef-bb63-34af3ea067d0",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

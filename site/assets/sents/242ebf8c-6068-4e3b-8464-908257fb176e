@@ -1,0 +1,12 @@
+{
+  "start":5100,
+  "end":5125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know what to do.",
+  "id":"242ebf8c-6068-4e3b-8464-908257fb176e",
+  "params":{
+    "id":"3c0556ec-09d6-4532-ad6b-86bcd3944f0a"
+  },
+  "name":"Laura A"
+}

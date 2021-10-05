@@ -1,0 +1,15 @@
+{
+  "start":17411,
+  "end":17449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Frank: Three of ten customers.",
+  "id":"de937ee6-b579-427a-ae6c-ca806995612f",
+  "params":{
+    "id":"de937ee6-b579-427a-ae6c-ca806995612f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

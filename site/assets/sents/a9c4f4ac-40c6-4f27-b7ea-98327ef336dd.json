@@ -1,0 +1,12 @@
+{
+  "start":33005,
+  "end":33026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're just roasting.",
+  "id":"a9c4f4ac-40c6-4f27-b7ea-98327ef336dd",
+  "params":{
+    "id":"d2f25d25-8629-4c42-836f-3f63fa38f199"
+  },
+  "name":"Kevin"
+}

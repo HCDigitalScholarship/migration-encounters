@@ -1,0 +1,13 @@
+{
+  "start":13579,
+  "end":13623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have two, but now I'm thinking on my kids.",
+  "id":"dc6b68db-df3c-4b85-bb0e-8fa6d0a31a86",
+  "params":{
+    "id":"dc6b68db-df3c-4b85-bb0e-8fa6d0a31a86",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

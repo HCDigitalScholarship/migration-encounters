@@ -1,0 +1,13 @@
+{
+  "start":26065,
+  "end":26140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He went to\nstop by to see his brothers and stuff and he's coming down here.",
+  "id":"a2e7d52b-861d-44ad-b431-933801c78ddc",
+  "params":{
+    "id":"a2e7d52b-861d-44ad-b431-933801c78ddc",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

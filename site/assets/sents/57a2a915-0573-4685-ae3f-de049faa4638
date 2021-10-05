@@ -1,0 +1,12 @@
+{
+  "start":528,
+  "end":545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom called me.",
+  "id":"57a2a915-0573-4685-ae3f-de049faa4638",
+  "params":{
+    "id":"ef92c4ac-62bc-4bfc-8689-a34602259f18"
+  },
+  "name":"Joana"
+}

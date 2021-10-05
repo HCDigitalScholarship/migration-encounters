@@ -1,0 +1,12 @@
+{
+  "start":19613,
+  "end":19631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to drive.",
+  "id":"95a424d5-2e67-4650-b6df-76c37a79c1e3",
+  "params":{
+    "id":"e8c01838-1d99-410f-a232-b12e770c0917"
+  },
+  "name":"Joana"
+}

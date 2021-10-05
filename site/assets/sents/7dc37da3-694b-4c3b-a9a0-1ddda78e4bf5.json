@@ -1,0 +1,13 @@
+{
+  "start":7900,
+  "end":7920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're doing raids.",
+  "id":"7dc37da3-694b-4c3b-a9a0-1ddda78e4bf5",
+  "params":{
+    "id":"7dc37da3-694b-4c3b-a9a0-1ddda78e4bf5",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

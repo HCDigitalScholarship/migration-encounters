@@ -1,0 +1,13 @@
+{
+  "start":29318,
+  "end":29341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I don't, I\n   don't.",
+  "id":"d6a83201-b727-481f-bb1f-61b8584815c0",
+  "params":{
+    "id":"d6a83201-b727-481f-bb1f-61b8584815c0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

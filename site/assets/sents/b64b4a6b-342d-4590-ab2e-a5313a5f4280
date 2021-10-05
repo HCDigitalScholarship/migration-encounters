@@ -1,0 +1,12 @@
+{
+  "start":23294,
+  "end":23313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you seen them?",
+  "id":"b64b4a6b-342d-4590-ab2e-a5313a5f4280",
+  "params":{
+    "id":"fbe35411-7e3f-4fee-babd-c681eb280e69"
+  },
+  "name":"Ilse"
+}

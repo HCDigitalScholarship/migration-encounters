@@ -1,0 +1,13 @@
+{
+  "start":11900,
+  "end":11955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   that's basically where I got my reputation from.",
+  "id":"041f459f-193f-43d7-b7d2-459bdb2e8b89",
+  "params":{
+    "id":"041f459f-193f-43d7-b7d2-459bdb2e8b89",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

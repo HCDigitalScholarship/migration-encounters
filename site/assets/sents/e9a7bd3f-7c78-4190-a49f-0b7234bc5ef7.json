@@ -1,0 +1,13 @@
+{
+  "start":23433,
+  "end":23450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   decent city.",
+  "id":"e9a7bd3f-7c78-4190-a49f-0b7234bc5ef7",
+  "params":{
+    "id":"e9a7bd3f-7c78-4190-a49f-0b7234bc5ef7",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24001,
+  "end":24028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He says, \"Because I'm not.\"",
+  "id":"332692e2-48b2-4021-9e7d-ec2de4c97bf4",
+  "params":{
+    "id":"dbb29fdf-ed09-4fc1-be38-5ba58504d8e5"
+  },
+  "name":"Daniel B"
+}

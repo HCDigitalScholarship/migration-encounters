@@ -1,0 +1,12 @@
+{
+  "start":10460,
+  "end":10490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She lives\n   with her husband.",
+  "id":"36dd09cf-9421-44ab-8e08-50cd5821b3ee",
+  "params":{
+    "id":"dbbfe4a9-3cc3-4331-a531-625ee10aa0ad"
+  },
+  "name":"Jose"
+}

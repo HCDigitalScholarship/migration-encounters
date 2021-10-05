@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":35,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Introduction in Miguel\u2019s words:",
+  "id":"3dd5b328-a9cd-465d-a678-534aa197d71b",
+  "params":{
+    "id":"b7243af4-cc6f-4209-b7e3-5bf723d8b52c"
+  },
+  "name":"Miguel B"
+}

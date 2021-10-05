@@ -1,0 +1,12 @@
+{
+  "start":6445,
+  "end":6466,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was the tumor benign?",
+  "id":"b3696f13-7378-4825-909b-f5d8bc522620",
+  "params":{
+    "id":"3c1da5cd-d497-465a-9073-00be838d2fa5"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1576,
+  "end":1594,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The good, the bad.",
+  "id":"dc8191a7-612d-4b13-98a1-1d39d7f7c1fa",
+  "params":{
+    "id":"dc8191a7-612d-4b13-98a1-1d39d7f7c1fa",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19372,
+  "end":19441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, look, before I joined a\n   gang, I was a great soccer player.",
+  "id":"9f5382ee-e1d4-4723-8390-67114b47f7a3",
+  "params":{
+    "id":"9f5382ee-e1d4-4723-8390-67114b47f7a3",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

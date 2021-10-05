@@ -1,0 +1,13 @@
+{
+  "start":16096,
+  "end":16130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I served two years and a half.",
+  "id":"0cadd50d-789d-4fae-ae14-ba230c50d50b",
+  "params":{
+    "id":"0cadd50d-789d-4fae-ae14-ba230c50d50b",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":38027,
+  "end":38051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This dude has\n Jordans.\"",
+  "id":"d7b78f45-5f4e-493d-a5b4-80ac374bd481",
+  "params":{
+    "id":"d7b78f45-5f4e-493d-a5b4-80ac374bd481",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

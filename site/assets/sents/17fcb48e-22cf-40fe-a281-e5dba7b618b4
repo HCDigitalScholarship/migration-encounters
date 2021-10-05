@@ -1,0 +1,12 @@
+{
+  "start":8344,
+  "end":8427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He gave me a bag of\n   chips, and he just told me, \"Pay me back whenever you come.\"",
+  "id":"17fcb48e-22cf-40fe-a281-e5dba7b618b4",
+  "params":{
+    "id":"25f5db52-399c-4eed-93e7-40f4f0b4721c"
+  },
+  "name":"Mike"
+}

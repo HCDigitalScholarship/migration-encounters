@@ -1,0 +1,13 @@
+{
+  "start":29898,
+  "end":29929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I think, I\n   don\u2019t know.",
+  "id":"415c522d-2190-4189-b7c2-8a82979c6dc7",
+  "params":{
+    "id":"415c522d-2190-4189-b7c2-8a82979c6dc7",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34552,
+  "end":34599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Malcolm X, coming out of jail became Malcolm X.",
+  "id":"d223a961-33e4-460b-9d5b-7d864640ea3a",
+  "params":{
+    "id":"d223a961-33e4-460b-9d5b-7d864640ea3a",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

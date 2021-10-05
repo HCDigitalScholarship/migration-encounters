@@ -1,0 +1,13 @@
+{
+  "start":23378,
+  "end":23441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He doesn't\n have a way home, but we're going to get him a taxi.",
+  "id":"fc8ed703-5922-4327-a987-ab32a2af3284",
+  "params":{
+    "id":"fc8ed703-5922-4327-a987-ab32a2af3284",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

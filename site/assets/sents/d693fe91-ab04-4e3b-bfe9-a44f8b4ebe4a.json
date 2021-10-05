@@ -1,0 +1,13 @@
+{
+  "start":15886,
+  "end":15915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\n   I came with my grandma.",
+  "id":"d693fe91-ab04-4e3b-bfe9-a44f8b4ebe4a",
+  "params":{
+    "id":"d693fe91-ab04-4e3b-bfe9-a44f8b4ebe4a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

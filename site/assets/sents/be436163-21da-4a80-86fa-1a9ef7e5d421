@@ -1,0 +1,12 @@
+{
+  "start":7715,
+  "end":7730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where were you?",
+  "id":"be436163-21da-4a80-86fa-1a9ef7e5d421",
+  "params":{
+    "id":"4205b8a4-9aad-48b9-85c8-ffa581df5044"
+  },
+  "name":"Kevin"
+}

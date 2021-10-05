@@ -1,0 +1,13 @@
+{
+  "start":22038,
+  "end":22060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No he was still awake.",
+  "id":"f7dd9a1d-7ef6-4946-8c8e-ebd57e3d2e08",
+  "params":{
+    "id":"f7dd9a1d-7ef6-4946-8c8e-ebd57e3d2e08",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

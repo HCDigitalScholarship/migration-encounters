@@ -1,0 +1,13 @@
+{
+  "start":12484,
+  "end":12532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were like,\n \"Are you native American, sir?\"",
+  "id":"268ebd6a-331f-47ff-8f7f-fd3f88fb1309",
+  "params":{
+    "id":"268ebd6a-331f-47ff-8f7f-fd3f88fb1309",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

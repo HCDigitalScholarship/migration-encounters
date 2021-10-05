@@ -1,0 +1,12 @@
+{
+  "start":8765,
+  "end":8787,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just release you.",
+  "id":"b089f06a-20a7-46c5-928c-46b01f79a4d1",
+  "params":{
+    "id":"e55b32b9-5fe6-4198-a1ed-a56520784e44"
+  },
+  "name":"Noe"
+}

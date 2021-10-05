@@ -1,0 +1,13 @@
+{
+  "start":26086,
+  "end":26124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't\n   be really safe sometimes.",
+  "id":"f19f1189-7281-47f8-bc7a-dcc297a04c04",
+  "params":{
+    "id":"f19f1189-7281-47f8-bc7a-dcc297a04c04",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

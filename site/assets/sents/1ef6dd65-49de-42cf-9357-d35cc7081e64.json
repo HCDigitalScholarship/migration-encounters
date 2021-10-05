@@ -1,0 +1,13 @@
+{
+  "start":23100,
+  "end":23117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to cancel.",
+  "id":"1ef6dd65-49de-42cf-9357-d35cc7081e64",
+  "params":{
+    "id":"1ef6dd65-49de-42cf-9357-d35cc7081e64",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

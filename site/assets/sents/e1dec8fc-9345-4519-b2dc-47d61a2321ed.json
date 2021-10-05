@@ -1,0 +1,13 @@
+{
+  "start":24137,
+  "end":24159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is so weird, bro.",
+  "id":"e1dec8fc-9345-4519-b2dc-47d61a2321ed",
+  "params":{
+    "id":"e1dec8fc-9345-4519-b2dc-47d61a2321ed",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

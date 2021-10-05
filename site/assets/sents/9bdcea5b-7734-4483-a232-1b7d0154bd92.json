@@ -1,0 +1,13 @@
+{
+  "start":92,
+  "end":104,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Dan:",
+  "id":"9bdcea5b-7734-4483-a232-1b7d0154bd92",
+  "params":{
+    "id":"9bdcea5b-7734-4483-a232-1b7d0154bd92",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

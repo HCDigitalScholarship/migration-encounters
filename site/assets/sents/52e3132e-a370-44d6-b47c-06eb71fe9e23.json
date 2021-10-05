@@ -1,0 +1,13 @@
+{
+  "start":8339,
+  "end":8384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I was driving with my Maryland\n   license.",
+  "id":"52e3132e-a370-44d6-b47c-06eb71fe9e23",
+  "params":{
+    "id":"52e3132e-a370-44d6-b47c-06eb71fe9e23",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

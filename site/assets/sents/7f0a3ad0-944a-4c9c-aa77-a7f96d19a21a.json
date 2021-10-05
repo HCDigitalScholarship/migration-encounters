@@ -1,0 +1,13 @@
+{
+  "start":11173,
+  "end":11186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Jose:",
+  "id":"7f0a3ad0-944a-4c9c-aa77-a7f96d19a21a",
+  "params":{
+    "id":"7f0a3ad0-944a-4c9c-aa77-a7f96d19a21a",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

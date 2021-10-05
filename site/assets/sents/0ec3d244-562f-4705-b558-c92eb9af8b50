@@ -1,0 +1,12 @@
+{
+  "start":8914,
+  "end":8991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why I didn't suspect anything at\n   the moment until this guy told me.",
+  "id":"0ec3d244-562f-4705-b558-c92eb9af8b50",
+  "params":{
+    "id":"51824045-e09d-489f-887b-6748128648b6"
+  },
+  "name":"Carlos"
+}

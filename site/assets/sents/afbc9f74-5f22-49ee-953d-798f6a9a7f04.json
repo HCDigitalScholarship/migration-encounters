@@ -1,0 +1,15 @@
+{
+  "start":9322,
+  "end":9512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something that at this moment, as a\n   group on my University, we're working on it, but we hope that we can leave\n   a mark on the green environment that we're trying to make on Mexico.",
+  "id":"afbc9f74-5f22-49ee-953d-798f6a9a7f04",
+  "params":{
+    "id":"afbc9f74-5f22-49ee-953d-798f6a9a7f04",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

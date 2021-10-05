@@ -1,0 +1,12 @@
+{
+  "start":34358,
+  "end":34405,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   parents never taught me to be like that.\"",
+  "id":"41b0edf8-cb88-4c6b-98c2-d03fe95ad0ab",
+  "params":{
+    "id":"0a9b31c2-3556-4350-8bba-6a6641ba18f8"
+  },
+  "name":"Sylent"
+}

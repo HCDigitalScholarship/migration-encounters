@@ -1,0 +1,12 @@
+{
+  "start":41433,
+  "end":41503,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And if you want to take a shower, you have to buy your soap,\n   right?",
+  "id":"0fc2c242-b9e0-46d0-9aab-bd181540d6d7",
+  "params":{
+    "id":"95c2123c-1d26-4530-8c52-078b1717258e"
+  },
+  "name":"Rodolfo"
+}

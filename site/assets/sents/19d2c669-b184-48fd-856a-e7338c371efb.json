@@ -1,0 +1,13 @@
+{
+  "start":25753,
+  "end":25804,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That would be the translation of what I\n   know of.",
+  "id":"19d2c669-b184-48fd-856a-e7338c371efb",
+  "params":{
+    "id":"19d2c669-b184-48fd-856a-e7338c371efb",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

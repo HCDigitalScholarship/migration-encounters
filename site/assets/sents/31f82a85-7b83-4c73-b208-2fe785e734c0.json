@@ -1,0 +1,13 @@
+{
+  "start":35441,
+  "end":35471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   flip everything around.",
+  "id":"31f82a85-7b83-4c73-b208-2fe785e734c0",
+  "params":{
+    "id":"31f82a85-7b83-4c73-b208-2fe785e734c0",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

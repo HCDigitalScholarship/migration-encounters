@@ -1,0 +1,12 @@
+{
+  "start":42899,
+  "end":42988,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once I went back to court, they told me, \"Hey, well, you\n failed your lie detector test.\"",
+  "id":"2f1f7a2b-aec9-40fb-b704-0ddbcec47bf8",
+  "params":{
+    "id":"08167f11-cce8-4e34-8018-b75ec6994831"
+  },
+  "name":"Axel"
+}

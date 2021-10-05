@@ -1,0 +1,12 @@
+{
+  "start":20794,
+  "end":20898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you were talking about in high school you found out that you would\n   not be able to get a legal job.",
+  "id":"e8dbfc01-a890-453e-9009-2a0b3d0ed0e2",
+  "params":{
+    "id":"67890009-3bf3-483c-86ba-acac31300b54"
+  },
+  "name":"Mike"
+}

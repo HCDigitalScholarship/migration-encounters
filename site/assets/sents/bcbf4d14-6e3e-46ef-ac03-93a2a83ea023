@@ -1,0 +1,12 @@
+{
+  "start":866,
+  "end":898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went through the car, though.",
+  "id":"bcbf4d14-6e3e-46ef-ac03-93a2a83ea023",
+  "params":{
+    "id":"d45d30dd-c31b-4f86-b0fc-954c8691f725"
+  },
+  "name":"Edgar"
+}

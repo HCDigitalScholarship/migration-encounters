@@ -1,0 +1,13 @@
+{
+  "start":14060,
+  "end":14149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I was in county first and that was in downtown _____, like\n   right on Fifth Avenue.",
+  "id":"610798ba-cd1c-4d50-be9f-e892885507e4",
+  "params":{
+    "id":"610798ba-cd1c-4d50-be9f-e892885507e4",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

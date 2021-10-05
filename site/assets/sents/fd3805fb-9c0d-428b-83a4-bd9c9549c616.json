@@ -1,0 +1,13 @@
+{
+  "start":5011,
+  "end":5034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"20,000 pesos a\n   week.",
+  "id":"fd3805fb-9c0d-428b-83a4-bd9c9549c616",
+  "params":{
+    "id":"fd3805fb-9c0d-428b-83a4-bd9c9549c616",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

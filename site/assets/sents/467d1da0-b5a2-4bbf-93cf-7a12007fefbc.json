@@ -1,0 +1,13 @@
+{
+  "start":9684,
+  "end":9722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it\u2019s a pretty interesting place.",
+  "id":"467d1da0-b5a2-4bbf-93cf-7a12007fefbc",
+  "params":{
+    "id":"467d1da0-b5a2-4bbf-93cf-7a12007fefbc",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

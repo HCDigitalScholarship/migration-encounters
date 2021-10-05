@@ -1,0 +1,12 @@
+{
+  "start":12,
+  "end":78,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about your first day in the United States, please?",
+  "id":"8a792c33-bf44-4acc-9810-d0bb57f2133e",
+  "params":{
+    "id":"389c1047-1f51-4a26-b301-d32e80352842"
+  },
+  "name":"Juan A"
+}

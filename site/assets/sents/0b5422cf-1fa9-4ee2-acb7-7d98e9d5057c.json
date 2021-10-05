@@ -1,0 +1,13 @@
+{
+  "start":9479,
+  "end":9495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't apply.",
+  "id":"0b5422cf-1fa9-4ee2-acb7-7d98e9d5057c",
+  "params":{
+    "id":"0b5422cf-1fa9-4ee2-acb7-7d98e9d5057c",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

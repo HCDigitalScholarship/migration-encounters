@@ -1,0 +1,12 @@
+{
+  "start":30046,
+  "end":30056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who knows?",
+  "id":"d1007b68-b369-45b9-b267-4cfdb6806e93",
+  "params":{
+    "id":"a0cc2305-1b56-4d77-802d-c7a2be2a417d"
+  },
+  "name":"Kevin"
+}

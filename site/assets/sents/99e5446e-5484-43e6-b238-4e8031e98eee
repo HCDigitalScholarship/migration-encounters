@@ -1,0 +1,12 @@
+{
+  "start":31863,
+  "end":31901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so I'm going to try to say this.",
+  "id":"99e5446e-5484-43e6-b238-4e8031e98eee",
+  "params":{
+    "id":"d6bd0142-63a7-445b-8815-d40d0416e366"
+  },
+  "name":"Cris"
+}

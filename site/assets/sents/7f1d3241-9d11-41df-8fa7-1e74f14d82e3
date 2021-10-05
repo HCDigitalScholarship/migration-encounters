@@ -1,0 +1,12 @@
+{
+  "start":36388,
+  "end":36462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't say, \"Hey, he's born a Christian,\" or \"He's born\n   something.\"",
+  "id":"7f1d3241-9d11-41df-8fa7-1e74f14d82e3",
+  "params":{
+    "id":"d23b4478-a293-4890-a916-86bd0e4d9021"
+  },
+  "name":"Sylent"
+}

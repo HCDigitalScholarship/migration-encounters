@@ -1,0 +1,13 @@
+{
+  "start":18901,
+  "end":18947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just like a regular thing around\n   here.",
+  "id":"f69e0ced-9b33-4737-9e85-f52f88f7c9c1",
+  "params":{
+    "id":"f69e0ced-9b33-4737-9e85-f52f88f7c9c1",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18356,
+  "end":18407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Oh this\n     is a nice one, I've never been here.\"",
+  "id":"26099125-df0f-4142-b22c-07472c89403d",
+  "params":{
+    "id":"26099125-df0f-4142-b22c-07472c89403d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

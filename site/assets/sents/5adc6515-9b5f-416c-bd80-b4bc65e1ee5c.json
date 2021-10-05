@@ -1,0 +1,13 @@
+{
+  "start":1000,
+  "end":1093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess\n   that's how it started, just hanging out with friends and making jokes about\n   it.",
+  "id":"5adc6515-9b5f-416c-bd80-b4bc65e1ee5c",
+  "params":{
+    "id":"5adc6515-9b5f-416c-bd80-b4bc65e1ee5c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

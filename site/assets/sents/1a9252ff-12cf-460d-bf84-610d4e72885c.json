@@ -1,0 +1,13 @@
+{
+  "start":20160,
+  "end":20188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It got a\n   little bit late.",
+  "id":"1a9252ff-12cf-460d-bf84-610d4e72885c",
+  "params":{
+    "id":"1a9252ff-12cf-460d-bf84-610d4e72885c",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

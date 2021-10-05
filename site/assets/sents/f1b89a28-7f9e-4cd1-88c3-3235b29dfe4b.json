@@ -1,0 +1,13 @@
+{
+  "start":28306,
+  "end":28378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, in\n order to communicate with my mom, right, I had to speak Spanish.",
+  "id":"f1b89a28-7f9e-4cd1-88c3-3235b29dfe4b",
+  "params":{
+    "id":"f1b89a28-7f9e-4cd1-88c3-3235b29dfe4b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

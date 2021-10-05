@@ -1,0 +1,13 @@
+{
+  "start":50600,
+  "end":50620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know I'm sorry.\"",
+  "id":"b82e14e8-4081-4298-8655-e35954fcc19e",
+  "params":{
+    "id":"b82e14e8-4081-4298-8655-e35954fcc19e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

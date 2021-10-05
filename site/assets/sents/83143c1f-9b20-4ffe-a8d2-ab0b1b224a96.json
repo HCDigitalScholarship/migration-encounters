@@ -1,0 +1,13 @@
+{
+  "start":14143,
+  "end":14285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was\n   like, \"Pancho,\u201d and I would be like \u201cwhaat like yo...hey my name is\n   Miguel,\" and he was like, \"I'm just going to call you Pancho.",
+  "id":"83143c1f-9b20-4ffe-a8d2-ab0b1b224a96",
+  "params":{
+    "id":"83143c1f-9b20-4ffe-a8d2-ab0b1b224a96",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

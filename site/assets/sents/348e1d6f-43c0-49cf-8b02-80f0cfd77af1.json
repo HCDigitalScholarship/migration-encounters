@@ -1,0 +1,13 @@
+{
+  "start":34065,
+  "end":34103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can do with\n   them what you will.",
+  "id":"348e1d6f-43c0-49cf-8b02-80f0cfd77af1",
+  "params":{
+    "id":"348e1d6f-43c0-49cf-8b02-80f0cfd77af1",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

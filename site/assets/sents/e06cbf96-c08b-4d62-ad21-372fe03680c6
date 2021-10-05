@@ -1,0 +1,12 @@
+{
+  "start":34495,
+  "end":34510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're the shit.",
+  "id":"e06cbf96-c08b-4d62-ad21-372fe03680c6",
+  "params":{
+    "id":"b2ea097c-0517-4936-9377-b481577d915f"
+  },
+  "name":"Kevin"
+}

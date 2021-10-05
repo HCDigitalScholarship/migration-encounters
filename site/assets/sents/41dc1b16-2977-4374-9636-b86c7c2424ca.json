@@ -1,0 +1,13 @@
+{
+  "start":26301,
+  "end":26338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   wasn't working under her name.",
+  "id":"41dc1b16-2977-4374-9636-b86c7c2424ca",
+  "params":{
+    "id":"41dc1b16-2977-4374-9636-b86c7c2424ca",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

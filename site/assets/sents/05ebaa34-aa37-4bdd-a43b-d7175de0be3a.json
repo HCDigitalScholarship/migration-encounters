@@ -1,0 +1,13 @@
+{
+  "start":22791,
+  "end":22817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're American citizens.",
+  "id":"05ebaa34-aa37-4bdd-a43b-d7175de0be3a",
+  "params":{
+    "id":"05ebaa34-aa37-4bdd-a43b-d7175de0be3a",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

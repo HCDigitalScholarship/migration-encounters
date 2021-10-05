@@ -1,0 +1,13 @@
+{
+  "start":26202,
+  "end":26254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Was that here in Mexico City?\n \n \n   Olimpya:",
+  "id":"fbe1726b-835f-49b6-86a7-f9aeffe821e5",
+  "params":{
+    "id":"fbe1726b-835f-49b6-86a7-f9aeffe821e5",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

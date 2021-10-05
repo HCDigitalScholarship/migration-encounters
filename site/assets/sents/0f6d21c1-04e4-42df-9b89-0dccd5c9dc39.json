@@ -1,0 +1,13 @@
+{
+  "start":21789,
+  "end":21851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where I lived, East Palo\n   Alto, Redwood City, the SF bridge.",
+  "id":"0f6d21c1-04e4-42df-9b89-0dccd5c9dc39",
+  "params":{
+    "id":"0f6d21c1-04e4-42df-9b89-0dccd5c9dc39",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

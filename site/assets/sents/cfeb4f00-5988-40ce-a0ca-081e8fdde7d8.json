@@ -1,0 +1,13 @@
+{
+  "start":33715,
+  "end":33748,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to\n   get into a good job.",
+  "id":"cfeb4f00-5988-40ce-a0ca-081e8fdde7d8",
+  "params":{
+    "id":"cfeb4f00-5988-40ce-a0ca-081e8fdde7d8",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

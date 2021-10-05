@@ -1,0 +1,13 @@
+{
+  "start":25292,
+  "end":25304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Hard?",
+  "id":"91ac9f50-3f52-4ff4-9700-303545fb3bec",
+  "params":{
+    "id":"91ac9f50-3f52-4ff4-9700-303545fb3bec",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25795,
+  "end":25831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't process words in\n   Spanish.",
+  "id":"12832c52-8f06-48eb-923d-afc9afbe573c",
+  "params":{
+    "id":"12832c52-8f06-48eb-923d-afc9afbe573c",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

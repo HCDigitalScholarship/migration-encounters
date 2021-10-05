@@ -1,0 +1,13 @@
+{
+  "start":3140,
+  "end":3168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of Cambodians.",
+  "id":"8e885b5a-bd16-492f-a4e5-84c548c9a57d",
+  "params":{
+    "id":"8e885b5a-bd16-492f-a4e5-84c548c9a57d",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

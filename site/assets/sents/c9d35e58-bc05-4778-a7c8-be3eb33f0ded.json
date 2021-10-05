@@ -1,0 +1,13 @@
+{
+  "start":10465,
+  "end":10491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And they didn't go either.",
+  "id":"c9d35e58-bc05-4778-a7c8-be3eb33f0ded",
+  "params":{
+    "id":"c9d35e58-bc05-4778-a7c8-be3eb33f0ded",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

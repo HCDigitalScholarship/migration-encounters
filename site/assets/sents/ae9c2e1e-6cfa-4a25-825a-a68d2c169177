@@ -1,0 +1,12 @@
+{
+  "start":9341,
+  "end":9352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, no, no.",
+  "id":"ae9c2e1e-6cfa-4a25-825a-a68d2c169177",
+  "params":{
+    "id":"1ae3bc34-c20d-4c43-93f7-f053854061a3"
+  },
+  "name":"Billy"
+}

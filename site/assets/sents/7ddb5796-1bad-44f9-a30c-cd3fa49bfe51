@@ -1,0 +1,12 @@
+{
+  "start":10520,
+  "end":10574,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now that I get here, I don't know\n   what is going on.",
+  "id":"7ddb5796-1bad-44f9-a30c-cd3fa49bfe51",
+  "params":{
+    "id":"4af355ad-b308-4d49-9709-1d71f57eecb9"
+  },
+  "name":"Rodolfo"
+}

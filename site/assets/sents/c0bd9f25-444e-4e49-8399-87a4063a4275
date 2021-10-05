@@ -1,0 +1,12 @@
+{
+  "start":16244,
+  "end":16299,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, you come from over there, you grew up over there.",
+  "id":"c0bd9f25-444e-4e49-8399-87a4063a4275",
+  "params":{
+    "id":"2ff21ca3-ac69-424c-a986-b96326948b1b"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27026,
+  "end":27071,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"He wants you to teach him how you did that.\"",
+  "id":"896eaae3-45ae-4535-b846-8f4151703831",
+  "params":{
+    "id":"896eaae3-45ae-4535-b846-8f4151703831",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

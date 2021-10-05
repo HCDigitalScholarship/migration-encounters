@@ -1,0 +1,13 @@
+{
+  "start":343,
+  "end":394,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was already working over there\n when I was born.",
+  "id":"858c337a-32df-4b77-8048-c89216d13615",
+  "params":{
+    "id":"858c337a-32df-4b77-8048-c89216d13615",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6882,
+  "end":6983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went to Tijuana, we stayed with some\n   dude, I'm guessing he was a coyote or something like that.",
+  "id":"3770afa6-ad31-4db6-a6e1-b4779381ef63",
+  "params":{
+    "id":"3770afa6-ad31-4db6-a6e1-b4779381ef63",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

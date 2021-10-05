@@ -1,0 +1,13 @@
+{
+  "start":4917,
+  "end":5006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, you have been here your whole life,\n   but you didn't cross legally into the States.",
+  "id":"6e8b36fc-1e85-4597-989b-decb3490e65e",
+  "params":{
+    "id":"6e8b36fc-1e85-4597-989b-decb3490e65e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

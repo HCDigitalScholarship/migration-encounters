@@ -1,0 +1,12 @@
+{
+  "start":28002,
+  "end":28042,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Any substance abuse or addiction?",
+  "id":"6f9b8744-e9d3-447d-8528-92ec17755a33",
+  "params":{
+    "id":"49b96fd9-9aee-438d-851f-5be34ec2e7d4"
+  },
+  "name":"Melani"
+}

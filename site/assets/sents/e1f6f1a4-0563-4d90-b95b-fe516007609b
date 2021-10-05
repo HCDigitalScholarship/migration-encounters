@@ -1,0 +1,12 @@
+{
+  "start":9792,
+  "end":9833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was actually my first job\n   of all.",
+  "id":"e1f6f1a4-0563-4d90-b95b-fe516007609b",
+  "params":{
+    "id":"5b9cdd0e-8c41-460e-9dfb-49e0b6def4ad"
+  },
+  "name":"Diana"
+}

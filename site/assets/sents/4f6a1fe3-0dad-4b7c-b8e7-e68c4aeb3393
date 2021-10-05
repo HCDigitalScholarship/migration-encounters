@@ -1,0 +1,12 @@
+{
+  "start":32120,
+  "end":32134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Ilse laughs].",
+  "id":"4f6a1fe3-0dad-4b7c-b8e7-e68c4aeb3393",
+  "params":{
+    "id":"bfda6e4f-e567-4127-9af4-08583bccb4f1"
+  },
+  "name":"Ilse"
+}

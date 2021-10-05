@@ -1,0 +1,12 @@
+{
+  "start":26740,
+  "end":26779,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was probably\n   there for 20 years.",
+  "id":"2d0d8153-6f0f-43bd-be9d-b218766ff6ce",
+  "params":{
+    "id":"d943cf0c-2465-4481-a62a-dca2bcb0c58f"
+  },
+  "name":"Sylent"
+}

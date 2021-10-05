@@ -1,0 +1,13 @@
+{
+  "start":63249,
+  "end":63271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not fair to me.",
+  "id":"e41d1419-5100-4982-8007-607e61e913e4",
+  "params":{
+    "id":"e41d1419-5100-4982-8007-607e61e913e4",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

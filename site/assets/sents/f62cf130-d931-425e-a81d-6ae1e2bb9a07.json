@@ -1,0 +1,13 @@
+{
+  "start":33643,
+  "end":33666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   guess it would be?",
+  "id":"f62cf130-d931-425e-a81d-6ae1e2bb9a07",
+  "params":{
+    "id":"f62cf130-d931-425e-a81d-6ae1e2bb9a07",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

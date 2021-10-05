@@ -1,0 +1,12 @@
+{
+  "start":20669,
+  "end":20720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"You know I love you, dad, but you're not",
+  "id":"d27fa635-f8bb-444c-87b0-ccadce54a31c",
+  "params":{
+    "id":"83502859-ba32-46bf-845e-a7b6bf8c951d"
+  },
+  "name":"Billy"
+}

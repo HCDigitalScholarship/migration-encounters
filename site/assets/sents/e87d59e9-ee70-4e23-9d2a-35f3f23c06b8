@@ -1,0 +1,12 @@
+{
+  "start":5447,
+  "end":5514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My daughter speaks English because I teach her at the\n   beginning.",
+  "id":"e87d59e9-ee70-4e23-9d2a-35f3f23c06b8",
+  "params":{
+    "id":"b889e501-0957-4255-80ed-2d14b86c6a6e"
+  },
+  "name":"Rocio"
+}

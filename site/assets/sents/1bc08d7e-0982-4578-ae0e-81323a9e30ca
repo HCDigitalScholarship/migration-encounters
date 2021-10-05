@@ -1,0 +1,12 @@
+{
+  "start":34969,
+  "end":35029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I'm\n     not saying that I was rich, I was poor too.",
+  "id":"1bc08d7e-0982-4578-ae0e-81323a9e30ca",
+  "params":{
+    "id":"c7989ddf-e627-4e8e-b086-e8ce9b584113"
+  },
+  "name":"Beto"
+}

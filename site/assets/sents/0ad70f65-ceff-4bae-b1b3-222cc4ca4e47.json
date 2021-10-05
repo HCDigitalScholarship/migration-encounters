@@ -1,0 +1,13 @@
+{
+  "start":18099,
+  "end":18146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo no quer\u00eda asimilar lo que me estaba pasando.",
+  "id":"0ad70f65-ceff-4bae-b1b3-222cc4ca4e47",
+  "params":{
+    "id":"0ad70f65-ceff-4bae-b1b3-222cc4ca4e47",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32922,
+  "end":32950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you doing in here?\"",
+  "id":"48a55d78-afbe-4f60-bf12-5873f286f04c",
+  "params":{
+    "id":"48a55d78-afbe-4f60-bf12-5873f286f04c",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

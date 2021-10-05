@@ -1,0 +1,12 @@
+{
+  "start":2234,
+  "end":2262,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That rain was getting to us.",
+  "id":"5bbcb48d-64b3-44fc-bd88-c676bc38ddc5",
+  "params":{
+    "id":"502530f7-8316-400b-9d7a-831e2f12970e"
+  },
+  "name":"Laura A"
+}

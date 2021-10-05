@@ -1,0 +1,13 @@
+{
+  "start":27262,
+  "end":27328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nike shoes are like here they're 3,000 or\n   4,000 or 5,000 pesos.",
+  "id":"50d0a2b3-238b-4d2e-9cdc-34d831339d38",
+  "params":{
+    "id":"50d0a2b3-238b-4d2e-9cdc-34d831339d38",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

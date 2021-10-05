@@ -1,0 +1,13 @@
+{
+  "start":3950,
+  "end":4008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n then finally, poof and from there everything changed.",
+  "id":"2e2399bd-2437-4221-b2e8-4f56ea1a475c",
+  "params":{
+    "id":"2e2399bd-2437-4221-b2e8-4f56ea1a475c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

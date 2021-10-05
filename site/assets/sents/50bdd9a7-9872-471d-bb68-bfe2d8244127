@@ -1,0 +1,12 @@
+{
+  "start":34500,
+  "end":34571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, this is something\n   that is like therapy, because it helps me.",
+  "id":"50bdd9a7-9872-471d-bb68-bfe2d8244127",
+  "params":{
+    "id":"d99f2625-3c42-4bed-87d5-ff3ad06f4d91"
+  },
+  "name":"Rodrigo"
+}

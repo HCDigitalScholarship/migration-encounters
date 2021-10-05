@@ -1,0 +1,13 @@
+{
+  "start":17083,
+  "end":17115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yes, it is in\n     the States.\"",
+  "id":"e9d2f945-6054-4dd5-bb56-f4dd80284543",
+  "params":{
+    "id":"e9d2f945-6054-4dd5-bb56-f4dd80284543",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

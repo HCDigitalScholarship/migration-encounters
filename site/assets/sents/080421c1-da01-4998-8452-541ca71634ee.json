@@ -1,0 +1,13 @@
+{
+  "start":8249,
+  "end":8273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you part of a gang?",
+  "id":"080421c1-da01-4998-8452-541ca71634ee",
+  "params":{
+    "id":"080421c1-da01-4998-8452-541ca71634ee",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

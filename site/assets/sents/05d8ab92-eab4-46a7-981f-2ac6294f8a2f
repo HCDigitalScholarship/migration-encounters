@@ -1,0 +1,12 @@
+{
+  "start":11127,
+  "end":11137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"it's over.",
+  "id":"05d8ab92-eab4-46a7-981f-2ac6294f8a2f",
+  "params":{
+    "id":"972bf5bc-ab35-44e8-9cff-b7e55c93cce5"
+  },
+  "name":"Many"
+}

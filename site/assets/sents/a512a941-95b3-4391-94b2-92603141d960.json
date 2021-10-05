@@ -1,0 +1,13 @@
+{
+  "start":2579,
+  "end":2591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's cool.",
+  "id":"a512a941-95b3-4391-94b2-92603141d960",
+  "params":{
+    "id":"a512a941-95b3-4391-94b2-92603141d960",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

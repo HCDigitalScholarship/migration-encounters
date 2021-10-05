@@ -1,0 +1,13 @@
+{
+  "start":19543,
+  "end":19627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I crossed the\n   border, I could just pretend that I was never an U.S. citizen.",
+  "id":"83cd9c64-7c63-4ee7-bb63-57a218ffba5c",
+  "params":{
+    "id":"83cd9c64-7c63-4ee7-bb63-57a218ffba5c",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

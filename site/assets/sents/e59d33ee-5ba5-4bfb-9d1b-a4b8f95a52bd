@@ -1,0 +1,12 @@
+{
+  "start":8485,
+  "end":8504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 22. 21 or 22.",
+  "id":"e59d33ee-5ba5-4bfb-9d1b-a4b8f95a52bd",
+  "params":{
+    "id":"c162fad1-9115-4e20-ae37-f8aa7ae5c112"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6049,
+  "end":6174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: Because I finished high school, and I couldn't go to the college,\n   because I didn't have a social security number.",
+  "id":"52f7c27d-a684-46f8-98bf-ed21048e22e3",
+  "params":{
+    "id":"52f7c27d-a684-46f8-98bf-ed21048e22e3",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

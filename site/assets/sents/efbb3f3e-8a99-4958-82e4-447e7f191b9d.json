@@ -1,0 +1,13 @@
+{
+  "start":41145,
+  "end":41165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[he\u2019s\n   the gringo]",
+  "id":"efbb3f3e-8a99-4958-82e4-447e7f191b9d",
+  "params":{
+    "id":"efbb3f3e-8a99-4958-82e4-447e7f191b9d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

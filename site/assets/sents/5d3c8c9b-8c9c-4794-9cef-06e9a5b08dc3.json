@@ -1,0 +1,13 @@
+{
+  "start":37309,
+  "end":37379,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So right now, I just want to\n   be the best programmer in Mexico City.",
+  "id":"5d3c8c9b-8c9c-4794-9cef-06e9a5b08dc3",
+  "params":{
+    "id":"5d3c8c9b-8c9c-4794-9cef-06e9a5b08dc3",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

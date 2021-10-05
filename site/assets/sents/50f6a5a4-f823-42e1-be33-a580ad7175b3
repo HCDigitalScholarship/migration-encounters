@@ -1,0 +1,12 @@
+{
+  "start":11691,
+  "end":11738,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember, like what did you do that day?",
+  "id":"50f6a5a4-f823-42e1-be33-a580ad7175b3",
+  "params":{
+    "id":"db77fd75-d11a-423f-b214-cc73bb19d050"
+  },
+  "name":"Laila"
+}

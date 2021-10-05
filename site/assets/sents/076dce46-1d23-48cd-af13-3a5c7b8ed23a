@@ -1,0 +1,12 @@
+{
+  "start":13084,
+  "end":13101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you were 19?",
+  "id":"076dce46-1d23-48cd-af13-3a5c7b8ed23a",
+  "params":{
+    "id":"9d4a803a-f101-4266-929d-a73053186993"
+  },
+  "name":"Ben"
+}

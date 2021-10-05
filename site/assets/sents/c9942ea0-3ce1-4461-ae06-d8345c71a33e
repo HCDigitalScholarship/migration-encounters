@@ -1,0 +1,12 @@
+{
+  "start":3888,
+  "end":3915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I hung with everybody.",
+  "id":"c9942ea0-3ce1-4461-ae06-d8345c71a33e",
+  "params":{
+    "id":"c9b22ecb-2ede-439d-9e29-6ffd0f5ea363"
+  },
+  "name":"Hugo"
+}

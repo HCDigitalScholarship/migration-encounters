@@ -1,0 +1,12 @@
+{
+  "start":26451,
+  "end":26499,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Of\n   course, she had car payments, rent, bills.",
+  "id":"d16f38da-af96-4842-8f63-574100ef3941",
+  "params":{
+    "id":"985ae2f4-0bca-4bf5-ae3d-a1caeef15ca9"
+  },
+  "name":"Sylent"
+}

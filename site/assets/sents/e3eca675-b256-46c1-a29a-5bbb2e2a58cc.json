@@ -1,0 +1,13 @@
+{
+  "start":25726,
+  "end":25758,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my dream, I have just one.",
+  "id":"e3eca675-b256-46c1-a29a-5bbb2e2a58cc",
+  "params":{
+    "id":"e3eca675-b256-46c1-a29a-5bbb2e2a58cc",
+    "class":"anno"
+  },
+  "name":"Many"
+}

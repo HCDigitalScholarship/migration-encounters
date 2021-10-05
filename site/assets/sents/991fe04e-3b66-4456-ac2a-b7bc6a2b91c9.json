@@ -1,0 +1,13 @@
+{
+  "start":16318,
+  "end":16375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a\n   language barrier that's really, really hard.",
+  "id":"991fe04e-3b66-4456-ac2a-b7bc6a2b91c9",
+  "params":{
+    "id":"991fe04e-3b66-4456-ac2a-b7bc6a2b91c9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18247,
+  "end":18271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Hey,\n   come here, man.",
+  "id":"c4780791-f0b2-498d-a9d8-c1e2176841bf",
+  "params":{
+    "id":"b0b1df05-1233-49b5-92ba-e6971c7cc1ca"
+  },
+  "name":"Ruben"
+}

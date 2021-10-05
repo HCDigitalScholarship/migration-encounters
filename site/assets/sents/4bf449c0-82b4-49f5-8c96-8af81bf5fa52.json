@@ -1,0 +1,13 @@
+{
+  "start":1526,
+  "end":1554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n like, \u201cWhat's going on?",
+  "id":"4bf449c0-82b4-49f5-8c96-8af81bf5fa52",
+  "params":{
+    "id":"4bf449c0-82b4-49f5-8c96-8af81bf5fa52",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5327,
+  "end":5360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you make any friends at work?",
+  "id":"05f85a59-11d2-4821-9ae7-87c6bf119e28",
+  "params":{
+    "id":"41cf1b07-2772-4d9c-8030-bf45b9d411e4"
+  },
+  "name":"Pablo"
+}

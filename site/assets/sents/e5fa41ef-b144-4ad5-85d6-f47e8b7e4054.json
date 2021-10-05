@@ -1,0 +1,13 @@
+{
+  "start":35779,
+  "end":35876,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n     got me into a lot of trouble, a lot of trouble because that's what my mom\n     told me.",
+  "id":"e5fa41ef-b144-4ad5-85d6-f47e8b7e4054",
+  "params":{
+    "id":"e5fa41ef-b144-4ad5-85d6-f47e8b7e4054",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

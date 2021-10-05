@@ -1,0 +1,13 @@
+{
+  "start":42756,
+  "end":42798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes I feel like I'm not nice enough.",
+  "id":"89621b08-2bd3-4c22-8a8c-328ed9662681",
+  "params":{
+    "id":"89621b08-2bd3-4c22-8a8c-328ed9662681",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

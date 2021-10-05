@@ -1,0 +1,12 @@
+{
+  "start":25143,
+  "end":25166,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But he's not a bad guy.",
+  "id":"158bc0bf-129b-4195-99c5-09f72e9d672e",
+  "params":{
+    "id":"23366ad6-e348-41d7-b8c6-d3641741f6e8"
+  },
+  "name":"Billy"
+}

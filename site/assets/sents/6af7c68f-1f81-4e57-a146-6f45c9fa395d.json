@@ -1,0 +1,15 @@
+{
+  "start":3014,
+  "end":3073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that's another\n   reason why I also come back to Mexico.",
+  "id":"6af7c68f-1f81-4e57-a146-6f45c9fa395d",
+  "params":{
+    "id":"6af7c68f-1f81-4e57-a146-6f45c9fa395d",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24488,
+  "end":24577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a big park\n   where you can actually have a picnic, play volleyball.\n \n \n   Anita:",
+  "id":"c4c69f0c-6f15-4f21-b92c-91b06efca76a",
+  "params":{
+    "id":"c4c69f0c-6f15-4f21-b92c-91b06efca76a",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

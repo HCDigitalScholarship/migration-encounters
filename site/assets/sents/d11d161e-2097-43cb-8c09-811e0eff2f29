@@ -1,0 +1,12 @@
+{
+  "start":27243,
+  "end":27270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I passed all my AIMS exams.",
+  "id":"d11d161e-2097-43cb-8c09-811e0eff2f29",
+  "params":{
+    "id":"7550cadc-2ac3-4247-a630-25543b440835"
+  },
+  "name":"Mike"
+}

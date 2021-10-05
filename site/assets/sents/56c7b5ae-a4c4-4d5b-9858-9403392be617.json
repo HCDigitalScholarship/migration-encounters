@@ -1,0 +1,13 @@
+{
+  "start":8808,
+  "end":8934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that she was going to the hospital a couple of\n   times to get exams, to see what she had, what was wrong with her.",
+  "id":"56c7b5ae-a4c4-4d5b-9858-9403392be617",
+  "params":{
+    "id":"56c7b5ae-a4c4-4d5b-9858-9403392be617",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

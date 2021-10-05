@@ -1,0 +1,12 @@
+{
+  "start":29912,
+  "end":29947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know what we're talking about.\"",
+  "id":"fd5ad38a-66c5-4f7b-8fc3-5dfecd847f7e",
+  "params":{
+    "id":"ece0acce-ca47-479c-9b1c-3b2855ef6681"
+  },
+  "name":"Daniel"
+}

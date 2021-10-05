@@ -1,0 +1,12 @@
+{
+  "start":70517,
+  "end":70640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But if you say\n something like, \"Hey, did you know Axel was messing around with this girl\n and even his wife doesn't know?\"",
+  "id":"89f375f6-663f-4378-99ab-ce08107c1b71",
+  "params":{
+    "id":"566bd1c4-415d-42c8-888e-30315ae61b83"
+  },
+  "name":"Axel"
+}

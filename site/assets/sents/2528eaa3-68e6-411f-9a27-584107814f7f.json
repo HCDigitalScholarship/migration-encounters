@@ -1,0 +1,15 @@
+{
+  "start":17509,
+  "end":17535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a lot of customers.",
+  "id":"2528eaa3-68e6-411f-9a27-584107814f7f",
+  "params":{
+    "id":"2528eaa3-68e6-411f-9a27-584107814f7f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

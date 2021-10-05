@@ -1,0 +1,13 @@
+{
+  "start":3072,
+  "end":3116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   They would call us migrant students.",
+  "id":"36f36c54-235e-4d1a-9f9a-cb28ce17c3e9",
+  "params":{
+    "id":"36f36c54-235e-4d1a-9f9a-cb28ce17c3e9",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

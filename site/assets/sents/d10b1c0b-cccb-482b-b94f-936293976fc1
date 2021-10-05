@@ -1,0 +1,12 @@
+{
+  "start":18514,
+  "end":18567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ah, so\n   you're stopping me because of your feelings",
+  "id":"d10b1c0b-cccb-482b-b94f-936293976fc1",
+  "params":{
+    "id":"d99c15aa-0ffa-4928-a5a3-3922f48cc1cd"
+  },
+  "name":"Hugo"
+}

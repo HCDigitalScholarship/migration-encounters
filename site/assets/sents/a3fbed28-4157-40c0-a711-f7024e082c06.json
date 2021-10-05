@@ -1,0 +1,13 @@
+{
+  "start":37396,
+  "end":37423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What about the middle part?",
+  "id":"a3fbed28-4157-40c0-a711-f7024e082c06",
+  "params":{
+    "id":"a3fbed28-4157-40c0-a711-f7024e082c06",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

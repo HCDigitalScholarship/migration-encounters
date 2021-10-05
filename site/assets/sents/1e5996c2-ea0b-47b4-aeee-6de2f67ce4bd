@@ -1,0 +1,12 @@
+{
+  "start":31443,
+  "end":31484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what not having credentials means.",
+  "id":"1e5996c2-ea0b-47b4-aeee-6de2f67ce4bd",
+  "params":{
+    "id":"15f37ae3-99d3-4031-a63e-e78ad8c18901"
+  },
+  "name":"Carlos"
+}

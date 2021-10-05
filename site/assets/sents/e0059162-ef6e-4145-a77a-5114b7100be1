@@ -1,0 +1,12 @@
+{
+  "start":3839,
+  "end":3872,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: Because it wasn't working.",
+  "id":"e0059162-ef6e-4145-a77a-5114b7100be1",
+  "params":{
+    "id":"cc192de5-7e3a-4439-9825-1ce608e716ef"
+  },
+  "name":"Edgar"
+}

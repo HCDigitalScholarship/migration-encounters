@@ -1,0 +1,13 @@
+{
+  "start":3481,
+  "end":3530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   would be feeling like crap every single day.",
+  "id":"f56d639c-04be-490e-aa4b-666f841e4a08",
+  "params":{
+    "id":"f56d639c-04be-490e-aa4b-666f841e4a08",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

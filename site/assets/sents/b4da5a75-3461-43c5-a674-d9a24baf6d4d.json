@@ -1,0 +1,13 @@
+{
+  "start":1929,
+  "end":1949,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened there?",
+  "id":"b4da5a75-3461-43c5-a674-d9a24baf6d4d",
+  "params":{
+    "id":"b4da5a75-3461-43c5-a674-d9a24baf6d4d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

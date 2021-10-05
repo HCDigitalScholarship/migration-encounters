@@ -1,0 +1,13 @@
+{
+  "start":7949,
+  "end":7996,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No one ever told me, \"Oh, this is\n   your dad.\"",
+  "id":"567dd19c-3894-43cf-90d2-476651dd4b5c",
+  "params":{
+    "id":"567dd19c-3894-43cf-90d2-476651dd4b5c",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":16822,
+  "end":16844,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have nice houses.",
+  "id":"20d229ca-1346-46ad-8552-eabffbe58fc9",
+  "params":{
+    "id":"a843a960-0861-4501-af6a-d5a816975c6c"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67646,
+  "end":67672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Who is that?\"",
+  "id":"3a3b8686-55a8-497c-9223-640955f7c4be",
+  "params":{
+    "id":"3a3b8686-55a8-497c-9223-640955f7c4be",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

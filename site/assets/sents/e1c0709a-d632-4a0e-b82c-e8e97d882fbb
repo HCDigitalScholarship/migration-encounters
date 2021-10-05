@@ -1,0 +1,12 @@
+{
+  "start":1573,
+  "end":1601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Soccer or American football?",
+  "id":"e1c0709a-d632-4a0e-b82c-e8e97d882fbb",
+  "params":{
+    "id":"fc36f369-5833-49c3-a5b7-6460c0d11be1"
+  },
+  "name":"Kevin"
+}

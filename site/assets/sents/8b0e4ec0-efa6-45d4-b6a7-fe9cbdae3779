@@ -1,0 +1,12 @@
+{
+  "start":26706,
+  "end":26746,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you tried to communicate with them?",
+  "id":"8b0e4ec0-efa6-45d4-b6a7-fe9cbdae3779",
+  "params":{
+    "id":"a241968c-2136-4f41-b138-507b1d272d56"
+  },
+  "name":"Many"
+}

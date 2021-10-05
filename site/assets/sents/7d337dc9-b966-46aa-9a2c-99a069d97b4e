@@ -1,0 +1,12 @@
+{
+  "start":10212,
+  "end":10230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\nseemed forever.",
+  "id":"7d337dc9-b966-46aa-9a2c-99a069d97b4e",
+  "params":{
+    "id":"8565edc8-0d8a-4b21-b66f-629ee92d9941"
+  },
+  "name":"Abel"
+}

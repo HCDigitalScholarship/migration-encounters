@@ -1,0 +1,12 @@
+{
+  "start":22278,
+  "end":22307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had to\n   send me money.",
+  "id":"05adad40-ad68-4d95-9b5e-82c8437ae5e8",
+  "params":{
+    "id":"7e23130c-8cb4-4eca-8bf8-7a02b7403ad9"
+  },
+  "name":"Daniel"
+}

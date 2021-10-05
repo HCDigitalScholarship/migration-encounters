@@ -1,0 +1,13 @@
+{
+  "start":1899,
+  "end":1905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I see.",
+  "id":"314fe5c8-b79e-41fc-ad46-7d1ddae43f5c",
+  "params":{
+    "id":"314fe5c8-b79e-41fc-ad46-7d1ddae43f5c",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

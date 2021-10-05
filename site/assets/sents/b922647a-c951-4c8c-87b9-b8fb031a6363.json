@@ -1,0 +1,13 @@
+{
+  "start":19791,
+  "end":19801,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to.",
+  "id":"b922647a-c951-4c8c-87b9-b8fb031a6363",
+  "params":{
+    "id":"b922647a-c951-4c8c-87b9-b8fb031a6363",
+    "class":"anno"
+  },
+  "name":"Many"
+}

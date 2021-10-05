@@ -1,0 +1,13 @@
+{
+  "start":8700,
+  "end":8731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our water goes away a lot, too.",
+  "id":"5ec4013d-4497-4084-b25c-2fa1717ca2cb",
+  "params":{
+    "id":"5ec4013d-4497-4084-b25c-2fa1717ca2cb",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

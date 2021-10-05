@@ -1,0 +1,13 @@
+{
+  "start":5990,
+  "end":6007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We waited it out.",
+  "id":"680a916a-3605-48e3-a3f2-003450b11967",
+  "params":{
+    "id":"680a916a-3605-48e3-a3f2-003450b11967",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

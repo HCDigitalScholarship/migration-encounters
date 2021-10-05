@@ -1,0 +1,13 @@
+{
+  "start":17314,
+  "end":17372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh it's going on three, in September it'll be three years.",
+  "id":"2626f80b-00de-4c3e-9b0e-9b5e4139d0ca",
+  "params":{
+    "id":"2626f80b-00de-4c3e-9b0e-9b5e4139d0ca",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

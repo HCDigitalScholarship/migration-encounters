@@ -1,0 +1,13 @@
+{
+  "start":1695,
+  "end":1734,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I said we don't have\n   gas right now.",
+  "id":"d8a6dad0-3809-41c9-b5b1-39de1d2d8fcc",
+  "params":{
+    "id":"d8a6dad0-3809-41c9-b5b1-39de1d2d8fcc",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

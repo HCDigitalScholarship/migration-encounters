@@ -1,0 +1,13 @@
+{
+  "start":15273,
+  "end":15296,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My teachers were great.",
+  "id":"23b56384-7d4b-4d6e-8b25-4373ed326c6f",
+  "params":{
+    "id":"23b56384-7d4b-4d6e-8b25-4373ed326c6f",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

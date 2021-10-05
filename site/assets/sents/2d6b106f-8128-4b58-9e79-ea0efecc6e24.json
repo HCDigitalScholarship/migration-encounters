@@ -1,0 +1,13 @@
+{
+  "start":9339,
+  "end":9372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Lizzy: Cool.\n \n \n   Cris:",
+  "id":"2d6b106f-8128-4b58-9e79-ea0efecc6e24",
+  "params":{
+    "id":"2d6b106f-8128-4b58-9e79-ea0efecc6e24",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

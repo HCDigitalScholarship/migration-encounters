@@ -1,0 +1,13 @@
+{
+  "start":15100,
+  "end":15145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when I got in\n   here, it was complicated.",
+  "id":"ec2d1060-20ea-46d0-8da0-f6d58b56e901",
+  "params":{
+    "id":"ec2d1060-20ea-46d0-8da0-f6d58b56e901",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

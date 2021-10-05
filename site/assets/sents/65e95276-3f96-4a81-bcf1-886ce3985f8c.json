@@ -1,0 +1,13 @@
+{
+  "start":41695,
+  "end":41804,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes we're 25 and we still live with our\n   parents and we still have to give them some type of expense.",
+  "id":"65e95276-3f96-4a81-bcf1-886ce3985f8c",
+  "params":{
+    "id":"65e95276-3f96-4a81-bcf1-886ce3985f8c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

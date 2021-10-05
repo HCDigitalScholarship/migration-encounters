@@ -1,0 +1,13 @@
+{
+  "start":24839,
+  "end":24854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Very, very bad.",
+  "id":"ec953cf4-1b42-4095-93c2-5491d1cf7a6e",
+  "params":{
+    "id":"ec953cf4-1b42-4095-93c2-5491d1cf7a6e",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

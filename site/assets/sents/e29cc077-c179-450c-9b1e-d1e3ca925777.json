@@ -1,0 +1,13 @@
+{
+  "start":33829,
+  "end":33866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Teachers were very,\n     very strict.",
+  "id":"e29cc077-c179-450c-9b1e-d1e3ca925777",
+  "params":{
+    "id":"e29cc077-c179-450c-9b1e-d1e3ca925777",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

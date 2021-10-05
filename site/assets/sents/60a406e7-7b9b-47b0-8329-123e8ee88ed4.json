@@ -1,0 +1,13 @@
+{
+  "start":1822,
+  "end":1873,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was a little\n   bit of an expert on the kitchen.",
+  "id":"60a406e7-7b9b-47b0-8329-123e8ee88ed4",
+  "params":{
+    "id":"60a406e7-7b9b-47b0-8329-123e8ee88ed4",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

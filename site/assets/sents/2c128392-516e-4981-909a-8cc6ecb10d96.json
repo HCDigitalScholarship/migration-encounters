@@ -1,0 +1,13 @@
+{
+  "start":733,
+  "end":818,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know you send me money and I know you come from time to\n   time, but that's not it.",
+  "id":"2c128392-516e-4981-909a-8cc6ecb10d96",
+  "params":{
+    "id":"2c128392-516e-4981-909a-8cc6ecb10d96",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

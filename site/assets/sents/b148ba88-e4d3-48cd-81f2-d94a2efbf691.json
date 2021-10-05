@@ -1,0 +1,13 @@
+{
+  "start":743,
+  "end":771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the only word I knew.",
+  "id":"b148ba88-e4d3-48cd-81f2-d94a2efbf691",
+  "params":{
+    "id":"b148ba88-e4d3-48cd-81f2-d94a2efbf691",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

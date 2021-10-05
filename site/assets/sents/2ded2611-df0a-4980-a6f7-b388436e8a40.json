@@ -1,0 +1,13 @@
+{
+  "start":34072,
+  "end":34222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just met this one guy who worked in interior design and\n   construction all his life, and he has so much knowledge that he could help\n   people out.",
+  "id":"2ded2611-df0a-4980-a6f7-b388436e8a40",
+  "params":{
+    "id":"2ded2611-df0a-4980-a6f7-b388436e8a40",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

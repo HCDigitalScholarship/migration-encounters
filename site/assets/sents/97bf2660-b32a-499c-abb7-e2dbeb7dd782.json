@@ -1,0 +1,13 @@
+{
+  "start":81988,
+  "end":82098,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's the name of a Mexica emperor and I like to\n     say Mexica instead of Aztec because that's a proper name.",
+  "id":"97bf2660-b32a-499c-abb7-e2dbeb7dd782",
+  "params":{
+    "id":"97bf2660-b32a-499c-abb7-e2dbeb7dd782",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

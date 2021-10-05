@@ -1,0 +1,12 @@
+{
+  "start":9602,
+  "end":9625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me a meeting.",
+  "id":"f34579f2-bfdd-48e5-a056-4304c8052350",
+  "params":{
+    "id":"b259a74c-86d4-40a4-b0ce-aecad384f87a"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19784,
+  "end":19828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me I had a hold when I got busted.",
+  "id":"a7c9ff1a-a1d9-41dc-ba6b-fc7956ea00dc",
+  "params":{
+    "id":"618a78ce-4a4a-44bb-bedb-6ca44ff46465"
+  },
+  "name":"Abel"
+}

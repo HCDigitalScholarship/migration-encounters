@@ -1,0 +1,12 @@
+{
+  "start":24000,
+  "end":24034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Is it a job, family, yourself?",
+  "id":"da0d8ed7-ef44-471a-a975-ac42ca8317b5",
+  "params":{
+    "id":"693f8f08-1ebc-4db1-a99a-a9d7c1a3f67e"
+  },
+  "name":"Laila"
+}

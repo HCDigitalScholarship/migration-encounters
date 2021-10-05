@@ -1,0 +1,13 @@
+{
+  "start":7617,
+  "end":7699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom would\n   be like, \"yeah, but we're only going to be here for a few months.\"",
+  "id":"efa92e50-2e03-4488-a2af-0a43603b6d86",
+  "params":{
+    "id":"efa92e50-2e03-4488-a2af-0a43603b6d86",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

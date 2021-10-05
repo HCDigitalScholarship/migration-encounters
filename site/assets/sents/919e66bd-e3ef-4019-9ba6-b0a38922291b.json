@@ -1,0 +1,13 @@
+{
+  "start":36423,
+  "end":36479,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know some that\n have felonies and they're still there.",
+  "id":"919e66bd-e3ef-4019-9ba6-b0a38922291b",
+  "params":{
+    "id":"919e66bd-e3ef-4019-9ba6-b0a38922291b",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

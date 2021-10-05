@@ -1,0 +1,13 @@
+{
+  "start":74780,
+  "end":74817,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I love\n   Mexico, hands down.",
+  "id":"c35d2b01-08a6-4a46-adc4-cbc01f2f8f1a",
+  "params":{
+    "id":"c35d2b01-08a6-4a46-adc4-cbc01f2f8f1a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":34464,
+  "end":34476,
+  "text":"boy is sixteen.\n \n \n   Isabel: Thirteen and sixteen. And are they both US citizens, then?\n \n \n   Dan: No. My boy was born here, May 10th, Mother's Day. And Jocelyn, my\n   little girl, she was born on February 5th.\n \n \n   Isabel: Here as well?\n \n \n   Dan: No, in the US, in Dallas.\n \n \n   Isabel: Oh, so your youngest, your daughter\u2014\n \n \n   Dan: She's a US citizen.\n \n \n   Isabel: What are your hopes for them?\n \n",
+  "label":"DATE",
+  "id":"daa97451-afe5-4dbe-9317-11e45f0e8307",
+  "name":"Daniel"
+}

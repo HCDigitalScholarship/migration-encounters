@@ -1,0 +1,13 @@
+{
+  "start":7814,
+  "end":7898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On the last\n   day of the month, I opened the freezer, and there's nothing in there.",
+  "id":"5bbaa93f-8a9d-42d0-b212-2ead55a74311",
+  "params":{
+    "id":"5bbaa93f-8a9d-42d0-b212-2ead55a74311",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

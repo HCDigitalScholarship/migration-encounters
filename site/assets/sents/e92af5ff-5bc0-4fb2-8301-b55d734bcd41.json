@@ -1,0 +1,13 @@
+{
+  "start":25524,
+  "end":25553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People\n   don't like my hair?",
+  "id":"e92af5ff-5bc0-4fb2-8301-b55d734bcd41",
+  "params":{
+    "id":"e92af5ff-5bc0-4fb2-8301-b55d734bcd41",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

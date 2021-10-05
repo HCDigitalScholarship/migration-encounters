@@ -1,0 +1,12 @@
+{
+  "start":17492,
+  "end":17545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He lives right here; he\n   goes to school right here.",
+  "id":"9b386d16-7ac8-465a-a17e-43b0c6f0e55e",
+  "params":{
+    "id":"af2dda22-2628-4c56-b000-070fccfa2a4f"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22195,
+  "end":22218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I brought my microwave.",
+  "id":"8645fec1-6cdf-414a-8ca3-e73171f31d95",
+  "params":{
+    "id":"8645fec1-6cdf-414a-8ca3-e73171f31d95",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28101,
+  "end":28118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was impressed.",
+  "id":"8f10fca4-53e2-4dcd-b584-dbb23d7e5c82",
+  "params":{
+    "id":"8f10fca4-53e2-4dcd-b584-dbb23d7e5c82",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

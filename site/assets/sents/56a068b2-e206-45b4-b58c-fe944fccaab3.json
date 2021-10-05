@@ -1,0 +1,13 @@
+{
+  "start":10089,
+  "end":10121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most of the time it\n   was cool.",
+  "id":"56a068b2-e206-45b4-b58c-fe944fccaab3",
+  "params":{
+    "id":"56a068b2-e206-45b4-b58c-fe944fccaab3",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":64703,
+  "end":64743,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n like yeah, we know death is there.",
+  "id":"f8b8c0f0-9c25-4cbb-9c4f-bb924d10a3b9",
+  "params":{
+    "id":"2bc6bc74-6b20-40a3-9b7b-032aad041e9f"
+  },
+  "name":"Axel"
+}

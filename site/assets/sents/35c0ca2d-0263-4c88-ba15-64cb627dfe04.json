@@ -1,0 +1,13 @@
+{
+  "start":68764,
+  "end":68780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't lie to me.",
+  "id":"35c0ca2d-0263-4c88-ba15-64cb627dfe04",
+  "params":{
+    "id":"35c0ca2d-0263-4c88-ba15-64cb627dfe04",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

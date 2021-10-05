@@ -1,0 +1,12 @@
+{
+  "start":7079,
+  "end":7124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: [Sonido de afirmaci\u00f3n] Exacto.\n \n <br/",
+  "id":"9d6cc555-1739-4cd3-b5e4-1c2cdaf6d105",
+  "params":{
+    "id":"e5652d8b-604b-4fd6-8db7-930d47502090"
+  },
+  "name":"Maria"
+}

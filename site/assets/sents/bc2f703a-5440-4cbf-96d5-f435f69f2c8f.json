@@ -1,0 +1,13 @@
+{
+  "start":4052,
+  "end":4076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to change schools.",
+  "id":"bc2f703a-5440-4cbf-96d5-f435f69f2c8f",
+  "params":{
+    "id":"bc2f703a-5440-4cbf-96d5-f435f69f2c8f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

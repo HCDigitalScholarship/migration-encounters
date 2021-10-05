@@ -1,0 +1,12 @@
+{
+  "start":35836,
+  "end":35850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luisa: My mom?",
+  "id":"89ce5380-cbc8-4ee7-89ed-1174c01d6722",
+  "params":{
+    "id":"fee26be6-d566-4fe8-94ba-054d9c547a73"
+  },
+  "name":"Luisa"
+}

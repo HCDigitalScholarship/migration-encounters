@@ -1,0 +1,13 @@
+{
+  "start":15963,
+  "end":16014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me\n     agarro la mano y me dijo, \u201cNo te preocupes.",
+  "id":"c6dd066f-088c-45f4-83c6-a7e8ae2f40b9",
+  "params":{
+    "id":"c6dd066f-088c-45f4-83c6-a7e8ae2f40b9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

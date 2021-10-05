@@ -1,0 +1,13 @@
+{
+  "start":42935,
+  "end":42983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I remember that I just wanted to please her.",
+  "id":"78e59c6f-720d-424f-a38c-4d0d255bee87",
+  "params":{
+    "id":"78e59c6f-720d-424f-a38c-4d0d255bee87",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

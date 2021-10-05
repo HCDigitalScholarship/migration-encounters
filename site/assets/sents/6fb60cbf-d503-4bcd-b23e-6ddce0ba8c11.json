@@ -1,0 +1,13 @@
+{
+  "start":37288,
+  "end":37357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   wife is going to be at home waiting on her husband to call her.",
+  "id":"6fb60cbf-d503-4bcd-b23e-6ddce0ba8c11",
+  "params":{
+    "id":"6fb60cbf-d503-4bcd-b23e-6ddce0ba8c11",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

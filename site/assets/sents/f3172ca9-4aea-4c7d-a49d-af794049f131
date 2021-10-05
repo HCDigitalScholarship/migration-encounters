@@ -1,0 +1,12 @@
+{
+  "start":35092,
+  "end":35127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like,\n   \u201cNo that's not right.\u201d",
+  "id":"f3172ca9-4aea-4c7d-a49d-af794049f131",
+  "params":{
+    "id":"eae7f6e4-878d-47d8-91fe-4882568de97b"
+  },
+  "name":"Cris"
+}

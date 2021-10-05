@@ -1,0 +1,12 @@
+{
+  "start":7834,
+  "end":7901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was raised in the west side of town, so I have the\n   west bound.",
+  "id":"a56d5378-693f-4101-b88a-4780b1e4d2d8",
+  "params":{
+    "id":"dd799454-b546-490f-a3e7-f4bb4320823e"
+  },
+  "name":"Cris"
+}

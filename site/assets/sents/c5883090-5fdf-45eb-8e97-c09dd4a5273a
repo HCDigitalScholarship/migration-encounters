@@ -1,0 +1,12 @@
+{
+  "start":34572,
+  "end":34604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yesterday, one of my friends\n   ",
+  "id":"c5883090-5fdf-45eb-8e97-c09dd4a5273a",
+  "params":{
+    "id":"8ce190a6-f7e8-4f0a-af00-a3bead4f108b"
+  },
+  "name":"Rodrigo"
+}

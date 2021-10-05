@@ -1,0 +1,12 @@
+{
+  "start":12180,
+  "end":12288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over there, he started working, when we were in ____, he\n   started working at the _____ Conservation Corps.",
+  "id":"cac5b430-651c-42f2-8eef-3efcfbb309fb",
+  "params":{
+    "id":"c8bc2b4a-1c77-4683-b333-31e94398ee86"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36914,
+  "end":36927,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved that.",
+  "id":"a602c666-bfc1-46a2-8c51-d09707ee9cb8",
+  "params":{
+    "id":"a602c666-bfc1-46a2-8c51-d09707ee9cb8",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

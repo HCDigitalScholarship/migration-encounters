@@ -1,0 +1,13 @@
+{
+  "start":16726,
+  "end":16742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was born here.",
+  "id":"e993a5d8-0341-4d01-ad8e-513a50d79e3b",
+  "params":{
+    "id":"e993a5d8-0341-4d01-ad8e-513a50d79e3b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15650,
+  "end":15678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had good grades in school.",
+  "id":"b4628ff4-dcde-4182-a9eb-da5211b19903",
+  "params":{
+    "id":"b4628ff4-dcde-4182-a9eb-da5211b19903",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

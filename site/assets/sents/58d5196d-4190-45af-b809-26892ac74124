@@ -1,0 +1,12 @@
+{
+  "start":20927,
+  "end":20951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of\n   trouble?",
+  "id":"58d5196d-4190-45af-b809-26892ac74124",
+  "params":{
+    "id":"489628c9-2fcd-4c12-9477-45cf519b9f75"
+  },
+  "name":"Mike"
+}

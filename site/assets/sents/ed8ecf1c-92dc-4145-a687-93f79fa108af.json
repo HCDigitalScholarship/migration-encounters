@@ -1,0 +1,13 @@
+{
+  "start":11295,
+  "end":11339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   don't feel like I missed them too much.",
+  "id":"ed8ecf1c-92dc-4145-a687-93f79fa108af",
+  "params":{
+    "id":"ed8ecf1c-92dc-4145-a687-93f79fa108af",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

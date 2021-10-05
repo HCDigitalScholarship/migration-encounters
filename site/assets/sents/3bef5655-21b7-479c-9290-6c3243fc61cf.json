@@ -1,0 +1,13 @@
+{
+  "start":42146,
+  "end":42215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because they might\n   emotionally abuse you, and they don't know that",
+  "id":"3bef5655-21b7-479c-9290-6c3243fc61cf",
+  "params":{
+    "id":"3bef5655-21b7-479c-9290-6c3243fc61cf",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

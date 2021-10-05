@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":8868,
+  "end":8870,
+  "text":"er send money to your relatives in\n   Mexico?\n \n \n   Josue: No. No, I'm not that close.\n \n \n   Sergio: How long did you live in the US?\n \n \n   Josue: 11 years?\n \n \n   Sergio: 11 years. Did you follow US political news while you were living in\n   the US?\n \n \n   Josue: News? Yeah, yeah, yeah.\n \n \n   Sergio: And how'd you follow it?\n \n \n   Josue: Newspaper. We always had leftover. Newspaper every day. ",
+  "label":"GPE",
+  "id":"b5428c09-4e9f-4cd7-8bd0-4f74d07369d6",
+  "name":"Josue"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7435,
+  "end":7497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't really describe the smell, but\n   it's just one thing.",
+  "id":"da0ad2e2-592a-483a-aeec-22d08b5e92ab",
+  "params":{
+    "id":"da0ad2e2-592a-483a-aeec-22d08b5e92ab",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

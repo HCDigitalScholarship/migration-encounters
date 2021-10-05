@@ -1,0 +1,13 @@
+{
+  "start":32005,
+  "end":32065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, it's not always going to happen the\nway you want it.",
+  "id":"05c7ef00-052a-4ff6-8566-8022bd56a5a1",
+  "params":{
+    "id":"05c7ef00-052a-4ff6-8566-8022bd56a5a1",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

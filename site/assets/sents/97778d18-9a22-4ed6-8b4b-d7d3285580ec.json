@@ -1,0 +1,13 @@
+{
+  "start":36234,
+  "end":36267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the least you\n   could do.",
+  "id":"97778d18-9a22-4ed6-8b4b-d7d3285580ec",
+  "params":{
+    "id":"97778d18-9a22-4ed6-8b4b-d7d3285580ec",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

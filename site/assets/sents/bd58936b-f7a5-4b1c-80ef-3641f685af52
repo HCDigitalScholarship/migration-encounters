@@ -1,0 +1,12 @@
+{
+  "start":3333,
+  "end":3355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"illegal\n   activities?",
+  "id":"bd58936b-f7a5-4b1c-80ef-3641f685af52",
+  "params":{
+    "id":"e479e87d-f687-4300-a523-64ed9a3a2390"
+  },
+  "name":"Pablo"
+}

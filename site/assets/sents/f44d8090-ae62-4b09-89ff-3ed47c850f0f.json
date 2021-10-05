@@ -1,0 +1,13 @@
+{
+  "start":27151,
+  "end":27180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These handcuffs ain't nobody.",
+  "id":"f44d8090-ae62-4b09-89ff-3ed47c850f0f",
+  "params":{
+    "id":"f44d8090-ae62-4b09-89ff-3ed47c850f0f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13643,
+  "end":13669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you planning to stay?",
+  "id":"422fb25f-9695-40c1-a9af-ae88615b1432",
+  "params":{
+    "id":"422fb25f-9695-40c1-a9af-ae88615b1432",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

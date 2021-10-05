@@ -1,0 +1,13 @@
+{
+  "start":42726,
+  "end":42760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like thinking\n   about it.",
+  "id":"0c15bb99-c41b-48e8-9611-eba7dc321701",
+  "params":{
+    "id":"0c15bb99-c41b-48e8-9611-eba7dc321701",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

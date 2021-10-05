@@ -1,0 +1,13 @@
+{
+  "start":22080,
+  "end":22240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I had first come back, my plan was to graduate from college and\n   go back to the US, because that's where I feel happy, but that's no longer\n   my vision.",
+  "id":"955418c0-3c58-4917-9960-5b9d900c6154",
+  "params":{
+    "id":"955418c0-3c58-4917-9960-5b9d900c6154",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

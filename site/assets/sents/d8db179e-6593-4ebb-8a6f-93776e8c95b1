@@ -1,0 +1,12 @@
+{
+  "start":3344,
+  "end":3417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Can you tell me a bit about working in the US, any memories you have?",
+  "id":"d8db179e-6593-4ebb-8a6f-93776e8c95b1",
+  "params":{
+    "id":"aaab1ba0-e051-4a31-b718-46723d8d1067"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24707,
+  "end":24773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I assume most of these calls\n   are coming from the United States.",
+  "id":"f45aa775-65cb-48c3-852a-57993b562bbe",
+  "params":{
+    "id":"25be07b1-4b1f-46ab-b0bd-18e94260fbd8"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6402,
+  "end":6465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He got his own company, he just told me to go with him to work.",
+  "id":"beb670e5-8f3a-46a4-9199-4db9f15bc027",
+  "params":{
+    "id":"beb670e5-8f3a-46a4-9199-4db9f15bc027",
+    "class":"anno"
+  },
+  "name":"Many"
+}

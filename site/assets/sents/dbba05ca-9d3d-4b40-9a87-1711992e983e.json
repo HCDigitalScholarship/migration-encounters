@@ -1,0 +1,13 @@
+{
+  "start":5360,
+  "end":5439,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I stuck with everybody, like African-Americans, US citizens,\n   Mexican people.",
+  "id":"dbba05ca-9d3d-4b40-9a87-1711992e983e",
+  "params":{
+    "id":"dbba05ca-9d3d-4b40-9a87-1711992e983e",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

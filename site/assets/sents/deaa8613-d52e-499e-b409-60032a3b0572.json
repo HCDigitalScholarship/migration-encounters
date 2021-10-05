@@ -1,0 +1,13 @@
+{
+  "start":23432,
+  "end":23446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That is great.",
+  "id":"deaa8613-d52e-499e-b409-60032a3b0572",
+  "params":{
+    "id":"deaa8613-d52e-499e-b409-60032a3b0572",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

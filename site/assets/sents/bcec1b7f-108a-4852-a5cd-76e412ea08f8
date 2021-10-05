@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":10,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Anita:",
+  "id":"bcec1b7f-108a-4852-a5cd-76e412ea08f8",
+  "params":{
+    "id":"9ce2b959-e3dc-4f4f-8b84-04df2d335e70"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":41962,
+  "end":41989,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes it just hits you.",
+  "id":"ca529a8d-b5cd-4690-b6e0-b0a9c50829f8",
+  "params":{
+    "id":"d40200a4-a0cc-4c97-9255-e608754bfe14"
+  },
+  "name":"Mike"
+}

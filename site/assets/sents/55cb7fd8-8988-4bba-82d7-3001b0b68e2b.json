@@ -1,0 +1,13 @@
+{
+  "start":3542,
+  "end":3592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, we\n   were kind of a little bit of drinking.",
+  "id":"55cb7fd8-8988-4bba-82d7-3001b0b68e2b",
+  "params":{
+    "id":"55cb7fd8-8988-4bba-82d7-3001b0b68e2b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35495,
+  "end":35537,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How are you going to send everybody home?\u201d",
+  "id":"f99955f3-a1dd-4849-92a3-fb66419033aa",
+  "params":{
+    "id":"f99955f3-a1dd-4849-92a3-fb66419033aa",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

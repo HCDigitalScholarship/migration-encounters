@@ -1,0 +1,12 @@
+{
+  "start":2414,
+  "end":2502,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I came straight from ____ to\n   Mexico City and I've been here for about two months.",
+  "id":"9ce1972a-4e6f-4a82-ba2c-08a45edca341",
+  "params":{
+    "id":"41cb0b05-8a5e-44d0-b181-ece625596224"
+  },
+  "name":"Jose"
+}

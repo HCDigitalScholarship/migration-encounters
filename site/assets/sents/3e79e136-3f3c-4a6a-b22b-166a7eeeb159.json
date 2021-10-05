@@ -1,0 +1,13 @@
+{
+  "start":20419,
+  "end":20515,
+  "label":"SENT",
+  "type":"sent",
+  "text":"While talking to my mom, she paid\n attention to my little baby and she said, \"She has a bruise.\"",
+  "id":"3e79e136-3f3c-4a6a-b22b-166a7eeeb159",
+  "params":{
+    "id":"3e79e136-3f3c-4a6a-b22b-166a7eeeb159",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28054,
+  "end":28137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I believe it didn't happen to me just because my mom did have me at\n   a young age.",
+  "id":"02c6c7ca-a65e-4511-8551-ef85f25d06c3",
+  "params":{
+    "id":"02c6c7ca-a65e-4511-8551-ef85f25d06c3",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

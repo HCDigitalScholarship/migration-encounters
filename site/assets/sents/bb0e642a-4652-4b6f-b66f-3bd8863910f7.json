@@ -1,0 +1,13 @@
+{
+  "start":18485,
+  "end":18504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're working now?",
+  "id":"bb0e642a-4652-4b6f-b66f-3bd8863910f7",
+  "params":{
+    "id":"bb0e642a-4652-4b6f-b66f-3bd8863910f7",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

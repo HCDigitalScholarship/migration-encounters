@@ -1,0 +1,13 @@
+{
+  "start":9804,
+  "end":9829,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She know a lot of people.",
+  "id":"bf572b73-7ad3-4372-9a5e-1b9abbecf847",
+  "params":{
+    "id":"bf572b73-7ad3-4372-9a5e-1b9abbecf847",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,12 @@
+{
+  "start":50863,
+  "end":50873,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every day.",
+  "id":"882b2638-9051-4377-a6f3-960a5907128b",
+  "params":{
+    "id":"cc156c64-76df-453a-ad4e-25701ea0fcc1"
+  },
+  "name":"Mike"
+}

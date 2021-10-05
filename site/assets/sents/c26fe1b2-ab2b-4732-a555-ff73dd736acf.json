@@ -1,0 +1,13 @@
+{
+  "start":10679,
+  "end":10751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go to Polanco Fendi, Prado,\n   Gucci, Armani, Louis Vuitton boutiques.",
+  "id":"c26fe1b2-ab2b-4732-a555-ff73dd736acf",
+  "params":{
+    "id":"c26fe1b2-ab2b-4732-a555-ff73dd736acf",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

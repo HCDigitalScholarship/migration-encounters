@@ -1,0 +1,13 @@
+{
+  "start":31809,
+  "end":31836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not a problem to me.",
+  "id":"10f3bd94-a0e8-4d3e-83c1-57edff34e3bb",
+  "params":{
+    "id":"10f3bd94-a0e8-4d3e-83c1-57edff34e3bb",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

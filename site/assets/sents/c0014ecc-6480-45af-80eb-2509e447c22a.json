@@ -1,0 +1,13 @@
+{
+  "start":2067,
+  "end":2105,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you were all alone here in Mexico?",
+  "id":"c0014ecc-6480-45af-80eb-2509e447c22a",
+  "params":{
+    "id":"c0014ecc-6480-45af-80eb-2509e447c22a",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

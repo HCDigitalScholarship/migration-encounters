@@ -1,0 +1,13 @@
+{
+  "start":23885,
+  "end":23955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I regret what she did\n   with it, but I don't regret giving it to her.",
+  "id":"dc63236d-b6ee-4e32-8cb9-a6b520bbb242",
+  "params":{
+    "id":"dc63236d-b6ee-4e32-8cb9-a6b520bbb242",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11150,
+  "end":11169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took me\n   in.",
+  "id":"e5c9abbf-1a54-4ff0-a9d1-91d4bb10802f",
+  "params":{
+    "id":"e5c9abbf-1a54-4ff0-a9d1-91d4bb10802f",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

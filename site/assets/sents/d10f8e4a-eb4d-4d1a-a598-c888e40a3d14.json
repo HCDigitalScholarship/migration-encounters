@@ -1,0 +1,13 @@
+{
+  "start":17006,
+  "end":17037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just Mexican, that's\n   it.",
+  "id":"d10f8e4a-eb4d-4d1a-a598-c888e40a3d14",
+  "params":{
+    "id":"d10f8e4a-eb4d-4d1a-a598-c888e40a3d14",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

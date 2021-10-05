@@ -1,0 +1,13 @@
+{
+  "start":26501,
+  "end":26564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Back then, in the US, I would go to the lake,\n   do a barbecue.",
+  "id":"03274281-6b05-44f8-822a-1c358d9fec23",
+  "params":{
+    "id":"03274281-6b05-44f8-822a-1c358d9fec23",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

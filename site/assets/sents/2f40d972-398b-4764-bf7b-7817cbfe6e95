@@ -1,0 +1,12 @@
+{
+  "start":8265,
+  "end":8309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, she's manager of a\n   restaurant.",
+  "id":"2f40d972-398b-4764-bf7b-7817cbfe6e95",
+  "params":{
+    "id":"13e807c8-cc52-4004-9681-cc4083e71775"
+  },
+  "name":"Laura B"
+}

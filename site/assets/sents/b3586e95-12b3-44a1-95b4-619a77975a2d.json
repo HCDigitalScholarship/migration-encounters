@@ -1,0 +1,13 @@
+{
+  "start":4103,
+  "end":4131,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was never in the picture.",
+  "id":"b3586e95-12b3-44a1-95b4-619a77975a2d",
+  "params":{
+    "id":"b3586e95-12b3-44a1-95b4-619a77975a2d",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

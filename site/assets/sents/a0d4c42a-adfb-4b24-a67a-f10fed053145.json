@@ -1,0 +1,13 @@
+{
+  "start":847,
+  "end":872,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that $35\n   per week]?",
+  "id":"a0d4c42a-adfb-4b24-a67a-f10fed053145",
+  "params":{
+    "id":"a0d4c42a-adfb-4b24-a67a-f10fed053145",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

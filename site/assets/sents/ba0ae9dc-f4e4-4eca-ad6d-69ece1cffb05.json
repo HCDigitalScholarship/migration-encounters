@@ -1,0 +1,13 @@
+{
+  "start":4000,
+  "end":4049,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got locked up for selling drugs, a gun-\n \n \n   ",
+  "id":"ba0ae9dc-f4e4-4eca-ad6d-69ece1cffb05",
+  "params":{
+    "id":"ba0ae9dc-f4e4-4eca-ad6d-69ece1cffb05",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

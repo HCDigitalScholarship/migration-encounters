@@ -1,0 +1,12 @@
+{
+  "start":2455,
+  "end":2513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \u201cNo, I'm not staying in\n   California anymore.",
+  "id":"65c37eaf-e244-486f-baa7-4bf45e0dbf6c",
+  "params":{
+    "id":"fa97ce88-1c0c-4dc6-b1fb-9cbe3e61d943"
+  },
+  "name":"Noe"
+}

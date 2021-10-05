@@ -1,0 +1,15 @@
+{
+  "start":1315,
+  "end":1716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I brought it to her and to see if she can translate it for me and\n   she was telling me, actually she didn't want it to hurt my feelings, so she\n   started telling me in other words that I didn't qualify because there was\n   things missing on the essay, but now that I can understand it, I can see\n   that because of my immigration status I was not able to qualify for the\n   visit to the White House.",
+  "id":"097f619c-798d-49c2-a147-477dd426f698",
+  "params":{
+    "id":"097f619c-798d-49c2-a147-477dd426f698",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

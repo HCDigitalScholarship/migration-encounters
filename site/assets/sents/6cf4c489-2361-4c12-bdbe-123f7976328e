@@ -1,0 +1,12 @@
+{
+  "start":23233,
+  "end":23250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I think so.",
+  "id":"6cf4c489-2361-4c12-bdbe-123f7976328e",
+  "params":{
+    "id":"00be5e55-d9e5-4454-8f42-4c8cb0c3b2e1"
+  },
+  "name":"Abel"
+}

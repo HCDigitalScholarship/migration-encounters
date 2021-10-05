@@ -1,0 +1,13 @@
+{
+  "id":"7caa1d0f-3af1-48fe-b3d6-1f39375d7f7f",
+  "type":"text",
+  "start":1871,
+  "end":2180,
+  "label":"Time in the US, Living situation, Family",
+  "params":{
+    "id":"7caa1d0f-3af1-48fe-b3d6-1f39375d7f7f",
+    "class":"anno"
+  },
+  "name":"Ivan",
+  "text":"Anita: Who did you live with when you were in the United States?\n \n \n   Ivan: I lived by myself. I was renting an apartment.\n \n \n   Anita: But when you first went?\n \n \n   Ivan: Oh, when I first went? With my parents.\n \n \n   Anita: Did you have brothers and sisters?\n \n \n   Ivan: No, I'm the only child.\n \n \n  "
+}

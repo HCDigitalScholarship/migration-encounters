@@ -1,0 +1,13 @@
+{
+  "start":20058,
+  "end":20199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, when I came here, when I went back, it was hard for me to find\n   a job because I didn't have any papers, any ID or anything like that.",
+  "id":"644552cf-3e27-4e98-a615-55a757557ece",
+  "params":{
+    "id":"644552cf-3e27-4e98-a615-55a757557ece",
+    "class":"anno"
+  },
+  "name":"Many"
+}

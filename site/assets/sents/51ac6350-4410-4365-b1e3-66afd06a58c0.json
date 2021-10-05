@@ -1,0 +1,13 @@
+{
+  "start":15340,
+  "end":15364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had very\n   good jobs.",
+  "id":"51ac6350-4410-4365-b1e3-66afd06a58c0",
+  "params":{
+    "id":"51ac6350-4410-4365-b1e3-66afd06a58c0",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

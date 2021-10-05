@@ -1,0 +1,12 @@
+{
+  "start":10003,
+  "end":10041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I had never done so much time.",
+  "id":"a05da31f-e6db-4ec7-aa95-485b87dbdc9b",
+  "params":{
+    "id":"70c5595c-6f2b-4d88-8ad2-36d060531e2b"
+  },
+  "name":"Abel"
+}

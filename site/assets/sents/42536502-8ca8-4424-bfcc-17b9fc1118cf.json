@@ -1,0 +1,13 @@
+{
+  "start":8749,
+  "end":8774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Something dumb like that.",
+  "id":"42536502-8ca8-4424-bfcc-17b9fc1118cf",
+  "params":{
+    "id":"42536502-8ca8-4424-bfcc-17b9fc1118cf",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

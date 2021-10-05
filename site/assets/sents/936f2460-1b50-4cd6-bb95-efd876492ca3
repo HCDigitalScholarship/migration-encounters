@@ -1,0 +1,12 @@
+{
+  "start":25340,
+  "end":25378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I'll just go ahead and tell you.",
+  "id":"936f2460-1b50-4cd6-bb95-efd876492ca3",
+  "params":{
+    "id":"a696d7fe-b8c5-4d7a-8e25-d3fab1c96c34"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17222,
+  "end":17254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you know what job you'd want?",
+  "id":"25043d89-b36f-468a-a53d-bd9775d4dc1b",
+  "params":{
+    "id":"25043d89-b36f-468a-a53d-bd9775d4dc1b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

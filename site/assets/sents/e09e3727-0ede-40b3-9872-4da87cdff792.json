@@ -1,0 +1,13 @@
+{
+  "start":48050,
+  "end":48081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I am\n     good for the job.",
+  "id":"e09e3727-0ede-40b3-9872-4da87cdff792",
+  "params":{
+    "id":"e09e3727-0ede-40b3-9872-4da87cdff792",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

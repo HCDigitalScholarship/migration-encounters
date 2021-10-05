@@ -1,0 +1,13 @@
+{
+  "start":34805,
+  "end":34830,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm here to make changes.",
+  "id":"42ff92d2-c401-4185-a9e8-d896a70f5217",
+  "params":{
+    "id":"42ff92d2-c401-4185-a9e8-d896a70f5217",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25056,
+  "end":25088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to stay, you know?",
+  "id":"b62ff2e5-6adc-40df-9bfc-f8e7af4f6b94",
+  "params":{
+    "id":"bdb984a7-ff13-4204-b030-ebbe1998ceed"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,12 @@
+{
+  "start":17968,
+  "end":18005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: When I went to...\n \n \n   Anne:",
+  "id":"67ec98cc-eaf4-4a16-8971-b57a3d7e1934",
+  "params":{
+    "id":"f0a2fd18-ecd3-4a2d-8baf-673f6caad58f"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":1242,
+  "end":1276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n     there for eight hours.",
+  "id":"51c29a0c-1e8a-4c27-928b-706ad1b66bda",
+  "params":{
+    "id":"cc550a7b-a417-4159-8a56-475dab114c72"
+  },
+  "name":"Beto"
+}

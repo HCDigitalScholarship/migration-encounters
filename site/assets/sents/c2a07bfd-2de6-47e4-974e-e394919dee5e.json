@@ -1,0 +1,13 @@
+{
+  "start":24390,
+  "end":24447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I left all my diplomas and stuff, they\n   are over there.",
+  "id":"c2a07bfd-2de6-47e4-974e-e394919dee5e",
+  "params":{
+    "id":"c2a07bfd-2de6-47e4-974e-e394919dee5e",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

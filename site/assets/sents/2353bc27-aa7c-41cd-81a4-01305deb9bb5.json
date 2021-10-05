@@ -1,0 +1,13 @@
+{
+  "start":4050,
+  "end":4095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it's\n   like, \"Okay, friends come and go.\"",
+  "id":"2353bc27-aa7c-41cd-81a4-01305deb9bb5",
+  "params":{
+    "id":"2353bc27-aa7c-41cd-81a4-01305deb9bb5",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

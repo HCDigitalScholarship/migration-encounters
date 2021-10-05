@@ -1,0 +1,12 @@
+{
+  "start":4173,
+  "end":4200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's twenty-four right now.",
+  "id":"942d0993-d36b-47de-bc25-38779f69a1cb",
+  "params":{
+    "id":"d36642d1-7639-47f8-8cd8-6e3df9dbc173"
+  },
+  "name":"Brenda"
+}

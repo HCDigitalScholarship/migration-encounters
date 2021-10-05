@@ -1,0 +1,12 @@
+{
+  "start":31868,
+  "end":31916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Man, you've\n got to have something in you, bro.\"",
+  "id":"20c99603-4f18-4fbc-925b-865e62308c8c",
+  "params":{
+    "id":"319907c4-63b1-4521-aab1-643f17e782fa"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4026,
+  "end":4086,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember the school I got to, I think it was _____ School.",
+  "id":"bb27bf79-b1e2-4a16-a2ac-f6726ad92514",
+  "params":{
+    "id":"bb27bf79-b1e2-4a16-a2ac-f6726ad92514",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

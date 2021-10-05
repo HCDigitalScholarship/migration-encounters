@@ -1,0 +1,13 @@
+{
+  "start":25126,
+  "end":25181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think my dad said he did, but I never\n   received it.",
+  "id":"368ce1e6-20b4-4d79-87b9-4fb6d6231ce3",
+  "params":{
+    "id":"368ce1e6-20b4-4d79-87b9-4fb6d6231ce3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

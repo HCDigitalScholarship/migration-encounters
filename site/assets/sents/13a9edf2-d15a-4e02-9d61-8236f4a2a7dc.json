@@ -1,0 +1,13 @@
+{
+  "start":23089,
+  "end":23111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did get back at him.",
+  "id":"13a9edf2-d15a-4e02-9d61-8236f4a2a7dc",
+  "params":{
+    "id":"13a9edf2-d15a-4e02-9d61-8236f4a2a7dc",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

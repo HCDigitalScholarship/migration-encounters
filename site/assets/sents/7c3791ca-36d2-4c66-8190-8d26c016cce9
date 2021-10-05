@@ -1,0 +1,12 @@
+{
+  "start":2017,
+  "end":2052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was living in ____ (same town).",
+  "id":"7c3791ca-36d2-4c66-8190-8d26c016cce9",
+  "params":{
+    "id":"f2b8a5d9-6685-45d7-bf36-d762993fe4b7"
+  },
+  "name":"Joana"
+}

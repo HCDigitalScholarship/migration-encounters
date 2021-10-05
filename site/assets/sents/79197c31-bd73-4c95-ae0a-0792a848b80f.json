@@ -1,0 +1,13 @@
+{
+  "start":3010,
+  "end":3046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why, but it's\n   there.",
+  "id":"79197c31-bd73-4c95-ae0a-0792a848b80f",
+  "params":{
+    "id":"79197c31-bd73-4c95-ae0a-0792a848b80f",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

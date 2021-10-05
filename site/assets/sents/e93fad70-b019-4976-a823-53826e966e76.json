@@ -1,0 +1,13 @@
+{
+  "start":30292,
+  "end":30352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people we talk to, I think, understandably so, feel",
+  "id":"e93fad70-b019-4976-a823-53826e966e76",
+  "params":{
+    "id":"e93fad70-b019-4976-a823-53826e966e76",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36892,
+  "end":36949,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like to be high because I\n   used to fight a lot.",
+  "id":"dd21c465-75cc-4748-bb81-65cba4844766",
+  "params":{
+    "id":"75b8b16c-e4b3-4c32-b0e6-a4af6a962a18"
+  },
+  "name":"Mike"
+}

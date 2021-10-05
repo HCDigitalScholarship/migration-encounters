@@ -1,0 +1,13 @@
+{
+  "start":41058,
+  "end":41076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think?",
+  "id":"4e7b1928-7273-43ce-ac44-ea78deeda005",
+  "params":{
+    "id":"4e7b1928-7273-43ce-ac44-ea78deeda005",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

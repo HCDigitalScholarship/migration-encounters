@@ -1,0 +1,13 @@
+{
+  "start":24207,
+  "end":24242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not easy to forget old habits.",
+  "id":"b46ed184-194b-47b3-9553-7a421bc93664",
+  "params":{
+    "id":"b46ed184-194b-47b3-9553-7a421bc93664",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

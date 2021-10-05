@@ -1,0 +1,13 @@
+{
+  "start":8000,
+  "end":8057,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   actually want to wait it out after a new presidency.",
+  "id":"48d71126-ebe0-4b77-9fbb-14bfe596375f",
+  "params":{
+    "id":"48d71126-ebe0-4b77-9fbb-14bfe596375f",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

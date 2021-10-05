@@ -1,0 +1,13 @@
+{
+  "start":19700,
+  "end":19722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to go back.\"",
+  "id":"9cdaa76c-7bbb-4bac-a558-fabbb22bbca2",
+  "params":{
+    "id":"9cdaa76c-7bbb-4bac-a558-fabbb22bbca2",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

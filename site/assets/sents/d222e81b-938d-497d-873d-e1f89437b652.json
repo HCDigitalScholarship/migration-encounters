@@ -1,0 +1,13 @@
+{
+  "start":59521,
+  "end":59602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I was\n   like, \"Cuernavaca,\" and they're like, \"Oh shit, I see what you did.\"",
+  "id":"d222e81b-938d-497d-873d-e1f89437b652",
+  "params":{
+    "id":"d222e81b-938d-497d-873d-e1f89437b652",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

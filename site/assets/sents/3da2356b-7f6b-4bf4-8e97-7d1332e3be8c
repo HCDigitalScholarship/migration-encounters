@@ -1,0 +1,12 @@
+{
+  "start":20808,
+  "end":20848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My teacher, she took me to South Dakota.",
+  "id":"3da2356b-7f6b-4bf4-8e97-7d1332e3be8c",
+  "params":{
+    "id":"5a796c31-f5e2-4dbf-841f-3537a47d020b"
+  },
+  "name":"Donovan"
+}

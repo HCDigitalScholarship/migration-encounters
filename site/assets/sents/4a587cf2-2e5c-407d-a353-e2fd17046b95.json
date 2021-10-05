@@ -1,0 +1,13 @@
+{
+  "start":4,
+  "end":9,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"4a587cf2-2e5c-407d-a353-e2fd17046b95",
+  "params":{
+    "id":"4a587cf2-2e5c-407d-a353-e2fd17046b95",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

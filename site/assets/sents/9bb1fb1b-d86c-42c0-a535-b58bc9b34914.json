@@ -1,0 +1,13 @@
+{
+  "start":21446,
+  "end":21492,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was the biggest figure and he took\n   over.",
+  "id":"9bb1fb1b-d86c-42c0-a535-b58bc9b34914",
+  "params":{
+    "id":"9bb1fb1b-d86c-42c0-a535-b58bc9b34914",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

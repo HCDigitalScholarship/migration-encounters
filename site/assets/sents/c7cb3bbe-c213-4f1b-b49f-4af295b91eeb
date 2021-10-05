@@ -1,0 +1,12 @@
+{
+  "start":9182,
+  "end":9213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you at that point?",
+  "id":"c7cb3bbe-c213-4f1b-b49f-4af295b91eeb",
+  "params":{
+    "id":"32316a6a-49ee-4bf7-9b3b-0aeb70bc1753"
+  },
+  "name":"Abel"
+}

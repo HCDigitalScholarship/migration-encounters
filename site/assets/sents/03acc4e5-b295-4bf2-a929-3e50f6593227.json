@@ -1,0 +1,13 @@
+{
+  "start":32794,
+  "end":32847,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, after you were detained, how was your experience?",
+  "id":"03acc4e5-b295-4bf2-a929-3e50f6593227",
+  "params":{
+    "id":"03acc4e5-b295-4bf2-a929-3e50f6593227",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

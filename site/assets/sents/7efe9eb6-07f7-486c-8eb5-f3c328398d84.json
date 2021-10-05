@@ -1,0 +1,13 @@
+{
+  "start":31234,
+  "end":31278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't mind it, because\n   he's a good boy.",
+  "id":"7efe9eb6-07f7-486c-8eb5-f3c328398d84",
+  "params":{
+    "id":"7efe9eb6-07f7-486c-8eb5-f3c328398d84",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

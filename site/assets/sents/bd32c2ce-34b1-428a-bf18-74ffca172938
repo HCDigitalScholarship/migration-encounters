@@ -1,0 +1,12 @@
+{
+  "start":35499,
+  "end":35527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm really proud of\n   them.",
+  "id":"bd32c2ce-34b1-428a-bf18-74ffca172938",
+  "params":{
+    "id":"718c506c-54ed-4cfd-96c7-218e5e60bd1e"
+  },
+  "name":"Daniel"
+}

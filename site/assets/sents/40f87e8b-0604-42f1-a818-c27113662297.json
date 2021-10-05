@@ -1,0 +1,13 @@
+{
+  "start":24389,
+  "end":24420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's going to know I fucked up.",
+  "id":"40f87e8b-0604-42f1-a818-c27113662297",
+  "params":{
+    "id":"40f87e8b-0604-42f1-a818-c27113662297",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

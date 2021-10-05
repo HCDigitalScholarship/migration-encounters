@@ -1,0 +1,12 @@
+{
+  "start":30256,
+  "end":30273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know you.",
+  "id":"f48738d9-c294-4026-a9e0-eaca891bed80",
+  "params":{
+    "id":"45d95617-4861-4f87-b117-8425c66e6d94"
+  },
+  "name":"Daniel"
+}

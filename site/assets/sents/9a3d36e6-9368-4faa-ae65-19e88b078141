@@ -1,0 +1,12 @@
+{
+  "start":12783,
+  "end":12813,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just wanted Mexican food.",
+  "id":"9a3d36e6-9368-4faa-ae65-19e88b078141",
+  "params":{
+    "id":"2e60285d-5c1b-47ba-bb14-c6a61625424d"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":308,
+  "end":350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my parents took me when I was a kid.",
+  "id":"a18c3bec-5cf0-41c8-98cb-f488cd75e21e",
+  "params":{
+    "id":"a18c3bec-5cf0-41c8-98cb-f488cd75e21e",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,15 @@
+{
+  "start":10308,
+  "end":10339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, there are some\n   projects.",
+  "id":"df5e4e30-6079-4db9-a1e2-40d5a039a483",
+  "params":{
+    "id":"df5e4e30-6079-4db9-a1e2-40d5a039a483",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

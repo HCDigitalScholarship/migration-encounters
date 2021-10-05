@@ -1,0 +1,13 @@
+{
+  "start":12465,
+  "end":12508,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's no piece of\n   glass and no window.",
+  "id":"232e810d-c5e7-456c-a555-41630b656dd4",
+  "params":{
+    "id":"232e810d-c5e7-456c-a555-41630b656dd4",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

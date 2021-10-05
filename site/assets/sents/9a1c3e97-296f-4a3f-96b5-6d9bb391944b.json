@@ -1,0 +1,13 @@
+{
+  "start":13079,
+  "end":13131,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to get the job here, do different\n   things.\"",
+  "id":"9a1c3e97-296f-4a3f-96b5-6d9bb391944b",
+  "params":{
+    "id":"9a1c3e97-296f-4a3f-96b5-6d9bb391944b",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

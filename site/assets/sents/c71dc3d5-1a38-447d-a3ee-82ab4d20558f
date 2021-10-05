@@ -1,0 +1,12 @@
+{
+  "start":23800,
+  "end":23881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All the time\n   that I drove over there I never got stopped by a cop or anything.",
+  "id":"c71dc3d5-1a38-447d-a3ee-82ab4d20558f",
+  "params":{
+    "id":"b64f7bcd-255e-4136-b914-2f5f6150750d"
+  },
+  "name":"Yair"
+}

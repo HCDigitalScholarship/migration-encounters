@@ -1,0 +1,15 @@
+{
+  "start":18307,
+  "end":18382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to be the one to stay calm even when they're being rude to\n   you.",
+  "id":"2b872ade-ee58-49fd-a932-4f1b13cbf139",
+  "params":{
+    "id":"2b872ade-ee58-49fd-a932-4f1b13cbf139",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20205,
+  "end":20230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jeimmy: At the beginning?",
+  "id":"fb18533b-e51b-475c-ba53-2086e6688c0b",
+  "params":{
+    "id":"fb18533b-e51b-475c-ba53-2086e6688c0b",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

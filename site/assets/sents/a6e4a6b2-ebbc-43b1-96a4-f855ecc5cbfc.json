@@ -1,0 +1,15 @@
+{
+  "start":20194,
+  "end":20212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzie: As equals.",
+  "id":"a6e4a6b2-ebbc-43b1-96a4-f855ecc5cbfc",
+  "params":{
+    "id":"a6e4a6b2-ebbc-43b1-96a4-f855ecc5cbfc",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

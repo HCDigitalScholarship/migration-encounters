@@ -1,0 +1,12 @@
+{
+  "start":25533,
+  "end":25591,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\nnot guilty of buying bootleg movies, that's not right.",
+  "id":"7b08703f-1f4e-4e35-b76a-dc9915990618",
+  "params":{
+    "id":"af394a3f-dd36-42bb-bd06-cc620fa3bd08"
+  },
+  "name":"Abel"
+}

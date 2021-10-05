@@ -1,0 +1,12 @@
+{
+  "start":32946,
+  "end":32965,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything's funny.",
+  "id":"d0421ba1-5373-461c-9b4e-b6d21ac6a632",
+  "params":{
+    "id":"7dbd1eea-2be7-474e-946a-e9e7e7d92dd1"
+  },
+  "name":"Kevin"
+}

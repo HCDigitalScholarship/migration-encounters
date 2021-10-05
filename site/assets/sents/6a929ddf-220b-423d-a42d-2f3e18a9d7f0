@@ -1,0 +1,12 @@
+{
+  "start":2038,
+  "end":2072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so I have questions for you.",
+  "id":"6a929ddf-220b-423d-a42d-2f3e18a9d7f0",
+  "params":{
+    "id":"795d36be-c983-498d-a84e-9422cc0f2daa"
+  },
+  "name":"Rodrigo"
+}

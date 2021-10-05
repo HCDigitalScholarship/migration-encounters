@@ -1,0 +1,12 @@
+{
+  "start":72387,
+  "end":72431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I make 200,\n   I will make 300 next time.",
+  "id":"55e959a5-b286-46d8-a087-056f988e6376",
+  "params":{
+    "id":"ea91d68c-f43d-431d-bc6f-b209c565ac23"
+  },
+  "name":"Daniel B"
+}

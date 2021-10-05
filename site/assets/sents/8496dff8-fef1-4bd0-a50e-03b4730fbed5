@@ -1,0 +1,12 @@
+{
+  "start":50298,
+  "end":50329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When do you want to come home?\"",
+  "id":"8496dff8-fef1-4bd0-a50e-03b4730fbed5",
+  "params":{
+    "id":"8849b73d-5986-475d-a518-d413698f1abb"
+  },
+  "name":"Cris"
+}

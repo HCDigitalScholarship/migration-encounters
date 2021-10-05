@@ -1,0 +1,12 @@
+{
+  "start":25836,
+  "end":25881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, my sister was sent to Mexico first.",
+  "id":"b6b6fd74-cd59-4833-bb89-4e5729cfbb27",
+  "params":{
+    "id":"0c93d578-de58-40ec-a06b-19bcea078ade"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":53214,
+  "end":53233,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Es muy\n     bonito.",
+  "id":"617bc54a-cb54-46ec-bc7c-782b10fa376c",
+  "params":{
+    "id":"269af5a6-5a20-4c45-a711-b876801c859b"
+  },
+  "name":"Maria"
+}

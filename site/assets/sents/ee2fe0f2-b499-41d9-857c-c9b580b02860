@@ -1,0 +1,12 @@
+{
+  "start":32818,
+  "end":32834,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Leave the truck.",
+  "id":"ee2fe0f2-b499-41d9-857c-c9b580b02860",
+  "params":{
+    "id":"8243bb50-7e71-4088-8a8d-ee186db0a671"
+  },
+  "name":"Laila"
+}

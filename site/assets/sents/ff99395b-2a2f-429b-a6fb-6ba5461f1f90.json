@@ -1,0 +1,13 @@
+{
+  "start":22079,
+  "end":22111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I travel in Mexico City so much.",
+  "id":"ff99395b-2a2f-429b-a6fb-6ba5461f1f90",
+  "params":{
+    "id":"ff99395b-2a2f-429b-a6fb-6ba5461f1f90",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

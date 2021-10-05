@@ -1,0 +1,13 @@
+{
+  "start":31110,
+  "end":31121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're bad.",
+  "id":"0fe231d7-1c88-497c-99ec-54597e0028fb",
+  "params":{
+    "id":"0fe231d7-1c88-497c-99ec-54597e0028fb",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

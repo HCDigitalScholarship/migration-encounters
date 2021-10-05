@@ -1,0 +1,13 @@
+{
+  "start":32027,
+  "end":32047,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have two brothers.",
+  "id":"266d53f2-bcac-4267-bb18-c84eebfcd017",
+  "params":{
+    "id":"266d53f2-bcac-4267-bb18-c84eebfcd017",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

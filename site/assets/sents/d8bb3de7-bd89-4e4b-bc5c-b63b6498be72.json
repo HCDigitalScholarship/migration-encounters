@@ -1,0 +1,13 @@
+{
+  "start":47453,
+  "end":47505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I feel like my dad kind of took advantage of me.",
+  "id":"d8bb3de7-bd89-4e4b-bc5c-b63b6498be72",
+  "params":{
+    "id":"d8bb3de7-bd89-4e4b-bc5c-b63b6498be72",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

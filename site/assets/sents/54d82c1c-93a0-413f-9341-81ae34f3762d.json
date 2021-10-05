@@ -1,0 +1,13 @@
+{
+  "start":21498,
+  "end":21571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well we get paid with commission so I don't know how much we get\n   paid.",
+  "id":"54d82c1c-93a0-413f-9341-81ae34f3762d",
+  "params":{
+    "id":"54d82c1c-93a0-413f-9341-81ae34f3762d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

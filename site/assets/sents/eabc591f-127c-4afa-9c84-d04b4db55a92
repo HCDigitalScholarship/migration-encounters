@@ -1,0 +1,12 @@
+{
+  "start":28326,
+  "end":28348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't want to do that.",
+  "id":"eabc591f-127c-4afa-9c84-d04b4db55a92",
+  "params":{
+    "id":"aaeebd02-a2a4-4c81-957e-8f097a3244b7"
+  },
+  "name":"Ben"
+}

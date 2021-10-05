@@ -1,0 +1,13 @@
+{
+  "start":7421,
+  "end":7499,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was pulled over by a\n   police officer, he asked me for my driver's license.",
+  "id":"58dd97f1-14f4-40e8-aed8-a98335a94cb2",
+  "params":{
+    "id":"58dd97f1-14f4-40e8-aed8-a98335a94cb2",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":41470,
+  "end":41489,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just stunned.",
+  "id":"fb68f54a-3c18-488a-b89d-110ab8d8dd4a",
+  "params":{
+    "id":"fb68f54a-3c18-488a-b89d-110ab8d8dd4a",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

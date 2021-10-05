@@ -1,0 +1,13 @@
+{
+  "start":20098,
+  "end":20136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You did customer service for AT&amp;T?",
+  "id":"7c9d42a7-7ae2-4179-b18c-5d9093573ef7",
+  "params":{
+    "id":"7c9d42a7-7ae2-4179-b18c-5d9093573ef7",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

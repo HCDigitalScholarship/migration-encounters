@@ -1,0 +1,13 @@
+{
+  "start":9215,
+  "end":9278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just want to ask you one more question and then we move back.",
+  "id":"7a40684d-683f-4b20-aa50-d02a945c6cfc",
+  "params":{
+    "id":"7a40684d-683f-4b20-aa50-d02a945c6cfc",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

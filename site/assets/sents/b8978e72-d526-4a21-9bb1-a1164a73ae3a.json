@@ -1,0 +1,13 @@
+{
+  "start":21019,
+  "end":21066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I told her, \"Well, the\n mother's not here.\"",
+  "id":"b8978e72-d526-4a21-9bb1-a1164a73ae3a",
+  "params":{
+    "id":"b8978e72-d526-4a21-9bb1-a1164a73ae3a",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

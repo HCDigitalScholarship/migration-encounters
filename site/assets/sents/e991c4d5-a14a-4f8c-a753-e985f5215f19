@@ -1,0 +1,12 @@
+{
+  "start":23394,
+  "end":23419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about ...",
+  "id":"e991c4d5-a14a-4f8c-a753-e985f5215f19",
+  "params":{
+    "id":"31e4162c-f9cf-4e12-8841-e4f577a8ee01"
+  },
+  "name":"Daniel"
+}

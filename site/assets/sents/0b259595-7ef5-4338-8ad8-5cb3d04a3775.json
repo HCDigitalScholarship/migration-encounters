@@ -1,0 +1,13 @@
+{
+  "start":39071,
+  "end":39124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My literature\n   teacher was extremely understanding.",
+  "id":"0b259595-7ef5-4338-8ad8-5cb3d04a3775",
+  "params":{
+    "id":"0b259595-7ef5-4338-8ad8-5cb3d04a3775",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

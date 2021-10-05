@@ -1,0 +1,12 @@
+{
+  "start":2070,
+  "end":2110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that's whenever\n   9/11 was going on.",
+  "id":"b1fdf12a-1eac-480c-bb62-1e07c769d589",
+  "params":{
+    "id":"8ceb82c2-d2d0-4c5d-9095-acd1a3a51dd3"
+  },
+  "name":"Joseph"
+}

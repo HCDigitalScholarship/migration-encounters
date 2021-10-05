@@ -1,0 +1,13 @@
+{
+  "start":3204,
+  "end":3237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you went to school in the US.",
+  "id":"8b7403e3-cd7c-49c0-a2a0-f8e7a06993ac",
+  "params":{
+    "id":"8b7403e3-cd7c-49c0-a2a0-f8e7a06993ac",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

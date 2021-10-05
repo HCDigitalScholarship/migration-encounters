@@ -1,0 +1,13 @@
+{
+  "start":9972,
+  "end":10028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't like our\n attitude that we take against them.",
+  "id":"4d4eb424-fe9e-4385-b39b-b66e9a47eb0d",
+  "params":{
+    "id":"4d4eb424-fe9e-4385-b39b-b66e9a47eb0d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

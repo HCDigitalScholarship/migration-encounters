@@ -1,0 +1,13 @@
+{
+  "start":19706,
+  "end":19790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I tried to tell her, \"If you don't\n   want the job, I can return the items.",
+  "id":"cdc8ef2c-660b-41ea-ab86-fc84c09db6ff",
+  "params":{
+    "id":"cdc8ef2c-660b-41ea-ab86-fc84c09db6ff",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

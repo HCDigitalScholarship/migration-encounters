@@ -1,0 +1,13 @@
+{
+  "start":7130,
+  "end":7192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know that's a stupid question, but I'm just\n   very curious.",
+  "id":"51081f0b-c9ff-4093-9342-0bbb0a9eac25",
+  "params":{
+    "id":"51081f0b-c9ff-4093-9342-0bbb0a9eac25",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

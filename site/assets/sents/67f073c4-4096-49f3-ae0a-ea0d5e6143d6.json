@@ -1,0 +1,13 @@
+{
+  "start":28080,
+  "end":28167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I can get a house, I\n   think it's a pretty good option for me to see my kids again.",
+  "id":"67f073c4-4096-49f3-ae0a-ea0d5e6143d6",
+  "params":{
+    "id":"67f073c4-4096-49f3-ae0a-ea0d5e6143d6",
+    "class":"anno"
+  },
+  "name":"Many"
+}

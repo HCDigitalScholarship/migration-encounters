@@ -1,0 +1,13 @@
+{
+  "start":54263,
+  "end":54307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I've actually gotten into\n   politics.",
+  "id":"f3956482-2b37-4159-95d9-7dec2b87284e",
+  "params":{
+    "id":"f3956482-2b37-4159-95d9-7dec2b87284e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

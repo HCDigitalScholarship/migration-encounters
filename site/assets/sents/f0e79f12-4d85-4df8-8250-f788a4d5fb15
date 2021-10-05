@@ -1,0 +1,12 @@
+{
+  "start":67476,
+  "end":67538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I\n   didn't listen to Nirvana until after this happened.",
+  "id":"f0e79f12-4d85-4df8-8250-f788a4d5fb15",
+  "params":{
+    "id":"c309c46a-d56d-45ea-8fc5-396b5c525ac5"
+  },
+  "name":"Cris"
+}

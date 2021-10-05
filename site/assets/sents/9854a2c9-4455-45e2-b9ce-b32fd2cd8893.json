@@ -1,0 +1,13 @@
+{
+  "start":30549,
+  "end":30641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a cousin, so he was like, \u201cYeah\n   I'll drive you, or we'll go together, or whatever.\u201d",
+  "id":"9854a2c9-4455-45e2-b9ce-b32fd2cd8893",
+  "params":{
+    "id":"9854a2c9-4455-45e2-b9ce-b32fd2cd8893",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

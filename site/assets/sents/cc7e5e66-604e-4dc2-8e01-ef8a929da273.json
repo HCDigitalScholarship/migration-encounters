@@ -1,0 +1,13 @@
+{
+  "start":21606,
+  "end":21627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's a U.S. citizen.",
+  "id":"cc7e5e66-604e-4dc2-8e01-ef8a929da273",
+  "params":{
+    "id":"cc7e5e66-604e-4dc2-8e01-ef8a929da273",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

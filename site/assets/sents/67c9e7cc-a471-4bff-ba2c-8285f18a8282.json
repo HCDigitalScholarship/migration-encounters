@@ -1,0 +1,13 @@
+{
+  "start":10360,
+  "end":10393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do they say, \"Americanized.\"",
+  "id":"67c9e7cc-a471-4bff-ba2c-8285f18a8282",
+  "params":{
+    "id":"67c9e7cc-a471-4bff-ba2c-8285f18a8282",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

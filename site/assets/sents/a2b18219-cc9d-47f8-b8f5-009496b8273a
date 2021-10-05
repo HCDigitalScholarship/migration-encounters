@@ -1,0 +1,12 @@
+{
+  "start":59042,
+  "end":59069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think\n   he's been there.",
+  "id":"a2b18219-cc9d-47f8-b8f5-009496b8273a",
+  "params":{
+    "id":"e551584d-54a7-4c14-ab2a-c93b8cc47f5b"
+  },
+  "name":"Daniel B"
+}

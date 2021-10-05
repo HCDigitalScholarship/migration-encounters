@@ -1,0 +1,13 @@
+{
+  "start":8360,
+  "end":8392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was it east-west or north-south?",
+  "id":"b11afbcc-c023-4fe0-92f0-3607bdf05180",
+  "params":{
+    "id":"b11afbcc-c023-4fe0-92f0-3607bdf05180",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

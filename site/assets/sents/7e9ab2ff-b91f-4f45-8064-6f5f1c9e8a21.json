@@ -1,0 +1,13 @@
+{
+  "start":33419,
+  "end":33461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I decided\n     to prove the CEO wrong.",
+  "id":"7e9ab2ff-b91f-4f45-8064-6f5f1c9e8a21",
+  "params":{
+    "id":"7e9ab2ff-b91f-4f45-8064-6f5f1c9e8a21",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

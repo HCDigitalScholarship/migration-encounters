@@ -1,0 +1,12 @@
+{
+  "start":163,
+  "end":192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell me that story?",
+  "id":"75674387-fca2-40b6-a47b-5bbbd6cbd9ed",
+  "params":{
+    "id":"8ec4e64d-40ea-4674-9a9c-fdf2244f07bf"
+  },
+  "name":"Frank"
+}

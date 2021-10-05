@@ -1,0 +1,13 @@
+{
+  "start":10037,
+  "end":10084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They put me in a holding cell to go\n   to jail.",
+  "id":"d137622a-6c49-4b7d-ba1b-40da21b96838",
+  "params":{
+    "id":"d137622a-6c49-4b7d-ba1b-40da21b96838",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

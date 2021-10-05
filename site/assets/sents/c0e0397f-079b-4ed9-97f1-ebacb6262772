@@ -1,0 +1,12 @@
+{
+  "start":9405,
+  "end":9475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When did the business start blossoming to help you move\n out of Texas?",
+  "id":"c0e0397f-079b-4ed9-97f1-ebacb6262772",
+  "params":{
+    "id":"f07557ec-f006-4e7d-ae29-555878b10b6c"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":33166,
+  "end":33182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Luis: Economics.",
+  "id":"d7676ad6-844a-4a51-9c62-d682bdc9477c",
+  "params":{
+    "id":"d7676ad6-844a-4a51-9c62-d682bdc9477c",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

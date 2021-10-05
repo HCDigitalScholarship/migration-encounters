@@ -1,0 +1,13 @@
+{
+  "start":5711,
+  "end":5786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really liked writing, learning, learning new stuff that I didn't\n   know.",
+  "id":"4bb42bdd-866a-41f3-9e88-23864e2996c6",
+  "params":{
+    "id":"4bb42bdd-866a-41f3-9e88-23864e2996c6",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

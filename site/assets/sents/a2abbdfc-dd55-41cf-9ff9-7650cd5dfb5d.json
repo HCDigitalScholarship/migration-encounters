@@ -1,0 +1,12 @@
+{
+  "start":18544,
+  "end":18624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From Mexico City I\n   went to [foreign language, location] that I had family in.",
+  "id":"a2abbdfc-dd55-41cf-9ff9-7650cd5dfb5d",
+  "params":{
+    "id":"be275755-3965-4a42-9722-eea1d6e9ff19"
+  },
+  "name":"Miguel B"
+}

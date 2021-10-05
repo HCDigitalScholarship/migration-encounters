@@ -1,0 +1,13 @@
+{
+  "start":44465,
+  "end":44501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you ever felt this free before?",
+  "id":"525af944-a4ef-47f7-9dc7-19e42bac4b5c",
+  "params":{
+    "id":"525af944-a4ef-47f7-9dc7-19e42bac4b5c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

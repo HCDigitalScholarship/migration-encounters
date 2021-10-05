@@ -1,0 +1,13 @@
+{
+  "start":39582,
+  "end":39604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's getting deported.",
+  "id":"8eb5c6cd-4fe8-47f1-849c-23c854c7a4df",
+  "params":{
+    "id":"8eb5c6cd-4fe8-47f1-849c-23c854c7a4df",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

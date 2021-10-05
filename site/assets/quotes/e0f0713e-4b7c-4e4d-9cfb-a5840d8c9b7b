@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":1002,
+  "end":1098,
+  "label":"Time in the US",
+  "id":"e0f0713e-4b7c-4e4d-9cfb-a5840d8c9b7b",
+  "params":{
+    "id":"ace8ca79-a7a6-4ab3-b881-2c05824c0db5"
+  },
+  "name":"Ivan",
+  "text":"Anita: Did you work in the U.S.?\n \n \n   Ivan: Yes, I did. I had a lot of jobs in the U.S.\n \n \n  "
+}

@@ -1,0 +1,12 @@
+{
+  "start":67623,
+  "end":67653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know who I am and what I do.",
+  "id":"60a5dcec-a3e2-44df-ba13-288ec42836d7",
+  "params":{
+    "id":"088482a4-881d-44c8-a2bb-91c013c50a76"
+  },
+  "name":"Axel"
+}

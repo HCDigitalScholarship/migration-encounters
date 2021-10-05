@@ -1,0 +1,12 @@
+{
+  "start":15072,
+  "end":15093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is it remote control?",
+  "id":"a552a3c7-65fc-46d8-8433-23a2448d9eee",
+  "params":{
+    "id":"a1390fa4-8a13-4fa1-9083-a852676bb04e"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34989,
+  "end":35091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, then it turns out I had a bench\n   warrant for failure to appear in court for a traffic violation.",
+  "id":"f928ff1a-4174-42c8-b173-4e4affe6e133",
+  "params":{
+    "id":"f928ff1a-4174-42c8-b173-4e4affe6e133",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

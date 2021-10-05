@@ -1,0 +1,13 @@
+{
+  "start":23364,
+  "end":23382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, why you not?",
+  "id":"9e0c0cf0-d1dd-4099-adec-42d53c3e25c4",
+  "params":{
+    "id":"9e0c0cf0-d1dd-4099-adec-42d53c3e25c4",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

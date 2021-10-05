@@ -1,0 +1,12 @@
+{
+  "start":29862,
+  "end":29934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That kind of thing\n   affects you and you're not allowed to tell anyone.",
+  "id":"4cab4a9b-660b-4097-9b88-7bdf87b261ce",
+  "params":{
+    "id":"620a7f19-34df-4faf-b748-406ac4457267"
+  },
+  "name":"Luisa"
+}

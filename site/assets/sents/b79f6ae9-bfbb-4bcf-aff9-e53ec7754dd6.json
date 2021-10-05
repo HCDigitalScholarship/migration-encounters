@@ -1,0 +1,13 @@
+{
+  "start":20249,
+  "end":20309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, everything had to be over there before I got deported.",
+  "id":"b79f6ae9-bfbb-4bcf-aff9-e53ec7754dd6",
+  "params":{
+    "id":"b79f6ae9-bfbb-4bcf-aff9-e53ec7754dd6",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

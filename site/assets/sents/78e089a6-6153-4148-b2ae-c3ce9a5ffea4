@@ -1,0 +1,12 @@
+{
+  "start":23003,
+  "end":23018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did\n they care?",
+  "id":"78e089a6-6153-4148-b2ae-c3ce9a5ffea4",
+  "params":{
+    "id":"c91f84ee-be25-472a-b785-911826eea691"
+  },
+  "name":"Ben"
+}

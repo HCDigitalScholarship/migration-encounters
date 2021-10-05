@@ -1,0 +1,13 @@
+{
+  "start":27884,
+  "end":27966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember when he\n     called me crazy, \"This guy is crazy, how come he did this?",
+  "id":"3db03e60-c0ef-431c-8f4f-88c0bfc03226",
+  "params":{
+    "id":"3db03e60-c0ef-431c-8f4f-88c0bfc03226",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30207,
+  "end":30239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just look\n   at it day by day.",
+  "id":"c58bdb91-cc77-4398-8c3f-6fbc7f5b718d",
+  "params":{
+    "id":"c58bdb91-cc77-4398-8c3f-6fbc7f5b718d",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

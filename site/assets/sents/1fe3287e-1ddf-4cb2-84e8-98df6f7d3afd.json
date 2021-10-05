@@ -1,0 +1,13 @@
+{
+  "start":30430,
+  "end":30449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had like\n   $350.",
+  "id":"1fe3287e-1ddf-4cb2-84e8-98df6f7d3afd",
+  "params":{
+    "id":"1fe3287e-1ddf-4cb2-84e8-98df6f7d3afd",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

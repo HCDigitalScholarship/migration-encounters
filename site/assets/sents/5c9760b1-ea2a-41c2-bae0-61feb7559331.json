@@ -1,0 +1,13 @@
+{
+  "start":19394,
+  "end":19432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They can decide to not\n   take you in.",
+  "id":"5c9760b1-ea2a-41c2-bae0-61feb7559331",
+  "params":{
+    "id":"5c9760b1-ea2a-41c2-bae0-61feb7559331",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

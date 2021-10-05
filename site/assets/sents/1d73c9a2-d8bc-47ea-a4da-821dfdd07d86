@@ -1,0 +1,12 @@
+{
+  "start":9620,
+  "end":9678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can say that that's another reason why we\n   returned.",
+  "id":"1d73c9a2-d8bc-47ea-a4da-821dfdd07d86",
+  "params":{
+    "id":"af392da7-fb2d-4ecd-bb6f-92ebcdc47438"
+  },
+  "name":"Roberto"
+}

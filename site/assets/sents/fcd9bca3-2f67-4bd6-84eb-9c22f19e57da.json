@@ -1,0 +1,13 @@
+{
+  "start":36870,
+  "end":36889,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in detention.",
+  "id":"fcd9bca3-2f67-4bd6-84eb-9c22f19e57da",
+  "params":{
+    "id":"fcd9bca3-2f67-4bd6-84eb-9c22f19e57da",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

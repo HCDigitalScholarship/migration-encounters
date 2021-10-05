@@ -1,0 +1,12 @@
+{
+  "start":4085,
+  "end":4163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The apartment that we moved into in California was a one-bedroom\n   apartment.",
+  "id":"be5577d8-f8c3-4bfc-9baa-d15d2aea0ac0",
+  "params":{
+    "id":"211d9adb-e210-4d6d-9248-0fc9375b2d69"
+  },
+  "name":"Luisa"
+}

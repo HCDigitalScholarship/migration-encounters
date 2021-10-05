@@ -1,0 +1,13 @@
+{
+  "start":268,
+  "end":330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to school in your birth country before you\n   left?",
+  "id":"f0c25169-0608-40a3-a7d4-e1924ab71544",
+  "params":{
+    "id":"f0c25169-0608-40a3-a7d4-e1924ab71544",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

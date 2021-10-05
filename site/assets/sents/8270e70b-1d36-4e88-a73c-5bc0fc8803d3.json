@@ -1,0 +1,13 @@
+{
+  "start":7902,
+  "end":7933,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's where I've always lived.",
+  "id":"8270e70b-1d36-4e88-a73c-5bc0fc8803d3",
+  "params":{
+    "id":"8270e70b-1d36-4e88-a73c-5bc0fc8803d3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

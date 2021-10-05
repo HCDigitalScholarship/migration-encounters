@@ -1,0 +1,13 @@
+{
+  "start":11643,
+  "end":11669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The call center got empty.",
+  "id":"15865d72-c6fa-4978-83da-ef4ad8f7d177",
+  "params":{
+    "id":"15865d72-c6fa-4978-83da-ef4ad8f7d177",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

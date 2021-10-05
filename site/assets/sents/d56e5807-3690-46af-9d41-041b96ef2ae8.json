@@ -1,0 +1,13 @@
+{
+  "start":34801,
+  "end":34949,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, we went over there, and it happened to be the\n   same day the teacher missed, so the teacher missed and they're like, \"All\n   you kids go home.\"",
+  "id":"d56e5807-3690-46af-9d41-041b96ef2ae8",
+  "params":{
+    "id":"d56e5807-3690-46af-9d41-041b96ef2ae8",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

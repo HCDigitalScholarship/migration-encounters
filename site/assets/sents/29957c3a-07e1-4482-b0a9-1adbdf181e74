@@ -1,0 +1,12 @@
+{
+  "start":45224,
+  "end":45281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At that time I felt like I wasn't any\n   good to anybody.",
+  "id":"29957c3a-07e1-4482-b0a9-1adbdf181e74",
+  "params":{
+    "id":"7607c98a-e957-411f-b1ed-8dc085e457df"
+  },
+  "name":"Mike"
+}

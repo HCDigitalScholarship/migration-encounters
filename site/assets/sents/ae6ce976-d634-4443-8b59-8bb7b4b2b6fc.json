@@ -1,0 +1,13 @@
+{
+  "start":43605,
+  "end":43649,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A sick man cannot help a sick man,\n   right?",
+  "id":"ae6ce976-d634-4443-8b59-8bb7b4b2b6fc",
+  "params":{
+    "id":"ae6ce976-d634-4443-8b59-8bb7b4b2b6fc",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

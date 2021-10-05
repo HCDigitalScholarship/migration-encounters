@@ -1,0 +1,12 @@
+{
+  "start":20251,
+  "end":20261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Good luck.",
+  "id":"bc68f254-1a67-4e14-81c4-f70c1daf3f14",
+  "params":{
+    "id":"e51b29d8-4935-490b-b992-876b6dcf0da8"
+  },
+  "name":"Rodrigo"
+}

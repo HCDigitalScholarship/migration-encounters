@@ -1,0 +1,12 @@
+{
+  "start":35081,
+  "end":35121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Did you qualify for DACA?",
+  "id":"a23a141c-f8ad-4318-afd3-e617f29392ec",
+  "params":{
+    "id":"a4bc0505-bab3-4135-a2a9-8932b2a02fa2"
+  },
+  "name":"Luisa"
+}

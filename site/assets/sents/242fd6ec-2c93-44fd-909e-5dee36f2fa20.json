@@ -1,0 +1,13 @@
+{
+  "start":42563,
+  "end":42688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you just never go to that place again\n because you know they're going to check it, so you're just like, \"No, never\n mind.",
+  "id":"242fd6ec-2c93-44fd-909e-5dee36f2fa20",
+  "params":{
+    "id":"242fd6ec-2c93-44fd-909e-5dee36f2fa20",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10678,
+  "end":10710,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like,\n \"You know what, man?",
+  "id":"1a1f6d2a-a796-4f14-ab7e-7673c08efc0c",
+  "params":{
+    "id":"1a1f6d2a-a796-4f14-ab7e-7673c08efc0c",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

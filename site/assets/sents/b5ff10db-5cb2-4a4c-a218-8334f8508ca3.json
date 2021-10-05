@@ -1,0 +1,13 @@
+{
+  "start":9261,
+  "end":9329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was taken in by the police and then the ICE officer would come\n   ",
+  "id":"b5ff10db-5cb2-4a4c-a218-8334f8508ca3",
+  "params":{
+    "id":"b5ff10db-5cb2-4a4c-a218-8334f8508ca3",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25218,
+  "end":25247,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh man, I lived in Monrovia.\"",
+  "id":"84dcd1af-a09a-46bd-a3fa-e0918cae2f64",
+  "params":{
+    "id":"84dcd1af-a09a-46bd-a3fa-e0918cae2f64",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

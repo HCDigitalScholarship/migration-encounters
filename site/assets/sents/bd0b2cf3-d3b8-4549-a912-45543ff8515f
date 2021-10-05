@@ -1,0 +1,12 @@
+{
+  "start":33817,
+  "end":33831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're trying.",
+  "id":"bd0b2cf3-d3b8-4549-a912-45543ff8515f",
+  "params":{
+    "id":"049d812c-6c5e-4100-8a68-3b39e603dba6"
+  },
+  "name":"Joana"
+}

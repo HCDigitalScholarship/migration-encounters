@@ -1,0 +1,13 @@
+{
+  "start":29956,
+  "end":29994,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to do good things, be\n   honest.",
+  "id":"2c7a02eb-f4fd-4a44-b666-1ad67014d01a",
+  "params":{
+    "id":"2c7a02eb-f4fd-4a44-b666-1ad67014d01a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

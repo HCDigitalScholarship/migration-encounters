@@ -1,0 +1,13 @@
+{
+  "start":6198,
+  "end":6209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It depends.",
+  "id":"a1aa29ea-5687-4029-85e2-aa6be15e42f3",
+  "params":{
+    "id":"a1aa29ea-5687-4029-85e2-aa6be15e42f3",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

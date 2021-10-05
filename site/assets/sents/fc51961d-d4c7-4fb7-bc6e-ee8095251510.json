@@ -1,0 +1,13 @@
+{
+  "start":42652,
+  "end":42752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Daniel: That's always going to be hard, talking about my kids is always going\n   to be hard.",
+  "id":"fc51961d-d4c7-4fb7-bc6e-ee8095251510",
+  "params":{
+    "id":"fc51961d-d4c7-4fb7-bc6e-ee8095251510",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":39966,
+  "end":40016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: Was the snow Chicago?\n \n \n   Luisa:",
+  "id":"6914f3de-7a77-4595-a67b-9dffdea887d9",
+  "params":{
+    "id":"586f76d3-4b14-4dc9-8cd8-31b2226b0601"
+  },
+  "name":"Luisa"
+}

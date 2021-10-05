@@ -1,0 +1,13 @@
+{
+  "start":36474,
+  "end":36516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're investigating a\n   crime, I get it.",
+  "id":"ca4871f7-cc41-4eeb-8906-8be6d37de3ef",
+  "params":{
+    "id":"ca4871f7-cc41-4eeb-8906-8be6d37de3ef",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9456,
+  "end":9501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have a\n secure job and all that shit.",
+  "id":"3cdf0a8b-9b3d-44f9-bca5-e95c1a1f0d9e",
+  "params":{
+    "id":"3cdf0a8b-9b3d-44f9-bca5-e95c1a1f0d9e",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

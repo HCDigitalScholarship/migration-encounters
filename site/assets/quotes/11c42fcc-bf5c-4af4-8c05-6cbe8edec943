@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":51371,
+  "end":51377,
+  "text":"es in the US?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you ever see them?\n   \n   \n     Joseph: Mom and dad, no. Brother and sister, maybe sometimes.\n   \n   \n     Anne: Do you have relatives in Mexico?\n   \n   \n     Joseph: Yeah.\n   \n   \n     Anne: Grandparents?\n   \n   \n     Joseph: Grandma, only.\n   \n   \n     Anne: Do you see her?\n   \n   \n     Joseph: Try to every weekend. I try too.\n   \n   \n     ",
+  "label":"GPE",
+  "id":"11c42fcc-bf5c-4af4-8c05-6cbe8edec943",
+  "name":"Joseph"
+}

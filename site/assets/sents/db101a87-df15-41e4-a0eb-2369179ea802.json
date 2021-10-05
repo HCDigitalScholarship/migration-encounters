@@ -1,0 +1,15 @@
+{
+  "start":10992,
+  "end":11030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were some of the bad experiences?",
+  "id":"db101a87-df15-41e4-a0eb-2369179ea802",
+  "params":{
+    "id":"db101a87-df15-41e4-a0eb-2369179ea802",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

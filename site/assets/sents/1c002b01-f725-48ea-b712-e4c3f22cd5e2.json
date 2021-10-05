@@ -1,0 +1,13 @@
+{
+  "start":3046,
+  "end":3111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then,\n   I will play soccer as well and just going out to movies.",
+  "id":"1c002b01-f725-48ea-b712-e4c3f22cd5e2",
+  "params":{
+    "id":"1c002b01-f725-48ea-b712-e4c3f22cd5e2",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

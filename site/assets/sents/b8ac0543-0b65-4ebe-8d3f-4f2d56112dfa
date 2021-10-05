@@ -1,0 +1,12 @@
+{
+  "start":46016,
+  "end":46053,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Saying, \"Hi, this is Natalie\"?",
+  "id":"b8ac0543-0b65-4ebe-8d3f-4f2d56112dfa",
+  "params":{
+    "id":"a3e13356-9a50-4b81-8472-6c8b017a4d0c"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4254,
+  "end":4274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have six siblings.",
+  "id":"fddee05c-c0d8-4c0e-99e9-8596c5f42731",
+  "params":{
+    "id":"fddee05c-c0d8-4c0e-99e9-8596c5f42731",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

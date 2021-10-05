@@ -1,0 +1,13 @@
+{
+  "start":11784,
+  "end":11842,
+  "label":"SENT",
+  "type":"sent",
+  "text":"On the weekends, we didn't work\n   on Saturday and Sunday.",
+  "id":"90dc7f3f-74c9-479b-a4e6-1bfab95c05af",
+  "params":{
+    "id":"90dc7f3f-74c9-479b-a4e6-1bfab95c05af",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

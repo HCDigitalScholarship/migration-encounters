@@ -1,0 +1,12 @@
+{
+  "start":42051,
+  "end":42120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"so\n   much of your time [Laila giggles] so I should start wrapping up",
+  "id":"b34b6480-94c7-40cb-8f0c-01793836ec03",
+  "params":{
+    "id":"c16c30a9-e442-4e57-b6a2-ffe5632ebdf5"
+  },
+  "name":"Laila"
+}

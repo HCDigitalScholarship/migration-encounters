@@ -1,0 +1,12 @@
+{
+  "start":12293,
+  "end":12304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved it.",
+  "id":"5b3f69af-4316-4e90-bbac-4fbfe4180943",
+  "params":{
+    "id":"2d12e6fb-265e-4fb9-9265-7e9f95f2ac66"
+  },
+  "name":"Luisa"
+}

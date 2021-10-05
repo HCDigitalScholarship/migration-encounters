@@ -1,0 +1,15 @@
+{
+  "start":15405,
+  "end":15427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Excuse my\n   language.",
+  "id":"76233296-f486-4164-ab6b-00b5bfc12128",
+  "params":{
+    "id":"76233296-f486-4164-ab6b-00b5bfc12128",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

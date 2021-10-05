@@ -1,0 +1,13 @@
+{
+  "start":1139,
+  "end":1240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The only thing I knew is that I didn't want to be locked up like\n   an animal for something so small.",
+  "id":"007e60da-7449-471f-b727-3d9f0d1ef5cd",
+  "params":{
+    "id":"007e60da-7449-471f-b727-3d9f0d1ef5cd",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

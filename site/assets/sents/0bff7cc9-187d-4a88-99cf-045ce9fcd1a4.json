@@ -1,0 +1,13 @@
+{
+  "start":8016,
+  "end":8060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then I was just like, \"You know\n   what?",
+  "id":"0bff7cc9-187d-4a88-99cf-045ce9fcd1a4",
+  "params":{
+    "id":"0bff7cc9-187d-4a88-99cf-045ce9fcd1a4",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

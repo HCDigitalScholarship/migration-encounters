@@ -1,0 +1,13 @@
+{
+  "start":26181,
+  "end":26201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ilse: Exactly, yeah.",
+  "id":"446415f0-93e2-48d7-9929-d74857dcb0e6",
+  "params":{
+    "id":"446415f0-93e2-48d7-9929-d74857dcb0e6",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

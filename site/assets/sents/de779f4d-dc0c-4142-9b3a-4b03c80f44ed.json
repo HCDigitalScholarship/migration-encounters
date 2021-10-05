@@ -1,0 +1,13 @@
+{
+  "start":21666,
+  "end":21693,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was pretty\n   much it.",
+  "id":"de779f4d-dc0c-4142-9b3a-4b03c80f44ed",
+  "params":{
+    "id":"de779f4d-dc0c-4142-9b3a-4b03c80f44ed",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

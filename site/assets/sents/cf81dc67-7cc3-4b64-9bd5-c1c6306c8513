@@ -1,0 +1,12 @@
+{
+  "start":22601,
+  "end":22657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They will\n   think that they're going to fix everything.",
+  "id":"cf81dc67-7cc3-4b64-9bd5-c1c6306c8513",
+  "params":{
+    "id":"46dc0037-82b6-448a-9fc2-1430f8539c7e"
+  },
+  "name":"Rodrigo"
+}

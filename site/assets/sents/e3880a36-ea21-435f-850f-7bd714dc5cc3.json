@@ -1,0 +1,13 @@
+{
+  "start":16744,
+  "end":16796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Like criminal marks against you?\n \n \n   Edgar:",
+  "id":"e3880a36-ea21-435f-850f-7bd714dc5cc3",
+  "params":{
+    "id":"e3880a36-ea21-435f-850f-7bd714dc5cc3",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

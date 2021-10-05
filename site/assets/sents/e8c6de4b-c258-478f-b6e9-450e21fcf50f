@@ -1,0 +1,12 @@
+{
+  "start":17750,
+  "end":17780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say we have equal rights.",
+  "id":"e8c6de4b-c258-478f-b6e9-450e21fcf50f",
+  "params":{
+    "id":"b6903274-6bf0-4d1b-9cab-04bfb7ab27fe"
+  },
+  "name":"Joana"
+}

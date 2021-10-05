@@ -1,0 +1,13 @@
+{
+  "start":7109,
+  "end":7129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did that hurt a lot?",
+  "id":"e7d7afc5-f4c9-4d74-aa4a-1ab6014dee45",
+  "params":{
+    "id":"e7d7afc5-f4c9-4d74-aa4a-1ab6014dee45",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

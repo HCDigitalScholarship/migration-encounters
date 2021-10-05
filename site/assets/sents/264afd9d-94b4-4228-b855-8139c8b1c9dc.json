@@ -1,0 +1,12 @@
+{
+  "start":97,
+  "end":121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were born in Mexico?",
+  "id":"264afd9d-94b4-4228-b855-8139c8b1c9dc",
+  "params":{
+    "id":"81b79094-cdcb-457e-9cc0-877320b79bfd"
+  },
+  "name":"Ivan"
+}

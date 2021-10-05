@@ -1,0 +1,12 @@
+{
+  "start":59345,
+  "end":59424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either your mom comes over here or I go over there, but we'll\n see each other.\"",
+  "id":"5c3488e8-6f88-4fc6-8dfe-c797c3ec77e5",
+  "params":{
+    "id":"dbcb2133-8a0f-4bd1-a131-786aa49070ba"
+  },
+  "name":"Axel"
+}

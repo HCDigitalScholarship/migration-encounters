@@ -1,0 +1,13 @@
+{
+  "start":17949,
+  "end":18010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is hard because when I left from here,\n   I was fifteen.",
+  "id":"d7670c67-3fab-4dc6-9bc4-e0859e31d714",
+  "params":{
+    "id":"d7670c67-3fab-4dc6-9bc4-e0859e31d714",
+    "class":"anno"
+  },
+  "name":"Many"
+}

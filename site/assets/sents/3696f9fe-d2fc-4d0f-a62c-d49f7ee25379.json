@@ -1,0 +1,13 @@
+{
+  "start":24168,
+  "end":24184,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\ngrew up there.",
+  "id":"3696f9fe-d2fc-4d0f-a62c-d49f7ee25379",
+  "params":{
+    "id":"3696f9fe-d2fc-4d0f-a62c-d49f7ee25379",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

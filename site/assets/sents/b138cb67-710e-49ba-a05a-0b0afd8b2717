@@ -1,0 +1,12 @@
+{
+  "start":3403,
+  "end":3423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that day.",
+  "id":"b138cb67-710e-49ba-a05a-0b0afd8b2717",
+  "params":{
+    "id":"7e7f7f32-fc1f-4941-b9b1-dc168b322dc1"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4069,
+  "end":4217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if it's a mom thing, but she would always\n   tell me, two weeks before I got locked up, she tell me, \u201cDonovan portate\n   bien, be good.",
+  "id":"e31c99d6-846b-4069-90c2-05f0874a2b90",
+  "params":{
+    "id":"e31c99d6-846b-4069-90c2-05f0874a2b90",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

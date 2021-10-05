@@ -1,0 +1,12 @@
+{
+  "start":14670,
+  "end":14685,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love reading.",
+  "id":"b80b8305-deec-494a-8061-dcefdcb27c04",
+  "params":{
+    "id":"8f21fd12-baaf-4b20-834b-a03cad7fc825"
+  },
+  "name":"Luisa"
+}

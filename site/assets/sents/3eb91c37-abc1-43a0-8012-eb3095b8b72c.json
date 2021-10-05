@@ -1,0 +1,13 @@
+{
+  "start":39323,
+  "end":39354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have this\n     conversation.",
+  "id":"3eb91c37-abc1-43a0-8012-eb3095b8b72c",
+  "params":{
+    "id":"3eb91c37-abc1-43a0-8012-eb3095b8b72c",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

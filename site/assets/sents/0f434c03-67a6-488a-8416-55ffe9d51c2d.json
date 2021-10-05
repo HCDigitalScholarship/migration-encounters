@@ -1,0 +1,13 @@
+{
+  "start":10444,
+  "end":10500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because I\n   don't have citizenship [Affirmative sound].",
+  "id":"0f434c03-67a6-488a-8416-55ffe9d51c2d",
+  "params":{
+    "id":"0f434c03-67a6-488a-8416-55ffe9d51c2d",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

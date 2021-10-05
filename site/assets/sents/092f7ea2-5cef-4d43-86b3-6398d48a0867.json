@@ -1,0 +1,13 @@
+{
+  "start":16283,
+  "end":16319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you help them get to the\n   U.S?",
+  "id":"092f7ea2-5cef-4d43-86b3-6398d48a0867",
+  "params":{
+    "id":"092f7ea2-5cef-4d43-86b3-6398d48a0867",
+    "class":"anno"
+  },
+  "name":"Many"
+}

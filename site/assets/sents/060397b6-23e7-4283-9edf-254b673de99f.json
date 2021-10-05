@@ -1,0 +1,13 @@
+{
+  "start":21886,
+  "end":21930,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"It's just\n     pasta there and then tomato.",
+  "id":"060397b6-23e7-4283-9edf-254b673de99f",
+  "params":{
+    "id":"060397b6-23e7-4283-9edf-254b673de99f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

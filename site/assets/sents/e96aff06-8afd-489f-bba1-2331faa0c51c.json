@@ -1,0 +1,13 @@
+{
+  "start":23943,
+  "end":24097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad told me, and\n he told me this in secret, he was like, \"Look man, the reason why I'm doing\n this is because right now this woman is helping me out.\"",
+  "id":"e96aff06-8afd-489f-bba1-2331faa0c51c",
+  "params":{
+    "id":"e96aff06-8afd-489f-bba1-2331faa0c51c",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

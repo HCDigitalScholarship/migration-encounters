@@ -1,0 +1,13 @@
+{
+  "start":11952,
+  "end":12007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, didn't you learn from your other\n   experience?",
+  "id":"e4ad6ed6-f3dd-44f1-a85e-794b4c32af71",
+  "params":{
+    "id":"e4ad6ed6-f3dd-44f1-a85e-794b4c32af71",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

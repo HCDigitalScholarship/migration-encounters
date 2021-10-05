@@ -1,0 +1,13 @@
+{
+  "start":5954,
+  "end":5985,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Flower beds and everything.",
+  "id":"38c53bdc-d25c-479a-97d9-663349151089",
+  "params":{
+    "id":"38c53bdc-d25c-479a-97d9-663349151089",
+    "class":"anno"
+  },
+  "name":"Many"
+}

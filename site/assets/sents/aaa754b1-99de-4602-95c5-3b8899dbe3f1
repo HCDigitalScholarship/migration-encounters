@@ -1,0 +1,12 @@
+{
+  "start":20199,
+  "end":20261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She goes, \"No, with our relatives yes, but as far as\n you, no.",
+  "id":"aaa754b1-99de-4602-95c5-3b8899dbe3f1",
+  "params":{
+    "id":"8dab3b78-9b1c-43f1-b87e-cfd07eeda73e"
+  },
+  "name":"Ben"
+}

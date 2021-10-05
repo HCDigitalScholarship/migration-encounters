@@ -1,0 +1,12 @@
+{
+  "start":32603,
+  "end":32657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it\n   was like, \"Oh, Alexis\" [High pitched voice].",
+  "id":"c851c21f-3eb1-4fbf-b355-147c54461566",
+  "params":{
+    "id":"70a4c4a1-3764-421d-8ec8-14f50026013e"
+  },
+  "name":"Jeimmy"
+}

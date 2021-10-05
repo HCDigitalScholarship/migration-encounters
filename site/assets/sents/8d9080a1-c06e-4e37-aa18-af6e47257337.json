@@ -1,0 +1,13 @@
+{
+  "start":990,
+  "end":1053,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't hard for me to go to sleep, so I just fell\n   asleep.",
+  "id":"8d9080a1-c06e-4e37-aa18-af6e47257337",
+  "params":{
+    "id":"8d9080a1-c06e-4e37-aa18-af6e47257337",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18278,
+  "end":18339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was\n   Hispanic, he was Latino, his last name was Ramirez.",
+  "id":"efb11118-e652-40ad-a512-7256171568f8",
+  "params":{
+    "id":"efb11118-e652-40ad-a512-7256171568f8",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10776,
+  "end":10795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was that like?",
+  "id":"ff7d39df-214d-480e-ab95-27574afba81c",
+  "params":{
+    "id":"ff7d39df-214d-480e-ab95-27574afba81c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15283,
+  "end":15316,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we both helped each other out.",
+  "id":"3c85c0b1-65e2-46c1-b35f-57024b88e7ad",
+  "params":{
+    "id":"bdca9a6b-dfc7-4271-a893-62950b69bf0b"
+  },
+  "name":"Mike"
+}

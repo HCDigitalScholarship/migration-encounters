@@ -1,0 +1,13 @@
+{
+  "start":34330,
+  "end":34357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"No, that's not me.",
+  "id":"743e5bd9-7928-4349-bbee-10cb7eac413b",
+  "params":{
+    "id":"743e5bd9-7928-4349-bbee-10cb7eac413b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

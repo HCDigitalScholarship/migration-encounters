@@ -1,0 +1,13 @@
+{
+  "start":67690,
+  "end":67725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's your favorite American food?",
+  "id":"8f1c90dc-3a93-4273-b95e-0c6f89a3946c",
+  "params":{
+    "id":"8f1c90dc-3a93-4273-b95e-0c6f89a3946c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

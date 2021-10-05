@@ -1,0 +1,13 @@
+{
+  "start":1115,
+  "end":1126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me.",
+  "id":"e35033d2-9105-46fe-a4c5-fd9fa6bf5fc8",
+  "params":{
+    "id":"e35033d2-9105-46fe-a4c5-fd9fa6bf5fc8",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

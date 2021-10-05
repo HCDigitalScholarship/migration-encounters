@@ -1,0 +1,13 @@
+{
+  "start":10994,
+  "end":11030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want anyone to\n   find out.",
+  "id":"2f43ed08-09ce-4865-8ff8-16d823d3b16c",
+  "params":{
+    "id":"2f43ed08-09ce-4865-8ff8-16d823d3b16c",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

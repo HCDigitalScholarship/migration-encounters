@@ -1,0 +1,12 @@
+{
+  "start":3488,
+  "end":3545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad told her to send the\n   location where we were at.",
+  "id":"02d0d28f-2879-4a48-b8d1-1ae3b91d5d4c",
+  "params":{
+    "id":"968ef914-e2f6-4fa9-af73-1984cd5f2020"
+  },
+  "name":"Yair"
+}

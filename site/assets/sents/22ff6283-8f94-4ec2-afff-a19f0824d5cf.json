@@ -1,0 +1,13 @@
+{
+  "start":12455,
+  "end":12479,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I worked a day more.",
+  "id":"22ff6283-8f94-4ec2-afff-a19f0824d5cf",
+  "params":{
+    "id":"22ff6283-8f94-4ec2-afff-a19f0824d5cf",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

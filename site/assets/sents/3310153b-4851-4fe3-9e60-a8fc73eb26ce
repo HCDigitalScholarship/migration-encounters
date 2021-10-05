@@ -1,0 +1,12 @@
+{
+  "start":28478,
+  "end":28532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a lot of\n   friends, white boys and black guys.",
+  "id":"3310153b-4851-4fe3-9e60-a8fc73eb26ce",
+  "params":{
+    "id":"24523fb4-5512-4614-bb74-504acee08626"
+  },
+  "name":"Many"
+}

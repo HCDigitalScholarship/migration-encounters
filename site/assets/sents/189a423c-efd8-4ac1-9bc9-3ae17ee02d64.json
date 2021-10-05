@@ -1,0 +1,13 @@
+{
+  "start":72348,
+  "end":72432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a recommendation from a lot of\n places but my family members were never there.",
+  "id":"189a423c-efd8-4ac1-9bc9-3ae17ee02d64",
+  "params":{
+    "id":"189a423c-efd8-4ac1-9bc9-3ae17ee02d64",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

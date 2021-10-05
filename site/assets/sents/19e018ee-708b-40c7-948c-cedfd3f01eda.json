@@ -1,0 +1,13 @@
+{
+  "start":39130,
+  "end":39211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because she's like, \"Do\n   you still live in an apartment, a one room apartment?\"",
+  "id":"19e018ee-708b-40c7-948c-cedfd3f01eda",
+  "params":{
+    "id":"19e018ee-708b-40c7-948c-cedfd3f01eda",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

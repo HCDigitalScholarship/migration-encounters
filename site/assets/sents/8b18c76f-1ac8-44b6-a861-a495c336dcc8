@@ -1,0 +1,12 @@
+{
+  "start":34998,
+  "end":35134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's been three times when I'm walking and I see a jazz band\n playing on the street and I tell them, \"Bro, let me borrow your guitar.",
+  "id":"8b18c76f-1ac8-44b6-a861-a495c336dcc8",
+  "params":{
+    "id":"1eeefa3f-cd30-415e-a412-9c491eabccdf"
+  },
+  "name":"Billy"
+}

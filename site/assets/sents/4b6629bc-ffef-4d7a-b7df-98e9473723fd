@@ -1,0 +1,12 @@
+{
+  "start":24745,
+  "end":24780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some\n   try to deny it, some don't.",
+  "id":"4b6629bc-ffef-4d7a-b7df-98e9473723fd",
+  "params":{
+    "id":"8d1cc42c-a8eb-44b4-95ef-604c08f31681"
+  },
+  "name":"Miguel A"
+}

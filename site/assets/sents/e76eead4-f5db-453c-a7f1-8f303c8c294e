@@ -1,0 +1,12 @@
+{
+  "start":15381,
+  "end":15410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Yeah, absolutely.\"",
+  "id":"e76eead4-f5db-453c-a7f1-8f303c8c294e",
+  "params":{
+    "id":"b6404b4c-f2c1-4b18-869b-f4d99b6a1f9f"
+  },
+  "name":"Rodolfo"
+}

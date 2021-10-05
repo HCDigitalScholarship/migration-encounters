@@ -1,0 +1,13 @@
+{
+  "start":34181,
+  "end":34244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to be president, but I want to make a change [Chuckles].",
+  "id":"72ee1f9b-b8fd-4a8d-bab9-12d65448897e",
+  "params":{
+    "id":"72ee1f9b-b8fd-4a8d-bab9-12d65448897e",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":8012,
+  "end":8064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So in high school, you're not liking school as much.",
+  "id":"92d9340b-1ab6-4681-bf63-c38adac427be",
+  "params":{
+    "id":"63df23b0-721c-4f86-b99c-dcee7c6f44f0"
+  },
+  "name":"Edgar"
+}

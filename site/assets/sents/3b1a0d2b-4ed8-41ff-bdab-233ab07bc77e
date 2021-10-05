@@ -1,0 +1,12 @@
+{
+  "start":3910,
+  "end":3955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything was good, but I got caught with...",
+  "id":"3b1a0d2b-4ed8-41ff-bdab-233ab07bc77e",
+  "params":{
+    "id":"4f319513-3429-4eb2-9c0a-ce9f22919bf1"
+  },
+  "name":"Mike"
+}

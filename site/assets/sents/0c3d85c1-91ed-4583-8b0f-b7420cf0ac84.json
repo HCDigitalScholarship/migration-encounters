@@ -1,0 +1,13 @@
+{
+  "start":31552,
+  "end":31592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you achieved your dreams in America.",
+  "id":"0c3d85c1-91ed-4583-8b0f-b7420cf0ac84",
+  "params":{
+    "id":"0c3d85c1-91ed-4583-8b0f-b7420cf0ac84",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

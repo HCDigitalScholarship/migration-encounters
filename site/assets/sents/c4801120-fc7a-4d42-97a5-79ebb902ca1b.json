@@ -1,0 +1,13 @@
+{
+  "start":8492,
+  "end":8515,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   how do you call it?",
+  "id":"c4801120-fc7a-4d42-97a5-79ebb902ca1b",
+  "params":{
+    "id":"c4801120-fc7a-4d42-97a5-79ebb902ca1b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

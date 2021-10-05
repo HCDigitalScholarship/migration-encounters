@@ -1,0 +1,13 @@
+{
+  "start":16436,
+  "end":16467,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have a reason to be there.",
+  "id":"f64d9829-ceb3-4647-b99b-afad27fa964d",
+  "params":{
+    "id":"f64d9829-ceb3-4647-b99b-afad27fa964d",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

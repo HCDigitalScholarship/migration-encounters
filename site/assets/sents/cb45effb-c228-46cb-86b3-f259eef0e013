@@ -1,0 +1,12 @@
+{
+  "start":6251,
+  "end":6276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad worked all\n   day.",
+  "id":"cb45effb-c228-46cb-86b3-f259eef0e013",
+  "params":{
+    "id":"e6739363-62b2-4160-bc7a-924680495ebf"
+  },
+  "name":"Hugo"
+}

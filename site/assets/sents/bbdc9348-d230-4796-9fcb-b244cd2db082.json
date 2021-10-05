@@ -1,0 +1,13 @@
+{
+  "start":14984,
+  "end":15009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Why?\n \n \n   Diana:",
+  "id":"bbdc9348-d230-4796-9fcb-b244cd2db082",
+  "params":{
+    "id":"bbdc9348-d230-4796-9fcb-b244cd2db082",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

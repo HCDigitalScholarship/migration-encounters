@@ -1,0 +1,13 @@
+{
+  "start":768,
+  "end":799,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Yeah, I had bad influences.",
+  "id":"2acd95e1-a2df-4c5a-a0e5-8945dd181d97",
+  "params":{
+    "id":"2acd95e1-a2df-4c5a-a0e5-8945dd181d97",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26360,
+  "end":26419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"First of all, at my house, they were like, \"What's\n   this?",
+  "id":"b5db9093-9845-43b1-9ba7-c056834dfa96",
+  "params":{
+    "id":"b5db9093-9845-43b1-9ba7-c056834dfa96",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

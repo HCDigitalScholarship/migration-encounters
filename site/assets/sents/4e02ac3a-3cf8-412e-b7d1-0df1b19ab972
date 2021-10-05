@@ -1,0 +1,12 @@
+{
+  "start":6739,
+  "end":6773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He took us to Texas for two years.",
+  "id":"4e02ac3a-3cf8-412e-b7d1-0df1b19ab972",
+  "params":{
+    "id":"5c1be848-39a1-40d7-9ae2-30533f197867"
+  },
+  "name":"Mike"
+}

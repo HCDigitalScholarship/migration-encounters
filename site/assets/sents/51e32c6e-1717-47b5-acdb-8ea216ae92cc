@@ -1,0 +1,12 @@
+{
+  "start":12300,
+  "end":12408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was something\n   new for them at that time because it was like nobody knew that guacamole\n   was avocado.",
+  "id":"51e32c6e-1717-47b5-acdb-8ea216ae92cc",
+  "params":{
+    "id":"0a5adad6-4240-4959-bdcb-60e13d115d57"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3303,
+  "end":3363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Edgar: Around like... Yeah, two years older than me.",
+  "id":"d6d5ff87-d89e-4561-970a-84ac11e70fbe",
+  "params":{
+    "id":"823e23e2-a744-4bfc-a69c-ab3079fa9fe3"
+  },
+  "name":"Edgar"
+}

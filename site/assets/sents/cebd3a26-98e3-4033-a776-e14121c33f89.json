@@ -1,0 +1,13 @@
+{
+  "start":20489,
+  "end":20521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which was my father at the time.",
+  "id":"cebd3a26-98e3-4033-a776-e14121c33f89",
+  "params":{
+    "id":"cebd3a26-98e3-4033-a776-e14121c33f89",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

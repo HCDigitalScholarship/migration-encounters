@@ -1,0 +1,12 @@
+{
+  "start":37307,
+  "end":37341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you always had to be\n   ready.",
+  "id":"1e1f1d13-b109-4f74-859e-b0cdc7ff0d84",
+  "params":{
+    "id":"7918dfa8-6275-4d8c-8f17-cafc221eaac2"
+  },
+  "name":"Mike"
+}

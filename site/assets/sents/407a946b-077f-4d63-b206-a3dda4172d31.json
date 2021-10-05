@@ -1,0 +1,13 @@
+{
+  "start":4141,
+  "end":4172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, my brother is twenty-four.",
+  "id":"407a946b-077f-4d63-b206-a3dda4172d31",
+  "params":{
+    "id":"407a946b-077f-4d63-b206-a3dda4172d31",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

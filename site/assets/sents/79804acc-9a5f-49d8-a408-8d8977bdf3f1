@@ -1,0 +1,12 @@
+{
+  "start":51494,
+  "end":51509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you see her?",
+  "id":"79804acc-9a5f-49d8-a408-8d8977bdf3f1",
+  "params":{
+    "id":"0db0c99a-aa7f-4e84-ac04-01a2dfd8ba67"
+  },
+  "name":"Joseph"
+}

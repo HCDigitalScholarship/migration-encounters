@@ -1,0 +1,12 @@
+{
+  "start":13260,
+  "end":13300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So that was a\n   bit of your experience?",
+  "id":"13ee14f4-1e79-4b4b-84bf-22b6552e4b2a",
+  "params":{
+    "id":"15ec81fe-a2e1-4276-abd9-9853865cae87"
+  },
+  "name":"Pablo"
+}

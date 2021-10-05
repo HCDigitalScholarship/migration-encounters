@@ -1,0 +1,12 @@
+{
+  "start":53436,
+  "end":53455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What would you say?",
+  "id":"11ce38a0-eac6-4024-bd7a-5eb6e8fde93a",
+  "params":{
+    "id":"ee5dc7f5-7c2e-4493-bf53-1af24f50f0c6"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":474,
+  "end":504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you know why they took you?",
+  "id":"6fdd0e9e-45ed-4984-88b3-b9d3f7cedce1",
+  "params":{
+    "id":"6fdd0e9e-45ed-4984-88b3-b9d3f7cedce1",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

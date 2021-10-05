@@ -1,0 +1,13 @@
+{
+  "start":20343,
+  "end":20382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me\n   a car to work for them.",
+  "id":"e627a55a-48c6-4f3f-a960-9455320d2f3c",
+  "params":{
+    "id":"e627a55a-48c6-4f3f-a960-9455320d2f3c",
+    "class":"anno"
+  },
+  "name":"Many"
+}

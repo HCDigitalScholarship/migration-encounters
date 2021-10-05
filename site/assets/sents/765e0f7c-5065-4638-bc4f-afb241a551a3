@@ -1,0 +1,12 @@
+{
+  "start":3001,
+  "end":3021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I going to set back.",
+  "id":"765e0f7c-5065-4638-bc4f-afb241a551a3",
+  "params":{
+    "id":"ff454cbc-b57d-440e-acef-ffb7df2f9279"
+  },
+  "name":"Erik"
+}

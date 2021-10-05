@@ -1,0 +1,13 @@
+{
+  "start":28900,
+  "end":29012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was about to get done, I was like two or three days\n   from getting done, that's when the cops came over.",
+  "id":"2b9bfc4c-c0f3-4f83-89f7-e799dd29f7b2",
+  "params":{
+    "id":"2b9bfc4c-c0f3-4f83-89f7-e799dd29f7b2",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

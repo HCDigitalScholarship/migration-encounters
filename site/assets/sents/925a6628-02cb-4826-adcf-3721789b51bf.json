@@ -1,0 +1,13 @@
+{
+  "start":27505,
+  "end":27539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to\n   deal with this.",
+  "id":"925a6628-02cb-4826-adcf-3721789b51bf",
+  "params":{
+    "id":"925a6628-02cb-4826-adcf-3721789b51bf",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

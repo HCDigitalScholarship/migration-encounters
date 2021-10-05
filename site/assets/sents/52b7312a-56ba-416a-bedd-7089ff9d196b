@@ -1,0 +1,12 @@
+{
+  "start":64104,
+  "end":64150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're not as secure as we once were back then.",
+  "id":"52b7312a-56ba-416a-bedd-7089ff9d196b",
+  "params":{
+    "id":"ec0258b5-c0c0-43a9-90ab-996b0146fe5f"
+  },
+  "name":"Joseph"
+}

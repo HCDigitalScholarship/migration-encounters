@@ -1,0 +1,12 @@
+{
+  "start":7199,
+  "end":7218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you doing?",
+  "id":"80abb29e-f1ca-40db-91c6-de956c5164ec",
+  "params":{
+    "id":"19aa2c51-ce41-46f9-87d4-23127d068660"
+  },
+  "name":"Daniel B"
+}

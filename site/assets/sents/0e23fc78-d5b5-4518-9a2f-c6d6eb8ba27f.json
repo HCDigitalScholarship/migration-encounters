@@ -1,0 +1,13 @@
+{
+  "start":26298,
+  "end":26401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could go fishing, I could go to a lake, play basketball, really\n   anything, like going to the woods.",
+  "id":"0e23fc78-d5b5-4518-9a2f-c6d6eb8ba27f",
+  "params":{
+    "id":"0e23fc78-d5b5-4518-9a2f-c6d6eb8ba27f",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

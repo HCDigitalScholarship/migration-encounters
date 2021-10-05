@@ -1,0 +1,12 @@
+{
+  "start":5743,
+  "end":5779,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How much schooling did you complete?",
+  "id":"8ddf11ed-01fd-4bf2-a060-78a42ff1c3c7",
+  "params":{
+    "id":"a3e986e2-f981-4392-ac7f-c3ee8b4d3b3c"
+  },
+  "name":"Melani"
+}

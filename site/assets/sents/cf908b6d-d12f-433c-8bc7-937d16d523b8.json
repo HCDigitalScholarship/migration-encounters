@@ -1,0 +1,12 @@
+{
+  "start":12,
+  "end":92,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just to start, I wanted to know how old you were when you migrated\n   to the US.",
+  "id":"cf908b6d-d12f-433c-8bc7-937d16d523b8",
+  "params":{
+    "id":"5d21acd3-7677-4c74-a272-6f00c79b5a42"
+  },
+  "name":"Daniel"
+}

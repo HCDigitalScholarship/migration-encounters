@@ -1,0 +1,13 @@
+{
+  "start":34235,
+  "end":34261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't talk to this person.",
+  "id":"9ca1334c-aafd-41d4-a4db-7974cf9725ce",
+  "params":{
+    "id":"9ca1334c-aafd-41d4-a4db-7974cf9725ce",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23992,
+  "end":24074,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just got out of\n   the hospital and the doctor told me that everything is okay.\"",
+  "id":"b5079853-c8b6-415f-a454-562d0ee5d793",
+  "params":{
+    "id":"b7f62168-2c9c-49a8-822d-332f7cea350a"
+  },
+  "name":"Many"
+}

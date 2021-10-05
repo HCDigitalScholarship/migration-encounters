@@ -1,0 +1,13 @@
+{
+  "start":31415,
+  "end":31528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when they find out\n   that I was undocumented, well, they only provide me with a one semester\n   scholarship.",
+  "id":"2c9a4450-4897-4e9a-8a1d-1d3ce875f760",
+  "params":{
+    "id":"2c9a4450-4897-4e9a-8a1d-1d3ce875f760",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

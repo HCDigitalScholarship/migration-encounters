@@ -1,0 +1,13 @@
+{
+  "start":200,
+  "end":245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to thank you for coming to talk to us.",
+  "id":"13d72934-2d6a-4de7-a05b-d19b5fae934b",
+  "params":{
+    "id":"13d72934-2d6a-4de7-a05b-d19b5fae934b",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

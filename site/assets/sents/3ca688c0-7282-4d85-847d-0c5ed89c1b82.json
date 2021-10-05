@@ -1,0 +1,13 @@
+{
+  "start":9808,
+  "end":9839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had studies in\n   astronomy.",
+  "id":"3ca688c0-7282-4d85-847d-0c5ed89c1b82",
+  "params":{
+    "id":"3ca688c0-7282-4d85-847d-0c5ed89c1b82",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

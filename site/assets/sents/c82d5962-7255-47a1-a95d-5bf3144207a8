@@ -1,0 +1,12 @@
+{
+  "start":140,
+  "end":171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went there\n   because of him.",
+  "id":"c82d5962-7255-47a1-a95d-5bf3144207a8",
+  "params":{
+    "id":"85f2050d-ab89-48d2-884c-5d4cff83c414"
+  },
+  "name":"Carlos"
+}

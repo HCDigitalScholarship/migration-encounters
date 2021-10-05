@@ -1,0 +1,13 @@
+{
+  "start":3341,
+  "end":3465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's kind of sad and funny at the\n   same time that in the street that I went to live, it was nothing but\n   Mexican people.",
+  "id":"0f75ed2f-6fe6-4b2d-af76-db73ab984c69",
+  "params":{
+    "id":"0f75ed2f-6fe6-4b2d-af76-db73ab984c69",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

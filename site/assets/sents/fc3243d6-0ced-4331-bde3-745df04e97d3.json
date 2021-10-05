@@ -1,0 +1,13 @@
+{
+  "start":28318,
+  "end":28396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I called my parents, they were like, \"Do you recommend\n   [coming back]?\"",
+  "id":"fc3243d6-0ced-4331-bde3-745df04e97d3",
+  "params":{
+    "id":"fc3243d6-0ced-4331-bde3-745df04e97d3",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42653,
+  "end":42673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s what you did.",
+  "id":"7ab0ebd0-a8ec-4936-938c-35284d90e91b",
+  "params":{
+    "id":"0562851b-41b7-4caa-9e8b-2b0fc4b9b7ba"
+  },
+  "name":"Mike"
+}

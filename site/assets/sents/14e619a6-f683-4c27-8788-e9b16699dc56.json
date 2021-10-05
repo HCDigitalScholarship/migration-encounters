@@ -1,0 +1,13 @@
+{
+  "start":15428,
+  "end":15445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Only\n   drinking.",
+  "id":"14e619a6-f683-4c27-8788-e9b16699dc56",
+  "params":{
+    "id":"14e619a6-f683-4c27-8788-e9b16699dc56",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

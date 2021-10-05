@@ -1,0 +1,13 @@
+{
+  "start":2444,
+  "end":2484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you sure that you don't\n   need me?\"",
+  "id":"a81a7599-23fc-40eb-b930-521d90ec0b36",
+  "params":{
+    "id":"a81a7599-23fc-40eb-b930-521d90ec0b36",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

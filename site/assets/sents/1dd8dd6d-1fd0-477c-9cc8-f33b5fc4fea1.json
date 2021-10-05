@@ -1,0 +1,15 @@
+{
+  "start":18855,
+  "end":18968,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wish that they can be a little bit more easy so we can have a\n   status that doesn't get us into illegal stuff.",
+  "id":"1dd8dd6d-1fd0-477c-9cc8-f33b5fc4fea1",
+  "params":{
+    "id":"1dd8dd6d-1fd0-477c-9cc8-f33b5fc4fea1",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

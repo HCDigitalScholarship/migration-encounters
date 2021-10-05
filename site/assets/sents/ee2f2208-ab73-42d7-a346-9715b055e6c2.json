@@ -1,0 +1,13 @@
+{
+  "start":33602,
+  "end":33661,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was about two years old, before we went to the\n   States.",
+  "id":"ee2f2208-ab73-42d7-a346-9715b055e6c2",
+  "params":{
+    "id":"ee2f2208-ab73-42d7-a346-9715b055e6c2",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

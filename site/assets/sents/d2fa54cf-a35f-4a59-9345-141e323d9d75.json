@@ -1,0 +1,13 @@
+{
+  "start":32761,
+  "end":32810,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It changed my life\n   really, really, completely.",
+  "id":"d2fa54cf-a35f-4a59-9345-141e323d9d75",
+  "params":{
+    "id":"d2fa54cf-a35f-4a59-9345-141e323d9d75",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

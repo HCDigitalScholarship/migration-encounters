@@ -1,0 +1,13 @@
+{
+  "start":6765,
+  "end":6792,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when you weren't\n   working",
+  "id":"0ed6b8ed-fb06-4e9a-81c8-4511c20ca8e8",
+  "params":{
+    "id":"0ed6b8ed-fb06-4e9a-81c8-4511c20ca8e8",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

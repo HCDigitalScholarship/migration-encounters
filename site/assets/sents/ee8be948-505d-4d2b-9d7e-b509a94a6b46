@@ -1,0 +1,12 @@
+{
+  "start":23546,
+  "end":23584,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I studied them, I read over the rules.",
+  "id":"ee8be948-505d-4d2b-9d7e-b509a94a6b46",
+  "params":{
+    "id":"892091cd-7b40-4b1b-899c-cd143d2304b6"
+  },
+  "name":"Yair"
+}

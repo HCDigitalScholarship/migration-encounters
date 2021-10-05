@@ -1,0 +1,12 @@
+{
+  "start":16382,
+  "end":16417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He used to send money to\n   my mom.",
+  "id":"3c5aff1c-304c-47cb-8986-47a6c25af102",
+  "params":{
+    "id":"1a06859b-6a58-4b38-b723-bdd6a9ff3531"
+  },
+  "name":"Luis B"
+}

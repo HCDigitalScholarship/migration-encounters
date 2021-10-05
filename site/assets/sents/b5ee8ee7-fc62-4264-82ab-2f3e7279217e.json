@@ -1,0 +1,13 @@
+{
+  "start":38404,
+  "end":38461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, there's a lot to the government, part to blame there.",
+  "id":"b5ee8ee7-fc62-4264-82ab-2f3e7279217e",
+  "params":{
+    "id":"b5ee8ee7-fc62-4264-82ab-2f3e7279217e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

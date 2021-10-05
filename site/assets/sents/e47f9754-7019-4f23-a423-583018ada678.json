@@ -1,0 +1,13 @@
+{
+  "start":16076,
+  "end":16100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like electronic music.",
+  "id":"e47f9754-7019-4f23-a423-583018ada678",
+  "params":{
+    "id":"e47f9754-7019-4f23-a423-583018ada678",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":33477,
+  "end":33549,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \u201cHey, let's set this aside just in case, for an\n emergency.\u201d",
+  "id":"427a4767-f948-46c6-ae48-21a8083ebe3a",
+  "params":{
+    "id":"427a4767-f948-46c6-ae48-21a8083ebe3a",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

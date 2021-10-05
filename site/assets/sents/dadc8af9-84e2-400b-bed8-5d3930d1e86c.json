@@ -1,0 +1,13 @@
+{
+  "start":15164,
+  "end":15203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go, \"Oh we're not going to Saltillo.\u201d",
+  "id":"dadc8af9-84e2-400b-bed8-5d3930d1e86c",
+  "params":{
+    "id":"dadc8af9-84e2-400b-bed8-5d3930d1e86c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

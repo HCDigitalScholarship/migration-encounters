@@ -1,0 +1,13 @@
+{
+  "start":1982,
+  "end":1995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Yair:",
+  "id":"5fb9645d-be6c-4f95-b318-6594aa14f5ef",
+  "params":{
+    "id":"5fb9645d-be6c-4f95-b318-6594aa14f5ef",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

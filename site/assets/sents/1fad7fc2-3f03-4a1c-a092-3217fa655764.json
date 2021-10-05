@@ -1,0 +1,13 @@
+{
+  "start":34015,
+  "end":34189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If somebody asked you,\n   \"Why does this happen?\" what would you say?\n \n \n   Melani: I would say that a lot of Latinas, especially young Latinas have\n   kids or [join] gangs.",
+  "id":"1fad7fc2-3f03-4a1c-a092-3217fa655764",
+  "params":{
+    "id":"1fad7fc2-3f03-4a1c-a092-3217fa655764",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

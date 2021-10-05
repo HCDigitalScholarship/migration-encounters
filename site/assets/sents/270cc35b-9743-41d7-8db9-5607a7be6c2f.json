@@ -1,0 +1,13 @@
+{
+  "start":25140,
+  "end":25197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived in Huntington Beach,\" or \"I lived in Long Beach.\"",
+  "id":"270cc35b-9743-41d7-8db9-5607a7be6c2f",
+  "params":{
+    "id":"270cc35b-9743-41d7-8db9-5607a7be6c2f",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

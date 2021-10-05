@@ -1,0 +1,15 @@
+{
+  "start":14788,
+  "end":15084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, when I was on _____, it was my elementary school, I feel\n   accepted and they were going to transfer me to ____ Junior High School,\n   it's more for an African American community and so we moved from home and I\n   was going to go to _____, that was an American community and I talked to",
+  "id":"4fc95b15-d433-4337-bed2-5914af84edc5",
+  "params":{
+    "id":"4fc95b15-d433-4337-bed2-5914af84edc5",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

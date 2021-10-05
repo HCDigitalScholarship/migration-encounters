@@ -1,0 +1,12 @@
+{
+  "start":34676,
+  "end":34716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cMami es que tengo que hacer\n     esto\u201d.",
+  "id":"619f4727-3530-4a31-ad26-04e70d0e502e",
+  "params":{
+    "id":"273401eb-e6d2-4996-be45-acb922cab78b"
+  },
+  "name":"Maria"
+}

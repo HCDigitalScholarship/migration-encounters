@@ -1,0 +1,13 @@
+{
+  "start":29974,
+  "end":30030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had\n   to wait a certain amount of years.\n \n \n   Anne:",
+  "id":"d3f0e9c5-7741-4210-854d-fea631a570ac",
+  "params":{
+    "id":"d3f0e9c5-7741-4210-854d-fea631a570ac",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11378,
+  "end":11425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"So you decided what you want to do.",
+  "id":"3b9574f8-f4b0-4ed9-9ea7-fe941290fb56",
+  "params":{
+    "id":"3b9574f8-f4b0-4ed9-9ea7-fe941290fb56",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

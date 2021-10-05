@@ -1,0 +1,13 @@
+{
+  "start":15149,
+  "end":15207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess your lawyer knew that this was going to\n   happen.",
+  "id":"867fcf80-c2c7-498d-8355-86abcc0f99a7",
+  "params":{
+    "id":"867fcf80-c2c7-498d-8355-86abcc0f99a7",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

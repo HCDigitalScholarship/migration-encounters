@@ -1,0 +1,12 @@
+{
+  "start":42834,
+  "end":42957,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I understand how you would really not want to ask anything\n from your dad, but it seems like you had to ask for help there.",
+  "id":"840cdfd8-6ce7-41d5-94ea-67fe291123e4",
+  "params":{
+    "id":"c0cd2110-14b7-46d9-a9d5-f64152dd30a2"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":28110,
+  "end":28130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   take it.",
+  "id":"7375f894-9752-4d36-9978-b2ec047279b4",
+  "params":{
+    "id":"6c9b512e-830f-4e60-bf6e-21b2472ba5a1"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27080,
+  "end":27094,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got stabbed.",
+  "id":"3e62de16-474c-4116-a48c-8fce1055a03d",
+  "params":{
+    "id":"3e62de16-474c-4116-a48c-8fce1055a03d",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":44953,
+  "end":44973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, she's Natalie.",
+  "id":"3e4fe420-15a3-4808-b83c-4c8ad18f64cb",
+  "params":{
+    "id":"3e4fe420-15a3-4808-b83c-4c8ad18f64cb",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

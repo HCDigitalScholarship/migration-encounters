@@ -1,0 +1,12 @@
+{
+  "start":9409,
+  "end":9432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did your brother apply?",
+  "id":"58b5c33f-1a61-4e0b-9dd4-c42411914daa",
+  "params":{
+    "id":"7b663cb3-1651-4e7e-911c-5f06349724c4"
+  },
+  "name":"Edgar"
+}

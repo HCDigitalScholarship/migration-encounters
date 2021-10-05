@@ -1,0 +1,13 @@
+{
+  "start":24981,
+  "end":25013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandfather, he's\n   the man.",
+  "id":"e5d75b38-6ce3-487a-a5ad-d5b8b67d5b94",
+  "params":{
+    "id":"e5d75b38-6ce3-487a-a5ad-d5b8b67d5b94",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

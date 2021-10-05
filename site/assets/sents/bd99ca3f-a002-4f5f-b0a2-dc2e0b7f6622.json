@@ -1,0 +1,13 @@
+{
+  "start":13149,
+  "end":13188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not going\n   to take care of me.",
+  "id":"bd99ca3f-a002-4f5f-b0a2-dc2e0b7f6622",
+  "params":{
+    "id":"bd99ca3f-a002-4f5f-b0a2-dc2e0b7f6622",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

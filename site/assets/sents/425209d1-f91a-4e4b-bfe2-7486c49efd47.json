@@ -1,0 +1,13 @@
+{
+  "start":21342,
+  "end":21398,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If they tell me,\n\"Drop everything you have here and go.\"",
+  "id":"425209d1-f91a-4e4b-bfe2-7486c49efd47",
+  "params":{
+    "id":"425209d1-f91a-4e4b-bfe2-7486c49efd47",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

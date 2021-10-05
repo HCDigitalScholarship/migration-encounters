@@ -1,0 +1,12 @@
+{
+  "start":42345,
+  "end":42365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Great.\"",
+  "id":"446befad-971f-4956-9972-312a1efbe92a",
+  "params":{
+    "id":"b754f98b-7f4f-42f9-b840-ad8e1be43f40"
+  },
+  "name":"Rodrigo"
+}

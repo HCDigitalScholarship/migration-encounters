@@ -1,0 +1,13 @@
+{
+  "start":39501,
+  "end":39551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if you ever remember that I told you.",
+  "id":"afe65424-17f7-4179-a9bd-13ada1919fae",
+  "params":{
+    "id":"afe65424-17f7-4179-a9bd-13ada1919fae",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2263,
+  "end":2317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My little\n   sister was shaking, because she was cold.",
+  "id":"d44bb69d-f195-401d-9aec-b210d29759f9",
+  "params":{
+    "id":"d44bb69d-f195-401d-9aec-b210d29759f9",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

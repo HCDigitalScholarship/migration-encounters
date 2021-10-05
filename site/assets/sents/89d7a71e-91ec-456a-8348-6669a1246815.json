@@ -1,0 +1,13 @@
+{
+  "start":25734,
+  "end":25874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, while I was in high school, the overall feeling that I got from\n   my counselor was that \u201cHe's Mexican and he's lucky if he graduates.",
+  "id":"89d7a71e-91ec-456a-8348-6669a1246815",
+  "params":{
+    "id":"89d7a71e-91ec-456a-8348-6669a1246815",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

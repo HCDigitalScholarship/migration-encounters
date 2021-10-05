@@ -1,0 +1,12 @@
+{
+  "start":21121,
+  "end":21147,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In this case, I messed up.",
+  "id":"cb8e6819-f6f4-4b98-9b74-e24fcbdfa19e",
+  "params":{
+    "id":"6135e34e-e302-44ff-9c86-62372e30196b"
+  },
+  "name":"Ivan B"
+}

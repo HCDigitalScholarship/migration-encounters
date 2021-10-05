@@ -1,0 +1,13 @@
+{
+  "start":1106,
+  "end":1124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of jobs?",
+  "id":"351e9cbd-34b3-4628-a72a-eebc0561eecb",
+  "params":{
+    "id":"351e9cbd-34b3-4628-a72a-eebc0561eecb",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18824,
+  "end":18860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you\n     missed the tastes.",
+  "id":"27c196a7-0de7-4dac-8d71-2dfeb21a3cb7",
+  "params":{
+    "id":"009cf526-60e4-4729-9f2b-931900ae4334"
+  },
+  "name":"Beto"
+}

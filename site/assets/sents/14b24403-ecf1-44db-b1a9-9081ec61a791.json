@@ -1,0 +1,13 @@
+{
+  "start":22179,
+  "end":22214,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But actually this is my second day.",
+  "id":"14b24403-ecf1-44db-b1a9-9081ec61a791",
+  "params":{
+    "id":"14b24403-ecf1-44db-b1a9-9081ec61a791",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

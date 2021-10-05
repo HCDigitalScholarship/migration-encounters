@@ -1,0 +1,12 @@
+{
+  "start":53642,
+  "end":53680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have your warrant for your\n arrest.",
+  "id":"e242f171-4586-4468-8149-d13b79f5e2f4",
+  "params":{
+    "id":"1e29e90d-e58a-4d22-91de-e33bc3c6f618"
+  },
+  "name":"Axel"
+}

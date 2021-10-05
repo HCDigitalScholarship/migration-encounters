@@ -1,0 +1,13 @@
+{
+  "start":21460,
+  "end":21573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He put\n   me in a prison, well, not a prison in a cell of 30 guys and most of them\n   had already done something.",
+  "id":"7545f2fd-2017-4dde-9a0f-570f36ba40bb",
+  "params":{
+    "id":"7545f2fd-2017-4dde-9a0f-570f36ba40bb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

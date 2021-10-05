@@ -1,0 +1,13 @@
+{
+  "start":39068,
+  "end":39188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, first of all, just create something like ESL [English as a\n   Second Language], like Spanish as a second language.",
+  "id":"b942d5b8-5727-47dc-97a1-fe7d1f7a4c6d",
+  "params":{
+    "id":"b942d5b8-5727-47dc-97a1-fe7d1f7a4c6d",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

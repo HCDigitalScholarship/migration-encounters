@@ -1,0 +1,13 @@
+{
+  "start":6730,
+  "end":6752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you come back?",
+  "id":"6319bd9f-7dfa-49e6-91cc-2886eb20ccc4",
+  "params":{
+    "id":"6319bd9f-7dfa-49e6-91cc-2886eb20ccc4",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

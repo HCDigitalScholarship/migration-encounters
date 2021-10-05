@@ -1,0 +1,13 @@
+{
+  "start":8359,
+  "end":8391,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were like five, three, two.",
+  "id":"4acd424d-761f-484c-ad15-23419db304f2",
+  "params":{
+    "id":"4acd424d-761f-484c-ad15-23419db304f2",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

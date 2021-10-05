@@ -1,0 +1,12 @@
+{
+  "start":35438,
+  "end":35455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You are giving me",
+  "id":"4331ec9c-bd75-4ee0-bf66-522615cca115",
+  "params":{
+    "id":"fb9ff049-c4e3-4f18-84c0-00b6ddd7ebd8"
+  },
+  "name":"Rodrigo"
+}

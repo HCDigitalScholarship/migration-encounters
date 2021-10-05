@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":3667,
+  "end":3947,
+  "label":"College, Pastimes,  cooking, School, Jobs, Restaurants",
+  "id":"dfef1fd3-cec3-4433-9905-24428a46ed1e",
+  "params":{
+    "id":"b6fac229-d448-44a8-987f-240544dce201"
+  },
+  "name":"Josue",
+  "text":"Josue: I was in college, _____ for about a year and a half.\n \n \n   Sergio: So, college. What did you study in college?\n \n \n   Josue: Culinary arts.\n \n \n   Sergio: Culinary arts. That's pretty cool.\n \n \n   Josue: Yeah, I mean I like cooking, but not working in a restaurant.\n \n \n  "
+}

@@ -1,0 +1,12 @@
+{
+  "start":20935,
+  "end":20964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We help truckers find a load.",
+  "id":"982f4ccb-dda3-4927-b975-cc810f2cc890",
+  "params":{
+    "id":"a6f95e7c-4699-4bd3-b1ee-94dc50861354"
+  },
+  "name":"Edgar"
+}

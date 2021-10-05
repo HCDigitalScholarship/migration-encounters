@@ -1,0 +1,13 @@
+{
+  "start":20231,
+  "end":20305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was super happy because I was like, \"Oh yes, I\n   will see my abuelita.\"",
+  "id":"baf93fa8-deae-4156-8370-d22deba0024c",
+  "params":{
+    "id":"baf93fa8-deae-4156-8370-d22deba0024c",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

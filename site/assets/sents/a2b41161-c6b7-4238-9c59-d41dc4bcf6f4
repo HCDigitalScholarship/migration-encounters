@@ -1,0 +1,12 @@
+{
+  "start":0,
+  "end":11,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Isabel:",
+  "id":"a2b41161-c6b7-4238-9c59-d41dc4bcf6f4",
+  "params":{
+    "id":"6aec52b2-e643-44d2-949a-4ba3e3fd9eee"
+  },
+  "name":"Daniel"
+}

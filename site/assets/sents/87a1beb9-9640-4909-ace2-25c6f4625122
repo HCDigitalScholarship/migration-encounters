@@ -1,0 +1,12 @@
+{
+  "start":4197,
+  "end":4240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you finish school in the United States?",
+  "id":"87a1beb9-9640-4909-ace2-25c6f4625122",
+  "params":{
+    "id":"389c21e6-d483-4815-bda0-11073c2197cc"
+  },
+  "name":"Jeimmy"
+}

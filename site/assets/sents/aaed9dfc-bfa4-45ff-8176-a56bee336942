@@ -1,0 +1,12 @@
+{
+  "start":6193,
+  "end":6215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody gets grumpy.",
+  "id":"aaed9dfc-bfa4-45ff-8176-a56bee336942",
+  "params":{
+    "id":"cce71f13-875f-4742-851c-f71c44c8b79e"
+  },
+  "name":"Erik"
+}

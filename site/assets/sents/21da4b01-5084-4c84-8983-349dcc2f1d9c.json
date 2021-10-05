@@ -1,0 +1,13 @@
+{
+  "start":33903,
+  "end":33965,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If things can happen in the future, I'm willing to\n   take it.",
+  "id":"21da4b01-5084-4c84-8983-349dcc2f1d9c",
+  "params":{
+    "id":"21da4b01-5084-4c84-8983-349dcc2f1d9c",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

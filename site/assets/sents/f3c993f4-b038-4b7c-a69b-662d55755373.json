@@ -1,0 +1,13 @@
+{
+  "start":13800,
+  "end":13831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of the first\n   jobs I had\u2026",
+  "id":"f3c993f4-b038-4b7c-a69b-662d55755373",
+  "params":{
+    "id":"f3c993f4-b038-4b7c-a69b-662d55755373",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

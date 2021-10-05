@@ -1,0 +1,13 @@
+{
+  "start":52927,
+  "end":52992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I turned some turns and turns\n and I lost them somewhere between.",
+  "id":"80d370c5-d8ba-4749-8a4d-405251dd19e4",
+  "params":{
+    "id":"80d370c5-d8ba-4749-8a4d-405251dd19e4",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

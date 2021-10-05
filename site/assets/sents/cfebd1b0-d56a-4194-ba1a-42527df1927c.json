@@ -1,0 +1,12 @@
+{
+  "start":91,
+  "end":118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I am interviewing Ivan.",
+  "id":"cfebd1b0-d56a-4194-ba1a-42527df1927c",
+  "params":{
+    "id":"d4cf6122-1250-4186-9fdc-310407a071d2"
+  },
+  "name":"Ivan B"
+}

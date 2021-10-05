@@ -1,0 +1,13 @@
+{
+  "start":4952,
+  "end":4975,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't accomplish it.",
+  "id":"65c5048d-d47c-48db-bf86-b27c66b40f87",
+  "params":{
+    "id":"65c5048d-d47c-48db-bf86-b27c66b40f87",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

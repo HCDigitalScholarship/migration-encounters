@@ -1,0 +1,12 @@
+{
+  "start":5625,
+  "end":5678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anita: In what cities did you live in the US?",
+  "id":"30dad4d6-71e2-49a1-989e-f542b5a704c6",
+  "params":{
+    "id":"dfb1a821-b759-4f7b-9b93-8a5d3d3ce26d"
+  },
+  "name":"Melani"
+}

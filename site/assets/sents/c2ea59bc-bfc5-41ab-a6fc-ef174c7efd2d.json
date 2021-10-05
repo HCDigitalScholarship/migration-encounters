@@ -1,0 +1,13 @@
+{
+  "start":28066,
+  "end":28076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who knows?",
+  "id":"c2ea59bc-bfc5-41ab-a6fc-ef174c7efd2d",
+  "params":{
+    "id":"c2ea59bc-bfc5-41ab-a6fc-ef174c7efd2d",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

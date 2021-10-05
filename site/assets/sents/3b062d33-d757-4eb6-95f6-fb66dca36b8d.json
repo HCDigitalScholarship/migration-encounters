@@ -1,0 +1,12 @@
+{
+  "start":20442,
+  "end":20464,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They put me in a room.",
+  "id":"3b062d33-d757-4eb6-95f6-fb66dca36b8d",
+  "params":{
+    "id":"07a1fd16-2779-422f-adb8-e421dbb68fe2"
+  },
+  "name":"Sylent"
+}

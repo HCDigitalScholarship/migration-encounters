@@ -1,0 +1,12 @@
+{
+  "start":4326,
+  "end":4380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you said it was pretty easy to learn the language.",
+  "id":"291cd43f-c065-404b-9469-b777fcf7e670",
+  "params":{
+    "id":"df2127a2-b9c1-40ff-8d52-e09e7455f342"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9097,
+  "end":9181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I was telling you in the beginning, we just took the\n   wrong decisions.",
+  "id":"568fa80a-8c1c-4762-b420-1496123822cc",
+  "params":{
+    "id":"568fa80a-8c1c-4762-b420-1496123822cc",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":47201,
+  "end":47309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I couldn't tell that guy it wasn't my car because he\n   probably wouldn't even have let me keep driving.",
+  "id":"1efdbc7a-9fca-472f-896f-5ece9521fb22",
+  "params":{
+    "id":"1efdbc7a-9fca-472f-896f-5ece9521fb22",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

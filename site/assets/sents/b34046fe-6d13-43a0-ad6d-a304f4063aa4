@@ -1,0 +1,12 @@
+{
+  "start":226,
+  "end":291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was five years old when they took me into the United\n   States.",
+  "id":"b34046fe-6d13-43a0-ad6d-a304f4063aa4",
+  "params":{
+    "id":"1a72e230-2a6a-49a5-8fa0-6853d97b8a60"
+  },
+  "name":"Luis B"
+}

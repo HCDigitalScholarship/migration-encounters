@@ -1,0 +1,13 @@
+{
+  "start":13916,
+  "end":14055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could be 10 minutes\n early or two minutes early, but if you get stopped twice right here at\n least, you lost all your time right there.",
+  "id":"efd2adb0-ae32-4667-84ca-cfbf6fdcf7fb",
+  "params":{
+    "id":"efd2adb0-ae32-4667-84ca-cfbf6fdcf7fb",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

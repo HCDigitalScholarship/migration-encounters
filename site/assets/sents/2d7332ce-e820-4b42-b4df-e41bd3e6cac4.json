@@ -1,0 +1,13 @@
+{
+  "start":21019,
+  "end":21092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If he goes out and harms another one of our guys,\n   you have to step in.",
+  "id":"2d7332ce-e820-4b42-b4df-e41bd3e6cac4",
+  "params":{
+    "id":"2d7332ce-e820-4b42-b4df-e41bd3e6cac4",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

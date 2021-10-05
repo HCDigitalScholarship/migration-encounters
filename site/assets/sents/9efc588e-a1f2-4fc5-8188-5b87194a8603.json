@@ -1,0 +1,13 @@
+{
+  "start":38220,
+  "end":38295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Y s\u00f3lo eran las vacaciones, no\n     lo hac\u00edamos trabajar en dia de escuela.",
+  "id":"9efc588e-a1f2-4fc5-8188-5b87194a8603",
+  "params":{
+    "id":"9efc588e-a1f2-4fc5-8188-5b87194a8603",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

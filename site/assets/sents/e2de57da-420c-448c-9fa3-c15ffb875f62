@@ -1,0 +1,12 @@
+{
+  "start":34021,
+  "end":34058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Two years ago, my mom passed\n   away.",
+  "id":"e2de57da-420c-448c-9fa3-c15ffb875f62",
+  "params":{
+    "id":"c8676281-e48f-4974-94e0-af094a69c350"
+  },
+  "name":"Rodrigo"
+}

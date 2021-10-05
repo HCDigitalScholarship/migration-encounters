@@ -1,0 +1,12 @@
+{
+  "start":14282,
+  "end":14297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can I help you?",
+  "id":"590ae7c8-07a7-485f-abe6-1bc81ec3def4",
+  "params":{
+    "id":"5ac5b0f2-b764-41b7-a63d-97f88d1db562"
+  },
+  "name":"Rodolfo"
+}

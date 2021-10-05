@@ -1,0 +1,13 @@
+{
+  "start":30041,
+  "end":30109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And my mom, she can understand it like 70% and speak it\n   like 30%.",
+  "id":"831e95c2-cc56-4461-a27f-5c83615f9640",
+  "params":{
+    "id":"831e95c2-cc56-4461-a27f-5c83615f9640",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

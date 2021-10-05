@@ -1,0 +1,12 @@
+{
+  "start":18092,
+  "end":18117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But this street is empty.",
+  "id":"d5c75778-4a77-4c67-900c-3ed8bc9b7706",
+  "params":{
+    "id":"2ebeb08c-0a16-4149-a9c7-29f76e5390e1"
+  },
+  "name":"Hugo"
+}

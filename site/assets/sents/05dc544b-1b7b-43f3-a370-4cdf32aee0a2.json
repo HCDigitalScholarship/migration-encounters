@@ -1,0 +1,13 @@
+{
+  "start":3599,
+  "end":3655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was blessed to find a job\n   actually with my stepdad.",
+  "id":"05dc544b-1b7b-43f3-a370-4cdf32aee0a2",
+  "params":{
+    "id":"05dc544b-1b7b-43f3-a370-4cdf32aee0a2",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

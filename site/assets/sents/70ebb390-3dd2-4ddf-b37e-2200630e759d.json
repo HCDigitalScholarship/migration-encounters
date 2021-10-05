@@ -1,0 +1,12 @@
+{
+  "start":42832,
+  "end":42852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't negotiate.",
+  "id":"70ebb390-3dd2-4ddf-b37e-2200630e759d",
+  "params":{
+    "id":"42fb935a-4d7c-4ef6-82ee-9b45b841d4ec"
+  },
+  "name":"Sylent"
+}

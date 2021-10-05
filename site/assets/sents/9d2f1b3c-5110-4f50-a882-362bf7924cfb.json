@@ -1,0 +1,13 @@
+{
+  "start":40489,
+  "end":40641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tried doing my studies, that\n was very difficult and I'm still not able to do it because they won't\n validate my credits that I have from high school.",
+  "id":"9d2f1b3c-5110-4f50-a882-362bf7924cfb",
+  "params":{
+    "id":"9d2f1b3c-5110-4f50-a882-362bf7924cfb",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

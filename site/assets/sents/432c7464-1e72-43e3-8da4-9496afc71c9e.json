@@ -1,0 +1,13 @@
+{
+  "start":24060,
+  "end":24120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I guess she might be able to in a few\n years, hopefully.",
+  "id":"432c7464-1e72-43e3-8da4-9496afc71c9e",
+  "params":{
+    "id":"432c7464-1e72-43e3-8da4-9496afc71c9e",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,12 @@
+{
+  "start":36395,
+  "end":36455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n     don't have to be wearing all these Dodgers thingys.",
+  "id":"3c0b735d-0cc7-4c29-b6c0-a8a97116ddd0",
+  "params":{
+    "id":"c46c22cf-e6fe-4a54-b202-d1baa36d65c7"
+  },
+  "name":"Beto"
+}

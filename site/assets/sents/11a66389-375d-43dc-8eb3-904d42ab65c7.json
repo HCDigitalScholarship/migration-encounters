@@ -1,0 +1,13 @@
+{
+  "start":4703,
+  "end":4798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They ran tests, they did this,\n   they did that, and they couldn't find what was wrong with me.",
+  "id":"11a66389-375d-43dc-8eb3-904d42ab65c7",
+  "params":{
+    "id":"11a66389-375d-43dc-8eb3-904d42ab65c7",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

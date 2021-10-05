@@ -1,0 +1,13 @@
+{
+  "start":12229,
+  "end":12371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So what we would do is we\n   would make fake CDs, and every morning I would just wake up, go to\n   different little towns and stuff, sell CDs.",
+  "id":"82fbacbc-29ab-45f7-94d5-3ca5b4072efb",
+  "params":{
+    "id":"82fbacbc-29ab-45f7-94d5-3ca5b4072efb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

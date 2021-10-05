@@ -1,0 +1,13 @@
+{
+  "start":7714,
+  "end":7753,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you then went to community college.",
+  "id":"ed601302-d9d0-42db-a6e2-f77aa2d88505",
+  "params":{
+    "id":"ed601302-d9d0-42db-a6e2-f77aa2d88505",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

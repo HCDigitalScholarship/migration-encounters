@@ -1,0 +1,12 @@
+{
+  "start":17395,
+  "end":17434,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Come on, let me cook something for you.",
+  "id":"68affffd-bcc8-4375-87e5-542cdcb369bb",
+  "params":{
+    "id":"66986ac8-63f0-48ba-94e9-524d4b781bcb"
+  },
+  "name":"Noe"
+}

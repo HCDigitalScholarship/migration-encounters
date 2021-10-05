@@ -1,0 +1,12 @@
+{
+  "start":20161,
+  "end":20212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I need to do something that\n   involves my career.\"",
+  "id":"52f748e8-e463-4adb-b974-f9749bad0e8f",
+  "params":{
+    "id":"7f334322-bcf8-42b2-955c-7b9f63ef349c"
+  },
+  "name":"Ilse"
+}

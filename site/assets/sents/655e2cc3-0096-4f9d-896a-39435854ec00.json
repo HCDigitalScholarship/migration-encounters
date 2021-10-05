@@ -1,0 +1,13 @@
+{
+  "start":11824,
+  "end":11971,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a good student, but there was one\n   problem: I was too anxious, so I was always talking, or I was doing\n   something that got me in trouble.",
+  "id":"655e2cc3-0096-4f9d-896a-39435854ec00",
+  "params":{
+    "id":"655e2cc3-0096-4f9d-896a-39435854ec00",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

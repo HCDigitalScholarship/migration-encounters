@@ -1,0 +1,13 @@
+{
+  "start":2884,
+  "end":2919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess that's where it comes from.",
+  "id":"c8326bc7-b040-4b42-ab79-d02c35f7759f",
+  "params":{
+    "id":"c8326bc7-b040-4b42-ab79-d02c35f7759f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

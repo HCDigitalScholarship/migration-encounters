@@ -1,0 +1,13 @@
+{
+  "start":29201,
+  "end":29313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Validated.\n \n \n   Juan: Get it validated, and it did take six months but I got the answer\n   back.",
+  "id":"59a18e4f-d59b-46cc-a875-ab64aaa7eafc",
+  "params":{
+    "id":"59a18e4f-d59b-46cc-a875-ab64aaa7eafc",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

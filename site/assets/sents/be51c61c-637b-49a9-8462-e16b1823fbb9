@@ -1,0 +1,12 @@
+{
+  "start":25494,
+  "end":25513,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's interesting.",
+  "id":"be51c61c-637b-49a9-8462-e16b1823fbb9",
+  "params":{
+    "id":"3652f866-48cb-4ccb-b36a-7893132f0f90"
+  },
+  "name":"Luis A"
+}

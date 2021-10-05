@@ -1,0 +1,13 @@
+{
+  "start":30534,
+  "end":30544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's hard.",
+  "id":"8eb39eb9-b121-47e1-9c2a-813080b09ad0",
+  "params":{
+    "id":"8eb39eb9-b121-47e1-9c2a-813080b09ad0",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

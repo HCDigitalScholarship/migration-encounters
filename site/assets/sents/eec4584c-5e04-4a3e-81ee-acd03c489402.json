@@ -1,0 +1,12 @@
+{
+  "start":12079,
+  "end":12106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can get two tacos for $1.",
+  "id":"eec4584c-5e04-4a3e-81ee-acd03c489402",
+  "params":{
+    "id":"f7b7fb21-219f-4a40-8233-4db5aea7c2d9"
+  },
+  "name":"Miguel C"
+}

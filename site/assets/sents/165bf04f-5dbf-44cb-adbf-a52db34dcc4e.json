@@ -1,0 +1,13 @@
+{
+  "start":3886,
+  "end":3964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the money that you're\n   sending to him, I don't know what he's doing with it.",
+  "id":"165bf04f-5dbf-44cb-adbf-a52db34dcc4e",
+  "params":{
+    "id":"165bf04f-5dbf-44cb-adbf-a52db34dcc4e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22761,
+  "end":22800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, man, that's a lot of money.",
+  "id":"b0657e5b-828c-4b6d-a41b-4ec97a5959cb",
+  "params":{
+    "id":"b0657e5b-828c-4b6d-a41b-4ec97a5959cb",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

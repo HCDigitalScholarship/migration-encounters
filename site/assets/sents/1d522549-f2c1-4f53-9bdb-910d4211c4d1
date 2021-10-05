@@ -1,0 +1,12 @@
+{
+  "start":19708,
+  "end":19735,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was born in\n   December.",
+  "id":"1d522549-f2c1-4f53-9bdb-910d4211c4d1",
+  "params":{
+    "id":"3b788344-8532-4729-acc5-714a3beb1699"
+  },
+  "name":"Miguel C"
+}

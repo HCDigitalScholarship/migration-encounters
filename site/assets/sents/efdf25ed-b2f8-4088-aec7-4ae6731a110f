@@ -1,0 +1,12 @@
+{
+  "start":33002,
+  "end":33030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   haven't done anything.\"",
+  "id":"efdf25ed-b2f8-4088-aec7-4ae6731a110f",
+  "params":{
+    "id":"640c2b54-300d-4a8d-9039-19813e94732c"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7592,
+  "end":7608,
+  "label":"SENT",
+  "type":"sent",
+  "text":"two\n   years old",
+  "id":"473f26ea-1062-4452-a04e-360ef70d51a1",
+  "params":{
+    "id":"473f26ea-1062-4452-a04e-360ef70d51a1",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

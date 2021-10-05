@@ -1,0 +1,13 @@
+{
+  "start":7011,
+  "end":7032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\nThey're good people.",
+  "id":"f55ef466-a348-43fd-acef-96f7cc25c772",
+  "params":{
+    "id":"f55ef466-a348-43fd-acef-96f7cc25c772",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

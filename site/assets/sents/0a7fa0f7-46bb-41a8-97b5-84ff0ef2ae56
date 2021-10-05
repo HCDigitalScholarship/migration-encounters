@@ -1,0 +1,12 @@
+{
+  "start":40800,
+  "end":40823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm a little bit pocho.",
+  "id":"0a7fa0f7-46bb-41a8-97b5-84ff0ef2ae56",
+  "params":{
+    "id":"c7cb1302-9a10-440e-9d82-5820914dcbfe"
+  },
+  "name":"Miguel A"
+}

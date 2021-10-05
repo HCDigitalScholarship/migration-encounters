@@ -1,0 +1,12 @@
+{
+  "start":8052,
+  "end":8088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they have children of their own?",
+  "id":"d165aa82-494c-4a70-85a2-7e679c5b16ef",
+  "params":{
+    "id":"225275aa-644e-4841-9b73-b47c8c73ab07"
+  },
+  "name":"Rodrigo"
+}

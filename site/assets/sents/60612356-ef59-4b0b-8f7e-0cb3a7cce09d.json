@@ -1,0 +1,13 @@
+{
+  "start":15408,
+  "end":15425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They got a house.",
+  "id":"60612356-ef59-4b0b-8f7e-0cb3a7cce09d",
+  "params":{
+    "id":"60612356-ef59-4b0b-8f7e-0cb3a7cce09d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7451,
+  "end":7470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why'd they do that?",
+  "id":"d8057e52-a046-4869-b2e7-87e142e1095a",
+  "params":{
+    "id":"d8057e52-a046-4869-b2e7-87e142e1095a",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

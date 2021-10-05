@@ -1,0 +1,12 @@
+{
+  "start":53214,
+  "end":53257,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have everything, but\n   it didn't happen.",
+  "id":"2eb871f4-7830-4da9-b24f-fcb094edb766",
+  "params":{
+    "id":"8f8d6619-dc7b-4b01-8c35-d7fb63cab9ed"
+  },
+  "name":"Rodrigo"
+}

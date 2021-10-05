@@ -1,0 +1,12 @@
+{
+  "start":30247,
+  "end":30278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For example, I entered at 2:00.",
+  "id":"b1e2cb3e-cb5e-4bf7-8a8e-7ca98001ea78",
+  "params":{
+    "id":"32b0c995-4930-49a9-ac1b-8541fa7d7417"
+  },
+  "name":"Carlos"
+}

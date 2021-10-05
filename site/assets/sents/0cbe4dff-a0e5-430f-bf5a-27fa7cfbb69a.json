@@ -1,0 +1,13 @@
+{
+  "start":11705,
+  "end":11767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was developing cancer and it already had started developing",
+  "id":"0cbe4dff-a0e5-430f-bf5a-27fa7cfbb69a",
+  "params":{
+    "id":"0cbe4dff-a0e5-430f-bf5a-27fa7cfbb69a",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

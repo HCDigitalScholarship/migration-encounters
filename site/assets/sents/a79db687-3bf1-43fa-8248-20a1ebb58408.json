@@ -1,0 +1,13 @@
+{
+  "start":4939,
+  "end":4951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I tried.",
+  "id":"a79db687-3bf1-43fa-8248-20a1ebb58408",
+  "params":{
+    "id":"a79db687-3bf1-43fa-8248-20a1ebb58408",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

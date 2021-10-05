@@ -1,0 +1,12 @@
+{
+  "start":30392,
+  "end":30430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's something that I will tell him.",
+  "id":"d87898f4-6c99-4f8f-a7db-6be5dbab432f",
+  "params":{
+    "id":"8b84713c-6a9a-491b-8ea2-cea7071ba508"
+  },
+  "name":"Rodrigo"
+}

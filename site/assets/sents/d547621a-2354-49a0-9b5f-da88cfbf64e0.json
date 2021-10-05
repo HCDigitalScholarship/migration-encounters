@@ -1,0 +1,13 @@
+{
+  "start":1242,
+  "end":1295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it was at a\n   restaurant, an Italian restaurant.",
+  "id":"d547621a-2354-49a0-9b5f-da88cfbf64e0",
+  "params":{
+    "id":"d547621a-2354-49a0-9b5f-da88cfbf64e0",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

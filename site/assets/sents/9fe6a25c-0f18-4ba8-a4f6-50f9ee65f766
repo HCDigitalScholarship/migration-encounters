@@ -1,0 +1,12 @@
+{
+  "start":50187,
+  "end":50206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"But why?",
+  "id":"9fe6a25c-0f18-4ba8-a4f6-50f9ee65f766",
+  "params":{
+    "id":"48258365-54a2-4d73-b0cc-86d66ebc79ed"
+  },
+  "name":"Cris"
+}

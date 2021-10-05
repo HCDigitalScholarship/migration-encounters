@@ -1,0 +1,12 @@
+{
+  "start":39786,
+  "end":39830,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\u2019s\n   something that I would never expect.",
+  "id":"1b3886ca-1a78-40d5-adfd-72daa3f0bf02",
+  "params":{
+    "id":"61080bcc-0c60-41cf-968f-a539bee94734"
+  },
+  "name":"Rodrigo"
+}

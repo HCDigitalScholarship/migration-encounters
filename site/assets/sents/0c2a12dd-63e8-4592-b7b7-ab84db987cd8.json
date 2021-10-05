@@ -1,0 +1,13 @@
+{
+  "start":3249,
+  "end":3282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad was working in a pizzeria,",
+  "id":"0c2a12dd-63e8-4592-b7b7-ab84db987cd8",
+  "params":{
+    "id":"0c2a12dd-63e8-4592-b7b7-ab84db987cd8",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":16286,
+  "end":16327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n doing morning shift in the mall.",
+  "id":"7e3877a6-2e98-4176-a5f0-5cb2f3c2c424",
+  "params":{
+    "id":"392bfb27-79e9-4086-97ef-fdef90936c1e"
+  },
+  "name":"Axel"
+}

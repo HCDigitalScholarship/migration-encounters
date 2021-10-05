@@ -1,0 +1,13 @@
+{
+  "start":7001,
+  "end":7006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"48bcf338-aa40-48d1-82ae-93ccfd9fd05b",
+  "params":{
+    "id":"48bcf338-aa40-48d1-82ae-93ccfd9fd05b",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

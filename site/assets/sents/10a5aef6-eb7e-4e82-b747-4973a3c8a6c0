@@ -1,0 +1,12 @@
+{
+  "start":37422,
+  "end":37475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't even remember what I'm talking about anymore.",
+  "id":"10a5aef6-eb7e-4e82-b747-4973a3c8a6c0",
+  "params":{
+    "id":"0aa06742-4bc5-45dd-91c3-a41f744a17c0"
+  },
+  "name":"Mike"
+}

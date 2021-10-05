@@ -1,0 +1,12 @@
+{
+  "start":24072,
+  "end":24167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You will go with the department, and they will try to do\n   anything to keep you as a customer.",
+  "id":"5d01efc4-a6a3-4a5f-b413-f9d573c9c24f",
+  "params":{
+    "id":"bff2db5d-4cf7-4a9f-a00e-f044517d1d9a"
+  },
+  "name":"Rodrigo"
+}

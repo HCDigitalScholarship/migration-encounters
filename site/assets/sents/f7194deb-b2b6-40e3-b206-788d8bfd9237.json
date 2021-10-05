@@ -1,0 +1,13 @@
+{
+  "start":8481,
+  "end":8514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   moment, at the time before",
+  "id":"f7194deb-b2b6-40e3-b206-788d8bfd9237",
+  "params":{
+    "id":"f7194deb-b2b6-40e3-b206-788d8bfd9237",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

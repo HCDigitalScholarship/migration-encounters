@@ -1,0 +1,12 @@
+{
+  "start":42721,
+  "end":42759,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the only thing that I could do.",
+  "id":"a5c3b67b-21e1-4890-9082-0c71d43a3cff",
+  "params":{
+    "id":"c6006177-e401-462b-9b0b-5d902864579c"
+  },
+  "name":"Mike"
+}

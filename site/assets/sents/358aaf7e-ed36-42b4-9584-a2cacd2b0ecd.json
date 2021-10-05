@@ -1,0 +1,13 @@
+{
+  "start":6547,
+  "end":6608,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like here, I've been robbed\n   here like three times already.",
+  "id":"358aaf7e-ed36-42b4-9584-a2cacd2b0ecd",
+  "params":{
+    "id":"358aaf7e-ed36-42b4-9584-a2cacd2b0ecd",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

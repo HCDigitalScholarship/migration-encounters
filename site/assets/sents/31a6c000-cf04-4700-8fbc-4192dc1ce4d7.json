@@ -1,0 +1,13 @@
+{
+  "start":3685,
+  "end":3709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had everything there.",
+  "id":"31a6c000-cf04-4700-8fbc-4192dc1ce4d7",
+  "params":{
+    "id":"31a6c000-cf04-4700-8fbc-4192dc1ce4d7",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

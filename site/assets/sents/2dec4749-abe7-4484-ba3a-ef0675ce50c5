@@ -1,0 +1,12 @@
+{
+  "start":5262,
+  "end":5316,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't\n   sleep because you always have to be aware",
+  "id":"2dec4749-abe7-4484-ba3a-ef0675ce50c5",
+  "params":{
+    "id":"012a8a58-28fc-46b4-8806-4e211e3e478a"
+  },
+  "name":"Noe"
+}

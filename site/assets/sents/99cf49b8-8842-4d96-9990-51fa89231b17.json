@@ -1,0 +1,13 @@
+{
+  "start":16602,
+  "end":16666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: What the Mexican soccer jerseys or?\n      \n      \n Billy:",
+  "id":"99cf49b8-8842-4d96-9990-51fa89231b17",
+  "params":{
+    "id":"99cf49b8-8842-4d96-9990-51fa89231b17",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4980,
+  "end":5103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We took a bus all the way to TJ (Tijuana), and we were there for\n   like two days and then they crossed us through Tijuana.",
+  "id":"3699b5e7-20a0-40dc-87a9-d1a6ab5135ca",
+  "params":{
+    "id":"3699b5e7-20a0-40dc-87a9-d1a6ab5135ca",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

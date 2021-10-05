@@ -1,0 +1,13 @@
+{
+  "start":38290,
+  "end":38309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're good friends.",
+  "id":"183095c1-29a3-49b3-8ff1-20df1a329696",
+  "params":{
+    "id":"183095c1-29a3-49b3-8ff1-20df1a329696",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

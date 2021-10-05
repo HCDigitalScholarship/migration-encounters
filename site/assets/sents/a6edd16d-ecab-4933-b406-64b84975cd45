@@ -1,0 +1,12 @@
+{
+  "start":16348,
+  "end":16368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go to the gym now.",
+  "id":"a6edd16d-ecab-4933-b406-64b84975cd45",
+  "params":{
+    "id":"00830eba-b0e2-4fdf-9e6c-063dcaf33497"
+  },
+  "name":"Edgar"
+}

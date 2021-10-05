@@ -1,0 +1,12 @@
+{
+  "start":7805,
+  "end":7823,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you have kids.",
+  "id":"0b6e60e2-6faf-4ce4-915a-24cb9087cc0e",
+  "params":{
+    "id":"e5d396c4-d660-4b7c-b04b-20016d776f19"
+  },
+  "name":"Julio Cesar"
+}

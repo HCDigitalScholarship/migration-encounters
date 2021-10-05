@@ -1,0 +1,13 @@
+{
+  "start":20032,
+  "end":20078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that I spoke with my music teacher.",
+  "id":"d4f7149e-62de-4725-a710-067b481bdf2c",
+  "params":{
+    "id":"d4f7149e-62de-4725-a710-067b481bdf2c",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

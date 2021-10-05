@@ -1,0 +1,13 @@
+{
+  "start":16863,
+  "end":16955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some\n   Hispanics really can't afford a lot of things, and no one tries to help\n   them out.",
+  "id":"c15cbed4-58cf-44d8-8623-484bd7d46c2e",
+  "params":{
+    "id":"c15cbed4-58cf-44d8-8623-484bd7d46c2e",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

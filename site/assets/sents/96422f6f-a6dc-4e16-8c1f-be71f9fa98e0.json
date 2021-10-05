@@ -1,0 +1,13 @@
+{
+  "start":1557,
+  "end":1592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you migrated?",
+  "id":"96422f6f-a6dc-4e16-8c1f-be71f9fa98e0",
+  "params":{
+    "id":"96422f6f-a6dc-4e16-8c1f-be71f9fa98e0",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

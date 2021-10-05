@@ -1,0 +1,15 @@
+{
+  "start":7085,
+  "end":7167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"With all it's happening with Trump, no one wants to really give the\n   extra step.",
+  "id":"37ca51bb-cfbf-4bec-92bf-5a1deecb1660",
+  "params":{
+    "id":"37ca51bb-cfbf-4bec-92bf-5a1deecb1660",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

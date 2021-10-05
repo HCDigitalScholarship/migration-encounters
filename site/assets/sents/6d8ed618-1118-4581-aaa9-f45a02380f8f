@@ -1,0 +1,12 @@
+{
+  "start":13307,
+  "end":13335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \u201cOkay,\u201d signed it.",
+  "id":"6d8ed618-1118-4581-aaa9-f45a02380f8f",
+  "params":{
+    "id":"668a64d3-fa56-49f6-a128-9908f2365356"
+  },
+  "name":"Josue"
+}

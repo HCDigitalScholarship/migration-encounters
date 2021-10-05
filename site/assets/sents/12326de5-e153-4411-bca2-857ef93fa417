@@ -1,0 +1,12 @@
+{
+  "start":8640,
+  "end":8657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't remember.",
+  "id":"12326de5-e153-4411-bca2-857ef93fa417",
+  "params":{
+    "id":"347883f2-2ed5-4233-a3c4-9a60fe208843"
+  },
+  "name":"Yair"
+}

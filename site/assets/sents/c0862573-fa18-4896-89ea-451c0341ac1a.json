@@ -1,0 +1,15 @@
+{
+  "start":18519,
+  "end":18565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But even if they're not, they're always right.",
+  "id":"c0862573-fa18-4896-89ea-451c0341ac1a",
+  "params":{
+    "id":"c0862573-fa18-4896-89ea-451c0341ac1a",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

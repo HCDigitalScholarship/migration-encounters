@@ -1,0 +1,13 @@
+{
+  "start":15385,
+  "end":15520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went over there and, well, of\n   course, they told me what they were going to do with the body: \"He has\n   insurance, so that's good.",
+  "id":"6d40ae77-02da-41f5-b7a9-3424c527e3e6",
+  "params":{
+    "id":"6d40ae77-02da-41f5-b7a9-3424c527e3e6",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12337,
+  "end":12423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   US, and then you were deported and had this experience with law\n   enforcement.",
+  "id":"24223d08-b779-4aad-b1e6-b62f97fb851b",
+  "params":{
+    "id":"24223d08-b779-4aad-b1e6-b62f97fb851b",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

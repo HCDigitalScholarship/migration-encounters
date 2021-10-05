@@ -1,0 +1,13 @@
+{
+  "start":12605,
+  "end":12652,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're free to go, sir, don't worry\n about it.\u201d",
+  "id":"ce43a64e-b00c-42c8-9e69-ed2981e522ef",
+  "params":{
+    "id":"ce43a64e-b00c-42c8-9e69-ed2981e522ef",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

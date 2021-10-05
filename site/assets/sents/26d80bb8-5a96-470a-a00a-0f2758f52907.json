@@ -1,0 +1,13 @@
+{
+  "start":41493,
+  "end":41527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over there in the\n   United States",
+  "id":"26d80bb8-5a96-470a-a00a-0f2758f52907",
+  "params":{
+    "id":"26d80bb8-5a96-470a-a00a-0f2758f52907",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14840,
+  "end":14887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If\n   you're going to visit me, don't even cry.",
+  "id":"bac9030f-e08d-4fc5-80a7-bd39c7af894a",
+  "params":{
+    "id":"d4dbfe2c-4402-4db7-b836-c1d9a0daf0db"
+  },
+  "name":"Kevin"
+}

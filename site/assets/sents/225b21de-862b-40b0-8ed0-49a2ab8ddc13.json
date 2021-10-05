@@ -1,0 +1,12 @@
+{
+  "start":26226,
+  "end":26267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfQu\u00e9 es americano?\n \n <br/>\n \n     Maria:",
+  "id":"225b21de-862b-40b0-8ed0-49a2ab8ddc13",
+  "params":{
+    "id":"dda05407-145c-4bf0-80dd-573a0d9a5487"
+  },
+  "name":"Maria"
+}

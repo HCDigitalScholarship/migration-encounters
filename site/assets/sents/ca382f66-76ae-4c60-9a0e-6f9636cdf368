@@ -1,0 +1,12 @@
+{
+  "start":3397,
+  "end":3482,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went to Fort Benning, Georgia\n   because that's an airborne school.\n \n \n   Joseph:",
+  "id":"ca382f66-76ae-4c60-9a0e-6f9636cdf368",
+  "params":{
+    "id":"e968027c-299e-424c-9d5b-5278a7a5ba89"
+  },
+  "name":"Joseph"
+}

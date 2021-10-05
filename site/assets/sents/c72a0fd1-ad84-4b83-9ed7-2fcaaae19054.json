@@ -1,0 +1,13 @@
+{
+  "start":1197,
+  "end":1223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had short, short hair.",
+  "id":"c72a0fd1-ad84-4b83-9ed7-2fcaaae19054",
+  "params":{
+    "id":"c72a0fd1-ad84-4b83-9ed7-2fcaaae19054",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

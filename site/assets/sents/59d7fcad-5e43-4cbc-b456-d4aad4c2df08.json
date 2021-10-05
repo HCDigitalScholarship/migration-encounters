@@ -1,0 +1,13 @@
+{
+  "start":32125,
+  "end":32187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Miguel: At the end of the day it doesn't bother you, you know?",
+  "id":"59d7fcad-5e43-4cbc-b456-d4aad4c2df08",
+  "params":{
+    "id":"59d7fcad-5e43-4cbc-b456-d4aad4c2df08",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

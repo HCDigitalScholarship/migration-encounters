@@ -1,0 +1,13 @@
+{
+  "start":23853,
+  "end":23879,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who's going to\n   hire me?",
+  "id":"2e179eda-e091-4ada-8a44-5e259bf140f8",
+  "params":{
+    "id":"2e179eda-e091-4ada-8a44-5e259bf140f8",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

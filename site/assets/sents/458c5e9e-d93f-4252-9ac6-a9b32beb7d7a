@@ -1,0 +1,12 @@
+{
+  "start":11399,
+  "end":11418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel pretty good.",
+  "id":"458c5e9e-d93f-4252-9ac6-a9b32beb7d7a",
+  "params":{
+    "id":"c355bcc4-6820-440f-83ca-d35edbe7e9f8"
+  },
+  "name":"Roberto"
+}

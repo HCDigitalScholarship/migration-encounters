@@ -1,0 +1,12 @@
+{
+  "start":3840,
+  "end":3905,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Each country has a\n   different way of their system of education.",
+  "id":"526f75f2-623c-4ff3-b2d5-34c75d5f02da",
+  "params":{
+    "id":"b2b4aeb0-63d9-4bc5-ba1e-7207e4d4a4e9"
+  },
+  "name":"Carlos"
+}

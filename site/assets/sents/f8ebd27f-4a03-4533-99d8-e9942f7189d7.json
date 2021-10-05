@@ -1,0 +1,13 @@
+{
+  "start":30575,
+  "end":30713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cNo, I don't like the rice, because it's\n   just rice.\u201d \u201cEat it with the chopsticks, I don't think you guys can use it,\n   so use a fork.\u201d",
+  "id":"f8ebd27f-4a03-4533-99d8-e9942f7189d7",
+  "params":{
+    "id":"f8ebd27f-4a03-4533-99d8-e9942f7189d7",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

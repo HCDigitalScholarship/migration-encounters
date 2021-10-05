@@ -1,0 +1,12 @@
+{
+  "start":51245,
+  "end":51301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody\n should've said the police report is not right.",
+  "id":"8c307aa0-a4b7-4b73-9a56-f78c4fcd6b4d",
+  "params":{
+    "id":"d0d8858a-28cd-483f-afd2-1fb50f282f6a"
+  },
+  "name":"Angelo"
+}

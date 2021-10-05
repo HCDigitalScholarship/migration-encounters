@@ -1,0 +1,13 @@
+{
+  "start":225,
+  "end":237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's nice.",
+  "id":"74fb2170-f2a9-48b0-b5e9-cdf4cd2e2f69",
+  "params":{
+    "id":"74fb2170-f2a9-48b0-b5e9-cdf4cd2e2f69",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

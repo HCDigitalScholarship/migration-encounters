@@ -1,0 +1,13 @@
+{
+  "start":15151,
+  "end":15179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   don't have no rules.",
+  "id":"68001b8d-4d35-411c-831e-395e960bfc61",
+  "params":{
+    "id":"68001b8d-4d35-411c-831e-395e960bfc61",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

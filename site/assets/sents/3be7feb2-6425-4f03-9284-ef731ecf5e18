@@ -1,0 +1,12 @@
+{
+  "start":28067,
+  "end":28096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is a secret and\u2014\n \n \n   ",
+  "id":"3be7feb2-6425-4f03-9284-ef731ecf5e18",
+  "params":{
+    "id":"a1c5b292-2947-4353-b52c-66cde4be944e"
+  },
+  "name":"Luisa"
+}

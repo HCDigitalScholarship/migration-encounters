@@ -1,0 +1,12 @@
+{
+  "start":10004,
+  "end":10040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My childhood was very tough as well.",
+  "id":"783d19e5-9c9a-4a3e-8cb5-e28c1ada8e94",
+  "params":{
+    "id":"cc7f7472-c85c-4c53-a2a6-6aa5f243830c"
+  },
+  "name":"Joseph"
+}

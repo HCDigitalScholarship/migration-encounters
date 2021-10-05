@@ -1,0 +1,13 @@
+{
+  "start":29940,
+  "end":30001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes\n   there's a lot of things I still miss about over there.",
+  "id":"c526e838-72f2-42e1-9c34-594fbbcd956b",
+  "params":{
+    "id":"c526e838-72f2-42e1-9c34-594fbbcd956b",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

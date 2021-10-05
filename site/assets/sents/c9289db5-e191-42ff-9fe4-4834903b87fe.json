@@ -1,0 +1,13 @@
+{
+  "start":30251,
+  "end":30290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you living with them now,\n   or no?",
+  "id":"c9289db5-e191-42ff-9fe4-4834903b87fe",
+  "params":{
+    "id":"c9289db5-e191-42ff-9fe4-4834903b87fe",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

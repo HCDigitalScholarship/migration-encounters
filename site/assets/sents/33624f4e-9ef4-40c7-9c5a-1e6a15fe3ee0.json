@@ -1,0 +1,13 @@
+{
+  "start":20001,
+  "end":20013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm bronzed.",
+  "id":"33624f4e-9ef4-40c7-9c5a-1e6a15fe3ee0",
+  "params":{
+    "id":"33624f4e-9ef4-40c7-9c5a-1e6a15fe3ee0",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19967,
+  "end":20023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first time going into a mall was when\n   I came back.",
+  "id":"84c4771a-4cba-41bd-80cc-ff1e7003c108",
+  "params":{
+    "id":"84c4771a-4cba-41bd-80cc-ff1e7003c108",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

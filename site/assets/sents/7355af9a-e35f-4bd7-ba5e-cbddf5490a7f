@@ -1,0 +1,12 @@
+{
+  "start":14517,
+  "end":14566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I live on my\n   own now, I can pay my own things.",
+  "id":"7355af9a-e35f-4bd7-ba5e-cbddf5490a7f",
+  "params":{
+    "id":"3506b095-0673-40eb-af50-5c20a07049c9"
+  },
+  "name":"Pablo"
+}

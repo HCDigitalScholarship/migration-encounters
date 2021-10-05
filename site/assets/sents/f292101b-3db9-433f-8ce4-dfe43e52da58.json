@@ -1,0 +1,13 @@
+{
+  "start":24098,
+  "end":24120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She bought him a\n car.",
+  "id":"f292101b-3db9-433f-8ce4-dfe43e52da58",
+  "params":{
+    "id":"f292101b-3db9-433f-8ce4-dfe43e52da58",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26944,
+  "end":26972,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that\n   was really good.",
+  "id":"874b7424-f091-4cc4-8a3d-eba947330aa5",
+  "params":{
+    "id":"874b7424-f091-4cc4-8a3d-eba947330aa5",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

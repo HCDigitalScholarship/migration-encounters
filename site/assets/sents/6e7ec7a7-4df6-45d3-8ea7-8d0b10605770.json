@@ -1,0 +1,13 @@
+{
+  "start":4361,
+  "end":4430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whether\n   you're from any Latin American country, Asia, or whatever.",
+  "id":"6e7ec7a7-4df6-45d3-8ea7-8d0b10605770",
+  "params":{
+    "id":"6e7ec7a7-4df6-45d3-8ea7-8d0b10605770",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

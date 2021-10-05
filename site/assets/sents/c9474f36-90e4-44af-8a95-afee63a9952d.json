@@ -1,0 +1,12 @@
+{
+  "start":22281,
+  "end":22311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you in jail at this time?",
+  "id":"c9474f36-90e4-44af-8a95-afee63a9952d",
+  "params":{
+    "id":"f7eeed22-cf04-46e7-93f3-da95c9e42ead"
+  },
+  "name":"Ruben"
+}

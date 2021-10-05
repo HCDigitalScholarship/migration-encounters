@@ -1,0 +1,13 @@
+{
+  "start":67257,
+  "end":67293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like,\n \"Ignore them, block them.",
+  "id":"d96832a0-5f1d-4a4d-8a53-1b05cb335691",
+  "params":{
+    "id":"d96832a0-5f1d-4a4d-8a53-1b05cb335691",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

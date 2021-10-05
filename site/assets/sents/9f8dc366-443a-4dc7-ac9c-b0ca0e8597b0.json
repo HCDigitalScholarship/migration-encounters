@@ -1,0 +1,13 @@
+{
+  "start":33883,
+  "end":33904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either way, I'm good.",
+  "id":"9f8dc366-443a-4dc7-ac9c-b0ca0e8597b0",
+  "params":{
+    "id":"9f8dc366-443a-4dc7-ac9c-b0ca0e8597b0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

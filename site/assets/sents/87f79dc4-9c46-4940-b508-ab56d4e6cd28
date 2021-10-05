@@ -1,0 +1,12 @@
+{
+  "start":15337,
+  "end":15371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told him to talk to my attorney.",
+  "id":"87f79dc4-9c46-4940-b508-ab56d4e6cd28",
+  "params":{
+    "id":"62d3bffa-c454-43fe-83c3-91dd1723bf8a"
+  },
+  "name":"Daniel"
+}

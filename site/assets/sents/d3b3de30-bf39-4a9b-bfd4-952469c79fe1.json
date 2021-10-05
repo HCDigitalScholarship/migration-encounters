@@ -1,0 +1,13 @@
+{
+  "start":11012,
+  "end":11048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then after that,\n   I never changed.",
+  "id":"d3b3de30-bf39-4a9b-bfd4-952469c79fe1",
+  "params":{
+    "id":"d3b3de30-bf39-4a9b-bfd4-952469c79fe1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

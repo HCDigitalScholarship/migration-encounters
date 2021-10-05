@@ -1,0 +1,12 @@
+{
+  "start":64999,
+  "end":65024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom didn't\n like that.",
+  "id":"5e0fc65f-924e-4bd3-9b16-02809995bfeb",
+  "params":{
+    "id":"8ffca43a-fd80-404c-8bcb-b3ac90563002"
+  },
+  "name":"Axel"
+}

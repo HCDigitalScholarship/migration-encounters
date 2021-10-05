@@ -1,0 +1,12 @@
+{
+  "start":40123,
+  "end":40153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It didn't feel like Christmas.",
+  "id":"48e435f4-1606-4c01-8c7d-390094848717",
+  "params":{
+    "id":"3e7b521c-b1b4-4375-895e-eb151afd940c"
+  },
+  "name":"Luisa"
+}

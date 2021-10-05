@@ -1,0 +1,12 @@
+{
+  "start":4293,
+  "end":4316,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mike: Just like 24, 25?",
+  "id":"bf75186b-b0b4-4a4e-9f3e-e2ca612a5331",
+  "params":{
+    "id":"776901c6-6bd8-41c5-9306-0171f1831053"
+  },
+  "name":"Mike"
+}

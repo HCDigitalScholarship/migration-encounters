@@ -1,0 +1,12 @@
+{
+  "start":3174,
+  "end":3200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a big, big\n   house.",
+  "id":"d5dca7fd-11c9-4db4-9948-d4a14f6d75d1",
+  "params":{
+    "id":"21a75038-8424-457d-a03c-699c0125f063"
+  },
+  "name":"Luisa"
+}

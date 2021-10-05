@@ -1,0 +1,13 @@
+{
+  "start":8518,
+  "end":8543,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, Miguel ___ and Billy?",
+  "id":"84f53a10-26e6-4329-80fd-adb03b6f21e0",
+  "params":{
+    "id":"84f53a10-26e6-4329-80fd-adb03b6f21e0",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

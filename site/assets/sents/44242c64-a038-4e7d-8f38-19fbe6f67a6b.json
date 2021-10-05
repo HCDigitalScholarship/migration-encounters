@@ -1,0 +1,13 @@
+{
+  "start":19381,
+  "end":19402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just went to sleep.",
+  "id":"44242c64-a038-4e7d-8f38-19fbe6f67a6b",
+  "params":{
+    "id":"44242c64-a038-4e7d-8f38-19fbe6f67a6b",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,12 @@
+{
+  "start":41425,
+  "end":41445,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's one\n   thing.",
+  "id":"b4a7f6d7-f15f-4dc2-aa26-19c2088b1ea3",
+  "params":{
+    "id":"b77d8341-a9c9-417e-bb19-d24d10542443"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25700,
+  "end":25742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Hugo: My family and the lifestyle.",
+  "id":"e5e65d74-bb71-4c7d-a92f-e980ef58c08e",
+  "params":{
+    "id":"c5a19e3a-58ea-46a3-9c5a-d090e3793f65"
+  },
+  "name":"Hugo"
+}

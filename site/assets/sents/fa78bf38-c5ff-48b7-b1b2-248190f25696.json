@@ -1,0 +1,12 @@
+{
+  "start":10330,
+  "end":10345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were they?",
+  "id":"fa78bf38-c5ff-48b7-b1b2-248190f25696",
+  "params":{
+    "id":"e71339e6-cb21-4b80-b19a-a41e267661f9"
+  },
+  "name":"Erik"
+}

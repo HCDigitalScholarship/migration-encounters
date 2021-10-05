@@ -1,0 +1,13 @@
+{
+  "start":3112,
+  "end":3181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was not much to\n   do back then because you needed transportation.",
+  "id":"f858676e-77ec-4fd4-bca2-3b62611da139",
+  "params":{
+    "id":"f858676e-77ec-4fd4-bca2-3b62611da139",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35602,
+  "end":35769,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Le dije, \u201cPero siempre trata hijo\u201d.\n     Siempre se los he dicho a los dos. \u201cSiempre trat\u00e9n, nunca se queden con\n     algo dentro porque el d\u00eda de ma\u00f1ana ya no existe.",
+  "id":"31b1459c-8c31-47bf-9a3d-1175a3c75ef4",
+  "params":{
+    "id":"31b1459c-8c31-47bf-9a3d-1175a3c75ef4",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

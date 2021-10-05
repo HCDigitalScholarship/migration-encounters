@@ -1,0 +1,13 @@
+{
+  "start":6539,
+  "end":6555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old are you?",
+  "id":"36143e1a-5634-4838-b187-50386207dde0",
+  "params":{
+    "id":"36143e1a-5634-4838-b187-50386207dde0",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

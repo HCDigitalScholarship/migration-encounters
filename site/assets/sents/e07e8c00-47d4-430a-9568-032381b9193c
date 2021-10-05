@@ -1,0 +1,12 @@
+{
+  "start":8562,
+  "end":8614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandparents for some reason did not tell my mom.",
+  "id":"e07e8c00-47d4-430a-9568-032381b9193c",
+  "params":{
+    "id":"b744528b-e341-49a7-975c-149716795c9f"
+  },
+  "name":"Valeria"
+}

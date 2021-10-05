@@ -1,0 +1,13 @@
+{
+  "start":41730,
+  "end":41754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not the same thing.",
+  "id":"d10b15d7-87ae-4b7b-8c3d-05d9df868297",
+  "params":{
+    "id":"d10b15d7-87ae-4b7b-8c3d-05d9df868297",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

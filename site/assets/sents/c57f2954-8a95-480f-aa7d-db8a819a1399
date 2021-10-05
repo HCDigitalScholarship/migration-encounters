@@ -1,0 +1,12 @@
+{
+  "start":10282,
+  "end":10311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is just how it happened.",
+  "id":"c57f2954-8a95-480f-aa7d-db8a819a1399",
+  "params":{
+    "id":"07a2c7ef-6f92-4e08-81a9-517804776cc1"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6803,
+  "end":6858,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He helped us, we crossed it,\n   but we were still lost.",
+  "id":"389d39d9-61ce-4fde-9eb9-1785f6dda9fb",
+  "params":{
+    "id":"27ff06b4-b30f-4225-b1f7-f226ee442bfd"
+  },
+  "name":"Ilse"
+}

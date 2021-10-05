@@ -1,0 +1,12 @@
+{
+  "start":23225,
+  "end":23290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why, he's like,\n \"Why don't you take us out to eat?\"",
+  "id":"26ceef69-e33c-4bfb-9ad5-a6ac3c356745",
+  "params":{
+    "id":"2b5515ee-351f-40e0-babb-c8f0981e6c5b"
+  },
+  "name":"Axel"
+}

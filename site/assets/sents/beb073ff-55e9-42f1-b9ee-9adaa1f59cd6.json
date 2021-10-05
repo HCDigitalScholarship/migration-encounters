@@ -1,0 +1,13 @@
+{
+  "start":6397,
+  "end":6419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were hungry a lot?",
+  "id":"beb073ff-55e9-42f1-b9ee-9adaa1f59cd6",
+  "params":{
+    "id":"beb073ff-55e9-42f1-b9ee-9adaa1f59cd6",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

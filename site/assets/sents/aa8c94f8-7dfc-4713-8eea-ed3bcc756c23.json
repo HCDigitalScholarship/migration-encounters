@@ -1,0 +1,13 @@
+{
+  "start":8580,
+  "end":8606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   What is that, Wyoming?",
+  "id":"aa8c94f8-7dfc-4713-8eea-ed3bcc756c23",
+  "params":{
+    "id":"aa8c94f8-7dfc-4713-8eea-ed3bcc756c23",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5812,
+  "end":5874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said your dad wasn't with you when you crossed the border.",
+  "id":"5fbf5014-a9f1-47b1-bf3d-38c791413d17",
+  "params":{
+    "id":"4ec60df5-108e-414c-af01-df265b40249f"
+  },
+  "name":"Mike"
+}

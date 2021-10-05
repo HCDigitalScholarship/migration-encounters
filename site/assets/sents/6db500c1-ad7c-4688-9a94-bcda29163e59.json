@@ -1,0 +1,13 @@
+{
+  "start":71738,
+  "end":71764,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   This is very symbolic.",
+  "id":"6db500c1-ad7c-4688-9a94-bcda29163e59",
+  "params":{
+    "id":"6db500c1-ad7c-4688-9a94-bcda29163e59",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

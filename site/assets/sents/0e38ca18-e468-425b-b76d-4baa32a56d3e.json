@@ -1,0 +1,13 @@
+{
+  "start":36678,
+  "end":36786,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I agree that there has to be some type of people should be\n picked up, but they're not chasing those people.",
+  "id":"0e38ca18-e468-425b-b76d-4baa32a56d3e",
+  "params":{
+    "id":"0e38ca18-e468-425b-b76d-4baa32a56d3e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

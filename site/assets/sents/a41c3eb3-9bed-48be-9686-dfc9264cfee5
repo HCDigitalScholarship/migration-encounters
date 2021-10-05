@@ -1,0 +1,12 @@
+{
+  "start":9242,
+  "end":9261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What irritates you?",
+  "id":"a41c3eb3-9bed-48be-9686-dfc9264cfee5",
+  "params":{
+    "id":"d39764b1-a138-4cf8-9c7f-5dc0303d7b88"
+  },
+  "name":"Ivan"
+}

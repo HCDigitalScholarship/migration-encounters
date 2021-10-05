@@ -1,0 +1,13 @@
+{
+  "start":34715,
+  "end":34888,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of people who are too\n   good to be in a call center, but that's all they can find because maybe\n   they don't have a college degree, but they have experience.",
+  "id":"f60c01d5-c879-4e23-9faa-88f43a79b265",
+  "params":{
+    "id":"f60c01d5-c879-4e23-9faa-88f43a79b265",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

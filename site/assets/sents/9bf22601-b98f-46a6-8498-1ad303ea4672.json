@@ -1,0 +1,13 @@
+{
+  "start":6823,
+  "end":6890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We drove\n   all the way to Arkansas, and that's where I have my ...",
+  "id":"9bf22601-b98f-46a6-8498-1ad303ea4672",
+  "params":{
+    "id":"9bf22601-b98f-46a6-8498-1ad303ea4672",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

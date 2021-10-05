@@ -1,0 +1,13 @@
+{
+  "start":3735,
+  "end":3777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00c9l me ten\u00eda de la mano no\n     me soltaba.",
+  "id":"85f19c29-dd9e-4d02-8f78-9375aa2e109d",
+  "params":{
+    "id":"85f19c29-dd9e-4d02-8f78-9375aa2e109d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

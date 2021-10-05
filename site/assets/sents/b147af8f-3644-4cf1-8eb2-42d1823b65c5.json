@@ -1,0 +1,13 @@
+{
+  "start":33831,
+  "end":33902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My entire day schedule was full,\n   full, full, full, full, full, full.",
+  "id":"b147af8f-3644-4cf1-8eb2-42d1823b65c5",
+  "params":{
+    "id":"b147af8f-3644-4cf1-8eb2-42d1823b65c5",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

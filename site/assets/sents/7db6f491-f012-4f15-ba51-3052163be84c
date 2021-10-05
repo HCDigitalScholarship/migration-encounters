@@ -1,0 +1,12 @@
+{
+  "start":3236,
+  "end":3279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived in Cali and\n   L.A. and it was hot.",
+  "id":"7db6f491-f012-4f15-ba51-3052163be84c",
+  "params":{
+    "id":"d72c42c4-4c06-4725-bfb6-ffe06aa3d6f0"
+  },
+  "name":"Roberto"
+}

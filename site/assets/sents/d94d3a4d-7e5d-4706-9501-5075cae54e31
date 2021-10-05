@@ -1,0 +1,12 @@
+{
+  "start":7227,
+  "end":7251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you were almost done.",
+  "id":"d94d3a4d-7e5d-4706-9501-5075cae54e31",
+  "params":{
+    "id":"b44a04e5-fc3e-4357-9562-0375292bd2d3"
+  },
+  "name":"Edgar"
+}

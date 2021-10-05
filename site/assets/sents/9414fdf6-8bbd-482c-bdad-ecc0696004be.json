@@ -1,0 +1,13 @@
+{
+  "start":9063,
+  "end":9096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We just took a wrong\n   decision.",
+  "id":"9414fdf6-8bbd-482c-bdad-ecc0696004be",
+  "params":{
+    "id":"9414fdf6-8bbd-482c-bdad-ecc0696004be",
+    "class":"anno"
+  },
+  "name":"Many"
+}

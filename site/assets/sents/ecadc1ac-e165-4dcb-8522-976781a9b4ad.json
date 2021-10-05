@@ -1,0 +1,15 @@
+{
+  "start":19203,
+  "end":19256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we need some immigration reform to fix the system.",
+  "id":"ecadc1ac-e165-4dcb-8522-976781a9b4ad",
+  "params":{
+    "id":"ecadc1ac-e165-4dcb-8522-976781a9b4ad",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17039,
+  "end":17100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Well, I don't think I can compare myself to\n   them.",
+  "id":"ce025120-a2ce-4fc8-8732-11a5e1101f96",
+  "params":{
+    "id":"ce025120-a2ce-4fc8-8732-11a5e1101f96",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

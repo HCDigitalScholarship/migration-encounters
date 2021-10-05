@@ -1,0 +1,13 @@
+{
+  "start":2326,
+  "end":2359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess this is the street slang.",
+  "id":"0dec0adb-864c-42e2-beb9-94f75a7a5658",
+  "params":{
+    "id":"0dec0adb-864c-42e2-beb9-94f75a7a5658",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

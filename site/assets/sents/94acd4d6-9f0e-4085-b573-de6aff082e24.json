@@ -1,0 +1,13 @@
+{
+  "start":12765,
+  "end":12803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told my mom, \"I don't want to leave.",
+  "id":"94acd4d6-9f0e-4085-b573-de6aff082e24",
+  "params":{
+    "id":"94acd4d6-9f0e-4085-b573-de6aff082e24",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

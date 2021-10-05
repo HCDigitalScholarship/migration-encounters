@@ -1,0 +1,13 @@
+{
+  "start":44008,
+  "end":44034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   what a blunt is.",
+  "id":"2d99cfcc-db17-4cd5-833c-5b2d6450b152",
+  "params":{
+    "id":"2d99cfcc-db17-4cd5-833c-5b2d6450b152",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

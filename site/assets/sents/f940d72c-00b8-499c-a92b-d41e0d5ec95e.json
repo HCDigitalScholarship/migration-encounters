@@ -1,0 +1,13 @@
+{
+  "start":40801,
+  "end":40838,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mr.\n   Mulligan introduced me to him.",
+  "id":"f940d72c-00b8-499c-a92b-d41e0d5ec95e",
+  "params":{
+    "id":"f940d72c-00b8-499c-a92b-d41e0d5ec95e",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

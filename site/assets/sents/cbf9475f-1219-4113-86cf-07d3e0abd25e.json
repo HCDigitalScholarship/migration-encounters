@@ -1,0 +1,13 @@
+{
+  "start":14234,
+  "end":14256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been five, right?",
+  "id":"cbf9475f-1219-4113-86cf-07d3e0abd25e",
+  "params":{
+    "id":"cbf9475f-1219-4113-86cf-07d3e0abd25e",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

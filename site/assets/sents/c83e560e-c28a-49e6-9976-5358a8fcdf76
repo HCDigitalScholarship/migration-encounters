@@ -1,0 +1,12 @@
+{
+  "start":42094,
+  "end":42185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Four\n   months ago, I met this girl and we were dating and stuff, she was my\n   girlfriend.",
+  "id":"c83e560e-c28a-49e6-9976-5358a8fcdf76",
+  "params":{
+    "id":"300bd914-df0e-4f9c-8ad2-bac5d25829ff"
+  },
+  "name":"Cris"
+}

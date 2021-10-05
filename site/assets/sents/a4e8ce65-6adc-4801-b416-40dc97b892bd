@@ -1,0 +1,12 @@
+{
+  "start":34134,
+  "end":34183,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I picked up the guitar and it\n helped me out.",
+  "id":"a4e8ce65-6adc-4801-b416-40dc97b892bd",
+  "params":{
+    "id":"aa93b5cb-d622-49b5-9e56-85b8cbe7abe1"
+  },
+  "name":"Billy"
+}

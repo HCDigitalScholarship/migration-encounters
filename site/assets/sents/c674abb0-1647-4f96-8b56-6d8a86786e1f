@@ -1,0 +1,12 @@
+{
+  "start":25173,
+  "end":25197,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   just looked me up.",
+  "id":"c674abb0-1647-4f96-8b56-6d8a86786e1f",
+  "params":{
+    "id":"169454e8-1554-4d48-9a8d-1b55fef34fbd"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5840,
+  "end":5864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I liked the\n   food.",
+  "id":"6ecfccd3-edb8-4e16-b1c8-70af71851841",
+  "params":{
+    "id":"0a8f7a17-35cf-406d-8a51-139b1b9e41e6"
+  },
+  "name":"Edgar"
+}

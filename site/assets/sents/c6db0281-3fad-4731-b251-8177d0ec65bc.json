@@ -1,0 +1,13 @@
+{
+  "start":25078,
+  "end":25097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We keep in contact.",
+  "id":"c6db0281-3fad-4731-b251-8177d0ec65bc",
+  "params":{
+    "id":"c6db0281-3fad-4731-b251-8177d0ec65bc",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

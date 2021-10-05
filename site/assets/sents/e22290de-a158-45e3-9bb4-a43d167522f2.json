@@ -1,0 +1,13 @@
+{
+  "start":28661,
+  "end":28717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll meet\n   you over at the hotel where we're staying.\"",
+  "id":"e22290de-a158-45e3-9bb4-a43d167522f2",
+  "params":{
+    "id":"e22290de-a158-45e3-9bb4-a43d167522f2",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

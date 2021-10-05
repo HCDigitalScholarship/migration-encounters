@@ -1,0 +1,12 @@
+{
+  "start":16209,
+  "end":16244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have contact with your mom?",
+  "id":"b9038ad1-1453-42c3-9c87-576692e02da4",
+  "params":{
+    "id":"d5d8b625-9d08-4bd1-ad24-8f6c4d7a9e35"
+  },
+  "name":"Luis B"
+}

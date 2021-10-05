@@ -1,0 +1,12 @@
+{
+  "start":50768,
+  "end":50788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just wrapping up",
+  "id":"7a740a6c-3431-4ff6-8c2e-8e613bc3eb0b",
+  "params":{
+    "id":"b20d3208-83b0-4347-9e34-e62678f7b105"
+  },
+  "name":"Rodolfo"
+}

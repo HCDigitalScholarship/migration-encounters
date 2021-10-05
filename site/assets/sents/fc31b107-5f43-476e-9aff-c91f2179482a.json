@@ -1,0 +1,13 @@
+{
+  "start":16433,
+  "end":16451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just a child.\"",
+  "id":"fc31b107-5f43-476e-9aff-c91f2179482a",
+  "params":{
+    "id":"fc31b107-5f43-476e-9aff-c91f2179482a",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

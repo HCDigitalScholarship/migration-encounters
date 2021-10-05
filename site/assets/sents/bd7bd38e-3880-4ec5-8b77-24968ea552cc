@@ -1,0 +1,12 @@
+{
+  "start":33142,
+  "end":33155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Good morning.",
+  "id":"bd7bd38e-3880-4ec5-8b77-24968ea552cc",
+  "params":{
+    "id":"75fb3a13-94c9-4322-8277-8bf8b89c00a3"
+  },
+  "name":"Ruben"
+}

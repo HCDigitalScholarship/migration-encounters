@@ -1,0 +1,13 @@
+{
+  "start":5566,
+  "end":5624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to like to go hang out, but I always\nliked to work.",
+  "id":"a39c13f1-ada3-42e2-8a96-8b4ba49d8c4a",
+  "params":{
+    "id":"a39c13f1-ada3-42e2-8a96-8b4ba49d8c4a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

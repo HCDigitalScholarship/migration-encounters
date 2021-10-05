@@ -1,0 +1,13 @@
+{
+  "start":34698,
+  "end":34718,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you feel now?",
+  "id":"507522d4-f109-45a0-b435-28411d8e6a73",
+  "params":{
+    "id":"507522d4-f109-45a0-b435-28411d8e6a73",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

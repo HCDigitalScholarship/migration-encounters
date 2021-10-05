@@ -1,0 +1,13 @@
+{
+  "start":30011,
+  "end":30067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it was like,\n   \"Okay, I can't copy my dad's tattoo.",
+  "id":"b69657f5-8d12-44a7-a065-5b6272aa7e63",
+  "params":{
+    "id":"b69657f5-8d12-44a7-a065-5b6272aa7e63",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

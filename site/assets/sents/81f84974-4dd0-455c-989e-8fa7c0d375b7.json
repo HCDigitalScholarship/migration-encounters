@@ -1,0 +1,13 @@
+{
+  "start":9324,
+  "end":9420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have to try because your brother's over there, because your dad's\n   already waiting for us.\"",
+  "id":"81f84974-4dd0-455c-989e-8fa7c0d375b7",
+  "params":{
+    "id":"81f84974-4dd0-455c-989e-8fa7c0d375b7",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3525,
+  "end":3564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was two\n   o'clock in the afternoon.",
+  "id":"7b708898-8cba-4383-bfc0-efe8f47943e4",
+  "params":{
+    "id":"d607249b-2216-48a4-8cd6-4f2ed82dd183"
+  },
+  "name":"Ruben"
+}

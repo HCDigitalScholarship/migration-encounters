@@ -1,0 +1,13 @@
+{
+  "start":39605,
+  "end":39640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's in immigration hold right now.",
+  "id":"9c86ef7f-c646-4ef3-8811-ab19e16f7481",
+  "params":{
+    "id":"9c86ef7f-c646-4ef3-8811-ab19e16f7481",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

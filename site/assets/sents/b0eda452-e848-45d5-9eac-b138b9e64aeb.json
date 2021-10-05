@@ -1,0 +1,13 @@
+{
+  "start":3564,
+  "end":3590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived in several States.",
+  "id":"b0eda452-e848-45d5-9eac-b138b9e64aeb",
+  "params":{
+    "id":"b0eda452-e848-45d5-9eac-b138b9e64aeb",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6816,
+  "end":6851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Oh, are you from Ireland?\"",
+  "id":"00b60403-c3d7-4f72-86a1-57f08558f368",
+  "params":{
+    "id":"c4325bf2-1239-4273-8f39-9d16777448bb"
+  },
+  "name":"Zayuri"
+}

@@ -1,0 +1,12 @@
+{
+  "start":31118,
+  "end":31133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not bad.",
+  "id":"5cb94ce4-1875-4259-a79f-22d300eb2e57",
+  "params":{
+    "id":"d63a45de-eb84-43f4-bd8f-64a15824f80f"
+  },
+  "name":"Axel"
+}

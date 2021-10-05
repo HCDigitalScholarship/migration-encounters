@@ -1,0 +1,13 @@
+{
+  "start":32050,
+  "end":32059,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just go.\"",
+  "id":"4f6bc1b7-9ecd-4ad8-946a-f88fdc2314dd",
+  "params":{
+    "id":"4f6bc1b7-9ecd-4ad8-946a-f88fdc2314dd",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

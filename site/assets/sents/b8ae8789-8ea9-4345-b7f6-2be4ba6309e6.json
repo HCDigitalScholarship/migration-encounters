@@ -1,0 +1,13 @@
+{
+  "start":23407,
+  "end":23480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, because I didn't have anything, no papers, nothing to work\n   with.",
+  "id":"b8ae8789-8ea9-4345-b7f6-2be4ba6309e6",
+  "params":{
+    "id":"b8ae8789-8ea9-4345-b7f6-2be4ba6309e6",
+    "class":"anno"
+  },
+  "name":"Many"
+}

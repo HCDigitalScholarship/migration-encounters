@@ -1,0 +1,13 @@
+{
+  "start":17,
+  "end":39,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm talking to Donovan",
+  "id":"f41fa371-da6a-4ae1-bb0d-25a98e91f1b6",
+  "params":{
+    "id":"f41fa371-da6a-4ae1-bb0d-25a98e91f1b6",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

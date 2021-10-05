@@ -1,0 +1,12 @@
+{
+  "start":1066,
+  "end":1080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was fifteen.",
+  "id":"30dd2e4e-0d7a-4ac6-9a7e-b5ee4afe39b1",
+  "params":{
+    "id":"75b12737-606f-4eb7-8f4c-5edcb0d5e3c1"
+  },
+  "name":"Noe"
+}

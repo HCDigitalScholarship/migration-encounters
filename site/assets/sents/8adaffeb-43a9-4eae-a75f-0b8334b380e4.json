@@ -1,0 +1,13 @@
+{
+  "start":9302,
+  "end":9323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not my priority.",
+  "id":"8adaffeb-43a9-4eae-a75f-0b8334b380e4",
+  "params":{
+    "id":"8adaffeb-43a9-4eae-a75f-0b8334b380e4",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

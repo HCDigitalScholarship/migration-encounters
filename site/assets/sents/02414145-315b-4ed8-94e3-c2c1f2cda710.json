@@ -1,0 +1,13 @@
+{
+  "start":50465,
+  "end":50509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry, I just don't\n   want to go home.\"",
+  "id":"02414145-315b-4ed8-94e3-c2c1f2cda710",
+  "params":{
+    "id":"02414145-315b-4ed8-94e3-c2c1f2cda710",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

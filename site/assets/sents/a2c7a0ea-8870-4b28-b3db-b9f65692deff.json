@@ -1,0 +1,13 @@
+{
+  "start":27802,
+  "end":27885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When that Spanish church started, it was actually\n my father that was the preacher.",
+  "id":"a2c7a0ea-8870-4b28-b3db-b9f65692deff",
+  "params":{
+    "id":"a2c7a0ea-8870-4b28-b3db-b9f65692deff",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

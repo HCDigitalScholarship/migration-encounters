@@ -1,0 +1,13 @@
+{
+  "start":15798,
+  "end":15820,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   happens a lot.",
+  "id":"7ca03907-736f-42f7-8e71-486e0349e010",
+  "params":{
+    "id":"7ca03907-736f-42f7-8e71-486e0349e010",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

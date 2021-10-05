@@ -1,0 +1,13 @@
+{
+  "start":33214,
+  "end":33302,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of the people we talked to who went as children became sort of street\n     people.",
+  "id":"bbc007bc-6564-48f3-b417-7c2af528e547",
+  "params":{
+    "id":"bbc007bc-6564-48f3-b417-7c2af528e547",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6912,
+  "end":6928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just got into...",
+  "id":"10c217c9-efd2-42a2-bc1b-1d72d11b6e29",
+  "params":{
+    "id":"10c217c9-efd2-42a2-bc1b-1d72d11b6e29",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

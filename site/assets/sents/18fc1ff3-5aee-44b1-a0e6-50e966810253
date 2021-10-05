@@ -1,0 +1,12 @@
+{
+  "start":25090,
+  "end":25120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n just... it was my dad.",
+  "id":"18fc1ff3-5aee-44b1-a0e6-50e966810253",
+  "params":{
+    "id":"d276774b-4dd4-4a6b-aaeb-e3dc110669b8"
+  },
+  "name":"Billy"
+}

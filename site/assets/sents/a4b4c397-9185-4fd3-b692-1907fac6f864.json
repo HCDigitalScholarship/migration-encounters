@@ -1,0 +1,13 @@
+{
+  "start":2332,
+  "end":2422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"<br/>\n \n   Miguel: In school and watching TV and obviously interacting with my\n   brother.",
+  "id":"a4b4c397-9185-4fd3-b692-1907fac6f864",
+  "params":{
+    "id":"a4b4c397-9185-4fd3-b692-1907fac6f864",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

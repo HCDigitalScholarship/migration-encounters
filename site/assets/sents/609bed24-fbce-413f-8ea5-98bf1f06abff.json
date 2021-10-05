@@ -1,0 +1,13 @@
+{
+  "start":39564,
+  "end":39598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How\n     come you didn't tell me?\"",
+  "id":"609bed24-fbce-413f-8ea5-98bf1f06abff",
+  "params":{
+    "id":"609bed24-fbce-413f-8ea5-98bf1f06abff",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7881,
+  "end":7910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, the warehouse got raided?",
+  "id":"2d2725ae-7df0-4c5b-90d7-ea80db0a0e8e",
+  "params":{
+    "id":"2d2725ae-7df0-4c5b-90d7-ea80db0a0e8e",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

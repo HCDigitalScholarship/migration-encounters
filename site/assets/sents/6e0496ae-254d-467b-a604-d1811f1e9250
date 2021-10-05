@@ -1,0 +1,12 @@
+{
+  "start":12055,
+  "end":12072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know why.",
+  "id":"6e0496ae-254d-467b-a604-d1811f1e9250",
+  "params":{
+    "id":"69271cca-7a5b-449b-b3ae-0b0688bf51d5"
+  },
+  "name":"Many"
+}

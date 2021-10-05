@@ -1,0 +1,12 @@
+{
+  "start":4329,
+  "end":4351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\u2019re learning a lot.",
+  "id":"6e4e4c45-9868-4f77-8d8b-6480329d2097",
+  "params":{
+    "id":"1f82babb-df5c-4f53-a51a-9ada0c4ec951"
+  },
+  "name":"Beto"
+}

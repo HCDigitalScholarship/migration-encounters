@@ -1,0 +1,13 @@
+{
+  "start":12290,
+  "end":12335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\nout on bail; that's when I got married.",
+  "id":"2007f46f-fc4a-469e-aa93-5259128354cc",
+  "params":{
+    "id":"2007f46f-fc4a-469e-aa93-5259128354cc",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7325,
+  "end":7401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when my dad came back to\n   his brother's house, and he stayed there.",
+  "id":"b0f898e3-cc4c-423a-89f7-f902085c5281",
+  "params":{
+    "id":"b0f898e3-cc4c-423a-89f7-f902085c5281",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

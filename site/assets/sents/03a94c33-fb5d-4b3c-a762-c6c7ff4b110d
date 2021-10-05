@@ -1,0 +1,12 @@
+{
+  "start":25543,
+  "end":25615,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I keep hearing from my friends that a lot of\n   stuff changed out there.",
+  "id":"03a94c33-fb5d-4b3c-a762-c6c7ff4b110d",
+  "params":{
+    "id":"63869dc6-bd87-49c8-9916-d3accca29f55"
+  },
+  "name":"Edgar"
+}

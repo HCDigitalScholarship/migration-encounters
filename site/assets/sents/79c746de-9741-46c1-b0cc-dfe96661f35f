@@ -1,0 +1,12 @@
+{
+  "start":49359,
+  "end":49477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mi hija desapareci\u00f3 un\n     lunes a las cinco de la tarde y yo a las diez de la noche yo ya andaba\n     moviendo todo.",
+  "id":"79c746de-9741-46c1-b0cc-dfe96661f35f",
+  "params":{
+    "id":"5e432f17-ec19-4b33-b718-d2da66f3372f"
+  },
+  "name":"Maria"
+}

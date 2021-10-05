@@ -1,0 +1,12 @@
+{
+  "start":25687,
+  "end":25699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why is that?",
+  "id":"73d4e35b-06ec-47ff-ab03-4068c69177da",
+  "params":{
+    "id":"81b19e16-56ec-4a7b-bb44-d7aee9ffdeb8"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10081,
+  "end":10178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't just keep sticking people in prison all the time, you can't\n   keep throwing them away.",
+  "id":"059bc234-3ad2-48f2-93d8-99a1b44fc40b",
+  "params":{
+    "id":"059bc234-3ad2-48f2-93d8-99a1b44fc40b",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

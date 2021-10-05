@@ -1,0 +1,13 @@
+{
+  "start":33201,
+  "end":33237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hugo: Not really a different person.",
+  "id":"f1852acc-31c0-4d95-90c0-a1a3445e8368",
+  "params":{
+    "id":"f1852acc-31c0-4d95-90c0-a1a3445e8368",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

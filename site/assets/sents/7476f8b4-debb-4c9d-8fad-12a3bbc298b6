@@ -1,0 +1,12 @@
+{
+  "start":31011,
+  "end":31079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just\n   something about fighting that just releases the stress.",
+  "id":"7476f8b4-debb-4c9d-8fad-12a3bbc298b6",
+  "params":{
+    "id":"a3624f2b-0ff9-4f1b-8c47-23fabb94b149"
+  },
+  "name":"Mike"
+}

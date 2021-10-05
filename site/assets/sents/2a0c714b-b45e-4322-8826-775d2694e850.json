@@ -1,0 +1,13 @@
+{
+  "start":31792,
+  "end":31836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My favorite team, and I hate to\n   admit it,",
+  "id":"2a0c714b-b45e-4322-8826-775d2694e850",
+  "params":{
+    "id":"2a0c714b-b45e-4322-8826-775d2694e850",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

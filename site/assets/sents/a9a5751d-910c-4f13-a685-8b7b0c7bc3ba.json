@@ -1,0 +1,13 @@
+{
+  "start":96561,
+  "end":96603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One of the five.\n   \n   \n     Cuauht\u00e9moc :",
+  "id":"a9a5751d-910c-4f13-a685-8b7b0c7bc3ba",
+  "params":{
+    "id":"a9a5751d-910c-4f13-a685-8b7b0c7bc3ba",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

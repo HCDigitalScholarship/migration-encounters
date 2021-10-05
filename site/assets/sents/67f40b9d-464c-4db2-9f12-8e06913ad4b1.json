@@ -1,0 +1,12 @@
+{
+  "start":32100,
+  "end":32119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   like, \"Wow.",
+  "id":"67f40b9d-464c-4db2-9f12-8e06913ad4b1",
+  "params":{
+    "id":"f2cfa034-e943-4f45-83af-0e81bd6e737f"
+  },
+  "name":"Sylent"
+}

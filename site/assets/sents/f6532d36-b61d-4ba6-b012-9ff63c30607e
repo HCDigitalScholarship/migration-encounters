@@ -1,0 +1,12 @@
+{
+  "start":78835,
+  "end":78859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's going to be four.",
+  "id":"f6532d36-b61d-4ba6-b012-9ff63c30607e",
+  "params":{
+    "id":"1f5c1118-4890-4bdd-bd11-054336a74826"
+  },
+  "name":"Axel"
+}

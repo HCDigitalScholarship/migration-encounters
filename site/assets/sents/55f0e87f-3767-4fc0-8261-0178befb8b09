@@ -1,0 +1,12 @@
+{
+  "start":47272,
+  "end":47280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n way",
+  "id":"55f0e87f-3767-4fc0-8261-0178befb8b09",
+  "params":{
+    "id":"fd273cca-abdb-4a99-b3cd-4b27ad7b81e6"
+  },
+  "name":"Angelo"
+}

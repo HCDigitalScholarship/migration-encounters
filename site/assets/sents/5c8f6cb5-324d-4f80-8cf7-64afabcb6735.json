@@ -1,0 +1,13 @@
+{
+  "start":10929,
+  "end":11010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   don't have that in them and I don't think she had it, but they helped out",
+  "id":"5c8f6cb5-324d-4f80-8cf7-64afabcb6735",
+  "params":{
+    "id":"5c8f6cb5-324d-4f80-8cf7-64afabcb6735",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

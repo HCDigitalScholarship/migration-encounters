@@ -1,0 +1,13 @@
+{
+  "start":24390,
+  "end":24461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   have a lot of books, fantasy books, we had The Lord of the Rings.",
+  "id":"bdedf862-dfde-4dd8-828d-d7084559882a",
+  "params":{
+    "id":"bdedf862-dfde-4dd8-828d-d7084559882a",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

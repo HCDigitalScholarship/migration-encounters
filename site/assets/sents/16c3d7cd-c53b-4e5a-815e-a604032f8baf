@@ -1,0 +1,12 @@
+{
+  "start":30663,
+  "end":30692,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not supposed to come.\"",
+  "id":"16c3d7cd-c53b-4e5a-815e-a604032f8baf",
+  "params":{
+    "id":"64573cf8-b6d4-480c-8c98-415b820f3c3c"
+  },
+  "name":"Carlos"
+}

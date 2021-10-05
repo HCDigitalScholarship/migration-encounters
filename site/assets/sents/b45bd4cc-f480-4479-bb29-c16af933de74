@@ -1,0 +1,12 @@
+{
+  "start":11425,
+  "end":11449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You got to move forward.",
+  "id":"b45bd4cc-f480-4479-bb29-c16af933de74",
+  "params":{
+    "id":"228c6733-6d25-46c7-a6bf-d265f1a1b965"
+  },
+  "name":"Hugo"
+}

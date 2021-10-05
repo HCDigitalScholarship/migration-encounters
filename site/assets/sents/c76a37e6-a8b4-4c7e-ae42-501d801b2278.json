@@ -1,0 +1,12 @@
+{
+  "start":4461,
+  "end":4514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember what your mood was like at that time?",
+  "id":"c76a37e6-a8b4-4c7e-ae42-501d801b2278",
+  "params":{
+    "id":"26893234-5ae2-4cfc-834d-27f78ae59bf6"
+  },
+  "name":"Luisa"
+}

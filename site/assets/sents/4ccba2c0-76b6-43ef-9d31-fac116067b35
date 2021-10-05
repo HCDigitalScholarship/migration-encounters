@@ -1,0 +1,12 @@
+{
+  "start":43112,
+  "end":43146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You make this\n   house what it is.",
+  "id":"4ccba2c0-76b6-43ef-9d31-fac116067b35",
+  "params":{
+    "id":"65552a72-ae96-407b-90c9-024421cb7ec3"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10850,
+  "end":10877,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was your mother mad at you?",
+  "id":"2f9c1c36-4966-40cd-a813-317dfbf0361d",
+  "params":{
+    "id":"b48e9b35-9a17-4bf8-b931-b723ad8ab358"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15002,
+  "end":15027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, because I told her.",
+  "id":"0c8a0b38-1405-415c-902a-0154d7ecea13",
+  "params":{
+    "id":"e8567323-b114-4973-9b7e-8a0965ee6b0e"
+  },
+  "name":"Kevin"
+}

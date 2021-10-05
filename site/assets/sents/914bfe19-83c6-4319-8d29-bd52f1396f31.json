@@ -1,0 +1,12 @@
+{
+  "start":3371,
+  "end":3442,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me how many years you lived in the United States,\n   Juan?",
+  "id":"914bfe19-83c6-4319-8d29-bd52f1396f31",
+  "params":{
+    "id":"392a1060-5ec2-4922-ba6e-cbb8ce007237"
+  },
+  "name":"Juan A"
+}

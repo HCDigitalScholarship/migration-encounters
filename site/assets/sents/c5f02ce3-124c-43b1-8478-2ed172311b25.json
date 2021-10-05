@@ -1,0 +1,13 @@
+{
+  "start":3109,
+  "end":3137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She even gave us the choice.",
+  "id":"c5f02ce3-124c-43b1-8478-2ed172311b25",
+  "params":{
+    "id":"c5f02ce3-124c-43b1-8478-2ed172311b25",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

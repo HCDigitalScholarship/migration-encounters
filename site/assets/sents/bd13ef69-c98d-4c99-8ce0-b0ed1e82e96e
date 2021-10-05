@@ -1,0 +1,12 @@
+{
+  "start":2589,
+  "end":2690,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She would say,\n   \"Oh you were one year old, one and a half years old, how did you remember\n   that?\"",
+  "id":"bd13ef69-c98d-4c99-8ce0-b0ed1e82e96e",
+  "params":{
+    "id":"b31c90a3-65cb-468e-93c8-22bd8189ef00"
+  },
+  "name":"Rodolfo"
+}

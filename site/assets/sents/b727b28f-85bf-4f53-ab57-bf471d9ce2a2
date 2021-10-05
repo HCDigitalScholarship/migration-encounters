@@ -1,0 +1,12 @@
+{
+  "start":10129,
+  "end":10180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you work before then or is this your first job?",
+  "id":"b727b28f-85bf-4f53-ab57-bf471d9ce2a2",
+  "params":{
+    "id":"593ad3a5-f506-4b01-afe6-bb2cd591f53c"
+  },
+  "name":"Carolina"
+}

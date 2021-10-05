@@ -1,0 +1,12 @@
+{
+  "start":104,
+  "end":143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never felt like I didn't have papers.",
+  "id":"c7c22fdf-b5d8-481d-8106-a46c126d3205",
+  "params":{
+    "id":"299ee3a9-831d-4a62-9e66-8820c8bb0779"
+  },
+  "name":"Donovan"
+}

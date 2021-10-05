@@ -1,0 +1,13 @@
+{
+  "start":4096,
+  "end":4152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your grandfather who was originally from Mexico\u2026\n \n \n   ",
+  "id":"77e56dd4-d44c-4923-b606-073d7e48344b",
+  "params":{
+    "id":"77e56dd4-d44c-4923-b606-073d7e48344b",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

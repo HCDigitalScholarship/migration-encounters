@@ -1,0 +1,13 @@
+{
+  "start":28567,
+  "end":28615,
+  "label":"SENT",
+  "type":"sent",
+  "text":"an\n immigration bond, so I should be good to go.",
+  "id":"a80c51bc-00f1-4610-a550-db0747c3393f",
+  "params":{
+    "id":"a80c51bc-00f1-4610-a550-db0747c3393f",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

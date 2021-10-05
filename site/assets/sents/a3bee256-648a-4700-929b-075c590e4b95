@@ -1,0 +1,12 @@
+{
+  "start":12549,
+  "end":12571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So how did you get it?",
+  "id":"a3bee256-648a-4700-929b-075c590e4b95",
+  "params":{
+    "id":"e64586ad-9d84-498c-ad47-490db6c17879"
+  },
+  "name":"Ben"
+}

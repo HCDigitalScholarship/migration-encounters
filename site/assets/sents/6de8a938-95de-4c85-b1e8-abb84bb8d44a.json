@@ -1,0 +1,13 @@
+{
+  "start":28463,
+  "end":28495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And family is the main\n   thing.",
+  "id":"6de8a938-95de-4c85-b1e8-abb84bb8d44a",
+  "params":{
+    "id":"6de8a938-95de-4c85-b1e8-abb84bb8d44a",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

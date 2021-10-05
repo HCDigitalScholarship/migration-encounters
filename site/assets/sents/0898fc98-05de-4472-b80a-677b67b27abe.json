@@ -1,0 +1,13 @@
+{
+  "start":7716,
+  "end":7744,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was a pretty smart\n   kid.",
+  "id":"0898fc98-05de-4472-b80a-677b67b27abe",
+  "params":{
+    "id":"0898fc98-05de-4472-b80a-677b67b27abe",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

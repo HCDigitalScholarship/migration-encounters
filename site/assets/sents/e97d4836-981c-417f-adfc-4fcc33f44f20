@@ -1,0 +1,12 @@
+{
+  "start":10019,
+  "end":10039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's good for now.",
+  "id":"e97d4836-981c-417f-adfc-4fcc33f44f20",
+  "params":{
+    "id":"d094a153-a458-459a-aab0-7d2fb403e18c"
+  },
+  "name":"Cris"
+}

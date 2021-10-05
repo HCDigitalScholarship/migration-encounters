@@ -1,0 +1,13 @@
+{
+  "start":12589,
+  "end":12625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was writing me letters and stuff",
+  "id":"1c214b2e-9477-4bcb-a732-89045b5fbe00",
+  "params":{
+    "id":"1c214b2e-9477-4bcb-a732-89045b5fbe00",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

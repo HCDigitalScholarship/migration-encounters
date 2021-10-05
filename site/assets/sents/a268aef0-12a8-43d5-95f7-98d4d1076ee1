@@ -1,0 +1,12 @@
+{
+  "start":22760,
+  "end":22790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I haven't drunk in five years.",
+  "id":"a268aef0-12a8-43d5-95f7-98d4d1076ee1",
+  "params":{
+    "id":"af2186cd-86eb-4288-b8ac-7f0417470c14"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24322,
+  "end":24358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Someone find a way to\n   get things.",
+  "id":"1c7846c9-4ba7-4581-924c-cd700c49eb7a",
+  "params":{
+    "id":"62ae4e4b-6b1a-4560-9ddd-a06cd5f09ce2"
+  },
+  "name":"Joseph"
+}

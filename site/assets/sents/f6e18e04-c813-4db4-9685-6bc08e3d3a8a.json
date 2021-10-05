@@ -1,0 +1,13 @@
+{
+  "start":27604,
+  "end":27629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's to get a better job.",
+  "id":"f6e18e04-c813-4db4-9685-6bc08e3d3a8a",
+  "params":{
+    "id":"f6e18e04-c813-4db4-9685-6bc08e3d3a8a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

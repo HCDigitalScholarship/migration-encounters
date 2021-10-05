@@ -1,0 +1,13 @@
+{
+  "start":33869,
+  "end":33894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would happen to me.\"",
+  "id":"0c492cfa-91a9-4671-8ff2-e91fd0aaaafb",
+  "params":{
+    "id":"0c492cfa-91a9-4671-8ff2-e91fd0aaaafb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

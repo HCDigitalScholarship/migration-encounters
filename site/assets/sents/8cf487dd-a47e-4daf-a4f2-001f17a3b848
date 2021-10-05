@@ -1,0 +1,12 @@
+{
+  "start":10626,
+  "end":10682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   When you grew up, did you see a lot of your parents?",
+  "id":"8cf487dd-a47e-4daf-a4f2-001f17a3b848",
+  "params":{
+    "id":"85cd42ce-8404-47d3-92cd-335873b5b712"
+  },
+  "name":"Sylent"
+}

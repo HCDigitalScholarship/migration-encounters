@@ -1,0 +1,12 @@
+{
+  "start":28263,
+  "end":28313,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We've made bad decisions, but we ain't bad people.",
+  "id":"d753dfc6-5f51-4250-ba4a-8d9ba121309d",
+  "params":{
+    "id":"53016a46-5177-4278-bbde-99e0f49731ea"
+  },
+  "name":"Hugo"
+}

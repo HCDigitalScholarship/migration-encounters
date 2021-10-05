@@ -1,0 +1,12 @@
+{
+  "start":35086,
+  "end":35189,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes there is things that I want to do, but I\n   can't because I have to be at home.\n \n \n   Anita:",
+  "id":"2ff48de1-b55c-4d6d-8bc3-861e0d29b169",
+  "params":{
+    "id":"1ac91923-828f-43bf-b1bf-e380571aa3d2"
+  },
+  "name":"Rodrigo"
+}

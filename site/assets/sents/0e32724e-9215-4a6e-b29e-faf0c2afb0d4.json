@@ -1,0 +1,12 @@
+{
+  "start":5472,
+  "end":5532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   was the only reason that I didn't want to go for it.",
+  "id":"0e32724e-9215-4a6e-b29e-faf0c2afb0d4",
+  "params":{
+    "id":"ba02fdf6-ce66-4fe1-8333-45937908aaed"
+  },
+  "name":"Daniel"
+}

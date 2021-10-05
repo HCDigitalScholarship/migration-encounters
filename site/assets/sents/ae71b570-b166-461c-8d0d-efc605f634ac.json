@@ -1,0 +1,13 @@
+{
+  "start":8061,
+  "end":8120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just going to go to the store and just steal something.",
+  "id":"ae71b570-b166-461c-8d0d-efc605f634ac",
+  "params":{
+    "id":"ae71b570-b166-461c-8d0d-efc605f634ac",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

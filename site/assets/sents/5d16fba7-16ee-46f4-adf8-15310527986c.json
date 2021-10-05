@@ -1,0 +1,13 @@
+{
+  "start":21250,
+  "end":21300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, that's a really\n   important story to share.",
+  "id":"5d16fba7-16ee-46f4-adf8-15310527986c",
+  "params":{
+    "id":"5d16fba7-16ee-46f4-adf8-15310527986c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

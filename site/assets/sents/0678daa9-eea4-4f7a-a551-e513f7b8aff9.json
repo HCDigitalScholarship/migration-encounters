@@ -1,0 +1,13 @@
+{
+  "start":42742,
+  "end":42783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't transact, you don't make it.",
+  "id":"0678daa9-eea4-4f7a-a551-e513f7b8aff9",
+  "params":{
+    "id":"0678daa9-eea4-4f7a-a551-e513f7b8aff9",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

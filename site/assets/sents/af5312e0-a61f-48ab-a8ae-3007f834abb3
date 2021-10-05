@@ -1,0 +1,12 @@
+{
+  "start":32994,
+  "end":33093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're not looking to help you,\n   because you walk around like you're going to take their wallet.",
+  "id":"af5312e0-a61f-48ab-a8ae-3007f834abb3",
+  "params":{
+    "id":"2f4e745b-0984-40ad-b9e7-003ad1390a2b"
+  },
+  "name":"Ruben"
+}

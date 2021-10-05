@@ -1,0 +1,13 @@
+{
+  "start":100,
+  "end":107,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm 31.",
+  "id":"28c4d273-c6e9-4082-953c-bce167dbce43",
+  "params":{
+    "id":"28c4d273-c6e9-4082-953c-bce167dbce43",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

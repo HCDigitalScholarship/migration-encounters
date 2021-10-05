@@ -1,0 +1,12 @@
+{
+  "start":45338,
+  "end":45370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get asked that question a lot.",
+  "id":"b1f37306-86e0-4b04-a6ee-1853e5163a8d",
+  "params":{
+    "id":"a42fcb8e-b110-40ca-953c-65a6fc61c412"
+  },
+  "name":"Sylent"
+}

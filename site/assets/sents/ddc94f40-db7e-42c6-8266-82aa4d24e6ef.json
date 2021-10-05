@@ -1,0 +1,13 @@
+{
+  "start":22474,
+  "end":22509,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I didn't know a lot of Spanish.",
+  "id":"ddc94f40-db7e-42c6-8266-82aa4d24e6ef",
+  "params":{
+    "id":"ddc94f40-db7e-42c6-8266-82aa4d24e6ef",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

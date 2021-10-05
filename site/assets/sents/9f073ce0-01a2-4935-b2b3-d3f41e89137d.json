@@ -1,0 +1,13 @@
+{
+  "start":26796,
+  "end":26827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They changed the number lately.",
+  "id":"9f073ce0-01a2-4935-b2b3-d3f41e89137d",
+  "params":{
+    "id":"9f073ce0-01a2-4935-b2b3-d3f41e89137d",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35104,
+  "end":35224,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You are actually\n   able to do something right instead of just thinking, \"Well I'll just shoot\n   them and it will end.\"",
+  "id":"c4145480-5f7c-4435-9ce0-3603925059d6",
+  "params":{
+    "id":"c4145480-5f7c-4435-9ce0-3603925059d6",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

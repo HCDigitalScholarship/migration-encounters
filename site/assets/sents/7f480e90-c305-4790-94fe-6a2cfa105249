@@ -1,0 +1,12 @@
+{
+  "start":13940,
+  "end":13997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: What about your dad? Or your brother?\n \n \n   Edgar:",
+  "id":"7f480e90-c305-4790-94fe-6a2cfa105249",
+  "params":{
+    "id":"7b330aa5-cc1a-46c3-a1f0-50970ed3158f"
+  },
+  "name":"Edgar"
+}

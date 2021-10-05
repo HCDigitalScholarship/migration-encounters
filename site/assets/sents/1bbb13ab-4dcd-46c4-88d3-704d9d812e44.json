@@ -1,0 +1,15 @@
+{
+  "start":15387,
+  "end":15404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's fucked up.",
+  "id":"1bbb13ab-4dcd-46c4-88d3-704d9d812e44",
+  "params":{
+    "id":"1bbb13ab-4dcd-46c4-88d3-704d9d812e44",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

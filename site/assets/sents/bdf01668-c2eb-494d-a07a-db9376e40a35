@@ -1,0 +1,12 @@
+{
+  "start":279,
+  "end":339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a teacher in University that used to say,\n   \"Miguel.\u201d",
+  "id":"bdf01668-c2eb-494d-a07a-db9376e40a35",
+  "params":{
+    "id":"e5acbbe6-b254-4f01-a2b8-7495938732b8"
+  },
+  "name":"Miguel A"
+}

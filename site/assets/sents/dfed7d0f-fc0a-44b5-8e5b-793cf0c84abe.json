@@ -1,0 +1,13 @@
+{
+  "start":3026,
+  "end":3076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why I've been in so many call centers here.",
+  "id":"dfed7d0f-fc0a-44b5-8e5b-793cf0c84abe",
+  "params":{
+    "id":"dfed7d0f-fc0a-44b5-8e5b-793cf0c84abe",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

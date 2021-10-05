@@ -1,0 +1,13 @@
+{
+  "start":20858,
+  "end":20869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In and out.",
+  "id":"e1fd4985-b9fd-4c86-998f-6e2ed13785ac",
+  "params":{
+    "id":"e1fd4985-b9fd-4c86-998f-6e2ed13785ac",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

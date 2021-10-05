@@ -1,0 +1,12 @@
+{
+  "start":10986,
+  "end":10996,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n health",
+  "id":"381a2e0e-ab16-4f51-9041-f6bc3de4ad20",
+  "params":{
+    "id":"7bd9212a-3280-4660-8cde-9dc0ffc3bbb3"
+  },
+  "name":"Ana"
+}

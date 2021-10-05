@@ -1,0 +1,13 @@
+{
+  "start":12123,
+  "end":12163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was pretty scared cause I didn't know.",
+  "id":"3e74cd26-d2c6-42ce-98e2-ab78bd7b6b25",
+  "params":{
+    "id":"3e74cd26-d2c6-42ce-98e2-ab78bd7b6b25",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

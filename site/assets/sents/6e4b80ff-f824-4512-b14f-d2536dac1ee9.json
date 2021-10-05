@@ -1,0 +1,13 @@
+{
+  "start":29001,
+  "end":29036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when\n   my mom contacted me.",
+  "id":"6e4b80ff-f824-4512-b14f-d2536dac1ee9",
+  "params":{
+    "id":"6e4b80ff-f824-4512-b14f-d2536dac1ee9",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

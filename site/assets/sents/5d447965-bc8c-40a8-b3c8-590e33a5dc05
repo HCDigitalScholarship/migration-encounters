@@ -1,0 +1,12 @@
+{
+  "start":76496,
+  "end":76512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like barbecue.",
+  "id":"5d447965-bc8c-40a8-b3c8-590e33a5dc05",
+  "params":{
+    "id":"c7c4224b-d748-4461-ad6d-68e7b52f9aa1"
+  },
+  "name":"Cris"
+}

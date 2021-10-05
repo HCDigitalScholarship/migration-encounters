@@ -1,0 +1,13 @@
+{
+  "start":8279,
+  "end":8305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     It's very stressful.",
+  "id":"d1f16690-1cd7-49e1-a3d6-895f81b96fbb",
+  "params":{
+    "id":"d1f16690-1cd7-49e1-a3d6-895f81b96fbb",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

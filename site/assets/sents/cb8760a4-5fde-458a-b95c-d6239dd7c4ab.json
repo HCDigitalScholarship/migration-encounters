@@ -1,0 +1,13 @@
+{
+  "start":4985,
+  "end":5007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had low self-esteem.",
+  "id":"cb8760a4-5fde-458a-b95c-d6239dd7c4ab",
+  "params":{
+    "id":"cb8760a4-5fde-458a-b95c-d6239dd7c4ab",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

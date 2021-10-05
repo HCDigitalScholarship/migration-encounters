@@ -1,0 +1,13 @@
+{
+  "start":11031,
+  "end":11066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, sorry, you didn't have a child.",
+  "id":"50a99983-4249-4227-bf19-2fd22e7e8e25",
+  "params":{
+    "id":"50a99983-4249-4227-bf19-2fd22e7e8e25",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":44506,
+  "end":44555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   then they told me that I had a court date.",
+  "id":"3084fb74-e06d-48aa-ba65-154d558df003",
+  "params":{
+    "id":"3084fb74-e06d-48aa-ba65-154d558df003",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

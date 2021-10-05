@@ -1,0 +1,13 @@
+{
+  "start":10055,
+  "end":10073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to renew it.",
+  "id":"f7d25d1d-ed67-45cc-ae06-dbadcf03b3a7",
+  "params":{
+    "id":"f7d25d1d-ed67-45cc-ae06-dbadcf03b3a7",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

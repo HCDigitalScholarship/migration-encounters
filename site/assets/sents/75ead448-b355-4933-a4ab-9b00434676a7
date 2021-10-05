@@ -1,0 +1,12 @@
+{
+  "start":42173,
+  "end":42186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"75ead448-b355-4933-a4ab-9b00434676a7",
+  "params":{
+    "id":"cf1a48ed-2edf-4d72-8f97-140314170a35"
+  },
+  "name":"Sylent"
+}

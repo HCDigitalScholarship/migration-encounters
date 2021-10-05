@@ -1,0 +1,13 @@
+{
+  "start":30592,
+  "end":30666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would look at\n   the time, and I'd be like, \"Down there it's this time.\"",
+  "id":"74c3119a-2da2-4b7b-a74f-9ddce985f17e",
+  "params":{
+    "id":"74c3119a-2da2-4b7b-a74f-9ddce985f17e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

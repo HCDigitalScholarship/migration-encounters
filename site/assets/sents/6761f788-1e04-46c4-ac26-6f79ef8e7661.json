@@ -1,0 +1,13 @@
+{
+  "start":56158,
+  "end":56173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a little\n   kid",
+  "id":"6761f788-1e04-46c4-ac26-6f79ef8e7661",
+  "params":{
+    "id":"6761f788-1e04-46c4-ac26-6f79ef8e7661",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

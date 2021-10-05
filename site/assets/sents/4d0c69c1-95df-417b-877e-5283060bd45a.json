@@ -1,0 +1,13 @@
+{
+  "start":8854,
+  "end":8892,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not like, I\n   don't belong with them.",
+  "id":"4d0c69c1-95df-417b-877e-5283060bd45a",
+  "params":{
+    "id":"4d0c69c1-95df-417b-877e-5283060bd45a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

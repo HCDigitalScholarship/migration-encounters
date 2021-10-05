@@ -1,0 +1,13 @@
+{
+  "start":20847,
+  "end":20874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me what I should know.",
+  "id":"e56f1902-c74c-4bd1-af28-72430a38580f",
+  "params":{
+    "id":"e56f1902-c74c-4bd1-af28-72430a38580f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

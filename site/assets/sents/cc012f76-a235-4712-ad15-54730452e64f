@@ -1,0 +1,12 @@
+{
+  "start":73728,
+  "end":73760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like, \"You have a family.\"",
+  "id":"cc012f76-a235-4712-ad15-54730452e64f",
+  "params":{
+    "id":"c26c9cde-b6c8-44b5-8818-6fe7a0ac13fd"
+  },
+  "name":"Axel"
+}

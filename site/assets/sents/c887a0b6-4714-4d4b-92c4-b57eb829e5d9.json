@@ -1,0 +1,13 @@
+{
+  "start":40323,
+  "end":40357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tuna you know, the\n   fish, right?",
+  "id":"c887a0b6-4714-4d4b-92c4-b57eb829e5d9",
+  "params":{
+    "id":"c887a0b6-4714-4d4b-92c4-b57eb829e5d9",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

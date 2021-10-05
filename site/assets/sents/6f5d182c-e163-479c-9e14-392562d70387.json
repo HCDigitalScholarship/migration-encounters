@@ -1,0 +1,13 @@
+{
+  "start":102772,
+  "end":102852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Every big city has\n     black water so get out of here when you say it's Mexico.",
+  "id":"6f5d182c-e163-479c-9e14-392562d70387",
+  "params":{
+    "id":"6f5d182c-e163-479c-9e14-392562d70387",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

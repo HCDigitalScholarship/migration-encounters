@@ -1,0 +1,12 @@
+{
+  "start":602,
+  "end":653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So Joseph, when did\n   you go to the United States?",
+  "id":"3812ac3c-9812-44f9-9da5-9576cc0d16fc",
+  "params":{
+    "id":"2c709437-cb6c-4f06-be84-86e2894003fa"
+  },
+  "name":"Joseph"
+}

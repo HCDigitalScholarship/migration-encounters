@@ -1,0 +1,13 @@
+{
+  "start":3150,
+  "end":3175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was your house like?",
+  "id":"35c36ea9-4b79-4918-a177-6a6b118e8b73",
+  "params":{
+    "id":"35c36ea9-4b79-4918-a177-6a6b118e8b73",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14000,
+  "end":14033,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a huge collection of books.",
+  "id":"b513c5ed-125a-4af3-b7cf-01f45dcac652",
+  "params":{
+    "id":"a44a6298-1cdc-4d20-bce2-06cff4235c44"
+  },
+  "name":"Luisa"
+}

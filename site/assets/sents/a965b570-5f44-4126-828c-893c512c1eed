@@ -1,0 +1,12 @@
+{
+  "start":8266,
+  "end":8289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So just\n   three stars.",
+  "id":"a965b570-5f44-4126-828c-893c512c1eed",
+  "params":{
+    "id":"3e37345d-8b0c-42b9-9ce0-145509595569"
+  },
+  "name":"Ivan"
+}

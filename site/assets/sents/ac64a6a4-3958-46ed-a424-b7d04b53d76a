@@ -1,0 +1,12 @@
+{
+  "start":18329,
+  "end":18347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think?",
+  "id":"ac64a6a4-3958-46ed-a424-b7d04b53d76a",
+  "params":{
+    "id":"54d34feb-bd92-4f78-98d0-7a2615e5bb32"
+  },
+  "name":"Edgar"
+}

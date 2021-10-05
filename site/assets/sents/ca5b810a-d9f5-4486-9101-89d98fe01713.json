@@ -1,0 +1,12 @@
+{
+  "start":8125,
+  "end":8137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were 15?",
+  "id":"ca5b810a-d9f5-4486-9101-89d98fe01713",
+  "params":{
+    "id":"3b38aba7-b74e-40fc-95a5-c15edb077aef"
+  },
+  "name":"Carlos"
+}

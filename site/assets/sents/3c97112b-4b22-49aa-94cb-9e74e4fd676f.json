@@ -1,0 +1,13 @@
+{
+  "start":42416,
+  "end":42511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's helped me stand up to my\n   father because I was not able to have a conversation with him.",
+  "id":"3c97112b-4b22-49aa-94cb-9e74e4fd676f",
+  "params":{
+    "id":"3c97112b-4b22-49aa-94cb-9e74e4fd676f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

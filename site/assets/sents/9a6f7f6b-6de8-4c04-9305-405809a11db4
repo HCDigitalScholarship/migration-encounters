@@ -1,0 +1,12 @@
+{
+  "start":1554,
+  "end":1576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember much.",
+  "id":"9a6f7f6b-6de8-4c04-9305-405809a11db4",
+  "params":{
+    "id":"65e7c06b-fddf-4448-aa0b-2f6cd94c108c"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23900,
+  "end":23936,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They went to very good universities.",
+  "id":"8d4ebbe3-aca6-4eec-bb30-b752769d37f9",
+  "params":{
+    "id":"c7ac36c2-3539-43e9-8e98-92726a62068c"
+  },
+  "name":"Miguel A"
+}

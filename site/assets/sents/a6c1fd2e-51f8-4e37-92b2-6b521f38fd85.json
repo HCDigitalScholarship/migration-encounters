@@ -1,0 +1,13 @@
+{
+  "start":16475,
+  "end":16487,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do, a lot.",
+  "id":"a6c1fd2e-51f8-4e37-92b2-6b521f38fd85",
+  "params":{
+    "id":"a6c1fd2e-51f8-4e37-92b2-6b521f38fd85",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

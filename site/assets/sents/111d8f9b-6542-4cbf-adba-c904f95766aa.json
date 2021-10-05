@@ -1,0 +1,13 @@
+{
+  "start":5164,
+  "end":5205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The city I used to live,\n   it was clean.",
+  "id":"111d8f9b-6542-4cbf-adba-c904f95766aa",
+  "params":{
+    "id":"111d8f9b-6542-4cbf-adba-c904f95766aa",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

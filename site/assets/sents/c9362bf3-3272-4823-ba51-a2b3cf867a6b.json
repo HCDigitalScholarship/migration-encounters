@@ -1,0 +1,13 @@
+{
+  "start":41102,
+  "end":41200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Doing my taxes, getting my taxes back, just doing\n   everything that normal US citizens got to do.",
+  "id":"c9362bf3-3272-4823-ba51-a2b3cf867a6b",
+  "params":{
+    "id":"c9362bf3-3272-4823-ba51-a2b3cf867a6b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

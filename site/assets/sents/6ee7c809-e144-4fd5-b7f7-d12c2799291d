@@ -1,0 +1,12 @@
+{
+  "start":25215,
+  "end":25234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was really tall.",
+  "id":"6ee7c809-e144-4fd5-b7f7-d12c2799291d",
+  "params":{
+    "id":"34ef7174-cec9-43ed-bacb-9510325c23a1"
+  },
+  "name":"Yair"
+}

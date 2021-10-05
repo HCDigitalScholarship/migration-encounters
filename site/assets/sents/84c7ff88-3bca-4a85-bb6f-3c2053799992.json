@@ -1,0 +1,13 @@
+{
+  "start":7092,
+  "end":7182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then my wife came across the\n   border with my father and they didn't have any issues.",
+  "id":"84c7ff88-3bca-4a85-bb6f-3c2053799992",
+  "params":{
+    "id":"84c7ff88-3bca-4a85-bb6f-3c2053799992",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

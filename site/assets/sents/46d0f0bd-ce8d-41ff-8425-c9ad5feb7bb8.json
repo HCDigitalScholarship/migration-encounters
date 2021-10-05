@@ -1,0 +1,13 @@
+{
+  "start":59979,
+  "end":60019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We've been cultured for years and years.",
+  "id":"46d0f0bd-ce8d-41ff-8425-c9ad5feb7bb8",
+  "params":{
+    "id":"46d0f0bd-ce8d-41ff-8425-c9ad5feb7bb8",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

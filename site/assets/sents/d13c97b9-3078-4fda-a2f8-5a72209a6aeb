@@ -1,0 +1,12 @@
+{
+  "start":24050,
+  "end":24145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're next to a whole bunch of\n   people you never met, and they're also in the same position.",
+  "id":"d13c97b9-3078-4fda-a2f8-5a72209a6aeb",
+  "params":{
+    "id":"28ec7925-914f-4025-b8ee-32a5ee1b8c1f"
+  },
+  "name":"Rodolfo"
+}

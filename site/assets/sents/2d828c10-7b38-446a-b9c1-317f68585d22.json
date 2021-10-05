@@ -1,0 +1,13 @@
+{
+  "start":35203,
+  "end":35268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For that\n   reason, she's supposed to be enrolled in third grade.",
+  "id":"2d828c10-7b38-446a-b9c1-317f68585d22",
+  "params":{
+    "id":"2d828c10-7b38-446a-b9c1-317f68585d22",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

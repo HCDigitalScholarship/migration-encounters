@@ -1,0 +1,13 @@
+{
+  "start":994,
+  "end":1089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n mom told me that she carried me in her arms whenever she crossed me over,\n and so it was...",
+  "id":"7e3017b8-0ab0-4f93-948d-faebdcbb287c",
+  "params":{
+    "id":"7e3017b8-0ab0-4f93-948d-faebdcbb287c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

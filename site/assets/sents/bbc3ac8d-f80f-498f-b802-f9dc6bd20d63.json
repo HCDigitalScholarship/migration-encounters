@@ -1,0 +1,13 @@
+{
+  "start":8548,
+  "end":8597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well not really to be careful, nothing like that.",
+  "id":"bbc3ac8d-f80f-498f-b802-f9dc6bd20d63",
+  "params":{
+    "id":"bbc3ac8d-f80f-498f-b802-f9dc6bd20d63",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

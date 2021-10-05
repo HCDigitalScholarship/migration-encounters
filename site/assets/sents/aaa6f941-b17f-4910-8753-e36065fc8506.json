@@ -1,0 +1,13 @@
+{
+  "start":5481,
+  "end":5503,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to be at school.",
+  "id":"aaa6f941-b17f-4910-8753-e36065fc8506",
+  "params":{
+    "id":"aaa6f941-b17f-4910-8753-e36065fc8506",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

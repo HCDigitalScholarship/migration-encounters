@@ -1,0 +1,13 @@
+{
+  "start":5288,
+  "end":5308,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I liked going a lot.",
+  "id":"7340a7b6-3be6-47ed-b72a-d21c669df872",
+  "params":{
+    "id":"7340a7b6-3be6-47ed-b72a-d21c669df872",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19332,
+  "end":19364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me a little bit about that.",
+  "id":"bf47dec0-615c-4136-8164-05ec0585885e",
+  "params":{
+    "id":"b98bc258-7d82-47d0-b0fc-991c70ba1a94"
+  },
+  "name":"Olimpya"
+}

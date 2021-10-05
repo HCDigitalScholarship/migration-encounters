@@ -1,0 +1,13 @@
+{
+  "start":65635,
+  "end":65771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was therapy every single day, one hour of therapy every day and\n we had at least a one hour session, a personal session twice a week.",
+  "id":"59f880b9-5382-49c9-ae79-c30db4d2a82f",
+  "params":{
+    "id":"59f880b9-5382-49c9-ae79-c30db4d2a82f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

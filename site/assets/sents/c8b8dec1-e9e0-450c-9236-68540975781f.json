@@ -1,0 +1,13 @@
+{
+  "start":6672,
+  "end":6790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I think they were already splitting, and\n   you know, whenever she said, \u201cI'm going back with my little sister.\u201d",
+  "id":"c8b8dec1-e9e0-450c-9236-68540975781f",
+  "params":{
+    "id":"c8b8dec1-e9e0-450c-9236-68540975781f",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

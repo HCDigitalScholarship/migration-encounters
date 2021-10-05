@@ -1,0 +1,13 @@
+{
+  "start":30631,
+  "end":30681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They would always catch us for\n   skipping school.",
+  "id":"d6d07491-f9a6-41aa-88dc-760f42e89d45",
+  "params":{
+    "id":"d6d07491-f9a6-41aa-88dc-760f42e89d45",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

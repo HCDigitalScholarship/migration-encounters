@@ -1,0 +1,13 @@
+{
+  "start":9781,
+  "end":9848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We just\n   knew it was in between cops and African American people.",
+  "id":"fbc3e747-ec73-4123-91eb-03a2a7486794",
+  "params":{
+    "id":"fbc3e747-ec73-4123-91eb-03a2a7486794",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

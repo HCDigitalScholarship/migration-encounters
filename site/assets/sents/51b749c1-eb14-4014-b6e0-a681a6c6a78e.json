@@ -1,0 +1,13 @@
+{
+  "start":30414,
+  "end":30435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, about the papers.",
+  "id":"51b749c1-eb14-4014-b6e0-a681a6c6a78e",
+  "params":{
+    "id":"51b749c1-eb14-4014-b6e0-a681a6c6a78e",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

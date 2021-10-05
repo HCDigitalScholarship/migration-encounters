@@ -1,0 +1,13 @@
+{
+  "start":12509,
+  "end":12637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The clothes you get is the one that you have, and\n   unless your family brings you food, sometimes you don't get food over here.",
+  "id":"f3e4f4cd-bcd2-466c-b4ac-d617dfe10aa3",
+  "params":{
+    "id":"f3e4f4cd-bcd2-466c-b4ac-d617dfe10aa3",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

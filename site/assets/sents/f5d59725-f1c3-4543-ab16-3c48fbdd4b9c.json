@@ -1,0 +1,13 @@
+{
+  "start":31029,
+  "end":31090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's different out here, but\n   it's a little bit harder.",
+  "id":"f5d59725-f1c3-4543-ab16-3c48fbdd4b9c",
+  "params":{
+    "id":"f5d59725-f1c3-4543-ab16-3c48fbdd4b9c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

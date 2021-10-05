@@ -1,0 +1,13 @@
+{
+  "start":10404,
+  "end":10437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He wants to eat tacos de canasta.",
+  "id":"adc5bbea-a9ba-44f1-ac5f-a624b374bdd8",
+  "params":{
+    "id":"adc5bbea-a9ba-44f1-ac5f-a624b374bdd8",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

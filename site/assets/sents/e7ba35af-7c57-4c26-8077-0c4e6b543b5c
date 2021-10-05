@@ -1,0 +1,12 @@
+{
+  "start":10773,
+  "end":10825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things got difficult for you guys after that, right?",
+  "id":"e7ba35af-7c57-4c26-8077-0c4e6b543b5c",
+  "params":{
+    "id":"9c6d47aa-2ca8-46ea-a9d9-755f667157e1"
+  },
+  "name":"Ruben"
+}

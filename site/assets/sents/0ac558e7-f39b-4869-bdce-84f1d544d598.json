@@ -1,0 +1,13 @@
+{
+  "start":630,
+  "end":653,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's where I grew up.",
+  "id":"0ac558e7-f39b-4869-bdce-84f1d544d598",
+  "params":{
+    "id":"0ac558e7-f39b-4869-bdce-84f1d544d598",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

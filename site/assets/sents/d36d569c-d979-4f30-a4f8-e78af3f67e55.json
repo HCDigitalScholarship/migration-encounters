@@ -1,0 +1,13 @@
+{
+  "start":2551,
+  "end":2576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you like to buy?",
+  "id":"d36d569c-d979-4f30-a4f8-e78af3f67e55",
+  "params":{
+    "id":"d36d569c-d979-4f30-a4f8-e78af3f67e55",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":250,
+  "end":256,
+  "text":"e.\n \n \n   Sergio: What is your age?\n \n \n   Josue: I'm 31.\n \n \n   Sergio: What is your country of birth?\n \n \n   Josue: Mexico.\n \n \n   Sergio: What is your city of birth?\n \n \n   Josue: Veracruz.\n \n \n   Sergio: Veracruz. Did you go to school in your birth country before you\n   left?\n \n \n   Josue: I did, yeah. Up until secundaria.\n \n \n   Sergio: That'd be like ninth grade, 10th grade?\n \n \n   Josue: Like eig",
+  "label":"PERSON",
+  "id":"2c1e9f9e-c547-40f1-9481-3ad79e0f2f44",
+  "name":"Josue"
+}

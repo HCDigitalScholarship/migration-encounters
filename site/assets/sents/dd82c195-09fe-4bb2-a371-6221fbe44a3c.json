@@ -1,0 +1,13 @@
+{
+  "start":11071,
+  "end":11158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know O___ is\n   getting married soon, so yes.\n \n \n   Anita: Were you bullied?\n \n \n   ",
+  "id":"dd82c195-09fe-4bb2-a371-6221fbe44a3c",
+  "params":{
+    "id":"dd82c195-09fe-4bb2-a371-6221fbe44a3c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6686,
+  "end":6727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n And then he said I was better than him.",
+  "id":"a94fe2e4-5552-4ce8-a84d-7717cb83c599",
+  "params":{
+    "id":"814e4f04-e5e4-4aa6-9fc3-9634d0df5aba"
+  },
+  "name":"Billy"
+}

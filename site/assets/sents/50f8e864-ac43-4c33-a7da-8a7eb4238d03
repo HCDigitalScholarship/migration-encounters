@@ -1,0 +1,12 @@
+{
+  "start":7700,
+  "end":7715,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you see him?",
+  "id":"50f8e864-ac43-4c33-a7da-8a7eb4238d03",
+  "params":{
+    "id":"6178488d-64d3-484a-91b2-6fbf3107ef96"
+  },
+  "name":"Joana"
+}

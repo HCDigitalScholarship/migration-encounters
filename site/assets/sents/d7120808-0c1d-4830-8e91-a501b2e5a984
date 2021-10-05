@@ -1,0 +1,12 @@
+{
+  "start":5752,
+  "end":5835,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, in your last job that you had in the US, how much were you\n   earning per hour?",
+  "id":"d7120808-0c1d-4830-8e91-a501b2e5a984",
+  "params":{
+    "id":"2d676512-abef-452c-838c-e6ff461dd24b"
+  },
+  "name":"Josue"
+}

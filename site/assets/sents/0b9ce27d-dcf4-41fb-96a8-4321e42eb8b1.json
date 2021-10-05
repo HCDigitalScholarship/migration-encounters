@@ -1,0 +1,13 @@
+{
+  "start":28330,
+  "end":28351,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like,\n   \"Okay, bet.\"",
+  "id":"0b9ce27d-dcf4-41fb-96a8-4321e42eb8b1",
+  "params":{
+    "id":"0b9ce27d-dcf4-41fb-96a8-4321e42eb8b1",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

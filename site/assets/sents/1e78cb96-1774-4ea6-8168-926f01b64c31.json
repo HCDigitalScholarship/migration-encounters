@@ -1,0 +1,13 @@
+{
+  "start":24748,
+  "end":24787,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How far have you gotten in high school?",
+  "id":"1e78cb96-1774-4ea6-8168-926f01b64c31",
+  "params":{
+    "id":"1e78cb96-1774-4ea6-8168-926f01b64c31",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

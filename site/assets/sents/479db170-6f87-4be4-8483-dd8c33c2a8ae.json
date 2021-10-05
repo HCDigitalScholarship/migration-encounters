@@ -1,0 +1,13 @@
+{
+  "start":11826,
+  "end":11835,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They did.",
+  "id":"479db170-6f87-4be4-8483-dd8c33c2a8ae",
+  "params":{
+    "id":"479db170-6f87-4be4-8483-dd8c33c2a8ae",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6993,
+  "end":7040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   started going to school at the age of six.",
+  "id":"0ccca0f1-de4d-40ea-a53d-4cf7288f8e02",
+  "params":{
+    "id":"0ccca0f1-de4d-40ea-a53d-4cf7288f8e02",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

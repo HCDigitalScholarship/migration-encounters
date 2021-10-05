@@ -1,0 +1,13 @@
+{
+  "start":24912,
+  "end":24977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened to your\n   buddy that you came back to Mexico with?",
+  "id":"a1a3072d-6bd1-4999-8b28-769a7eec9bf8",
+  "params":{
+    "id":"a1a3072d-6bd1-4999-8b28-769a7eec9bf8",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

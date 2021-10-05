@@ -1,0 +1,12 @@
+{
+  "start":6473,
+  "end":6500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't save food either.",
+  "id":"66aa8ead-bab8-4fb1-85e6-e24fa9cb6da8",
+  "params":{
+    "id":"dbb31bf7-603f-49a3-ad30-555fa4889783"
+  },
+  "name":"Noe"
+}

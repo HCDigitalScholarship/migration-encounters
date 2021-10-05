@@ -1,0 +1,12 @@
+{
+  "start":16,
+  "end":103,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I am Anne and I wanted just to start by thanking you for\n   coming to speak with us.",
+  "id":"fc218a2a-9f68-46a5-9717-9eb9dfb7b629",
+  "params":{
+    "id":"eb9dbe43-9198-4297-b153-4262e300103f"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,15 @@
+{
+  "start":9939,
+  "end":10021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it's patriotic in a good way to help your\n   country and using your talents.",
+  "id":"ee39e14e-7c57-4a78-a1dd-9bbe3e7cbcbb",
+  "params":{
+    "id":"ee39e14e-7c57-4a78-a1dd-9bbe3e7cbcbb",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

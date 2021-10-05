@@ -1,0 +1,13 @@
+{
+  "start":16878,
+  "end":16931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They put me into the outfit, it was an orange outfit.",
+  "id":"f1c63298-0096-4b00-bcd3-0466fa025ea3",
+  "params":{
+    "id":"f1c63298-0096-4b00-bcd3-0466fa025ea3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9794,
+  "end":9832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We are from the\n   Mexican government.",
+  "id":"46ad41c4-53cd-49fe-9c57-6bad34a2c369",
+  "params":{
+    "id":"6a19d5ad-07df-4cce-8865-26325822671f"
+  },
+  "name":"Noe"
+}

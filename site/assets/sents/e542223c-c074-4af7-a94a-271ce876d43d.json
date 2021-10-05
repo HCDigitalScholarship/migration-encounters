@@ -1,0 +1,13 @@
+{
+  "start":6844,
+  "end":6855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ah, cierto.",
+  "id":"e542223c-c074-4af7-a94a-271ce876d43d",
+  "params":{
+    "id":"e542223c-c074-4af7-a94a-271ce876d43d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

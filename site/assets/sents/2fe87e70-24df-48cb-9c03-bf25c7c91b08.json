@@ -1,0 +1,13 @@
+{
+  "start":26962,
+  "end":27013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the end of the day, I'm a\n   gonna to come back.",
+  "id":"2fe87e70-24df-48cb-9c03-bf25c7c91b08",
+  "params":{
+    "id":"2fe87e70-24df-48cb-9c03-bf25c7c91b08",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

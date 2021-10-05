@@ -1,0 +1,12 @@
+{
+  "start":32563,
+  "end":32603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you do hotdogs and stuff on July 4th?",
+  "id":"8898bba0-839f-452e-bc9c-8a71c665454f",
+  "params":{
+    "id":"264d2623-3964-45eb-9bca-270d9fb50a9e"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40480,
+  "end":40528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I had a job, then yeah, I could go to my job.",
+  "id":"84faa00d-e451-4724-8495-f3af4107c6f3",
+  "params":{
+    "id":"18402f9e-4ffd-4867-9a85-67cbf18ca596"
+  },
+  "name":"Axel"
+}

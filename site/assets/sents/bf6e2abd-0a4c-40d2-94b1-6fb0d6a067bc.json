@@ -1,0 +1,13 @@
+{
+  "start":67691,
+  "end":67708,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know it's true.",
+  "id":"bf6e2abd-0a4c-40d2-94b1-6fb0d6a067bc",
+  "params":{
+    "id":"bf6e2abd-0a4c-40d2-94b1-6fb0d6a067bc",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

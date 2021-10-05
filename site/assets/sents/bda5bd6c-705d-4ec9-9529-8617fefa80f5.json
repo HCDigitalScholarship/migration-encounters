@@ -1,0 +1,13 @@
+{
+  "start":19963,
+  "end":20007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I even got my\n   taxes one year [Emotional].",
+  "id":"bda5bd6c-705d-4ec9-9529-8617fefa80f5",
+  "params":{
+    "id":"bda5bd6c-705d-4ec9-9529-8617fefa80f5",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

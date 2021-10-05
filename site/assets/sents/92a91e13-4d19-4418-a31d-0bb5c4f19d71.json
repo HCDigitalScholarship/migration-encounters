@@ -1,0 +1,13 @@
+{
+  "start":7654,
+  "end":7686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So we didn't really communicate.",
+  "id":"92a91e13-4d19-4418-a31d-0bb5c4f19d71",
+  "params":{
+    "id":"92a91e13-4d19-4418-a31d-0bb5c4f19d71",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28189,
+  "end":28221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He is dangerous to the\n   road.\"",
+  "id":"f906d15c-0309-4d5e-b9b1-d975d961b231",
+  "params":{
+    "id":"f906d15c-0309-4d5e-b9b1-d975d961b231",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

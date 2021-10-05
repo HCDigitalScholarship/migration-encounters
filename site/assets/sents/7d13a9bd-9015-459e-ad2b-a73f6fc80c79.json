@@ -1,0 +1,13 @@
+{
+  "start":37244,
+  "end":37287,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My daughters are going to be without a dad.",
+  "id":"7d13a9bd-9015-459e-ad2b-a73f6fc80c79",
+  "params":{
+    "id":"7d13a9bd-9015-459e-ad2b-a73f6fc80c79",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

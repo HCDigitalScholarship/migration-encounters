@@ -1,0 +1,13 @@
+{
+  "start":24361,
+  "end":24403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were your dreams when you were there?",
+  "id":"e0d65bcc-8f43-403e-ac81-cf281d1cddcf",
+  "params":{
+    "id":"e0d65bcc-8f43-403e-ac81-cf281d1cddcf",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17208,
+  "end":17305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in there with those people,\n   so I guess they put me in the same category as those people.",
+  "id":"70d0a750-51a9-460a-8078-282779bcacce",
+  "params":{
+    "id":"70d0a750-51a9-460a-8078-282779bcacce",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

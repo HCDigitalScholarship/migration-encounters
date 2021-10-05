@@ -1,0 +1,13 @@
+{
+  "start":36321,
+  "end":36392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's been\n   better since I started working at ________ here in Mexico.",
+  "id":"8113da6a-7fab-489d-8178-099d9b013453",
+  "params":{
+    "id":"8113da6a-7fab-489d-8178-099d9b013453",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

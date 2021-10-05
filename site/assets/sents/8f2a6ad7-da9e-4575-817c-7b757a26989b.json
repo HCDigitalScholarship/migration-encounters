@@ -1,0 +1,13 @@
+{
+  "start":4292,
+  "end":4361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, the\n   doctors didn't know what was wrong with me, so I missed...",
+  "id":"8f2a6ad7-da9e-4575-817c-7b757a26989b",
+  "params":{
+    "id":"8f2a6ad7-da9e-4575-817c-7b757a26989b",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

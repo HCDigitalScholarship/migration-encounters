@@ -1,0 +1,12 @@
+{
+  "start":68533,
+  "end":68553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love\n   his music.",
+  "id":"9cf42118-3483-4bda-a745-523c0405947d",
+  "params":{
+    "id":"b767c4b5-d652-44d3-8693-56c68818a59d"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29791,
+  "end":29812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Who did you root for?",
+  "id":"fd4e9813-fe6e-444e-9ac1-ebe4d2df7cc0",
+  "params":{
+    "id":"fd4e9813-fe6e-444e-9ac1-ebe4d2df7cc0",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

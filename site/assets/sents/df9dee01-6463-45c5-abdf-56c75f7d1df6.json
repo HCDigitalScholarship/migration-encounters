@@ -1,0 +1,13 @@
+{
+  "start":21093,
+  "end":21130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If not, we're going to step you out.\"",
+  "id":"df9dee01-6463-45c5-abdf-56c75f7d1df6",
+  "params":{
+    "id":"df9dee01-6463-45c5-abdf-56c75f7d1df6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

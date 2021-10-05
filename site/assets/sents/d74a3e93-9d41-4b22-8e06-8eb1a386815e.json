@@ -1,0 +1,13 @@
+{
+  "start":46400,
+  "end":46491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, after I got done with the\n     interview and I was like, \"Have a proven myself, right?\"",
+  "id":"d74a3e93-9d41-4b22-8e06-8eb1a386815e",
+  "params":{
+    "id":"d74a3e93-9d41-4b22-8e06-8eb1a386815e",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

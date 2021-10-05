@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":28115,
+  "end":28117,
+  "text":", so many.\n \n \n   Anita: Have you been depressed?\n \n \n   Melani: Recently, yes.\n \n \n   Anita: Any substance abuse or addiction?\n \n \n   Melani: No.\n \n \n   Anita: So you still have family living in the US, your parents. Anybody\n   else?\n \n \n   Melani: No, I consider them my only family.\n \n \n   Anita: Are they US citizens?\n \n \n   Melani: No.\n \n \n   Anita: Have they come to visit you?\n \n \n   Melani: No.",
+  "label":"GPE",
+  "id":"5725e365-e404-4d30-907e-17808a0021f2",
+  "name":"Melani"
+}

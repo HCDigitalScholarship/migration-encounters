@@ -1,0 +1,13 @@
+{
+  "start":20594,
+  "end":20617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you apply for DACA?",
+  "id":"fd55a7dd-98f9-450b-8870-d7da38c61673",
+  "params":{
+    "id":"fd55a7dd-98f9-450b-8870-d7da38c61673",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

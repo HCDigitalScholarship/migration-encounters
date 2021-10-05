@@ -1,0 +1,13 @@
+{
+  "start":10420,
+  "end":10443,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were in dorm living.",
+  "id":"d2cbabd4-42e3-44a9-a387-b5d504c3a4b8",
+  "params":{
+    "id":"d2cbabd4-42e3-44a9-a387-b5d504c3a4b8",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

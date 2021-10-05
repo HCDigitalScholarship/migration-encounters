@@ -1,0 +1,13 @@
+{
+  "start":8003,
+  "end":8058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was normal because everybody was doing it.",
+  "id":"f691e325-f12a-45cc-8588-0ff7597d3e6f",
+  "params":{
+    "id":"f691e325-f12a-45cc-8588-0ff7597d3e6f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

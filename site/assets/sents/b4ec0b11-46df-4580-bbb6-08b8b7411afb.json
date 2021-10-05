@@ -1,0 +1,13 @@
+{
+  "start":14541,
+  "end":14567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Roberto: Yeah, yeah, yeah.",
+  "id":"b4ec0b11-46df-4580-bbb6-08b8b7411afb",
+  "params":{
+    "id":"b4ec0b11-46df-4580-bbb6-08b8b7411afb",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

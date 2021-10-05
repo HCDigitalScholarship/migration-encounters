@@ -1,0 +1,12 @@
+{
+  "start":20232,
+  "end":20294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was dumb of me to do this, but I mean I\n   learned from it.",
+  "id":"d335e852-becd-48a1-9a2b-f67b5f850552",
+  "params":{
+    "id":"c743e2ea-3bf8-4590-acdd-362091c8c8d3"
+  },
+  "name":"Cris"
+}

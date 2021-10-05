@@ -1,0 +1,12 @@
+{
+  "start":4373,
+  "end":4466,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Juan, how old were you when you left for the United States and how\n   old when you came back?",
+  "id":"667c955f-20ad-4a24-abd1-ff2b4daab2b2",
+  "params":{
+    "id":"4c163166-638b-4f74-bca9-33299476c441"
+  },
+  "name":"Juan A"
+}

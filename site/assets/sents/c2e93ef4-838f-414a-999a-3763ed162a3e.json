@@ -1,0 +1,15 @@
+{
+  "start":1068,
+  "end":1088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"so I make my effort.",
+  "id":"c2e93ef4-838f-414a-999a-3763ed162a3e",
+  "params":{
+    "id":"c2e93ef4-838f-414a-999a-3763ed162a3e",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

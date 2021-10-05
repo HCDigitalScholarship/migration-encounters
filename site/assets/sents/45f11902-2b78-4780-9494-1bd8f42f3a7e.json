@@ -1,0 +1,13 @@
+{
+  "start":24255,
+  "end":24270,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hit her back.",
+  "id":"45f11902-2b78-4780-9494-1bd8f42f3a7e",
+  "params":{
+    "id":"45f11902-2b78-4780-9494-1bd8f42f3a7e",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

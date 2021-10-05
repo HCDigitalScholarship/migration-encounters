@@ -1,0 +1,12 @@
+{
+  "start":34335,
+  "end":34370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Imagine you play three hours, $300.",
+  "id":"4084e8eb-50b4-4a9d-8105-767b5ecd372b",
+  "params":{
+    "id":"de4cf17c-99ce-4695-a8c6-9502ecd73bc6"
+  },
+  "name":"Billy"
+}

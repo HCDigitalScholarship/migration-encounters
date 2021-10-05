@@ -1,0 +1,13 @@
+{
+  "start":5220,
+  "end":5264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, \"Hey, how are\nyou doing? What's up?\"",
+  "id":"08b30402-56cc-4b42-a73b-a644f169360a",
+  "params":{
+    "id":"08b30402-56cc-4b42-a73b-a644f169360a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

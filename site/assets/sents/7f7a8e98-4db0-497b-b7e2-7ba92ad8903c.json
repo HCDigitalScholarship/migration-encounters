@@ -1,0 +1,13 @@
+{
+  "start":13337,
+  "end":13390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes you'd go to school, sometimes you wouldn't.",
+  "id":"7f7a8e98-4db0-497b-b7e2-7ba92ad8903c",
+  "params":{
+    "id":"7f7a8e98-4db0-497b-b7e2-7ba92ad8903c",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

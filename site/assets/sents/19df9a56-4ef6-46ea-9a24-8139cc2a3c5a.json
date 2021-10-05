@@ -1,0 +1,13 @@
+{
+  "start":42109,
+  "end":42151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"No, don't worry about that.",
+  "id":"19df9a56-4ef6-46ea-9a24-8139cc2a3c5a",
+  "params":{
+    "id":"19df9a56-4ef6-46ea-9a24-8139cc2a3c5a",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

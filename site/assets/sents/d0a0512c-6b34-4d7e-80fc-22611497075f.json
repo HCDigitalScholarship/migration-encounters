@@ -1,0 +1,13 @@
+{
+  "start":26290,
+  "end":26359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For me, Thanksgiving is like something that I\n   had to do on my own.",
+  "id":"d0a0512c-6b34-4d7e-80fc-22611497075f",
+  "params":{
+    "id":"d0a0512c-6b34-4d7e-80fc-22611497075f",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

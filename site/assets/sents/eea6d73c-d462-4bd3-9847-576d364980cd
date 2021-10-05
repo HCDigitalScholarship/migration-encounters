@@ -1,0 +1,12 @@
+{
+  "start":29512,
+  "end":29533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He will go, \"Mexico.\"",
+  "id":"eea6d73c-d462-4bd3-9847-576d364980cd",
+  "params":{
+    "id":"0d081369-8430-41b1-b1d7-d08bfd89d684"
+  },
+  "name":"Rodrigo"
+}

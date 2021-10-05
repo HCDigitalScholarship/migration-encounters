@@ -1,0 +1,12 @@
+{
+  "start":38976,
+  "end":39005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why\n     you're going.",
+  "id":"67fdd8c6-5327-41ca-bda3-ae6b93f27e2b",
+  "params":{
+    "id":"f8bf20bd-ca62-4f41-ae82-f84ab52da425"
+  },
+  "name":"Beto"
+}

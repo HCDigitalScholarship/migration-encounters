@@ -1,0 +1,13 @@
+{
+  "start":16498,
+  "end":16524,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was there for six hours.",
+  "id":"24bc74e9-fc08-4b0c-9cdf-836fa0010b54",
+  "params":{
+    "id":"24bc74e9-fc08-4b0c-9cdf-836fa0010b54",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

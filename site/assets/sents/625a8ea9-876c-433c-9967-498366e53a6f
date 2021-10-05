@@ -1,0 +1,12 @@
+{
+  "start":30723,
+  "end":30748,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I'm planning.",
+  "id":"625a8ea9-876c-433c-9967-498366e53a6f",
+  "params":{
+    "id":"6dd54fe6-e1d5-402d-b44e-36ba22824af3"
+  },
+  "name":"Yair"
+}

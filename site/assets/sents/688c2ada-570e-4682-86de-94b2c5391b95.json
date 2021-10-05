@@ -1,0 +1,13 @@
+{
+  "start":5443,
+  "end":5501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I want,\n   not because they're forcing me too.",
+  "id":"688c2ada-570e-4682-86de-94b2c5391b95",
+  "params":{
+    "id":"688c2ada-570e-4682-86de-94b2c5391b95",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

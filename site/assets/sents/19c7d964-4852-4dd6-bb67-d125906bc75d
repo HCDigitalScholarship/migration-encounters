@@ -1,0 +1,12 @@
+{
+  "start":35000,
+  "end":35088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think in Mexico City\n   you've got to be practical, this isn't like the United States.",
+  "id":"19c7d964-4852-4dd6-bb67-d125906bc75d",
+  "params":{
+    "id":"a9b2a97f-be7f-4afe-92bc-16e69b44e9ac"
+  },
+  "name":"Julio Cesar"
+}

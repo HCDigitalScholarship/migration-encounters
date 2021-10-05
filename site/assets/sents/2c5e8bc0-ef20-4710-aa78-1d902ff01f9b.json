@@ -1,0 +1,13 @@
+{
+  "start":30027,
+  "end":30135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that incident, I worked here\n   at CCSI, but I didn't like it because the supervisors didn't have any\u2026",
+  "id":"2c5e8bc0-ef20-4710-aa78-1d902ff01f9b",
+  "params":{
+    "id":"2c5e8bc0-ef20-4710-aa78-1d902ff01f9b",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

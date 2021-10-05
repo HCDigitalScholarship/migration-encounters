@@ -1,0 +1,12 @@
+{
+  "start":30447,
+  "end":30508,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know it, I was just [mumbling 00:46:07] didn't\n     ",
+  "id":"77f6b222-2d37-446c-a952-5db041df965f",
+  "params":{
+    "id":"da2105a0-44df-4e2f-8106-94c46736873d"
+  },
+  "name":"Beto"
+}

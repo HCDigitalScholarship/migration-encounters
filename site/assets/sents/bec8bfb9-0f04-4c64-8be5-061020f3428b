@@ -1,0 +1,12 @@
+{
+  "start":641,
+  "end":691,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I left when I was five-and-a-half years old.",
+  "id":"bec8bfb9-0f04-4c64-8be5-061020f3428b",
+  "params":{
+    "id":"5bea02e1-c5ad-4ed0-8eab-0020cfa2b12f"
+  },
+  "name":"Edgar"
+}

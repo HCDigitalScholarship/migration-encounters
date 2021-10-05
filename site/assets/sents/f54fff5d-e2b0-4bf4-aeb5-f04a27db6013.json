@@ -1,0 +1,13 @@
+{
+  "start":36980,
+  "end":37050,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wouldn't say, I don't\n   make a lot of money, but I'm getting there.",
+  "id":"f54fff5d-e2b0-4bf4-aeb5-f04a27db6013",
+  "params":{
+    "id":"f54fff5d-e2b0-4bf4-aeb5-f04a27db6013",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

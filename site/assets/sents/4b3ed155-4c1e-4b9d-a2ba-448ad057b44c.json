@@ -1,0 +1,13 @@
+{
+  "start":9876,
+  "end":9920,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We tell them we don't have anything and we\n ",
+  "id":"4b3ed155-4c1e-4b9d-a2ba-448ad057b44c",
+  "params":{
+    "id":"4b3ed155-4c1e-4b9d-a2ba-448ad057b44c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

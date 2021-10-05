@@ -1,0 +1,13 @@
+{
+  "start":31014,
+  "end":31058,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most of these streets don't even have names.",
+  "id":"d00a6f00-c417-4d6b-b6ea-63368e8abec7",
+  "params":{
+    "id":"d00a6f00-c417-4d6b-b6ea-63368e8abec7",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

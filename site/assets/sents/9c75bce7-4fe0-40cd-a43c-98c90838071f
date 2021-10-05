@@ -1,0 +1,12 @@
+{
+  "start":7842,
+  "end":7887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was trying to give my kids\n   another life.",
+  "id":"9c75bce7-4fe0-40cd-a43c-98c90838071f",
+  "params":{
+    "id":"fae67a32-7e0a-496b-822c-4b8eac574794"
+  },
+  "name":"Many"
+}

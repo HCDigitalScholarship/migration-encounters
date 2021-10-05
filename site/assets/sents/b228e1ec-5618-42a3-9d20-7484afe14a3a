@@ -1,0 +1,12 @@
+{
+  "start":22422,
+  "end":22512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they scheduled surgery for me to put that metal\n   plate and ten little bit of screws.",
+  "id":"b228e1ec-5618-42a3-9d20-7484afe14a3a",
+  "params":{
+    "id":"bb06fd0b-8b3a-48f2-83f0-92eccef46e5d"
+  },
+  "name":"Many"
+}

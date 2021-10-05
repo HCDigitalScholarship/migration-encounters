@@ -1,0 +1,13 @@
+{
+  "start":4774,
+  "end":4824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"During the process, I knew where we were going to.",
+  "id":"0d1c4495-3915-4765-ac4c-f132c88a0b0f",
+  "params":{
+    "id":"0d1c4495-3915-4765-ac4c-f132c88a0b0f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

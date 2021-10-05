@@ -1,0 +1,13 @@
+{
+  "start":7514,
+  "end":7525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was gone.",
+  "id":"412e3730-1c83-42ab-b15f-7e71b7f8efb1",
+  "params":{
+    "id":"412e3730-1c83-42ab-b15f-7e71b7f8efb1",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

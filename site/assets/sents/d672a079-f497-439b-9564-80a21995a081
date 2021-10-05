@@ -1,0 +1,12 @@
+{
+  "start":5091,
+  "end":5130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were trying to learn the language.",
+  "id":"d672a079-f497-439b-9564-80a21995a081",
+  "params":{
+    "id":"fa048619-c809-4a0a-ad9e-57dd59f84ee1"
+  },
+  "name":"Edgar"
+}

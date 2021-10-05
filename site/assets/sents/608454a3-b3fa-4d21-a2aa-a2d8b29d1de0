@@ -1,0 +1,12 @@
+{
+  "start":752,
+  "end":865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I remember waking up in a bus, because my mom had gone inside the\n   hospital, grabbed me and got on the bus.",
+  "id":"608454a3-b3fa-4d21-a2aa-a2d8b29d1de0",
+  "params":{
+    "id":"e76db4a2-5055-4123-b922-1819475a1183"
+  },
+  "name":"Mike"
+}

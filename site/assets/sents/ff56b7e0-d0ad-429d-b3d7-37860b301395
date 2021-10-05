@@ -1,0 +1,12 @@
+{
+  "start":10524,
+  "end":10551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\u2019s funny, that\u2019s great.",
+  "id":"ff56b7e0-d0ad-429d-b3d7-37860b301395",
+  "params":{
+    "id":"8a5449e3-763e-4855-95ca-0db1ef35c8b6"
+  },
+  "name":"Ivan B"
+}

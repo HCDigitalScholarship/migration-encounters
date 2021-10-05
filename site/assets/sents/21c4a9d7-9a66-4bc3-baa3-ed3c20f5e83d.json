@@ -1,0 +1,13 @@
+{
+  "start":43656,
+  "end":43677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you were detained?",
+  "id":"21c4a9d7-9a66-4bc3-baa3-ed3c20f5e83d",
+  "params":{
+    "id":"21c4a9d7-9a66-4bc3-baa3-ed3c20f5e83d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

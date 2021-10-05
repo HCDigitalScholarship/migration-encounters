@@ -1,0 +1,13 @@
+{
+  "start":5681,
+  "end":5761,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Clean the rooms, clean\n   the bathrooms, making beds and vacuum, and everything.",
+  "id":"720e13ad-42f5-4e74-9d9f-ae8ddaf13200",
+  "params":{
+    "id":"720e13ad-42f5-4e74-9d9f-ae8ddaf13200",
+    "class":"anno"
+  },
+  "name":"Many"
+}

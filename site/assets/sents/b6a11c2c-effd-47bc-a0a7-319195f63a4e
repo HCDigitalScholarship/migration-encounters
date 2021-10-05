@@ -1,0 +1,12 @@
+{
+  "start":12312,
+  "end":12375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's really interesting, because I hadn't thought about that.",
+  "id":"b6a11c2c-effd-47bc-a0a7-319195f63a4e",
+  "params":{
+    "id":"a2ead621-bed3-4206-98fb-12530f44a618"
+  },
+  "name":"Jesus A"
+}

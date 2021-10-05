@@ -1,0 +1,12 @@
+{
+  "start":4350,
+  "end":4374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom had a big family.",
+  "id":"3e42c7c6-00e7-453c-864d-8c1dd7b6ee6e",
+  "params":{
+    "id":"8690ed5a-1ea6-4829-ae01-a17d1cf66d45"
+  },
+  "name":"Rodrigo"
+}

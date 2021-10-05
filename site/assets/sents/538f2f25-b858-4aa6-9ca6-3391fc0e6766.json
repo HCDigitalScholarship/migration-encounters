@@ -1,0 +1,13 @@
+{
+  "start":2028,
+  "end":2047,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, sorry, Georgia.",
+  "id":"538f2f25-b858-4aa6-9ca6-3391fc0e6766",
+  "params":{
+    "id":"538f2f25-b858-4aa6-9ca6-3391fc0e6766",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

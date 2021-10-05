@@ -1,0 +1,13 @@
+{
+  "start":19230,
+  "end":19244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"U.S. citizens.",
+  "id":"f0abff3f-d93c-4f5c-9e1b-fcf6554d2a43",
+  "params":{
+    "id":"f0abff3f-d93c-4f5c-9e1b-fcf6554d2a43",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13555,
+  "end":13670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \"Man, I cannot let you out because you\n   have an INS [Immigration and Naturalization Service] hold.\"",
+  "id":"be8cff54-6488-4576-b34d-6068692f8c1a",
+  "params":{
+    "id":"be8cff54-6488-4576-b34d-6068692f8c1a",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

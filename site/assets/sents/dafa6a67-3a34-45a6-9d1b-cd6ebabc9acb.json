@@ -1,0 +1,13 @@
+{
+  "start":40279,
+  "end":40386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was the second pregnancy, but since that went wrong, the mother\n   of my kids just got like depressed.",
+  "id":"dafa6a67-3a34-45a6-9d1b-cd6ebabc9acb",
+  "params":{
+    "id":"dafa6a67-3a34-45a6-9d1b-cd6ebabc9acb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

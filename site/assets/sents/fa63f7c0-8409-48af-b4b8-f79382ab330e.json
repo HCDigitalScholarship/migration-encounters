@@ -1,0 +1,12 @@
+{
+  "start":36181,
+  "end":36281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People in Mexico are more into jazz than Americans, which is ironic\n because Americans created jazz.",
+  "id":"fa63f7c0-8409-48af-b4b8-f79382ab330e",
+  "params":{
+    "id":"2b3c63f0-3e85-4b34-90c3-888466b68cf6"
+  },
+  "name":"Billy"
+}

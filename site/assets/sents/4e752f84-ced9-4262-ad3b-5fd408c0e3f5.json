@@ -1,0 +1,13 @@
+{
+  "start":18383,
+  "end":18447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were like, \"So, what, are you going to\n   defend them now?\"",
+  "id":"4e752f84-ced9-4262-ad3b-5fd408c0e3f5",
+  "params":{
+    "id":"4e752f84-ced9-4262-ad3b-5fd408c0e3f5",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

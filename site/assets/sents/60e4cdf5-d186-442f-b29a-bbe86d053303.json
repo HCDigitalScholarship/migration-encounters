@@ -1,0 +1,12 @@
+{
+  "start":35872,
+  "end":35894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's also a\n   human.\"",
+  "id":"60e4cdf5-d186-442f-b29a-bbe86d053303",
+  "params":{
+    "id":"d068e399-da49-4b1a-9e8c-9949016208cf"
+  },
+  "name":"Sylent"
+}

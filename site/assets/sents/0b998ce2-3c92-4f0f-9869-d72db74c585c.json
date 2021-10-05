@@ -1,0 +1,13 @@
+{
+  "start":11606,
+  "end":11658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you living with your baby's mother at the time?",
+  "id":"0b998ce2-3c92-4f0f-9869-d72db74c585c",
+  "params":{
+    "id":"0b998ce2-3c92-4f0f-9869-d72db74c585c",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

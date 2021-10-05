@@ -1,0 +1,13 @@
+{
+  "start":13038,
+  "end":13148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, the last time that I saw him, I saw him in his\n   hospital bed, he said, \"It's better for me to stay here.",
+  "id":"479d59e9-8c51-4d01-b3cb-608b7d686feb",
+  "params":{
+    "id":"479d59e9-8c51-4d01-b3cb-608b7d686feb",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

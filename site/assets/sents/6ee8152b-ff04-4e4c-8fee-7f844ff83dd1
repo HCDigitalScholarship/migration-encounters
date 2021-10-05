@@ -1,0 +1,12 @@
+{
+  "start":4149,
+  "end":4209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were about, you said, five or six when you came\n   over?",
+  "id":"6ee8152b-ff04-4e4c-8fee-7f844ff83dd1",
+  "params":{
+    "id":"1b336906-b823-442b-bafd-443ed9945a86"
+  },
+  "name":"Edgar"
+}

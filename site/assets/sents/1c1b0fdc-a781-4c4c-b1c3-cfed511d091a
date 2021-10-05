@@ -1,0 +1,12 @@
+{
+  "start":14082,
+  "end":14111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It sounds like you play Halo.",
+  "id":"1c1b0fdc-a781-4c4c-b1c3-cfed511d091a",
+  "params":{
+    "id":"31b8751c-b269-4566-9b03-f5932007a06f"
+  },
+  "name":"Roberto"
+}

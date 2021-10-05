@@ -1,0 +1,12 @@
+{
+  "start":1575,
+  "end":1676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We actually took a bus all the way over there,\n   and it took us two or three days to get over there.",
+  "id":"d8551ddd-e993-4f40-8fae-e94fd5e6a27f",
+  "params":{
+    "id":"ddcdc285-ce08-4423-920e-5f77d968a9fa"
+  },
+  "name":"Yair"
+}

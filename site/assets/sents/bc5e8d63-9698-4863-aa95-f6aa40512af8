@@ -1,0 +1,12 @@
+{
+  "start":13100,
+  "end":13138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long were you in the holding cell?",
+  "id":"bc5e8d63-9698-4863-aa95-f6aa40512af8",
+  "params":{
+    "id":"d30918dc-c897-40b4-a59a-9101da34dd2d"
+  },
+  "name":"Miguel B"
+}

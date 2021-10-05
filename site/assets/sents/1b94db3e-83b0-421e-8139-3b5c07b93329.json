@@ -1,0 +1,13 @@
+{
+  "start":48879,
+  "end":48928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If there's something bad you're going to\n   know.",
+  "id":"1b94db3e-83b0-421e-8139-3b5c07b93329",
+  "params":{
+    "id":"1b94db3e-83b0-421e-8139-3b5c07b93329",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

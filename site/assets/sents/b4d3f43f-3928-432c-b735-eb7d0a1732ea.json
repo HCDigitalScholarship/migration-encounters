@@ -1,0 +1,13 @@
+{
+  "start":5302,
+  "end":5317,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No credit card.",
+  "id":"b4d3f43f-3928-432c-b735-eb7d0a1732ea",
+  "params":{
+    "id":"b4d3f43f-3928-432c-b735-eb7d0a1732ea",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

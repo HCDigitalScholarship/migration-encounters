@@ -1,0 +1,12 @@
+{
+  "start":20243,
+  "end":20256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For how long?",
+  "id":"03b7ddc7-1858-49bb-b1e3-c07fd8a3f766",
+  "params":{
+    "id":"0d86bdb4-56e0-427c-b618-eabbec18c7a2"
+  },
+  "name":"Joana"
+}

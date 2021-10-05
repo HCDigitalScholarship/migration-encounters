@@ -1,0 +1,13 @@
+{
+  "start":13246,
+  "end":13259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Time is time.",
+  "id":"49b8080d-52e3-4883-b313-4ec0c8d3f08e",
+  "params":{
+    "id":"49b8080d-52e3-4883-b313-4ec0c8d3f08e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

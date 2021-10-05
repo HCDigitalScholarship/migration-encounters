@@ -1,0 +1,13 @@
+{
+  "start":2942,
+  "end":2962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I was detained.",
+  "id":"220c802d-98a3-488f-a2bb-df888e4fa7cd",
+  "params":{
+    "id":"220c802d-98a3-488f-a2bb-df888e4fa7cd",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

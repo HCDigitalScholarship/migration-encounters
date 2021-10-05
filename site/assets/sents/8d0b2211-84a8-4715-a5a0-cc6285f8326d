@@ -1,0 +1,12 @@
+{
+  "start":32329,
+  "end":32345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel: Thank you.",
+  "id":"8d0b2211-84a8-4715-a5a0-cc6285f8326d",
+  "params":{
+    "id":"5e93ccad-961a-495a-9867-7b0cd28666e5"
+  },
+  "name":"Abel"
+}

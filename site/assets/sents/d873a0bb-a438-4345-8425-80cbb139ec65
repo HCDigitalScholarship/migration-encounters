@@ -1,0 +1,12 @@
+{
+  "start":5923,
+  "end":5964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How often would you like talk to him, or?",
+  "id":"d873a0bb-a438-4345-8425-80cbb139ec65",
+  "params":{
+    "id":"4a9a44ba-5065-45f6-a8bb-3fbec8631fe6"
+  },
+  "name":"Roberto"
+}

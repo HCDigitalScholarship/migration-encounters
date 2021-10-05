@@ -1,0 +1,13 @@
+{
+  "start":30789,
+  "end":30851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'd rather be like, \"Hey man,\n   you got 5 pesos I can borrow?",
+  "id":"c140776e-8ab3-4441-b5b9-944019986307",
+  "params":{
+    "id":"c140776e-8ab3-4441-b5b9-944019986307",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

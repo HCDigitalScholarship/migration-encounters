@@ -1,0 +1,13 @@
+{
+  "start":12290,
+  "end":12330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I guess that can come back\n   to me?",
+  "id":"e3fc58d4-fb8b-4af2-bb73-848bca6b5bf0",
+  "params":{
+    "id":"e3fc58d4-fb8b-4af2-bb73-848bca6b5bf0",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

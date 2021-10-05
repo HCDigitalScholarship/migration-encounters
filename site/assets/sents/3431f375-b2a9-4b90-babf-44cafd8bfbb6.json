@@ -1,0 +1,13 @@
+{
+  "start":66652,
+  "end":66670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   cartels are",
+  "id":"3431f375-b2a9-4b90-babf-44cafd8bfbb6",
+  "params":{
+    "id":"3431f375-b2a9-4b90-babf-44cafd8bfbb6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

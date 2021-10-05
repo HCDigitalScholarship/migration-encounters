@@ -1,0 +1,12 @@
+{
+  "start":35261,
+  "end":35282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are your parents too?",
+  "id":"86ea3ee0-5ec8-48b7-adf3-9bdb352227e1",
+  "params":{
+    "id":"09ff45aa-2f6d-42c1-bbee-95b13d5b17c0"
+  },
+  "name":"Jeimmy"
+}

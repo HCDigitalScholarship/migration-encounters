@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":68,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me about when you first went to the United States.",
+  "id":"ba806265-49e4-4c2d-9651-ee06770ce2b7",
+  "params":{
+    "id":"42c89a96-6cf8-4b3e-b909-f2a5ee955b48"
+  },
+  "name":"Rocio"
+}

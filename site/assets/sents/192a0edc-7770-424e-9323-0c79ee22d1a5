@@ -1,0 +1,12 @@
+{
+  "start":8950,
+  "end":8991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pablo: Yeah, gang-related.\n \n \n   Isabel:",
+  "id":"192a0edc-7770-424e-9323-0c79ee22d1a5",
+  "params":{
+    "id":"fb438a6d-de47-45d5-b8c0-21a4d62d4687"
+  },
+  "name":"Pablo"
+}

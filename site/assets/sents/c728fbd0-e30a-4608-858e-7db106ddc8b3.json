@@ -1,0 +1,13 @@
+{
+  "start":42318,
+  "end":42388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   like, \"No. I don't want my son to grow up the way I grew up.\"",
+  "id":"c728fbd0-e30a-4608-858e-7db106ddc8b3",
+  "params":{
+    "id":"c728fbd0-e30a-4608-858e-7db106ddc8b3",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

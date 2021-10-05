@@ -1,0 +1,12 @@
+{
+  "start":22050,
+  "end":22159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, but she discovered him because she snuck in his car and he was\n driving to the farm like it's all good.",
+  "id":"07e64271-8d7e-4524-a81e-04388a28d693",
+  "params":{
+    "id":"96d58bfc-fd17-4d0b-9c66-1ca9caf48a5b"
+  },
+  "name":"Billy"
+}

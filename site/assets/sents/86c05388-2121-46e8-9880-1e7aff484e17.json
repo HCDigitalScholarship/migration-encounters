@@ -1,0 +1,13 @@
+{
+  "start":2933,
+  "end":2963,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then we got to\n   Chicago.",
+  "id":"86c05388-2121-46e8-9880-1e7aff484e17",
+  "params":{
+    "id":"86c05388-2121-46e8-9880-1e7aff484e17",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

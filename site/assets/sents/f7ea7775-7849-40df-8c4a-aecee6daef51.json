@@ -1,0 +1,13 @@
+{
+  "start":20052,
+  "end":20075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't do hot weather.",
+  "id":"f7ea7775-7849-40df-8c4a-aecee6daef51",
+  "params":{
+    "id":"f7ea7775-7849-40df-8c4a-aecee6daef51",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

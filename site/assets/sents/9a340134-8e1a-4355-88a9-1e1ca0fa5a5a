@@ -1,0 +1,12 @@
+{
+  "start":3599,
+  "end":3625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what to do.\n ",
+  "id":"9a340134-8e1a-4355-88a9-1e1ca0fa5a5a",
+  "params":{
+    "id":"4098cb04-f8fd-4ea6-b29a-a512a9393695"
+  },
+  "name":"Jesus C"
+}

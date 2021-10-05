@@ -1,0 +1,12 @@
+{
+  "start":36543,
+  "end":36597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is your partner also, did she do ____ too, or?\n \n \n   ",
+  "id":"fd927ef4-6d0a-432f-bd06-846b932d6112",
+  "params":{
+    "id":"fdee4129-7d42-477c-a323-38e8df74f067"
+  },
+  "name":"Luis A"
+}

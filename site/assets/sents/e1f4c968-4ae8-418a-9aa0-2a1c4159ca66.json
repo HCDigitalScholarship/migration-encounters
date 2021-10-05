@@ -1,0 +1,13 @@
+{
+  "start":25633,
+  "end":25700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of finds that have been happening around the village.",
+  "id":"e1f4c968-4ae8-418a-9aa0-2a1c4159ca66",
+  "params":{
+    "id":"e1f4c968-4ae8-418a-9aa0-2a1c4159ca66",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

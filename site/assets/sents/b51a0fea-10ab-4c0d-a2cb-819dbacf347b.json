@@ -1,0 +1,12 @@
+{
+  "start":37393,
+  "end":37421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was I\n   talking about?",
+  "id":"b51a0fea-10ab-4c0d-a2cb-819dbacf347b",
+  "params":{
+    "id":"63e138c5-b99b-4a06-8d01-a030b204185c"
+  },
+  "name":"Mike"
+}

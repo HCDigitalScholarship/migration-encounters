@@ -1,0 +1,13 @@
+{
+  "start":12211,
+  "end":12230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved Roald Dahl.",
+  "id":"80ff2984-984e-4d57-879c-8a4d61414986",
+  "params":{
+    "id":"80ff2984-984e-4d57-879c-8a4d61414986",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

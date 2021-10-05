@@ -1,0 +1,13 @@
+{
+  "start":2476,
+  "end":2534,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know I was going to see my dad, but I was mad at my dad.",
+  "id":"ee3729bf-1906-4222-8cb9-2adb47c9cee1",
+  "params":{
+    "id":"ee3729bf-1906-4222-8cb9-2adb47c9cee1",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

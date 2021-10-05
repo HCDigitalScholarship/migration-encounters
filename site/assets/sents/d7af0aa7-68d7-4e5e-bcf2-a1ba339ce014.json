@@ -1,0 +1,13 @@
+{
+  "start":7837,
+  "end":7916,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't really let me go out that much because she knew what I\n   was doing.",
+  "id":"d7af0aa7-68d7-4e5e-bcf2-a1ba339ce014",
+  "params":{
+    "id":"d7af0aa7-68d7-4e5e-bcf2-a1ba339ce014",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

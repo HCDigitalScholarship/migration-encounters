@@ -1,0 +1,13 @@
+{
+  "start":144,
+  "end":204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm very easy to get along\n   with, I make a lot of friends.",
+  "id":"d5fc92da-6ef0-4d70-b683-07033748a8f3",
+  "params":{
+    "id":"d5fc92da-6ef0-4d70-b683-07033748a8f3",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":3608,
+  "end":3613,
+  "text":"d you live in? You mentioned ___?\n \n \n   Josue: ____ Washington was the only one.\n \n \n   Sergio: _____ Washington?\n \n \n   Josue: Yeah. that area.\n \n \n   Sergio: Did you go to school in the US?\n \n \n   Josue: I did, yeah.\n \n \n   Sergio: Up to what year?\n \n \n   Josue: I was in college, _____ for about a year and a half.\n \n \n   Sergio: So, college. What did you study in college?\n \n \n   Josue: Culinary arts",
+  "label":"PERSON",
+  "id":"a8b1960c-b389-4491-b18a-5aedc37a70a8",
+  "name":"Josue"
+}

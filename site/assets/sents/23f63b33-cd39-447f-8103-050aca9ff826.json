@@ -1,0 +1,13 @@
+{
+  "start":9433,
+  "end":9480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   had never worked in her life [Chuckles].",
+  "id":"23f63b33-cd39-447f-8103-050aca9ff826",
+  "params":{
+    "id":"23f63b33-cd39-447f-8103-050aca9ff826",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

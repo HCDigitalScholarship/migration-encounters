@@ -1,0 +1,13 @@
+{
+  "start":8256,
+  "end":8279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It is boring sometimes.",
+  "id":"99c2ef30-813f-4722-ad2e-0b76fab6d7c6",
+  "params":{
+    "id":"99c2ef30-813f-4722-ad2e-0b76fab6d7c6",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

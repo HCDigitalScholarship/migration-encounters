@@ -1,0 +1,12 @@
+{
+  "start":41821,
+  "end":41860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it\n   didn't work out like it does.",
+  "id":"c60b4e56-df18-4c0d-a3b0-98b8660e9a65",
+  "params":{
+    "id":"be29900d-0b6f-42e3-8dfb-78cbb9ad951d"
+  },
+  "name":"Mike"
+}

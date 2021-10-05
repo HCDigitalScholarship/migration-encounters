@@ -1,0 +1,12 @@
+{
+  "start":35825,
+  "end":35860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's where\n   we are for now.",
+  "id":"5fcee65f-57e8-4552-b354-a5b745f40e30",
+  "params":{
+    "id":"01d2ea7a-1632-4e81-84e5-3d95e3bb6ae4"
+  },
+  "name":"Hugo"
+}

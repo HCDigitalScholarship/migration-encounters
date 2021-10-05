@@ -1,0 +1,13 @@
+{
+  "start":26068,
+  "end":26081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But they can.",
+  "id":"4f08f770-8cd1-4a6d-b5c9-94bc06aa27ee",
+  "params":{
+    "id":"4f08f770-8cd1-4a6d-b5c9-94bc06aa27ee",
+    "class":"anno"
+  },
+  "name":"Many"
+}

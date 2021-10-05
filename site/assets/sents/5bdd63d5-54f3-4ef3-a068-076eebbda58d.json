@@ -1,0 +1,13 @@
+{
+  "start":30760,
+  "end":30806,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He doesn't have nobody to talk English but me.",
+  "id":"5bdd63d5-54f3-4ef3-a068-076eebbda58d",
+  "params":{
+    "id":"5bdd63d5-54f3-4ef3-a068-076eebbda58d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

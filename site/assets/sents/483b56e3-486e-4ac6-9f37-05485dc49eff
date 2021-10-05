@@ -1,0 +1,12 @@
+{
+  "start":16222,
+  "end":16244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We waited a long time.",
+  "id":"483b56e3-486e-4ac6-9f37-05485dc49eff",
+  "params":{
+    "id":"0ca89afa-cbfb-4a46-957c-46004f479360"
+  },
+  "name":"Brenda"
+}

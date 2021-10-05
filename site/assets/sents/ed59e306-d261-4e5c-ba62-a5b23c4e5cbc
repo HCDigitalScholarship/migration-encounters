@@ -1,0 +1,12 @@
+{
+  "start":36658,
+  "end":36685,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think we can end on that.",
+  "id":"ed59e306-d261-4e5c-ba62-a5b23c4e5cbc",
+  "params":{
+    "id":"71025dbc-44bd-49ee-bec2-945ad4479ef1"
+  },
+  "name":"Daniel"
+}

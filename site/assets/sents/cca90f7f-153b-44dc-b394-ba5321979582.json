@@ -1,0 +1,13 @@
+{
+  "start":7334,
+  "end":7371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was hospitalized about four\n times.",
+  "id":"cca90f7f-153b-44dc-b394-ba5321979582",
+  "params":{
+    "id":"cca90f7f-153b-44dc-b394-ba5321979582",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

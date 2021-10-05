@@ -1,0 +1,13 @@
+{
+  "start":6847,
+  "end":6898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d Right here, I can\u2019t do that\n   because economics.",
+  "id":"6ea017b2-8b4e-42f2-b86a-db4dbcebe726",
+  "params":{
+    "id":"6ea017b2-8b4e-42f2-b86a-db4dbcebe726",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

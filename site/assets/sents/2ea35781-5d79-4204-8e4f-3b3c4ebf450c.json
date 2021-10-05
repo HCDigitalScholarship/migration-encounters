@@ -1,0 +1,13 @@
+{
+  "start":40701,
+  "end":40726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n took me a few months.",
+  "id":"2ea35781-5d79-4204-8e4f-3b3c4ebf450c",
+  "params":{
+    "id":"2ea35781-5d79-4204-8e4f-3b3c4ebf450c",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

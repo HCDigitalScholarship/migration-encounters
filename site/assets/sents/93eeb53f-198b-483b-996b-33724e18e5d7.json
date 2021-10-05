@@ -1,0 +1,13 @@
+{
+  "start":73250,
+  "end":73279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   cannot be a fake person.",
+  "id":"93eeb53f-198b-483b-996b-33724e18e5d7",
+  "params":{
+    "id":"93eeb53f-198b-483b-996b-33724e18e5d7",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28138,
+  "end":28170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had me when she was fifteen.",
+  "id":"9363e190-9233-4358-aff8-4a84b18437cc",
+  "params":{
+    "id":"9363e190-9233-4358-aff8-4a84b18437cc",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":27744,
+  "end":27785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been exposed to the tacos al pastor.",
+  "id":"83202b35-5519-469b-9f78-7e6c5b98c78f",
+  "params":{
+    "id":"a80b91a7-2543-42f9-abaf-725dcd03987c"
+  },
+  "name":"Billy"
+}

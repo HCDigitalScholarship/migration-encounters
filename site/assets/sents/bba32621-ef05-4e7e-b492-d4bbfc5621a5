@@ -1,0 +1,12 @@
+{
+  "start":8890,
+  "end":9000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For a year I fought the case, but they saw\n   me as \u201cWell, foreign person, we'll just kick them out, whatever.",
+  "id":"bba32621-ef05-4e7e-b492-d4bbfc5621a5",
+  "params":{
+    "id":"fb55d845-fbeb-454d-ad2d-606570bb8d0d"
+  },
+  "name":"Miguel B"
+}

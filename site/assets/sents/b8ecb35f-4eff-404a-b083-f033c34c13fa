@@ -1,0 +1,12 @@
+{
+  "start":18962,
+  "end":19014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you say that you lost everything, which you did.",
+  "id":"b8ecb35f-4eff-404a-b083-f033c34c13fa",
+  "params":{
+    "id":"6d30059f-cebf-40ef-9fed-ad7829925e47"
+  },
+  "name":"Many"
+}

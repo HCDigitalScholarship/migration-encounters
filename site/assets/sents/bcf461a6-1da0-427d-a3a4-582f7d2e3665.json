@@ -1,0 +1,12 @@
+{
+  "start":952,
+  "end":977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You finished high school?",
+  "id":"bcf461a6-1da0-427d-a3a4-582f7d2e3665",
+  "params":{
+    "id":"bb0782d8-75f3-4313-9029-e816f0c3d117"
+  },
+  "name":"Ivan"
+}

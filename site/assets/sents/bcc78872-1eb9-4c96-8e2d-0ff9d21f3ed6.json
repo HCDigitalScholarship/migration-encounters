@@ -1,0 +1,12 @@
+{
+  "start":16120,
+  "end":16137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just lost that.",
+  "id":"bcc78872-1eb9-4c96-8e2d-0ff9d21f3ed6",
+  "params":{
+    "id":"42ab706e-6c6f-4bb1-87b6-e926dc4f9083"
+  },
+  "name":"Mike"
+}

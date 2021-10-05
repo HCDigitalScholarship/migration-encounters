@@ -1,0 +1,13 @@
+{
+  "start":36690,
+  "end":36730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It affects every decision that you make.",
+  "id":"255f16d8-3396-45a3-bfa6-ae51fff24dd8",
+  "params":{
+    "id":"255f16d8-3396-45a3-bfa6-ae51fff24dd8",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

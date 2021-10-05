@@ -1,0 +1,13 @@
+{
+  "start":2665,
+  "end":2713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was the community college that you went to?",
+  "id":"77a105b8-aa0f-48d7-9d20-5c052cab2953",
+  "params":{
+    "id":"77a105b8-aa0f-48d7-9d20-5c052cab2953",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

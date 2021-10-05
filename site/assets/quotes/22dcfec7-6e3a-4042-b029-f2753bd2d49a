@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1346,
+  "end":1350,
+  "text":"took a train across the border?\n \n \n   Many: A train.\n \n \n   Anne: Did you have false papers or was it just easy to get on a train and\n   go across and no one seemed to...?\n \n \n   Many: Well, back in 1995, it was kind of easy. It was easy to cross the\n   border. What I do, I just jumped onto the train on this side of Mexico and\n   I just wait for the train to cross the bridge and like four hours later",
+  "label":"DATE",
+  "id":"22dcfec7-6e3a-4042-b029-f2753bd2d49a",
+  "name":"Many"
+}

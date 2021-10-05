@@ -1,0 +1,13 @@
+{
+  "start":6126,
+  "end":6162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My very first\n   car was a Chrysler.",
+  "id":"d8f9ca52-aae4-40f8-98ce-935c32d8a355",
+  "params":{
+    "id":"d8f9ca52-aae4-40f8-98ce-935c32d8a355",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

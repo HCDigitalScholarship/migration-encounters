@@ -1,0 +1,13 @@
+{
+  "start":4565,
+  "end":4606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, that\n   person was very nice with us.",
+  "id":"6e4c0f65-4955-41dd-b0d5-69ff28fa10c2",
+  "params":{
+    "id":"6e4c0f65-4955-41dd-b0d5-69ff28fa10c2",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

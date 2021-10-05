@@ -1,0 +1,13 @@
+{
+  "start":12526,
+  "end":12551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you want to go back to",
+  "id":"5fa1375a-e0f4-4780-aba2-77d6e6600ae6",
+  "params":{
+    "id":"5fa1375a-e0f4-4780-aba2-77d6e6600ae6",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

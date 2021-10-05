@@ -1,0 +1,13 @@
+{
+  "start":11989,
+  "end":12016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what he think.",
+  "id":"a32b1609-0d49-4edb-a029-112a47212f83",
+  "params":{
+    "id":"a32b1609-0d49-4edb-a029-112a47212f83",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

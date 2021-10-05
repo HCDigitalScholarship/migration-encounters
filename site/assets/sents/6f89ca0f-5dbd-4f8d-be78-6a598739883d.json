@@ -1,0 +1,13 @@
+{
+  "start":51584,
+  "end":51592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My kids.",
+  "id":"6f89ca0f-5dbd-4f8d-be78-6a598739883d",
+  "params":{
+    "id":"6f89ca0f-5dbd-4f8d-be78-6a598739883d",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

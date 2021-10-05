@@ -1,0 +1,12 @@
+{
+  "start":50169,
+  "end":50204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Si, fue la polic\u00eda que la encontr\u00f3.",
+  "id":"3be3ea6c-55b3-4f1f-b2fb-20dcae512ca3",
+  "params":{
+    "id":"9f0c9b3e-c492-493c-8c61-54eff87cd63b"
+  },
+  "name":"Maria"
+}

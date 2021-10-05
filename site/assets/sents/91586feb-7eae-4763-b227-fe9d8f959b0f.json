@@ -1,0 +1,13 @@
+{
+  "start":15441,
+  "end":15473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You've been\n     to Disneyland?\"",
+  "id":"91586feb-7eae-4763-b227-fe9d8f959b0f",
+  "params":{
+    "id":"91586feb-7eae-4763-b227-fe9d8f959b0f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

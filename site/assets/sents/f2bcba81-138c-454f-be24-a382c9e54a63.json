@@ -1,0 +1,13 @@
+{
+  "start":32685,
+  "end":32713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was just\n   a phone call.",
+  "id":"f2bcba81-138c-454f-be24-a382c9e54a63",
+  "params":{
+    "id":"f2bcba81-138c-454f-be24-a382c9e54a63",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

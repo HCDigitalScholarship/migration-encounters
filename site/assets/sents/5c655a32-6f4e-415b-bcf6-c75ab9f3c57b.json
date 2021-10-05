@@ -1,0 +1,13 @@
+{
+  "start":2310,
+  "end":2385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, it was different, because as a kid I\nlived in the city, I lived here.",
+  "id":"5c655a32-6f4e-415b-bcf6-c75ab9f3c57b",
+  "params":{
+    "id":"5c655a32-6f4e-415b-bcf6-c75ab9f3c57b",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

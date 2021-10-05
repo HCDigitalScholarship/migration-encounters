@@ -1,0 +1,15 @@
+{
+  "start":11597,
+  "end":11620,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzie: The white kids?",
+  "id":"369694c7-f24a-44ab-a607-6b16c0e5e48b",
+  "params":{
+    "id":"369694c7-f24a-44ab-a607-6b16c0e5e48b",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

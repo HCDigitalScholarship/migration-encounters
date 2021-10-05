@@ -1,0 +1,13 @@
+{
+  "start":19835,
+  "end":19841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hello.",
+  "id":"3df4e04d-02f4-4b0c-9ef5-6d30f2b704e6",
+  "params":{
+    "id":"3df4e04d-02f4-4b0c-9ef5-6d30f2b704e6",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

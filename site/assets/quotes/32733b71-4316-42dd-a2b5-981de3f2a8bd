@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":266,
+  "end":283,
+  "text":"seven years old.\n \n \n   Anita: You were born in Mexico?\n \n \n   Ivan: Yes. I was born in Mexico.\n \n \n   Anita: Where in Mexico?\n \n \n   Ivan: In the city of Mexico.\n \n \n   Anita: Why did you migrate to the United States?\n \n \n   Ivan: I didn't. Well, my parents took me when I was a kid. I was only like\n   three years old and so they took me to the States. I was a little boy. I\n   did not know.\n \n \n   Anita: Do you kn",
+  "label":"GPE",
+  "id":"32733b71-4316-42dd-a2b5-981de3f2a8bd",
+  "name":"Ivan"
+}

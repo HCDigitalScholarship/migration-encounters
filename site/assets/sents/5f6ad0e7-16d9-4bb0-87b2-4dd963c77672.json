@@ -1,0 +1,13 @@
+{
+  "start":39256,
+  "end":39346,
+  "label":"SENT",
+  "type":"sent",
+  "text":"and he's working here for an HR company, but now he's going to work for\n   Uber in Mexico.",
+  "id":"5f6ad0e7-16d9-4bb0-87b2-4dd963c77672",
+  "params":{
+    "id":"5f6ad0e7-16d9-4bb0-87b2-4dd963c77672",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

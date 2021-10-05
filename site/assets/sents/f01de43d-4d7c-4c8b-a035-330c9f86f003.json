@@ -1,0 +1,13 @@
+{
+  "start":9056,
+  "end":9099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was that similar to what middle school was?",
+  "id":"f01de43d-4d7c-4c8b-a035-330c9f86f003",
+  "params":{
+    "id":"f01de43d-4d7c-4c8b-a035-330c9f86f003",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

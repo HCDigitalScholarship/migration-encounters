@@ -1,0 +1,13 @@
+{
+  "start":31824,
+  "end":31880,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I only did a year for\n   that and then I came to Mexico.",
+  "id":"d8215e6b-a6c9-411f-a526-f1c99eafc629",
+  "params":{
+    "id":"d8215e6b-a6c9-411f-a526-f1c99eafc629",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3982,
+  "end":4039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went from East\n   Palo Alto to Menlo Park, California.",
+  "id":"cf748ea8-af56-423b-8b12-38b2dba55a04",
+  "params":{
+    "id":"cf748ea8-af56-423b-8b12-38b2dba55a04",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16226,
+  "end":16241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is my son.",
+  "id":"e8ddd925-e942-4afe-ab18-b8056c81dd34",
+  "params":{
+    "id":"e8ddd925-e942-4afe-ab18-b8056c81dd34",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

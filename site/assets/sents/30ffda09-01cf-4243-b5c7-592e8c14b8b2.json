@@ -1,0 +1,13 @@
+{
+  "start":811,
+  "end":848,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were\n   at the dessert at 4:00 AM.",
+  "id":"30ffda09-01cf-4243-b5c7-592e8c14b8b2",
+  "params":{
+    "id":"30ffda09-01cf-4243-b5c7-592e8c14b8b2",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

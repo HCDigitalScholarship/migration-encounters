@@ -1,0 +1,13 @@
+{
+  "start":30106,
+  "end":30179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It must have been helpful to have your family here when you came\n   back?",
+  "id":"0bb592d5-d425-4f17-bbf5-28c46bef1b53",
+  "params":{
+    "id":"0bb592d5-d425-4f17-bbf5-28c46bef1b53",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

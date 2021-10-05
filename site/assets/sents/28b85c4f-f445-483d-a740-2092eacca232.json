@@ -1,0 +1,13 @@
+{
+  "start":22454,
+  "end":22501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know like\n     heat, not the microwave.",
+  "id":"28b85c4f-f445-483d-a740-2092eacca232",
+  "params":{
+    "id":"28b85c4f-f445-483d-a740-2092eacca232",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

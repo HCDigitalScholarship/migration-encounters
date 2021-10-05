@@ -1,0 +1,12 @@
+{
+  "start":64880,
+  "end":64912,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People are starving [inaudible].",
+  "id":"3b89af5e-fba9-4da5-9a2f-a5eefcba97f1",
+  "params":{
+    "id":"085fe869-2328-4071-b98d-fa8eed3d75f9"
+  },
+  "name":"Cris"
+}

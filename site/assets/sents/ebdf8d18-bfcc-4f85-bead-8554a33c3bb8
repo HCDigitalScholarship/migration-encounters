@@ -1,0 +1,12 @@
+{
+  "start":22337,
+  "end":22371,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew you were\n doing something.\"",
+  "id":"ebdf8d18-bfcc-4f85-bead-8554a33c3bb8",
+  "params":{
+    "id":"937c24df-4419-4d9a-a3bd-d7c8e15869e0"
+  },
+  "name":"Billy"
+}

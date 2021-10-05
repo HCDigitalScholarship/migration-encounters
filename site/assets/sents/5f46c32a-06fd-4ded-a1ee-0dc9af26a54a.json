@@ -1,0 +1,13 @@
+{
+  "start":38967,
+  "end":38997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you think they can do?",
+  "id":"5f46c32a-06fd-4ded-a1ee-0dc9af26a54a",
+  "params":{
+    "id":"5f46c32a-06fd-4ded-a1ee-0dc9af26a54a",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

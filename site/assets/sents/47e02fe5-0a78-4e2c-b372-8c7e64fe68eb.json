@@ -1,0 +1,13 @@
+{
+  "start":19985,
+  "end":20095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what I wanted to hear from you, just\n   your own personal experience, how you've changed because of it.",
+  "id":"47e02fe5-0a78-4e2c-b372-8c7e64fe68eb",
+  "params":{
+    "id":"47e02fe5-0a78-4e2c-b372-8c7e64fe68eb",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

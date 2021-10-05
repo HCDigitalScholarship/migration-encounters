@@ -1,0 +1,13 @@
+{
+  "start":3016,
+  "end":3080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I started second grade, because I finished first grade here.",
+  "id":"9f678fa9-6380-493e-9f59-90680140b3a8",
+  "params":{
+    "id":"9f678fa9-6380-493e-9f59-90680140b3a8",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

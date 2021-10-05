@@ -1,0 +1,13 @@
+{
+  "start":29606,
+  "end":29661,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was driving around and every time she'd\n   drive",
+  "id":"05bbb6f2-99fa-4126-8dca-7b5f4056f873",
+  "params":{
+    "id":"05bbb6f2-99fa-4126-8dca-7b5f4056f873",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

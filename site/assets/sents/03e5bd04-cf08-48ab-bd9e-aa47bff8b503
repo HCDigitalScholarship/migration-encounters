@@ -1,0 +1,12 @@
+{
+  "start":11044,
+  "end":11101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When we were with my dad, we didn't have none\n   of that.",
+  "id":"03e5bd04-cf08-48ab-bd9e-aa47bff8b503",
+  "params":{
+    "id":"ec8697b0-f5ed-4b2b-a784-fa4a8030cdd3"
+  },
+  "name":"Mike"
+}

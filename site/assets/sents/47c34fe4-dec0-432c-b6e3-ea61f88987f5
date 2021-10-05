@@ -1,0 +1,12 @@
+{
+  "start":23201,
+  "end":23228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Has she found someone here?",
+  "id":"47c34fe4-dec0-432c-b6e3-ea61f88987f5",
+  "params":{
+    "id":"f0071402-e63b-4a54-a7a2-10bb42743681"
+  },
+  "name":"Billy"
+}

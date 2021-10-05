@@ -1,0 +1,12 @@
+{
+  "start":15431,
+  "end":15450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You started school.",
+  "id":"788ea172-8ef8-413d-9717-13a433dd2df1",
+  "params":{
+    "id":"9ee82bb1-4053-4a99-90f5-91be0806abc7"
+  },
+  "name":"Yair"
+}

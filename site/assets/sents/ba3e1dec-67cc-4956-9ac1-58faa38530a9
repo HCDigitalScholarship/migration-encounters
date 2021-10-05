@@ -1,0 +1,12 @@
+{
+  "start":26508,
+  "end":26547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's something that we do every year.",
+  "id":"ba3e1dec-67cc-4956-9ac1-58faa38530a9",
+  "params":{
+    "id":"ed99d4c7-acba-4456-91e1-3b9d34cebfbc"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":11213,
+  "end":11223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I saw her.",
+  "id":"f4ebf2f2-d39a-41b5-a04b-5fa7eb32a277",
+  "params":{
+    "id":"f4ebf2f2-d39a-41b5-a04b-5fa7eb32a277",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

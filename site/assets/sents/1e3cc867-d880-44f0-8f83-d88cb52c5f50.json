@@ -1,0 +1,13 @@
+{
+  "start":33223,
+  "end":33283,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When that\n   happens, she didn't really help me out anymore.",
+  "id":"1e3cc867-d880-44f0-8f83-d88cb52c5f50",
+  "params":{
+    "id":"1e3cc867-d880-44f0-8f83-d88cb52c5f50",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

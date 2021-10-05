@@ -1,0 +1,12 @@
+{
+  "start":2780,
+  "end":2834,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, this is one neighborhood, and this is another one.",
+  "id":"f83953c8-6564-47e7-a809-4c886023215b",
+  "params":{
+    "id":"e52f4154-ccf2-48ef-b488-67acf11fe9c7"
+  },
+  "name":"Hugo"
+}

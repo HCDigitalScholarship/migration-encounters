@@ -1,0 +1,12 @@
+{
+  "start":19146,
+  "end":19171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You like science fiction?",
+  "id":"7874c148-72ad-475f-a15c-6677ade8417f",
+  "params":{
+    "id":"ba2c82c4-7abb-40df-83bf-62a3d9d1bbbf"
+  },
+  "name":"Valeria"
+}

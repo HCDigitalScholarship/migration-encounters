@@ -1,0 +1,13 @@
+{
+  "start":25422,
+  "end":25490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I learned just\n like...\n      \n      \n Anne: Because you were a kid.",
+  "id":"b9e10300-1d5c-41b7-8654-9b23beac1f5c",
+  "params":{
+    "id":"b9e10300-1d5c-41b7-8654-9b23beac1f5c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

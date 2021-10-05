@@ -1,0 +1,12 @@
+{
+  "start":55241,
+  "end":55461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   There is a sentiment from a lot of migrants tied to this whole idea of\n   being binational that says that you're neither here nor from there, and I\n   was wondering what you think about that statement.\n \n \n   Daniel:",
+  "id":"3eec1cc7-abab-4ef7-8372-7406ef1865bf",
+  "params":{
+    "id":"f59791f0-9677-4332-ad97-53a7b40f4d60"
+  },
+  "name":"Daniel B"
+}

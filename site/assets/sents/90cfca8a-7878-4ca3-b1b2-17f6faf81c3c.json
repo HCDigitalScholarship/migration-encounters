@@ -1,0 +1,13 @@
+{
+  "start":21220,
+  "end":21235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're illegal.",
+  "id":"90cfca8a-7878-4ca3-b1b2-17f6faf81c3c",
+  "params":{
+    "id":"90cfca8a-7878-4ca3-b1b2-17f6faf81c3c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

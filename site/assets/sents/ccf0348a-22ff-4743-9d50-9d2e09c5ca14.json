@@ -1,0 +1,13 @@
+{
+  "start":236,
+  "end":292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, they decided to take me because of hardships here.",
+  "id":"ccf0348a-22ff-4743-9d50-9d2e09c5ca14",
+  "params":{
+    "id":"ccf0348a-22ff-4743-9d50-9d2e09c5ca14",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

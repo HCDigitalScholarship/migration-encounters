@@ -1,0 +1,12 @@
+{
+  "start":1389,
+  "end":1419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We arrived to ____ California.",
+  "id":"fb28a43f-0919-44d3-8e7c-74f14c4d5102",
+  "params":{
+    "id":"c69dcfa1-d71f-4f7b-92ff-1a1661d110eb"
+  },
+  "name":"Luisa"
+}

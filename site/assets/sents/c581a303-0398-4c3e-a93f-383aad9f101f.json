@@ -1,0 +1,13 @@
+{
+  "start":9749,
+  "end":9770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His name was Lucious.",
+  "id":"c581a303-0398-4c3e-a93f-383aad9f101f",
+  "params":{
+    "id":"c581a303-0398-4c3e-a93f-383aad9f101f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

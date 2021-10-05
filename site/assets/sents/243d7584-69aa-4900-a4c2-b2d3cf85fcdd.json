@@ -1,0 +1,13 @@
+{
+  "start":21193,
+  "end":21205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can I speak?",
+  "id":"243d7584-69aa-4900-a4c2-b2d3cf85fcdd",
+  "params":{
+    "id":"243d7584-69aa-4900-a4c2-b2d3cf85fcdd",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

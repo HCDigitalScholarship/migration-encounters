@@ -1,0 +1,13 @@
+{
+  "start":28915,
+  "end":28973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And yes, she actually\n   told me if I wanted to marry her.",
+  "id":"8b20d32f-ca8f-4a9d-b346-f27359784ebb",
+  "params":{
+    "id":"8b20d32f-ca8f-4a9d-b346-f27359784ebb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

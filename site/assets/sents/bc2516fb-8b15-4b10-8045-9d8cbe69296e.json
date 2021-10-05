@@ -1,0 +1,12 @@
+{
+  "start":8203,
+  "end":8239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The teacher fell in\n   love with me.",
+  "id":"bc2516fb-8b15-4b10-8045-9d8cbe69296e",
+  "params":{
+    "id":"da136d15-04cc-4bc0-b123-921ce5b611a9"
+  },
+  "name":"Donovan"
+}

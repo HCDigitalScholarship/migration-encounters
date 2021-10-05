@@ -1,0 +1,13 @@
+{
+  "start":10642,
+  "end":10785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Also\n   when I was working, because they asked me for a social security number and\n   stuff like that and I didn't had any or any official IDs.",
+  "id":"8c88c6af-933b-4cd0-bfb8-75462b050830",
+  "params":{
+    "id":"8c88c6af-933b-4cd0-bfb8-75462b050830",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

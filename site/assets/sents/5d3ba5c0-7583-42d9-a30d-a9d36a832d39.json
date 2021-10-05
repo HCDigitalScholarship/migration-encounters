@@ -1,0 +1,13 @@
+{
+  "start":10381,
+  "end":10415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would have still been a painter.",
+  "id":"5d3ba5c0-7583-42d9-a30d-a9d36a832d39",
+  "params":{
+    "id":"5d3ba5c0-7583-42d9-a30d-a9d36a832d39",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":46806,
+  "end":46883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She wouldn't be able to\n   tell me, \"Hey, this is what's happening over here.",
+  "id":"ce4491c4-d426-4e97-85a3-40d8187f3caa",
+  "params":{
+    "id":"ce4491c4-d426-4e97-85a3-40d8187f3caa",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

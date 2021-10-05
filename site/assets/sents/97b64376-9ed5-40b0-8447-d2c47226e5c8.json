@@ -1,0 +1,13 @@
+{
+  "start":36056,
+  "end":36116,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, yeah, I'm really glad that stuff like this is happening.",
+  "id":"97b64376-9ed5-40b0-8447-d2c47226e5c8",
+  "params":{
+    "id":"97b64376-9ed5-40b0-8447-d2c47226e5c8",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

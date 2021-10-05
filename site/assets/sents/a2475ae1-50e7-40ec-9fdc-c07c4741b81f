@@ -1,0 +1,12 @@
+{
+  "start":29332,
+  "end":29375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were\n   like, \"Hey, you speak English?",
+  "id":"a2475ae1-50e7-40ec-9fdc-c07c4741b81f",
+  "params":{
+    "id":"fef1c424-5ca5-4911-8260-c6dc3608603b"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8420,
+  "end":8560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was always saying that,\n   \"If I came to America it's to get you in school, and to always have money\n   so we don't end back in Mexico.\"",
+  "id":"e14e30d3-9c8d-4f51-9171-272ccf8653ff",
+  "params":{
+    "id":"e14e30d3-9c8d-4f51-9171-272ccf8653ff",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

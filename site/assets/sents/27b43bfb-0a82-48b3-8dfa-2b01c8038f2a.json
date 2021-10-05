@@ -1,0 +1,12 @@
+{
+  "start":24268,
+  "end":24290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Explain the situation.",
+  "id":"27b43bfb-0a82-48b3-8dfa-2b01c8038f2a",
+  "params":{
+    "id":"fb5b489b-ce8e-4cb7-98ee-addb551a09ef"
+  },
+  "name":"Noe"
+}

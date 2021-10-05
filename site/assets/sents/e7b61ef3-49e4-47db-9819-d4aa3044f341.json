@@ -1,0 +1,13 @@
+{
+  "start":23225,
+  "end":23300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: No.\n \n \n   Anita: With your aunts or uncles that live in the States?",
+  "id":"e7b61ef3-49e4-47db-9819-d4aa3044f341",
+  "params":{
+    "id":"e7b61ef3-49e4-47db-9819-d4aa3044f341",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

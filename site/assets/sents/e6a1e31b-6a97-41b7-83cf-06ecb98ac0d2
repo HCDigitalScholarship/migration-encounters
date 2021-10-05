@@ -1,0 +1,12 @@
+{
+  "start":6100,
+  "end":6155,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then, around middle school, I did the\n   saxophone.",
+  "id":"e6a1e31b-6a97-41b7-83cf-06ecb98ac0d2",
+  "params":{
+    "id":"b702cb50-f8c9-4bee-a2cd-a09378e0c94c"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":18268,
+  "end":18328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of things\n   that can happen to you and stuff.",
+  "id":"4b3017d1-7283-4111-b57e-ac43e85e1b3e",
+  "params":{
+    "id":"9f29ec10-c806-44b6-91ec-7ab62171e5d4"
+  },
+  "name":"Pablo"
+}

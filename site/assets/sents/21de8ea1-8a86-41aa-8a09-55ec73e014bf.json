@@ -1,0 +1,13 @@
+{
+  "start":13281,
+  "end":13304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why I feel okay.",
+  "id":"21de8ea1-8a86-41aa-8a09-55ec73e014bf",
+  "params":{
+    "id":"21de8ea1-8a86-41aa-8a09-55ec73e014bf",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

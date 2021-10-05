@@ -1,0 +1,13 @@
+{
+  "start":8011,
+  "end":8024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's amazing.",
+  "id":"6472334c-c96f-4678-b9aa-9f1af75ebb50",
+  "params":{
+    "id":"6472334c-c96f-4678-b9aa-9f1af75ebb50",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

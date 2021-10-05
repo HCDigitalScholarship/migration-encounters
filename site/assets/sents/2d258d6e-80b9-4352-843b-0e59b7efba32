@@ -1,0 +1,12 @@
+{
+  "start":24324,
+  "end":24410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know what people are good to you, and what, some\n   people that are not good to you.",
+  "id":"2d258d6e-80b9-4352-843b-0e59b7efba32",
+  "params":{
+    "id":"7e9cbee8-528e-44de-be68-c553b7a6319a"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4096,
+  "end":4115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The plan was to\n   ",
+  "id":"30835402-d930-4471-aca9-91e9f8da5bd5",
+  "params":{
+    "id":"3c1057ba-f41d-4e00-a2c7-6062c54fa8a7"
+  },
+  "name":"Ilse"
+}

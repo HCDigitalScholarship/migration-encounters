@@ -1,0 +1,13 @@
+{
+  "start":9562,
+  "end":9581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, who raised you?",
+  "id":"0ccf8e9e-79c7-4bb6-8809-9562e83b611e",
+  "params":{
+    "id":"0ccf8e9e-79c7-4bb6-8809-9562e83b611e",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

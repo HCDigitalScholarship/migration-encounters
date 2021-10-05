@@ -1,0 +1,13 @@
+{
+  "start":31678,
+  "end":31706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cinco de Mayo, he's Mexican.",
+  "id":"4545d747-d989-4c59-aa00-d7e05b426eb1",
+  "params":{
+    "id":"4545d747-d989-4c59-aa00-d7e05b426eb1",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24530,
+  "end":24546,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For some reason.",
+  "id":"aaaa1156-49d3-4c85-b37b-582ea1f31906",
+  "params":{
+    "id":"aaaa1156-49d3-4c85-b37b-582ea1f31906",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

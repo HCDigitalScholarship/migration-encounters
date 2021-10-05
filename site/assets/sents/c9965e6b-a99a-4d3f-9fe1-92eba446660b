@@ -1,0 +1,12 @@
+{
+  "start":3142,
+  "end":3186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you got into all that?",
+  "id":"c9965e6b-a99a-4d3f-9fe1-92eba446660b",
+  "params":{
+    "id":"f8fde579-cd14-4736-91ab-29824587fa04"
+  },
+  "name":"Pablo"
+}

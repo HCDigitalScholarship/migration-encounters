@@ -1,0 +1,13 @@
+{
+  "start":6720,
+  "end":6736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it was good.",
+  "id":"2e4d320a-210e-478a-89d3-f3a018b4fa5f",
+  "params":{
+    "id":"2e4d320a-210e-478a-89d3-f3a018b4fa5f",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

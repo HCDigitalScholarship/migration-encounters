@@ -1,0 +1,13 @@
+{
+  "start":373,
+  "end":416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mother had me when she was 14 years old.",
+  "id":"40c038bb-40c0-4fa4-86c6-e8aee2760073",
+  "params":{
+    "id":"40c038bb-40c0-4fa4-86c6-e8aee2760073",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

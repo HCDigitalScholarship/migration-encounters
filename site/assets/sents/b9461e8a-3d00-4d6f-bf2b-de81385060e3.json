@@ -1,0 +1,13 @@
+{
+  "start":8666,
+  "end":8762,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   pops would get very pissed because like, \"Yo dude, we're here to work.\"\n \n \n   Cuauht\u00e9moc:",
+  "id":"b9461e8a-3d00-4d6f-bf2b-de81385060e3",
+  "params":{
+    "id":"b9461e8a-3d00-4d6f-bf2b-de81385060e3",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

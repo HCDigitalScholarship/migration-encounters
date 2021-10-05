@@ -1,0 +1,12 @@
+{
+  "start":3238,
+  "end":3273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How far did you study in\n   the US?",
+  "id":"2ad3cf4e-d03c-4998-a63a-1ab2027b82ad",
+  "params":{
+    "id":"3eae1d5b-a4c4-4a02-afda-647ad963758e"
+  },
+  "name":"Miguel A"
+}

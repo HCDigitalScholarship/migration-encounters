@@ -1,0 +1,13 @@
+{
+  "start":16101,
+  "end":16152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For example, I like Adela, I like Amy\n   Winehouse.",
+  "id":"cd47063e-2690-4a63-afe7-448b912012df",
+  "params":{
+    "id":"cd47063e-2690-4a63-afe7-448b912012df",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

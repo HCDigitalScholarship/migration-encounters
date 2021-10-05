@@ -1,0 +1,13 @@
+{
+  "start":22335,
+  "end":22354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it bounced off?",
+  "id":"1d978bc3-ec76-402c-9fb0-b58e49d01e60",
+  "params":{
+    "id":"1d978bc3-ec76-402c-9fb0-b58e49d01e60",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

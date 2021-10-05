@@ -1,0 +1,13 @@
+{
+  "start":20652,
+  "end":20713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're doing good, we're\n   supervising now, we're doing good.",
+  "id":"def861b7-156a-41b9-9cb6-43070a74ac8d",
+  "params":{
+    "id":"def861b7-156a-41b9-9cb6-43070a74ac8d",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

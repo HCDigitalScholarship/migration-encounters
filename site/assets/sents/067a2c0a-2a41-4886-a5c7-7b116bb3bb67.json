@@ -1,0 +1,13 @@
+{
+  "start":52128,
+  "end":52182,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you satisfied with everything that you've told me?",
+  "id":"067a2c0a-2a41-4886-a5c7-7b116bb3bb67",
+  "params":{
+    "id":"067a2c0a-2a41-4886-a5c7-7b116bb3bb67",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

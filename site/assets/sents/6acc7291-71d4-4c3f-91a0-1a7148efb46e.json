@@ -1,0 +1,13 @@
+{
+  "start":11802,
+  "end":11869,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was my plan, but\n   a situation happened\u2014I think I was twenty.",
+  "id":"6acc7291-71d4-4c3f-91a0-1a7148efb46e",
+  "params":{
+    "id":"6acc7291-71d4-4c3f-91a0-1a7148efb46e",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

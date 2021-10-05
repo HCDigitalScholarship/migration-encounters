@@ -1,0 +1,13 @@
+{
+  "start":5943,
+  "end":5972,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico?\n \n \n   Rocio:",
+  "id":"aacf8df0-fd2e-4b9d-a7af-072bb8173647",
+  "params":{
+    "id":"aacf8df0-fd2e-4b9d-a7af-072bb8173647",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

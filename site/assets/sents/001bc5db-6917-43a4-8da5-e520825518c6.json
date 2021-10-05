@@ -1,0 +1,13 @@
+{
+  "start":272,
+  "end":298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where does that come from?",
+  "id":"001bc5db-6917-43a4-8da5-e520825518c6",
+  "params":{
+    "id":"001bc5db-6917-43a4-8da5-e520825518c6",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

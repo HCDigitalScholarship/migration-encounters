@@ -1,0 +1,13 @@
+{
+  "start":447,
+  "end":519,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a lot of scholarships that\n   got shot down, because of my status.",
+  "id":"b9fb6dc7-7a22-4d81-9dda-8e9e533f46fb",
+  "params":{
+    "id":"b9fb6dc7-7a22-4d81-9dda-8e9e533f46fb",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

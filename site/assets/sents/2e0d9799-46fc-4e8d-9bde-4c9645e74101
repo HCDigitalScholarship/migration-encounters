@@ -1,0 +1,12 @@
+{
+  "start":5589,
+  "end":5635,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you made the\n   decision on your own?",
+  "id":"2e0d9799-46fc-4e8d-9bde-4c9645e74101",
+  "params":{
+    "id":"f42ce6f3-6ca3-4cec-bef2-7c88a63ac70d"
+  },
+  "name":"Yosell"
+}

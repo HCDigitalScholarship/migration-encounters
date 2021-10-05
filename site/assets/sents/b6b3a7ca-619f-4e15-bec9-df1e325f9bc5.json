@@ -1,0 +1,13 @@
+{
+  "start":8273,
+  "end":8336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And well, I wasn't born in the States, I was\n   born in Mexico.",
+  "id":"b6b3a7ca-619f-4e15-bec9-df1e325f9bc5",
+  "params":{
+    "id":"b6b3a7ca-619f-4e15-bec9-df1e325f9bc5",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

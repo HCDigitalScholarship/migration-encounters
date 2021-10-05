@@ -1,0 +1,13 @@
+{
+  "start":23346,
+  "end":23400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because if\n   you don't practice it, you'll forget it.",
+  "id":"9daffdc5-9c1d-42e2-8c5c-682f052a504f",
+  "params":{
+    "id":"9daffdc5-9c1d-42e2-8c5c-682f052a504f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

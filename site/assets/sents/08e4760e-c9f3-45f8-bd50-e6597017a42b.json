@@ -1,0 +1,13 @@
+{
+  "start":27143,
+  "end":27178,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Nobody knows what\n everybody wants.",
+  "id":"08e4760e-c9f3-45f8-bd50-e6597017a42b",
+  "params":{
+    "id":"08e4760e-c9f3-45f8-bd50-e6597017a42b",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

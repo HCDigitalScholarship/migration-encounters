@@ -1,0 +1,12 @@
+{
+  "start":4861,
+  "end":4922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How soon after getting to California did you move to Chicago?",
+  "id":"1e591509-17fd-4e7c-beb4-6c72f3da1673",
+  "params":{
+    "id":"ad048ac5-ca8c-413f-ad36-db12f28d62ad"
+  },
+  "name":"Luisa"
+}

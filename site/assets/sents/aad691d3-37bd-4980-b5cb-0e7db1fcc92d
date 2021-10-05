@@ -1,0 +1,12 @@
+{
+  "start":3534,
+  "end":3550,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did he go?",
+  "id":"aad691d3-37bd-4980-b5cb-0e7db1fcc92d",
+  "params":{
+    "id":"23ded419-ec6e-44f6-88f0-9b06cc91834c"
+  },
+  "name":"Rodrigo"
+}

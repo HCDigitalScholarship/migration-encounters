@@ -1,0 +1,13 @@
+{
+  "start":6254,
+  "end":6303,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, then the light turned red, and what happened?",
+  "id":"bc5043be-612b-4f9d-8cce-2751e53c1b95",
+  "params":{
+    "id":"bc5043be-612b-4f9d-8cce-2751e53c1b95",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

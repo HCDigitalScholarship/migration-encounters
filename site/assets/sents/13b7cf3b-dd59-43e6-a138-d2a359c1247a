@@ -1,0 +1,12 @@
+{
+  "start":20237,
+  "end":20326,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was awesome, to be honest, I had my own\n little go-cart and I was working with horses.",
+  "id":"13b7cf3b-dd59-43e6-a138-d2a359c1247a",
+  "params":{
+    "id":"63091b0e-89fa-441a-9d41-7e3e7b2a6806"
+  },
+  "name":"Billy"
+}

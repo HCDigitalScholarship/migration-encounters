@@ -1,0 +1,13 @@
+{
+  "start":6423,
+  "end":6446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't have a place.",
+  "id":"b948667c-1d3b-4cd4-b6c4-0bdd26a309d7",
+  "params":{
+    "id":"b948667c-1d3b-4cd4-b6c4-0bdd26a309d7",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

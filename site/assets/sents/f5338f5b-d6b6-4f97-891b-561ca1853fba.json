@@ -1,0 +1,13 @@
+{
+  "start":32843,
+  "end":32864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have tattoos.",
+  "id":"f5338f5b-d6b6-4f97-891b-561ca1853fba",
+  "params":{
+    "id":"f5338f5b-d6b6-4f97-891b-561ca1853fba",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

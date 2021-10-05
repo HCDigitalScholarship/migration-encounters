@@ -1,0 +1,12 @@
+{
+  "start":762,
+  "end":807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember your first moments in the US?",
+  "id":"340c03a0-b1a3-4ba0-94a4-eebbe159ed90",
+  "params":{
+    "id":"e949db9a-e00b-4f03-9f96-317b06d31719"
+  },
+  "name":"Pablo"
+}

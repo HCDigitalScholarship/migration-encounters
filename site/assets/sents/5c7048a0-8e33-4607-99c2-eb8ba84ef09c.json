@@ -1,0 +1,13 @@
+{
+  "start":54942,
+  "end":54962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was late to court.",
+  "id":"5c7048a0-8e33-4607-99c2-eb8ba84ef09c",
+  "params":{
+    "id":"5c7048a0-8e33-4607-99c2-eb8ba84ef09c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

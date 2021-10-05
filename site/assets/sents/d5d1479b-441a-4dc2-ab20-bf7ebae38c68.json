@@ -1,0 +1,13 @@
+{
+  "start":30011,
+  "end":30112,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No tiene nada de malo que yo mantenga al marido, y no tiene\n     nada menos que t\u00fa me ayudes en casa.",
+  "id":"d5d1479b-441a-4dc2-ab20-bf7ebae38c68",
+  "params":{
+    "id":"d5d1479b-441a-4dc2-ab20-bf7ebae38c68",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

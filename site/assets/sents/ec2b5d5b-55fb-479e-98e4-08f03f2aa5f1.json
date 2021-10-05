@@ -1,0 +1,12 @@
+{
+  "start":17480,
+  "end":17511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mama always told me\n   that.",
+  "id":"ec2b5d5b-55fb-479e-98e4-08f03f2aa5f1",
+  "params":{
+    "id":"482e2acb-a35a-4625-b88c-a4ae281ea660"
+  },
+  "name":"Kevin"
+}

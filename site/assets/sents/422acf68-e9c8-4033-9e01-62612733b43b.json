@@ -1,0 +1,13 @@
+{
+  "start":49052,
+  "end":49069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We live together.",
+  "id":"422acf68-e9c8-4033-9e01-62612733b43b",
+  "params":{
+    "id":"422acf68-e9c8-4033-9e01-62612733b43b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

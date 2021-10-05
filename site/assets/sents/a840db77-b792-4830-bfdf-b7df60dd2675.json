@@ -1,0 +1,13 @@
+{
+  "start":1752,
+  "end":1773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   doctor's face.",
+  "id":"a840db77-b792-4830-bfdf-b7df60dd2675",
+  "params":{
+    "id":"a840db77-b792-4830-bfdf-b7df60dd2675",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

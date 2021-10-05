@@ -1,0 +1,13 @@
+{
+  "start":191,
+  "end":218,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is your city of birth?",
+  "id":"2cbaa259-b836-4832-81c2-56f7decc107d",
+  "params":{
+    "id":"2cbaa259-b836-4832-81c2-56f7decc107d",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

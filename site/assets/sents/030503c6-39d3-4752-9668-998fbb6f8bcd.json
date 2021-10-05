@@ -1,0 +1,13 @@
+{
+  "start":30240,
+  "end":30276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever happens is going to happen.",
+  "id":"030503c6-39d3-4752-9668-998fbb6f8bcd",
+  "params":{
+    "id":"030503c6-39d3-4752-9668-998fbb6f8bcd",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

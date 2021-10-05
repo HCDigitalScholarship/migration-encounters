@@ -1,0 +1,13 @@
+{
+  "start":16761,
+  "end":16807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they come visit you when you were in jail?",
+  "id":"effa04f1-fe05-48f7-823b-0941f139253c",
+  "params":{
+    "id":"effa04f1-fe05-48f7-823b-0941f139253c",
+    "class":"anno"
+  },
+  "name":"Many"
+}

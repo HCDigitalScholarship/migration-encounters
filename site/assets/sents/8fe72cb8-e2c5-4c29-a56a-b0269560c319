@@ -1,0 +1,12 @@
+{
+  "start":21574,
+  "end":21605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, I'm studying architecture.",
+  "id":"8fe72cb8-e2c5-4c29-a56a-b0269560c319",
+  "params":{
+    "id":"24b2e6cf-d375-40d1-8fa2-3efe0c32c636"
+  },
+  "name":"Juan B"
+}

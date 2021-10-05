@@ -1,0 +1,15 @@
+{
+  "start":1989,
+  "end":2168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember since that day I decided not to participate in any\n   program because I know that I was not going to be able because of my\n   immigration status so I make my own goals.",
+  "id":"ec282c9a-14fa-442e-a731-85ec4eb270e7",
+  "params":{
+    "id":"ec282c9a-14fa-442e-a731-85ec4eb270e7",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

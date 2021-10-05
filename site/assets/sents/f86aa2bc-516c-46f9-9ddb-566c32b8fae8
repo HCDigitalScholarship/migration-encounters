@@ -1,0 +1,12 @@
+{
+  "start":4220,
+  "end":4238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I went to jail.",
+  "id":"f86aa2bc-516c-46f9-9ddb-566c32b8fae8",
+  "params":{
+    "id":"03bcdab9-b714-413d-ab85-7eef73bc2474"
+  },
+  "name":"Mike"
+}

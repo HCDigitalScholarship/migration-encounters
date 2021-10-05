@@ -1,0 +1,12 @@
+{
+  "start":31460,
+  "end":31495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you have to give to Mexico?",
+  "id":"a4e5663a-3339-4cfe-aded-b97eaf2c656b",
+  "params":{
+    "id":"2749d810-73f8-4490-9b47-81509bc25c7f"
+  },
+  "name":"Joana"
+}

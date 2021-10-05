@@ -1,0 +1,13 @@
+{
+  "start":7528,
+  "end":7610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's worth migrating if you can do it safely because your life is not\n   worth it.",
+  "id":"564f06e0-4984-4779-ae83-2947ea443b28",
+  "params":{
+    "id":"564f06e0-4984-4779-ae83-2947ea443b28",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

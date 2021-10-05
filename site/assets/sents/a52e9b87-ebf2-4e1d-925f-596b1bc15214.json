@@ -1,0 +1,13 @@
+{
+  "start":9931,
+  "end":9973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I said, \"Okay, do you have a catalog?\"",
+  "id":"a52e9b87-ebf2-4e1d-925f-596b1bc15214",
+  "params":{
+    "id":"a52e9b87-ebf2-4e1d-925f-596b1bc15214",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

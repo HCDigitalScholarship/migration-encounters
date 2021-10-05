@@ -1,0 +1,12 @@
+{
+  "start":16535,
+  "end":16549,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He did hit me.",
+  "id":"63d8ce29-49a0-4f60-a0ae-74d5c08f1e94",
+  "params":{
+    "id":"2985c294-a899-438f-bc11-8c9f562e5abd"
+  },
+  "name":"Roberto"
+}

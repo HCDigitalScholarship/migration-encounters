@@ -1,0 +1,12 @@
+{
+  "start":40744,
+  "end":40765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And how old were you?",
+  "id":"b0678457-638c-40d9-9ea9-3a9f03bc91aa",
+  "params":{
+    "id":"20f7f21c-06f3-431f-99f5-44f3bd15f4cb"
+  },
+  "name":"Mike"
+}

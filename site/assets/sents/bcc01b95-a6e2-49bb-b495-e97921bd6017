@@ -1,0 +1,12 @@
+{
+  "start":11339,
+  "end":11394,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just told my brother to send me\n   money to Guerrero.",
+  "id":"bcc01b95-a6e2-49bb-b495-e97921bd6017",
+  "params":{
+    "id":"10d9dc1b-9733-4414-abdd-3407ee130920"
+  },
+  "name":"Noe"
+}

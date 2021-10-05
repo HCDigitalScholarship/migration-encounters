@@ -1,0 +1,12 @@
+{
+  "start":3072,
+  "end":3113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you said you got married pretty early?",
+  "id":"82b773ec-87e6-4176-a0fb-ef8c40fffcd9",
+  "params":{
+    "id":"6e70aabd-8e3c-489b-8c75-6fad085e4f20"
+  },
+  "name":"Many"
+}

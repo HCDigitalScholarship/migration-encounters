@@ -1,0 +1,13 @@
+{
+  "start":16596,
+  "end":16728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the U.S., you can leave your cellphone anywhere, and\n   even if you lost it, there's a high probability that they will return it.",
+  "id":"b534399f-6212-426b-b61f-20351d5b1f4f",
+  "params":{
+    "id":"b534399f-6212-426b-b61f-20351d5b1f4f",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

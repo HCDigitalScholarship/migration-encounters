@@ -1,0 +1,12 @@
+{
+  "start":10010,
+  "end":10035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was three\n   of us.",
+  "id":"435afa35-05e4-40b6-b9e3-5a228805c25b",
+  "params":{
+    "id":"6fe83b01-1309-4315-87a2-84e133cd1b32"
+  },
+  "name":"Hugo"
+}

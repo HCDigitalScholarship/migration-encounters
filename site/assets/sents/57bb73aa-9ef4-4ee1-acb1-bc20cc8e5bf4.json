@@ -1,0 +1,13 @@
+{
+  "start":76678,
+  "end":76713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're making me hungry for dinner.",
+  "id":"57bb73aa-9ef4-4ee1-acb1-bc20cc8e5bf4",
+  "params":{
+    "id":"57bb73aa-9ef4-4ee1-acb1-bc20cc8e5bf4",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

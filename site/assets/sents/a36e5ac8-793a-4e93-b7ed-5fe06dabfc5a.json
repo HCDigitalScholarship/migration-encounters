@@ -1,0 +1,12 @@
+{
+  "start":41244,
+  "end":41263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you answer?",
+  "id":"a36e5ac8-793a-4e93-b7ed-5fe06dabfc5a",
+  "params":{
+    "id":"7dede9ae-3fa2-4678-a735-31f4983e5c3b"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7211,
+  "end":7286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't mind me asking, you didn't have papers at this time,\n   right?",
+  "id":"be52fc11-3ca0-4a05-b59a-c8dc42abcd69",
+  "params":{
+    "id":"be52fc11-3ca0-4a05-b59a-c8dc42abcd69",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

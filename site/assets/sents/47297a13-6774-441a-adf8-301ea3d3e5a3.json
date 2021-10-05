@@ -1,0 +1,13 @@
+{
+  "start":35671,
+  "end":35683,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm Mexican.",
+  "id":"47297a13-6774-441a-adf8-301ea3d3e5a3",
+  "params":{
+    "id":"47297a13-6774-441a-adf8-301ea3d3e5a3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

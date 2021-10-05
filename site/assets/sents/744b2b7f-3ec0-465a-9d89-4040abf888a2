@@ -1,0 +1,12 @@
+{
+  "start":23773,
+  "end":23897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's say, for every\n   hundred people, at least only two of the people there really are disabled,\n   not able to get a job.",
+  "id":"744b2b7f-3ec0-465a-9d89-4040abf888a2",
+  "params":{
+    "id":"70f9bf08-fbd0-4155-b072-bb674af2fa5f"
+  },
+  "name":"Noe"
+}

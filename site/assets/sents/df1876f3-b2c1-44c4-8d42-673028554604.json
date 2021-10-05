@@ -1,0 +1,13 @@
+{
+  "start":32043,
+  "end":32065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you a sports fan?",
+  "id":"df1876f3-b2c1-44c4-8d42-673028554604",
+  "params":{
+    "id":"df1876f3-b2c1-44c4-8d42-673028554604",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

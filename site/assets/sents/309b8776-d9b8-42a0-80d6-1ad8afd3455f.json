@@ -1,0 +1,13 @@
+{
+  "start":10985,
+  "end":11008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here it's a lot harder.",
+  "id":"309b8776-d9b8-42a0-80d6-1ad8afd3455f",
+  "params":{
+    "id":"309b8776-d9b8-42a0-80d6-1ad8afd3455f",
+    "class":"anno"
+  },
+  "name":"Yosell"
+}

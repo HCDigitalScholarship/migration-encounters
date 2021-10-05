@@ -1,0 +1,13 @@
+{
+  "start":19341,
+  "end":19380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We'll talk about\n   it in the morning.\"",
+  "id":"0bbf8032-8d42-45a3-82e5-67d97ab0d55a",
+  "params":{
+    "id":"0bbf8032-8d42-45a3-82e5-67d97ab0d55a",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

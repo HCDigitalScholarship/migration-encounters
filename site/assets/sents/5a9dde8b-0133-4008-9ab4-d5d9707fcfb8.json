@@ -1,0 +1,13 @@
+{
+  "start":23691,
+  "end":23768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A lot of people think they're just there to take\n   their jobs, but it's not.",
+  "id":"5a9dde8b-0133-4008-9ab4-d5d9707fcfb8",
+  "params":{
+    "id":"5a9dde8b-0133-4008-9ab4-d5d9707fcfb8",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

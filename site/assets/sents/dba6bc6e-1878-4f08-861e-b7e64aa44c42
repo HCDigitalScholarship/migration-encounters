@@ -1,0 +1,12 @@
+{
+  "start":6981,
+  "end":7010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you cross the border?",
+  "id":"dba6bc6e-1878-4f08-861e-b7e64aa44c42",
+  "params":{
+    "id":"3d8045df-dec1-44d2-b14c-5dcecd7b81ab"
+  },
+  "name":"Joana"
+}

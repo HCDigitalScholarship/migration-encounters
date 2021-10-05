@@ -1,0 +1,13 @@
+{
+  "start":8516,
+  "end":8542,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's really nice\n   floor.",
+  "id":"52e44f63-1141-4d8b-9360-838c0dd7989c",
+  "params":{
+    "id":"52e44f63-1141-4d8b-9360-838c0dd7989c",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

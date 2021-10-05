@@ -1,0 +1,12 @@
+{
+  "start":3221,
+  "end":3281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He hasn't moved in 10 years, he's not going\n to move at all.",
+  "id":"4539638d-bed3-4d8a-9853-13da815e2278",
+  "params":{
+    "id":"38640d29-e28e-4ddb-8634-a619f99b60c7"
+  },
+  "name":"Axel"
+}

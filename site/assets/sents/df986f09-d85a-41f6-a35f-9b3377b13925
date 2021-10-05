@@ -1,0 +1,12 @@
+{
+  "start":33688,
+  "end":33725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Because they're cool, man.",
+  "id":"df986f09-d85a-41f6-a35f-9b3377b13925",
+  "params":{
+    "id":"79b0acd7-eb65-4fd5-bbbb-cd7594b6b3ed"
+  },
+  "name":"Mike"
+}

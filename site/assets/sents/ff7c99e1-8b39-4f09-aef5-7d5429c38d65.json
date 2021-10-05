@@ -1,0 +1,13 @@
+{
+  "start":45808,
+  "end":45856,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got all my voluntary departure,\n   everything.",
+  "id":"ff7c99e1-8b39-4f09-aef5-7d5429c38d65",
+  "params":{
+    "id":"ff7c99e1-8b39-4f09-aef5-7d5429c38d65",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

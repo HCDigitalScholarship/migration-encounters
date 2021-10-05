@@ -1,0 +1,13 @@
+{
+  "start":9292,
+  "end":9333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I moved to the biggest city in the world.",
+  "id":"4956891c-f995-40ba-9d26-79dbaf4a5ba4",
+  "params":{
+    "id":"4956891c-f995-40ba-9d26-79dbaf4a5ba4",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

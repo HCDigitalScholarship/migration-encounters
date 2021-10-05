@@ -1,0 +1,12 @@
+{
+  "start":8268,
+  "end":8304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was 15 when I moved to California.",
+  "id":"a1150f70-0806-42c1-b5ab-5f54bc82aa1e",
+  "params":{
+    "id":"7babde9e-5440-477d-b206-f618ae01d574"
+  },
+  "name":"Rodrigo"
+}

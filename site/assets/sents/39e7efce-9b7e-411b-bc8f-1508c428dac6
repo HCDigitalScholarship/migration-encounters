@@ -1,0 +1,12 @@
+{
+  "start":7789,
+  "end":7899,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you feel like you don't have those connections because of the\n   time that your family spent in the States?",
+  "id":"39e7efce-9b7e-411b-bc8f-1508c428dac6",
+  "params":{
+    "id":"5ac55b98-3f5c-4200-9ee8-24ec4eef5905"
+  },
+  "name":"Laila"
+}

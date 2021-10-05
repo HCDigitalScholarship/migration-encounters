@@ -1,0 +1,12 @@
+{
+  "start":12373,
+  "end":12401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you father come to help?",
+  "id":"6cdd28bf-f43b-45af-8bf6-c63d21346d1e",
+  "params":{
+    "id":"f036ae94-d8cb-4e8c-ae87-48dba653d4c7"
+  },
+  "name":"Carlos"
+}

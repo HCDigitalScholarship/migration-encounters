@@ -1,0 +1,13 @@
+{
+  "start":2571,
+  "end":2593,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was really caring.",
+  "id":"29f85f2f-4c40-4044-91bb-5b1d9c27eccc",
+  "params":{
+    "id":"29f85f2f-4c40-4044-91bb-5b1d9c27eccc",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

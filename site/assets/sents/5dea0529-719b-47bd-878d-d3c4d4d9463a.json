@@ -1,0 +1,13 @@
+{
+  "start":234,
+  "end":287,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's underneath Puebla, which is right next\n   to it.",
+  "id":"5dea0529-719b-47bd-878d-d3c4d4d9463a",
+  "params":{
+    "id":"5dea0529-719b-47bd-878d-d3c4d4d9463a",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

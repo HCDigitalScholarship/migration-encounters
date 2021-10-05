@@ -1,0 +1,13 @@
+{
+  "start":62697,
+  "end":62710,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n apartment",
+  "id":"e62210b2-1696-4eae-8fca-5f1d60eb8967",
+  "params":{
+    "id":"e62210b2-1696-4eae-8fca-5f1d60eb8967",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

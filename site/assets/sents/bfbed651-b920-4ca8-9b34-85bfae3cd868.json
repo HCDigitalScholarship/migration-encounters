@@ -1,0 +1,13 @@
+{
+  "start":7456,
+  "end":7481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She worked in the fields?",
+  "id":"bfbed651-b920-4ca8-9b34-85bfae3cd868",
+  "params":{
+    "id":"bfbed651-b920-4ca8-9b34-85bfae3cd868",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

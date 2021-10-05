@@ -1,0 +1,12 @@
+{
+  "start":10645,
+  "end":10681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my hopes are now to stay here.",
+  "id":"7d300eff-edb8-4fcc-84d2-0c4f9fe6a69a",
+  "params":{
+    "id":"4f431e4b-35b8-4f97-bda1-a8d56e0413fe"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29343,
+  "end":29387,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I was really big when I\n   got here.",
+  "id":"8b4290be-21bf-4c67-b17e-d572ffad23f7",
+  "params":{
+    "id":"8b4290be-21bf-4c67-b17e-d572ffad23f7",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

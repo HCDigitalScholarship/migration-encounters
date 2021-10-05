@@ -1,0 +1,12 @@
+{
+  "start":3438,
+  "end":3465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, your dad took you over?",
+  "id":"45c0841b-6a80-495c-9d46-8f172089482a",
+  "params":{
+    "id":"03fa064d-2caf-4cda-82f6-fc5571ca652d"
+  },
+  "name":"Rodrigo"
+}

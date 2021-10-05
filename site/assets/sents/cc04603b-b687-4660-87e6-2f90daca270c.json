@@ -1,0 +1,13 @@
+{
+  "start":32454,
+  "end":32485,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In Minnesota, it was the river.",
+  "id":"cc04603b-b687-4660-87e6-2f90daca270c",
+  "params":{
+    "id":"cc04603b-b687-4660-87e6-2f90daca270c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

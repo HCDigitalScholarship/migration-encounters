@@ -1,0 +1,12 @@
+{
+  "start":10199,
+  "end":10230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, did you finish high school?",
+  "id":"9ee0ff9c-1f74-4b44-bc13-90b54702107e",
+  "params":{
+    "id":"f6f8fdb5-bda4-4476-be38-52846f835aba"
+  },
+  "name":"Laura A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":46433,
+  "end":46476,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you sure, I can run down and grab some?",
+  "id":"e4b39537-1089-4391-a498-38cb649f07fb",
+  "params":{
+    "id":"da8bb7d9-d3ba-409a-81eb-46312b1a343e"
+  },
+  "name":"Cris"
+}

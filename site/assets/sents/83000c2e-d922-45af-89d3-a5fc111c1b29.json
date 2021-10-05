@@ -1,0 +1,15 @@
+{
+  "start":759,
+  "end":808,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because I wanted to learn a little bit more about",
+  "id":"83000c2e-d922-45af-89d3-a5fc111c1b29",
+  "params":{
+    "id":"83000c2e-d922-45af-89d3-a5fc111c1b29",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

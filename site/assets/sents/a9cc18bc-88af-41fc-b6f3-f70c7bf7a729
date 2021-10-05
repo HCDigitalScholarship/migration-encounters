@@ -1,0 +1,12 @@
+{
+  "start":29164,
+  "end":29209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He knows he's American, but he looks Mexican.",
+  "id":"a9cc18bc-88af-41fc-b6f3-f70c7bf7a729",
+  "params":{
+    "id":"818538c9-7a7b-4d53-9392-50293f446d1e"
+  },
+  "name":"Rodrigo"
+}

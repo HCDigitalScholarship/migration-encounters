@@ -1,0 +1,12 @@
+{
+  "start":12565,
+  "end":12600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just, \"Oh, a call\n     center.",
+  "id":"1d6f0145-d389-4316-96e4-02c96c84c46d",
+  "params":{
+    "id":"e480add0-a6af-406e-8a51-1d0d1e28e05f"
+  },
+  "name":"Beto"
+}

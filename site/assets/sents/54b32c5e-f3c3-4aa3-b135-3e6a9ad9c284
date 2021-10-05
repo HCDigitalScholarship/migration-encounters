@@ -1,0 +1,12 @@
+{
+  "start":10220,
+  "end":10246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody started jumping.",
+  "id":"54b32c5e-f3c3-4aa3-b135-3e6a9ad9c284",
+  "params":{
+    "id":"66f291be-6df7-433f-849c-fe13c6b75cf1"
+  },
+  "name":"Daniel B"
+}

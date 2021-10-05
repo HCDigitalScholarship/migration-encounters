@@ -1,0 +1,13 @@
+{
+  "start":20142,
+  "end":20201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   little slap on the wrist it was a real good beating.",
+  "id":"7ed3f0cd-4ded-4bcb-962b-a963fa14a172",
+  "params":{
+    "id":"7ed3f0cd-4ded-4bcb-962b-a963fa14a172",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

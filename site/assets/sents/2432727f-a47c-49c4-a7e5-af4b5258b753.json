@@ -1,0 +1,13 @@
+{
+  "start":44465,
+  "end":44501,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're putting me against the wall.",
+  "id":"2432727f-a47c-49c4-a7e5-af4b5258b753",
+  "params":{
+    "id":"2432727f-a47c-49c4-a7e5-af4b5258b753",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":5530,
+  "end":5546,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Seriously, dude.",
+  "id":"e20d6a82-54d5-41b9-afbc-1f025408e02b",
+  "params":{
+    "id":"f9234171-c5ab-417e-bfd0-9796bd4e2644"
+  },
+  "name":"Billy"
+}

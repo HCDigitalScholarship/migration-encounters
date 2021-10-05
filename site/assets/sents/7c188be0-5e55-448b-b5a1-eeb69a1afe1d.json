@@ -1,0 +1,13 @@
+{
+  "start":21779,
+  "end":21788,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The food.",
+  "id":"7c188be0-5e55-448b-b5a1-eeb69a1afe1d",
+  "params":{
+    "id":"7c188be0-5e55-448b-b5a1-eeb69a1afe1d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

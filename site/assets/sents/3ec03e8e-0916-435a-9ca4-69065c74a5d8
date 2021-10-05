@@ -1,0 +1,12 @@
+{
+  "start":46000,
+  "end":46015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't get it.",
+  "id":"3ec03e8e-0916-435a-9ca4-69065c74a5d8",
+  "params":{
+    "id":"ecd877b2-e7d3-4220-a139-f43f9b4088ff"
+  },
+  "name":"Daniel B"
+}

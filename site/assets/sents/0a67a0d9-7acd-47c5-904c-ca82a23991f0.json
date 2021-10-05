@@ -1,0 +1,13 @@
+{
+  "start":10917,
+  "end":10938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I go, \"Done deal.",
+  "id":"0a67a0d9-7acd-47c5-904c-ca82a23991f0",
+  "params":{
+    "id":"0a67a0d9-7acd-47c5-904c-ca82a23991f0",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

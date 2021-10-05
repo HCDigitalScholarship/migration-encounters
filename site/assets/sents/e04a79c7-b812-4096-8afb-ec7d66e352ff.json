@@ -1,0 +1,13 @@
+{
+  "start":29880,
+  "end":29986,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And, since I was learning fast, I was getting jumped\n     into groups that were a lot more expert than me.",
+  "id":"e04a79c7-b812-4096-8afb-ec7d66e352ff",
+  "params":{
+    "id":"e04a79c7-b812-4096-8afb-ec7d66e352ff",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

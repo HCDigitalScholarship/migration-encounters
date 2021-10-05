@@ -1,0 +1,12 @@
+{
+  "start":33600,
+  "end":33624,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think it's fair.",
+  "id":"045a2b30-ab3d-4edf-9be9-3b95a66ece24",
+  "params":{
+    "id":"7fabf2f6-38d9-422a-af47-3ccdb83d3d4c"
+  },
+  "name":"Joana"
+}

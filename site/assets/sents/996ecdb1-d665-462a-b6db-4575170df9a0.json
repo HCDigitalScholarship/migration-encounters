@@ -1,0 +1,13 @@
+{
+  "start":25594,
+  "end":25610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My Spanish is...",
+  "id":"996ecdb1-d665-462a-b6db-4575170df9a0",
+  "params":{
+    "id":"996ecdb1-d665-462a-b6db-4575170df9a0",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

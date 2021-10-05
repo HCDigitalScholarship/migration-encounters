@@ -1,0 +1,13 @@
+{
+  "start":51778,
+  "end":51821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n bad guy because a little baby got hurt",
+  "id":"69c5f661-c73d-4163-b25a-30be1ddb7f07",
+  "params":{
+    "id":"69c5f661-c73d-4163-b25a-30be1ddb7f07",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

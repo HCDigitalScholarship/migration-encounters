@@ -1,0 +1,13 @@
+{
+  "start":22312,
+  "end":22369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean I was kind of dumb because I could've seeked help.",
+  "id":"380aff0a-5d64-4cbc-910c-60578da7a91a",
+  "params":{
+    "id":"380aff0a-5d64-4cbc-910c-60578da7a91a",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

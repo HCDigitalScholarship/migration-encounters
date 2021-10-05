@@ -1,0 +1,13 @@
+{
+  "start":10520,
+  "end":10563,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d You know, so it's pretty\n   rough for me.",
+  "id":"b0e3a695-7d40-411d-831e-eeb0fda327ee",
+  "params":{
+    "id":"b0e3a695-7d40-411d-831e-eeb0fda327ee",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

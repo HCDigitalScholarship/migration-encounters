@@ -1,0 +1,12 @@
+{
+  "start":22749,
+  "end":22819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when an agent\n   tries to do everything, it's because he's trying.",
+  "id":"7e782cc4-980d-4dbd-9654-58e1f7c1c6ee",
+  "params":{
+    "id":"fe2c651c-bc31-4327-9bd0-55bd116a3757"
+  },
+  "name":"Rodrigo"
+}

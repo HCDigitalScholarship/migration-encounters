@@ -1,0 +1,12 @@
+{
+  "start":21020,
+  "end":21051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Beto:\n \n \n     Oh, the lasagna.",
+  "id":"97a60cf5-1e6d-4af3-aaa1-d01d44e467a1",
+  "params":{
+    "id":"8511f41a-8cf9-4c11-aeeb-8793f111e6d8"
+  },
+  "name":"Beto"
+}

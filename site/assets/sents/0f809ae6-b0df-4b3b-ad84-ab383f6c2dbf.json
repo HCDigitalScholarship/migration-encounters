@@ -1,0 +1,13 @@
+{
+  "start":28875,
+  "end":28969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Yes, Jesus Christ will heal you, but take\n   your medicine, take care of yourself.\"",
+  "id":"0f809ae6-b0df-4b3b-ad84-ab383f6c2dbf",
+  "params":{
+    "id":"0f809ae6-b0df-4b3b-ad84-ab383f6c2dbf",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

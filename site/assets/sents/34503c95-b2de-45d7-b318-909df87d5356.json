@@ -1,0 +1,13 @@
+{
+  "start":36086,
+  "end":36113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I was trying to ...",
+  "id":"34503c95-b2de-45d7-b318-909df87d5356",
+  "params":{
+    "id":"34503c95-b2de-45d7-b318-909df87d5356",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

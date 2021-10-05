@@ -1,0 +1,12 @@
+{
+  "start":9327,
+  "end":9393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most people just\n   don't like hearing that you are not a citizen.",
+  "id":"9522fef6-41d3-4c6c-b700-a789ac4364a0",
+  "params":{
+    "id":"f674d03d-540f-4830-a7f5-7ac3cbe4a15a"
+  },
+  "name":"Luis B"
+}

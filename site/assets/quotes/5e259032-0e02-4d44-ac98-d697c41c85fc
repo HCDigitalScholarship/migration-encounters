@@ -1,0 +1,13 @@
+{
+  "id":"5e259032-0e02-4d44-ac98-d697c41c85fc",
+  "type":"text",
+  "start":32440,
+  "end":32461,
+  "label":"TYPO",
+  "params":{
+    "id":"5e259032-0e02-4d44-ac98-d697c41c85fc",
+    "class":"anno"
+  },
+  "name":"Ilse",
+  "text":"joder a las personas."
+}

@@ -1,0 +1,12 @@
+{
+  "start":18133,
+  "end":18165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Juvie, yeah.\n \n \n   Edgar:",
+  "id":"db0d3bf6-2550-47c2-a178-10c90e50a27e",
+  "params":{
+    "id":"34400531-fd8a-4b9c-b146-74995718b1a4"
+  },
+  "name":"Edgar"
+}

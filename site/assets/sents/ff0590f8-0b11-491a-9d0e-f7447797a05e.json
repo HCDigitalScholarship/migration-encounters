@@ -1,0 +1,13 @@
+{
+  "start":11568,
+  "end":11586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got out on bond.",
+  "id":"ff0590f8-0b11-491a-9d0e-f7447797a05e",
+  "params":{
+    "id":"ff0590f8-0b11-491a-9d0e-f7447797a05e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

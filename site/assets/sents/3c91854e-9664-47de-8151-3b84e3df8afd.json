@@ -1,0 +1,13 @@
+{
+  "start":27535,
+  "end":27562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This one was the first one.",
+  "id":"3c91854e-9664-47de-8151-3b84e3df8afd",
+  "params":{
+    "id":"3c91854e-9664-47de-8151-3b84e3df8afd",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

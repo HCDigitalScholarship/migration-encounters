@@ -1,0 +1,13 @@
+{
+  "start":45014,
+  "end":45067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You either going\n   to jail or to fight it, the case.",
+  "id":"5079675b-72a6-4f03-a0b8-a7002145a26e",
+  "params":{
+    "id":"5079675b-72a6-4f03-a0b8-a7002145a26e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

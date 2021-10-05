@@ -1,0 +1,12 @@
+{
+  "start":11837,
+  "end":11866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Diana: At the factories, yes.",
+  "id":"9b6913f6-32a3-4b33-9eda-30a970b35fbd",
+  "params":{
+    "id":"f2fb47bb-7775-4880-8344-dc8685747710"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30416,
+  "end":30451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the sucky thing\n   about it.",
+  "id":"30418d8c-2ddd-4838-a4f6-80d7ffeb1a5b",
+  "params":{
+    "id":"30418d8c-2ddd-4838-a4f6-80d7ffeb1a5b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

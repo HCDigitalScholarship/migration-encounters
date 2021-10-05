@@ -1,0 +1,13 @@
+{
+  "start":10421,
+  "end":10454,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They pulled me over, searched me.",
+  "id":"abe4a850-ca8a-4bdf-b9c7-9cf9a07e9855",
+  "params":{
+    "id":"abe4a850-ca8a-4bdf-b9c7-9cf9a07e9855",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

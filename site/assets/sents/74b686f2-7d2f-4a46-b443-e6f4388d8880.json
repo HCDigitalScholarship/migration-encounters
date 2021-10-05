@@ -1,0 +1,13 @@
+{
+  "start":54567,
+  "end":54589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I turned myself in.",
+  "id":"74b686f2-7d2f-4a46-b443-e6f4388d8880",
+  "params":{
+    "id":"74b686f2-7d2f-4a46-b443-e6f4388d8880",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

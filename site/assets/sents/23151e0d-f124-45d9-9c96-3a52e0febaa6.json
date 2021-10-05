@@ -1,0 +1,13 @@
+{
+  "start":2503,
+  "end":2535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, the streets called us a lot.",
+  "id":"23151e0d-f124-45d9-9c96-3a52e0febaa6",
+  "params":{
+    "id":"23151e0d-f124-45d9-9c96-3a52e0febaa6",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

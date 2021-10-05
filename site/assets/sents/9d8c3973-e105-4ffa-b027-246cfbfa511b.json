@@ -1,0 +1,12 @@
+{
+  "start":37548,
+  "end":37577,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were talking about drugs.",
+  "id":"9d8c3973-e105-4ffa-b027-246cfbfa511b",
+  "params":{
+    "id":"0f4eaba8-3bce-4d2a-95cb-99d46b433cdc"
+  },
+  "name":"Mike"
+}

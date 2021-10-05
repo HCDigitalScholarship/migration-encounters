@@ -1,0 +1,13 @@
+{
+  "start":30863,
+  "end":30885,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I also loved fighting.",
+  "id":"632071ed-844c-4f32-b191-84a82b6899cb",
+  "params":{
+    "id":"632071ed-844c-4f32-b191-84a82b6899cb",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

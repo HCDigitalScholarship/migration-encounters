@@ -1,0 +1,13 @@
+{
+  "start":3057,
+  "end":3108,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's where my\n   mom actually came to pick us up.",
+  "id":"da2c122b-183c-4ed5-94bf-1d1fc461afd3",
+  "params":{
+    "id":"da2c122b-183c-4ed5-94bf-1d1fc461afd3",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

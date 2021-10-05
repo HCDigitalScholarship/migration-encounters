@@ -1,0 +1,12 @@
+{
+  "start":12387,
+  "end":12416,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This doesn't make any sense.\"",
+  "id":"1e3408df-6bcd-44a9-be58-48cb7814fbaa",
+  "params":{
+    "id":"5a38b810-7ccd-4816-ac31-1e159f97b45d"
+  },
+  "name":"Billy"
+}

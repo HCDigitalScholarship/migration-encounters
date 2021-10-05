@@ -1,0 +1,13 @@
+{
+  "start":23130,
+  "end":23190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you were back in the States, you said you had two cars.",
+  "id":"cdcda9cc-f513-4a95-a0a8-e210ed1026d5",
+  "params":{
+    "id":"cdcda9cc-f513-4a95-a0a8-e210ed1026d5",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

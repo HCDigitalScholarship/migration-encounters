@@ -1,0 +1,13 @@
+{
+  "start":26372,
+  "end":26397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where are you working now",
+  "id":"65f32f9d-5273-48d0-946c-163796324bdb",
+  "params":{
+    "id":"65f32f9d-5273-48d0-946c-163796324bdb",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

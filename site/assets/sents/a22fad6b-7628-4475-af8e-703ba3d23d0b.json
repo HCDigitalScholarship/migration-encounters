@@ -1,0 +1,13 @@
+{
+  "start":9998,
+  "end":10096,
+  "label":"SENT",
+  "type":"sent",
+  "text":"By then, I knew where the hardware stores were, the\n   outlets, and they will give me a good rate.",
+  "id":"a22fad6b-7628-4475-af8e-703ba3d23d0b",
+  "params":{
+    "id":"a22fad6b-7628-4475-af8e-703ba3d23d0b",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

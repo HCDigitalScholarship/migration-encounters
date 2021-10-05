@@ -1,0 +1,13 @@
+{
+  "start":4318,
+  "end":4341,
+  "label":"SENT",
+  "type":"sent",
+  "text":"it\n   smelled horrible.",
+  "id":"563dc83c-2809-4d7e-86e0-36609fb2605e",
+  "params":{
+    "id":"563dc83c-2809-4d7e-86e0-36609fb2605e",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

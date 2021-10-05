@@ -1,0 +1,12 @@
+{
+  "start":4080,
+  "end":4086,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right.",
+  "id":"a279770b-2c9d-4b61-9d3d-fda67f2be626",
+  "params":{
+    "id":"5d19d2d2-5e16-4f03-aa6a-8952701cd437"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24765,
+  "end":24813,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They never spoke Spanish, it was always English.",
+  "id":"e64b2986-4636-48e1-aaf1-430b92b69553",
+  "params":{
+    "id":"e64b2986-4636-48e1-aaf1-430b92b69553",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

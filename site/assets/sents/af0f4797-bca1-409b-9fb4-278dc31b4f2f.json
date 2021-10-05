@@ -1,0 +1,13 @@
+{
+  "start":10545,
+  "end":10596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And if I did go, I wouldn't\n   have that much time.",
+  "id":"af0f4797-bca1-409b-9fb4-278dc31b4f2f",
+  "params":{
+    "id":"af0f4797-bca1-409b-9fb4-278dc31b4f2f",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

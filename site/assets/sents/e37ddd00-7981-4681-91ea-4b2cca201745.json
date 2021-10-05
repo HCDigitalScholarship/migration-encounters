@@ -1,0 +1,13 @@
+{
+  "start":10293,
+  "end":10360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mi esposo trabajaba para este hombre que fue el\n     que nos llev\u00f3.",
+  "id":"e37ddd00-7981-4681-91ea-4b2cca201745",
+  "params":{
+    "id":"e37ddd00-7981-4681-91ea-4b2cca201745",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

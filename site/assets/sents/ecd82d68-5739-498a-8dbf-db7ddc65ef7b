@@ -1,0 +1,12 @@
+{
+  "start":23415,
+  "end":23465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Joana: More American because I grew up in America.",
+  "id":"ecd82d68-5739-498a-8dbf-db7ddc65ef7b",
+  "params":{
+    "id":"ed27fd50-7678-48f7-97c0-e4153c08d085"
+  },
+  "name":"Joana"
+}

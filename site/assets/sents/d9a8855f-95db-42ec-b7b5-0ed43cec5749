@@ -1,0 +1,12 @@
+{
+  "start":18536,
+  "end":18561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old is your kid here?",
+  "id":"d9a8855f-95db-42ec-b7b5-0ed43cec5749",
+  "params":{
+    "id":"62b20668-5f88-45dd-8931-8c6ac5aac594"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24114,
+  "end":24217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said,\n   \"If I cannot find something wrong with you right now, you will be released\n   in 48 hours.\"",
+  "id":"92f1a31d-d54a-45eb-b998-92008377a586",
+  "params":{
+    "id":"92f1a31d-d54a-45eb-b998-92008377a586",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

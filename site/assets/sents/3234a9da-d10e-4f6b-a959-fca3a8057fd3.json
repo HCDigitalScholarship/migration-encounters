@@ -1,0 +1,13 @@
+{
+  "start":25862,
+  "end":25932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those are the things that a lot of people don't know how to\n   handle.",
+  "id":"3234a9da-d10e-4f6b-a959-fca3a8057fd3",
+  "params":{
+    "id":"3234a9da-d10e-4f6b-a959-fca3a8057fd3",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

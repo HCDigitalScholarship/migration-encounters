@@ -1,0 +1,13 @@
+{
+  "start":10089,
+  "end":10123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And when did you start doing that?",
+  "id":"3be4d05f-fcfe-4829-a038-46d37c3b8ff8",
+  "params":{
+    "id":"3be4d05f-fcfe-4829-a038-46d37c3b8ff8",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

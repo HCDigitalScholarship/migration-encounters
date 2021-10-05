@@ -1,0 +1,13 @@
+{
+  "start":7834,
+  "end":7881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"South\n   Dakota, where Custer\u2019s Last Stand was.",
+  "id":"8900d34c-1ef0-4bcc-9a08-018a513417e9",
+  "params":{
+    "id":"8900d34c-1ef0-4bcc-9a08-018a513417e9",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

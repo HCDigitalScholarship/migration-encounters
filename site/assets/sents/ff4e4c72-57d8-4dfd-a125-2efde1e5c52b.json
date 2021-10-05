@@ -1,0 +1,13 @@
+{
+  "start":16262,
+  "end":16288,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That one changed me a lot.",
+  "id":"ff4e4c72-57d8-4dfd-a125-2efde1e5c52b",
+  "params":{
+    "id":"ff4e4c72-57d8-4dfd-a125-2efde1e5c52b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

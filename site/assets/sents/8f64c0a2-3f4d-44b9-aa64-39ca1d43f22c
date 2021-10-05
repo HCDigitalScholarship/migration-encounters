@@ -1,0 +1,12 @@
+{
+  "start":23591,
+  "end":23613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm trying to go back.",
+  "id":"8f64c0a2-3f4d-44b9-aa64-39ca1d43f22c",
+  "params":{
+    "id":"be435998-f030-4c12-a13a-bf8cfa9a3a06"
+  },
+  "name":"Edgar"
+}

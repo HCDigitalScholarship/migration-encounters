@@ -1,0 +1,13 @@
+{
+  "start":8586,
+  "end":8631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I did that when I was in jail in Arizona.",
+  "id":"18d23be2-3ea5-47a2-8700-81f457c3ec37",
+  "params":{
+    "id":"18d23be2-3ea5-47a2-8700-81f457c3ec37",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

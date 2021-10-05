@@ -1,0 +1,12 @@
+{
+  "start":9107,
+  "end":9259,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to go back and say, \"Yes ma'am,\n     let's go ahead and verify what the issue is, and I'd be more than glad to\n     help you out with whatever.",
+  "id":"e9afcfe0-c4b1-424a-9a41-ba50eed1f540",
+  "params":{
+    "id":"01c2b83b-5012-4615-98e4-1fc6aac76151"
+  },
+  "name":"Beto"
+}

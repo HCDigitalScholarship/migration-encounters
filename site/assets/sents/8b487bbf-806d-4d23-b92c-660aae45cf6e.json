@@ -1,0 +1,13 @@
+{
+  "start":7405,
+  "end":7409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Noe:",
+  "id":"8b487bbf-806d-4d23-b92c-660aae45cf6e",
+  "params":{
+    "id":"8b487bbf-806d-4d23-b92c-660aae45cf6e",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

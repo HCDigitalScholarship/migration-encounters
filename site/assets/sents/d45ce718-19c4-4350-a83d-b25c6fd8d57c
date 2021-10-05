@@ -1,0 +1,12 @@
+{
+  "start":16986,
+  "end":17024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everybody knows\n   that, so you do it.",
+  "id":"d45ce718-19c4-4350-a83d-b25c6fd8d57c",
+  "params":{
+    "id":"b7f52f62-8da8-46a4-9c45-258871703e2f"
+  },
+  "name":"Diana"
+}

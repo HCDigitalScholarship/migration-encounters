@@ -1,0 +1,13 @@
+{
+  "start":30963,
+  "end":30984,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those are your kids?\"",
+  "id":"9fd7e763-79d3-48d6-9a7f-2a6e4683aa85",
+  "params":{
+    "id":"9fd7e763-79d3-48d6-9a7f-2a6e4683aa85",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

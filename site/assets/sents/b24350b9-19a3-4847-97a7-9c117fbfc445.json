@@ -1,0 +1,13 @@
+{
+  "start":12837,
+  "end":12863,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's\n   like, \"All right.\"",
+  "id":"b24350b9-19a3-4847-97a7-9c117fbfc445",
+  "params":{
+    "id":"b24350b9-19a3-4847-97a7-9c117fbfc445",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

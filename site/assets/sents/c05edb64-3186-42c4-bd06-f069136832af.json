@@ -1,0 +1,12 @@
+{
+  "start":1234,
+  "end":1274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I just had to\n   choose between them.",
+  "id":"c05edb64-3186-42c4-bd06-f069136832af",
+  "params":{
+    "id":"db6c6430-c638-48b7-bae3-67d2b60690f3"
+  },
+  "name":"Luis B"
+}

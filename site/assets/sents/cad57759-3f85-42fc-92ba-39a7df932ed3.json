@@ -1,0 +1,13 @@
+{
+  "start":31132,
+  "end":31181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I held her, she was facing the wall, she\n bit me.",
+  "id":"cad57759-3f85-42fc-92ba-39a7df932ed3",
+  "params":{
+    "id":"cad57759-3f85-42fc-92ba-39a7df932ed3",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

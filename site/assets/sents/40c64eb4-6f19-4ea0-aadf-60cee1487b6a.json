@@ -1,0 +1,13 @@
+{
+  "start":30829,
+  "end":30928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And now they're\n   saying, \u201cOh it just tastes like garlic.\u201d \u201cThat's what fried rice tastes\n   like!",
+  "id":"40c64eb4-6f19-4ea0-aadf-60cee1487b6a",
+  "params":{
+    "id":"40c64eb4-6f19-4ea0-aadf-60cee1487b6a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

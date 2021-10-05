@@ -1,0 +1,12 @@
+{
+  "start":28007,
+  "end":28071,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you think going to the United States and living there for ...",
+  "id":"dc10dbf9-7bd1-4a1b-9d9c-1d6a7960c965",
+  "params":{
+    "id":"c01e4c49-551e-490e-b1ad-523028d0f7e0"
+  },
+  "name":"Yair"
+}

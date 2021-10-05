@@ -1,0 +1,12 @@
+{
+  "start":32839,
+  "end":32878,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can call me whatever you want miha.",
+  "id":"bd36550f-e8ff-4e75-9505-64093d47b48a",
+  "params":{
+    "id":"856533c7-43e0-4476-9943-b22eb06f3e8e"
+  },
+  "name":"Hugo"
+}

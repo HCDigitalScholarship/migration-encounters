@@ -1,0 +1,13 @@
+{
+  "start":25581,
+  "end":25613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you feel Mexican or American?",
+  "id":"548222bb-e15a-483e-b721-d4ec7e59ab79",
+  "params":{
+    "id":"548222bb-e15a-483e-b721-d4ec7e59ab79",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

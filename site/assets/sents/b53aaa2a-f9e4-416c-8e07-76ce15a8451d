@@ -1,0 +1,12 @@
+{
+  "start":20922,
+  "end":20969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was watching him and he was looking\n   at me.",
+  "id":"b53aaa2a-f9e4-416c-8e07-76ce15a8451d",
+  "params":{
+    "id":"09ea03ba-9942-40d6-a5a8-e02df3181c17"
+  },
+  "name":"Many"
+}

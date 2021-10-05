@@ -1,0 +1,13 @@
+{
+  "start":8166,
+  "end":8188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She had a miscarriage.",
+  "id":"e42738f7-ef22-457b-b115-7d873f25eb43",
+  "params":{
+    "id":"e42738f7-ef22-457b-b115-7d873f25eb43",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

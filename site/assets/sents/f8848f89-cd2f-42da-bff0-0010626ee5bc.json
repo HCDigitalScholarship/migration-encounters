@@ -1,0 +1,13 @@
+{
+  "start":17265,
+  "end":17282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you?",
+  "id":"f8848f89-cd2f-42da-bff0-0010626ee5bc",
+  "params":{
+    "id":"f8848f89-cd2f-42da-bff0-0010626ee5bc",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

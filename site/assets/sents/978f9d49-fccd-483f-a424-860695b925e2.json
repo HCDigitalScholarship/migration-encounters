@@ -1,0 +1,13 @@
+{
+  "start":34326,
+  "end":34349,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got a lot of stories.",
+  "id":"978f9d49-fccd-483f-a424-860695b925e2",
+  "params":{
+    "id":"978f9d49-fccd-483f-a424-860695b925e2",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

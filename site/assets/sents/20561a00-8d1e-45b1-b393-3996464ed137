@@ -1,0 +1,12 @@
+{
+  "start":9160,
+  "end":9192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He really loves\n Westerns, yeah.",
+  "id":"20561a00-8d1e-45b1-b393-3996464ed137",
+  "params":{
+    "id":"350b1084-26ff-45bc-8498-943d19baa85c"
+  },
+  "name":"Billy"
+}

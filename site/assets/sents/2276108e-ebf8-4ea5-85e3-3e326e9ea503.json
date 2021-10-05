@@ -1,0 +1,13 @@
+{
+  "start":9742,
+  "end":9800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maria: El de los pollos el de la collera.\n \n <br/>\n \n     ",
+  "id":"2276108e-ebf8-4ea5-85e3-3e326e9ea503",
+  "params":{
+    "id":"2276108e-ebf8-4ea5-85e3-3e326e9ea503",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

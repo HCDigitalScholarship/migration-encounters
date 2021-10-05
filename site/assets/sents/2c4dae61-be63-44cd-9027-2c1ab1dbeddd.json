@@ -1,0 +1,13 @@
+{
+  "start":38937,
+  "end":38995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo todo ese dinero lo iba guardando; nunca lo met\u00ed a casa.",
+  "id":"2c4dae61-be63-44cd-9027-2c1ab1dbeddd",
+  "params":{
+    "id":"2c4dae61-be63-44cd-9027-2c1ab1dbeddd",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

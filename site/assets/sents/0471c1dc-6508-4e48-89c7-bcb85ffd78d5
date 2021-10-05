@@ -1,0 +1,12 @@
+{
+  "start":24969,
+  "end":24985,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a bad\n   person.",
+  "id":"0471c1dc-6508-4e48-89c7-bcb85ffd78d5",
+  "params":{
+    "id":"1669f45c-b3a5-423e-887e-c6ed904df053"
+  },
+  "name":"Ilse"
+}

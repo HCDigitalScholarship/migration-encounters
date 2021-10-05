@@ -1,0 +1,13 @@
+{
+  "start":16652,
+  "end":16677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got to work every day.",
+  "id":"e09d85c3-4b00-4f1e-a40c-f95aea51d5bb",
+  "params":{
+    "id":"e09d85c3-4b00-4f1e-a40c-f95aea51d5bb",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

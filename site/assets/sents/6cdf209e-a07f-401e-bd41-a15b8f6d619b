@@ -1,0 +1,12 @@
+{
+  "start":39999,
+  "end":40054,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's just a\n   waste of talent right there, you know?",
+  "id":"6cdf209e-a07f-401e-bd41-a15b8f6d619b",
+  "params":{
+    "id":"623f8f08-7c73-4a8f-b20d-08b253f4227d"
+  },
+  "name":"Luis A"
+}

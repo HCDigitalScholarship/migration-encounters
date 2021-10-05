@@ -1,0 +1,12 @@
+{
+  "start":3102,
+  "end":3113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The bridge?",
+  "id":"01f84b20-cba1-4e5b-8ab2-635a1160232c",
+  "params":{
+    "id":"e2c14aca-39f8-41e3-bc11-892c3c435fb2"
+  },
+  "name":"Jose"
+}

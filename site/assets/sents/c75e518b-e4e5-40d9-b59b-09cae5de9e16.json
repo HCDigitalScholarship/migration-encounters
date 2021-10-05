@@ -1,0 +1,13 @@
+{
+  "start":15383,
+  "end":15404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did you drop out?",
+  "id":"c75e518b-e4e5-40d9-b59b-09cae5de9e16",
+  "params":{
+    "id":"c75e518b-e4e5-40d9-b59b-09cae5de9e16",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":15305,
+  "end":15329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were renting a house.",
+  "id":"5c5e43f2-4b10-4fea-8c58-552c66a76b95",
+  "params":{
+    "id":"cdbc85cf-a261-45c1-8314-c4426952ac7d"
+  },
+  "name":"Edgar"
+}

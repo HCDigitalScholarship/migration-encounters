@@ -1,0 +1,13 @@
+{
+  "start":15041,
+  "end":15062,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They take me to jail.",
+  "id":"0fd7a169-0615-4e3c-88aa-9e1c6c4a3fae",
+  "params":{
+    "id":"0fd7a169-0615-4e3c-88aa-9e1c6c4a3fae",
+    "class":"anno"
+  },
+  "name":"Many"
+}

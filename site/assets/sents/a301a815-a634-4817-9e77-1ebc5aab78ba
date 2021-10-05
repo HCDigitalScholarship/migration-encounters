@@ -1,0 +1,12 @@
+{
+  "start":9672,
+  "end":9797,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: We stayed with them for a couple of days, and then they flew us back\n   to Arizona where my mom was staying at.",
+  "id":"a301a815-a634-4817-9e77-1ebc5aab78ba",
+  "params":{
+    "id":"b1c85cad-84a5-455e-b9f1-bcdc04c28b5d"
+  },
+  "name":"Mike"
+}

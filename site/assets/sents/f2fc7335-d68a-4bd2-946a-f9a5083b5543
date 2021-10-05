@@ -1,0 +1,12 @@
+{
+  "start":3059,
+  "end":3119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to\n go back and start and be behind the class.",
+  "id":"f2fc7335-d68a-4bd2-946a-f9a5083b5543",
+  "params":{
+    "id":"ca4a7ee9-6af3-4f34-85e6-6639c262469a"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":39552,
+  "end":39568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was deported?",
+  "id":"dd0889f2-5c9d-43c6-9619-dd697a3d9d21",
+  "params":{
+    "id":"dd0889f2-5c9d-43c6-9619-dd697a3d9d21",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

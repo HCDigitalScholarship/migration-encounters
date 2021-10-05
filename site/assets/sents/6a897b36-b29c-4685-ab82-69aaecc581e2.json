@@ -1,0 +1,13 @@
+{
+  "start":17661,
+  "end":17705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's some buffets over there that I like.",
+  "id":"6a897b36-b29c-4685-ab82-69aaecc581e2",
+  "params":{
+    "id":"6a897b36-b29c-4685-ab82-69aaecc581e2",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

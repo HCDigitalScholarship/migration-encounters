@@ -1,0 +1,12 @@
+{
+  "start":42495,
+  "end":42547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Well, this is one step,\n   no, towards \u2013.",
+  "id":"5736c08f-bd38-4826-9264-3d5ec6263ee3",
+  "params":{
+    "id":"0ae61724-a971-4efc-a0a6-44ae9378696a"
+  },
+  "name":"Rodrigo"
+}

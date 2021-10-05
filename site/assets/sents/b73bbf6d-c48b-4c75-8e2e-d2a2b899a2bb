@@ -1,0 +1,12 @@
+{
+  "start":26556,
+  "end":26573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is that job?",
+  "id":"b73bbf6d-c48b-4c75-8e2e-d2a2b899a2bb",
+  "params":{
+    "id":"c2e887b1-0b27-46c5-8371-7a6d9fd3da31"
+  },
+  "name":"Carlos"
+}

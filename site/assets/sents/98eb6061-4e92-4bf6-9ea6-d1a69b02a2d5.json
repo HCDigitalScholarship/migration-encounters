@@ -1,0 +1,13 @@
+{
+  "start":9001,
+  "end":9023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you then?",
+  "id":"98eb6061-4e92-4bf6-9ea6-d1a69b02a2d5",
+  "params":{
+    "id":"98eb6061-4e92-4bf6-9ea6-d1a69b02a2d5",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

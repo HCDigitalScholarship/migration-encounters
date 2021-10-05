@@ -1,0 +1,13 @@
+{
+  "start":6514,
+  "end":6531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: What age.",
+  "id":"da2f6e95-9004-4c3a-9327-e9a47047d40d",
+  "params":{
+    "id":"da2f6e95-9004-4c3a-9327-e9a47047d40d",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

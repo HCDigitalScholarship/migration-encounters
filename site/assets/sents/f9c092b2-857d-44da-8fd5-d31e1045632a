@@ -1,0 +1,12 @@
+{
+  "start":75152,
+  "end":75167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love cooking.",
+  "id":"f9c092b2-857d-44da-8fd5-d31e1045632a",
+  "params":{
+    "id":"300acd89-a123-4399-9197-0784c9c43ece"
+  },
+  "name":"Cris"
+}

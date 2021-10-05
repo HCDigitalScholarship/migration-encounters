@@ -1,0 +1,12 @@
+{
+  "start":30233,
+  "end":30255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I respect what you do.",
+  "id":"866bc946-e26c-4f59-9e6f-4a1a70d7f16d",
+  "params":{
+    "id":"82450f26-0aa3-45f8-bbb6-2520fd8813e0"
+  },
+  "name":"Daniel"
+}

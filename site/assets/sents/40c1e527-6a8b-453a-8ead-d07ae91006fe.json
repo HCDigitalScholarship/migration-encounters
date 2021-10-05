@@ -1,0 +1,13 @@
+{
+  "start":16230,
+  "end":16260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was really proud of me.",
+  "id":"40c1e527-6a8b-453a-8ead-d07ae91006fe",
+  "params":{
+    "id":"40c1e527-6a8b-453a-8ead-d07ae91006fe",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25000,
+  "end":25038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need to look at the\n   background.",
+  "id":"edc71345-6f1c-4c13-9015-68813898ef07",
+  "params":{
+    "id":"bdd83cca-1403-4d7b-9a15-32977fd95932"
+  },
+  "name":"Olimpya"
+}

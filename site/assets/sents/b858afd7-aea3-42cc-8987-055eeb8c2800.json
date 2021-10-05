@@ -1,0 +1,13 @@
+{
+  "start":32376,
+  "end":32448,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   helped me study and everything, so that wasn't a problem at all.",
+  "id":"b858afd7-aea3-42cc-8987-055eeb8c2800",
+  "params":{
+    "id":"b858afd7-aea3-42cc-8987-055eeb8c2800",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

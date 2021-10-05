@@ -1,0 +1,13 @@
+{
+  "start":25904,
+  "end":25960,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not like I'm going to\n   go and make bad decisions.",
+  "id":"5103f423-67ad-44d2-9a7e-0d39d57fe2ca",
+  "params":{
+    "id":"5103f423-67ad-44d2-9a7e-0d39d57fe2ca",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

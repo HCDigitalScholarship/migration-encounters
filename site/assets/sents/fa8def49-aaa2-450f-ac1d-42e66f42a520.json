@@ -1,0 +1,13 @@
+{
+  "start":41223,
+  "end":41280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not everybody, of course, but most of the people do that.",
+  "id":"fa8def49-aaa2-450f-ac1d-42e66f42a520",
+  "params":{
+    "id":"fa8def49-aaa2-450f-ac1d-42e66f42a520",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

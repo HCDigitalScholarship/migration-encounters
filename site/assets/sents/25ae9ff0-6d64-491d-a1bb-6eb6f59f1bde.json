@@ -1,0 +1,13 @@
+{
+  "start":11157,
+  "end":11175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad visited me.",
+  "id":"25ae9ff0-6d64-491d-a1bb-6eb6f59f1bde",
+  "params":{
+    "id":"25ae9ff0-6d64-491d-a1bb-6eb6f59f1bde",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

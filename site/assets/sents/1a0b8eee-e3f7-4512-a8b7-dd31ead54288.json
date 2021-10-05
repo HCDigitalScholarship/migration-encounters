@@ -1,0 +1,13 @@
+{
+  "start":20320,
+  "end":20451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know a father, or maybe there are some cases, but I don't\n   know of a father that wouldn't like to be with their children.",
+  "id":"1a0b8eee-e3f7-4512-a8b7-dd31ead54288",
+  "params":{
+    "id":"1a0b8eee-e3f7-4512-a8b7-dd31ead54288",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

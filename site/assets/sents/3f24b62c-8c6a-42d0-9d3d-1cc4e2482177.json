@@ -1,0 +1,13 @@
+{
+  "start":11,
+  "end":53,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you left for the US?",
+  "id":"3f24b62c-8c6a-42d0-9d3d-1cc4e2482177",
+  "params":{
+    "id":"3f24b62c-8c6a-42d0-9d3d-1cc4e2482177",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20465,
+  "end":20516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You never got expelled from a school in the States?",
+  "id":"0b82fdc3-df2b-465b-b1db-cb92b5a4f29f",
+  "params":{
+    "id":"0b82fdc3-df2b-465b-b1db-cb92b5a4f29f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

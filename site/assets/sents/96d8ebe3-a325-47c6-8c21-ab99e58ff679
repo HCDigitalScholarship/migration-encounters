@@ -1,0 +1,12 @@
+{
+  "start":23211,
+  "end":23230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: The graffiti?",
+  "id":"96d8ebe3-a325-47c6-8c21-ab99e58ff679",
+  "params":{
+    "id":"eb6eea51-eeaf-4f59-8933-d5360359e757"
+  },
+  "name":"Luis A"
+}

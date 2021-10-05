@@ -1,0 +1,13 @@
+{
+  "start":33139,
+  "end":33158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you study?",
+  "id":"dd75e30d-400d-4982-b7f9-c7f3397c0c76",
+  "params":{
+    "id":"dd75e30d-400d-4982-b7f9-c7f3397c0c76",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

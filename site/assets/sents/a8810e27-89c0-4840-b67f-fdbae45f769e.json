@@ -1,0 +1,13 @@
+{
+  "start":26959,
+  "end":27010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I actually liked the motorcycles and\n   everything.",
+  "id":"a8810e27-89c0-4840-b67f-fdbae45f769e",
+  "params":{
+    "id":"a8810e27-89c0-4840-b67f-fdbae45f769e",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

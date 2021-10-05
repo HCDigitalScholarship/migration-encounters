@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":17260,
+  "end":17294,
+  "label":"typo",
+  "id":"c5c52d2e-c502-480e-947f-38d8f3684481",
+  "params":{
+    "id":"c09e5514-00c0-4245-9ca4-3090b6fb176f"
+  },
+  "name":"Roberto",
+  "text":"tienen sus garnachas their\n   taco"
+}

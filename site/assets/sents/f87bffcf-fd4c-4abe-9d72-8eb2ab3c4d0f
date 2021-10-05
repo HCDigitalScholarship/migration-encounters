@@ -1,0 +1,12 @@
+{
+  "start":10079,
+  "end":10093,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did he do?",
+  "id":"f87bffcf-fd4c-4abe-9d72-8eb2ab3c4d0f",
+  "params":{
+    "id":"503ad30d-d1eb-47e7-a26e-c5d57f0cdc53"
+  },
+  "name":"Brenda"
+}

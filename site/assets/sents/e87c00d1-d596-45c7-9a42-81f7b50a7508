@@ -1,0 +1,12 @@
+{
+  "start":32664,
+  "end":32697,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's nothing, I know it's normal.",
+  "id":"e87c00d1-d596-45c7-9a42-81f7b50a7508",
+  "params":{
+    "id":"db18b22c-7756-4c58-912d-d875ddcb042f"
+  },
+  "name":"Hugo"
+}

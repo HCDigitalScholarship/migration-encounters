@@ -1,0 +1,13 @@
+{
+  "start":6270,
+  "end":6298,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, your dad was a musician.",
+  "id":"cbe65a18-7210-45ee-af8f-b61abe5a2f35",
+  "params":{
+    "id":"cbe65a18-7210-45ee-af8f-b61abe5a2f35",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

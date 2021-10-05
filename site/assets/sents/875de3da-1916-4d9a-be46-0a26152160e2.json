@@ -1,0 +1,13 @@
+{
+  "start":29403,
+  "end":29413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Oh, yeah.",
+  "id":"875de3da-1916-4d9a-be46-0a26152160e2",
+  "params":{
+    "id":"875de3da-1916-4d9a-be46-0a26152160e2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

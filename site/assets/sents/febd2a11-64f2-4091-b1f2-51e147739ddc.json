@@ -1,0 +1,12 @@
+{
+  "start":1419,
+  "end":1535,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Eventually he left\nthat and he started working for ACME Corporation, which later on turned\ninto Stanley Corporation.",
+  "id":"febd2a11-64f2-4091-b1f2-51e147739ddc",
+  "params":{
+    "id":"13fb0910-2eff-4efa-a84e-049c1eb7f972"
+  },
+  "name":"Abel"
+}

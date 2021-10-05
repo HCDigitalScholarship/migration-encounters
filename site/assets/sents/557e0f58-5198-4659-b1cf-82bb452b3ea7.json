@@ -1,0 +1,13 @@
+{
+  "start":11326,
+  "end":11357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's working with a\n   lawyer.",
+  "id":"557e0f58-5198-4659-b1cf-82bb452b3ea7",
+  "params":{
+    "id":"557e0f58-5198-4659-b1cf-82bb452b3ea7",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

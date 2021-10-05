@@ -1,0 +1,13 @@
+{
+  "start":40080,
+  "end":40198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We fight, I\n     mean we have this argument, because you took maybe something off me but not\n     because of a street.",
+  "id":"9595a0b8-462e-4eb8-b4e0-d69665c9767e",
+  "params":{
+    "id":"9595a0b8-462e-4eb8-b4e0-d69665c9767e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

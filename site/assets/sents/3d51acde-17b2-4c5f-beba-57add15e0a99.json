@@ -1,0 +1,13 @@
+{
+  "start":1148,
+  "end":1212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was really excited, you know, because I\n   hadn't seen my dad.",
+  "id":"3d51acde-17b2-4c5f-beba-57add15e0a99",
+  "params":{
+    "id":"3d51acde-17b2-4c5f-beba-57add15e0a99",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

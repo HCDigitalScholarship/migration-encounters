@@ -1,0 +1,13 @@
+{
+  "start":42833,
+  "end":42898,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since I failed it, I had to go back to court to\n get reevaluated.",
+  "id":"5e5f2268-dff2-4137-afcf-c330bf90d188",
+  "params":{
+    "id":"5e5f2268-dff2-4137-afcf-c330bf90d188",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

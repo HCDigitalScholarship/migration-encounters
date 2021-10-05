@@ -1,0 +1,13 @@
+{
+  "start":17355,
+  "end":17372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He doesn't know.\u201d",
+  "id":"571c17d7-8bc2-423c-8e31-0eb34bbaa1b1",
+  "params":{
+    "id":"571c17d7-8bc2-423c-8e31-0eb34bbaa1b1",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

@@ -1,0 +1,12 @@
+{
+  "start":14630,
+  "end":14658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sorry, what were you saying?",
+  "id":"b799130a-97f3-4ebf-be49-56a97bf24f65",
+  "params":{
+    "id":"95d7bc80-4150-45dc-ba7f-589d9dffed3b"
+  },
+  "name":"Roberto"
+}

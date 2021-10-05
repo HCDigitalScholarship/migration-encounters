@@ -1,0 +1,13 @@
+{
+  "start":34008,
+  "end":34028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things like\n   that.",
+  "id":"7a73777a-005c-44b0-a9dd-ae1d2137a65e",
+  "params":{
+    "id":"7a73777a-005c-44b0-a9dd-ae1d2137a65e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

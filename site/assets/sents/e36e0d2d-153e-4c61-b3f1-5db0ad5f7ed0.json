@@ -1,0 +1,13 @@
+{
+  "start":21441,
+  "end":21526,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So during the summer, my grandma leaves and she goes to Cali\n   and she goes to ____.",
+  "id":"e36e0d2d-153e-4c61-b3f1-5db0ad5f7ed0",
+  "params":{
+    "id":"e36e0d2d-153e-4c61-b3f1-5db0ad5f7ed0",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

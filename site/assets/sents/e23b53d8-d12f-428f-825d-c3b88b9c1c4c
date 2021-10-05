@@ -1,0 +1,12 @@
+{
+  "start":57135,
+  "end":57150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just believe.",
+  "id":"e23b53d8-d12f-428f-825d-c3b88b9c1c4c",
+  "params":{
+    "id":"910508a9-38fa-430b-85f1-b042b0f3c18e"
+  },
+  "name":"Mike"
+}

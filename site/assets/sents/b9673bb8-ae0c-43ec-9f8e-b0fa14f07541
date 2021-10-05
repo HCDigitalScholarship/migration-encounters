@@ -1,0 +1,12 @@
+{
+  "start":38365,
+  "end":38383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"so\n   much energy.",
+  "id":"b9673bb8-ae0c-43ec-9f8e-b0fa14f07541",
+  "params":{
+    "id":"4a3822f2-1c95-4852-8c1a-f5fe19e04f57"
+  },
+  "name":"Mike"
+}

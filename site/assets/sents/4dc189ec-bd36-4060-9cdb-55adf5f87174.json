@@ -1,0 +1,13 @@
+{
+  "start":15672,
+  "end":15707,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laura: People that make fun of you.",
+  "id":"4dc189ec-bd36-4060-9cdb-55adf5f87174",
+  "params":{
+    "id":"4dc189ec-bd36-4060-9cdb-55adf5f87174",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

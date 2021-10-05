@@ -1,0 +1,13 @@
+{
+  "start":12469,
+  "end":12493,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of danger.",
+  "id":"b77f939c-78f2-45c7-b321-71f8c8f118d4",
+  "params":{
+    "id":"b77f939c-78f2-45c7-b321-71f8c8f118d4",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32247,
+  "end":32258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I park.",
+  "id":"ca234057-dd84-411b-96b4-79bbf5ba9fef",
+  "params":{
+    "id":"ca234057-dd84-411b-96b4-79bbf5ba9fef",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":11064,
+  "end":11125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm illegal in this country, I cannot apply to\n   this thing!",
+  "id":"838a7e48-a225-4e56-baf8-a0010969c37e",
+  "params":{
+    "id":"4228cf34-2fef-485a-becd-c8dcff6c04ce"
+  },
+  "name":"Luis A"
+}

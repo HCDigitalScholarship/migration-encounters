@@ -1,0 +1,12 @@
+{
+  "start":46817,
+  "end":46859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My kids are the thing that really hits me.",
+  "id":"7b3cc60e-9ef0-4a43-a626-b72875a39ba8",
+  "params":{
+    "id":"d1655ebb-8317-4888-972a-6501c69ed479"
+  },
+  "name":"Mike"
+}

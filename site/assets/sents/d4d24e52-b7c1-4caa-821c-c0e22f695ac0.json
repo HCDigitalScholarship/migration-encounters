@@ -1,0 +1,13 @@
+{
+  "start":43578,
+  "end":43595,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was already 12.",
+  "id":"d4d24e52-b7c1-4caa-821c-c0e22f695ac0",
+  "params":{
+    "id":"d4d24e52-b7c1-4caa-821c-c0e22f695ac0",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

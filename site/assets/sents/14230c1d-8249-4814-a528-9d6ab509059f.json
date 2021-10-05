@@ -1,0 +1,13 @@
+{
+  "start":21424,
+  "end":21447,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n     in Mexico.\"",
+  "id":"14230c1d-8249-4814-a528-9d6ab509059f",
+  "params":{
+    "id":"14230c1d-8249-4814-a528-9d6ab509059f",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

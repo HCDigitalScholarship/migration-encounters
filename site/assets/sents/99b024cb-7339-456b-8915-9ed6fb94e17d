@@ -1,0 +1,12 @@
+{
+  "start":9877,
+  "end":9900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh yeah, a call center.",
+  "id":"99b024cb-7339-456b-8915-9ed6fb94e17d",
+  "params":{
+    "id":"35fb7624-26c5-41af-9c6f-f3dbc0f379e3"
+  },
+  "name":"Carolina"
+}

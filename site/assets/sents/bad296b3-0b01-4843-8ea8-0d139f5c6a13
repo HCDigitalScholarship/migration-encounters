@@ -1,0 +1,12 @@
+{
+  "start":24677,
+  "end":24724,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tuve que pelear, tuve que quitarle mi naranja.\u201d",
+  "id":"bad296b3-0b01-4843-8ea8-0d139f5c6a13",
+  "params":{
+    "id":"9b669ec9-10d3-4af6-a7b1-fc56d2479db9"
+  },
+  "name":"Maria"
+}

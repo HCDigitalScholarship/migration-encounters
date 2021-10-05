@@ -1,0 +1,12 @@
+{
+  "start":19766,
+  "end":19818,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They actually say good morning, good\n     afternoon.",
+  "id":"bcc43477-c715-424c-bdd4-80e01d887c5d",
+  "params":{
+    "id":"428ca741-bed8-4a04-94a2-52d9b6a69b0a"
+  },
+  "name":"Beto"
+}

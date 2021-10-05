@@ -1,0 +1,12 @@
+{
+  "start":40226,
+  "end":40310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess it wasn't as hard as it would have\n   been if I didn't have that background.",
+  "id":"e9ef7400-d9ec-4a49-9b33-ce98a3b5484c",
+  "params":{
+    "id":"5d172978-2c13-4ddc-8b8e-5f7c1e57509d"
+  },
+  "name":"Cris"
+}

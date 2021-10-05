@@ -1,0 +1,13 @@
+{
+  "start":2511,
+  "end":2614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not like we're hiding\n   or anything, but we want to also express ourselves to our full potential.",
+  "id":"ab2e50e2-69ef-48cf-a1d5-648cf54298c2",
+  "params":{
+    "id":"ab2e50e2-69ef-48cf-a1d5-648cf54298c2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

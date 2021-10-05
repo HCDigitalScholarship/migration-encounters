@@ -1,0 +1,13 @@
+{
+  "start":40529,
+  "end":40548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They knew my hours.",
+  "id":"c3dfdea9-244a-4171-8951-18e536fab11f",
+  "params":{
+    "id":"c3dfdea9-244a-4171-8951-18e536fab11f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

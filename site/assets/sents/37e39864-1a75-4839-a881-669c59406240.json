@@ -1,0 +1,13 @@
+{
+  "start":5867,
+  "end":5915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's because they were\n   born over there.",
+  "id":"37e39864-1a75-4839-a881-669c59406240",
+  "params":{
+    "id":"37e39864-1a75-4839-a881-669c59406240",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

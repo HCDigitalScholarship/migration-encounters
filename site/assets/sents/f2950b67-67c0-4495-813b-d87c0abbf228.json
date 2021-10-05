@@ -1,0 +1,13 @@
+{
+  "start":9995,
+  "end":10025,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that to me is frustrating.",
+  "id":"f2950b67-67c0-4495-813b-d87c0abbf228",
+  "params":{
+    "id":"f2950b67-67c0-4495-813b-d87c0abbf228",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

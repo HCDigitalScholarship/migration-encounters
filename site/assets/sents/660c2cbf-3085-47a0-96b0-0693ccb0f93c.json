@@ -1,0 +1,13 @@
+{
+  "start":65025,
+  "end":65071,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"You need to take it seriously.\"",
+  "id":"660c2cbf-3085-47a0-96b0-0693ccb0f93c",
+  "params":{
+    "id":"660c2cbf-3085-47a0-96b0-0693ccb0f93c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

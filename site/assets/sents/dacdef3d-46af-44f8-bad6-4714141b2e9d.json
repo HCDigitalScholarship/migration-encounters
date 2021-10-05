@@ -1,0 +1,13 @@
+{
+  "start":26806,
+  "end":26831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh no, he's going to call",
+  "id":"dacdef3d-46af-44f8-bad6-4714141b2e9d",
+  "params":{
+    "id":"dacdef3d-46af-44f8-bad6-4714141b2e9d",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

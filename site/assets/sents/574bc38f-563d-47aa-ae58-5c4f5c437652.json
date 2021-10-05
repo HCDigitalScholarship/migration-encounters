@@ -1,0 +1,13 @@
+{
+  "start":28113,
+  "end":28151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to stumble over\n myself.\u201d",
+  "id":"574bc38f-563d-47aa-ae58-5c4f5c437652",
+  "params":{
+    "id":"574bc38f-563d-47aa-ae58-5c4f5c437652",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

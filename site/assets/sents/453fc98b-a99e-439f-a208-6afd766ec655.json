@@ -1,0 +1,13 @@
+{
+  "start":11380,
+  "end":11420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I don't think I got that experience.",
+  "id":"453fc98b-a99e-439f-a208-6afd766ec655",
+  "params":{
+    "id":"453fc98b-a99e-439f-a208-6afd766ec655",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

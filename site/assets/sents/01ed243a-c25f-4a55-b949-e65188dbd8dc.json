@@ -1,0 +1,13 @@
+{
+  "start":9728,
+  "end":9805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And unfortunately, I lost\n   contact with them because they left to Virginia.",
+  "id":"01ed243a-c25f-4a55-b949-e65188dbd8dc",
+  "params":{
+    "id":"01ed243a-c25f-4a55-b949-e65188dbd8dc",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

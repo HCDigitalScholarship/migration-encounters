@@ -1,0 +1,12 @@
+{
+  "start":28231,
+  "end":28276,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You go back to Mexico and you got to college.",
+  "id":"c96f5a17-09ba-4d83-a416-717c708e6b73",
+  "params":{
+    "id":"ab85484d-e3f2-466f-ae5a-c92ef4a4d147"
+  },
+  "name":"Juan B"
+}

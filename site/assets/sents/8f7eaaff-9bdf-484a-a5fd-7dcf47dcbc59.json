@@ -1,0 +1,13 @@
+{
+  "start":23486,
+  "end":23506,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Come on.\"",
+  "id":"8f7eaaff-9bdf-484a-a5fd-7dcf47dcbc59",
+  "params":{
+    "id":"8f7eaaff-9bdf-484a-a5fd-7dcf47dcbc59",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9201,
+  "end":9235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It was extremely traumatizing.",
+  "id":"49b41e20-99a2-41df-b8bb-f121b96d2dd5",
+  "params":{
+    "id":"49b41e20-99a2-41df-b8bb-f121b96d2dd5",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

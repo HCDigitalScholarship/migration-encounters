@@ -1,0 +1,12 @@
+{
+  "start":51052,
+  "end":51088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But yeah, everybody's\n   doing good.",
+  "id":"10ad078c-06a5-40a3-8c67-54792b459bf6",
+  "params":{
+    "id":"5a1b9135-b4db-4ecd-91a0-477f11f99387"
+  },
+  "name":"Mike"
+}

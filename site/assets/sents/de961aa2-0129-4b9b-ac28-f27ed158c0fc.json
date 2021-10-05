@@ -1,0 +1,13 @@
+{
+  "start":45804,
+  "end":45828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's going to be\n   17.",
+  "id":"de961aa2-0129-4b9b-ac28-f27ed158c0fc",
+  "params":{
+    "id":"de961aa2-0129-4b9b-ac28-f27ed158c0fc",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

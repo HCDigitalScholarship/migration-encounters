@@ -1,0 +1,13 @@
+{
+  "start":27504,
+  "end":27555,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you say you're going to make it here in Mexico?",
+  "id":"5b5c7d00-20c9-41af-9579-4e20002bfe3e",
+  "params":{
+    "id":"5b5c7d00-20c9-41af-9579-4e20002bfe3e",
+    "class":"anno"
+  },
+  "name":"Many"
+}

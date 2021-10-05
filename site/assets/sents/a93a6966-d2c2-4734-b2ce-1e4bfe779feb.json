@@ -1,0 +1,13 @@
+{
+  "start":25712,
+  "end":25782,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in Mexico it's\n   just like, \"Oh, well, you've got to learn this.",
+  "id":"a93a6966-d2c2-4734-b2ce-1e4bfe779feb",
+  "params":{
+    "id":"a93a6966-d2c2-4734-b2ce-1e4bfe779feb",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

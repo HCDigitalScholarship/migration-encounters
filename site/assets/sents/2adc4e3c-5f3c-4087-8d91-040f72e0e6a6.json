@@ -1,0 +1,13 @@
+{
+  "start":21235,
+  "end":21289,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The good thing is because\n   everything when we got...",
+  "id":"2adc4e3c-5f3c-4087-8d91-040f72e0e6a6",
+  "params":{
+    "id":"2adc4e3c-5f3c-4087-8d91-040f72e0e6a6",
+    "class":"anno"
+  },
+  "name":"Many"
+}

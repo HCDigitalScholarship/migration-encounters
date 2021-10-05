@@ -1,0 +1,12 @@
+{
+  "start":2551,
+  "end":2576,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you like to buy?",
+  "id":"2af03334-1d8c-43ff-9687-6e46d97b1b1d",
+  "params":{
+    "id":"c8418eff-5751-4d9b-8813-344428f7da51"
+  },
+  "name":"Kevin"
+}

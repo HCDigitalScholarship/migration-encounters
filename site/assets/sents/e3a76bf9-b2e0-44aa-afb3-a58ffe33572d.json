@@ -1,0 +1,13 @@
+{
+  "start":6173,
+  "end":6304,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In Anaheim, the people that had us there were\n   really nice but they still had two people with guns, in case you wanted to\n   run.",
+  "id":"e3a76bf9-b2e0-44aa-afb3-a58ffe33572d",
+  "params":{
+    "id":"e3a76bf9-b2e0-44aa-afb3-a58ffe33572d",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

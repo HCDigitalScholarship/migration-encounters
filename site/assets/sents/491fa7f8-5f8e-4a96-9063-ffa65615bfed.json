@@ -1,0 +1,13 @@
+{
+  "start":51583,
+  "end":51622,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you would never go to the US again?",
+  "id":"491fa7f8-5f8e-4a96-9063-ffa65615bfed",
+  "params":{
+    "id":"491fa7f8-5f8e-4a96-9063-ffa65615bfed",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

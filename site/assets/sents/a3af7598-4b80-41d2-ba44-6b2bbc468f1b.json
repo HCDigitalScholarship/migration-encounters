@@ -1,0 +1,15 @@
+{
+  "start":14647,
+  "end":14710,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were my friends,\n   instead of being with American people.",
+  "id":"a3af7598-4b80-41d2-ba44-6b2bbc468f1b",
+  "params":{
+    "id":"a3af7598-4b80-41d2-ba44-6b2bbc468f1b",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

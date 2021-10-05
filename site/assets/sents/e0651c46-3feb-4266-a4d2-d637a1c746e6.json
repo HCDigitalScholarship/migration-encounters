@@ -1,0 +1,13 @@
+{
+  "start":65470,
+  "end":65573,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's one thing I want to change people's\n   minds, because that's why I like meeting a lot of people.",
+  "id":"e0651c46-3feb-4266-a4d2-d637a1c746e6",
+  "params":{
+    "id":"e0651c46-3feb-4266-a4d2-d637a1c746e6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

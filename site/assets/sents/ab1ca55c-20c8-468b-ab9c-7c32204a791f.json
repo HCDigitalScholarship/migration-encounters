@@ -1,0 +1,13 @@
+{
+  "start":47786,
+  "end":47796,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A mi hija.",
+  "id":"ab1ca55c-20c8-468b-ab9c-7c32204a791f",
+  "params":{
+    "id":"ab1ca55c-20c8-468b-ab9c-7c32204a791f",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

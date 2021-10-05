@@ -1,0 +1,13 @@
+{
+  "start":12881,
+  "end":12960,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have\n   friends that are like that, but I don't want to be in that situation.",
+  "id":"68e5058c-7dc5-46fb-9b56-00666111db57",
+  "params":{
+    "id":"68e5058c-7dc5-46fb-9b56-00666111db57",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

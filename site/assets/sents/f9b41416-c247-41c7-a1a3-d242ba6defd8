@@ -1,0 +1,12 @@
+{
+  "start":686,
+  "end":721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: With your dad?\n \n \n   Joana:",
+  "id":"f9b41416-c247-41c7-a1a3-d242ba6defd8",
+  "params":{
+    "id":"3c6583ad-0a2d-46cf-a5a1-661db5bedc2c"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3192,
+  "end":3221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We waited\n   until nighttime.",
+  "id":"86fb0fc3-d150-4905-b836-98ccab0903ca",
+  "params":{
+    "id":"90fd19cf-1618-46a2-a0a2-8a468641571d"
+  },
+  "name":"Jose"
+}

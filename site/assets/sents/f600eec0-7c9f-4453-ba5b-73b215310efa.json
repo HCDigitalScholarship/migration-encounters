@@ -1,0 +1,13 @@
+{
+  "start":9433,
+  "end":9505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You want to go ahead and cooperate or\n you want us to go with the judge?",
+  "id":"f600eec0-7c9f-4453-ba5b-73b215310efa",
+  "params":{
+    "id":"f600eec0-7c9f-4453-ba5b-73b215310efa",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

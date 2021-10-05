@@ -1,0 +1,13 @@
+{
+  "start":6130,
+  "end":6167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going\n   to have to catch me.\"",
+  "id":"e93408bf-aec1-42ab-8a3d-5b5a11331366",
+  "params":{
+    "id":"e93408bf-aec1-42ab-8a3d-5b5a11331366",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

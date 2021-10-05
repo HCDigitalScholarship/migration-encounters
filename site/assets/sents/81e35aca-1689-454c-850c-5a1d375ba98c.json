@@ -1,0 +1,13 @@
+{
+  "start":13728,
+  "end":13753,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, your\n   book is here.",
+  "id":"81e35aca-1689-454c-850c-5a1d375ba98c",
+  "params":{
+    "id":"81e35aca-1689-454c-850c-5a1d375ba98c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

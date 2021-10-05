@@ -1,0 +1,13 @@
+{
+  "start":12120,
+  "end":12207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that's incredible and I think it shows in the company you\n   were able to make.",
+  "id":"1c442318-b237-4ce9-9681-b9a8c614c8f7",
+  "params":{
+    "id":"1c442318-b237-4ce9-9681-b9a8c614c8f7",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

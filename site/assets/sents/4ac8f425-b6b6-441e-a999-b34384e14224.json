@@ -1,0 +1,13 @@
+{
+  "start":30016,
+  "end":30073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Huh, I don't know what to do about that here.\"",
+  "id":"4ac8f425-b6b6-441e-a999-b34384e14224",
+  "params":{
+    "id":"4ac8f425-b6b6-441e-a999-b34384e14224",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

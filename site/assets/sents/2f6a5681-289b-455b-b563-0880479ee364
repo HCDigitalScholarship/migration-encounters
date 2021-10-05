@@ -1,0 +1,12 @@
+{
+  "start":19579,
+  "end":19645,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I get\n   out and get into the bus, I have to check my wallet.",
+  "id":"2f6a5681-289b-455b-b563-0880479ee364",
+  "params":{
+    "id":"cea1124c-0090-43d5-b899-f7ec48e65c22"
+  },
+  "name":"Noe"
+}

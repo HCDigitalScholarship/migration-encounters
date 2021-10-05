@@ -1,0 +1,12 @@
+{
+  "start":22899,
+  "end":22925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We only have so much time.",
+  "id":"ce585d6d-ffa1-415a-a654-b8515471adec",
+  "params":{
+    "id":"30001f10-1f2b-489c-bca0-7bf6c4d170f0"
+  },
+  "name":"Kevin"
+}

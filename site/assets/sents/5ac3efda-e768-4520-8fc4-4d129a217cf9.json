@@ -1,0 +1,13 @@
+{
+  "start":35875,
+  "end":35928,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In some scenarios, you don't\n   think with your head.",
+  "id":"5ac3efda-e768-4520-8fc4-4d129a217cf9",
+  "params":{
+    "id":"5ac3efda-e768-4520-8fc4-4d129a217cf9",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

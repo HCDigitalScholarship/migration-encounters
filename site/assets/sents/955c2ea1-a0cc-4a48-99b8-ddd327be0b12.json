@@ -1,0 +1,13 @@
+{
+  "start":32432,
+  "end":32551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   love fourth of July, I love going to Long Beach on fourth of July and\n   watching the pier fireworks, all of that.",
+  "id":"955c2ea1-a0cc-4a48-99b8-ddd327be0b12",
+  "params":{
+    "id":"955c2ea1-a0cc-4a48-99b8-ddd327be0b12",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

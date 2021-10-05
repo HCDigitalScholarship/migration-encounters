@@ -1,0 +1,13 @@
+{
+  "start":50111,
+  "end":50145,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfY fue la polic\u00eda que la encontr\u00f3?",
+  "id":"44ff1a19-bbc5-4ff7-92ff-c3e0ab1e4bc5",
+  "params":{
+    "id":"44ff1a19-bbc5-4ff7-92ff-c3e0ab1e4bc5",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

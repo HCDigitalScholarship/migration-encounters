@@ -1,0 +1,13 @@
+{
+  "start":16280,
+  "end":16306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Oh.\n \n \n   Olimpya:",
+  "id":"ed59b746-282d-4c6c-a121-8b6f6cf054ee",
+  "params":{
+    "id":"ed59b746-282d-4c6c-a121-8b6f6cf054ee",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

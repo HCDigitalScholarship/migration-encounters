@@ -1,0 +1,13 @@
+{
+  "start":19990,
+  "end":20014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was doing pretty well.",
+  "id":"52492f86-298b-4d70-9590-bd9c97d077aa",
+  "params":{
+    "id":"52492f86-298b-4d70-9590-bd9c97d077aa",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

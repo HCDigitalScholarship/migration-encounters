@@ -1,0 +1,13 @@
+{
+  "start":19784,
+  "end":19790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can.",
+  "id":"c00a8f7a-158a-4d41-a036-c2d46b21c5df",
+  "params":{
+    "id":"c00a8f7a-158a-4d41-a036-c2d46b21c5df",
+    "class":"anno"
+  },
+  "name":"Many"
+}

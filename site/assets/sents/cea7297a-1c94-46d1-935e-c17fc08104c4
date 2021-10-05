@@ -1,0 +1,12 @@
+{
+  "start":22774,
+  "end":22785,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Yes, I do.",
+  "id":"cea7297a-1c94-46d1-935e-c17fc08104c4",
+  "params":{
+    "id":"af8c18df-b2a5-4575-9d51-9c313112374d"
+  },
+  "name":"Beto"
+}

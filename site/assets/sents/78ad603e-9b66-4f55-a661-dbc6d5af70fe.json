@@ -1,0 +1,13 @@
+{
+  "start":20906,
+  "end":20921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember him.",
+  "id":"78ad603e-9b66-4f55-a661-dbc6d5af70fe",
+  "params":{
+    "id":"78ad603e-9b66-4f55-a661-dbc6d5af70fe",
+    "class":"anno"
+  },
+  "name":"Many"
+}

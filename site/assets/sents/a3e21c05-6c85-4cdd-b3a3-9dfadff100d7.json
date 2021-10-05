@@ -1,0 +1,13 @@
+{
+  "start":3449,
+  "end":3470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I enjoyed elementary.",
+  "id":"a3e21c05-6c85-4cdd-b3a3-9dfadff100d7",
+  "params":{
+    "id":"a3e21c05-6c85-4cdd-b3a3-9dfadff100d7",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

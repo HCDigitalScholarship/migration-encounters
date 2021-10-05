@@ -1,0 +1,12 @@
+{
+  "start":12691,
+  "end":12721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What food did he cook for you?",
+  "id":"4eadd91d-bb9a-48c8-b634-6a1553f3802c",
+  "params":{
+    "id":"4b31a5cd-70e3-4be2-a1ff-37ee9488ebaf"
+  },
+  "name":"Rodrigo"
+}

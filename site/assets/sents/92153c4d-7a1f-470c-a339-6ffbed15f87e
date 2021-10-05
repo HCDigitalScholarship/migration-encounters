@@ -1,0 +1,12 @@
+{
+  "start":19734,
+  "end":19809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is this the first time you were stopped just for making an illegal\n   turn?",
+  "id":"92153c4d-7a1f-470c-a339-6ffbed15f87e",
+  "params":{
+    "id":"1ecf5276-831d-43a8-9629-bddc74a62617"
+  },
+  "name":"Joana"
+}

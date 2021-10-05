@@ -1,0 +1,13 @@
+{
+  "start":42658,
+  "end":42701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I get along with them, except with the mom.",
+  "id":"d58b717f-9e2f-4c81-802a-e7ef242c5678",
+  "params":{
+    "id":"d58b717f-9e2f-4c81-802a-e7ef242c5678",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

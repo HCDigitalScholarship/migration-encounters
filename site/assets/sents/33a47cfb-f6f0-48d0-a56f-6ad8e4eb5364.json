@@ -1,0 +1,13 @@
+{
+  "start":6101,
+  "end":6125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I enjoy working on cars.",
+  "id":"33a47cfb-f6f0-48d0-a56f-6ad8e4eb5364",
+  "params":{
+    "id":"33a47cfb-f6f0-48d0-a56f-6ad8e4eb5364",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

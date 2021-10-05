@@ -1,0 +1,13 @@
+{
+  "start":25084,
+  "end":25102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my\n   baby.",
+  "id":"d84744f7-bafe-4c8a-97b7-5e9517279605",
+  "params":{
+    "id":"d84744f7-bafe-4c8a-97b7-5e9517279605",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

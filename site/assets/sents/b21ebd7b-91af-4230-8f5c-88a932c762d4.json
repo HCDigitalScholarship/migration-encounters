@@ -1,0 +1,15 @@
+{
+  "start":18513,
+  "end":18518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah.",
+  "id":"b21ebd7b-91af-4230-8f5c-88a932c762d4",
+  "params":{
+    "id":"b21ebd7b-91af-4230-8f5c-88a932c762d4",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

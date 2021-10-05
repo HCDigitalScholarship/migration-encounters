@@ -1,0 +1,13 @@
+{
+  "start":15545,
+  "end":15631,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a signed\n   copy of The Book Thief because it is one of my favorite books ever.",
+  "id":"42a719c8-7c99-42ba-9266-13c5e52297b3",
+  "params":{
+    "id":"42a719c8-7c99-42ba-9266-13c5e52297b3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

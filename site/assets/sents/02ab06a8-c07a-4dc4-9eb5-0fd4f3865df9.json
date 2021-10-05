@@ -1,0 +1,13 @@
+{
+  "start":23505,
+  "end":23530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   little bit too much.",
+  "id":"02ab06a8-c07a-4dc4-9eb5-0fd4f3865df9",
+  "params":{
+    "id":"02ab06a8-c07a-4dc4-9eb5-0fd4f3865df9",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

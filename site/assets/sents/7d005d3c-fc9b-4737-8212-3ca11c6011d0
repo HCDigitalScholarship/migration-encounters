@@ -1,0 +1,12 @@
+{
+  "start":67037,
+  "end":67063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You talk to\n me every day.",
+  "id":"7d005d3c-fc9b-4737-8212-3ca11c6011d0",
+  "params":{
+    "id":"7865ded2-8b1f-4065-ad6c-65e7dc95b439"
+  },
+  "name":"Axel"
+}

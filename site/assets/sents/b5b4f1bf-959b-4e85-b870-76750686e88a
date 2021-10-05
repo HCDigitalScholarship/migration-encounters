@@ -1,0 +1,12 @@
+{
+  "start":25819,
+  "end":25929,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She signed us up for this\n   little Christmas thing and we weren't accepted, because we weren't from\n   there.",
+  "id":"b5b4f1bf-959b-4e85-b870-76750686e88a",
+  "params":{
+    "id":"7a651dd0-a4ce-47f5-b040-d0d864f286e7"
+  },
+  "name":"Mike"
+}

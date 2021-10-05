@@ -1,0 +1,13 @@
+{
+  "start":41803,
+  "end":41819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where do I live?",
+  "id":"2d548804-023b-4594-ab94-8a826fd06676",
+  "params":{
+    "id":"2d548804-023b-4594-ab94-8a826fd06676",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

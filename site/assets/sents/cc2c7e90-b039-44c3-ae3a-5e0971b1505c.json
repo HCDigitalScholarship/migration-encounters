@@ -1,0 +1,13 @@
+{
+  "start":7274,
+  "end":7497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, aside from them\n   seeing the result of our choices, I always tell them, \u201cYou know mom and dad\n   tell you stay in school, don't do this, don't do that, it might seem boring\n   at the moment, but it's for your good.",
+  "id":"cc2c7e90-b039-44c3-ae3a-5e0971b1505c",
+  "params":{
+    "id":"cc2c7e90-b039-44c3-ae3a-5e0971b1505c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

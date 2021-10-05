@@ -1,0 +1,13 @@
+{
+  "start":6774,
+  "end":6826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We were actually on the news as\n   missing children.",
+  "id":"5a412e25-fb99-44eb-a848-8eede7367e13",
+  "params":{
+    "id":"5a412e25-fb99-44eb-a848-8eede7367e13",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":60060,
+  "end":60115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it's violence, even in peace there's\n     violence.",
+  "id":"ce7fa9c0-b21a-49c7-8ed3-1c8422af43e5",
+  "params":{
+    "id":"e3c4f29d-b20c-47ac-b3bf-d87587a36b4e"
+  },
+  "name":"Joseph"
+}

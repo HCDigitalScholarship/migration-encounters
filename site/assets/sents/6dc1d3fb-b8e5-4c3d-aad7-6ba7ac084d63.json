@@ -1,0 +1,13 @@
+{
+  "start":4030,
+  "end":4111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when you were in high school, did you feel like just any other\n American kid?",
+  "id":"6dc1d3fb-b8e5-4c3d-aad7-6ba7ac084d63",
+  "params":{
+    "id":"6dc1d3fb-b8e5-4c3d-aad7-6ba7ac084d63",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

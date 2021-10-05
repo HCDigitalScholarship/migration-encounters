@@ -1,0 +1,15 @@
+{
+  "start":3350,
+  "end":3446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad just break it off and say if you\n   want to go serve to a country, serve to your country.",
+  "id":"1085ebf9-31bf-456b-98eb-93df7193e9bc",
+  "params":{
+    "id":"1085ebf9-31bf-456b-98eb-93df7193e9bc",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

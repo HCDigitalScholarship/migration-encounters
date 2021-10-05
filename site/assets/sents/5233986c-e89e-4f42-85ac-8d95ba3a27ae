@@ -1,0 +1,12 @@
+{
+  "start":51736,
+  "end":51758,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What were your dreams?",
+  "id":"5233986c-e89e-4f42-85ac-8d95ba3a27ae",
+  "params":{
+    "id":"0246e8fa-6ba2-4bfb-9e08-44701fd528d7"
+  },
+  "name":"Mike"
+}

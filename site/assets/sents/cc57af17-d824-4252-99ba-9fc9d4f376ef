@@ -1,0 +1,12 @@
+{
+  "start":22302,
+  "end":22342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think\n   differently than people here.",
+  "id":"cc57af17-d824-4252-99ba-9fc9d4f376ef",
+  "params":{
+    "id":"33a9c493-5408-48bc-b2b5-3ebaf553d801"
+  },
+  "name":"Edgar"
+}

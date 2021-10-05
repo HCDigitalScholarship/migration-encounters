@@ -1,0 +1,13 @@
+{
+  "start":20877,
+  "end":20961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom didn't want me to go to the house, so they\n   put me on probation for a year.",
+  "id":"dbc4003c-63ea-48a3-b79a-95bcae6968c1",
+  "params":{
+    "id":"dbc4003c-63ea-48a3-b79a-95bcae6968c1",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

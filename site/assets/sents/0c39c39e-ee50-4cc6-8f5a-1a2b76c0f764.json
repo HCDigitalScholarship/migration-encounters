@@ -1,0 +1,13 @@
+{
+  "start":3840,
+  "end":3944,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is a really cool music, and it\n has to do with African American people back in the day and it tells",
+  "id":"0c39c39e-ee50-4cc6-8f5a-1a2b76c0f764",
+  "params":{
+    "id":"0c39c39e-ee50-4cc6-8f5a-1a2b76c0f764",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

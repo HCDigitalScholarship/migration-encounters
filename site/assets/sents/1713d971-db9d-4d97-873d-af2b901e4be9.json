@@ -1,0 +1,12 @@
+{
+  "start":160,
+  "end":199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And what caused your family to migrate?",
+  "id":"1713d971-db9d-4d97-873d-af2b901e4be9",
+  "params":{
+    "id":"8daba2da-3b7a-4c79-9dc1-2ce58034cc30"
+  },
+  "name":"Daniel"
+}

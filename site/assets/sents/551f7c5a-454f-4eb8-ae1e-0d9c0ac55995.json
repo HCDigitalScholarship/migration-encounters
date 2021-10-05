@@ -1,0 +1,15 @@
+{
+  "start":10917,
+  "end":10964,
+  "label":"SENT",
+  "type":"sent",
+  "text":"all the\n   bad experience that I had over there",
+  "id":"551f7c5a-454f-4eb8-ae1e-0d9c0ac55995",
+  "params":{
+    "id":"551f7c5a-454f-4eb8-ae1e-0d9c0ac55995",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

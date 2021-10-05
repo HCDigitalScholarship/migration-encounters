@@ -1,0 +1,12 @@
+{
+  "start":16670,
+  "end":16714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you have any marks against you in the US?",
+  "id":"6cfc2fbc-8bb3-46da-91ba-70466171c7a9",
+  "params":{
+    "id":"efb1e1db-6971-45c3-8d0b-01b9ef977760"
+  },
+  "name":"Edgar"
+}

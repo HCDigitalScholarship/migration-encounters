@@ -1,0 +1,12 @@
+{
+  "start":5440,
+  "end":5461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, with everybody.",
+  "id":"b864d213-4275-4bf1-ae9d-e15a7e18f64f",
+  "params":{
+    "id":"c15d8e01-f2a6-4c40-8703-df663f2ee619"
+  },
+  "name":"Carlos"
+}

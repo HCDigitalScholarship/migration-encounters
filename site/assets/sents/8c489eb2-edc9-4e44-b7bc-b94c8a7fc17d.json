@@ -1,0 +1,15 @@
+{
+  "start":7391,
+  "end":7518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But there is for example on the bajada [lower part] of Canada here\n   they have programs for engineers to go as an outsourcing.",
+  "id":"8c489eb2-edc9-4e44-b7bc-b94c8a7fc17d",
+  "params":{
+    "id":"8c489eb2-edc9-4e44-b7bc-b94c8a7fc17d",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

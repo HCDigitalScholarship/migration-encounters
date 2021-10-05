@@ -1,0 +1,12 @@
+{
+  "start":242,
+  "end":277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you remember arriving in the US?",
+  "id":"d72efa3e-4646-41fb-b3a5-0c4a5388ca77",
+  "params":{
+    "id":"646e3fa9-177b-4124-a074-a45d90d7094d"
+  },
+  "name":"Rodrigo"
+}

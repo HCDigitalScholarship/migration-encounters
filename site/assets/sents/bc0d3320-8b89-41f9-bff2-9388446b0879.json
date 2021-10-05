@@ -1,0 +1,13 @@
+{
+  "start":67050,
+  "end":67122,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I wear jeans, I feel\n   like I'm suffocating, and I can't walk right.",
+  "id":"bc0d3320-8b89-41f9-bff2-9388446b0879",
+  "params":{
+    "id":"bc0d3320-8b89-41f9-bff2-9388446b0879",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

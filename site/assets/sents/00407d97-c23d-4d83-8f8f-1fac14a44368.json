@@ -1,0 +1,13 @@
+{
+  "start":25843,
+  "end":25859,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What about him?\"",
+  "id":"00407d97-c23d-4d83-8f8f-1fac14a44368",
+  "params":{
+    "id":"00407d97-c23d-4d83-8f8f-1fac14a44368",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9048,
+  "end":9132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you taken any classes or enrolled in an educational program\n   since we talked?",
+  "id":"08078d66-c643-4f38-9f91-a218bd73582b",
+  "params":{
+    "id":"08078d66-c643-4f38-9f91-a218bd73582b",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

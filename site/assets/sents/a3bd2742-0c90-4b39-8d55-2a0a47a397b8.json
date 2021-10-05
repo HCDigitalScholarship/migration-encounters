@@ -1,0 +1,13 @@
+{
+  "start":15580,
+  "end":15629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was with my\n   sister and a buddy and his kids.",
+  "id":"a3bd2742-0c90-4b39-8d55-2a0a47a397b8",
+  "params":{
+    "id":"a3bd2742-0c90-4b39-8d55-2a0a47a397b8",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

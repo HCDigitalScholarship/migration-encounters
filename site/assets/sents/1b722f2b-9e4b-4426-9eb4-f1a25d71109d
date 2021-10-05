@@ -1,0 +1,12 @@
+{
+  "start":39603,
+  "end":39630,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I thank you very much.",
+  "id":"1b722f2b-9e4b-4426-9eb4-f1a25d71109d",
+  "params":{
+    "id":"4da6911b-b704-4ada-ba91-d8d595dc9af6"
+  },
+  "name":"Ben"
+}

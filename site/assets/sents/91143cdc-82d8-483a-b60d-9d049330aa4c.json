@@ -1,0 +1,13 @@
+{
+  "start":3222,
+  "end":3264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At nighttime, we went in inflatable rafts.",
+  "id":"91143cdc-82d8-483a-b60d-9d049330aa4c",
+  "params":{
+    "id":"91143cdc-82d8-483a-b60d-9d049330aa4c",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

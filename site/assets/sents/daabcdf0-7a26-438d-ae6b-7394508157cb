@@ -1,0 +1,12 @@
+{
+  "start":35869,
+  "end":35890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just accepted it?",
+  "id":"daabcdf0-7a26-438d-ae6b-7394508157cb",
+  "params":{
+    "id":"8aa2f782-310b-404f-a3d1-d25bcdf0c416"
+  },
+  "name":"Luisa"
+}

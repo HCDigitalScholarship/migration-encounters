@@ -1,0 +1,12 @@
+{
+  "start":33631,
+  "end":33650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tell him my name.",
+  "id":"cf88bc65-1acf-49d4-a912-098024cdd22f",
+  "params":{
+    "id":"f5fcdf43-01a4-4210-81c9-f8f77b21187c"
+  },
+  "name":"Cris"
+}

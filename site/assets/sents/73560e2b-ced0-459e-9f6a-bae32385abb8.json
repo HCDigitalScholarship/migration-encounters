@@ -1,0 +1,13 @@
+{
+  "start":13849,
+  "end":13901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To work a real job, I\n   needed the social security.",
+  "id":"73560e2b-ced0-459e-9f6a-bae32385abb8",
+  "params":{
+    "id":"73560e2b-ced0-459e-9f6a-bae32385abb8",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

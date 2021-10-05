@@ -1,0 +1,13 @@
+{
+  "start":7255,
+  "end":7292,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you got in trouble at some point?",
+  "id":"7bb84366-e48c-4285-bcd1-c5176ea9a4b7",
+  "params":{
+    "id":"7bb84366-e48c-4285-bcd1-c5176ea9a4b7",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

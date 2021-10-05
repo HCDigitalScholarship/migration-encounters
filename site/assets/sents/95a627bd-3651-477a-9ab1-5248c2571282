@@ -1,0 +1,12 @@
+{
+  "start":3125,
+  "end":3199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How is the racism in Mexico, how does that compare to racism in the\n   US?",
+  "id":"95a627bd-3651-477a-9ab1-5248c2571282",
+  "params":{
+    "id":"9e926a60-2113-48f3-a915-b29864582894"
+  },
+  "name":"Cris"
+}

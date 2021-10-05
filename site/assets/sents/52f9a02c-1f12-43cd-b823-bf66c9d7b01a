@@ -1,0 +1,12 @@
+{
+  "start":3895,
+  "end":3945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And at this point, you did have a resident status?",
+  "id":"52f9a02c-1f12-43cd-b823-bf66c9d7b01a",
+  "params":{
+    "id":"40c16ba0-126a-4378-8b4a-187862ccdb04"
+  },
+  "name":"Daniel"
+}

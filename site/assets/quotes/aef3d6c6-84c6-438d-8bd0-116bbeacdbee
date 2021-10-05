@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":51340,
+  "end":51344,
+  "text":"Anne: Do you still have relatives in the US?\n   \n   \n     Joseph: Yes.\n   \n   \n     Anne: Do you ever see them?\n   \n   \n     Joseph: Mom and dad, no. Brother and sister, maybe sometimes.\n   \n   \n     Anne: Do you have relatives in Mexico?\n   \n   \n     Joseph: Yeah.\n   \n   \n     Anne: Grandparents?\n   \n   \n     Joseph: Grandma, only.\n   \n   \n     Anne: Do you see her?\n   \n   \n     Joseph: Try to every ",
+  "label":"PERSON",
+  "id":"aef3d6c6-84c6-438d-8bd0-116bbeacdbee",
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23801,
+  "end":23845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People just want\n   to be part of something.",
+  "id":"62d8d973-c549-4454-9b23-3e0080685ba7",
+  "params":{
+    "id":"62d8d973-c549-4454-9b23-3e0080685ba7",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

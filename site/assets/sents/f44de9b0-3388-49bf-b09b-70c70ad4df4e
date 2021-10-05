@@ -1,0 +1,12 @@
+{
+  "start":32007,
+  "end":32019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"every\n   day",
+  "id":"f44de9b0-3388-49bf-b09b-70c70ad4df4e",
+  "params":{
+    "id":"07a725aa-0c32-4e23-a891-ee63672faf4f"
+  },
+  "name":"Cris"
+}

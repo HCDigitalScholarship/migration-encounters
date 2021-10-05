@@ -1,0 +1,12 @@
+{
+  "start":4065,
+  "end":4085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What grade was that?",
+  "id":"bf9dd9d2-2da0-4e25-9a27-7f5cffbe272e",
+  "params":{
+    "id":"a1cdfd72-6d34-47b4-8312-965002e7600f"
+  },
+  "name":"Pablo"
+}

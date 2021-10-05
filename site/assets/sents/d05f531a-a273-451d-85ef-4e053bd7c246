@@ -1,0 +1,12 @@
+{
+  "start":52044,
+  "end":52080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the\n   reason why they moved.",
+  "id":"d05f531a-a273-451d-85ef-4e053bd7c246",
+  "params":{
+    "id":"e3ecb7e4-b59b-4d65-b4ee-937699523fe9"
+  },
+  "name":"Rodolfo"
+}

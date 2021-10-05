@@ -1,0 +1,12 @@
+{
+  "start":15231,
+  "end":15282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the same time, we're like\n   the push he needed.",
+  "id":"05e620bc-e7f3-4d70-8c0a-b8c1a59b9cb6",
+  "params":{
+    "id":"0c0c9bc3-b90d-43ef-b7af-421d726e0d38"
+  },
+  "name":"Mike"
+}

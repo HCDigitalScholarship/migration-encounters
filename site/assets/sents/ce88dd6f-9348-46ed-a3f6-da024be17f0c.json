@@ -1,0 +1,13 @@
+{
+  "start":2503,
+  "end":2602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been getting all\n   my paperwork and been looking for a job and I just currently landed a job.",
+  "id":"ce88dd6f-9348-46ed-a3f6-da024be17f0c",
+  "params":{
+    "id":"ce88dd6f-9348-46ed-a3f6-da024be17f0c",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

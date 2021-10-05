@@ -1,0 +1,13 @@
+{
+  "start":25039,
+  "end":25084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What gives you the right to judge the people?",
+  "id":"6e5078ec-9577-44e0-807e-d33125a256a6",
+  "params":{
+    "id":"6e5078ec-9577-44e0-807e-d33125a256a6",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

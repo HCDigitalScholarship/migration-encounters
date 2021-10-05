@@ -1,0 +1,13 @@
+{
+  "start":15678,
+  "end":15816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We don't have\n     these here.\" \u201cOh, that's a money order.\u201d\n \n \n     Anita:\n \n \n     A money order?\n \n \n     Beto:\n \n \n     A money order.",
+  "id":"b5e2a975-e4c2-47d0-9ffb-8f4243a2a4a2",
+  "params":{
+    "id":"b5e2a975-e4c2-47d0-9ffb-8f4243a2a4a2",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

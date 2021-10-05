@@ -1,0 +1,12 @@
+{
+  "start":36298,
+  "end":36321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now they call me Ruben.",
+  "id":"e2f63697-6a78-4236-90c1-f30a2136842a",
+  "params":{
+    "id":"4ce6e9ca-2edc-4248-a42f-371605e2debb"
+  },
+  "name":"Ruben"
+}

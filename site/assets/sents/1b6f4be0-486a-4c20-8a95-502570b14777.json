@@ -1,0 +1,13 @@
+{
+  "start":11137,
+  "end":11198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Stay indoors, because if they see you, they can\n   take you.\"",
+  "id":"1b6f4be0-486a-4c20-8a95-502570b14777",
+  "params":{
+    "id":"1b6f4be0-486a-4c20-8a95-502570b14777",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

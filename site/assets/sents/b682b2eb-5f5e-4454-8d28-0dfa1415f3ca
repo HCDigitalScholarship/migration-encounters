@@ -1,0 +1,12 @@
+{
+  "start":10744,
+  "end":10769,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We couldn't go to school.",
+  "id":"b682b2eb-5f5e-4454-8d28-0dfa1415f3ca",
+  "params":{
+    "id":"1a2a1137-67e0-4d8a-81a0-1501901b6c3f"
+  },
+  "name":"Mike"
+}

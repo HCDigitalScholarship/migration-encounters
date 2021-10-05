@@ -1,0 +1,13 @@
+{
+  "start":3975,
+  "end":4015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which is going to be easier here, right?",
+  "id":"b8561d86-451c-43cf-a19f-c6fce2828f78",
+  "params":{
+    "id":"b8561d86-451c-43cf-a19f-c6fce2828f78",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

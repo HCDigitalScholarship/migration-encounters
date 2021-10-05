@@ -1,0 +1,13 @@
+{
+  "start":1887,
+  "end":1893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus:",
+  "id":"6d00db03-bc8f-44bd-8ece-3d448ad4c2d2",
+  "params":{
+    "id":"6d00db03-bc8f-44bd-8ece-3d448ad4c2d2",
+    "class":"anno"
+  },
+  "name":"Jesus A"
+}

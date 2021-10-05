@@ -1,0 +1,12 @@
+{
+  "start":4048,
+  "end":4065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I couldn't\n stop.",
+  "id":"e799b3b0-7b97-4290-98b0-0901d4148ce1",
+  "params":{
+    "id":"57bfc584-f2e4-4da4-b739-e440b9bfd83f"
+  },
+  "name":"Billy"
+}

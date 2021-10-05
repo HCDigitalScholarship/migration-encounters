@@ -1,0 +1,13 @@
+{
+  "id":"2d13063f-3904-49d2-9725-e62cf7426f36",
+  "type":"text",
+  "start":2,
+  "end":111,
+  "label":"Time in the US, Arriving in the United States, Age",
+  "params":{
+    "id":"2d13063f-3904-49d2-9725-e62cf7426f36",
+    "class":"anno"
+  },
+  "name":"Ben",
+  "text":"Anne: You said you went to the States when you were three months old?\n      \n      \n Ben: Yes.\n      \n      \n"
+}

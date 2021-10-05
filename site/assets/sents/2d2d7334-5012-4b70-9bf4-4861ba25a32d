@@ -1,0 +1,12 @@
+{
+  "start":26359,
+  "end":26413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something\n   big, you know something big for me.\"",
+  "id":"2d2d7334-5012-4b70-9bf4-4861ba25a32d",
+  "params":{
+    "id":"3e084989-9845-4245-9f4d-a89a5f4058c0"
+  },
+  "name":"Kevin"
+}

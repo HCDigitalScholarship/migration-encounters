@@ -1,0 +1,13 @@
+{
+  "start":31795,
+  "end":31812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   one time.",
+  "id":"87835cb8-33cf-4e27-99b6-24927fca4c4b",
+  "params":{
+    "id":"87835cb8-33cf-4e27-99b6-24927fca4c4b",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

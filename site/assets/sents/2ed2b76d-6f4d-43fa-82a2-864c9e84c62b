@@ -1,0 +1,12 @@
+{
+  "start":3240,
+  "end":3290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Of course, but you see the\n   same here in Mexico.",
+  "id":"2ed2b76d-6f4d-43fa-82a2-864c9e84c62b",
+  "params":{
+    "id":"6f337c61-70ed-49a9-b8f5-b1671498cf3c"
+  },
+  "name":"Erik"
+}

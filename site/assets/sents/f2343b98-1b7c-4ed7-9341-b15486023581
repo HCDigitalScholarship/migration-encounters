@@ -1,0 +1,12 @@
+{
+  "start":30431,
+  "end":30463,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My son doesn't\n   speak English.",
+  "id":"f2343b98-1b7c-4ed7-9341-b15486023581",
+  "params":{
+    "id":"43090cf5-b0fb-472f-92d8-ebd464a384c5"
+  },
+  "name":"Rodrigo"
+}

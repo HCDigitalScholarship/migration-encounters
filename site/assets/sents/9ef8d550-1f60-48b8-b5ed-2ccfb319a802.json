@@ -1,0 +1,13 @@
+{
+  "start":23203,
+  "end":23283,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you work after that or did you wait till after the titanium was\n   put in?",
+  "id":"9ef8d550-1f60-48b8-b5ed-2ccfb319a802",
+  "params":{
+    "id":"9ef8d550-1f60-48b8-b5ed-2ccfb319a802",
+    "class":"anno"
+  },
+  "name":"Many"
+}

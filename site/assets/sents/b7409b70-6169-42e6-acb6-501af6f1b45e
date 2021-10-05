@@ -1,0 +1,12 @@
+{
+  "start":3569,
+  "end":3604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where was that message coming from?",
+  "id":"b7409b70-6169-42e6-acb6-501af6f1b45e",
+  "params":{
+    "id":"06a1ad9b-0cfc-452b-a928-4b2e28edb4ea"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":153,
+  "end":175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Josue: Mexico.",
+  "id":"b6a38f2b-e4c3-40ea-8640-f5e976d4cf0b",
+  "params":{
+    "id":"b6a38f2b-e4c3-40ea-8640-f5e976d4cf0b",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

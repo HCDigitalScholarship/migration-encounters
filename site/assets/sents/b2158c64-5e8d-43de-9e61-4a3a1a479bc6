@@ -1,0 +1,12 @@
+{
+  "start":20527,
+  "end":20570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Did you read the terms\n   and conditions?\"",
+  "id":"b2158c64-5e8d-43de-9e61-4a3a1a479bc6",
+  "params":{
+    "id":"4b53426e-dd59-4ebd-9f18-69558b83e8fc"
+  },
+  "name":"Rodrigo"
+}

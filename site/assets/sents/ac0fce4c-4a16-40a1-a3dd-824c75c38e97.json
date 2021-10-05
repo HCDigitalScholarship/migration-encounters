@@ -1,0 +1,13 @@
+{
+  "start":13872,
+  "end":13907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She mentioned the DREAMers program.",
+  "id":"ac0fce4c-4a16-40a1-a3dd-824c75c38e97",
+  "params":{
+    "id":"ac0fce4c-4a16-40a1-a3dd-824c75c38e97",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

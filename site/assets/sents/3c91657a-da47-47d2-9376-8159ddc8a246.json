@@ -1,0 +1,13 @@
+{
+  "start":10562,
+  "end":10641,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I\n   asked and I remember that some of the requirements were, I don't know.",
+  "id":"3c91657a-da47-47d2-9376-8159ddc8a246",
+  "params":{
+    "id":"3c91657a-da47-47d2-9376-8159ddc8a246",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

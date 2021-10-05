@@ -1,0 +1,13 @@
+{
+  "start":20230,
+  "end":20235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah.",
+  "id":"a7a6ff2e-f912-4aac-b48e-347b98303dd5",
+  "params":{
+    "id":"a7a6ff2e-f912-4aac-b48e-347b98303dd5",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

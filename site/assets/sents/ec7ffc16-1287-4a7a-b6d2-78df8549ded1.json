@@ -1,0 +1,13 @@
+{
+  "start":2174,
+  "end":2211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In elementary, it was really\n   good.",
+  "id":"ec7ffc16-1287-4a7a-b6d2-78df8549ded1",
+  "params":{
+    "id":"ec7ffc16-1287-4a7a-b6d2-78df8549ded1",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

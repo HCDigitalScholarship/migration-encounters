@@ -1,0 +1,12 @@
+{
+  "start":17833,
+  "end":17904,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say they're not valid here because\n   they're not from the States.",
+  "id":"9ec4b163-63d7-4090-af72-adc2c3ff1928",
+  "params":{
+    "id":"8aa1457d-12e5-4b58-965e-2946d4b2cc69"
+  },
+  "name":"Laila"
+}

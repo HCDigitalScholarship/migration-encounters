@@ -1,0 +1,12 @@
+{
+  "start":20952,
+  "end":20995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, actually, my grandma is a US citizen.",
+  "id":"8903bdda-4dbe-4e34-b1c4-90193ee0f5c7",
+  "params":{
+    "id":"c7aa8291-6d28-44f2-bbdc-649e5367d99d"
+  },
+  "name":"Jose"
+}

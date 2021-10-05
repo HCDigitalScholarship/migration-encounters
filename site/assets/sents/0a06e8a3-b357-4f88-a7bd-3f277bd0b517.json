@@ -1,0 +1,13 @@
+{
+  "start":18251,
+  "end":18290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I am actually writing a book right now.",
+  "id":"0a06e8a3-b357-4f88-a7bd-3f277bd0b517",
+  "params":{
+    "id":"0a06e8a3-b357-4f88-a7bd-3f277bd0b517",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13089,
+  "end":13151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like the US embassy here is part\n   of the United States.",
+  "id":"5a51f9ff-50fd-463a-be61-1d32e7e185eb",
+  "params":{
+    "id":"5a51f9ff-50fd-463a-be61-1d32e7e185eb",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

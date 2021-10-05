@@ -1,0 +1,13 @@
+{
+  "start":20860,
+  "end":20895,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We need to take her to the clinic.\"",
+  "id":"2cfae44a-c37a-40a5-9fdd-aed5dbcced02",
+  "params":{
+    "id":"2cfae44a-c37a-40a5-9fdd-aed5dbcced02",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

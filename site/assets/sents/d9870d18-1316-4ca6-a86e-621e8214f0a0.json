@@ -1,0 +1,13 @@
+{
+  "start":22399,
+  "end":22469,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They will get upset \u2013\n \n \n   Anita: They'll accept it?\n \n \n   Rodrigo:",
+  "id":"d9870d18-1316-4ca6-a86e-621e8214f0a0",
+  "params":{
+    "id":"d9870d18-1316-4ca6-a86e-621e8214f0a0",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

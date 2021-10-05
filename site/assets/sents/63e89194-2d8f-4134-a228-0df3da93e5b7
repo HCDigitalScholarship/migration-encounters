@@ -1,0 +1,12 @@
+{
+  "start":21654,
+  "end":21687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n   having to deal with it.",
+  "id":"63e89194-2d8f-4134-a228-0df3da93e5b7",
+  "params":{
+    "id":"ab6a6b3d-06c4-4d7b-9fba-9c9a1ea033a1"
+  },
+  "name":"Kevin"
+}

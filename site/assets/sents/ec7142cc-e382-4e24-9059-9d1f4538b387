@@ -1,0 +1,12 @@
+{
+  "start":27329,
+  "end":27353,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfQue van a\n     hacer?\u201d.",
+  "id":"ec7142cc-e382-4e24-9059-9d1f4538b387",
+  "params":{
+    "id":"d353c0a2-aed5-4e47-bd9b-1b7631d79434"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24745,
+  "end":24760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Getting better.",
+  "id":"be9827e5-fb4b-46bf-94fa-47ccaf14dee4",
+  "params":{
+    "id":"be9827e5-fb4b-46bf-94fa-47ccaf14dee4",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

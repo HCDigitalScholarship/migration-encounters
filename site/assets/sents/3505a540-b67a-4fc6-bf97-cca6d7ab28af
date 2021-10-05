@@ -1,0 +1,12 @@
+{
+  "start":36115,
+  "end":36158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are they\n interested in that kind of music?",
+  "id":"3505a540-b67a-4fc6-bf97-cca6d7ab28af",
+  "params":{
+    "id":"eb55642b-cde7-4a1f-a56f-6f47317de080"
+  },
+  "name":"Billy"
+}

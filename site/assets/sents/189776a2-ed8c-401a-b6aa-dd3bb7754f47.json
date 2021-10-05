@@ -1,0 +1,13 @@
+{
+  "start":10055,
+  "end":10078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How about your brother?",
+  "id":"189776a2-ed8c-401a-b6aa-dd3bb7754f47",
+  "params":{
+    "id":"189776a2-ed8c-401a-b6aa-dd3bb7754f47",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

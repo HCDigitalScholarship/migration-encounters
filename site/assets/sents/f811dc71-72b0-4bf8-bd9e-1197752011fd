@@ -1,0 +1,12 @@
+{
+  "start":25360,
+  "end":25374,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened?",
+  "id":"f811dc71-72b0-4bf8-bd9e-1197752011fd",
+  "params":{
+    "id":"7673f3fb-dc4c-4646-9be4-2807b6ec0eda"
+  },
+  "name":"Olimpya"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3666,
+  "end":3682,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I learned a lot.",
+  "id":"084f0e54-620f-4dfa-ade9-fcc9f2327c72",
+  "params":{
+    "id":"fbea5c50-7b26-45ad-800a-22ccc345a2b0"
+  },
+  "name":"Beto"
+}

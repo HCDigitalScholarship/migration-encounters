@@ -1,0 +1,12 @@
+{
+  "start":11,
+  "end":49,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you left Mexico?",
+  "id":"40acb728-6a10-4123-9266-b64a2462f690",
+  "params":{
+    "id":"37ed078a-3dde-454c-a15a-63d7e63544d4"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3883,
+  "end":3913,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long did it take to learn?",
+  "id":"f090f313-d2e0-421e-8ed9-b20cc0e0cd60",
+  "params":{
+    "id":"f090f313-d2e0-421e-8ed9-b20cc0e0cd60",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20958,
+  "end":21010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The last thing is, tell me this lasagna story again.",
+  "id":"70aae408-7ff5-4acd-ad85-e81c6457e042",
+  "params":{
+    "id":"224cc349-6fa7-43ce-bd13-ae6707c0f37f"
+  },
+  "name":"Beto"
+}

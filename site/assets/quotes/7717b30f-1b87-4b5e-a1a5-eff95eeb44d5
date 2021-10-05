@@ -1,0 +1,13 @@
+{
+  "id":"7717b30f-1b87-4b5e-a1a5-eff95eeb44d5",
+  "type":"text",
+  "start":11870,
+  "end":11896,
+  "label":"typo",
+  "params":{
+    "id":"7717b30f-1b87-4b5e-a1a5-eff95eeb44d5",
+    "class":"anno"
+  },
+  "name":"Roberto",
+  "text":"Te acostumbras ya de algo."
+}

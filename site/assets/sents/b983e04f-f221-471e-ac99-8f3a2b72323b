@@ -1,0 +1,12 @@
+{
+  "start":8492,
+  "end":8551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But did you have to walk in the desert, or you went by car?",
+  "id":"b983e04f-f221-471e-ac99-8f3a2b72323b",
+  "params":{
+    "id":"4ee16d67-bb73-4c46-b07a-159db8305ae3"
+  },
+  "name":"Diana"
+}

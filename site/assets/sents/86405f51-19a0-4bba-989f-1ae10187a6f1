@@ -1,0 +1,12 @@
+{
+  "start":37704,
+  "end":37769,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you're white and tall you can do whatever you\n want [Chuckle].",
+  "id":"86405f51-19a0-4bba-989f-1ae10187a6f1",
+  "params":{
+    "id":"82a01e5c-81d2-4b43-8607-b539f3ab5951"
+  },
+  "name":"Billy"
+}

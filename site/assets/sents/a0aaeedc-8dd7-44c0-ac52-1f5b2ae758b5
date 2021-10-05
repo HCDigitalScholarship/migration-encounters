@@ -1,0 +1,12 @@
+{
+  "start":19232,
+  "end":19309,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've asked him about\n   it recently and he'll take a picture of the painting.",
+  "id":"a0aaeedc-8dd7-44c0-ac52-1f5b2ae758b5",
+  "params":{
+    "id":"219a238d-c315-47fa-ac11-1f6ae02ec90e"
+  },
+  "name":"Luisa"
+}

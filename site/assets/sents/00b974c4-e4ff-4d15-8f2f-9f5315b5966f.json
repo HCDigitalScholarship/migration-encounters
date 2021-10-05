@@ -1,0 +1,13 @@
+{
+  "start":26847,
+  "end":26875,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How many years ago was this?",
+  "id":"00b974c4-e4ff-4d15-8f2f-9f5315b5966f",
+  "params":{
+    "id":"00b974c4-e4ff-4d15-8f2f-9f5315b5966f",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

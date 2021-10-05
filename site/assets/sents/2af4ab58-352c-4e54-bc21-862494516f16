@@ -1,0 +1,12 @@
+{
+  "start":20210,
+  "end":20234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my phone company.",
+  "id":"2af4ab58-352c-4e54-bc21-862494516f16",
+  "params":{
+    "id":"ff7b292d-58dd-49a2-9e3e-05886f89cb43"
+  },
+  "name":"Rodrigo"
+}

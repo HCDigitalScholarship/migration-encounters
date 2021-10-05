@@ -1,0 +1,12 @@
+{
+  "start":9012,
+  "end":9075,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In my\n   house we spoke Spanish all the time because of my mom.",
+  "id":"0abb616f-bb82-4f60-b733-d7db0b40fdd4",
+  "params":{
+    "id":"f078649c-75d3-42bc-ba44-09e89c46f51f"
+  },
+  "name":"Juan B"
+}

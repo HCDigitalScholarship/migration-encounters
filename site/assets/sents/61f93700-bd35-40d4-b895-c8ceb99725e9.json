@@ -1,0 +1,13 @@
+{
+  "start":40577,
+  "end":40612,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She doesn't go out.\"\n \n \n   Miguel:",
+  "id":"61f93700-bd35-40d4-b895-c8ceb99725e9",
+  "params":{
+    "id":"61f93700-bd35-40d4-b895-c8ceb99725e9",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24462,
+  "end":24497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I\n   would just grab the thing.",
+  "id":"d3fe8e3a-d01f-473f-abc0-c600ca0fed57",
+  "params":{
+    "id":"d3fe8e3a-d01f-473f-abc0-c600ca0fed57",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

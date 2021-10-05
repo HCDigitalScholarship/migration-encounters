@@ -1,0 +1,13 @@
+{
+  "start":23334,
+  "end":23359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n family's not hurting.",
+  "id":"9ecedfb7-d3e7-4677-9767-c8894d4570ee",
+  "params":{
+    "id":"9ecedfb7-d3e7-4677-9767-c8894d4570ee",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

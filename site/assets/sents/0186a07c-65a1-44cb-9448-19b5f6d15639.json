@@ -1,0 +1,13 @@
+{
+  "start":5160,
+  "end":5186,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was high school like?",
+  "id":"0186a07c-65a1-44cb-9448-19b5f6d15639",
+  "params":{
+    "id":"0186a07c-65a1-44cb-9448-19b5f6d15639",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

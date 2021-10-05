@@ -1,0 +1,13 @@
+{
+  "start":3753,
+  "end":3794,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is weird We usually listen to rock.\"",
+  "id":"03c42551-9fa4-4c0c-a906-a3c9b640fd95",
+  "params":{
+    "id":"03c42551-9fa4-4c0c-a906-a3c9b640fd95",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

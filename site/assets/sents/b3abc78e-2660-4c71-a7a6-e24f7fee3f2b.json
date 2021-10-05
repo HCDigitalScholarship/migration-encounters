@@ -1,0 +1,13 @@
+{
+  "start":59446,
+  "end":59484,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you're still friendly with the mom?",
+  "id":"b3abc78e-2660-4c71-a7a6-e24f7fee3f2b",
+  "params":{
+    "id":"b3abc78e-2660-4c71-a7a6-e24f7fee3f2b",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

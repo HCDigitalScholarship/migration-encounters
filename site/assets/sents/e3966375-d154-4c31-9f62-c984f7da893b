@@ -1,0 +1,12 @@
+{
+  "start":26009,
+  "end":26027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She just ran away.",
+  "id":"e3966375-d154-4c31-9f62-c984f7da893b",
+  "params":{
+    "id":"d8c58aba-6e0d-4ed9-bbe3-006d2fa4b2f9"
+  },
+  "name":"Luis B"
+}

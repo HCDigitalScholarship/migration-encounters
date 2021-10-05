@@ -1,0 +1,13 @@
+{
+  "start":23970,
+  "end":23991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to be okay.",
+  "id":"81a3c332-a3c6-41ea-8b73-fd96d1c6b89b",
+  "params":{
+    "id":"81a3c332-a3c6-41ea-8b73-fd96d1c6b89b",
+    "class":"anno"
+  },
+  "name":"Many"
+}

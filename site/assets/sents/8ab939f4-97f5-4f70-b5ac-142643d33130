@@ -1,0 +1,12 @@
+{
+  "start":32154,
+  "end":32207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you look nice, they're\n   going to treat you nice.",
+  "id":"8ab939f4-97f5-4f70-b5ac-142643d33130",
+  "params":{
+    "id":"899f941b-ecfb-4c14-9572-991cefcb64d9"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36000,
+  "end":36028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's actually helped me out.",
+  "id":"7676adef-83a1-4b63-9b0a-26f678507e25",
+  "params":{
+    "id":"7676adef-83a1-4b63-9b0a-26f678507e25",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

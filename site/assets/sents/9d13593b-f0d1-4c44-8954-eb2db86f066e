@@ -1,0 +1,12 @@
+{
+  "start":19791,
+  "end":19801,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have to.",
+  "id":"9d13593b-f0d1-4c44-8954-eb2db86f066e",
+  "params":{
+    "id":"f83895e1-3ecd-42b8-91ee-e6dd22e27011"
+  },
+  "name":"Many"
+}

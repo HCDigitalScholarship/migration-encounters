@@ -1,0 +1,13 @@
+{
+  "start":53324,
+  "end":53340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't apologize.",
+  "id":"865b598d-114f-434d-9d90-a7b1c0d22ae6",
+  "params":{
+    "id":"865b598d-114f-434d-9d90-a7b1c0d22ae6",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

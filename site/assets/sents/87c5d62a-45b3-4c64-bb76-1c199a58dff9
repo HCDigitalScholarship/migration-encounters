@@ -1,0 +1,12 @@
+{
+  "start":21079,
+  "end":21097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't like that.",
+  "id":"87c5d62a-45b3-4c64-bb76-1c199a58dff9",
+  "params":{
+    "id":"c88d2602-5801-4a6f-8181-e689f33fa45e"
+  },
+  "name":"Kevin"
+}

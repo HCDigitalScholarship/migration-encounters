@@ -1,0 +1,12 @@
+{
+  "start":8012,
+  "end":8024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can go by.",
+  "id":"c879b36b-91b7-49ca-8456-580ed42ccf02",
+  "params":{
+    "id":"5b07737b-1069-4d36-95c2-677291a14239"
+  },
+  "name":"Daniel"
+}

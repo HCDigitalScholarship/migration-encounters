@@ -1,0 +1,12 @@
+{
+  "start":5459,
+  "end":5531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even though\n     they're different products, the steps are very similar.",
+  "id":"6e3b37ee-6042-4c88-917f-e6fadc66c513",
+  "params":{
+    "id":"21ef948a-0bbf-47f1-a735-1ab2d1ed8924"
+  },
+  "name":"Beto"
+}

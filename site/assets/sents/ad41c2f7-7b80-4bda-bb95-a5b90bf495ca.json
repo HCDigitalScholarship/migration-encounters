@@ -1,0 +1,13 @@
+{
+  "start":32503,
+  "end":32522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Beto:\n \n \n     Yes.",
+  "id":"ad41c2f7-7b80-4bda-bb95-a5b90bf495ca",
+  "params":{
+    "id":"ad41c2f7-7b80-4bda-bb95-a5b90bf495ca",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":48900,
+  "end":48978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"Look, we're going to put you here in this juvenile\n for two years.",
+  "id":"0a387acf-0dc0-46d1-9e19-412f87fb07c5",
+  "params":{
+    "id":"0a387acf-0dc0-46d1-9e19-412f87fb07c5",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

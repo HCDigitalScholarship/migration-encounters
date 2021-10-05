@@ -1,0 +1,12 @@
+{
+  "start":10715,
+  "end":10725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It sucked.",
+  "id":"f4a95d78-e7d3-486a-9d0d-ad2da2efc43d",
+  "params":{
+    "id":"1174e0ba-6c86-4233-a262-3ee2563c566c"
+  },
+  "name":"Mike"
+}

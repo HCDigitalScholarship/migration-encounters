@@ -1,0 +1,13 @@
+{
+  "start":10213,
+  "end":10246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was in 2013, so I accepted it.",
+  "id":"f38df4aa-78b8-4093-b4f1-edebba6bded3",
+  "params":{
+    "id":"f38df4aa-78b8-4093-b4f1-edebba6bded3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":66829,
+  "end":66874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom's like, \"You know how your family is.\"",
+  "id":"acfa78ca-c959-4b26-a5ec-0de204adfffe",
+  "params":{
+    "id":"acfa78ca-c959-4b26-a5ec-0de204adfffe",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15171,
+  "end":15237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was the top chef, and I would also\n be considered the top chef.",
+  "id":"e5b49c38-f5db-45c4-ada7-3d399cf38ce6",
+  "params":{
+    "id":"e5b49c38-f5db-45c4-ada7-3d399cf38ce6",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

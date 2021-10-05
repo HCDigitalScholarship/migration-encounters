@@ -1,0 +1,12 @@
+{
+  "start":12,
+  "end":58,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, so it's Isabel, and I'm here with Pablo.",
+  "id":"398f60cc-3d1b-482c-8bdd-8cf84410cca6",
+  "params":{
+    "id":"3ae16ebc-4131-4df3-9c3f-7a8d2c8b07ba"
+  },
+  "name":"Pablo"
+}

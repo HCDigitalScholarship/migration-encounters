@@ -1,0 +1,12 @@
+{
+  "start":31149,
+  "end":31209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Axel: Something I like here is that there's food everywhere.",
+  "id":"9907845b-ccd7-4fe9-bc80-d39b7911339f",
+  "params":{
+    "id":"9d4b6164-aaa9-4754-ad7f-d8e46136c6a3"
+  },
+  "name":"Axel"
+}

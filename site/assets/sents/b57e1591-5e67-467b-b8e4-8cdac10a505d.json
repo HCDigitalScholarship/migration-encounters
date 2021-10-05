@@ -1,0 +1,13 @@
+{
+  "start":26024,
+  "end":26047,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The school is horrible.",
+  "id":"b57e1591-5e67-467b-b8e4-8cdac10a505d",
+  "params":{
+    "id":"b57e1591-5e67-467b-b8e4-8cdac10a505d",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

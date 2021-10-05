@@ -1,0 +1,13 @@
+{
+  "start":40735,
+  "end":40802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know that's what it's called,\n the [foreign language 00:39:38].",
+  "id":"9d67e9f8-dc3a-4f4a-88ad-97dda3efc8ba",
+  "params":{
+    "id":"9d67e9f8-dc3a-4f4a-88ad-97dda3efc8ba",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

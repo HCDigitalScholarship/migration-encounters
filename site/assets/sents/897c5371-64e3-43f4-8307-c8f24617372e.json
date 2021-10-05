@@ -1,0 +1,13 @@
+{
+  "start":44852,
+  "end":44870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you know that?",
+  "id":"897c5371-64e3-43f4-8307-c8f24617372e",
+  "params":{
+    "id":"897c5371-64e3-43f4-8307-c8f24617372e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

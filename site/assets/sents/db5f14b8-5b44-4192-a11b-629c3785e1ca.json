@@ -1,0 +1,13 @@
+{
+  "start":20091,
+  "end":20126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was all about the country life.",
+  "id":"db5f14b8-5b44-4192-a11b-629c3785e1ca",
+  "params":{
+    "id":"db5f14b8-5b44-4192-a11b-629c3785e1ca",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

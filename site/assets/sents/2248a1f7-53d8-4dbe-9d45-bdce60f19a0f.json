@@ -1,0 +1,13 @@
+{
+  "start":10727,
+  "end":10739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was there.",
+  "id":"2248a1f7-53d8-4dbe-9d45-bdce60f19a0f",
+  "params":{
+    "id":"2248a1f7-53d8-4dbe-9d45-bdce60f19a0f",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

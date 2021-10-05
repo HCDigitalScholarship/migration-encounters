@@ -1,0 +1,13 @@
+{
+  "start":25638,
+  "end":25679,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then my dad came back\n   to Mexico first.",
+  "id":"8c07a3b3-67b4-4c88-aaff-940972d09d39",
+  "params":{
+    "id":"8c07a3b3-67b4-4c88-aaff-940972d09d39",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

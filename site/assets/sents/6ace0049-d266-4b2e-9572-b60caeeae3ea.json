@@ -1,0 +1,13 @@
+{
+  "start":11993,
+  "end":12027,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's something that we would do.",
+  "id":"6ace0049-d266-4b2e-9572-b60caeeae3ea",
+  "params":{
+    "id":"6ace0049-d266-4b2e-9572-b60caeeae3ea",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

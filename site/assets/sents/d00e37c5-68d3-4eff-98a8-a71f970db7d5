@@ -1,0 +1,12 @@
+{
+  "start":33673,
+  "end":33688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old is she?",
+  "id":"d00e37c5-68d3-4eff-98a8-a71f970db7d5",
+  "params":{
+    "id":"504bddc0-7194-4d6d-a134-27e4152b0cca"
+  },
+  "name":"Rodrigo"
+}

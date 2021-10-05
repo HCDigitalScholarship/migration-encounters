@@ -1,0 +1,13 @@
+{
+  "start":20842,
+  "end":20915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Stay here and maybe one\n   day you'll do something else.\"\n \n \n   Rodolfo:",
+  "id":"c6897935-8839-4894-a2a9-7c7196dc9df8",
+  "params":{
+    "id":"c6897935-8839-4894-a2a9-7c7196dc9df8",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

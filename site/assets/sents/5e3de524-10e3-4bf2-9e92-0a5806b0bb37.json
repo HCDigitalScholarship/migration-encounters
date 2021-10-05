@@ -1,0 +1,13 @@
+{
+  "start":32880,
+  "end":32908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You become a new person.",
+  "id":"5e3de524-10e3-4bf2-9e92-0a5806b0bb37",
+  "params":{
+    "id":"5e3de524-10e3-4bf2-9e92-0a5806b0bb37",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3674,
+  "end":3726,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in college, _____ for about a year and a half.",
+  "id":"f89a0d52-5431-4aba-b4dd-119eb54ec2ca",
+  "params":{
+    "id":"a9cb40c7-dfe1-4031-9eb6-f429fae7d48c"
+  },
+  "name":"Josue"
+}

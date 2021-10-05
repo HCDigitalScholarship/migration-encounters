@@ -1,0 +1,12 @@
+{
+  "start":60153,
+  "end":60232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I know that whenever I need some help, I either got to\n call you or my dad.\"",
+  "id":"4f979494-34e7-4f56-9cf5-22358ee97ced",
+  "params":{
+    "id":"66756e9d-c966-46cc-91a3-6981c34beaf9"
+  },
+  "name":"Axel"
+}

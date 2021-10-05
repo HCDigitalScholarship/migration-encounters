@@ -1,0 +1,13 @@
+{
+  "start":28187,
+  "end":28223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was in\n   senior year I believe.",
+  "id":"2ab2a9f6-3840-46f3-93a0-8b7509c52558",
+  "params":{
+    "id":"2ab2a9f6-3840-46f3-93a0-8b7509c52558",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

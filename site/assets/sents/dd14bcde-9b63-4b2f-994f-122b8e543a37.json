@@ -1,0 +1,13 @@
+{
+  "start":18442,
+  "end":18510,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got kind of carried away and was trying to get the whole\n   world.",
+  "id":"dd14bcde-9b63-4b2f-994f-122b8e543a37",
+  "params":{
+    "id":"dd14bcde-9b63-4b2f-994f-122b8e543a37",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

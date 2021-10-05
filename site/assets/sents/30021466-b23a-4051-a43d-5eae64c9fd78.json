@@ -1,0 +1,13 @@
+{
+  "start":24885,
+  "end":24973,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some are cool,\n   like, \"You come from the States, that's awesome\u201d and they try to learn",
+  "id":"30021466-b23a-4051-a43d-5eae64c9fd78",
+  "params":{
+    "id":"30021466-b23a-4051-a43d-5eae64c9fd78",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

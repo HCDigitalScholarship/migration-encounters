@@ -1,0 +1,13 @@
+{
+  "start":42054,
+  "end":42138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n couldn't get into Walmart or anything like that, because they ask for\n legal...",
+  "id":"454ade15-017c-4011-87a3-c1f874ea1979",
+  "params":{
+    "id":"454ade15-017c-4011-87a3-c1f874ea1979",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

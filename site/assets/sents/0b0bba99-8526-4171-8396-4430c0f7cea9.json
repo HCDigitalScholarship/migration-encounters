@@ -1,0 +1,13 @@
+{
+  "start":22000,
+  "end":22032,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going back to\n   school.\"",
+  "id":"0b0bba99-8526-4171-8396-4430c0f7cea9",
+  "params":{
+    "id":"0b0bba99-8526-4171-8396-4430c0f7cea9",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

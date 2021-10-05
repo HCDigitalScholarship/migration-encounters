@@ -1,0 +1,12 @@
+{
+  "start":22358,
+  "end":22376,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean?\"",
+  "id":"2273c5a5-e4f0-4b31-925c-887cf9b25b36",
+  "params":{
+    "id":"12a84b4f-cb08-498b-8735-a3067caebec5"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7124,
+  "end":7165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, well, I can rent another place.",
+  "id":"4a1cdc33-f728-46e8-95e0-dfcb1fa7593e",
+  "params":{
+    "id":"4a1cdc33-f728-46e8-95e0-dfcb1fa7593e",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":44713,
+  "end":44752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom's like, \"Why are\n   you crying?\"",
+  "id":"e3c15899-4c41-4f03-a20d-29f5bed8c729",
+  "params":{
+    "id":"e3c15899-4c41-4f03-a20d-29f5bed8c729",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

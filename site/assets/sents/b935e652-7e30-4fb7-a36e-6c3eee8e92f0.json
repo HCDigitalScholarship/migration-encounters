@@ -1,0 +1,13 @@
+{
+  "start":8810,
+  "end":8909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can say we were poor because my mom, she\n   was a single mom with three kids, she had three jobs.",
+  "id":"b935e652-7e30-4fb7-a36e-6c3eee8e92f0",
+  "params":{
+    "id":"b935e652-7e30-4fb7-a36e-6c3eee8e92f0",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

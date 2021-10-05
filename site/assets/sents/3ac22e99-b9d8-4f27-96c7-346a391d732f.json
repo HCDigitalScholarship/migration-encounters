@@ -1,0 +1,13 @@
+{
+  "start":365,
+  "end":444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And,\n   well, I used someone else's papers, so it wasn't really hard getting to",
+  "id":"3ac22e99-b9d8-4f27-96c7-346a391d732f",
+  "params":{
+    "id":"3ac22e99-b9d8-4f27-96c7-346a391d732f",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

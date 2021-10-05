@@ -1,0 +1,13 @@
+{
+  "start":30332,
+  "end":30425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   really meet people that listened to metal music or reggae or things like\n   that.",
+  "id":"e4576075-7d92-43fb-aecd-e9fdb4ef65ae",
+  "params":{
+    "id":"e4576075-7d92-43fb-aecd-e9fdb4ef65ae",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7355,
+  "end":7431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You really had to trust your man to your\n   left and your man to your right.",
+  "id":"e885905f-fcc4-4e6f-aa1b-f69cdd92223b",
+  "params":{
+    "id":"e885905f-fcc4-4e6f-aa1b-f69cdd92223b",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

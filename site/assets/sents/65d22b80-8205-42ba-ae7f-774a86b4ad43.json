@@ -1,0 +1,13 @@
+{
+  "start":51611,
+  "end":51680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The only thing that I would ask is for medical\n   assistance for him.",
+  "id":"65d22b80-8205-42ba-ae7f-774a86b4ad43",
+  "params":{
+    "id":"65d22b80-8205-42ba-ae7f-774a86b4ad43",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

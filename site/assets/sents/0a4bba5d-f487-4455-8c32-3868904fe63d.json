@@ -1,0 +1,13 @@
+{
+  "start":13080,
+  "end":13132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some jobs paid me in cash, some\n   paid me in check.",
+  "id":"0a4bba5d-f487-4455-8c32-3868904fe63d",
+  "params":{
+    "id":"0a4bba5d-f487-4455-8c32-3868904fe63d",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

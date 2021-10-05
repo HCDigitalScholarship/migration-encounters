@@ -1,0 +1,12 @@
+{
+  "start":26672,
+  "end":26688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   lot of food",
+  "id":"de546061-468e-42bd-aead-4159cb299815",
+  "params":{
+    "id":"b5c29e11-d8f8-4f5d-a35b-fe10c8505ee8"
+  },
+  "name":"Yair"
+}

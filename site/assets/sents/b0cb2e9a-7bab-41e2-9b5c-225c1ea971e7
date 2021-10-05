@@ -1,0 +1,12 @@
+{
+  "start":7293,
+  "end":7346,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think\n   my parents were trying to hide that.",
+  "id":"b0cb2e9a-7bab-41e2-9b5c-225c1ea971e7",
+  "params":{
+    "id":"87662f67-a713-4114-81cb-70d6e8db0104"
+  },
+  "name":"Sylent"
+}

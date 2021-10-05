@@ -1,0 +1,13 @@
+{
+  "start":12500,
+  "end":12565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If I see someone\n   struggling, I want to help them, and I can't.",
+  "id":"55d7cd1b-f4c9-47ac-acbb-b19da6de47ec",
+  "params":{
+    "id":"55d7cd1b-f4c9-47ac-acbb-b19da6de47ec",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

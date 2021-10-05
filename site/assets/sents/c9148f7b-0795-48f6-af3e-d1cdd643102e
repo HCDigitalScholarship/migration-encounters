@@ -1,0 +1,12 @@
+{
+  "start":24720,
+  "end":24789,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, my dad is like, \"Well this time you should go meet\n   the family.",
+  "id":"c9148f7b-0795-48f6-af3e-d1cdd643102e",
+  "params":{
+    "id":"f89387d4-9c30-4058-a5d8-7e8f9712a28f"
+  },
+  "name":"Hugo"
+}

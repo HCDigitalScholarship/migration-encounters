@@ -1,0 +1,13 @@
+{
+  "start":15203,
+  "end":15223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to go.",
+  "id":"02cbc1c2-72c6-4910-99aa-00594a944732",
+  "params":{
+    "id":"02cbc1c2-72c6-4910-99aa-00594a944732",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

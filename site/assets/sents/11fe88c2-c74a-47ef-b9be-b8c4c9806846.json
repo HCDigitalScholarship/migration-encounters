@@ -1,0 +1,13 @@
+{
+  "start":23270,
+  "end":23290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's all I can do.",
+  "id":"11fe88c2-c74a-47ef-b9be-b8c4c9806846",
+  "params":{
+    "id":"11fe88c2-c74a-47ef-b9be-b8c4c9806846",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

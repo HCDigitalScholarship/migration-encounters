@@ -1,0 +1,13 @@
+{
+  "start":12014,
+  "end":12046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   The lawyer said it was okay.",
+  "id":"ea0fec5c-afaf-490a-968b-1361f7ae34a2",
+  "params":{
+    "id":"ea0fec5c-afaf-490a-968b-1361f7ae34a2",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

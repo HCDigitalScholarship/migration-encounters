@@ -1,0 +1,13 @@
+{
+  "start":440,
+  "end":504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to school in Mexico before you went to the\n   States?",
+  "id":"35f8a823-4e87-4dfd-bae2-68dfb17be8b3",
+  "params":{
+    "id":"35f8a823-4e87-4dfd-bae2-68dfb17be8b3",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1667,
+  "end":1676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She died.",
+  "id":"088b35e8-b258-4df4-92ba-c2c5dbe81827",
+  "params":{
+    "id":"088b35e8-b258-4df4-92ba-c2c5dbe81827",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

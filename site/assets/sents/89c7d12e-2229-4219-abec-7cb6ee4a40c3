@@ -1,0 +1,12 @@
+{
+  "start":35002,
+  "end":35046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But at the end of the day, it's just not us.",
+  "id":"89c7d12e-2229-4219-abec-7cb6ee4a40c3",
+  "params":{
+    "id":"a681ccdd-1801-4920-a123-ec7d5b3be21a"
+  },
+  "name":"Kevin"
+}

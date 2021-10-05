@@ -1,0 +1,12 @@
+{
+  "start":3795,
+  "end":3822,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I was a troublemaker.",
+  "id":"0e8bdc84-0a0b-4144-9990-e58b0e202c84",
+  "params":{
+    "id":"4840cdbd-1015-4f8f-9038-b939257e95ae"
+  },
+  "name":"Kevin"
+}

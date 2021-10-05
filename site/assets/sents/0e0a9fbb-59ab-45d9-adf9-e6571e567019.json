@@ -1,0 +1,13 @@
+{
+  "start":16941,
+  "end":17048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And my kids, they\n   can't let my kids visit me because they need somebody to take them, like\n   their mom.",
+  "id":"0e0a9fbb-59ab-45d9-adf9-e6571e567019",
+  "params":{
+    "id":"0e0a9fbb-59ab-45d9-adf9-e6571e567019",
+    "class":"anno"
+  },
+  "name":"Many"
+}

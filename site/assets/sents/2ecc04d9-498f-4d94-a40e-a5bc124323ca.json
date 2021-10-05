@@ -1,0 +1,13 @@
+{
+  "start":30511,
+  "end":30543,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I cannot be\n   locked up inside.",
+  "id":"2ecc04d9-498f-4d94-a40e-a5bc124323ca",
+  "params":{
+    "id":"2ecc04d9-498f-4d94-a40e-a5bc124323ca",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

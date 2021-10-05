@@ -1,0 +1,13 @@
+{
+  "start":70949,
+  "end":71022,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When my mom calls me and tells me all that stuff about my family\n members",
+  "id":"28b3555c-08eb-470b-adb3-d9b28f688908",
+  "params":{
+    "id":"28b3555c-08eb-470b-adb3-d9b28f688908",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

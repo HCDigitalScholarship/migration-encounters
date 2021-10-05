@@ -1,0 +1,12 @@
+{
+  "start":5276,
+  "end":5312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't put them on\n   that tight.",
+  "id":"d0fa64ff-592d-4222-8471-fecf240f19a2",
+  "params":{
+    "id":"c871f912-b4fb-4995-9be1-a020c906674d"
+  },
+  "name":"Kevin"
+}

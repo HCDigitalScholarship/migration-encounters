@@ -1,0 +1,12 @@
+{
+  "start":31179,
+  "end":31232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I've been scared of the dark since I was a kid.",
+  "id":"00a8fdab-fa02-4efb-b460-69aaa7b782c9",
+  "params":{
+    "id":"4501d3d7-d333-4835-90b2-88fe8da28148"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15712,
+  "end":15730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What year is this?",
+  "id":"2a8a93c9-329f-4990-86d6-bc96de692e87",
+  "params":{
+    "id":"2a8a93c9-329f-4990-86d6-bc96de692e87",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

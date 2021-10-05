@@ -1,0 +1,13 @@
+{
+  "start":14777,
+  "end":14845,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In the area where I lived, we were the only Mexicans in the\n   area.",
+  "id":"1bd14817-cec2-413a-8487-7a3260672afb",
+  "params":{
+    "id":"1bd14817-cec2-413a-8487-7a3260672afb",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23241,
+  "end":23342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have different thoughts, different\n   priorities, which makes them have different personalities.",
+  "id":"5f4ab61d-a166-4722-b526-58e4ef03cabc",
+  "params":{
+    "id":"5f4ab61d-a166-4722-b526-58e4ef03cabc",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

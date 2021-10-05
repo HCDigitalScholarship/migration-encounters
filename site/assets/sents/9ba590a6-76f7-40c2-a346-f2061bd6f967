@@ -1,0 +1,12 @@
+{
+  "start":10092,
+  "end":10115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I just turned 18.",
+  "id":"9ba590a6-76f7-40c2-a346-f2061bd6f967",
+  "params":{
+    "id":"7c6a8ce3-3d10-4814-bf5f-97b1482ddcfe"
+  },
+  "name":"Carolina"
+}

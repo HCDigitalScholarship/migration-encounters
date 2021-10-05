@@ -1,0 +1,13 @@
+{
+  "start":4329,
+  "end":4344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is recent.",
+  "id":"dad1fc98-c15e-402e-ab01-34164756d3dc",
+  "params":{
+    "id":"dad1fc98-c15e-402e-ab01-34164756d3dc",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

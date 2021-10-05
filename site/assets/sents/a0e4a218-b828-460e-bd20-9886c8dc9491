@@ -1,0 +1,12 @@
+{
+  "start":48571,
+  "end":48596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"La polic\u00eda no lo vio as\u00ed.",
+  "id":"a0e4a218-b828-460e-bd20-9886c8dc9491",
+  "params":{
+    "id":"e1b6178c-c4af-47c2-b725-38552c7d84c7"
+  },
+  "name":"Maria"
+}

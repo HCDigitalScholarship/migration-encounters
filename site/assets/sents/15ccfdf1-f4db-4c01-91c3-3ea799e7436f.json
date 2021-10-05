@@ -1,0 +1,13 @@
+{
+  "start":55130,
+  "end":55200,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The judge was like, \"No,\n he should have left the house a lot earlier.",
+  "id":"15ccfdf1-f4db-4c01-91c3-3ea799e7436f",
+  "params":{
+    "id":"15ccfdf1-f4db-4c01-91c3-3ea799e7436f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

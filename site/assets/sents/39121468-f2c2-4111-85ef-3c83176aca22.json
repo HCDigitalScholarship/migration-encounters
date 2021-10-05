@@ -1,0 +1,13 @@
+{
+  "start":37286,
+  "end":37306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's one of the two.",
+  "id":"39121468-f2c2-4111-85ef-3c83176aca22",
+  "params":{
+    "id":"39121468-f2c2-4111-85ef-3c83176aca22",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

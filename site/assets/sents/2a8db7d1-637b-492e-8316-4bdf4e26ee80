@@ -1,0 +1,12 @@
+{
+  "start":52518,
+  "end":52581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still don't know because I don't even know what road to take.",
+  "id":"2a8db7d1-637b-492e-8316-4bdf4e26ee80",
+  "params":{
+    "id":"8a60c394-4b19-4166-aec1-7a0ec5f1d6f7"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24903,
+  "end":24932,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would say a lot of English.",
+  "id":"948a3757-3ecc-4ca3-a460-f539292e3cb2",
+  "params":{
+    "id":"c55aeeb2-4013-4629-b659-ff20af59c804"
+  },
+  "name":"Many"
+}

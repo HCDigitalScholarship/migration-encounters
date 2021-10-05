@@ -1,0 +1,12 @@
+{
+  "start":965,
+  "end":1001,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was living in ____ at that moment.",
+  "id":"de499529-5102-40e3-9bbe-8c45da113b40",
+  "params":{
+    "id":"ec1e624f-6f1c-4f61-b182-693d67e6fcc2"
+  },
+  "name":"Luis A"
+}

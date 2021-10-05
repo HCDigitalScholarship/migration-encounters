@@ -1,0 +1,13 @@
+{
+  "start":8802,
+  "end":8861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sure enough, I reached\n   in my pocket, and I had a dollar.",
+  "id":"de2216c9-b61d-429a-811c-3f67c49bc085",
+  "params":{
+    "id":"de2216c9-b61d-429a-811c-3f67c49bc085",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

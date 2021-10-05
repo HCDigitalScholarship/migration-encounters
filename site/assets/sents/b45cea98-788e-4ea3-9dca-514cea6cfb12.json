@@ -1,0 +1,13 @@
+{
+  "start":45511,
+  "end":45571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It doesn't\n   help one person being different than the rest.",
+  "id":"b45cea98-788e-4ea3-9dca-514cea6cfb12",
+  "params":{
+    "id":"b45cea98-788e-4ea3-9dca-514cea6cfb12",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

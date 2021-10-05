@@ -1,0 +1,13 @@
+{
+  "start":456,
+  "end":611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So maybe you can start by just telling me what motivated you to go\n   to the United States, how old you were, the circumstances, what it was like\n   to go.",
+  "id":"dc42185b-31e7-4967-a626-7a8bf78e42ea",
+  "params":{
+    "id":"dc42185b-31e7-4967-a626-7a8bf78e42ea",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

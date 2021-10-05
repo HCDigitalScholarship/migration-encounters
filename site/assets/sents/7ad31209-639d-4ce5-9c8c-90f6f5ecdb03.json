@@ -1,0 +1,13 @@
+{
+  "start":6553,
+  "end":6561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Be nice.",
+  "id":"7ad31209-639d-4ce5-9c8c-90f6f5ecdb03",
+  "params":{
+    "id":"7ad31209-639d-4ce5-9c8c-90f6f5ecdb03",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

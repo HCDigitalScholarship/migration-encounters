@@ -1,0 +1,13 @@
+{
+  "start":30514,
+  "end":30536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then I learned it.",
+  "id":"90140b91-edd2-4f1e-89e2-5779de6beb16",
+  "params":{
+    "id":"90140b91-edd2-4f1e-89e2-5779de6beb16",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

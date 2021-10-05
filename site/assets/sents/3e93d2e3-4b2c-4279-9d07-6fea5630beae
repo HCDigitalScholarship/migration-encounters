@@ -1,0 +1,12 @@
+{
+  "start":19864,
+  "end":19901,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I worked three years for\n   TeleTech.",
+  "id":"3e93d2e3-4b2c-4279-9d07-6fea5630beae",
+  "params":{
+    "id":"e81d3d37-8cba-4afa-8697-155f5c75b0a1"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25188,
+  "end":25203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you like it?",
+  "id":"80d67d9f-ab3f-45e3-84fa-96097900260c",
+  "params":{
+    "id":"80d67d9f-ab3f-45e3-84fa-96097900260c",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3838,
+  "end":3873,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   like \"Am I really this age?\"",
+  "id":"504f8a6c-e057-4f84-ba5e-8c1eed00a2a6",
+  "params":{
+    "id":"64cd4446-a66d-474c-a32c-86a68e59b9c3"
+  },
+  "name":"Miguel B"
+}

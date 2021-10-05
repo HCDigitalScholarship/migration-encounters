@@ -1,0 +1,13 @@
+{
+  "start":11399,
+  "end":11436,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\n   into plumbing with my uncle.",
+  "id":"a45d78e1-c043-469c-bd4f-dd5012464ee8",
+  "params":{
+    "id":"a45d78e1-c043-469c-bd4f-dd5012464ee8",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":38141,
+  "end":38181,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where do you think you got those values?",
+  "id":"4a25876a-b222-4660-927d-5c8cc3398e9c",
+  "params":{
+    "id":"f5711bfb-b5ae-44d8-bb98-80cf80a16869"
+  },
+  "name":"Luis A"
+}

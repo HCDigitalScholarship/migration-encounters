@@ -1,0 +1,12 @@
+{
+  "start":40064,
+  "end":40161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know it's going to be a process\n   and you know everything will cost money, but I will make it.",
+  "id":"2ae0de57-5f4d-40cc-bcb2-124ca1eba9b2",
+  "params":{
+    "id":"a3b35429-9c1b-468f-a403-cb995b1bdbc2"
+  },
+  "name":"Rodrigo"
+}

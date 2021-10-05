@@ -1,0 +1,12 @@
+{
+  "start":2255,
+  "end":2275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laila: Yeah, she is.",
+  "id":"9a079f8a-a32a-4d18-8e86-742a497555d6",
+  "params":{
+    "id":"3b3d9782-70c5-4fbb-9908-e355efcb902e"
+  },
+  "name":"Laila"
+}

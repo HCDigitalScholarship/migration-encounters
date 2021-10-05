@@ -1,0 +1,12 @@
+{
+  "start":9341,
+  "end":9377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They want you to give them\n   money.",
+  "id":"fe93ac07-edd9-449e-9312-ee6b0e3006ae",
+  "params":{
+    "id":"6da682de-53bc-4727-98a2-cc3d2c763fac"
+  },
+  "name":"Juan A"
+}

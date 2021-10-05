@@ -1,0 +1,13 @@
+{
+  "start":8943,
+  "end":8971,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you live in Mexico City?",
+  "id":"768b1c37-5e2d-4425-b064-ae2e67d30f74",
+  "params":{
+    "id":"768b1c37-5e2d-4425-b064-ae2e67d30f74",
+    "class":"anno"
+  },
+  "name":"Carolina"
+}

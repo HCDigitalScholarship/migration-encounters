@@ -1,0 +1,13 @@
+{
+  "start":20903,
+  "end":21016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pretty much all the time when customers call, it's\n   because they have a higher bill, pretty much it\u2019s for that.",
+  "id":"d7b45d55-6193-46ec-bcee-466cd4cbbe65",
+  "params":{
+    "id":"d7b45d55-6193-46ec-bcee-466cd4cbbe65",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

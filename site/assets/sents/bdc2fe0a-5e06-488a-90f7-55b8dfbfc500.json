@@ -1,0 +1,13 @@
+{
+  "start":42546,
+  "end":42589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But nobody wants to work those jobs, right?",
+  "id":"bdc2fe0a-5e06-488a-90f7-55b8dfbfc500",
+  "params":{
+    "id":"bdc2fe0a-5e06-488a-90f7-55b8dfbfc500",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

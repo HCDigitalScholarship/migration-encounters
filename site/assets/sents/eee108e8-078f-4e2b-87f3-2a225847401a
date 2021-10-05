@@ -1,0 +1,12 @@
+{
+  "start":12236,
+  "end":12335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So my\n   uncle gets one out of five, my brother gets two out of five and I get four\n   out of five.",
+  "id":"eee108e8-078f-4e2b-87f3-2a225847401a",
+  "params":{
+    "id":"a6a91c38-d9ba-4de7-9dfa-e9b156d1d0de"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12742,
+  "end":12802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You pay your gas bill and you have your gas\n   all the time.",
+  "id":"7ba13f18-75e1-4d46-831d-f1c60319eae3",
+  "params":{
+    "id":"7ba13f18-75e1-4d46-831d-f1c60319eae3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

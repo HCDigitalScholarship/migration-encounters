@@ -1,0 +1,12 @@
+{
+  "start":1090,
+  "end":1151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have any idea about it, but that's what she told\n me.",
+  "id":"71230c12-588d-4c3e-8fc2-5aed83410f2c",
+  "params":{
+    "id":"c4df5ad9-6e54-416f-8883-bed4ab0d8376"
+  },
+  "name":"Axel"
+}

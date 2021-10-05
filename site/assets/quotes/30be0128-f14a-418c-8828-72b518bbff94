@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":39339,
+  "end":39345,
+  "text":"re, or people\n   went to college.\n \n \n   Ilse: I met this one guy who studied, well, he went to college in Texas,\n   and he's working here for an HR company, but now he's going to work for\n   Uber in Mexico. And I asked him, I'm like, \"Okay, you're from over\n   there...\" He's Mexican, but he came back to work here. And he's like,\n   \"Because I make dollars here. I spend in pesos. And it's a lot cheaper.",
+  "label":"GPE",
+  "id":"30be0128-f14a-418c-8828-72b518bbff94",
+  "name":"Ilse"
+}

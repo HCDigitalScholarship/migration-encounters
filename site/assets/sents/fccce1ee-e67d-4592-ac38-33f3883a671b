@@ -1,0 +1,12 @@
+{
+  "start":7977,
+  "end":8014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did he know about Billy the\n Kid?",
+  "id":"fccce1ee-e67d-4592-ac38-33f3883a671b",
+  "params":{
+    "id":"eaf7d019-1f87-4f81-b1c9-5039d54a1938"
+  },
+  "name":"Billy"
+}

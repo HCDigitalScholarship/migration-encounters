@@ -1,0 +1,13 @@
+{
+  "start":1335,
+  "end":1399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you were five, you went from Veracruz to the United States?",
+  "id":"f8e56a3d-551e-45cb-9219-6085b8a9e62b",
+  "params":{
+    "id":"f8e56a3d-551e-45cb-9219-6085b8a9e62b",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20149,
+  "end":20171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's customer support.",
+  "id":"51f61f72-7b5d-4d29-9d3a-7df7325b22d2",
+  "params":{
+    "id":"b168bbdb-8f0d-4878-af56-45c4a21e804b"
+  },
+  "name":"Brenda"
+}

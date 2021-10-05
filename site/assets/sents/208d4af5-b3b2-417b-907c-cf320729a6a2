@@ -1,0 +1,12 @@
+{
+  "start":11953,
+  "end":11975,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is she back in Mexico?",
+  "id":"208d4af5-b3b2-417b-907c-cf320729a6a2",
+  "params":{
+    "id":"750be339-b273-49ce-8401-6d7a623a43b2"
+  },
+  "name":"Rocio"
+}

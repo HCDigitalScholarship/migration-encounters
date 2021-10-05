@@ -1,0 +1,13 @@
+{
+  "start":22566,
+  "end":22623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even in the United States, we\n   celebrated all the days.",
+  "id":"72729d02-988e-4d23-94ea-6c0838b32ad9",
+  "params":{
+    "id":"72729d02-988e-4d23-94ea-6c0838b32ad9",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

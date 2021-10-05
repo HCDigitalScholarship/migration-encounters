@@ -1,0 +1,13 @@
+{
+  "start":30337,
+  "end":30415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then I had my lunch from\u2014it was\n   half an hour by the way\u2014from 4:00 for 4:30.",
+  "id":"56fd240f-7f87-4244-83ca-98b68f54da23",
+  "params":{
+    "id":"56fd240f-7f87-4244-83ca-98b68f54da23",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7101,
+  "end":7119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"just sent me back.",
+  "id":"df1e9617-d51b-40a9-98dc-f9b31830935f",
+  "params":{
+    "id":"df1e9617-d51b-40a9-98dc-f9b31830935f",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

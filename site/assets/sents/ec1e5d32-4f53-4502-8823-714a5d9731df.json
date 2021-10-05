@@ -1,0 +1,13 @@
+{
+  "start":23703,
+  "end":23783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And no think about how a part of my\n   neighborhood went and killed one of them.",
+  "id":"ec1e5d32-4f53-4502-8823-714a5d9731df",
+  "params":{
+    "id":"ec1e5d32-4f53-4502-8823-714a5d9731df",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

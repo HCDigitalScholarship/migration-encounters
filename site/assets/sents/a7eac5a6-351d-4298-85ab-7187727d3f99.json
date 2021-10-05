@@ -1,0 +1,12 @@
+{
+  "start":10765,
+  "end":10805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We will see a\n   few black people there.",
+  "id":"a7eac5a6-351d-4298-85ab-7187727d3f99",
+  "params":{
+    "id":"39d1e6ae-180a-4bae-8e85-b43508427774"
+  },
+  "name":"Rodrigo"
+}

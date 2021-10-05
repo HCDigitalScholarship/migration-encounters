@@ -1,0 +1,13 @@
+{
+  "start":10215,
+  "end":10235,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started traveling.",
+  "id":"7b32d474-83a7-43c0-8c4d-7271d9f1a476",
+  "params":{
+    "id":"7b32d474-83a7-43c0-8c4d-7271d9f1a476",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

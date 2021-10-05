@@ -1,0 +1,12 @@
+{
+  "start":39227,
+  "end":39305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Anne: Thank you so much.\n      \n      \n Brenda: No, thank you.",
+  "id":"b1992ded-6fd2-4530-925e-1475d9607275",
+  "params":{
+    "id":"8d7a2563-8bad-465f-96c7-280afb842019"
+  },
+  "name":"Brenda"
+}

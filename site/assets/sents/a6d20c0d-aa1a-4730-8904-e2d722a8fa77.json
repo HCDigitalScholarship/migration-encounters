@@ -1,0 +1,13 @@
+{
+  "start":7047,
+  "end":7196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here in the phone industry, we manage the phones, but it's\n     the same at Kohls because you're not managing clothing, but you manage a\n     number.",
+  "id":"a6d20c0d-aa1a-4730-8904-e2d722a8fa77",
+  "params":{
+    "id":"a6d20c0d-aa1a-4730-8904-e2d722a8fa77",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

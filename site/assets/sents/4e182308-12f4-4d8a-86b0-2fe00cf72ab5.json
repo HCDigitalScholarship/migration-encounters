@@ -1,0 +1,13 @@
+{
+  "start":34292,
+  "end":34319,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n report with the police",
+  "id":"4e182308-12f4-4d8a-86b0-2fe00cf72ab5",
+  "params":{
+    "id":"4e182308-12f4-4d8a-86b0-2fe00cf72ab5",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

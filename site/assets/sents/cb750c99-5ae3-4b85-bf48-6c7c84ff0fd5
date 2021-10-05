@@ -1,0 +1,12 @@
+{
+  "start":27007,
+  "end":27026,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Painting now?",
+  "id":"cb750c99-5ae3-4b85-bf48-6c7c84ff0fd5",
+  "params":{
+    "id":"78e8cff5-3f46-48b2-964f-808782c2f196"
+  },
+  "name":"Edgar"
+}

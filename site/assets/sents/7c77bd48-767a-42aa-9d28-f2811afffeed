@@ -1,0 +1,12 @@
+{
+  "start":32019,
+  "end":32035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"You're Mexican.",
+  "id":"7c77bd48-767a-42aa-9d28-f2811afffeed",
+  "params":{
+    "id":"d12bd178-6624-4d3f-95ae-012e1adf3cf3"
+  },
+  "name":"Beto"
+}

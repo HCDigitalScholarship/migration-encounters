@@ -1,0 +1,13 @@
+{
+  "start":12708,
+  "end":12733,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We landed in Guadalajara.",
+  "id":"a2604006-d368-4cbe-82c5-ce4850c5b004",
+  "params":{
+    "id":"a2604006-d368-4cbe-82c5-ce4850c5b004",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

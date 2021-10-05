@@ -1,0 +1,13 @@
+{
+  "start":25949,
+  "end":25978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was only 15\n   years old.",
+  "id":"c4c63639-efce-489c-abfa-5729b6d4d6a8",
+  "params":{
+    "id":"c4c63639-efce-489c-abfa-5729b6d4d6a8",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

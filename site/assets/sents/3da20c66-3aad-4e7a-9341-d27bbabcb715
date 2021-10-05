@@ -1,0 +1,12 @@
+{
+  "start":30010,
+  "end":30024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things happen.",
+  "id":"3da20c66-3aad-4e7a-9341-d27bbabcb715",
+  "params":{
+    "id":"76fbfe37-f35e-47ea-97e6-f987b2f42723"
+  },
+  "name":"Kevin"
+}

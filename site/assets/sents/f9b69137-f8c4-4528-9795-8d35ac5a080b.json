@@ -1,0 +1,13 @@
+{
+  "start":24868,
+  "end":24914,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love to drive, that's one of my\n   passions.",
+  "id":"f9b69137-f8c4-4528-9795-8d35ac5a080b",
+  "params":{
+    "id":"f9b69137-f8c4-4528-9795-8d35ac5a080b",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

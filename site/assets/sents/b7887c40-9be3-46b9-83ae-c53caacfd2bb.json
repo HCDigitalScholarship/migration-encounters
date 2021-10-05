@@ -1,0 +1,13 @@
+{
+  "start":33936,
+  "end":34023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When my fingerprint came up, I had a warrant that he\n   couldn't see with just my name.",
+  "id":"b7887c40-9be3-46b9-83ae-c53caacfd2bb",
+  "params":{
+    "id":"b7887c40-9be3-46b9-83ae-c53caacfd2bb",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

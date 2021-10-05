@@ -1,0 +1,13 @@
+{
+  "start":19056,
+  "end":19150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could see that he's already been\n burnt by the sun and he's wearing these Mexican clothes.",
+  "id":"a78d1d72-c2c5-498e-84c8-296803a7eeca",
+  "params":{
+    "id":"a78d1d72-c2c5-498e-84c8-296803a7eeca",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

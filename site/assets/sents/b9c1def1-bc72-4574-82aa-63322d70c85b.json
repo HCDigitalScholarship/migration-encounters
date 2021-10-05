@@ -1,0 +1,13 @@
+{
+  "start":10291,
+  "end":10339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is the only one that doesn't mean anything.",
+  "id":"b9c1def1-bc72-4574-82aa-63322d70c85b",
+  "params":{
+    "id":"b9c1def1-bc72-4574-82aa-63322d70c85b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

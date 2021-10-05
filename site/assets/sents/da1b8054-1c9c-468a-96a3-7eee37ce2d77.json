@@ -1,0 +1,13 @@
+{
+  "start":2506,
+  "end":2687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know, I've seen right\n   here in Mexico that if you're in a bus and an old lady comes up in a bus,\n   they won't give her the seat and you know, they'll act like they're asleep.",
+  "id":"da1b8054-1c9c-468a-96a3-7eee37ce2d77",
+  "params":{
+    "id":"da1b8054-1c9c-468a-96a3-7eee37ce2d77",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

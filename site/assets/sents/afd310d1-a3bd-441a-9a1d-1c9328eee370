@@ -1,0 +1,12 @@
+{
+  "start":7245,
+  "end":7271,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Isabel: No!\n \n \n   Zayuri:",
+  "id":"afd310d1-a3bd-441a-9a1d-1c9328eee370",
+  "params":{
+    "id":"1ab80b12-ed64-4d17-8465-c51b07318b0b"
+  },
+  "name":"Zayuri"
+}

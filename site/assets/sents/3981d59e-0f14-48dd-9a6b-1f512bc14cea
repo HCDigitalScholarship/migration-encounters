@@ -1,0 +1,12 @@
+{
+  "start":22235,
+  "end":22277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know they had to come over and visit me.",
+  "id":"3981d59e-0f14-48dd-9a6b-1f512bc14cea",
+  "params":{
+    "id":"b95e7977-bbdf-48a7-b0d9-264e52c907c1"
+  },
+  "name":"Daniel"
+}

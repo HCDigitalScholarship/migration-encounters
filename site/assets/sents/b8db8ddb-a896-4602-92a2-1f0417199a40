@@ -1,0 +1,12 @@
+{
+  "start":35126,
+  "end":35169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It doesn't\n   necessarily come from Mexico.",
+  "id":"b8db8ddb-a896-4602-92a2-1f0417199a40",
+  "params":{
+    "id":"8fb1d362-04d6-4c8a-9c36-34cdf4bca8fa"
+  },
+  "name":"Kevin"
+}

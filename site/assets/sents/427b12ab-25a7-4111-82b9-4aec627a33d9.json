@@ -1,0 +1,13 @@
+{
+  "start":357,
+  "end":424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Initially when I was five years old, my dad went to the US to work.",
+  "id":"427b12ab-25a7-4111-82b9-4aec627a33d9",
+  "params":{
+    "id":"427b12ab-25a7-4111-82b9-4aec627a33d9",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

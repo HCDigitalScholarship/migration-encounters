@@ -1,0 +1,12 @@
+{
+  "start":9274,
+  "end":9337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you were in Texas initially, is that where you got married?",
+  "id":"fd2396fe-9cb2-4f37-bd99-78b21104ccbe",
+  "params":{
+    "id":"6d383740-4a15-411f-8068-5bec83a5a8cb"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":29126,
+  "end":29146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I saw the potential.",
+  "id":"9124cb5c-f3e7-4d13-a9ff-3a2758acd350",
+  "params":{
+    "id":"9124cb5c-f3e7-4d13-a9ff-3a2758acd350",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

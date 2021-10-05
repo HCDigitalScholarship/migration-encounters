@@ -1,0 +1,13 @@
+{
+  "start":13632,
+  "end":13676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was locked up, I just really gambled.",
+  "id":"60ccdcdf-e30e-426e-b281-e0cd6f3544a8",
+  "params":{
+    "id":"60ccdcdf-e30e-426e-b281-e0cd6f3544a8",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":35280,
+  "end":35301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're\n   the mafia.",
+  "id":"f9bf5e84-63e8-4904-87cd-41072cbf7f4a",
+  "params":{
+    "id":"85d70835-5ef1-4c75-bc29-e8fcd5f04843"
+  },
+  "name":"Kevin"
+}

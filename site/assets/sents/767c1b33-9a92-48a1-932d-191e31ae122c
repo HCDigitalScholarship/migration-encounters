@@ -1,0 +1,12 @@
+{
+  "start":4666,
+  "end":4709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, did it get better once you got to ____?",
+  "id":"767c1b33-9a92-48a1-932d-191e31ae122c",
+  "params":{
+    "id":"477623ca-e87f-44a9-b417-e442e93b65b5"
+  },
+  "name":"Joana"
+}

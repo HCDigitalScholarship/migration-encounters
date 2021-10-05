@@ -1,0 +1,13 @@
+{
+  "start":10363,
+  "end":10430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We drove\n   all the way over here, and he took the car and trailer.",
+  "id":"ec57c9cb-52e9-4ce7-8c72-facf2b95ccf1",
+  "params":{
+    "id":"ec57c9cb-52e9-4ce7-8c72-facf2b95ccf1",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

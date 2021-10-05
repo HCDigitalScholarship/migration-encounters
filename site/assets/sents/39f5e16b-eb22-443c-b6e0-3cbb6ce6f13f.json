@@ -1,0 +1,13 @@
+{
+  "start":3758,
+  "end":3808,
+  "label":"SENT",
+  "type":"sent",
+  "text":"People\n   would say I looked too young for my age.",
+  "id":"39f5e16b-eb22-443c-b6e0-3cbb6ce6f13f",
+  "params":{
+    "id":"39f5e16b-eb22-443c-b6e0-3cbb6ce6f13f",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

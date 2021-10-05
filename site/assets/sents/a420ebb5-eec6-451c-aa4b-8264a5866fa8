@@ -1,0 +1,12 @@
+{
+  "start":23824,
+  "end":23839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, it's worse?",
+  "id":"a420ebb5-eec6-451c-aa4b-8264a5866fa8",
+  "params":{
+    "id":"eeb03e68-5653-4fd2-b7f6-b0cb8da2219d"
+  },
+  "name":"Hugo"
+}

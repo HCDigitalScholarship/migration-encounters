@@ -1,0 +1,13 @@
+{
+  "start":20352,
+  "end":20402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Miguel Ruiz is the author, but\n   it's in Spanish.",
+  "id":"707d8a4f-219d-4b93-beb9-ac1c04df01a0",
+  "params":{
+    "id":"707d8a4f-219d-4b93-beb9-ac1c04df01a0",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

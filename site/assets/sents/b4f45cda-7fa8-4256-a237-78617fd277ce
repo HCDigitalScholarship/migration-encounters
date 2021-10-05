@@ -1,0 +1,12 @@
+{
+  "start":35375,
+  "end":35404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Le dije, \u201cHay muchos caminos.",
+  "id":"b4f45cda-7fa8-4256-a237-78617fd277ce",
+  "params":{
+    "id":"d504a6f3-c608-4f09-bf2c-5e9e1d622568"
+  },
+  "name":"Maria"
+}

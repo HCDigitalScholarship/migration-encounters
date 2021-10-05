@@ -1,0 +1,13 @@
+{
+  "start":19537,
+  "end":19568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it was a federal\n   prison.",
+  "id":"5bd0bb9b-842a-49cc-af92-5231816c9fd0",
+  "params":{
+    "id":"5bd0bb9b-842a-49cc-af92-5231816c9fd0",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":48983,
+  "end":49031,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo dije, \u201cNo, a m\u00ed hija nadie\n     me la quita\u201d.",
+  "id":"aa3d1bd4-2f70-4350-92ee-cc489b09e91c",
+  "params":{
+    "id":"5c6c5014-784a-4087-b190-63831f74c34f"
+  },
+  "name":"Maria"
+}

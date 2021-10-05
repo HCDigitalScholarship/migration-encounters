@@ -1,0 +1,12 @@
+{
+  "start":48582,
+  "end":48609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But you didn't do anything.",
+  "id":"a8f33d0f-7627-4dc1-b6cf-5235bdf5475a",
+  "params":{
+    "id":"967ee126-e20e-4b3e-a20d-f20b72137c42"
+  },
+  "name":"Axel"
+}

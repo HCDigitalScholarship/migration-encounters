@@ -1,0 +1,12 @@
+{
+  "start":10150,
+  "end":10254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, we talk about the shows, you know, the programming, what's\n   available to talk about in TeleTech.",
+  "id":"991cb726-5362-4eda-a8bd-9753613d8823",
+  "params":{
+    "id":"b28fe8de-0980-4068-8030-9db291f99195"
+  },
+  "name":"Ivan"
+}

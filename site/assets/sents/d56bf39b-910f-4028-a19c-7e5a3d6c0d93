@@ -1,0 +1,12 @@
+{
+  "start":35135,
+  "end":35161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n give you 50 pesos, man.",
+  "id":"d56bf39b-910f-4028-a19c-7e5a3d6c0d93",
+  "params":{
+    "id":"80841d74-6c80-4200-ab5f-732342491216"
+  },
+  "name":"Billy"
+}

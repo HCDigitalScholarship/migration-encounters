@@ -1,0 +1,12 @@
+{
+  "start":40825,
+  "end":40934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So they gave you the social security provisionally, and then took it\n   away when they realized\u2014\n \n \n   Mike:",
+  "id":"63976c36-b1c6-4bd8-bacb-1839ffdbfcbc",
+  "params":{
+    "id":"b2d32ec6-f353-4942-86ec-20664fc5b980"
+  },
+  "name":"Mike"
+}

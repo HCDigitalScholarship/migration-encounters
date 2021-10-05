@@ -1,0 +1,12 @@
+{
+  "start":32732,
+  "end":32768,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Same thing on the Fourth of\n   July.",
+  "id":"85b40be7-2696-403f-941e-8eca40afd450",
+  "params":{
+    "id":"912f96da-8f5a-4e99-ad17-6717960af64f"
+  },
+  "name":"Rodrigo"
+}

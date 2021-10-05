@@ -1,0 +1,12 @@
+{
+  "start":71119,
+  "end":71153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Mom, just ignore them.\"",
+  "id":"43a89ba4-5a4f-42cf-af06-afc27a0a310c",
+  "params":{
+    "id":"90ceebe0-016c-40da-8c2d-b16bb4522705"
+  },
+  "name":"Axel"
+}

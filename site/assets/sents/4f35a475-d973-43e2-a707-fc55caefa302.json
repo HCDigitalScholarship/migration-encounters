@@ -1,0 +1,13 @@
+{
+  "start":6264,
+  "end":6429,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I rented an apartment there for me and my\n wife and my son and my daughter; my son was a baby, but my daughter, she\n was like four years old, or three years old.",
+  "id":"4f35a475-d973-43e2-a707-fc55caefa302",
+  "params":{
+    "id":"4f35a475-d973-43e2-a707-fc55caefa302",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

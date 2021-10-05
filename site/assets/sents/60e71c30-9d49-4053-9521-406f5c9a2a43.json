@@ -1,0 +1,13 @@
+{
+  "start":27300,
+  "end":27363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   fingerprint me and they identify that I was two people.",
+  "id":"60e71c30-9d49-4053-9521-406f5c9a2a43",
+  "params":{
+    "id":"60e71c30-9d49-4053-9521-406f5c9a2a43",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

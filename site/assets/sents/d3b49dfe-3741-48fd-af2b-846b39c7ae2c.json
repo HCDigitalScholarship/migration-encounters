@@ -1,0 +1,13 @@
+{
+  "start":1492,
+  "end":1545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So at the moment, I\n   didn't know what was going on.",
+  "id":"d3b49dfe-3741-48fd-af2b-846b39c7ae2c",
+  "params":{
+    "id":"d3b49dfe-3741-48fd-af2b-846b39c7ae2c",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

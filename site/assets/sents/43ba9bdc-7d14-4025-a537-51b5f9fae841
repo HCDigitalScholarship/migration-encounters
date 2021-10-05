@@ -1,0 +1,12 @@
+{
+  "start":51415,
+  "end":51512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"I know\n it's three days till you're off, but we're just going to go ahead and\n sign.\"",
+  "id":"43ba9bdc-7d14-4025-a537-51b5f9fae841",
+  "params":{
+    "id":"26c1beed-9899-41aa-af23-cb6161bbde75"
+  },
+  "name":"Axel"
+}

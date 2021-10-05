@@ -1,0 +1,13 @@
+{
+  "start":29429,
+  "end":29453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got deported 10 years.",
+  "id":"60c83f05-a041-4e21-a4a8-fae7bb3fe7de",
+  "params":{
+    "id":"60c83f05-a041-4e21-a4a8-fae7bb3fe7de",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30807,
+  "end":30827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm the only person.",
+  "id":"137b3143-75d6-42e8-b7cd-e06aa010bcf0",
+  "params":{
+    "id":"137b3143-75d6-42e8-b7cd-e06aa010bcf0",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

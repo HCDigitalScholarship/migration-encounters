@@ -1,0 +1,13 @@
+{
+  "start":28029,
+  "end":28113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think the current administration, nothing good is going to happen\n[Abel chuckles].",
+  "id":"29a8f865-7706-40d0-99f6-cc4dfbbcb729",
+  "params":{
+    "id":"29a8f865-7706-40d0-99f6-cc4dfbbcb729",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

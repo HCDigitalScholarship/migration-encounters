@@ -1,0 +1,12 @@
+{
+  "start":52710,
+  "end":52736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ahorita acabo de regresar.",
+  "id":"0d179e6b-c8a1-4234-9d71-ee0b6c2b199a",
+  "params":{
+    "id":"cd86414c-b098-4409-938d-28a3d782f341"
+  },
+  "name":"Maria"
+}

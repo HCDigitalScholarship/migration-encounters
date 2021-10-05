@@ -1,0 +1,12 @@
+{
+  "start":8051,
+  "end":8113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, because he used to watch Westerns with his dad in\n Mexico.",
+  "id":"1f87de9e-b189-4505-baa6-c7acbc9f54a9",
+  "params":{
+    "id":"8607d028-221a-4cd2-ac62-4ec2f17b4818"
+  },
+  "name":"Billy"
+}

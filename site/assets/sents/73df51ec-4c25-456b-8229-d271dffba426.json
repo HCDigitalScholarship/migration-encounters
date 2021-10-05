@@ -1,0 +1,13 @@
+{
+  "start":172,
+  "end":187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Joana laughs].",
+  "id":"73df51ec-4c25-456b-8229-d271dffba426",
+  "params":{
+    "id":"73df51ec-4c25-456b-8229-d271dffba426",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

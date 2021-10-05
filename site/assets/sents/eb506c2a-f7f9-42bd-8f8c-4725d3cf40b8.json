@@ -1,0 +1,13 @@
+{
+  "start":27995,
+  "end":28063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n they asked me to, but I was honest, I go, \"You know I'm not",
+  "id":"eb506c2a-f7f9-42bd-8f8c-4725d3cf40b8",
+  "params":{
+    "id":"eb506c2a-f7f9-42bd-8f8c-4725d3cf40b8",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":17840,
+  "end":17915,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She\n   opened her doors to her house, and I lived with them for six months.",
+  "id":"86c23a6e-61f4-4306-9f37-c2979a8a1bd2",
+  "params":{
+    "id":"3a00f53d-c8f6-417e-a66b-b4fcaad851d1"
+  },
+  "name":"Ilse"
+}

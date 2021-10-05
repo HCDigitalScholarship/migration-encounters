@@ -1,0 +1,12 @@
+{
+  "start":9984,
+  "end":10088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   don't want to tell you this, but your wife is with this guy in his house\n   because we saw the car.",
+  "id":"85251dd1-deb8-4f0c-b6b1-5a287f2e5b92",
+  "params":{
+    "id":"ccb06aaa-1b87-4d71-a4f3-56f5fb78eed9"
+  },
+  "name":"Many"
+}

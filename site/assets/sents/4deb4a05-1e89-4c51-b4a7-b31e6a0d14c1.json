@@ -1,0 +1,13 @@
+{
+  "start":15108,
+  "end":15128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are you running?",
+  "id":"4deb4a05-1e89-4c51-b4a7-b31e6a0d14c1",
+  "params":{
+    "id":"4deb4a05-1e89-4c51-b4a7-b31e6a0d14c1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

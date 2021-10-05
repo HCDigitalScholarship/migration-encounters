@@ -1,0 +1,12 @@
+{
+  "start":6993,
+  "end":7017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I got really sick.",
+  "id":"2d6264fa-68be-4238-be30-4930baf513fd",
+  "params":{
+    "id":"b90cc0bc-2123-4cf0-92c9-d65a045ac20a"
+  },
+  "name":"Ana"
+}

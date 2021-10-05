@@ -1,0 +1,13 @@
+{
+  "start":60355,
+  "end":60392,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even,\n     whenever you're a veteran.",
+  "id":"f8e8a664-1b34-412b-81bf-fc50e905779a",
+  "params":{
+    "id":"f8e8a664-1b34-412b-81bf-fc50e905779a",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

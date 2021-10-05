@@ -1,0 +1,15 @@
+{
+  "start":5580,
+  "end":5604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I wasn't able\n   to.",
+  "id":"370c29f8-f2c2-4fd1-984d-adb4e0e8090a",
+  "params":{
+    "id":"370c29f8-f2c2-4fd1-984d-adb4e0e8090a",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

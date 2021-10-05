@@ -1,0 +1,13 @@
+{
+  "start":30711,
+  "end":30819,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He gets there and he's like, \"Danielel, I can't believe they got me out\n   of the bed because of a Mexican.\"",
+  "id":"8e84dd39-8634-4c3b-9927-780de48c3a0b",
+  "params":{
+    "id":"8e84dd39-8634-4c3b-9927-780de48c3a0b",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

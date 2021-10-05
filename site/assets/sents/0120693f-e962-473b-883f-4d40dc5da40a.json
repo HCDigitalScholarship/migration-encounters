@@ -1,0 +1,13 @@
+{
+  "start":32110,
+  "end":32193,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No quiero que\n   me vean diferente (I don\u2019t want to be seen differently), you know?",
+  "id":"0120693f-e962-473b-883f-4d40dc5da40a",
+  "params":{
+    "id":"0120693f-e962-473b-883f-4d40dc5da40a",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

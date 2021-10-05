@@ -1,0 +1,13 @@
+{
+  "start":13,
+  "end":113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess the first question I have for you is how old were you when\n   you went to the United States?",
+  "id":"3592aba3-d3d9-47f1-ad14-61f272c6e3d4",
+  "params":{
+    "id":"3592aba3-d3d9-47f1-ad14-61f272c6e3d4",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

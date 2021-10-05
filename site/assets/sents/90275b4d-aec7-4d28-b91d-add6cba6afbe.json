@@ -1,0 +1,13 @@
+{
+  "start":1516,
+  "end":1556,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Over the border, you crossed the border.",
+  "id":"90275b4d-aec7-4d28-b91d-add6cba6afbe",
+  "params":{
+    "id":"90275b4d-aec7-4d28-b91d-add6cba6afbe",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24391,
+  "end":24435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know, because she can't do anything.",
+  "id":"6d421561-e350-495f-9476-51e1b8f7bbdb",
+  "params":{
+    "id":"6d421561-e350-495f-9476-51e1b8f7bbdb",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

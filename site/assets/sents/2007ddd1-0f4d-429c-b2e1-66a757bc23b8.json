@@ -1,0 +1,13 @@
+{
+  "start":5159,
+  "end":5221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then\n   after that, we were lost in the desert for three days.",
+  "id":"2007ddd1-0f4d-429c-b2e1-66a757bc23b8",
+  "params":{
+    "id":"2007ddd1-0f4d-429c-b2e1-66a757bc23b8",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

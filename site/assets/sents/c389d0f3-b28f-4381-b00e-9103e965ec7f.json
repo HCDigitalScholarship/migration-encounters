@@ -1,0 +1,13 @@
+{
+  "start":2765,
+  "end":2790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was ________, right?",
+  "id":"c389d0f3-b28f-4381-b00e-9103e965ec7f",
+  "params":{
+    "id":"c389d0f3-b28f-4381-b00e-9103e965ec7f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

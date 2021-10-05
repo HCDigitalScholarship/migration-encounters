@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":1082,
+  "end":1268,
+  "label":"Time in the US, Illness",
+  "id":"3bac20f6-7093-436d-b70b-b227797f370d",
+  "params":{
+    "id":"37254c5f-a34b-4ee7-8bb2-9be37140ad22"
+  },
+  "name":"Carolina",
+  "text":"Anne: I see. What kind of sickness did you have?\n \n \n   Carolina: I don't really remember. I don't really remember.\n \n \n   Anne: But you're well now.\n \n \n   Carolina: I'm healthy.\n \n \n  "
+}

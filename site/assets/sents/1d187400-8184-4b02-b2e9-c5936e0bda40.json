@@ -1,0 +1,13 @@
+{
+  "start":12792,
+  "end":12809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would sell CDs.",
+  "id":"1d187400-8184-4b02-b2e9-c5936e0bda40",
+  "params":{
+    "id":"1d187400-8184-4b02-b2e9-c5936e0bda40",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

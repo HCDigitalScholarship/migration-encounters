@@ -1,0 +1,13 @@
+{
+  "start":2753,
+  "end":2820,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people would talk to me, and I was like [gestures] with signs.",
+  "id":"a918d8e7-33a8-4146-801d-345f5039491b",
+  "params":{
+    "id":"a918d8e7-33a8-4146-801d-345f5039491b",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17100,
+  "end":17205,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   always said, \"It's dumb to say I got in the neighborhood because my family,\n   they didn't love me.\"",
+  "id":"3e2ddf99-696a-4529-b66b-acbe4ec51524",
+  "params":{
+    "id":"3e2ddf99-696a-4529-b66b-acbe4ec51524",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

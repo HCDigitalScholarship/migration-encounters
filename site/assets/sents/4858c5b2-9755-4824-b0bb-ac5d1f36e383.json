@@ -1,0 +1,13 @@
+{
+  "start":8670,
+  "end":8708,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   started getting my head straight.",
+  "id":"4858c5b2-9755-4824-b0bb-ac5d1f36e383",
+  "params":{
+    "id":"4858c5b2-9755-4824-b0bb-ac5d1f36e383",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

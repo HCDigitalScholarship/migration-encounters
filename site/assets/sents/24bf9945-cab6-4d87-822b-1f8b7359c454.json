@@ -1,0 +1,13 @@
+{
+  "start":28785,
+  "end":28851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n     Was he respectful at all?\n \n \n     Beto:\n \n \n     ",
+  "id":"24bf9945-cab6-4d87-822b-1f8b7359c454",
+  "params":{
+    "id":"24bf9945-cab6-4d87-822b-1f8b7359c454",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

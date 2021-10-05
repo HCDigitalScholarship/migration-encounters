@@ -1,0 +1,13 @@
+{
+  "start":18006,
+  "end":18056,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in the store, and this\n guy got super crazy.",
+  "id":"4600739e-2619-4dd7-9f90-331b21ad47cc",
+  "params":{
+    "id":"4600739e-2619-4dd7-9f90-331b21ad47cc",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

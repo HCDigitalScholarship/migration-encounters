@@ -1,0 +1,13 @@
+{
+  "start":46784,
+  "end":46836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n like, \"I'm waiting for a probation officer too.",
+  "id":"da39d72d-7077-48ab-befe-ec92763ed1fd",
+  "params":{
+    "id":"da39d72d-7077-48ab-befe-ec92763ed1fd",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

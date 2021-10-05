@@ -1,0 +1,13 @@
+{
+  "start":36224,
+  "end":36352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Most of the project managers that have talked to clients, they\n     even told me that they don't understand the business itself.",
+  "id":"3df611e6-b307-4552-b187-4ff7aa08422a",
+  "params":{
+    "id":"3df611e6-b307-4552-b187-4ff7aa08422a",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

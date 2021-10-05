@@ -1,0 +1,13 @@
+{
+  "start":14892,
+  "end":14910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n family's house",
+  "id":"a4df072b-b008-44fd-a6b5-e0498e45f166",
+  "params":{
+    "id":"a4df072b-b008-44fd-a6b5-e0498e45f166",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

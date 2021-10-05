@@ -1,0 +1,12 @@
+{
+  "start":28315,
+  "end":28332,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What changed you?",
+  "id":"fc7d48c3-401c-414a-b31d-1a66ea333600",
+  "params":{
+    "id":"62d15160-2420-41d8-b6f7-954527d34b25"
+  },
+  "name":"Yair"
+}

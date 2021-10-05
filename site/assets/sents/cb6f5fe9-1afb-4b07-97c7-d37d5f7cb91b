@@ -1,0 +1,12 @@
+{
+  "start":57145,
+  "end":57172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No yo creo que eso es todo.",
+  "id":"cb6f5fe9-1afb-4b07-97c7-d37d5f7cb91b",
+  "params":{
+    "id":"8a70634c-e52a-40db-81a5-664ff02645ba"
+  },
+  "name":"Maria"
+}

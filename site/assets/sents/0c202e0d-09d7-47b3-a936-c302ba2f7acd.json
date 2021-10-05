@@ -1,0 +1,13 @@
+{
+  "start":32850,
+  "end":32925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n   crying to myself, nobody was watching me, with my head bowed down.",
+  "id":"0c202e0d-09d7-47b3-a936-c302ba2f7acd",
+  "params":{
+    "id":"0c202e0d-09d7-47b3-a936-c302ba2f7acd",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

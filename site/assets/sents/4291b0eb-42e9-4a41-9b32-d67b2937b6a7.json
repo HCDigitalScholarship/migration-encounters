@@ -1,0 +1,13 @@
+{
+  "start":37189,
+  "end":37285,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't got a gun, like you're going to get either shot, or\n   you're going to get beat up.",
+  "id":"4291b0eb-42e9-4a41-9b32-d67b2937b6a7",
+  "params":{
+    "id":"4291b0eb-42e9-4a41-9b32-d67b2937b6a7",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

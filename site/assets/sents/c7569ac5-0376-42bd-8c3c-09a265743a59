@@ -1,0 +1,12 @@
+{
+  "start":35189,
+  "end":35227,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you're happy to be back in Mexico?",
+  "id":"c7569ac5-0376-42bd-8c3c-09a265743a59",
+  "params":{
+    "id":"8107be78-f830-4fa9-8a8c-b35e9cbbd072"
+  },
+  "name":"Jeimmy"
+}

@@ -1,0 +1,15 @@
+{
+  "start":12154,
+  "end":12172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know that scale.",
+  "id":"45cddd71-d964-483e-8b9e-911addc578d8",
+  "params":{
+    "id":"45cddd71-d964-483e-8b9e-911addc578d8",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

@@ -1,0 +1,12 @@
+{
+  "start":37076,
+  "end":37122,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We got the addresses, let's just go\n get them.",
+  "id":"b08aefab-5842-4de5-895e-a30990b11511",
+  "params":{
+    "id":"f0f12dee-b8f7-4e76-84df-3dc85e22d4f0"
+  },
+  "name":"Ben"
+}

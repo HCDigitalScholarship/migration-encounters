@@ -1,0 +1,12 @@
+{
+  "start":21566,
+  "end":21613,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They started calling me, and there\u2019s no answer.",
+  "id":"8eea885d-4ddb-4168-83b7-771d220e3aa8",
+  "params":{
+    "id":"ca1588de-c704-4a0b-a689-bef370139ee5"
+  },
+  "name":"Many"
+}

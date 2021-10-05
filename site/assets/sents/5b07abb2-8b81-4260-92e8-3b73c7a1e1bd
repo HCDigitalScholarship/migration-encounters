@@ -1,0 +1,12 @@
+{
+  "start":20643,
+  "end":20655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't worry.",
+  "id":"5b07abb2-8b81-4260-92e8-3b73c7a1e1bd",
+  "params":{
+    "id":"c3c6e896-c00c-475a-8622-ae1c5460ee21"
+  },
+  "name":"Sylent"
+}

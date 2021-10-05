@@ -1,0 +1,12 @@
+{
+  "start":17200,
+  "end":17249,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And this, I'm just going to go back for a second.",
+  "id":"5f9d59e1-6274-40f3-a53e-992c78038b88",
+  "params":{
+    "id":"db4dfddb-442e-4ece-951a-75c224f9110d"
+  },
+  "name":"Ilse"
+}

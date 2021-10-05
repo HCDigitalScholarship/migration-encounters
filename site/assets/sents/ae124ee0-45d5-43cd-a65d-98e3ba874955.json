@@ -1,0 +1,12 @@
+{
+  "start":123,
+  "end":153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is your country of birth?",
+  "id":"ae124ee0-45d5-43cd-a65d-98e3ba874955",
+  "params":{
+    "id":"786c19e1-1fea-44ee-aa48-c27b49544c1f"
+  },
+  "name":"Josue"
+}

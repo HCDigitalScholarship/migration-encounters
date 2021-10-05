@@ -1,0 +1,13 @@
+{
+  "start":15184,
+  "end":15240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to work\u2014\n \n \n   Anita: At the fiberglass factory?",
+  "id":"c0c712bc-d7b4-40ca-9f68-d54435bb8cd2",
+  "params":{
+    "id":"c0c712bc-d7b4-40ca-9f68-d54435bb8cd2",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

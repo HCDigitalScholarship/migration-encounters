@@ -1,0 +1,12 @@
+{
+  "start":46745,
+  "end":46764,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"How you\n   doing?\"",
+  "id":"9c0b2b79-0f8e-4d5f-8e5d-10c1db4f0a35",
+  "params":{
+    "id":"c409f48d-13eb-4b3a-a423-ec79dab0ef67"
+  },
+  "name":"Rodrigo"
+}

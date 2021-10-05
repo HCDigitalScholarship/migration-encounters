@@ -1,0 +1,13 @@
+{
+  "start":4019,
+  "end":4041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it was in a hotel.",
+  "id":"931efcd3-b404-4f18-ab37-a6dc6a789be8",
+  "params":{
+    "id":"931efcd3-b404-4f18-ab37-a6dc6a789be8",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4386,
+  "end":4400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Almost a year.",
+  "id":"d1a44ba6-0875-43da-bb3c-ea82acd8c9fd",
+  "params":{
+    "id":"d1a44ba6-0875-43da-bb3c-ea82acd8c9fd",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

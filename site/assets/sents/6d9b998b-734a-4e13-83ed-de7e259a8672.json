@@ -1,0 +1,13 @@
+{
+  "start":25324,
+  "end":25335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Si, si, si.",
+  "id":"6d9b998b-734a-4e13-83ed-de7e259a8672",
+  "params":{
+    "id":"6d9b998b-734a-4e13-83ed-de7e259a8672",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

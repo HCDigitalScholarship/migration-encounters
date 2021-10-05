@@ -1,0 +1,13 @@
+{
+  "start":46119,
+  "end":46164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, because\n   I did the voluntary departure.",
+  "id":"8780a281-015d-4c71-9a83-74a9af26fa02",
+  "params":{
+    "id":"8780a281-015d-4c71-9a83-74a9af26fa02",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

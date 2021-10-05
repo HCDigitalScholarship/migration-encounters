@@ -1,0 +1,13 @@
+{
+  "start":20277,
+  "end":20301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I see myself as Mexican.",
+  "id":"671d05b5-588d-4a2c-baed-0cac61468837",
+  "params":{
+    "id":"671d05b5-588d-4a2c-baed-0cac61468837",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

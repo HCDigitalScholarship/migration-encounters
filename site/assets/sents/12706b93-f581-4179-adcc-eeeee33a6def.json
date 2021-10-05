@@ -1,0 +1,13 @@
+{
+  "start":9173,
+  "end":9183,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like it.",
+  "id":"12706b93-f581-4179-adcc-eeeee33a6def",
+  "params":{
+    "id":"12706b93-f581-4179-adcc-eeeee33a6def",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":27017,
+  "end":27023,
+  "text":" going to call\n     my parents.\" Then the girl says, the translator said, \"How do you do it?\"\n     \"Because that's how I learned to do it.\" \"Where do you learn to do it? He's\n     asking where you-\" \"Mexico.\" \"He wants you to teach him how you did that.\"\n     \"Well, this, this goes like this and you go like that\". \"But how come you\n     don't put anything on the board? How come you don't write anything?",
+  "label":"GPE",
+  "id":"40f98af9-faca-4d2f-a9d8-7679012d8e58",
+  "name":"Beto"
+}

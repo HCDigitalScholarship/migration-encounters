@@ -1,0 +1,13 @@
+{
+  "start":19913,
+  "end":19960,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had a lot of things\n   going on with them.",
+  "id":"cdac3a08-c04e-41a6-aa6e-a0a544527d83",
+  "params":{
+    "id":"cdac3a08-c04e-41a6-aa6e-a0a544527d83",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

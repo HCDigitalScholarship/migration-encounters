@@ -1,0 +1,12 @@
+{
+  "start":1309,
+  "end":1378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad just went in with a car to California, and then we go\n   back.",
+  "id":"4477c1c7-96ca-4b28-aa2d-f3d4afae75b8",
+  "params":{
+    "id":"efc2d758-ff59-4939-8f8b-4c1112283097"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":23167,
+  "end":23194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then, go to\n   college.",
+  "id":"e53b5ec1-fa0d-4a95-92a0-fe9908bbfe27",
+  "params":{
+    "id":"45ee94cc-1cf2-4ac5-9401-c83545fe9de3"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31293,
+  "end":31390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If things happen, you can't even rely on\n   police, or you can't even rely on a single ambulance.",
+  "id":"57d3c2a7-b03e-4064-a5b4-74a592280790",
+  "params":{
+    "id":"57d3c2a7-b03e-4064-a5b4-74a592280790",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

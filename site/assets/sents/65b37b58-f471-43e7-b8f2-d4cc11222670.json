@@ -1,0 +1,13 @@
+{
+  "start":7736,
+  "end":7778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In Mexico, I have an uncle who's a doctor.",
+  "id":"65b37b58-f471-43e7-b8f2-d4cc11222670",
+  "params":{
+    "id":"65b37b58-f471-43e7-b8f2-d4cc11222670",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":780,
+  "end":824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't\n   know what the hell was going on.",
+  "id":"1a906758-0ee9-4fed-bf4a-04214aa83248",
+  "params":{
+    "id":"72729f26-34b7-4099-a6dc-7a6bdf84ce44"
+  },
+  "name":"Luis B"
+}

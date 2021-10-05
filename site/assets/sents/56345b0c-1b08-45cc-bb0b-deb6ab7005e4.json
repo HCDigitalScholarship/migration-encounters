@@ -1,0 +1,13 @@
+{
+  "start":11954,
+  "end":12007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n basically a school and it had a perfect hill.",
+  "id":"56345b0c-1b08-45cc-bb0b-deb6ab7005e4",
+  "params":{
+    "id":"56345b0c-1b08-45cc-bb0b-deb6ab7005e4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

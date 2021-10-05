@@ -1,0 +1,12 @@
+{
+  "start":34435,
+  "end":34544,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo tengo que ense\u00f1arles a ellos, que ellos tienen que\n     salir solos sin que est\u00e9 mami o sin que est\u00e9 papi.",
+  "id":"0bef1110-45ec-43f3-a2c2-5740067cab15",
+  "params":{
+    "id":"0d24ffcd-263a-497a-bbf0-5ee8dac3d241"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15461,
+  "end":15517,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love Mexican culture, but it was a\n   little bit hard.",
+  "id":"2293ef47-508e-4fb2-a1d7-6e18c4b666d7",
+  "params":{
+    "id":"2293ef47-508e-4fb2-a1d7-6e18c4b666d7",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

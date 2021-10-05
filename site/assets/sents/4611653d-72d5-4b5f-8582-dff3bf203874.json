@@ -1,0 +1,13 @@
+{
+  "start":27426,
+  "end":27470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not like you're\n   assisting customers.",
+  "id":"4611653d-72d5-4b5f-8582-dff3bf203874",
+  "params":{
+    "id":"4611653d-72d5-4b5f-8582-dff3bf203874",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

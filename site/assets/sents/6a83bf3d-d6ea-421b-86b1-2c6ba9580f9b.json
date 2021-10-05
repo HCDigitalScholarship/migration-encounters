@@ -1,0 +1,13 @@
+{
+  "start":19439,
+  "end":19459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A Mart\u00edn le pegaron.",
+  "id":"6a83bf3d-d6ea-421b-86b1-2c6ba9580f9b",
+  "params":{
+    "id":"6a83bf3d-d6ea-421b-86b1-2c6ba9580f9b",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

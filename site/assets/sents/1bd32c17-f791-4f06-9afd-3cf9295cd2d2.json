@@ -1,0 +1,13 @@
+{
+  "start":31606,
+  "end":31677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then, okay, Chicano goes to LA Dodgers stadium, and he's\n     American.",
+  "id":"1bd32c17-f791-4f06-9afd-3cf9295cd2d2",
+  "params":{
+    "id":"1bd32c17-f791-4f06-9afd-3cf9295cd2d2",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

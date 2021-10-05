@@ -1,0 +1,12 @@
+{
+  "start":1103,
+  "end":1119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It was hard.",
+  "id":"93c4e0f8-0a3c-4002-9233-94b308fad7dd",
+  "params":{
+    "id":"86b15255-be31-4ea5-913d-02992ebe2c14"
+  },
+  "name":"Many"
+}

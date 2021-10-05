@@ -1,0 +1,12 @@
+{
+  "start":15985,
+  "end":16004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She told me, \"Yeah.",
+  "id":"4db4648a-08e6-41c0-8359-b6cae6659e04",
+  "params":{
+    "id":"49fa7ac4-d86e-4341-a148-07b12f399642"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16852,
+  "end":16897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's a really\n   difficult thing to rehash.",
+  "id":"f18f3e99-c983-483c-8bf5-ee9daa06116f",
+  "params":{
+    "id":"f18f3e99-c983-483c-8bf5-ee9daa06116f",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

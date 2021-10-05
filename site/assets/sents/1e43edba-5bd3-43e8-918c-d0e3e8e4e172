@@ -1,0 +1,12 @@
+{
+  "start":25401,
+  "end":25438,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't go to prison like I\n   did.",
+  "id":"1e43edba-5bd3-43e8-918c-d0e3e8e4e172",
+  "params":{
+    "id":"9a5835c8-7e66-4c6b-b182-74cae6d43ae5"
+  },
+  "name":"Sylent"
+}

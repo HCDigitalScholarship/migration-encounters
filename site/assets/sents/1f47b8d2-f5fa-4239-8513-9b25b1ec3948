@@ -1,0 +1,12 @@
+{
+  "start":11230,
+  "end":11239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"right now",
+  "id":"1f47b8d2-f5fa-4239-8513-9b25b1ec3948",
+  "params":{
+    "id":"e416c97e-cb45-4cd8-a89d-16e05b6119fb"
+  },
+  "name":"Many"
+}

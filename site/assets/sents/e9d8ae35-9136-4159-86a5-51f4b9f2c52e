@@ -1,0 +1,12 @@
+{
+  "start":5787,
+  "end":5806,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where was your dad?",
+  "id":"e9d8ae35-9136-4159-86a5-51f4b9f2c52e",
+  "params":{
+    "id":"8918ca2e-21bf-43be-a721-d81772d6c7c9"
+  },
+  "name":"Roberto"
+}

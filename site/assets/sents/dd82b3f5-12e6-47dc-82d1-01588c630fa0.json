@@ -1,0 +1,13 @@
+{
+  "start":21223,
+  "end":21249,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And now that we have that.",
+  "id":"dd82b3f5-12e6-47dc-82d1-01588c630fa0",
+  "params":{
+    "id":"dd82b3f5-12e6-47dc-82d1-01588c630fa0",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

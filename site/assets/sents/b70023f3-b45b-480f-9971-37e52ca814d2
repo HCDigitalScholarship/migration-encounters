@@ -1,0 +1,12 @@
+{
+  "start":32702,
+  "end":32725,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where have you\n   been?",
+  "id":"b70023f3-b45b-480f-9971-37e52ca814d2",
+  "params":{
+    "id":"c88cd663-30e6-4340-b223-8cd835d0b202"
+  },
+  "name":"Ruben"
+}

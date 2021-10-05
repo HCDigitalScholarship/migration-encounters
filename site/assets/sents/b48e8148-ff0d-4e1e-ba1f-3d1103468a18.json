@@ -1,0 +1,13 @@
+{
+  "start":6546,
+  "end":6619,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, she wasn't random, but she was just some\n   lady I didn't know.",
+  "id":"b48e8148-ff0d-4e1e-ba1f-3d1103468a18",
+  "params":{
+    "id":"b48e8148-ff0d-4e1e-ba1f-3d1103468a18",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

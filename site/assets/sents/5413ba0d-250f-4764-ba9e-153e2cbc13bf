@@ -1,0 +1,12 @@
+{
+  "start":34150,
+  "end":34171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I kind of guess that.",
+  "id":"5413ba0d-250f-4764-ba9e-153e2cbc13bf",
+  "params":{
+    "id":"acf696ef-afe8-4b5f-8daf-a7dc843130ca"
+  },
+  "name":"Sylent"
+}

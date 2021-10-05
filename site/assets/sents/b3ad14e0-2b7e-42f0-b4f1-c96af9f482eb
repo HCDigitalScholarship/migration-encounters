@@ -1,0 +1,12 @@
+{
+  "start":27767,
+  "end":27780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't go.",
+  "id":"b3ad14e0-2b7e-42f0-b4f1-c96af9f482eb",
+  "params":{
+    "id":"36bc7911-3280-49f9-baf2-3ed58083af41"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7275,
+  "end":7359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201d So yeah, I think\n   that sold it pretty well to the guy that was checking the IDs.",
+  "id":"7787f516-61a2-4ae8-9977-dd95ad9dce0f",
+  "params":{
+    "id":"e9439681-c313-426b-a097-2b7932b4d990"
+  },
+  "name":"Luis A"
+}

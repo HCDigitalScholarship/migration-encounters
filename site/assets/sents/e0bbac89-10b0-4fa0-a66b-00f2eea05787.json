@@ -1,0 +1,12 @@
+{
+  "start":18235,
+  "end":18275,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came over here, I couldn't find a job.",
+  "id":"e0bbac89-10b0-4fa0-a66b-00f2eea05787",
+  "params":{
+    "id":"fae35b86-17f2-4df0-983f-bf94bc91aabd"
+  },
+  "name":"Rodrigo"
+}

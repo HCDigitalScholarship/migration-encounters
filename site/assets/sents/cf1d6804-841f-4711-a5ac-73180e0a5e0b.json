@@ -1,0 +1,13 @@
+{
+  "start":25968,
+  "end":25984,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, my family.",
+  "id":"cf1d6804-841f-4711-a5ac-73180e0a5e0b",
+  "params":{
+    "id":"cf1d6804-841f-4711-a5ac-73180e0a5e0b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

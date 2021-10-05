@@ -1,0 +1,13 @@
+{
+  "start":53050,
+  "end":53077,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Give me that effing phone.\"",
+  "id":"1b233baf-b0b7-414e-8701-f8d88ad6ff01",
+  "params":{
+    "id":"1b233baf-b0b7-414e-8701-f8d88ad6ff01",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

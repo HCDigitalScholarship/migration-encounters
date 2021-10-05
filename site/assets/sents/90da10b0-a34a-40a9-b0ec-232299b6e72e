@@ -1,0 +1,12 @@
+{
+  "start":13005,
+  "end":13029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want some hamburgers.\"",
+  "id":"90da10b0-a34a-40a9-b0ec-232299b6e72e",
+  "params":{
+    "id":"b4c044a9-cb1e-4956-984f-fff27a58e489"
+  },
+  "name":"Rodrigo"
+}

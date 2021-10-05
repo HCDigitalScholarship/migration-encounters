@@ -1,0 +1,13 @@
+{
+  "start":35581,
+  "end":35638,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you're in the streetwise, you learn a lot of things.",
+  "id":"235ba846-66ba-45db-8357-dba0b78bb841",
+  "params":{
+    "id":"235ba846-66ba-45db-8357-dba0b78bb841",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,12 @@
+{
+  "start":12765,
+  "end":12781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved to read.",
+  "id":"beb2db1d-a93d-40ca-b845-081d73eb7c04",
+  "params":{
+    "id":"605bb920-6fe1-4480-bf6f-e507dcd75ec0"
+  },
+  "name":"Luisa"
+}

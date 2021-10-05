@@ -1,0 +1,13 @@
+{
+  "start":10900,
+  "end":11012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So she\n   told me it was about five months that I was going to be with her and then I\n   was going to move back.",
+  "id":"3e451180-3947-488a-ab41-4719c25b9f48",
+  "params":{
+    "id":"3e451180-3947-488a-ab41-4719c25b9f48",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

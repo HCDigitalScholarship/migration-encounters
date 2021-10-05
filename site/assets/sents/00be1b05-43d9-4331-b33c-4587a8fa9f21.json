@@ -1,0 +1,13 @@
+{
+  "start":8099,
+  "end":8120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, she was afraid.",
+  "id":"00be1b05-43d9-4331-b33c-4587a8fa9f21",
+  "params":{
+    "id":"00be1b05-43d9-4331-b33c-4587a8fa9f21",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

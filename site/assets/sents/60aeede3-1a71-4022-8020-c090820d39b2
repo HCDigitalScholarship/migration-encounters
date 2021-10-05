@@ -1,0 +1,12 @@
+{
+  "start":35117,
+  "end":35137,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She doesn't like it.",
+  "id":"60aeede3-1a71-4022-8020-c090820d39b2",
+  "params":{
+    "id":"f0d8f281-a799-4757-b94c-0dcf8f407d5b"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24183,
+  "end":24361,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Mike: So yeah, I feel like it was around my freshman year, everything\n   started going downhill, because I used to be in events, classes, and all my\n   teachers loved me.",
+  "id":"07b2e8ea-48b5-4517-b600-6f74394cc322",
+  "params":{
+    "id":"07b2e8ea-48b5-4517-b600-6f74394cc322",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

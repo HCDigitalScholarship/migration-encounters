@@ -1,0 +1,12 @@
+{
+  "start":9448,
+  "end":9465,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't complain.",
+  "id":"9514b7e8-8256-4db2-8167-b74a54401ad1",
+  "params":{
+    "id":"44ae6287-5eba-459a-8808-2c12c8c34f43"
+  },
+  "name":"Ivan"
+}

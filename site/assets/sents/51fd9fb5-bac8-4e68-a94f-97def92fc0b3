@@ -1,0 +1,12 @@
+{
+  "start":22794,
+  "end":22854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is there anything else you'd like to\n add before we wrap up?",
+  "id":"51fd9fb5-bac8-4e68-a94f-97def92fc0b3",
+  "params":{
+    "id":"9f72e27c-a637-4722-9efe-11ac5c8b4310"
+  },
+  "name":"Ana"
+}

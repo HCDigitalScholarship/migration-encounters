@@ -1,0 +1,13 @@
+{
+  "start":21271,
+  "end":21354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I grew older, my\n   father was very scared of me because of what I had become.",
+  "id":"4f148179-7ba9-400f-8040-e70703dff993",
+  "params":{
+    "id":"4f148179-7ba9-400f-8040-e70703dff993",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

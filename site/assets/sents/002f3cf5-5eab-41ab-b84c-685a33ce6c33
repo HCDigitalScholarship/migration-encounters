@@ -1,0 +1,12 @@
+{
+  "start":14003,
+  "end":14024,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You play video games?",
+  "id":"002f3cf5-5eab-41ab-b84c-685a33ce6c33",
+  "params":{
+    "id":"242ff45e-0085-473b-aab6-7a88ef5d9899"
+  },
+  "name":"Roberto"
+}

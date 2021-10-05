@@ -1,0 +1,13 @@
+{
+  "start":20654,
+  "end":20685,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What else can I go\n   through?\"",
+  "id":"1a6792e6-8200-46c6-8c4e-04df43c98555",
+  "params":{
+    "id":"1a6792e6-8200-46c6-8c4e-04df43c98555",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

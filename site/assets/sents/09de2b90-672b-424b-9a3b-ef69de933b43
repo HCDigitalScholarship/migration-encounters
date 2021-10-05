@@ -1,0 +1,12 @@
+{
+  "start":3756,
+  "end":3778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you like learning?",
+  "id":"09de2b90-672b-424b-9a3b-ef69de933b43",
+  "params":{
+    "id":"ac292b18-7f24-42d3-8dcf-959eef051ab8"
+  },
+  "name":"Carlos"
+}

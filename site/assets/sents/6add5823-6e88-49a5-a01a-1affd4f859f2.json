@@ -1,0 +1,13 @@
+{
+  "start":21607,
+  "end":21687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They arrested us for, supposedly, a strong armed\n   robbery, which we never did.",
+  "id":"6add5823-6e88-49a5-a01a-1affd4f859f2",
+  "params":{
+    "id":"6add5823-6e88-49a5-a01a-1affd4f859f2",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

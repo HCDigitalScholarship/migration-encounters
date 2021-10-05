@@ -1,0 +1,13 @@
+{
+  "start":30129,
+  "end":30201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Axel: But when you go to the new area, it's like...\n      \n      \n Anne:",
+  "id":"eef525e6-7656-42b0-9a09-1b6732652b34",
+  "params":{
+    "id":"eef525e6-7656-42b0-9a09-1b6732652b34",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

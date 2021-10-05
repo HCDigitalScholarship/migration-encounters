@@ -1,0 +1,13 @@
+{
+  "start":10006,
+  "end":10036,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They took me in the back door.",
+  "id":"cf146f44-2093-49a8-af98-6165adf25199",
+  "params":{
+    "id":"cf146f44-2093-49a8-af98-6165adf25199",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

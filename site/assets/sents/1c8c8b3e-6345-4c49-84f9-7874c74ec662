@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":66,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So Joseph, thank you so much for agreeing to talk to us.",
+  "id":"1c8c8b3e-6345-4c49-84f9-7874c74ec662",
+  "params":{
+    "id":"bdadd941-3c0f-4d87-bf1c-a919f7a62e3f"
+  },
+  "name":"Joseph"
+}

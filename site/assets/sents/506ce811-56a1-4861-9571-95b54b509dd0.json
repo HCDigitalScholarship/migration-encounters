@@ -1,0 +1,13 @@
+{
+  "start":6803,
+  "end":6910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My older sister was living in the house with my dad too, but she\n   worked all day too and stuff like that.",
+  "id":"506ce811-56a1-4861-9571-95b54b509dd0",
+  "params":{
+    "id":"506ce811-56a1-4861-9571-95b54b509dd0",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

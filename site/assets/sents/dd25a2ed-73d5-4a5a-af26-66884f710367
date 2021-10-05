@@ -1,0 +1,12 @@
+{
+  "start":9023,
+  "end":9106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\u2019ve got to talk good about the company that\n     you work for everywhere you go.",
+  "id":"dd25a2ed-73d5-4a5a-af26-66884f710367",
+  "params":{
+    "id":"e095e92b-e35c-453a-b9d2-ad38f8d510cc"
+  },
+  "name":"Beto"
+}

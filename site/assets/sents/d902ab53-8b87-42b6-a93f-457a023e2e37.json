@@ -1,0 +1,13 @@
+{
+  "start":38631,
+  "end":38681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Al tercer a\u00f1o, ya llegaba ganando m\u00e1s que el pap\u00e1.",
+  "id":"d902ab53-8b87-42b6-a93f-457a023e2e37",
+  "params":{
+    "id":"d902ab53-8b87-42b6-a93f-457a023e2e37",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

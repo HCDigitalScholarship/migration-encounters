@@ -1,0 +1,13 @@
+{
+  "start":34245,
+  "end":34256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was fun.",
+  "id":"6ab5b228-8367-41eb-9820-388c1ed745e1",
+  "params":{
+    "id":"6ab5b228-8367-41eb-9820-388c1ed745e1",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

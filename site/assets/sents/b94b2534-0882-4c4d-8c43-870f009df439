@@ -1,0 +1,12 @@
+{
+  "start":20731,
+  "end":20750,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You came back when?",
+  "id":"b94b2534-0882-4c4d-8c43-870f009df439",
+  "params":{
+    "id":"bb9d1b57-2b25-490a-acf4-39aaff5c6a45"
+  },
+  "name":"Yair"
+}

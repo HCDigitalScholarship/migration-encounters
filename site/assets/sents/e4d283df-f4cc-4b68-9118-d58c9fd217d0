@@ -1,0 +1,12 @@
+{
+  "start":29591,
+  "end":29619,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you\n   doing here?\"",
+  "id":"e4d283df-f4cc-4b68-9118-d58c9fd217d0",
+  "params":{
+    "id":"45b0ca21-62fe-4d7d-9afc-d8ab46cd764b"
+  },
+  "name":"Sylent"
+}

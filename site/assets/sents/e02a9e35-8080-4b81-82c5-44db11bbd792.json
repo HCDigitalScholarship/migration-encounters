@@ -1,0 +1,13 @@
+{
+  "start":18105,
+  "end":18130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a really small town.",
+  "id":"e02a9e35-8080-4b81-82c5-44db11bbd792",
+  "params":{
+    "id":"e02a9e35-8080-4b81-82c5-44db11bbd792",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

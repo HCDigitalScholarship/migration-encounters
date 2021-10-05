@@ -1,0 +1,13 @@
+{
+  "start":1984,
+  "end":2023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then from there, we went to the school.",
+  "id":"95c0389d-f387-4ac6-8833-0618c9183c0c",
+  "params":{
+    "id":"95c0389d-f387-4ac6-8833-0618c9183c0c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

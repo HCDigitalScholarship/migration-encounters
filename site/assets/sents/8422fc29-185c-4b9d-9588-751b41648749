@@ -1,0 +1,12 @@
+{
+  "start":21474,
+  "end":21564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n mom told me that when I left on the bus he was like, \"Brenda come back,\n I'll be good.",
+  "id":"8422fc29-185c-4b9d-9588-751b41648749",
+  "params":{
+    "id":"bdba171b-a0be-41a9-bc90-352b45c73853"
+  },
+  "name":"Brenda"
+}

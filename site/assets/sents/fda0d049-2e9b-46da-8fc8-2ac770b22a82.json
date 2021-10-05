@@ -1,0 +1,13 @@
+{
+  "start":18514,
+  "end":18530,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was a lawyer.",
+  "id":"fda0d049-2e9b-46da-8fc8-2ac770b22a82",
+  "params":{
+    "id":"fda0d049-2e9b-46da-8fc8-2ac770b22a82",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

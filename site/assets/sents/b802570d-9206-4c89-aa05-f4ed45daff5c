@@ -1,0 +1,12 @@
+{
+  "start":10437,
+  "end":10477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My grandmother died when I was thirteen.",
+  "id":"b802570d-9206-4c89-aa05-f4ed45daff5c",
+  "params":{
+    "id":"5bc7c74b-6b3c-41ee-8518-4a16e612355f"
+  },
+  "name":"Luis B"
+}

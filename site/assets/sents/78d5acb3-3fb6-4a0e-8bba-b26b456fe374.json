@@ -1,0 +1,12 @@
+{
+  "start":12042,
+  "end":12060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What did you cook?",
+  "id":"78d5acb3-3fb6-4a0e-8bba-b26b456fe374",
+  "params":{
+    "id":"253d32e3-51a8-4b9f-98cf-7c46de70f1c5"
+  },
+  "name":"Rodrigo"
+}

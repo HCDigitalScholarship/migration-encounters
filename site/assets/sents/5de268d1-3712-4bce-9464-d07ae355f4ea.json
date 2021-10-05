@@ -1,0 +1,13 @@
+{
+  "start":42411,
+  "end":42463,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just\n     like, \"Hey, let me live my struggle.\"",
+  "id":"5de268d1-3712-4bce-9464-d07ae355f4ea",
+  "params":{
+    "id":"5de268d1-3712-4bce-9464-d07ae355f4ea",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

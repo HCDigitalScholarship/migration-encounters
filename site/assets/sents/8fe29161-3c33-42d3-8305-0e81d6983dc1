@@ -1,0 +1,12 @@
+{
+  "start":3535,
+  "end":3589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, she went back to work when I was about ten or so.",
+  "id":"8fe29161-3c33-42d3-8305-0e81d6983dc1",
+  "params":{
+    "id":"8af314e8-2f94-46f3-af2f-d03947e5e8aa"
+  },
+  "name":"Brenda"
+}

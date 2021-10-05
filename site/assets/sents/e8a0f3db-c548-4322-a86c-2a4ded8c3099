@@ -1,0 +1,12 @@
+{
+  "start":25981,
+  "end":26041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to be somewhere\n   where's there not a lot of people.",
+  "id":"e8a0f3db-c548-4322-a86c-2a4ded8c3099",
+  "params":{
+    "id":"c2789d9d-64db-4bd1-8784-f113cdbb19aa"
+  },
+  "name":"Hugo"
+}

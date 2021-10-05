@@ -1,0 +1,12 @@
+{
+  "start":27252,
+  "end":27256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dan:",
+  "id":"2f102b4e-cb87-4257-9502-cacac7032d83",
+  "params":{
+    "id":"d005c0a9-98cf-4183-a14d-1589cfaee691"
+  },
+  "name":"Daniel"
+}

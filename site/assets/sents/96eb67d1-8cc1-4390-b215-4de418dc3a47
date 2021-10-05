@@ -1,0 +1,12 @@
+{
+  "start":17600,
+  "end":17673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"I'm trying to feed my kid, you can shut up\n   and keep going.\"",
+  "id":"96eb67d1-8cc1-4390-b215-4de418dc3a47",
+  "params":{
+    "id":"b5808ed9-57f9-4796-a9aa-40d58ea0c3e0"
+  },
+  "name":"Hugo"
+}

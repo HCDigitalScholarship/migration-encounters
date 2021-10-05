@@ -1,0 +1,13 @@
+{
+  "start":7918,
+  "end":7968,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When you were growing up, were you part of a gang?",
+  "id":"aeabf1a5-02a3-4323-ac8b-b7e6b84dcc06",
+  "params":{
+    "id":"aeabf1a5-02a3-4323-ac8b-b7e6b84dcc06",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

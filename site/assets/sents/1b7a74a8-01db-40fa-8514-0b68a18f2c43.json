@@ -1,0 +1,13 @@
+{
+  "start":7461,
+  "end":7472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was five.",
+  "id":"1b7a74a8-01db-40fa-8514-0b68a18f2c43",
+  "params":{
+    "id":"1b7a74a8-01db-40fa-8514-0b68a18f2c43",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

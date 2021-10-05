@@ -1,0 +1,13 @@
+{
+  "start":34389,
+  "end":34440,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For all you know you're\n   signing your liver away.",
+  "id":"a221d0d5-6c79-41e0-b1e5-6fd55524d10e",
+  "params":{
+    "id":"a221d0d5-6c79-41e0-b1e5-6fd55524d10e",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

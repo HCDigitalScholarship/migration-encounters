@@ -1,0 +1,13 @@
+{
+  "start":7777,
+  "end":7783,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laura:",
+  "id":"eb963a85-d495-40ec-87cc-fc14cf2015b1",
+  "params":{
+    "id":"eb963a85-d495-40ec-87cc-fc14cf2015b1",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

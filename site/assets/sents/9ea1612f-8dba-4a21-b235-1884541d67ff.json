@@ -1,0 +1,13 @@
+{
+  "start":20619,
+  "end":20629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went in.",
+  "id":"9ea1612f-8dba-4a21-b235-1884541d67ff",
+  "params":{
+    "id":"9ea1612f-8dba-4a21-b235-1884541d67ff",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":4345,
+  "end":4395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is the reason I\n   got deported\u2014over a blunt.",
+  "id":"6f6e68a8-aa00-4680-96d4-8c8fb18c7fd7",
+  "params":{
+    "id":"e46fa469-cac6-46da-9047-faefd845aea6"
+  },
+  "name":"Mike"
+}

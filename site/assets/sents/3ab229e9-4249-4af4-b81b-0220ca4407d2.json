@@ -1,0 +1,13 @@
+{
+  "start":5087,
+  "end":5130,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you say you like,\n   figura paterna?",
+  "id":"3ab229e9-4249-4af4-b81b-0220ca4407d2",
+  "params":{
+    "id":"3ab229e9-4249-4af4-b81b-0220ca4407d2",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":32194,
+  "end":32206,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Right.",
+  "id":"e7c72546-d812-47b4-91f2-f85c1f72b332",
+  "params":{
+    "id":"c6c85252-e5a1-44c8-951f-84e3b2fa1fd8"
+  },
+  "name":"Luis A"
+}

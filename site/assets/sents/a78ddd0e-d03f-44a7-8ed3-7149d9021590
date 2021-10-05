@@ -1,0 +1,12 @@
+{
+  "start":32585,
+  "end":32600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Anita laughs].",
+  "id":"a78ddd0e-d03f-44a7-8ed3-7149d9021590",
+  "params":{
+    "id":"a6f95dc8-c43b-452a-902e-679b6121ada0"
+  },
+  "name":"Billy"
+}

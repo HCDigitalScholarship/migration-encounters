@@ -1,0 +1,13 @@
+{
+  "start":27262,
+  "end":27280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm going to quit.",
+  "id":"73043bd6-c998-49b0-a962-5dc234b5794a",
+  "params":{
+    "id":"73043bd6-c998-49b0-a962-5dc234b5794a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13998,
+  "end":14009,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother?",
+  "id":"72c93e20-2815-4041-b420-0d2e1d42bf45",
+  "params":{
+    "id":"72c93e20-2815-4041-b420-0d2e1d42bf45",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

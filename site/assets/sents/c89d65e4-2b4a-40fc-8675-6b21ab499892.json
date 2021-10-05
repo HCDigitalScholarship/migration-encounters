@@ -1,0 +1,13 @@
+{
+  "start":7969,
+  "end":7995,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom was here in Mexico.",
+  "id":"c89d65e4-2b4a-40fc-8675-6b21ab499892",
+  "params":{
+    "id":"c89d65e4-2b4a-40fc-8675-6b21ab499892",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

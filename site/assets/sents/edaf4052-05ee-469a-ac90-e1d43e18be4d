@@ -1,0 +1,12 @@
+{
+  "start":12566,
+  "end":12603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like I could never do\n   that.",
+  "id":"edaf4052-05ee-469a-ac90-e1d43e18be4d",
+  "params":{
+    "id":"3ef4dfc8-22e0-4089-b2b7-0953901ae828"
+  },
+  "name":"Joana"
+}

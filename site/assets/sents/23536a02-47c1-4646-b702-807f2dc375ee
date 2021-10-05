@@ -1,0 +1,12 @@
+{
+  "start":23882,
+  "end":24013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people had pools, said, \"Hey,\n   we're going to have a pool party and I want you to come because you're one\n   of my workers.\"",
+  "id":"23536a02-47c1-4646-b702-807f2dc375ee",
+  "params":{
+    "id":"9e422117-69ae-44c6-b570-01f089feb3ef"
+  },
+  "name":"Sylent"
+}

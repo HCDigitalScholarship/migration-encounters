@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":12605,
+  "end":12611,
+  "text":"  Edgar: A girlfriend? I had a few. Yeah, a few. Yeah. I had a few.\n \n \n   Anne: Any kids?\n \n \n   Edgar: No. No. No, no, no, no. I don't have any right now.\n \n \n   Anne: So how did you end up back in Mexico?\n \n \n   Edgar: So back here, I ended up, I actually came with a friend. We didn't\n   land here. We landed in Guadalajara. Then, from there, we went to Michoac\u00e1n\n   with his family. I don't know why. ",
+  "label":"GPE",
+  "id":"8b943a92-6d01-4b23-8665-1402d74bfab1",
+  "name":"Edgar"
+}

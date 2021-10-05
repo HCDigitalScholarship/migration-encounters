@@ -1,0 +1,12 @@
+{
+  "start":15905,
+  "end":15948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said that you were accused of a felony.",
+  "id":"c4bc3239-beac-47ad-a344-583d3d3c87c4",
+  "params":{
+    "id":"ca9e1aa1-20ab-431d-9662-a83a21ebf3e4"
+  },
+  "name":"Juan B"
+}

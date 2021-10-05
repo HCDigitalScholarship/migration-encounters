@@ -1,0 +1,12 @@
+{
+  "start":12996,
+  "end":13030,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: That's wild.\n \n \n   Josue:",
+  "id":"06e9a95e-c19f-43a0-b260-e7e23fb4dd91",
+  "params":{
+    "id":"bd158ce0-167f-40fd-9ad5-f07248207285"
+  },
+  "name":"Josue"
+}

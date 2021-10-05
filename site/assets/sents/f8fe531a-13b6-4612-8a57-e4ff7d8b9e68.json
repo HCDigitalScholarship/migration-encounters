@@ -1,0 +1,13 @@
+{
+  "start":8905,
+  "end":8931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's really frustrating.",
+  "id":"f8fe531a-13b6-4612-8a57-e4ff7d8b9e68",
+  "params":{
+    "id":"f8fe531a-13b6-4612-8a57-e4ff7d8b9e68",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

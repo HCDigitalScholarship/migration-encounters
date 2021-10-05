@@ -1,0 +1,12 @@
+{
+  "start":40315,
+  "end":40342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What about the\n     street?",
+  "id":"20098ca5-e788-4206-b28c-8fd3554c2f34",
+  "params":{
+    "id":"5aa47581-ba6c-4ae1-b285-5a7cbdb470a3"
+  },
+  "name":"Beto"
+}

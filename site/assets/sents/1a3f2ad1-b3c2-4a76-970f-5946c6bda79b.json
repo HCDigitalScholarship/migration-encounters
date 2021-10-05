@@ -1,0 +1,13 @@
+{
+  "start":14627,
+  "end":14705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I\n   guess I was just trying to be nice, but they don't see it that way.",
+  "id":"1a3f2ad1-b3c2-4a76-970f-5946c6bda79b",
+  "params":{
+    "id":"1a3f2ad1-b3c2-4a76-970f-5946c6bda79b",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

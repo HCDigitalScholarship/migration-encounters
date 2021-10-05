@@ -1,0 +1,13 @@
+{
+  "start":30906,
+  "end":30992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's good, and the best thing is that I don't\n   have credentials, so I'm not working.",
+  "id":"aaf06736-d3cf-49bb-a11e-b89bc68fd5c2",
+  "params":{
+    "id":"aaf06736-d3cf-49bb-a11e-b89bc68fd5c2",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

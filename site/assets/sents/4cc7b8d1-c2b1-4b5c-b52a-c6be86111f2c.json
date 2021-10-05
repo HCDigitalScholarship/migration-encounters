@@ -1,0 +1,13 @@
+{
+  "start":4970,
+  "end":5003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is your brother older or younger?",
+  "id":"4cc7b8d1-c2b1-4b5c-b52a-c6be86111f2c",
+  "params":{
+    "id":"4cc7b8d1-c2b1-4b5c-b52a-c6be86111f2c",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

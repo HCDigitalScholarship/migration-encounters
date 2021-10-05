@@ -1,0 +1,13 @@
+{
+  "start":23078,
+  "end":23095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laura: By myself.",
+  "id":"bd7208a8-1f41-415e-bfd2-2afd31bdadbc",
+  "params":{
+    "id":"bd7208a8-1f41-415e-bfd2-2afd31bdadbc",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

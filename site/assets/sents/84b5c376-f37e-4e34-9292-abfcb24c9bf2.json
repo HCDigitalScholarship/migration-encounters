@@ -1,0 +1,13 @@
+{
+  "start":38131,
+  "end":38188,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like if I didn't have that, there was\n   no point.",
+  "id":"84b5c376-f37e-4e34-9292-abfcb24c9bf2",
+  "params":{
+    "id":"84b5c376-f37e-4e34-9292-abfcb24c9bf2",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

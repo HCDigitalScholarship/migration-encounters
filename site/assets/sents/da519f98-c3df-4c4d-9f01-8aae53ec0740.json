@@ -1,0 +1,13 @@
+{
+  "start":49563,
+  "end":49647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I grew up over there, and to be honest with you, I miss a\n   lot over there.",
+  "id":"da519f98-c3df-4c4d-9f01-8aae53ec0740",
+  "params":{
+    "id":"da519f98-c3df-4c4d-9f01-8aae53ec0740",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

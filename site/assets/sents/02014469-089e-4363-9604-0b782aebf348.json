@@ -1,0 +1,13 @@
+{
+  "start":6789,
+  "end":6821,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you like her,\n   respect her.",
+  "id":"02014469-089e-4363-9604-0b782aebf348",
+  "params":{
+    "id":"02014469-089e-4363-9604-0b782aebf348",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

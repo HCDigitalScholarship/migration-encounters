@@ -1,0 +1,12 @@
+{
+  "start":35488,
+  "end":35520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n   they did take me to Juvy.",
+  "id":"86b3e099-cdc4-4597-9003-2a9c9423c096",
+  "params":{
+    "id":"cac55881-8ba6-4ea0-a4dd-1c94c2e30026"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7402,
+  "end":7446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They started working in the boat\n   factory.",
+  "id":"f810b039-f12e-41e0-977b-dd214c19a3b7",
+  "params":{
+    "id":"a6515faa-44ff-48bf-8618-617894560e40"
+  },
+  "name":"Yair"
+}

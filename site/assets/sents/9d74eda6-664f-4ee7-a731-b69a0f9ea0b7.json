@@ -1,0 +1,13 @@
+{
+  "start":17820,
+  "end":17874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to waste seven years of my\n   life here.",
+  "id":"9d74eda6-664f-4ee7-a731-b69a0f9ea0b7",
+  "params":{
+    "id":"9d74eda6-664f-4ee7-a731-b69a0f9ea0b7",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

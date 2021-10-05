@@ -1,0 +1,12 @@
+{
+  "start":15344,
+  "end":15352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It does.",
+  "id":"b61ab513-e14f-4e5c-8e2a-290b8e304838",
+  "params":{
+    "id":"5a3fa1ef-2c16-4ea1-af87-51b04798bdd8"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31860,
+  "end":31890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my plan, is to be here.",
+  "id":"bae97a6e-41ee-4edb-85ad-8ea8447ced4a",
+  "params":{
+    "id":"bae97a6e-41ee-4edb-85ad-8ea8447ced4a",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,12 @@
+{
+  "start":33604,
+  "end":33640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now I\n   think about it for my kids.",
+  "id":"ff82e96c-ecbc-433f-ae6f-8e55aab9b6b0",
+  "params":{
+    "id":"acd83d5f-7461-462f-bcfd-8e94d9590693"
+  },
+  "name":"Daniel"
+}

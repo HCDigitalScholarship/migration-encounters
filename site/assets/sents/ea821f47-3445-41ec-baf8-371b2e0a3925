@@ -1,0 +1,12 @@
+{
+  "start":23919,
+  "end":23937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo no pod\u00eda pasar.",
+  "id":"ea821f47-3445-41ec-baf8-371b2e0a3925",
+  "params":{
+    "id":"00852716-12fe-44fd-9176-7d6ab3f06120"
+  },
+  "name":"Maria"
+}

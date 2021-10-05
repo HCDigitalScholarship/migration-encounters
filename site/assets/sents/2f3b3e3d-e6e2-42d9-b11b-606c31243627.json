@@ -1,0 +1,13 @@
+{
+  "start":47393,
+  "end":47413,
+  "label":"SENT",
+  "type":"sent",
+  "text":"T\u00fa tienes que irte.\u201d",
+  "id":"2f3b3e3d-e6e2-42d9-b11b-606c31243627",
+  "params":{
+    "id":"2f3b3e3d-e6e2-42d9-b11b-606c31243627",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

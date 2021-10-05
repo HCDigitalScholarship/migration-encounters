@@ -1,0 +1,12 @@
+{
+  "start":24577,
+  "end":24603,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wasn't able to be there.",
+  "id":"2e217d79-a677-4e9f-9917-e47ab3aa21c8",
+  "params":{
+    "id":"49dcacde-45d8-4b3f-8c53-4d6a87752c91"
+  },
+  "name":"Ilse"
+}

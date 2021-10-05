@@ -1,0 +1,13 @@
+{
+  "start":7481,
+  "end":7580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This woman would get\n   extremely frustrated with me\u2014extremely\u2014and I didn't know what was going on.",
+  "id":"c997a574-0390-4423-a66f-3efc8b845e4b",
+  "params":{
+    "id":"c997a574-0390-4423-a66f-3efc8b845e4b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

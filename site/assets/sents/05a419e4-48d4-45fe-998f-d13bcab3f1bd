@@ -1,0 +1,12 @@
+{
+  "start":18672,
+  "end":18700,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, we went to the police.",
+  "id":"05a419e4-48d4-45fe-998f-d13bcab3f1bd",
+  "params":{
+    "id":"fda38825-82d4-4587-9d9a-652d83b65058"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20206,
+  "end":20231,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I was really sad.",
+  "id":"0e63693b-89b6-490e-8ea5-dd0cb7fc2161",
+  "params":{
+    "id":"0e63693b-89b6-490e-8ea5-dd0cb7fc2161",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

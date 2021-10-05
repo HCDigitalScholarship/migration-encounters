@@ -1,0 +1,13 @@
+{
+  "start":22797,
+  "end":22954,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So it's like everybody looks at me, or at least in\n   my family, and it's like, \"Oh, Jeimmy, why haven't you gotten married yet?\"\n   Like, \"I'm 22 years old.",
+  "id":"8008d1b4-fc10-49bc-9d1e-d503b03e363b",
+  "params":{
+    "id":"8008d1b4-fc10-49bc-9d1e-d503b03e363b",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

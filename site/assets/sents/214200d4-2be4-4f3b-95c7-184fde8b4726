@@ -1,0 +1,12 @@
+{
+  "start":9089,
+  "end":9118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's a doctor here in Mexico.",
+  "id":"214200d4-2be4-4f3b-95c7-184fde8b4726",
+  "params":{
+    "id":"f096ff69-ae82-4163-95e5-bfff26fafa59"
+  },
+  "name":"Yair"
+}

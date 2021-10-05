@@ -1,0 +1,13 @@
+{
+  "start":11629,
+  "end":11663,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you go to Mexican restaurants?",
+  "id":"cb67a115-8ee4-4c01-ae67-ff28594fd709",
+  "params":{
+    "id":"cb67a115-8ee4-4c01-ae67-ff28594fd709",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22737,
+  "end":22760,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Wow.\n \n \n   Yair:",
+  "id":"e8f283e4-119d-4ba2-b29c-0a97923315b5",
+  "params":{
+    "id":"e8f283e4-119d-4ba2-b29c-0a97923315b5",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

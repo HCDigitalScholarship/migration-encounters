@@ -1,0 +1,13 @@
+{
+  "start":32385,
+  "end":32478,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when I said,\n   \"Okay, maybe teaching is a good opportunity since everybody's asking.\"",
+  "id":"79cf2350-4c2c-4329-9d12-47a79d847034",
+  "params":{
+    "id":"79cf2350-4c2c-4329-9d12-47a79d847034",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":16042,
+  "end":16081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know what you're trying to do.\"",
+  "id":"151a263e-c3bd-4d2c-9f89-3b390e1dea4f",
+  "params":{
+    "id":"151a263e-c3bd-4d2c-9f89-3b390e1dea4f",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

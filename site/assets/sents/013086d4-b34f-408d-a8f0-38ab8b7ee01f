@@ -1,0 +1,12 @@
+{
+  "start":7511,
+  "end":7605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I bought a car and stuff, and\n I would drive, and they would pull me over, and I wouldn't have",
+  "id":"013086d4-b34f-408d-a8f0-38ab8b7ee01f",
+  "params":{
+    "id":"0a7bf95c-9b67-4da1-89ff-5849d1223f24"
+  },
+  "name":"Jesus C"
+}

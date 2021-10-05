@@ -1,0 +1,12 @@
+{
+  "start":8228,
+  "end":8314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've driven just across country, across\n   through Oklahoma\u2014\n \n \n   Cris: Through I40?",
+  "id":"beebbe9d-1721-48a4-96ef-c185b2a609bc",
+  "params":{
+    "id":"42ab67f9-c324-4d1b-87a5-793454de6561"
+  },
+  "name":"Cris"
+}

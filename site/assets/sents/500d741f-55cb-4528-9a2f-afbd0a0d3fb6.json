@@ -1,0 +1,15 @@
+{
+  "start":6089,
+  "end":6161,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If not, I'm planning to make all my migration status to go to\n   Canada.",
+  "id":"500d741f-55cb-4528-9a2f-afbd0a0d3fb6",
+  "params":{
+    "id":"500d741f-55cb-4528-9a2f-afbd0a0d3fb6",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

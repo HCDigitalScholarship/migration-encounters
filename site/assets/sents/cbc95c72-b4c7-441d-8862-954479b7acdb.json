@@ -1,0 +1,13 @@
+{
+  "start":4084,
+  "end":4126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was fifteen and he was already driving.",
+  "id":"cbc95c72-b4c7-441d-8862-954479b7acdb",
+  "params":{
+    "id":"cbc95c72-b4c7-441d-8862-954479b7acdb",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9265,
+  "end":9321,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now I know that\n   was the correct choice.\n \n \n   Anita:",
+  "id":"5a19bb0a-2968-4545-b9c0-978c88aad1ff",
+  "params":{
+    "id":"5a19bb0a-2968-4545-b9c0-978c88aad1ff",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

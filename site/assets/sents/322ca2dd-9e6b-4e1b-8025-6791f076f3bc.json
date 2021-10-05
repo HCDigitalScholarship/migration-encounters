@@ -1,0 +1,13 @@
+{
+  "start":30124,
+  "end":30172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if you heard about stuff\nlike that?",
+  "id":"322ca2dd-9e6b-4e1b-8025-6791f076f3bc",
+  "params":{
+    "id":"322ca2dd-9e6b-4e1b-8025-6791f076f3bc",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

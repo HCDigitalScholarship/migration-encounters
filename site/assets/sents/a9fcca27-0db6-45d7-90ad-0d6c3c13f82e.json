@@ -1,0 +1,13 @@
+{
+  "start":30495,
+  "end":30559,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There is a big pot, maybe three pounds, three\n   pounds of rice.",
+  "id":"a9fcca27-0db6-45d7-90ad-0d6c3c13f82e",
+  "params":{
+    "id":"a9fcca27-0db6-45d7-90ad-0d6c3c13f82e",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18567,
+  "end":18599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had a lot of people go\nsee me.",
+  "id":"64ddcb3d-57f8-4581-baa7-6d773ff4a61b",
+  "params":{
+    "id":"64ddcb3d-57f8-4581-baa7-6d773ff4a61b",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

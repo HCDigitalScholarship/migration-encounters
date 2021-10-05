@@ -1,0 +1,12 @@
+{
+  "start":61978,
+  "end":62066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n     something that doesn't have to happen to a lot of people.\n   \n   \n     Joseph:",
+  "id":"9308089a-a81f-4f3a-b0a8-bc4f023cb2e3",
+  "params":{
+    "id":"e860f36a-4d37-4b7e-85e6-a7db31ca2688"
+  },
+  "name":"Joseph"
+}

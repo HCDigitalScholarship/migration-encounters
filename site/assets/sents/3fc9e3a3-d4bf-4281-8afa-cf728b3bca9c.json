@@ -1,0 +1,13 @@
+{
+  "start":677,
+  "end":706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to have one small cow.",
+  "id":"3fc9e3a3-d4bf-4281-8afa-cf728b3bca9c",
+  "params":{
+    "id":"3fc9e3a3-d4bf-4281-8afa-cf728b3bca9c",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18788,
+  "end":18824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not\n sure if you're aware of it.",
+  "id":"7d94d32d-adf0-40d2-b4a8-ef9e1fc5112d",
+  "params":{
+    "id":"7d94d32d-adf0-40d2-b4a8-ef9e1fc5112d",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

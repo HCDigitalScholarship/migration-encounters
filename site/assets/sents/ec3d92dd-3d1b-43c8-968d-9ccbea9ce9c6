@@ -1,0 +1,12 @@
+{
+  "start":10129,
+  "end":10177,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: When did you come back here?\n \n \n   Luis:",
+  "id":"ec3d92dd-3d1b-43c8-968d-9ccbea9ce9c6",
+  "params":{
+    "id":"3425e50c-986c-4580-9a6e-2be6db6cd562"
+  },
+  "name":"Luis B"
+}

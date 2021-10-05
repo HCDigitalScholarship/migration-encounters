@@ -1,0 +1,13 @@
+{
+  "start":5784,
+  "end":5851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   When they pulled you over, what did they pull you over for?",
+  "id":"965bad6f-24e3-45f4-b56f-f3099d7c4956",
+  "params":{
+    "id":"965bad6f-24e3-45f4-b56f-f3099d7c4956",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

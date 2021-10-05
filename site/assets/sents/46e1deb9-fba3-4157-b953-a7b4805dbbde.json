@@ -1,0 +1,13 @@
+{
+  "start":28786,
+  "end":28882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Carlos: Kind of, because the problems that I also had with my family took\n   over the situation.",
+  "id":"46e1deb9-fba3-4157-b953-a7b4805dbbde",
+  "params":{
+    "id":"46e1deb9-fba3-4157-b953-a7b4805dbbde",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30515,
+  "end":30539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My\n   kids are starving.",
+  "id":"32c0affb-9871-4ef2-94e6-66d3dd03c34f",
+  "params":{
+    "id":"32c0affb-9871-4ef2-94e6-66d3dd03c34f",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

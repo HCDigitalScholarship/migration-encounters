@@ -1,0 +1,12 @@
+{
+  "start":29155,
+  "end":29175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He moved the window.",
+  "id":"dcae1c4d-a7e0-41cb-b898-e88bea2a2967",
+  "params":{
+    "id":"6e8d4894-8cd4-4166-b662-16e42670f7ab"
+  },
+  "name":"Cris"
+}

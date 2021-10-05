@@ -1,0 +1,13 @@
+{
+  "start":25627,
+  "end":25658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, this time, I had no rights.",
+  "id":"0c4e39c1-c52c-416d-b255-f8b35aac0a86",
+  "params":{
+    "id":"0c4e39c1-c52c-416d-b255-f8b35aac0a86",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

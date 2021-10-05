@@ -1,0 +1,13 @@
+{
+  "start":10752,
+  "end":10795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To me, that's not a third world\n   country.",
+  "id":"eefbe407-a046-4be9-ab86-971d76cb7280",
+  "params":{
+    "id":"eefbe407-a046-4be9-ab86-971d76cb7280",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

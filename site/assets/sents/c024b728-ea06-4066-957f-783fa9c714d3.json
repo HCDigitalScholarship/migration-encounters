@@ -1,0 +1,13 @@
+{
+  "start":10278,
+  "end":10324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At the end\n   of the day, \"Okay, you did good.",
+  "id":"c024b728-ea06-4066-957f-783fa9c714d3",
+  "params":{
+    "id":"c024b728-ea06-4066-957f-783fa9c714d3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

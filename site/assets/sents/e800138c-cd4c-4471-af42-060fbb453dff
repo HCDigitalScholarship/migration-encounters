@@ -1,0 +1,12 @@
+{
+  "start":33691,
+  "end":33729,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sorry, I lost my train of thought.",
+  "id":"e800138c-cd4c-4471-af42-060fbb453dff",
+  "params":{
+    "id":"5fac4dba-0967-40b6-88f7-d85a20a6836f"
+  },
+  "name":"Rodolfo"
+}

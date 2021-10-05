@@ -1,0 +1,13 @@
+{
+  "start":51657,
+  "end":51742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Probably if I have a job that makes me go back and\n     forth, I'd be fine with that.",
+  "id":"af5300ea-ab78-47d6-8299-2828a155c0f1",
+  "params":{
+    "id":"af5300ea-ab78-47d6-8299-2828a155c0f1",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

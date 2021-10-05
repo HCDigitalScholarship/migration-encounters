@@ -1,0 +1,13 @@
+{
+  "start":30714,
+  "end":30803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like, \u201cNo, I don't want to eat just rice.\u201d \u201cWhy?\u201d\n   \u201cBecause I'm not a chicken.\u201d",
+  "id":"30a91cc9-da96-441b-a1b6-6a38827cfa2c",
+  "params":{
+    "id":"30a91cc9-da96-441b-a1b6-6a38827cfa2c",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":45096,
+  "end":45117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You and I are human.\"",
+  "id":"f86a0c3b-bcaf-4b75-9183-96418fd70be9",
+  "params":{
+    "id":"f86a0c3b-bcaf-4b75-9183-96418fd70be9",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

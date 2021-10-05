@@ -1,0 +1,13 @@
+{
+  "start":15277,
+  "end":15305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They sent me back to Mexico.",
+  "id":"a7792dd5-2e90-4a79-b6d2-71aaf8da500a",
+  "params":{
+    "id":"a7792dd5-2e90-4a79-b6d2-71aaf8da500a",
+    "class":"anno"
+  },
+  "name":"Many"
+}

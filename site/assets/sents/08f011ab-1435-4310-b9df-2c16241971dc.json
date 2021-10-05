@@ -1,0 +1,13 @@
+{
+  "start":20380,
+  "end":20401,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it wouldn't work.",
+  "id":"08f011ab-1435-4310-b9df-2c16241971dc",
+  "params":{
+    "id":"08f011ab-1435-4310-b9df-2c16241971dc",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

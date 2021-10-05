@@ -1,0 +1,13 @@
+{
+  "start":40387,
+  "end":40421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you heard of a rainbow child?",
+  "id":"8d32f4e8-ce5e-43cd-8830-47526e7f5d78",
+  "params":{
+    "id":"8d32f4e8-ce5e-43cd-8830-47526e7f5d78",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13240,
+  "end":13354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Being undocumented, it really affects your whole\n life because you can't go into college, you can't get good jobs.",
+  "id":"2a8dbc6e-c539-45f1-9adb-9553e9ca3efa",
+  "params":{
+    "id":"2a8dbc6e-c539-45f1-9adb-9553e9ca3efa",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

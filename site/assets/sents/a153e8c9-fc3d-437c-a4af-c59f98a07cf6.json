@@ -1,0 +1,13 @@
+{
+  "start":563,
+  "end":629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad, I don't\n   know why he chose Utah, but in specific, Provo.",
+  "id":"a153e8c9-fc3d-437c-a4af-c59f98a07cf6",
+  "params":{
+    "id":"a153e8c9-fc3d-437c-a4af-c59f98a07cf6",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

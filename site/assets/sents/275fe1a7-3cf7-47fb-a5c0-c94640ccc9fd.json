@@ -1,0 +1,13 @@
+{
+  "start":68049,
+  "end":68139,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, not counting my chickens before they hatch,\n   but putting all my eggs in that basket.",
+  "id":"275fe1a7-3cf7-47fb-a5c0-c94640ccc9fd",
+  "params":{
+    "id":"275fe1a7-3cf7-47fb-a5c0-c94640ccc9fd",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

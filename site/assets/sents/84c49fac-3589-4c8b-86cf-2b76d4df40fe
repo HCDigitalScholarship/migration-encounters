@@ -1,0 +1,12 @@
+{
+  "start":29127,
+  "end":29159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean,\n     you're a developer.",
+  "id":"84c49fac-3589-4c8b-86cf-2b76d4df40fe",
+  "params":{
+    "id":"3097e7cf-2854-48bb-ac12-32acd44c6c57"
+  },
+  "name":"Joseph"
+}

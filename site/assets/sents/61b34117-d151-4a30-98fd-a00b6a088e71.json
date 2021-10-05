@@ -1,0 +1,13 @@
+{
+  "start":32212,
+  "end":32248,
+  "label":"SENT",
+  "type":"sent",
+  "text":"he's\n   tall and he's like handsome.",
+  "id":"61b34117-d151-4a30-98fd-a00b6a088e71",
+  "params":{
+    "id":"61b34117-d151-4a30-98fd-a00b6a088e71",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

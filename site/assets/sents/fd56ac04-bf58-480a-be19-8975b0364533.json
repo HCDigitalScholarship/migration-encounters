@@ -1,0 +1,13 @@
+{
+  "start":9035,
+  "end":9055,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're 12 years old.",
+  "id":"fd56ac04-bf58-480a-be19-8975b0364533",
+  "params":{
+    "id":"fd56ac04-bf58-480a-be19-8975b0364533",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9353,
+  "end":9372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is super cool.",
+  "id":"c73c8556-73a1-41f0-8b30-e42a509e232a",
+  "params":{
+    "id":"c555a28e-4061-4721-8df5-816820c4c52b"
+  },
+  "name":"Billy"
+}

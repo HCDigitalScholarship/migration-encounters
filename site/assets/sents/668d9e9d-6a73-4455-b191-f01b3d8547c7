@@ -1,0 +1,12 @@
+{
+  "start":7539,
+  "end":7569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"What am I going to do?\"",
+  "id":"668d9e9d-6a73-4455-b191-f01b3d8547c7",
+  "params":{
+    "id":"318a13e8-93cb-4fe5-98cf-835036f57e38"
+  },
+  "name":"Beto"
+}

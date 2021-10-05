@@ -1,0 +1,13 @@
+{
+  "start":50233,
+  "end":50273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfTen\u00eda doce a\u00f1os?\n \n <br/>\n \n     Maria:",
+  "id":"eb8a168e-1b53-4e16-8bf3-423f19ea5311",
+  "params":{
+    "id":"eb8a168e-1b53-4e16-8bf3-423f19ea5311",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

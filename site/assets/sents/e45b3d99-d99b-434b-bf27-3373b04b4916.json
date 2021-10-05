@@ -1,0 +1,13 @@
+{
+  "start":4896,
+  "end":4963,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For me, moving\n     to another one is like, \"What am I going to do?",
+  "id":"e45b3d99-d99b-434b-bf27-3373b04b4916",
+  "params":{
+    "id":"e45b3d99-d99b-434b-bf27-3373b04b4916",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

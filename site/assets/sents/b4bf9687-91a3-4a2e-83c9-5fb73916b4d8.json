@@ -1,0 +1,13 @@
+{
+  "start":29899,
+  "end":29927,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess I had all my papers.",
+  "id":"b4bf9687-91a3-4a2e-83c9-5fb73916b4d8",
+  "params":{
+    "id":"b4bf9687-91a3-4a2e-83c9-5fb73916b4d8",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

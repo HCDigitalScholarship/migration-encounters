@@ -1,0 +1,13 @@
+{
+  "start":5484,
+  "end":5586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember\n   him saying that we were just coming to visit Mexico and stuff, and just\n   crossed over.",
+  "id":"30e5e077-ef6e-4f51-b9f6-fc5cd84b6331",
+  "params":{
+    "id":"30e5e077-ef6e-4f51-b9f6-fc5cd84b6331",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

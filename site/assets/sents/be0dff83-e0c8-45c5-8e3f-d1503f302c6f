@@ -1,0 +1,12 @@
+{
+  "start":34572,
+  "end":34601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to make people better.",
+  "id":"be0dff83-e0c8-45c5-8e3f-d1503f302c6f",
+  "params":{
+    "id":"1c3152f0-a3cd-4711-95cc-c331463cb4b5"
+  },
+  "name":"Luisa"
+}

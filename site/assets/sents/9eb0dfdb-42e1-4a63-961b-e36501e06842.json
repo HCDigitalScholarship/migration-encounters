@@ -1,0 +1,13 @@
+{
+  "start":41194,
+  "end":41219,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n     made a decision.",
+  "id":"9eb0dfdb-42e1-4a63-961b-e36501e06842",
+  "params":{
+    "id":"9eb0dfdb-42e1-4a63-961b-e36501e06842",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

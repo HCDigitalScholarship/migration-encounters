@@ -1,0 +1,13 @@
+{
+  "start":20982,
+  "end":21018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They asked me, \"Where's the mother?\"",
+  "id":"b6f4ab40-111e-4f25-a6ac-8b52cd8a2df8",
+  "params":{
+    "id":"b6f4ab40-111e-4f25-a6ac-8b52cd8a2df8",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

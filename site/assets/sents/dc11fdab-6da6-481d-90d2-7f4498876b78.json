@@ -1,0 +1,12 @@
+{
+  "start":21318,
+  "end":21370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This was a beautiful lasagna in a\n     crystal base.",
+  "id":"dc11fdab-6da6-481d-90d2-7f4498876b78",
+  "params":{
+    "id":"bc34eade-d35a-46f4-b3ca-346164bd4be6"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25773,
+  "end":25784,
+  "label":"SENT",
+  "type":"sent",
+  "text":"over\n there",
+  "id":"f746c526-d4b2-4ec3-9dd2-3723d2a4c27f",
+  "params":{
+    "id":"f746c526-d4b2-4ec3-9dd2-3723d2a4c27f",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

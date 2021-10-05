@@ -1,0 +1,13 @@
+{
+  "start":28617,
+  "end":28672,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As soon as I got to prison,\n immigration bond was gone.",
+  "id":"a3344b3b-de9d-40d2-93ee-367e7e0c15fa",
+  "params":{
+    "id":"a3344b3b-de9d-40d2-93ee-367e7e0c15fa",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

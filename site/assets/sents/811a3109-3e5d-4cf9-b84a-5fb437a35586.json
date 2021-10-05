@@ -1,0 +1,13 @@
+{
+  "start":7108,
+  "end":7143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were in charge of\u2014\n \n \n   Jose:",
+  "id":"811a3109-3e5d-4cf9-b84a-5fb437a35586",
+  "params":{
+    "id":"811a3109-3e5d-4cf9-b84a-5fb437a35586",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

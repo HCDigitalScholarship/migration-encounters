@@ -1,0 +1,12 @@
+{
+  "start":5883,
+  "end":5908,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I liked the library, too.",
+  "id":"1cdc1caf-b274-4d7f-8c6b-c3a99055affc",
+  "params":{
+    "id":"be60ea23-2b27-4d34-ba4d-3a277e33a79c"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21371,
+  "end":21423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told me, \"Why don't you cook something Mexican?",
+  "id":"dceac811-aa99-4a37-88f5-c8537bd5bcbe",
+  "params":{
+    "id":"73de6696-b937-45bb-b5ac-a1184864da25"
+  },
+  "name":"Beto"
+}

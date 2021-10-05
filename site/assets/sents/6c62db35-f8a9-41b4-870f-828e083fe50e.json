@@ -1,0 +1,13 @@
+{
+  "start":5442,
+  "end":5474,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never got busted\nfor stealing.",
+  "id":"6c62db35-f8a9-41b4-870f-828e083fe50e",
+  "params":{
+    "id":"6c62db35-f8a9-41b4-870f-828e083fe50e",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

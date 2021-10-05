@@ -1,0 +1,13 @@
+{
+  "start":11816,
+  "end":11832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a big risk.",
+  "id":"47c03ec2-709f-4667-91c7-932489cf724d",
+  "params":{
+    "id":"47c03ec2-709f-4667-91c7-932489cf724d",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

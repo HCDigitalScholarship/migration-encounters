@@ -1,0 +1,13 @@
+{
+  "start":33160,
+  "end":33239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he died because he\n   didn't want to give up the truck with his kids in it.",
+  "id":"b8afc552-3534-4e1a-a55b-0f18f8dd5279",
+  "params":{
+    "id":"b8afc552-3534-4e1a-a55b-0f18f8dd5279",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

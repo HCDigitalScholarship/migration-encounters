@@ -1,0 +1,13 @@
+{
+  "start":30664,
+  "end":30686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm always\n   outside.",
+  "id":"47fc922d-48bf-497e-9d41-07e01bb11ba3",
+  "params":{
+    "id":"47fc922d-48bf-497e-9d41-07e01bb11ba3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

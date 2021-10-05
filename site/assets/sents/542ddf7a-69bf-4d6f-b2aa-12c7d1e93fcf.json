@@ -1,0 +1,13 @@
+{
+  "start":29571,
+  "end":29670,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But the thing, I was young, I\n   was stupid and like I was telling you, I took the wrong decisions.",
+  "id":"542ddf7a-69bf-4d6f-b2aa-12c7d1e93fcf",
+  "params":{
+    "id":"542ddf7a-69bf-4d6f-b2aa-12c7d1e93fcf",
+    "class":"anno"
+  },
+  "name":"Many"
+}

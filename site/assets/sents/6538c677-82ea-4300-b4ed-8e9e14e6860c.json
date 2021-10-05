@@ -1,0 +1,12 @@
+{
+  "start":8775,
+  "end":8871,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But\n Billy is my name and a lot of people here are like, \"I've never met\n somebody named Billy.\"",
+  "id":"6538c677-82ea-4300-b4ed-8e9e14e6860c",
+  "params":{
+    "id":"8b23102d-58a2-4da2-acc2-99ad280f829f"
+  },
+  "name":"Billy"
+}

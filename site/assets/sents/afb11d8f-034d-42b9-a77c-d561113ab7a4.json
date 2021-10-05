@@ -1,0 +1,13 @@
+{
+  "start":5800,
+  "end":5812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell\n   me.\"",
+  "id":"afb11d8f-034d-42b9-a77c-d561113ab7a4",
+  "params":{
+    "id":"afb11d8f-034d-42b9-a77c-d561113ab7a4",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

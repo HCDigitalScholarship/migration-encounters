@@ -1,0 +1,12 @@
+{
+  "start":2555,
+  "end":2564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My uncle?",
+  "id":"b9f77dd2-0eda-4bf3-b49b-5f4b1c297c05",
+  "params":{
+    "id":"512c70f6-e8cf-4e2a-b667-904132dd590f"
+  },
+  "name":"Many"
+}

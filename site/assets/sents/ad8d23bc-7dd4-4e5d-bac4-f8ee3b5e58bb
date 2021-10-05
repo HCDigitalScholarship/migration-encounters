@@ -1,0 +1,12 @@
+{
+  "start":26537,
+  "end":26601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They called me Robert, because I bought ID for somebody\n   else.",
+  "id":"ad8d23bc-7dd4-4e5d-bac4-f8ee3b5e58bb",
+  "params":{
+    "id":"4bd801b5-e686-4f79-92ad-835163016ce3"
+  },
+  "name":"Daniel B"
+}

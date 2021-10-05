@@ -1,0 +1,13 @@
+{
+  "start":10905,
+  "end":10922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"More\n enthusiasm.",
+  "id":"de6c2c0a-4292-4b0f-9742-3e36a2a9dae4",
+  "params":{
+    "id":"de6c2c0a-4292-4b0f-9742-3e36a2a9dae4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

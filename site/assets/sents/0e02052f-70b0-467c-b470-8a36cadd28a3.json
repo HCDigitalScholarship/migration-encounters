@@ -1,0 +1,13 @@
+{
+  "start":20022,
+  "end":20052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even Ubers won't go out there.",
+  "id":"0e02052f-70b0-467c-b470-8a36cadd28a3",
+  "params":{
+    "id":"0e02052f-70b0-467c-b470-8a36cadd28a3",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

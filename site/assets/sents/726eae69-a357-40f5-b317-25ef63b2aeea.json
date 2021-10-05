@@ -1,0 +1,13 @@
+{
+  "start":32315,
+  "end":32369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Everybody else going to work getting their coffee.",
+  "id":"726eae69-a357-40f5-b317-25ef63b2aeea",
+  "params":{
+    "id":"726eae69-a357-40f5-b317-25ef63b2aeea",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

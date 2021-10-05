@@ -1,0 +1,13 @@
+{
+  "start":18042,
+  "end":18110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you attribute a lot of your personality and stuff to\n   your mom?",
+  "id":"9c97881f-2e78-491e-9d9a-9cf51aaa2b61",
+  "params":{
+    "id":"9c97881f-2e78-491e-9d9a-9cf51aaa2b61",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

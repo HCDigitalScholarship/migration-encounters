@@ -1,0 +1,13 @@
+{
+  "start":2128,
+  "end":2138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was two.",
+  "id":"61f118f5-b58f-4c40-afcf-2e0e3dcc3b27",
+  "params":{
+    "id":"61f118f5-b58f-4c40-afcf-2e0e3dcc3b27",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40422,
+  "end":40482,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   when you have a kid after the first one passed away.",
+  "id":"5d863f1a-2f9e-4f84-baa7-5f225a554e0e",
+  "params":{
+    "id":"5d863f1a-2f9e-4f84-baa7-5f225a554e0e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14062,
+  "end":14099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I couldn't really\n   do anything.",
+  "id":"c685a278-d716-487d-8d08-0c97044b00a3",
+  "params":{
+    "id":"c685a278-d716-487d-8d08-0c97044b00a3",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

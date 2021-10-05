@@ -1,0 +1,12 @@
+{
+  "start":2019,
+  "end":2035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was being bad.",
+  "id":"c07520db-592e-4085-9c7f-26d6c9bb4f8f",
+  "params":{
+    "id":"824ba26d-6135-4fb5-bfc2-ceef6338eb5f"
+  },
+  "name":"Kevin"
+}

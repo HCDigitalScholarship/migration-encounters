@@ -1,0 +1,13 @@
+{
+  "start":15274,
+  "end":15293,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then what happened?",
+  "id":"8d05823b-ceb8-43de-bccb-23091e3b81a5",
+  "params":{
+    "id":"8d05823b-ceb8-43de-bccb-23091e3b81a5",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

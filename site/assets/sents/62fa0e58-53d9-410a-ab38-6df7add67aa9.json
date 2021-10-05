@@ -1,0 +1,13 @@
+{
+  "start":15500,
+  "end":15523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dos veces me toc\u00f3 a m\u00ed.",
+  "id":"62fa0e58-53d9-410a-ab38-6df7add67aa9",
+  "params":{
+    "id":"62fa0e58-53d9-410a-ab38-6df7add67aa9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6891,
+  "end":6931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, my\n   uncle's right now still.",
+  "id":"cc664fa2-804f-49f0-ab5b-95f8ad1241eb",
+  "params":{
+    "id":"cc664fa2-804f-49f0-ab5b-95f8ad1241eb",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

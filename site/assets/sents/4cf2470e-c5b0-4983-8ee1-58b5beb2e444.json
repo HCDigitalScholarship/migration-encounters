@@ -1,0 +1,13 @@
+{
+  "start":30920,
+  "end":31006,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, if the father's going to buy something, they\n   have to consult with the wife.",
+  "id":"4cf2470e-c5b0-4983-8ee1-58b5beb2e444",
+  "params":{
+    "id":"4cf2470e-c5b0-4983-8ee1-58b5beb2e444",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":60049,
+  "end":60099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The day I\n need help, don't worry, I will ask you.",
+  "id":"dd0bfb54-626f-4891-b94f-fd7e5658aa33",
+  "params":{
+    "id":"dd0bfb54-626f-4891-b94f-fd7e5658aa33",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

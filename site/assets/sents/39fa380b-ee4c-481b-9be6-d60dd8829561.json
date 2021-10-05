@@ -1,0 +1,13 @@
+{
+  "start":20130,
+  "end":20143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Really happy.",
+  "id":"39fa380b-ee4c-481b-9be6-d60dd8829561",
+  "params":{
+    "id":"39fa380b-ee4c-481b-9be6-d60dd8829561",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

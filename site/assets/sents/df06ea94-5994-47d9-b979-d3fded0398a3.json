@@ -1,0 +1,13 @@
+{
+  "start":31345,
+  "end":31453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One day I was playing the\n blues, I was like, \u201c[Singing] Dun dun dun dun dun dn\u2026I got a kindhearted\n woman.\u201d",
+  "id":"df06ea94-5994-47d9-b979-d3fded0398a3",
+  "params":{
+    "id":"df06ea94-5994-47d9-b979-d3fded0398a3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19188,
+  "end":19233,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Pablo: Of course, yes.\n \n \n   Isabel:",
+  "id":"9c7b87e6-e0ca-4e25-8c6c-4ffbdb3e2e7c",
+  "params":{
+    "id":"a1f0c11f-01e6-4317-a248-cd9853558a74"
+  },
+  "name":"Pablo"
+}

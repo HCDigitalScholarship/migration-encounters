@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":20772,
+  "end":20777,
+  "text":" where I live\u2014I\n   have to leave at 5:00 AM to be able to get here at 7:00 AM.\n \n \n   Anne: And where do you work?\n \n \n   Edgar: I work here at EG Logistics.\n \n \n   Anne: Uh-huh (affirmative).\n \n \n   Edgar: Yeah. I work there for right now.\n \n \n   Anne: Is it a call center?\n \n \n   Edgar: No. It's Logistic.\n \n \n   Anne: Uh-huh (affirmative).\n \n \n   Edgar: Yeah. We help truckers find a load.\n \n \n   Anne:",
+  "label":"PERSON",
+  "id":"3df7abe9-3894-461a-a604-f47935932543",
+  "name":"Edgar"
+}

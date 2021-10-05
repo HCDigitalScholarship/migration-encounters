@@ -1,0 +1,13 @@
+{
+  "start":7272,
+  "end":7329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where I was at, it was all English, there was no Spanish.",
+  "id":"85e9c5e3-40c6-41be-8d2f-3f4a2afaf853",
+  "params":{
+    "id":"85e9c5e3-40c6-41be-8d2f-3f4a2afaf853",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

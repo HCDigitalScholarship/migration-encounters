@@ -1,0 +1,13 @@
+{
+  "start":9107,
+  "end":9129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I jog\n   a little bit.",
+  "id":"12ad0f64-3372-498d-9ff8-e6f468f5669e",
+  "params":{
+    "id":"12ad0f64-3372-498d-9ff8-e6f468f5669e",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

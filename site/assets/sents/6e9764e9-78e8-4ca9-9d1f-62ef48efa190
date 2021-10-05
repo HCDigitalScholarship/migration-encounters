@@ -1,0 +1,12 @@
+{
+  "start":16381,
+  "end":16399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Cris: A lot worse.",
+  "id":"6e9764e9-78e8-4ca9-9d1f-62ef48efa190",
+  "params":{
+    "id":"39147036-db6f-4ba6-9ee8-90b0daa39804"
+  },
+  "name":"Cris"
+}

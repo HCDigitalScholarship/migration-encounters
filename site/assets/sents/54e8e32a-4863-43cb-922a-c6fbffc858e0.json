@@ -1,0 +1,13 @@
+{
+  "start":25766,
+  "end":25811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   the anger that some people do have.",
+  "id":"54e8e32a-4863-43cb-922a-c6fbffc858e0",
+  "params":{
+    "id":"54e8e32a-4863-43cb-922a-c6fbffc858e0",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

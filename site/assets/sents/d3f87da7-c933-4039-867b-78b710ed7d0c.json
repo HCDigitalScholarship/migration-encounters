@@ -1,0 +1,13 @@
+{
+  "start":14896,
+  "end":14957,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just came\nback to work, I was using my license, everything.",
+  "id":"d3f87da7-c933-4039-867b-78b710ed7d0c",
+  "params":{
+    "id":"d3f87da7-c933-4039-867b-78b710ed7d0c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

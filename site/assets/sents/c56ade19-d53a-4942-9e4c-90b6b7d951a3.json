@@ -1,0 +1,13 @@
+{
+  "start":324,
+  "end":350,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember anything.",
+  "id":"c56ade19-d53a-4942-9e4c-90b6b7d951a3",
+  "params":{
+    "id":"c56ade19-d53a-4942-9e4c-90b6b7d951a3",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

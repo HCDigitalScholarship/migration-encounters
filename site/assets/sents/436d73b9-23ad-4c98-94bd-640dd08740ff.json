@@ -1,0 +1,13 @@
+{
+  "start":13172,
+  "end":13306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The persecutor just said, he used that term,\n   \u201cWe're not dropping the charges, we're deferring the charges,\u201d something\n   like that.",
+  "id":"436d73b9-23ad-4c98-94bd-640dd08740ff",
+  "params":{
+    "id":"436d73b9-23ad-4c98-94bd-640dd08740ff",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

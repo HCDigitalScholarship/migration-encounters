@@ -1,0 +1,12 @@
+{
+  "start":31705,
+  "end":31770,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you said that you liked it, because it got your parents upset?",
+  "id":"148c4ac1-0be7-4712-8796-de6b8401f8a5",
+  "params":{
+    "id":"3893efdd-2406-4f1e-adbb-0a9774656cb7"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20013,
+  "end":20043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I need to leave\n   your house.",
+  "id":"32230d14-ac5a-40ae-8e6a-4130076d1b40",
+  "params":{
+    "id":"32230d14-ac5a-40ae-8e6a-4130076d1b40",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

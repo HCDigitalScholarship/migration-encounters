@@ -1,0 +1,13 @@
+{
+  "start":39601,
+  "end":39635,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's like, \u201caqu\u00ed esto no sirve.\u201d",
+  "id":"08d99a24-0ab6-42df-8f81-2d3d01298a0a",
+  "params":{
+    "id":"08d99a24-0ab6-42df-8f81-2d3d01298a0a",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

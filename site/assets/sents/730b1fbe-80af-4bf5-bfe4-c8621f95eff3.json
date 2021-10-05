@@ -1,0 +1,13 @@
+{
+  "start":9373,
+  "end":9433,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you said you fell into a\n depression at a certain point.",
+  "id":"730b1fbe-80af-4bf5-bfe4-c8621f95eff3",
+  "params":{
+    "id":"730b1fbe-80af-4bf5-bfe4-c8621f95eff3",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

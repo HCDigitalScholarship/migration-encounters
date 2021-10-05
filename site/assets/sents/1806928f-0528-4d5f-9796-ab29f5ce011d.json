@@ -1,0 +1,13 @@
+{
+  "start":25130,
+  "end":25167,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   haven't asked him how he did it.",
+  "id":"1806928f-0528-4d5f-9796-ab29f5ce011d",
+  "params":{
+    "id":"1806928f-0528-4d5f-9796-ab29f5ce011d",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

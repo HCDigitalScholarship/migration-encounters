@@ -1,0 +1,13 @@
+{
+  "start":62071,
+  "end":62100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I\n   haven't ate seafood.",
+  "id":"7b5af020-8fcc-4f40-9493-b99a82b73318",
+  "params":{
+    "id":"7b5af020-8fcc-4f40-9493-b99a82b73318",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

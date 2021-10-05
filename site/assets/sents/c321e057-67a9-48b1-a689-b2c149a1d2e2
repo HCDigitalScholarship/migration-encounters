@@ -1,0 +1,12 @@
+{
+  "start":10700,
+  "end":10773,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then one of the guys heard me: \u201cHey, where\n   did you say you were from?\u201d",
+  "id":"c321e057-67a9-48b1-a689-b2c149a1d2e2",
+  "params":{
+    "id":"0b9e2e01-ff6f-405f-ae4f-39a2a65504d3"
+  },
+  "name":"Noe"
+}

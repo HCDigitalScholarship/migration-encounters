@@ -1,0 +1,13 @@
+{
+  "start":29484,
+  "end":29583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told my brother-in-law, \"Hey, do\n   you have any sheet of papers with English information on it?\"",
+  "id":"87639b1e-80de-418b-978b-29636eb65fdc",
+  "params":{
+    "id":"87639b1e-80de-418b-978b-29636eb65fdc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

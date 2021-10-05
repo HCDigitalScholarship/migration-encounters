@@ -1,0 +1,13 @@
+{
+  "start":23095,
+  "end":23109,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My pa knew it.",
+  "id":"5e6c99ed-e1c6-4a17-abfc-3ff9d81a9a25",
+  "params":{
+    "id":"5e6c99ed-e1c6-4a17-abfc-3ff9d81a9a25",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

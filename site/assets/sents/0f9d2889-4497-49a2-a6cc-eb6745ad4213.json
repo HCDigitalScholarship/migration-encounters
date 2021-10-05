@@ -1,0 +1,15 @@
+{
+  "start":1176,
+  "end":1209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was coming also with the stamp",
+  "id":"0f9d2889-4497-49a2-a6cc-eb6745ad4213",
+  "params":{
+    "id":"0f9d2889-4497-49a2-a6cc-eb6745ad4213",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

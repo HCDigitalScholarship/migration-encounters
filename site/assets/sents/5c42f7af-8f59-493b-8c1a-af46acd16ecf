@@ -1,0 +1,12 @@
+{
+  "start":8662,
+  "end":8688,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went all\n   the way out.",
+  "id":"5c42f7af-8f59-493b-8c1a-af46acd16ecf",
+  "params":{
+    "id":"9f0adca9-7365-400c-8a81-1cb4f54d1545"
+  },
+  "name":"Kevin"
+}

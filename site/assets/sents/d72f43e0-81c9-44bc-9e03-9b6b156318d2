@@ -1,0 +1,12 @@
+{
+  "start":34825,
+  "end":34835,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can't.",
+  "id":"d72f43e0-81c9-44bc-9e03-9b6b156318d2",
+  "params":{
+    "id":"b6a8ac1d-3b2c-4fea-80c7-c5ad68f2469e"
+  },
+  "name":"Luisa"
+}

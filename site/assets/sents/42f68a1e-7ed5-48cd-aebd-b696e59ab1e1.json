@@ -1,0 +1,13 @@
+{
+  "start":30299,
+  "end":30358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know how\n   to change that, how would they do that?",
+  "id":"42f68a1e-7ed5-48cd-aebd-b696e59ab1e1",
+  "params":{
+    "id":"42f68a1e-7ed5-48cd-aebd-b696e59ab1e1",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26286,
+  "end":26315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe he was\n feeling lonely.",
+  "id":"d62672b5-1951-4d40-a6b6-8c8145375ab8",
+  "params":{
+    "id":"d62672b5-1951-4d40-a6b6-8c8145375ab8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10149,
+  "end":10242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But when these customers get persistent, \"What's it going to take?\n What's it going to take?\"",
+  "id":"30e06739-8780-4f31-a154-db291359b6c9",
+  "params":{
+    "id":"30e06739-8780-4f31-a154-db291359b6c9",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

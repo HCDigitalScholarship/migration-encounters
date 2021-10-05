@@ -1,0 +1,13 @@
+{
+  "start":9371,
+  "end":9450,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't remember what the name was, but you can handle\n   it with your fingers.",
+  "id":"a0f50e19-c65e-45e0-b33f-441863b601ca",
+  "params":{
+    "id":"a0f50e19-c65e-45e0-b33f-441863b601ca",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

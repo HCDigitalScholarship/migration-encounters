@@ -1,0 +1,12 @@
+{
+  "start":2254,
+  "end":2290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that the first time you saw snow?",
+  "id":"e0369d2c-135b-473b-bc7d-2f8093f718b2",
+  "params":{
+    "id":"4779d8e0-210d-43c7-b2a6-746122c79733"
+  },
+  "name":"Rodrigo"
+}

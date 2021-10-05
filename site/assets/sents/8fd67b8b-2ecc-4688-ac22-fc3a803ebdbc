@@ -1,0 +1,12 @@
+{
+  "start":8960,
+  "end":8999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then you went to high school after?",
+  "id":"8fd67b8b-2ecc-4688-ac22-fc3a803ebdbc",
+  "params":{
+    "id":"d3eadc10-b414-4111-b5bf-231f5d8ee936"
+  },
+  "name":"Jeimmy"
+}

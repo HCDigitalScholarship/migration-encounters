@@ -1,0 +1,12 @@
+{
+  "start":9677,
+  "end":9739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   said, \"I think it's about time for you to go to Mexico.\"",
+  "id":"afd6a752-bbce-4477-b5a4-dd9cd0ea6c74",
+  "params":{
+    "id":"528ba584-1a36-4ba9-90de-28dbb4af77b3"
+  },
+  "name":"Zayuri"
+}

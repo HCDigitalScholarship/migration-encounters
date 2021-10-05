@@ -1,0 +1,12 @@
+{
+  "start":29990,
+  "end":30010,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This happened today.",
+  "id":"fcd2656e-9ab5-44ad-bd19-dcaa7e54ccee",
+  "params":{
+    "id":"81bf4ffb-20b7-48d3-bc48-40d1775dd58f"
+  },
+  "name":"Abel"
+}

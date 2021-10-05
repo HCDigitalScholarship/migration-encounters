@@ -1,0 +1,13 @@
+{
+  "start":27437,
+  "end":27495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't tell me that this is right because this is\n   wrong.",
+  "id":"f6536ebd-9bd0-4f03-b455-5084614d0e17",
+  "params":{
+    "id":"f6536ebd-9bd0-4f03-b455-5084614d0e17",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

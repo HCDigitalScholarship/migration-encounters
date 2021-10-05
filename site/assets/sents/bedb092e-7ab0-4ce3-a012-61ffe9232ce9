@@ -1,0 +1,12 @@
+{
+  "start":17510,
+  "end":17565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And what are your plans for, now that you're in Mexico?",
+  "id":"bedb092e-7ab0-4ce3-a012-61ffe9232ce9",
+  "params":{
+    "id":"aae4a244-68ff-4af3-a9af-cb84b047baa7"
+  },
+  "name":"Pablo"
+}

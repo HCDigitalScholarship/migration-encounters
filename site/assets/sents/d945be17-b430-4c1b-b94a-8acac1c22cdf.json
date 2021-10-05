@@ -1,0 +1,13 @@
+{
+  "start":76654,
+  "end":76711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All these other stuff, and I'm okay with all that\n stuff.",
+  "id":"d945be17-b430-4c1b-b94a-8acac1c22cdf",
+  "params":{
+    "id":"d945be17-b430-4c1b-b94a-8acac1c22cdf",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28277,
+  "end":28295,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was easy, good.",
+  "id":"5bdd7118-b25f-4a05-9d93-8f3e05f6ca10",
+  "params":{
+    "id":"5bdd7118-b25f-4a05-9d93-8f3e05f6ca10",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7500,
+  "end":7523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything went\n   bad.",
+  "id":"401fef57-b0de-4e7b-845c-30ee4597fb67",
+  "params":{
+    "id":"2f161984-d767-4169-95df-b881ac93945f"
+  },
+  "name":"Carlos"
+}

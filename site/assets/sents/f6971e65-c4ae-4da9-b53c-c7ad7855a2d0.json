@@ -1,0 +1,13 @@
+{
+  "start":24774,
+  "end":24826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does anyone hear your accent and ever\n   attack you?",
+  "id":"f6971e65-c4ae-4da9-b53c-c7ad7855a2d0",
+  "params":{
+    "id":"f6971e65-c4ae-4da9-b53c-c7ad7855a2d0",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

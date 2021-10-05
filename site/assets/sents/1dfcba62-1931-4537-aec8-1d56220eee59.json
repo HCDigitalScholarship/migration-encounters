@@ -1,0 +1,13 @@
+{
+  "start":28612,
+  "end":28633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was really excited.",
+  "id":"1dfcba62-1931-4537-aec8-1d56220eee59",
+  "params":{
+    "id":"1dfcba62-1931-4537-aec8-1d56220eee59",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

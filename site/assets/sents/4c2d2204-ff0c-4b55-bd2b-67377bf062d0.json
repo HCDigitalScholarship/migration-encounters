@@ -1,0 +1,13 @@
+{
+  "start":26410,
+  "end":26432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How about immigration?",
+  "id":"4c2d2204-ff0c-4b55-bd2b-67377bf062d0",
+  "params":{
+    "id":"4c2d2204-ff0c-4b55-bd2b-67377bf062d0",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

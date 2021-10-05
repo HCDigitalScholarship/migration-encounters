@@ -1,0 +1,12 @@
+{
+  "start":4092,
+  "end":4111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything changed.",
+  "id":"7b1600c6-be2c-41e1-9d0e-5879f8dcdc41",
+  "params":{
+    "id":"4941a4f7-dddf-447b-a51b-b70644179a22"
+  },
+  "name":"Edgar"
+}

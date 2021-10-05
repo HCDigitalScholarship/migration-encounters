@@ -1,0 +1,13 @@
+{
+  "start":12804,
+  "end":12872,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   want to stay here [in the US],\" because in my heart I felt like",
+  "id":"3cbcae71-3cde-4127-a121-d9bc91303800",
+  "params":{
+    "id":"3cbcae71-3cde-4127-a121-d9bc91303800",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

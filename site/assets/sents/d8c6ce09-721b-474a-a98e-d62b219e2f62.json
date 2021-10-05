@@ -1,0 +1,13 @@
+{
+  "start":5986,
+  "end":6021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to work a lot with the rock.",
+  "id":"d8c6ce09-721b-474a-a98e-d62b219e2f62",
+  "params":{
+    "id":"d8c6ce09-721b-474a-a98e-d62b219e2f62",
+    "class":"anno"
+  },
+  "name":"Many"
+}

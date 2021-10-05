@@ -1,0 +1,13 @@
+{
+  "start":72344,
+  "end":72424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Try it, and if you really tried your\n   best, don't say that you couldn't do it.",
+  "id":"3d8849d9-9805-4103-9b45-f38c1f904e45",
+  "params":{
+    "id":"3d8849d9-9805-4103-9b45-f38c1f904e45",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

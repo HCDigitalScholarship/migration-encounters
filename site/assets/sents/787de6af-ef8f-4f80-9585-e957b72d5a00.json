@@ -1,0 +1,13 @@
+{
+  "start":21098,
+  "end":21196,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's got a job, she's got her first job,\n right now she's a paralegal for immigration family law.",
+  "id":"787de6af-ef8f-4f80-9585-e957b72d5a00",
+  "params":{
+    "id":"787de6af-ef8f-4f80-9585-e957b72d5a00",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

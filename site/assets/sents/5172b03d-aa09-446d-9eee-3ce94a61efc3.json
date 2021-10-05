@@ -1,0 +1,13 @@
+{
+  "start":3205,
+  "end":3297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know when you see somebody, and you have like a click or\n   something on the first time?",
+  "id":"5172b03d-aa09-446d-9eee-3ce94a61efc3",
+  "params":{
+    "id":"5172b03d-aa09-446d-9eee-3ce94a61efc3",
+    "class":"anno"
+  },
+  "name":"Many"
+}

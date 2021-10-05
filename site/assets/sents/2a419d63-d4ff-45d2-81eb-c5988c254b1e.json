@@ -1,0 +1,13 @@
+{
+  "start":6779,
+  "end":6825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My sister's, she's turning twelve on June 15th",
+  "id":"2a419d63-d4ff-45d2-81eb-c5988c254b1e",
+  "params":{
+    "id":"2a419d63-d4ff-45d2-81eb-c5988c254b1e",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

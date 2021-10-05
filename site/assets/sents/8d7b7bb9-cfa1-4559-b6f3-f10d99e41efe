@@ -1,0 +1,12 @@
+{
+  "start":76395,
+  "end":76426,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's one of my favorite dishes.",
+  "id":"8d7b7bb9-cfa1-4559-b6f3-f10d99e41efe",
+  "params":{
+    "id":"7d54dde4-5e3b-4a33-bddb-9ab52ca96c09"
+  },
+  "name":"Cris"
+}

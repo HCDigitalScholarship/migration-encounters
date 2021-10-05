@@ -1,0 +1,13 @@
+{
+  "start":42081,
+  "end":42151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These\n   are things that have happened in our culture, a lot of times.",
+  "id":"0f68b6b6-b2e4-485d-b0eb-8912e7b6a714",
+  "params":{
+    "id":"0f68b6b6-b2e4-485d-b0eb-8912e7b6a714",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

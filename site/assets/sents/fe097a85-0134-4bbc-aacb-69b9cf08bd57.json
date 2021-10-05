@@ -1,0 +1,13 @@
+{
+  "start":34373,
+  "end":34489,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He arrested me because the fingerprint guy, the\n   guy that came with the fingerprint scanner, he was really racist.",
+  "id":"fe097a85-0134-4bbc-aacb-69b9cf08bd57",
+  "params":{
+    "id":"fe097a85-0134-4bbc-aacb-69b9cf08bd57",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

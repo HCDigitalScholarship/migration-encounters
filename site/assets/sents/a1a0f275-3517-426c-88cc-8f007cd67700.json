@@ -1,0 +1,13 @@
+{
+  "start":5193,
+  "end":5221,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why I love Taco Bell.",
+  "id":"a1a0f275-3517-426c-88cc-8f007cd67700",
+  "params":{
+    "id":"a1a0f275-3517-426c-88cc-8f007cd67700",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6923,
+  "end":7038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The decision to come back was very hard and very difficult because I\n   was leaving my wife and my children behind.",
+  "id":"aeff52a4-0fab-49d6-b649-01a52c343087",
+  "params":{
+    "id":"aeff52a4-0fab-49d6-b649-01a52c343087",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

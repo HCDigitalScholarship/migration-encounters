@@ -1,0 +1,12 @@
+{
+  "start":25592,
+  "end":25616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   not going to lie.",
+  "id":"bc629e85-81f1-42e6-9b82-a12db6e626fe",
+  "params":{
+    "id":"52f26cdc-f193-4388-b22f-a50c564f728e"
+  },
+  "name":"Kevin"
+}

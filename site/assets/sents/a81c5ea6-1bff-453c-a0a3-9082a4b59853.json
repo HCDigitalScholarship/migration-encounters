@@ -1,0 +1,13 @@
+{
+  "start":35187,
+  "end":35364,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're not going to let you speak to your\n   family and you're not going to see your family for a long time if you don't\n   sign this because you're breaking some law or whatever",
+  "id":"a81c5ea6-1bff-453c-a0a3-9082a4b59853",
+  "params":{
+    "id":"a81c5ea6-1bff-453c-a0a3-9082a4b59853",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

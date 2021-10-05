@@ -1,0 +1,13 @@
+{
+  "start":14585,
+  "end":14605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It's ridiculous.",
+  "id":"efeec6a4-8f7d-437b-9d3e-49ec024ba2f9",
+  "params":{
+    "id":"efeec6a4-8f7d-437b-9d3e-49ec024ba2f9",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

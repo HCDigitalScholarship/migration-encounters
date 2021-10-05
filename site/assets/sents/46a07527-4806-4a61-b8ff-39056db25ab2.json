@@ -1,0 +1,13 @@
+{
+  "start":12565,
+  "end":12601,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: Weird?\n \n \n   Pablo:",
+  "id":"46a07527-4806-4a61-b8ff-39056db25ab2",
+  "params":{
+    "id":"46a07527-4806-4a61-b8ff-39056db25ab2",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":24467,
+  "end":24532,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, it took me around six months to get all my papers together.",
+  "id":"3d1bec48-2c84-4b41-b28d-b077564ce24a",
+  "params":{
+    "id":"7b6e921a-c1b7-447b-8052-32c137a77c82"
+  },
+  "name":"Many"
+}

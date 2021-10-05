@@ -1,0 +1,12 @@
+{
+  "start":45231,
+  "end":45256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Rodrigo: Natalie.",
+  "id":"3e468da0-1599-45c4-a290-4f677b024280",
+  "params":{
+    "id":"b7f9a207-16f0-469c-8a96-a7b5fd32d750"
+  },
+  "name":"Rodrigo"
+}

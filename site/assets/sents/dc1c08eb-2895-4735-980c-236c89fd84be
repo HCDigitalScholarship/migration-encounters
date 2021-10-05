@@ -1,0 +1,12 @@
+{
+  "start":23302,
+  "end":23336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's talk about that in a second.",
+  "id":"dc1c08eb-2895-4735-980c-236c89fd84be",
+  "params":{
+    "id":"60f978a9-6907-4b0f-9f28-4ff967bd94b5"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28863,
+  "end":28882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I'm happy here.",
+  "id":"e302cd46-0242-439f-b32e-d95ae44d9adc",
+  "params":{
+    "id":"e302cd46-0242-439f-b32e-d95ae44d9adc",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

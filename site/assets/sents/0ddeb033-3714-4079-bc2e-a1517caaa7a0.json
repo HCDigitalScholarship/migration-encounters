@@ -1,0 +1,13 @@
+{
+  "start":17268,
+  "end":17312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you don't\n   like somebody let them know.",
+  "id":"0ddeb033-3714-4079-bc2e-a1517caaa7a0",
+  "params":{
+    "id":"0ddeb033-3714-4079-bc2e-a1517caaa7a0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

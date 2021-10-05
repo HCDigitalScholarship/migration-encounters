@@ -1,0 +1,13 @@
+{
+  "start":4949,
+  "end":5011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our rivalry started from high school, from the football games.",
+  "id":"90ff2d4e-4261-41b9-b6cb-f6b7b05d46d2",
+  "params":{
+    "id":"90ff2d4e-4261-41b9-b6cb-f6b7b05d46d2",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

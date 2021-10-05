@@ -1,0 +1,13 @@
+{
+  "start":12336,
+  "end":12370,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I married my long-time girlfriend.",
+  "id":"bf58acfe-1ff9-426a-bf94-b954efe0d05b",
+  "params":{
+    "id":"bf58acfe-1ff9-426a-bf94-b954efe0d05b",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":72235,
+  "end":72268,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You give me a\n   hundred dollars.",
+  "id":"8dca8010-ed10-4812-9707-442efc799f73",
+  "params":{
+    "id":"8dca8010-ed10-4812-9707-442efc799f73",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10659,
+  "end":10676,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And she's crying.",
+  "id":"2e0d6117-cd33-4c23-a09e-e4e22119930b",
+  "params":{
+    "id":"2e0d6117-cd33-4c23-a09e-e4e22119930b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5352,
+  "end":5384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Roberto: My brother's...",
+  "id":"3d2754bd-3b8a-4efc-9bb3-4d7b8c74c3cb",
+  "params":{
+    "id":"3d2754bd-3b8a-4efc-9bb3-4d7b8c74c3cb",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

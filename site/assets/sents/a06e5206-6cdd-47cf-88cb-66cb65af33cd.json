@@ -1,0 +1,13 @@
+{
+  "start":60393,
+  "end":60437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's something that people don't understand.",
+  "id":"a06e5206-6cdd-47cf-88cb-66cb65af33cd",
+  "params":{
+    "id":"a06e5206-6cdd-47cf-88cb-66cb65af33cd",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

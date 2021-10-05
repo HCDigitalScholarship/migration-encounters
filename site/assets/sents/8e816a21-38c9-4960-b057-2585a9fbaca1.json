@@ -1,0 +1,12 @@
+{
+  "start":4,
+  "end":56,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: How old are you Miguel?\n \n <br/>\n \n   Miguel:",
+  "id":"8e816a21-38c9-4960-b057-2585a9fbaca1",
+  "params":{
+    "id":"16bc0c65-f6e3-484e-b5e9-22418e184e65"
+  },
+  "name":"Miguel A"
+}

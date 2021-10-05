@@ -1,0 +1,13 @@
+{
+  "start":13260,
+  "end":13342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our attorney just said, \"You do have to leave\n the US\" and I was like, \"But when?\"",
+  "id":"cf3119f2-0af6-4f8a-9764-ec85aa2edd20",
+  "params":{
+    "id":"cf3119f2-0af6-4f8a-9764-ec85aa2edd20",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

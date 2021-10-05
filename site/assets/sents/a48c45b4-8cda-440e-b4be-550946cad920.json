@@ -1,0 +1,13 @@
+{
+  "start":18830,
+  "end":18886,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel like I\n   could have still had a fighting chance.",
+  "id":"a48c45b4-8cda-440e-b4be-550946cad920",
+  "params":{
+    "id":"a48c45b4-8cda-440e-b4be-550946cad920",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

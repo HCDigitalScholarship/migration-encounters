@@ -1,0 +1,13 @@
+{
+  "start":13925,
+  "end":13945,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the\n     25%.",
+  "id":"50a8df06-5267-4f9c-ab48-0f48f68a1399",
+  "params":{
+    "id":"50a8df06-5267-4f9c-ab48-0f48f68a1399",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

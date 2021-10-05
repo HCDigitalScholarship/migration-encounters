@@ -1,0 +1,13 @@
+{
+  "start":56855,
+  "end":56948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I thought it was going to be a lot worse than what it was, but like I\n said, it was the same.",
+  "id":"d94501a5-4d7e-4057-9d01-834100f6cd7d",
+  "params":{
+    "id":"d94501a5-4d7e-4057-9d01-834100f6cd7d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

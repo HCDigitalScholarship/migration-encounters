@@ -1,0 +1,13 @@
+{
+  "start":20078,
+  "end":20085,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[Pause]",
+  "id":"bf5cef6b-6efb-4e0b-9ecd-a2bf9db29d75",
+  "params":{
+    "id":"bf5cef6b-6efb-4e0b-9ecd-a2bf9db29d75",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

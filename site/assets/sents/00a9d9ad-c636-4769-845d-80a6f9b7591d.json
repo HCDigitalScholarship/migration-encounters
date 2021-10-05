@@ -1,0 +1,13 @@
+{
+  "start":12722,
+  "end":12748,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they cook for you too?",
+  "id":"00a9d9ad-c636-4769-845d-80a6f9b7591d",
+  "params":{
+    "id":"00a9d9ad-c636-4769-845d-80a6f9b7591d",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

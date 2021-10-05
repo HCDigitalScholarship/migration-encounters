@@ -1,0 +1,12 @@
+{
+  "start":579,
+  "end":625,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just going to go ahead and take this kid.\"",
+  "id":"bef7cc4c-bf65-4f5d-abd9-277aee6b8a7e",
+  "params":{
+    "id":"91db4829-e2f9-4a0d-8baf-acd0575e12e9"
+  },
+  "name":"Luis B"
+}

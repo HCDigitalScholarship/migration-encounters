@@ -1,0 +1,13 @@
+{
+  "start":39097,
+  "end":39187,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\u2019re saying that McDonald's is just using a lot of undocumented and\n paying them really?",
+  "id":"1c420d48-905e-4198-a253-69ffc5f1da29",
+  "params":{
+    "id":"1c420d48-905e-4198-a253-69ffc5f1da29",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

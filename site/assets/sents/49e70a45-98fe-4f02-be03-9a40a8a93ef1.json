@@ -1,0 +1,13 @@
+{
+  "start":25107,
+  "end":25208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When the peace treaty came around,\n   it was a tough time because we were going through a tough time.",
+  "id":"49e70a45-98fe-4f02-be03-9a40a8a93ef1",
+  "params":{
+    "id":"49e70a45-98fe-4f02-be03-9a40a8a93ef1",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

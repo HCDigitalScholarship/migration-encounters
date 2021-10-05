@@ -1,0 +1,13 @@
+{
+  "start":2062,
+  "end":2129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I decided to stay where I'm at, which is just a\n     regular agent.",
+  "id":"ad9f6c2e-aec6-442d-99da-a19c1539002e",
+  "params":{
+    "id":"ad9f6c2e-aec6-442d-99da-a19c1539002e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

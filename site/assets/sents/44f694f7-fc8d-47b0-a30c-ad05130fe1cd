@@ -1,0 +1,12 @@
+{
+  "start":60812,
+  "end":60825,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's\n   hard.",
+  "id":"44f694f7-fc8d-47b0-a30c-ad05130fe1cd",
+  "params":{
+    "id":"6ca08b97-4df8-48e4-80ae-7ac8fbb44cb9"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28580,
+  "end":28609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have to be\n   responsible.",
+  "id":"ff5e5470-7d4d-41fe-8b7c-03581df6264d",
+  "params":{
+    "id":"ff5e5470-7d4d-41fe-8b7c-03581df6264d",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "id":"4020ce27-a8cb-4647-8ca3-fdb4216db101",
+  "type":"text",
+  "start":7422,
+  "end":7479,
+  "label":"Time in the US, Arriving in the United States, Age",
+  "params":{
+    "id":"4020ce27-a8cb-4647-8ca3-fdb4216db101",
+    "class":"anno"
+  },
+  "name":"Mike",
+  "text":"Anne: How old were you?\n \n \n   Mike: I was 11, 12.\n \n \n  "
+}

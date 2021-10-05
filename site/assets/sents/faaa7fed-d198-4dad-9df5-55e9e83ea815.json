@@ -1,0 +1,13 @@
+{
+  "start":2500,
+  "end":2531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could literally go right now.",
+  "id":"faaa7fed-d198-4dad-9df5-55e9e83ea815",
+  "params":{
+    "id":"faaa7fed-d198-4dad-9df5-55e9e83ea815",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

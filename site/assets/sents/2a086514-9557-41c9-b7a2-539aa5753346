@@ -1,0 +1,12 @@
+{
+  "start":17770,
+  "end":17804,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I go, \"You're just my supervisor.\"",
+  "id":"2a086514-9557-41c9-b7a2-539aa5753346",
+  "params":{
+    "id":"8ce32b56-4543-4fd7-ad70-cd20c1960810"
+  },
+  "name":"Kevin"
+}

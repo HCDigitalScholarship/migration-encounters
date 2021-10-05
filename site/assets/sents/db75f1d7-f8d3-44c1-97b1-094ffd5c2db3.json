@@ -1,0 +1,13 @@
+{
+  "start":5539,
+  "end":5597,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like \"I'm Cristian, I'm come here to see my grandma.",
+  "id":"db75f1d7-f8d3-44c1-97b1-094ffd5c2db3",
+  "params":{
+    "id":"db75f1d7-f8d3-44c1-97b1-094ffd5c2db3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

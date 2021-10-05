@@ -1,0 +1,13 @@
+{
+  "start":7340,
+  "end":7360,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Not\n   one sentence.",
+  "id":"14d8b31f-dbce-4f3c-814d-c3bd1e584f8b",
+  "params":{
+    "id":"14d8b31f-dbce-4f3c-814d-c3bd1e584f8b",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

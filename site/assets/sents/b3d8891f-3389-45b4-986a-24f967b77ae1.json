@@ -1,0 +1,13 @@
+{
+  "start":8291,
+  "end":8300,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long?",
+  "id":"b3d8891f-3389-45b4-986a-24f967b77ae1",
+  "params":{
+    "id":"b3d8891f-3389-45b4-986a-24f967b77ae1",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

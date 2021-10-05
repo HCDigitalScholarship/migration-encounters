@@ -1,0 +1,12 @@
+{
+  "start":8208,
+  "end":8255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was an eight hour drive, so it was horrible.",
+  "id":"f6ccdd69-329c-4f69-af64-db5885592348",
+  "params":{
+    "id":"c9e8dc8b-37ad-4842-9729-0b8b839b0573"
+  },
+  "name":"Luis A"
+}

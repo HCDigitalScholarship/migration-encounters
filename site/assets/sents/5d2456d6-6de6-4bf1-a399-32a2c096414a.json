@@ -1,0 +1,13 @@
+{
+  "start":32559,
+  "end":32602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia: What about hotdogs and hamburgers?",
+  "id":"5d2456d6-6de6-4bf1-a399-32a2c096414a",
+  "params":{
+    "id":"5d2456d6-6de6-4bf1-a399-32a2c096414a",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

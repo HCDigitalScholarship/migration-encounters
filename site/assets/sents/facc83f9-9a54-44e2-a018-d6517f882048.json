@@ -1,0 +1,13 @@
+{
+  "start":1346,
+  "end":1385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I've always had a lot of friends.",
+  "id":"facc83f9-9a54-44e2-a018-d6517f882048",
+  "params":{
+    "id":"facc83f9-9a54-44e2-a018-d6517f882048",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

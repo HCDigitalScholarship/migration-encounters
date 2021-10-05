@@ -1,0 +1,13 @@
+{
+  "start":7512,
+  "end":7548,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They didn't want to take the charge.",
+  "id":"fcfca23c-3296-4bd9-99b9-14b5d2c1e023",
+  "params":{
+    "id":"fcfca23c-3296-4bd9-99b9-14b5d2c1e023",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

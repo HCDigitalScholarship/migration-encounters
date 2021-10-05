@@ -1,0 +1,13 @@
+{
+  "start":118,
+  "end":169,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, obviously, you don't have any memories of that.",
+  "id":"88ea86f5-ced1-49d4-9ca9-0d41ecf508ca",
+  "params":{
+    "id":"88ea86f5-ced1-49d4-9ca9-0d41ecf508ca",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

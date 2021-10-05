@@ -1,0 +1,13 @@
+{
+  "start":26500,
+  "end":26562,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when I saw and I said,\n   \"Hey, I need to do something.",
+  "id":"287512e5-0988-482a-a3b0-00ff32af0773",
+  "params":{
+    "id":"287512e5-0988-482a-a3b0-00ff32af0773",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

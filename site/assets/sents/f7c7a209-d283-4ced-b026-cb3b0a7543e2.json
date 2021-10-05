@@ -1,0 +1,13 @@
+{
+  "start":42239,
+  "end":42388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"You're just sitting around, and you\n have no need to work because people are sending you money, so I'm going to\n give you a need to work.\"",
+  "id":"f7c7a209-d283-4ced-b026-cb3b0a7543e2",
+  "params":{
+    "id":"f7c7a209-d283-4ced-b026-cb3b0a7543e2",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

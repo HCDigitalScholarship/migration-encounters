@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":10123,
+  "end":10127,
+  "text":"at?\n \n \n   Carolina: It's really good. I'm liking it.\n \n \n   Anne: How long have you done it?\n \n \n   Carolina: This is my second week.\n \n \n   Anne: Oh.\n \n \n   Carolina: Yeah, I just turned 18.\n \n \n   Anne: Did you work before then or is this your first job?\n \n \n   Carolina: I worked in a hog farm over there.\n \n \n   Anne: In a hog farm?\n \n \n   Carolina: Yeah.\n \n \n   Anne: So the hog farm must've been o",
+  "label":"PERSON",
+  "id":"a587544f-4e8d-4db8-a662-e0b43586b62c",
+  "name":"Carolina"
+}

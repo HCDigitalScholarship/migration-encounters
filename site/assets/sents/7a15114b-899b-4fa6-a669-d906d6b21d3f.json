@@ -1,0 +1,13 @@
+{
+  "start":155,
+  "end":175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Miguel: Mexico, yes.",
+  "id":"7a15114b-899b-4fa6-a669-d906d6b21d3f",
+  "params":{
+    "id":"7a15114b-899b-4fa6-a669-d906d6b21d3f",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

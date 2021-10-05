@@ -1,0 +1,12 @@
+{
+  "start":62540,
+  "end":62590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   \n   \n     Joseph: Pleasure.\n   \n   \n     Anne:",
+  "id":"305af817-25d3-4650-86a7-5437fe75afbb",
+  "params":{
+    "id":"f56f7b63-6d74-4c41-a424-1556d76a9906"
+  },
+  "name":"Joseph"
+}

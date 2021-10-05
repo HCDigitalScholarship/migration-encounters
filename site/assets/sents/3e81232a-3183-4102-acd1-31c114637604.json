@@ -1,0 +1,13 @@
+{
+  "start":31238,
+  "end":31260,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're happy with it.",
+  "id":"3e81232a-3183-4102-acd1-31c114637604",
+  "params":{
+    "id":"3e81232a-3183-4102-acd1-31c114637604",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":43876,
+  "end":44064,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love\n   architecture, I love meeting people from other places, not that I don't\n   like Mexicans, but la comida, food is something that I absolutely enjoy,\n   music, just culture itself.",
+  "id":"18af0ca5-4747-4bb5-b187-9974c4022765",
+  "params":{
+    "id":"18af0ca5-4747-4bb5-b187-9974c4022765",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

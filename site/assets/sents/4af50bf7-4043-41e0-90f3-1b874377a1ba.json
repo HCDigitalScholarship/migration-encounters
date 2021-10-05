@@ -1,0 +1,13 @@
+{
+  "start":27887,
+  "end":27935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I'm\n   happy in Mexico, I can tell you that.",
+  "id":"4af50bf7-4043-41e0-90f3-1b874377a1ba",
+  "params":{
+    "id":"4af50bf7-4043-41e0-90f3-1b874377a1ba",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

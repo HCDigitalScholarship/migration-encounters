@@ -1,0 +1,13 @@
+{
+  "start":31867,
+  "end":31897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had my\n   fun in the States.",
+  "id":"6429c0fd-2f86-4e24-bb6d-0a32b18c7cff",
+  "params":{
+    "id":"6429c0fd-2f86-4e24-bb6d-0a32b18c7cff",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

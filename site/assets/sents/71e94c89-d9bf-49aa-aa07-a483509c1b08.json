@@ -1,0 +1,13 @@
+{
+  "start":26418,
+  "end":26540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told my\n   grandparents, \"You know what, I'm really thankful for my stay here, but I\n   would like to grow independent.\"",
+  "id":"71e94c89-d9bf-49aa-aa07-a483509c1b08",
+  "params":{
+    "id":"71e94c89-d9bf-49aa-aa07-a483509c1b08",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

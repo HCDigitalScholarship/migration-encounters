@@ -1,0 +1,12 @@
+{
+  "start":559,
+  "end":586,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you enter the U.S.?",
+  "id":"7432279e-a7ee-44b3-8856-225689eda0fd",
+  "params":{
+    "id":"b0edd1f5-007c-489b-8381-fac10a8a8fed"
+  },
+  "name":"Ivan"
+}

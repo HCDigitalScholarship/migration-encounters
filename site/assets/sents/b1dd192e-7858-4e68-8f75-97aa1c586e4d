@@ -1,0 +1,12 @@
+{
+  "start":5033,
+  "end":5060,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's hair\n   everywhere.",
+  "id":"b1dd192e-7858-4e68-8f75-97aa1c586e4d",
+  "params":{
+    "id":"48098602-5d1f-4be4-b2d6-94f45512c581"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,13 @@
+{
+  "start":45540,
+  "end":45581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He wrote that book and many others, so...",
+  "id":"10929bcc-350d-455a-a7d4-d9f69c8be37d",
+  "params":{
+    "id":"10929bcc-350d-455a-a7d4-d9f69c8be37d",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

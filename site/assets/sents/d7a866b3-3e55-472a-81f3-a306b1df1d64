@@ -1,0 +1,12 @@
+{
+  "start":48599,
+  "end":48656,
+  "label":"SENT",
+  "type":"sent",
+  "text":"an\n   even bigger bag, because I had bought more clothes.",
+  "id":"d7a866b3-3e55-472a-81f3-a306b1df1d64",
+  "params":{
+    "id":"1f85810f-0dfb-4cfb-a8e6-b4cb5432fb27"
+  },
+  "name":"Mike"
+}

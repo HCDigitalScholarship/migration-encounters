@@ -1,0 +1,12 @@
+{
+  "start":31173,
+  "end":31237,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They give you beans, tortillas, and pork meat, and beef\n   meat.",
+  "id":"fd86b91b-6012-42e3-86f7-5a19fd68a33b",
+  "params":{
+    "id":"78de96d6-a14d-4fa1-8d1b-9ec59830bc3f"
+  },
+  "name":"Noe"
+}

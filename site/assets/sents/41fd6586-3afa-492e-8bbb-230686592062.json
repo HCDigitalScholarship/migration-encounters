@@ -1,0 +1,12 @@
+{
+  "start":9983,
+  "end":10041,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   just lied to us and said that my mom didn't want us.",
+  "id":"41fd6586-3afa-492e-8bbb-230686592062",
+  "params":{
+    "id":"b3533651-d53c-45c8-8e43-c32ffeabcf87"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7799,
+  "end":7839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know how they say it in English.",
+  "id":"f621b490-f183-4755-9d2e-ea1cd5e89166",
+  "params":{
+    "id":"f621b490-f183-4755-9d2e-ea1cd5e89166",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

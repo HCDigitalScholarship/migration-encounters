@@ -1,0 +1,13 @@
+{
+  "start":30332,
+  "end":30372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   think that was what formed my mind.",
+  "id":"a19962e1-4714-4b31-819c-9fbb7ee1c4a7",
+  "params":{
+    "id":"a19962e1-4714-4b31-819c-9fbb7ee1c4a7",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

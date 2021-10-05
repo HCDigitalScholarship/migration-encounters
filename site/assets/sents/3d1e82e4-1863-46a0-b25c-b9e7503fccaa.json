@@ -1,0 +1,13 @@
+{
+  "start":37759,
+  "end":37778,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember my dogs.",
+  "id":"3d1e82e4-1863-46a0-b25c-b9e7503fccaa",
+  "params":{
+    "id":"3d1e82e4-1863-46a0-b25c-b9e7503fccaa",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

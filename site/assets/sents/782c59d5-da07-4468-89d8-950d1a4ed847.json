@@ -1,0 +1,13 @@
+{
+  "start":2828,
+  "end":2850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that a misdemeanor?",
+  "id":"782c59d5-da07-4468-89d8-950d1a4ed847",
+  "params":{
+    "id":"782c59d5-da07-4468-89d8-950d1a4ed847",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22131,
+  "end":22146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a human.",
+  "id":"7f517c75-f424-4109-8bac-ee4e2f37cd89",
+  "params":{
+    "id":"7f517c75-f424-4109-8bac-ee4e2f37cd89",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

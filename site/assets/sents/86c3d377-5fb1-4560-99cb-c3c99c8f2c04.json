@@ -1,0 +1,13 @@
+{
+  "start":17689,
+  "end":17721,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n   not as bad as we are.\"",
+  "id":"86c3d377-5fb1-4560-99cb-c3c99c8f2c04",
+  "params":{
+    "id":"86c3d377-5fb1-4560-99cb-c3c99c8f2c04",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

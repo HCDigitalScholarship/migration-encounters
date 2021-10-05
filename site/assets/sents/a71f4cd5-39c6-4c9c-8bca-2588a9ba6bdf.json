@@ -1,0 +1,15 @@
+{
+  "start":6588,
+  "end":6607,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Lizzie: Impossible.",
+  "id":"a71f4cd5-39c6-4c9c-8bca-2588a9ba6bdf",
+  "params":{
+    "id":"a71f4cd5-39c6-4c9c-8bca-2588a9ba6bdf",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

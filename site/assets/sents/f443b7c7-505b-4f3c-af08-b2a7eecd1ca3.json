@@ -1,0 +1,13 @@
+{
+  "start":26521,
+  "end":26599,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"You need to cover them up because they're not\n   professional.\"",
+  "id":"f443b7c7-505b-4f3c-af08-b2a7eecd1ca3",
+  "params":{
+    "id":"f443b7c7-505b-4f3c-af08-b2a7eecd1ca3",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

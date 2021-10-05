@@ -1,0 +1,13 @@
+{
+  "start":40584,
+  "end":40633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't have WhatsApp\n   because I don't want to.",
+  "id":"1cfb040c-b2ac-4875-b8b6-04e4112e9c2f",
+  "params":{
+    "id":"1cfb040c-b2ac-4875-b8b6-04e4112e9c2f",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

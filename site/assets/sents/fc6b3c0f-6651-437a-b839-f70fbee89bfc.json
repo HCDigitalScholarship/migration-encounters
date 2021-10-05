@@ -1,0 +1,13 @@
+{
+  "start":11854,
+  "end":11950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're going to just take\n the kids; we're going to move up here and we're going to be together\".",
+  "id":"fc6b3c0f-6651-437a-b839-f70fbee89bfc",
+  "params":{
+    "id":"fc6b3c0f-6651-437a-b839-f70fbee89bfc",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

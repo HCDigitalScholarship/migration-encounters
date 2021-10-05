@@ -1,0 +1,13 @@
+{
+  "start":67407,
+  "end":67453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because the pizza\n   don't have enough cheese.",
+  "id":"3a940f68-c94f-4beb-a79b-36d675370adb",
+  "params":{
+    "id":"3a940f68-c94f-4beb-a79b-36d675370adb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

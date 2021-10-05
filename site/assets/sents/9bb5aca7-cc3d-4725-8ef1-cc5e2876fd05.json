@@ -1,0 +1,13 @@
+{
+  "start":550,
+  "end":583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"what\n   was happening, not fully.",
+  "id":"9bb5aca7-cc3d-4725-8ef1-cc5e2876fd05",
+  "params":{
+    "id":"9bb5aca7-cc3d-4725-8ef1-cc5e2876fd05",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

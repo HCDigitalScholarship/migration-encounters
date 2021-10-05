@@ -1,0 +1,12 @@
+{
+  "start":3311,
+  "end":3348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You understand everything I'm saying?",
+  "id":"a1129ca8-499f-4762-82d3-80d9257b19d9",
+  "params":{
+    "id":"64cc0aa8-401c-4586-b973-f1007749ec11"
+  },
+  "name":"Josue"
+}

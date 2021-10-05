@@ -1,0 +1,13 @@
+{
+  "start":24902,
+  "end":24913,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   past",
+  "id":"99d9801b-28ac-4e27-9689-9ff357e61d24",
+  "params":{
+    "id":"99d9801b-28ac-4e27-9689-9ff357e61d24",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

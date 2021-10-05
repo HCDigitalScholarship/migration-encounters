@@ -1,0 +1,13 @@
+{
+  "start":20389,
+  "end":20427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It could take more if there's traffic.",
+  "id":"175a2d89-ca38-4629-9a3a-26f7bcd920dc",
+  "params":{
+    "id":"175a2d89-ca38-4629-9a3a-26f7bcd920dc",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

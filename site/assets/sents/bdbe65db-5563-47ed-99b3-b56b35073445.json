@@ -1,0 +1,13 @@
+{
+  "start":4605,
+  "end":4637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, I went to kindergarten here.",
+  "id":"bdbe65db-5563-47ed-99b3-b56b35073445",
+  "params":{
+    "id":"bdbe65db-5563-47ed-99b3-b56b35073445",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

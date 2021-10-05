@@ -1,0 +1,13 @@
+{
+  "start":37491,
+  "end":37511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, 8,000 pesos.",
+  "id":"3c3d2a15-985c-4330-94a9-9c309971b43c",
+  "params":{
+    "id":"3c3d2a15-985c-4330-94a9-9c309971b43c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

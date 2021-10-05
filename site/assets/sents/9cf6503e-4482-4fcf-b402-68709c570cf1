@@ -1,0 +1,12 @@
+{
+  "start":21212,
+  "end":21225,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Oh wow.",
+  "id":"9cf6503e-4482-4fcf-b402-68709c570cf1",
+  "params":{
+    "id":"ca44ca5c-a668-4775-b27d-76ab7a24af78"
+  },
+  "name":"Ben"
+}

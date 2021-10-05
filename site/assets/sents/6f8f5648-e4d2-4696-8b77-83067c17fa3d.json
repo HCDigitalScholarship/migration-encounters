@@ -1,0 +1,13 @@
+{
+  "start":1331,
+  "end":1421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We share the\n   same traditions, we celebrate Thanksgiving, we celebrate the 4th of July.\"",
+  "id":"6f8f5648-e4d2-4696-8b77-83067c17fa3d",
+  "params":{
+    "id":"6f8f5648-e4d2-4696-8b77-83067c17fa3d",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

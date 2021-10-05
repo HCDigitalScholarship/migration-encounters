@@ -1,0 +1,13 @@
+{
+  "start":53551,
+  "end":53567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me stop now.",
+  "id":"bf22f15d-a87a-4f3c-9a20-c75c51128859",
+  "params":{
+    "id":"bf22f15d-a87a-4f3c-9a20-c75c51128859",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":40000,
+  "end":40039,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's words that are mixed with English.",
+  "id":"5f4be3ae-7de2-43a3-8d70-65b9229e299d",
+  "params":{
+    "id":"c575b27f-a330-4789-8f1c-6b9b822dfff7"
+  },
+  "name":"Miguel A"
+}

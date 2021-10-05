@@ -1,0 +1,13 @@
+{
+  "start":22210,
+  "end":22226,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   explained\u2026",
+  "id":"2ab547d8-b5ec-4780-8907-509bb0c2bcbb",
+  "params":{
+    "id":"2ab547d8-b5ec-4780-8907-509bb0c2bcbb",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

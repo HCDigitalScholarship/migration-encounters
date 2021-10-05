@@ -1,0 +1,13 @@
+{
+  "start":71565,
+  "end":71585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where am I arriving?",
+  "id":"d783d2d4-9d96-4f29-bead-12c2d6441014",
+  "params":{
+    "id":"d783d2d4-9d96-4f29-bead-12c2d6441014",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

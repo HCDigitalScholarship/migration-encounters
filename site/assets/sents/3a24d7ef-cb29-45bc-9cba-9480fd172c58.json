@@ -1,0 +1,13 @@
+{
+  "start":11190,
+  "end":11202,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was just\u2026",
+  "id":"3a24d7ef-cb29-45bc-9cba-9480fd172c58",
+  "params":{
+    "id":"3a24d7ef-cb29-45bc-9cba-9480fd172c58",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":30596,
+  "end":30629,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   knows what I'm telling him.",
+  "id":"5ba98048-c7d7-4f0a-a038-631775185656",
+  "params":{
+    "id":"6a1d2298-ec7c-4741-99d8-f17586cbca35"
+  },
+  "name":"Rodrigo"
+}

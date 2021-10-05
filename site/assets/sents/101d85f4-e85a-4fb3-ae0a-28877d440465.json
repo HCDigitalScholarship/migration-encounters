@@ -1,0 +1,13 @@
+{
+  "start":38983,
+  "end":39067,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mexico is\n   pretty tough, but you just have to deal it, there's nothing you can do.",
+  "id":"101d85f4-e85a-4fb3-ae0a-28877d440465",
+  "params":{
+    "id":"101d85f4-e85a-4fb3-ae0a-28877d440465",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

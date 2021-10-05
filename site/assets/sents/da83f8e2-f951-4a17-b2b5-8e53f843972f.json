@@ -1,0 +1,13 @@
+{
+  "start":3064,
+  "end":3087,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It has to be legalized.",
+  "id":"da83f8e2-f951-4a17-b2b5-8e53f843972f",
+  "params":{
+    "id":"da83f8e2-f951-4a17-b2b5-8e53f843972f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

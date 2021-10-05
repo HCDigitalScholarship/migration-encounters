@@ -1,0 +1,12 @@
+{
+  "start":73850,
+  "end":73947,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you're back in Mexico now, and you've told me you're not planning\n   on going back to the U.S.",
+  "id":"dcc3f94d-60b0-4094-902e-e389bb319d53",
+  "params":{
+    "id":"993c4f69-2301-44a2-9fef-c13d813af117"
+  },
+  "name":"Cris"
+}

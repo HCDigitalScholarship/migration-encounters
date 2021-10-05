@@ -1,0 +1,13 @@
+{
+  "start":43970,
+  "end":44061,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Una hermana nos prest\u00f3\n     una casa que ella ten\u00eda y ah\u00ed es donde ellos empezaron a vivir.",
+  "id":"e9b9a011-0e0a-4be7-963d-b28110ca3e11",
+  "params":{
+    "id":"e9b9a011-0e0a-4be7-963d-b28110ca3e11",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

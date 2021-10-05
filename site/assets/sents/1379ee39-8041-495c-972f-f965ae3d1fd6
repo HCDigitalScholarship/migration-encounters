@@ -1,0 +1,12 @@
+{
+  "start":21580,
+  "end":21722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do they say?\n \n \n   Diana: That they need to speak with someone that speaks better English,\n   stuff like that because I do tech support.",
+  "id":"1379ee39-8041-495c-972f-f965ae3d1fd6",
+  "params":{
+    "id":"2af85efc-72fe-45d7-95f0-0d25f0593416"
+  },
+  "name":"Diana"
+}

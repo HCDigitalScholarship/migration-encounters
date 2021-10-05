@@ -1,0 +1,12 @@
+{
+  "start":13620,
+  "end":13664,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's still living over there in\n   Georgia.",
+  "id":"beb71b72-560d-4917-ad94-f6fbb4ea0625",
+  "params":{
+    "id":"f9d8f3ce-5657-4b62-8d33-1b94137c1d15"
+  },
+  "name":"Pablo"
+}

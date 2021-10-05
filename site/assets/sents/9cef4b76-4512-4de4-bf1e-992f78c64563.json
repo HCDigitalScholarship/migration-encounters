@@ -1,0 +1,13 @@
+{
+  "start":33845,
+  "end":33913,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n So, I tore my ACL and that ruined my skateboarding career forever.",
+  "id":"9cef4b76-4512-4de4-bf1e-992f78c64563",
+  "params":{
+    "id":"9cef4b76-4512-4de4-bf1e-992f78c64563",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

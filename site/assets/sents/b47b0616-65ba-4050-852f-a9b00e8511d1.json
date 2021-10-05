@@ -1,0 +1,13 @@
+{
+  "start":8384,
+  "end":8403,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I knew my case.",
+  "id":"b47b0616-65ba-4050-852f-a9b00e8511d1",
+  "params":{
+    "id":"b47b0616-65ba-4050-852f-a9b00e8511d1",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

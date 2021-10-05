@@ -1,0 +1,13 @@
+{
+  "start":63804,
+  "end":63862,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can't\n   think of all the food that I've ate over there.",
+  "id":"7a260cc0-1406-457e-833c-54a3e6173307",
+  "params":{
+    "id":"7a260cc0-1406-457e-833c-54a3e6173307",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

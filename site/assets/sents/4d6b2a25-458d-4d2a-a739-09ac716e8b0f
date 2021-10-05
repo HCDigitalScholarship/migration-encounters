@@ -1,0 +1,12 @@
+{
+  "start":4401,
+  "end":4432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been here since September.",
+  "id":"4d6b2a25-458d-4d2a-a739-09ac716e8b0f",
+  "params":{
+    "id":"7a96f4e4-792c-4d39-a5a2-4cd2d97325e9"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":33191,
+  "end":33217,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have so much history.",
+  "id":"4f689dd1-9298-45bc-8228-daaaef453b1b",
+  "params":{
+    "id":"4f689dd1-9298-45bc-8228-daaaef453b1b",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

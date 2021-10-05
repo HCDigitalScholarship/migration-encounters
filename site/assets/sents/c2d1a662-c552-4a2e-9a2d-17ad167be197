@@ -1,0 +1,12 @@
+{
+  "start":33134,
+  "end":33222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, when they asked me\n   for the waiver, I will have to reschedule another appointment.",
+  "id":"c2d1a662-c552-4a2e-9a2d-17ad167be197",
+  "params":{
+    "id":"fc179da5-7fe4-4db6-91c6-78850761ec3f"
+  },
+  "name":"Rodrigo"
+}

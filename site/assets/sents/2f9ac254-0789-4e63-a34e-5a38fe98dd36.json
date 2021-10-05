@@ -1,0 +1,13 @@
+{
+  "start":20464,
+  "end":20523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's why they\ndecided to send me out here to Mexico City.",
+  "id":"2f9ac254-0789-4e63-a34e-5a38fe98dd36",
+  "params":{
+    "id":"2f9ac254-0789-4e63-a34e-5a38fe98dd36",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

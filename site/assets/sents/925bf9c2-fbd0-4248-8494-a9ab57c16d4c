@@ -1,0 +1,12 @@
+{
+  "start":5122,
+  "end":5171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are your best memories of the United States?",
+  "id":"925bf9c2-fbd0-4248-8494-a9ab57c16d4c",
+  "params":{
+    "id":"f09ed733-566e-467a-bfa6-14a3303f73c1"
+  },
+  "name":"Ivan"
+}

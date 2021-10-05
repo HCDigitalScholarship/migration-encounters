@@ -1,0 +1,12 @@
+{
+  "start":1012,
+  "end":1063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brothers,\n   was like seven and eight years old.",
+  "id":"0e0df420-94cb-4486-841b-21a7c3d4d8fe",
+  "params":{
+    "id":"277a55a5-4a16-4a0c-ba4b-50078f74f782"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":32746,
+  "end":32767,
+  "text":"the Fourth of\n   July",
+  "label":"DATE",
+  "id":"2f23ec79-8094-4297-9d1e-c7153c436519",
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":27505,
+  "end":27539,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to\n   deal with this.",
+  "id":"b6a74ed3-6e32-4418-81d4-5561a53edacb",
+  "params":{
+    "id":"946edd6b-1ac8-4b8e-b177-8b2f5a57b6a2"
+  },
+  "name":"Cris"
+}

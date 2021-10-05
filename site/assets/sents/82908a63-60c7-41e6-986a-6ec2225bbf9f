@@ -1,0 +1,12 @@
+{
+  "start":7239,
+  "end":7278,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, she's one of the original students.",
+  "id":"82908a63-60c7-41e6-986a-6ec2225bbf9f",
+  "params":{
+    "id":"5dc860d1-b72a-4f7e-be06-8efd6e0c6587"
+  },
+  "name":"Ben"
+}

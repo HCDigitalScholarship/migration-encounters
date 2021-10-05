@@ -1,0 +1,12 @@
+{
+  "start":28189,
+  "end":28210,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Her name is Rosalind.",
+  "id":"c30e721e-d096-425e-87a9-afea1dbb9227",
+  "params":{
+    "id":"a1aa0e22-89c3-45c6-8a01-c2183db41550"
+  },
+  "name":"Zayuri"
+}

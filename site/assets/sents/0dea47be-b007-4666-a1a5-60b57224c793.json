@@ -1,0 +1,13 @@
+{
+  "start":25729,
+  "end":25824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Okay, so if I have a drivers\n   license number, why can't I get my drivers license?\"",
+  "id":"0dea47be-b007-4666-a1a5-60b57224c793",
+  "params":{
+    "id":"0dea47be-b007-4666-a1a5-60b57224c793",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

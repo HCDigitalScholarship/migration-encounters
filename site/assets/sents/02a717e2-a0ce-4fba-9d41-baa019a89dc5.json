@@ -1,0 +1,13 @@
+{
+  "start":36260,
+  "end":36272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A new thing.",
+  "id":"02a717e2-a0ce-4fba-9d41-baa019a89dc5",
+  "params":{
+    "id":"02a717e2-a0ce-4fba-9d41-baa019a89dc5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

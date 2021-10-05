@@ -1,0 +1,13 @@
+{
+  "start":28869,
+  "end":28893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   different skin tone",
+  "id":"f38a7643-f2fd-4cd7-80f4-8844ad2945bb",
+  "params":{
+    "id":"f38a7643-f2fd-4cd7-80f4-8844ad2945bb",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

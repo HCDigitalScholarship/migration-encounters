@@ -1,0 +1,12 @@
+{
+  "start":11,
+  "end":33,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old are you, Erik?",
+  "id":"b8f68013-7941-42b0-b88e-72c8429bb6ad",
+  "params":{
+    "id":"22765d2f-7a88-4814-8da6-39a7eca06779"
+  },
+  "name":"Erik"
+}

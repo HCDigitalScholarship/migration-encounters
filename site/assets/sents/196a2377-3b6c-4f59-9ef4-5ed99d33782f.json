@@ -1,0 +1,13 @@
+{
+  "start":14410,
+  "end":14425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love\n   that.",
+  "id":"196a2377-3b6c-4f59-9ef4-5ed99d33782f",
+  "params":{
+    "id":"196a2377-3b6c-4f59-9ef4-5ed99d33782f",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

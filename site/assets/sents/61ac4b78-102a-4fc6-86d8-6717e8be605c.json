@@ -1,0 +1,13 @@
+{
+  "start":24792,
+  "end":24805,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I begged him.",
+  "id":"61ac4b78-102a-4fc6-86d8-6717e8be605c",
+  "params":{
+    "id":"61ac4b78-102a-4fc6-86d8-6717e8be605c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

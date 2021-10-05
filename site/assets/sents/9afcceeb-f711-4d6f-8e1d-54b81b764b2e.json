@@ -1,0 +1,13 @@
+{
+  "start":12747,
+  "end":12790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: And your name.\n      \n      \n Billy:",
+  "id":"9afcceeb-f711-4d6f-8e1d-54b81b764b2e",
+  "params":{
+    "id":"9afcceeb-f711-4d6f-8e1d-54b81b764b2e",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

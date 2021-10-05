@@ -1,0 +1,12 @@
+{
+  "start":19153,
+  "end":19272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told her and said, \"Hey, he didn't do nothing wrong and you're\n   accusing him of something that he didn't commit.",
+  "id":"10d8fcd3-db4f-460b-a1f4-1eb48115c99c",
+  "params":{
+    "id":"1bd61676-9d1f-4fe4-b800-6f95983bf388"
+  },
+  "name":"Daniel"
+}

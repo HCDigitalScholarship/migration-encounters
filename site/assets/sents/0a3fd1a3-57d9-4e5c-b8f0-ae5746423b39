@@ -1,0 +1,12 @@
+{
+  "start":2012,
+  "end":2017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah.",
+  "id":"0a3fd1a3-57d9-4e5c-b8f0-ae5746423b39",
+  "params":{
+    "id":"867384e9-cf88-479e-bcfc-983b3ab08d7e"
+  },
+  "name":"Edgar"
+}

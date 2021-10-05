@@ -1,0 +1,13 @@
+{
+  "start":16821,
+  "end":16895,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, because by that time, they don't have any official IDs or\n   something",
+  "id":"da70b76f-978d-4f5a-80e6-263d38a1b5fd",
+  "params":{
+    "id":"da70b76f-978d-4f5a-80e6-263d38a1b5fd",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10161,
+  "end":10198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, yeah, we just\n   crossed.",
+  "id":"f4a16806-1a10-4989-af5b-b70b768a5a00",
+  "params":{
+    "id":"f4a16806-1a10-4989-af5b-b70b768a5a00",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

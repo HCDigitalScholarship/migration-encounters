@@ -1,0 +1,13 @@
+{
+  "start":18276,
+  "end":18316,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know how to\n   work right here.",
+  "id":"3173ca84-7532-47f1-9340-6ea038abc9f0",
+  "params":{
+    "id":"3173ca84-7532-47f1-9340-6ea038abc9f0",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

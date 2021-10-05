@@ -1,0 +1,12 @@
+{
+  "start":22216,
+  "end":22250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a lot of work around here.",
+  "id":"dc7de132-721d-4eba-9ec9-2b392767a3b0",
+  "params":{
+    "id":"46b4be79-b1d3-4e97-94c8-22313f1af7f1"
+  },
+  "name":"Noe"
+}

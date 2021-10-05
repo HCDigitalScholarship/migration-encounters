@@ -1,0 +1,12 @@
+{
+  "start":3065,
+  "end":3094,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I grew up with my\n   grandma.",
+  "id":"7cbfc471-4118-4b42-bba2-4ccad4da3817",
+  "params":{
+    "id":"f48b8944-d7b9-49e1-9fc9-50a3518589bc"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":14419,
+  "end":14480,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They had a little reading contest,\n   he beat the 5th grader.",
+  "id":"1f03b4dd-ed34-43eb-ba02-6f470b06ad60",
+  "params":{
+    "id":"1f03b4dd-ed34-43eb-ba02-6f470b06ad60",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

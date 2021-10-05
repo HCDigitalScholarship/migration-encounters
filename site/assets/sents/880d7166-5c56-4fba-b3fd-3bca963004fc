@@ -1,0 +1,12 @@
+{
+  "start":2099,
+  "end":2126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rodrigo: That was in April.",
+  "id":"880d7166-5c56-4fba-b3fd-3bca963004fc",
+  "params":{
+    "id":"64f141e6-9ca3-4462-be88-c90675703cff"
+  },
+  "name":"Rodrigo"
+}

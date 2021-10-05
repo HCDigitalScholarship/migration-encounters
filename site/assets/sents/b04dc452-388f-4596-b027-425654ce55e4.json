@@ -1,0 +1,13 @@
+{
+  "start":27422,
+  "end":27500,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either you pay a\n   lot of money or you're a mule or they just not let you in.",
+  "id":"b04dc452-388f-4596-b027-425654ce55e4",
+  "params":{
+    "id":"b04dc452-388f-4596-b027-425654ce55e4",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

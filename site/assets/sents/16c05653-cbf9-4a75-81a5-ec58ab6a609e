@@ -1,0 +1,12 @@
+{
+  "start":47248,
+  "end":47290,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to quit though because I was moving.",
+  "id":"16c05653-cbf9-4a75-81a5-ec58ab6a609e",
+  "params":{
+    "id":"fae239ce-c6a4-44b4-a11c-46169316999a"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10735,
+  "end":10832,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Sylent:\n \n \n   I guess I grew up more with my grandma because she would go and come back.",
+  "id":"ab0a3169-b4cd-4d5d-b13e-c6554ce472d2",
+  "params":{
+    "id":"ab0a3169-b4cd-4d5d-b13e-c6554ce472d2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8332,
+  "end":8352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After, they told me.",
+  "id":"b8067351-e5ed-4a54-b83a-e4b538741338",
+  "params":{
+    "id":"b8067351-e5ed-4a54-b83a-e4b538741338",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

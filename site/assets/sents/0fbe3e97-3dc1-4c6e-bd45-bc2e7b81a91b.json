@@ -1,0 +1,13 @@
+{
+  "start":110,
+  "end":134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were three you said?",
+  "id":"0fbe3e97-3dc1-4c6e-bd45-bc2e7b81a91b",
+  "params":{
+    "id":"0fbe3e97-3dc1-4c6e-bd45-bc2e7b81a91b",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

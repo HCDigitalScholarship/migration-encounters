@@ -1,0 +1,13 @@
+{
+  "start":5185,
+  "end":5265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right where her brain stem is, she had a huge tumor\n   there and we had no idea.",
+  "id":"325e31b2-1ea4-4340-b559-28a0b2d808be",
+  "params":{
+    "id":"325e31b2-1ea4-4340-b559-28a0b2d808be",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

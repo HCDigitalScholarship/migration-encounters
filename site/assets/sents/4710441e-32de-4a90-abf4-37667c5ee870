@@ -1,0 +1,12 @@
+{
+  "start":19488,
+  "end":19518,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Tell me about your mom's work.",
+  "id":"4710441e-32de-4a90-abf4-37667c5ee870",
+  "params":{
+    "id":"771f899b-8c19-4631-bce7-13ec890f2e93"
+  },
+  "name":"Luisa"
+}

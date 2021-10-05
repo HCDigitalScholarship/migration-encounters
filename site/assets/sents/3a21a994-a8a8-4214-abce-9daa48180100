@@ -1,0 +1,12 @@
+{
+  "start":11252,
+  "end":11274,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have a lawyer?",
+  "id":"3a21a994-a8a8-4214-abce-9daa48180100",
+  "params":{
+    "id":"20a6cb41-e0ca-4e79-adc0-6670a652c99e"
+  },
+  "name":"Laura A"
+}

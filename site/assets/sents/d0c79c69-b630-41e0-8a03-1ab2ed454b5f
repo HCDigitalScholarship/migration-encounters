@@ -1,0 +1,12 @@
+{
+  "start":34689,
+  "end":34728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hot sun, any type of thing,\n   it's us.",
+  "id":"d0c79c69-b630-41e0-8a03-1ab2ed454b5f",
+  "params":{
+    "id":"daf2e87b-91e6-4f35-9a72-095d9624c1f5"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1969,
+  "end":2012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, pretty much I grew up in Georgia...",
+  "id":"bb63e39b-51c1-4380-ba48-f5284089914d",
+  "params":{
+    "id":"bb63e39b-51c1-4380-ba48-f5284089914d",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

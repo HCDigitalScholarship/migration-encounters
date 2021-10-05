@@ -1,0 +1,13 @@
+{
+  "start":8512,
+  "end":8623,
+  "label":"SENT",
+  "type":"sent",
+  "text":"if\n   it was to do what I do, to do what the older brother does, or just because\n   he was doing it by himself.",
+  "id":"e8766fa6-b6eb-4f70-b80c-229afa50e94e",
+  "params":{
+    "id":"e8766fa6-b6eb-4f70-b80c-229afa50e94e",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4342,
+  "end":4425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I\n   first started being friendly, that's when I started knowing gang members.",
+  "id":"d8c3846e-59c5-4fb9-8f52-e9c4e97555be",
+  "params":{
+    "id":"d8c3846e-59c5-4fb9-8f52-e9c4e97555be",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

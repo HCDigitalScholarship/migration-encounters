@@ -1,0 +1,13 @@
+{
+  "start":17113,
+  "end":17194,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The point is that we didn't want to, there was no\n reason for us to go to Mexico.",
+  "id":"33b0f7f0-fe5d-4bb0-af8a-f0a0e744d000",
+  "params":{
+    "id":"33b0f7f0-fe5d-4bb0-af8a-f0a0e744d000",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

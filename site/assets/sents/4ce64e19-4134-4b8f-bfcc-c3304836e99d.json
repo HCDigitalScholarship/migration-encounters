@@ -1,0 +1,13 @@
+{
+  "start":31543,
+  "end":31568,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're doing really well.",
+  "id":"4ce64e19-4134-4b8f-bfcc-c3304836e99d",
+  "params":{
+    "id":"4ce64e19-4134-4b8f-bfcc-c3304836e99d",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

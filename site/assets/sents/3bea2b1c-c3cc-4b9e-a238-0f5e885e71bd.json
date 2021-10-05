@@ -1,0 +1,13 @@
+{
+  "start":17355,
+  "end":17368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to go.\u201d",
+  "id":"3bea2b1c-c3cc-4b9e-a238-0f5e885e71bd",
+  "params":{
+    "id":"3bea2b1c-c3cc-4b9e-a238-0f5e885e71bd",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

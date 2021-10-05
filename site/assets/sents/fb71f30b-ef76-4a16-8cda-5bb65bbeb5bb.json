@@ -1,0 +1,13 @@
+{
+  "start":3027,
+  "end":3092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's\n   Asians, there's some more Caucasians, it's everything.",
+  "id":"fb71f30b-ef76-4a16-8cda-5bb65bbeb5bb",
+  "params":{
+    "id":"fb71f30b-ef76-4a16-8cda-5bb65bbeb5bb",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

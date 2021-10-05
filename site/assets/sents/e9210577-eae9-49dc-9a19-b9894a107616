@@ -1,0 +1,12 @@
+{
+  "start":11,
+  "end":133,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I'm with Diana and we've done a survey and now we're going to\n   have a little bit more of a conversation, it's Anita.",
+  "id":"e9210577-eae9-49dc-9a19-b9894a107616",
+  "params":{
+    "id":"889ebe82-bb48-4a49-aa1b-ce1aa93ce99a"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":18157,
+  "end":18234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know my brother and my sister because they never went\n   over there.",
+  "id":"23ceff20-dc81-4f55-9fe1-e28783bf1265",
+  "params":{
+    "id":"23ceff20-dc81-4f55-9fe1-e28783bf1265",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

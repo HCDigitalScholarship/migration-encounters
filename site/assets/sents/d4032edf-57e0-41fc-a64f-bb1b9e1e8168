@@ -1,0 +1,12 @@
+{
+  "start":32235,
+  "end":32286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'd be like, \u201cYou can't talk to your mom like that.",
+  "id":"d4032edf-57e0-41fc-a64f-bb1b9e1e8168",
+  "params":{
+    "id":"dc694df0-a7db-42a1-9804-e5846764f2ed"
+  },
+  "name":"Hugo"
+}

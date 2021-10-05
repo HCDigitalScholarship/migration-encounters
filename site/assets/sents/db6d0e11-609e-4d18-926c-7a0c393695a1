@@ -1,0 +1,12 @@
+{
+  "start":6384,
+  "end":6410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, my parents did drive.",
+  "id":"db6d0e11-609e-4d18-926c-7a0c393695a1",
+  "params":{
+    "id":"9e6aefaf-1ad3-4476-be9b-aae92584d7e3"
+  },
+  "name":"Brenda"
+}

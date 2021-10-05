@@ -1,0 +1,13 @@
+{
+  "start":3336,
+  "end":3380,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just having a good time with a friend.",
+  "id":"03aa475e-0e86-4dfc-8630-736a301f6a05",
+  "params":{
+    "id":"03aa475e-0e86-4dfc-8630-736a301f6a05",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

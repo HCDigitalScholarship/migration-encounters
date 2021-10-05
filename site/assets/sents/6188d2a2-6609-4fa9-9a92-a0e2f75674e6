@@ -1,0 +1,12 @@
+{
+  "start":23362,
+  "end":23393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you still taxicab driving?",
+  "id":"6188d2a2-6609-4fa9-9a92-a0e2f75674e6",
+  "params":{
+    "id":"440c1bf4-a534-4584-b3f5-8890a5a494ff"
+  },
+  "name":"Many"
+}

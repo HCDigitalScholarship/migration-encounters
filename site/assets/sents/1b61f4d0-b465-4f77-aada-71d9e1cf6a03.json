@@ -1,0 +1,12 @@
+{
+  "start":8201,
+  "end":8223,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was\n   an Arab guy.",
+  "id":"1b61f4d0-b465-4f77-aada-71d9e1cf6a03",
+  "params":{
+    "id":"371673fc-7bf5-4d47-ab16-727b35d47821"
+  },
+  "name":"Mike"
+}

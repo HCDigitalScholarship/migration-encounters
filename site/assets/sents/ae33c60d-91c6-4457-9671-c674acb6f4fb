@@ -1,0 +1,12 @@
+{
+  "start":20572,
+  "end":20585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You did good.",
+  "id":"ae33c60d-91c6-4457-9671-c674acb6f4fb",
+  "params":{
+    "id":"be11a97a-4d45-46d6-ba6b-653590335bc2"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":40838,
+  "end":40881,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: And to get a license?\n      \n      \n ",
+  "id":"004cec61-b99a-482f-a1d3-f080b137b7cf",
+  "params":{
+    "id":"004cec61-b99a-482f-a1d3-f080b137b7cf",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

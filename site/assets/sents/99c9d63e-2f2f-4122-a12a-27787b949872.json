@@ -1,0 +1,13 @@
+{
+  "start":29211,
+  "end":29258,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What kind of Japanese food do you like to cook?",
+  "id":"99c9d63e-2f2f-4122-a12a-27787b949872",
+  "params":{
+    "id":"99c9d63e-2f2f-4122-a12a-27787b949872",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

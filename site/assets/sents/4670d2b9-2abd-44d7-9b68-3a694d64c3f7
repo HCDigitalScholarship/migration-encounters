@@ -1,0 +1,12 @@
+{
+  "start":9834,
+  "end":9883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pablo: Because I had an issue with my girlfriend.",
+  "id":"4670d2b9-2abd-44d7-9b68-3a694d64c3f7",
+  "params":{
+    "id":"181ebd69-cca2-4360-974a-e0612119255f"
+  },
+  "name":"Pablo"
+}

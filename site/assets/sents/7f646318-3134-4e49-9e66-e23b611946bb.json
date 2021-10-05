@@ -1,0 +1,13 @@
+{
+  "start":50213,
+  "end":50273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   was like, \"Because I just don't want to talk about it.\"",
+  "id":"7f646318-3134-4e49-9e66-e23b611946bb",
+  "params":{
+    "id":"7f646318-3134-4e49-9e66-e23b611946bb",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

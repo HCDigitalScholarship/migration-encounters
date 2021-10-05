@@ -1,0 +1,13 @@
+{
+  "start":11260,
+  "end":11312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     Everybody leaves and then what?\n \n \n     Beto:",
+  "id":"fe2bf877-9aab-46c3-980a-30b180737db3",
+  "params":{
+    "id":"fe2bf877-9aab-46c3-980a-30b180737db3",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":17498,
+  "end":17547,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He works on framing and they pay a lot for\n that.",
+  "id":"94c9339b-ac77-40b0-b25c-b0ca7bdaced7",
+  "params":{
+    "id":"2e9cffbd-4d88-4651-baf8-da67376d6087"
+  },
+  "name":"Billy"
+}

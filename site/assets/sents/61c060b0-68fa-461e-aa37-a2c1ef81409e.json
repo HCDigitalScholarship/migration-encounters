@@ -1,0 +1,13 @@
+{
+  "start":28329,
+  "end":28378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Either\n   it's 10 people, or there's five people.",
+  "id":"61c060b0-68fa-461e-aa37-a2c1ef81409e",
+  "params":{
+    "id":"61c060b0-68fa-461e-aa37-a2c1ef81409e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

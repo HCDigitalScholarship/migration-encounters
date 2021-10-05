@@ -1,0 +1,12 @@
+{
+  "start":22700,
+  "end":22781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My father was like, \"This is who we are, and\n   this is what we're going to say.\"",
+  "id":"91e83782-7316-4f8c-a067-6f77eca7eac5",
+  "params":{
+    "id":"80adec6a-1f8d-4a77-8af1-6d999472de2d"
+  },
+  "name":"Zayuri"
+}

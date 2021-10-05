@@ -1,0 +1,15 @@
+{
+  "start":18611,
+  "end":18722,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As we start wrapping up here, is\n   there anything else that you feel like you haven't gotten the chance to say",
+  "id":"362e05cb-38b9-4f02-a58c-e1f0ec6bf59f",
+  "params":{
+    "id":"362e05cb-38b9-4f02-a58c-e1f0ec6bf59f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

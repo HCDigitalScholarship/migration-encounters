@@ -1,0 +1,13 @@
+{
+  "start":5938,
+  "end":5951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A checkpoint.",
+  "id":"fafe26cf-e581-44e0-8cad-47e0f6d9bdc2",
+  "params":{
+    "id":"fafe26cf-e581-44e0-8cad-47e0f6d9bdc2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

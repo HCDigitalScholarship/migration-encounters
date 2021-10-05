@@ -1,0 +1,13 @@
+{
+  "start":17010,
+  "end":17029,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Keep my room clean.",
+  "id":"a3994850-e8ca-4477-9c05-80cd6a9d7539",
+  "params":{
+    "id":"a3994850-e8ca-4477-9c05-80cd6a9d7539",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

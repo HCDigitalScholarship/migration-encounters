@@ -1,0 +1,12 @@
+{
+  "start":20295,
+  "end":20327,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What you\n would like to do here?",
+  "id":"7adde8a8-cfe5-4fe6-b8df-ec6f3028c5da",
+  "params":{
+    "id":"753a4b1e-7523-4c66-bc60-632f35d0ad9f"
+  },
+  "name":"Ana"
+}

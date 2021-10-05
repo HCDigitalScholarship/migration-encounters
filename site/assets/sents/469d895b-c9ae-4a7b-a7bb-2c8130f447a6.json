@@ -1,0 +1,13 @@
+{
+  "start":23360,
+  "end":23444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She lost the\n   apartment, she started selling the furniture because she didn't have",
+  "id":"469d895b-c9ae-4a7b-a7bb-2c8130f447a6",
+  "params":{
+    "id":"469d895b-c9ae-4a7b-a7bb-2c8130f447a6",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

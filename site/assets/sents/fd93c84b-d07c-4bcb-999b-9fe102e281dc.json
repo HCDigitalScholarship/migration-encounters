@@ -1,0 +1,13 @@
+{
+  "start":9783,
+  "end":9807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had so much medicine.",
+  "id":"fd93c84b-d07c-4bcb-999b-9fe102e281dc",
+  "params":{
+    "id":"fd93c84b-d07c-4bcb-999b-9fe102e281dc",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

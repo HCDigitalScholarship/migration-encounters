@@ -1,0 +1,12 @@
+{
+  "start":34100,
+  "end":34142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't know how they're going to react.",
+  "id":"80fa4d39-d623-4ecf-a940-bafdef86c1c7",
+  "params":{
+    "id":"9b689918-1661-43c1-b69b-0d26e040bc75"
+  },
+  "name":"Zayuri"
+}

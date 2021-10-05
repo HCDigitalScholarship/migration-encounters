@@ -1,0 +1,12 @@
+{
+  "start":63070,
+  "end":63113,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She got mad because I told her\n that stuff.",
+  "id":"fbb4b2ff-c864-483d-a9f8-922c23e95359",
+  "params":{
+    "id":"557c74e2-4274-448d-8aca-0a9acf1b0cc3"
+  },
+  "name":"Axel"
+}

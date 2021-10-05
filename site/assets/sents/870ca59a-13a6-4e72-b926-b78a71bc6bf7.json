@@ -1,0 +1,13 @@
+{
+  "start":15130,
+  "end":15153,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm from here you know.",
+  "id":"870ca59a-13a6-4e72-b926-b78a71bc6bf7",
+  "params":{
+    "id":"870ca59a-13a6-4e72-b926-b78a71bc6bf7",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

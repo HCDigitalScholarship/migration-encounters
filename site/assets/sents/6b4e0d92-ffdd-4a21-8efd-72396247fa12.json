@@ -1,0 +1,12 @@
+{
+  "start":35376,
+  "end":35425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Oh, it's\n   because we don't have a substitute.\"",
+  "id":"6b4e0d92-ffdd-4a21-8efd-72396247fa12",
+  "params":{
+    "id":"aeb4f747-f5d9-4712-9a6b-7af1b8e146ed"
+  },
+  "name":"Hugo"
+}

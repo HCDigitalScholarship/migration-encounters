@@ -1,0 +1,13 @@
+{
+  "start":62510,
+  "end":62529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"You see?",
+  "id":"da8a9d32-429a-4ace-b3af-2c971dc6e8c0",
+  "params":{
+    "id":"da8a9d32-429a-4ace-b3af-2c971dc6e8c0",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

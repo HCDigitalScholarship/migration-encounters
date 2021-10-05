@@ -1,0 +1,13 @@
+{
+  "start":10667,
+  "end":10717,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then after\n   that, they'd still get deported.",
+  "id":"3c5c627c-89b2-4bd3-bae1-c0b0eb27ad4a",
+  "params":{
+    "id":"3c5c627c-89b2-4bd3-bae1-c0b0eb27ad4a",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

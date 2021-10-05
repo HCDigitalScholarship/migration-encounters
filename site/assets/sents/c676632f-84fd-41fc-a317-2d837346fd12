@@ -1,0 +1,12 @@
+{
+  "start":25211,
+  "end":25241,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Anne: Do you enjoy it?",
+  "id":"c676632f-84fd-41fc-a317-2d837346fd12",
+  "params":{
+    "id":"f5ce287e-4d4b-4b14-bd4e-8f59863605d0"
+  },
+  "name":"Many"
+}

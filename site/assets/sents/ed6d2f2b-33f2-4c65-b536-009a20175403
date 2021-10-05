@@ -1,0 +1,12 @@
+{
+  "start":25804,
+  "end":25850,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever you have to tell me I'm ready for it.",
+  "id":"ed6d2f2b-33f2-4c65-b536-009a20175403",
+  "params":{
+    "id":"eb65067b-6c10-4029-b222-4c0e96e387a9"
+  },
+  "name":"Cris"
+}

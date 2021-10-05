@@ -1,0 +1,12 @@
+{
+  "start":25462,
+  "end":25475,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Brenda\n died.",
+  "id":"6ad01c55-8592-44a9-9f68-496aa5b200c0",
+  "params":{
+    "id":"b0f20002-d351-40b4-9ca8-2a413e48df7d"
+  },
+  "name":"Billy"
+}

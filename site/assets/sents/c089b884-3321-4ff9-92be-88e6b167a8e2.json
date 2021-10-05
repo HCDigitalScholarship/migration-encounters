@@ -1,0 +1,13 @@
+{
+  "start":14275,
+  "end":14301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His last name was Fuentes.",
+  "id":"c089b884-3321-4ff9-92be-88e6b167a8e2",
+  "params":{
+    "id":"c089b884-3321-4ff9-92be-88e6b167a8e2",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

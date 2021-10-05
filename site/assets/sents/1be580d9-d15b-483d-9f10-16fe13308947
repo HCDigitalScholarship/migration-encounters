@@ -1,0 +1,12 @@
+{
+  "start":1181,
+  "end":1204,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used to be a painter.",
+  "id":"1be580d9-d15b-483d-9f10-16fe13308947",
+  "params":{
+    "id":"24a5100a-908d-48f2-8548-1393780d3cf9"
+  },
+  "name":"Ivan"
+}

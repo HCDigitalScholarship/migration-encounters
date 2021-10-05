@@ -1,0 +1,12 @@
+{
+  "start":2756,
+  "end":2828,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   lived a few blocks away from us, so I just hanged out with them.",
+  "id":"ff1eb031-4980-41e3-9ed9-e336cecbb39c",
+  "params":{
+    "id":"1c16f54a-dbc8-46e0-a915-308d5186d001"
+  },
+  "name":"Carlos"
+}

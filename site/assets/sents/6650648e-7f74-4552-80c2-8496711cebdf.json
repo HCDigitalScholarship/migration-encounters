@@ -1,0 +1,13 @@
+{
+  "start":23646,
+  "end":23736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I bet there's some people that are not able to get a job, but there's\n   a small fraction.",
+  "id":"6650648e-7f74-4552-80c2-8496711cebdf",
+  "params":{
+    "id":"6650648e-7f74-4552-80c2-8496711cebdf",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

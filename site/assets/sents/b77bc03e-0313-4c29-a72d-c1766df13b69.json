@@ -1,0 +1,13 @@
+{
+  "start":2119,
+  "end":2143,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had to start somehow.",
+  "id":"b77bc03e-0313-4c29-a72d-c1766df13b69",
+  "params":{
+    "id":"b77bc03e-0313-4c29-a72d-c1766df13b69",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

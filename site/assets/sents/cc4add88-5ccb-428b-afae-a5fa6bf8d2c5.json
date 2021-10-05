@@ -1,0 +1,13 @@
+{
+  "start":8043,
+  "end":8100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But, it\n   was, well, just driving without the seat belt.",
+  "id":"cc4add88-5ccb-428b-afae-a5fa6bf8d2c5",
+  "params":{
+    "id":"cc4add88-5ccb-428b-afae-a5fa6bf8d2c5",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,12 @@
+{
+  "start":43552,
+  "end":43578,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't have to do that.",
+  "id":"fc9925e3-bc02-4196-b3d9-2e2b9c490f3b",
+  "params":{
+    "id":"bf0d24c6-0b33-4d62-8e33-cf518fd3ec4e"
+  },
+  "name":"Cris"
+}

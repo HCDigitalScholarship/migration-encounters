@@ -1,0 +1,13 @@
+{
+  "start":23610,
+  "end":23650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can live your life like you want to.",
+  "id":"f99cb17a-01e8-4d13-83b6-d91645922b24",
+  "params":{
+    "id":"f99cb17a-01e8-4d13-83b6-d91645922b24",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

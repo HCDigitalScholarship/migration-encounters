@@ -1,0 +1,13 @@
+{
+  "start":9030,
+  "end":9081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You'll have to tell me more about them in a minute.",
+  "id":"e97fec7a-8576-4a9d-8cbb-a8c4d245b0bd",
+  "params":{
+    "id":"e97fec7a-8576-4a9d-8cbb-a8c4d245b0bd",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

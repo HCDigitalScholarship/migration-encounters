@@ -1,0 +1,13 @@
+{
+  "start":28980,
+  "end":29134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know how to use the\n stations for the trains, but don't tell me, \"Hey, come meet me over here in\n so-and-so place or in this city or in this community.\"",
+  "id":"2e93ae88-5ccd-4877-bf59-63274717aca8",
+  "params":{
+    "id":"2e93ae88-5ccd-4877-bf59-63274717aca8",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6761,
+  "end":6815,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"In Ireland,\" or something\n   like that.",
+  "id":"ec8e0f4d-82a0-44a5-8cce-b94b9acc85e4",
+  "params":{
+    "id":"ec8e0f4d-82a0-44a5-8cce-b94b9acc85e4",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

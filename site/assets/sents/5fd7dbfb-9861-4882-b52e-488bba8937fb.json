@@ -1,0 +1,13 @@
+{
+  "start":2812,
+  "end":2841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why do you think it happened?",
+  "id":"5fd7dbfb-9861-4882-b52e-488bba8937fb",
+  "params":{
+    "id":"5fd7dbfb-9861-4882-b52e-488bba8937fb",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

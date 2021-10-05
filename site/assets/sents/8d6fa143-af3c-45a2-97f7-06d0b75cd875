@@ -1,0 +1,12 @@
+{
+  "start":351,
+  "end":420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was only like\n   three years old and so they took me to the States.",
+  "id":"8d6fa143-af3c-45a2-97f7-06d0b75cd875",
+  "params":{
+    "id":"74a2e140-ee82-46b1-96f9-d1a53a0f06d3"
+  },
+  "name":"Ivan"
+}

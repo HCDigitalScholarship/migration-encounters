@@ -1,0 +1,13 @@
+{
+  "start":127,
+  "end":245,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, it was exciting and scary at\n   the same time because I didn't know what to expect, I didn't know what to\n   do.",
+  "id":"460084c6-d871-4650-8726-364d0df47596",
+  "params":{
+    "id":"460084c6-d871-4650-8726-364d0df47596",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

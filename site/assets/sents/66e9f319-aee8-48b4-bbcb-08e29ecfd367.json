@@ -1,0 +1,13 @@
+{
+  "start":69016,
+  "end":69114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I took her out of school to take care of her,\n   so she didn't get to experience everything I did.",
+  "id":"66e9f319-aee8-48b4-bbcb-08e29ecfd367",
+  "params":{
+    "id":"66e9f319-aee8-48b4-bbcb-08e29ecfd367",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

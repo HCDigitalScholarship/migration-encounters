@@ -1,0 +1,13 @@
+{
+  "start":24001,
+  "end":24011,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's here.",
+  "id":"014a46cb-b48b-46fa-8733-17db40dfdead",
+  "params":{
+    "id":"014a46cb-b48b-46fa-8733-17db40dfdead",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

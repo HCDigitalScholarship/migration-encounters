@@ -1,0 +1,12 @@
+{
+  "start":32910,
+  "end":32939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe\n   it could be better.\"",
+  "id":"0f4827be-8fca-44a3-aa74-162d7ae49201",
+  "params":{
+    "id":"0b3ba284-5530-44ad-a8d1-c41261961a2e"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":21004,
+  "end":21012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The job?",
+  "id":"01ceb962-c3e7-4157-a528-b4da3abde9d6",
+  "params":{
+    "id":"f9f72765-c89a-4cff-a55c-acb7fad08abd"
+  },
+  "name":"Edgar"
+}

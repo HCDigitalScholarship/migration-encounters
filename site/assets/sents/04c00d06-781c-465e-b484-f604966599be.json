@@ -1,0 +1,13 @@
+{
+  "start":10099,
+  "end":10173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did actually two years trying to fight my case, trying to\n   stay legal.",
+  "id":"04c00d06-781c-465e-b484-f604966599be",
+  "params":{
+    "id":"04c00d06-781c-465e-b484-f604966599be",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":34755,
+  "end":34771,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're out there.",
+  "id":"823f7864-4b15-4b60-9ffb-2fa1cd9c7c71",
+  "params":{
+    "id":"823f7864-4b15-4b60-9ffb-2fa1cd9c7c71",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

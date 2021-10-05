@@ -1,0 +1,12 @@
+{
+  "start":21121,
+  "end":21152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that's\n   it, they took me.",
+  "id":"4fe72c24-d0fd-449c-a328-e0379312673f",
+  "params":{
+    "id":"b94193b5-608e-4cf3-8eb4-81ec896063a8"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":47682,
+  "end":47716,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a bottle of gin right here.",
+  "id":"3e223900-3a31-40b8-bf4d-b4b4377401de",
+  "params":{
+    "id":"3e223900-3a31-40b8-bf4d-b4b4377401de",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":12556,
+  "end":12596,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Instead of eating turkey, we ate Pozole.",
+  "id":"8aa7387b-9766-469a-a909-15f5ce24259e",
+  "params":{
+    "id":"8aa7387b-9766-469a-a909-15f5ce24259e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

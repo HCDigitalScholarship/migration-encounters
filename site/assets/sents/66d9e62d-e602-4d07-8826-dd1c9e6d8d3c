@@ -1,0 +1,12 @@
+{
+  "start":36273,
+  "end":36352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I found a job, but it was\n   two hours and a half from my house just to go.",
+  "id":"66d9e62d-e602-4d07-8826-dd1c9e6d8d3c",
+  "params":{
+    "id":"c19e50ea-7332-45a2-b696-949454535af4"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9887,
+  "end":9936,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They gave me\nseven years, I did three and a half.",
+  "id":"c79a4a64-9c8f-48e1-a04c-3782c57baa3c",
+  "params":{
+    "id":"c79a4a64-9c8f-48e1-a04c-3782c57baa3c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

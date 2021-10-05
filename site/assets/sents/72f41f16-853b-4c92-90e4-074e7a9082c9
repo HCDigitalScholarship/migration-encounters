@@ -1,0 +1,12 @@
+{
+  "start":10172,
+  "end":10199,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Find out what was going on.",
+  "id":"72f41f16-853b-4c92-90e4-074e7a9082c9",
+  "params":{
+    "id":"b637292e-3d96-435b-9798-c37867b6f0a2"
+  },
+  "name":"Ruben"
+}

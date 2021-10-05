@@ -1,0 +1,12 @@
+{
+  "start":14257,
+  "end":14273,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Harry\n   Potter.",
+  "id":"26ede941-7afb-4cd2-b8de-a2c53a67ef5b",
+  "params":{
+    "id":"bacadf8d-a3fd-4ea4-934e-02097225dbca"
+  },
+  "name":"Luisa"
+}

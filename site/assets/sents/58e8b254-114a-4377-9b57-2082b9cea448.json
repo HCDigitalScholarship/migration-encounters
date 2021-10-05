@@ -1,0 +1,13 @@
+{
+  "start":6868,
+  "end":6895,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My name comes from Ireland.",
+  "id":"58e8b254-114a-4377-9b57-2082b9cea448",
+  "params":{
+    "id":"58e8b254-114a-4377-9b57-2082b9cea448",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

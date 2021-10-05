@@ -1,0 +1,13 @@
+{
+  "start":21230,
+  "end":21253,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad sends her money.",
+  "id":"c6edf661-b9d0-4aa3-8fdc-78aa6402e63d",
+  "params":{
+    "id":"c6edf661-b9d0-4aa3-8fdc-78aa6402e63d",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

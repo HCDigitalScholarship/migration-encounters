@@ -1,0 +1,13 @@
+{
+  "start":56812,
+  "end":56855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They got food, but they\n   don't feel safe.",
+  "id":"535e18b7-a236-4c76-a0ae-e97b3345e252",
+  "params":{
+    "id":"535e18b7-a236-4c76-a0ae-e97b3345e252",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

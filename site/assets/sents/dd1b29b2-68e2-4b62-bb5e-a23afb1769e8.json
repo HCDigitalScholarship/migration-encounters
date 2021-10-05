@@ -1,0 +1,13 @@
+{
+  "start":45452,
+  "end":45523,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I was always very emotional, my mom was always there\n   for me.",
+  "id":"dd1b29b2-68e2-4b62-bb5e-a23afb1769e8",
+  "params":{
+    "id":"dd1b29b2-68e2-4b62-bb5e-a23afb1769e8",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

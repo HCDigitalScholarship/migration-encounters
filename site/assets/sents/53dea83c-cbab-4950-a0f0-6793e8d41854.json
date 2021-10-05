@@ -1,0 +1,13 @@
+{
+  "start":20013,
+  "end":20028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Beto:\n \n \n     ",
+  "id":"53dea83c-cbab-4950-a0f0-6793e8d41854",
+  "params":{
+    "id":"53dea83c-cbab-4950-a0f0-6793e8d41854",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

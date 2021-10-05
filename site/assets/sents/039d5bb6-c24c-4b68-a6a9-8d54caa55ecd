@@ -1,0 +1,12 @@
+{
+  "start":16264,
+  "end":16342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   What was that like when you walked in [foreign language, location]\n \n \n   ",
+  "id":"039d5bb6-c24c-4b68-a6a9-8d54caa55ecd",
+  "params":{
+    "id":"6dfdf4db-4093-459b-94ea-44492a23d656"
+  },
+  "name":"Miguel B"
+}

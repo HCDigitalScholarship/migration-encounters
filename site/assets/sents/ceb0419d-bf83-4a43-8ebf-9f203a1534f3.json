@@ -1,0 +1,13 @@
+{
+  "start":3735,
+  "end":3809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It might be gang infested, but in the daytime it looks like\nBeverly Hills.",
+  "id":"ceb0419d-bf83-4a43-8ebf-9f203a1534f3",
+  "params":{
+    "id":"ceb0419d-bf83-4a43-8ebf-9f203a1534f3",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

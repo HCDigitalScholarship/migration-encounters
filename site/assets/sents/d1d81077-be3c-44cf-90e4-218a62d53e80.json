@@ -1,0 +1,13 @@
+{
+  "start":16044,
+  "end":16119,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I couldn't\n even have a conversation in my interview because of my Spanish.",
+  "id":"d1d81077-be3c-44cf-90e4-218a62d53e80",
+  "params":{
+    "id":"d1d81077-be3c-44cf-90e4-218a62d53e80",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32793,
+  "end":32841,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Can I help you out in getting you some job?\"",
+  "id":"5172ffeb-46c6-47d0-86ed-b8cc0e7a118f",
+  "params":{
+    "id":"5172ffeb-46c6-47d0-86ed-b8cc0e7a118f",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

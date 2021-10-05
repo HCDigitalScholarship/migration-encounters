@@ -1,0 +1,12 @@
+{
+  "start":506,
+  "end":602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Llegaron unos primos de all\u00e1 [Estados\n     Unidos], vieron nuestra situaci\u00f3n y me lo plantearon.",
+  "id":"f16c7ff3-e133-40b6-9bbf-50542ebd1cfd",
+  "params":{
+    "id":"efd3e2be-9c05-4a37-9256-c2276e8af433"
+  },
+  "name":"Maria"
+}

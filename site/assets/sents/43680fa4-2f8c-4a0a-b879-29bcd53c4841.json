@@ -1,0 +1,13 @@
+{
+  "start":5785,
+  "end":5813,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There was a\n   Samoan coach.",
+  "id":"43680fa4-2f8c-4a0a-b879-29bcd53c4841",
+  "params":{
+    "id":"43680fa4-2f8c-4a0a-b879-29bcd53c4841",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

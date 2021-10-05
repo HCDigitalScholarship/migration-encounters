@@ -1,0 +1,13 @@
+{
+  "start":22119,
+  "end":22141,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I'm different.",
+  "id":"1b5f0458-4e14-49df-bf66-e236ecc255a6",
+  "params":{
+    "id":"1b5f0458-4e14-49df-bf66-e236ecc255a6",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

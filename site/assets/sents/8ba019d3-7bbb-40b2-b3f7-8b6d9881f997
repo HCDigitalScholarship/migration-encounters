@@ -1,0 +1,12 @@
+{
+  "start":36293,
+  "end":36331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's an American culture\n     thing.",
+  "id":"8ba019d3-7bbb-40b2-b3f7-8b6d9881f997",
+  "params":{
+    "id":"496b7e30-4c90-4d16-a6b9-f062d1f430f1"
+  },
+  "name":"Beto"
+}

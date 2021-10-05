@@ -1,0 +1,13 @@
+{
+  "start":42534,
+  "end":42634,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   It kind of does give me a little bit of a pass because I have something to\n   talk about, right.",
+  "id":"0148c46e-fdf4-47d5-ba76-f5647d63b56c",
+  "params":{
+    "id":"0148c46e-fdf4-47d5-ba76-f5647d63b56c",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

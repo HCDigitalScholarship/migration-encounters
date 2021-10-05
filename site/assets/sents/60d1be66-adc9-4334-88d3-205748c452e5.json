@@ -1,0 +1,13 @@
+{
+  "start":9979,
+  "end":10051,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're paying, I\n     don't know, 3,500 3,200 why don't you come over?\"",
+  "id":"60d1be66-adc9-4334-88d3-205748c452e5",
+  "params":{
+    "id":"60d1be66-adc9-4334-88d3-205748c452e5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

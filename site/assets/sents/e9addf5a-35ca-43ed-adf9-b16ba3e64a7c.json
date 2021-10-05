@@ -1,0 +1,13 @@
+{
+  "start":5601,
+  "end":5675,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he\n   pointed at what I had to do, so I learned by seeing and hearing.",
+  "id":"e9addf5a-35ca-43ed-adf9-b16ba3e64a7c",
+  "params":{
+    "id":"e9addf5a-35ca-43ed-adf9-b16ba3e64a7c",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

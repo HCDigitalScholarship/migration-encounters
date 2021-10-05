@@ -1,0 +1,13 @@
+{
+  "start":6067,
+  "end":6172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In my case, where I grew up, we did have a few different cliques\n   that were not getting along together.",
+  "id":"671fdaa1-0cf2-4a83-a747-88aaffbf70ab",
+  "params":{
+    "id":"671fdaa1-0cf2-4a83-a747-88aaffbf70ab",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

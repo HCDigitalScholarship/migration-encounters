@@ -1,0 +1,13 @@
+{
+  "start":20561,
+  "end":20569,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n pilot",
+  "id":"e501b6f0-27c7-41fa-b82a-5a8787047678",
+  "params":{
+    "id":"e501b6f0-27c7-41fa-b82a-5a8787047678",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

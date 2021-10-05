@@ -1,0 +1,13 @@
+{
+  "start":55500,
+  "end":55557,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It can't be a rocky one because catfish\n   don't do that.",
+  "id":"ee76d913-763d-4a9e-98dc-6dd9f00a1ec3",
+  "params":{
+    "id":"ee76d913-763d-4a9e-98dc-6dd9f00a1ec3",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

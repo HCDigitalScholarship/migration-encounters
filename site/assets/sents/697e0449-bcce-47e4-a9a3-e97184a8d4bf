@@ -1,0 +1,12 @@
+{
+  "start":28634,
+  "end":28669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You couldn't get on a plane, right?",
+  "id":"697e0449-bcce-47e4-a9a3-e97184a8d4bf",
+  "params":{
+    "id":"6628f103-49ec-4d84-9172-9e91325afc66"
+  },
+  "name":"Luis A"
+}

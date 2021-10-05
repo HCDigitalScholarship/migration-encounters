@@ -1,0 +1,12 @@
+{
+  "start":35014,
+  "end":35061,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"I'm sorry, what do you mean go home?",
+  "id":"051067f7-41e7-4684-901c-cb1666fee3dd",
+  "params":{
+    "id":"d71d3a54-3f8b-4f7c-a15e-a6d5eb6e4e87"
+  },
+  "name":"Hugo"
+}

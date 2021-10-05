@@ -1,0 +1,12 @@
+{
+  "start":32020,
+  "end":32099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would go\n   back to the same places and they would welcome me with open arms.",
+  "id":"4544fafa-6db4-4e9f-9ac0-7e0349592d8e",
+  "params":{
+    "id":"f58bf603-dac1-41d4-87b5-fe605cdf0bdf"
+  },
+  "name":"Sylent"
+}

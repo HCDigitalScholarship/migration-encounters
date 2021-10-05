@@ -1,0 +1,12 @@
+{
+  "start":26658,
+  "end":26707,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My judge, my lawyer was\n   like, \"Anything else?\"",
+  "id":"a1d461e0-ca4c-49fa-bfab-b42065d2ea0b",
+  "params":{
+    "id":"fbeccdee-c97a-4aa9-9c09-8c76a4f72bc0"
+  },
+  "name":"Kevin"
+}

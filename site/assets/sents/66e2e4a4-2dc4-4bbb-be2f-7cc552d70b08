@@ -1,0 +1,12 @@
+{
+  "start":22291,
+  "end":22318,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They kind of adopted\n   me.",
+  "id":"66e2e4a4-2dc4-4bbb-be2f-7cc552d70b08",
+  "params":{
+    "id":"004b4f1b-704a-4b3d-a587-983a3cf8cc95"
+  },
+  "name":"Mike"
+}

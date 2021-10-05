@@ -1,0 +1,13 @@
+{
+  "start":20073,
+  "end":20120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They tried to get me out, but\n   they couldn't.",
+  "id":"35a8884f-0b1b-4fb1-a0bf-205d16d7dc11",
+  "params":{
+    "id":"35a8884f-0b1b-4fb1-a0bf-205d16d7dc11",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

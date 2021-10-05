@@ -1,0 +1,12 @@
+{
+  "start":16202,
+  "end":16254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell me a little bit more about your wife?",
+  "id":"9c0f6f52-a42c-44cd-b505-2d675d28bd40",
+  "params":{
+    "id":"a71939fa-e0e6-4ea3-85a2-5582cbd350ed"
+  },
+  "name":"Juan A"
+}

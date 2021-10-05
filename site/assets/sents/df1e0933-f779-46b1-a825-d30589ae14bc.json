@@ -1,0 +1,13 @@
+{
+  "start":30042,
+  "end":30063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laila: A lot of them.",
+  "id":"df1e0933-f779-46b1-a825-d30589ae14bc",
+  "params":{
+    "id":"df1e0933-f779-46b1-a825-d30589ae14bc",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

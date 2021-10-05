@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":2213,
+  "end":2230,
+  "text":" when you first went?\n \n \n   Ivan: Oh, when I first went? With my parents.\n \n \n   Anita: Did you have brothers and sisters?\n \n \n   Ivan: No, I'm the only child.\n \n \n   Anita: What caused you to leave the United States? Was it your decision?\n   Were you detained and deported?\n \n \n   Ivan: I was detained and deported.\n \n \n   Anita: So, in one word, how did this happen? Were you detained by the\n   police? Were you im",
+  "label":"GPE",
+  "id":"b1051b10-55dc-4e2a-94d5-3a64d3765ccb",
+  "name":"Ivan"
+}

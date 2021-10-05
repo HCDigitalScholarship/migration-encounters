@@ -1,0 +1,13 @@
+{
+  "start":42240,
+  "end":42306,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And that will, obviously, since it was a fake one, it didn't pass.",
+  "id":"0f80a7de-fdb2-4e19-94aa-cf829836074a",
+  "params":{
+    "id":"0f80a7de-fdb2-4e19-94aa-cf829836074a",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

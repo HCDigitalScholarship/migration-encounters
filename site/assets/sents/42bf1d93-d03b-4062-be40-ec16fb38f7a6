@@ -1,0 +1,12 @@
+{
+  "start":21387,
+  "end":21428,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ismael [Exclamation],\n   that\u2019s his name.",
+  "id":"42bf1d93-d03b-4062-be40-ec16fb38f7a6",
+  "params":{
+    "id":"70c9e93b-a3b5-4019-912c-35fc9c83089e"
+  },
+  "name":"Luisa"
+}

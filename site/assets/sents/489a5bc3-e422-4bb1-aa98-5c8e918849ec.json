@@ -1,0 +1,13 @@
+{
+  "start":27387,
+  "end":27425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's more technical service related.",
+  "id":"489a5bc3-e422-4bb1-aa98-5c8e918849ec",
+  "params":{
+    "id":"489a5bc3-e422-4bb1-aa98-5c8e918849ec",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

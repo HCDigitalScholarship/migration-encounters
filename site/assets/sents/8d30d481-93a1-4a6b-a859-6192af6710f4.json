@@ -1,0 +1,13 @@
+{
+  "start":16120,
+  "end":16220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that I started crying because I missed my family, my\n   cousins and my friends at school.",
+  "id":"8d30d481-93a1-4a6b-a859-6192af6710f4",
+  "params":{
+    "id":"8d30d481-93a1-4a6b-a859-6192af6710f4",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

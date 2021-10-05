@@ -1,0 +1,12 @@
+{
+  "start":10282,
+  "end":10308,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, tell me what happened.",
+  "id":"ae79e75b-5864-43a7-b442-9a29b96c6b5e",
+  "params":{
+    "id":"79be0341-f916-4363-9c0d-cab236347a71"
+  },
+  "name":"Laura A"
+}

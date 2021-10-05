@@ -1,0 +1,12 @@
+{
+  "start":30023,
+  "end":30065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[who are you rooting for?]\n \n \n   Rodrigo:",
+  "id":"c01bac66-fa4b-416c-aff6-a93c04f403a2",
+  "params":{
+    "id":"fb2a6e38-e393-48e2-88b6-2f837952c5ad"
+  },
+  "name":"Rodrigo"
+}

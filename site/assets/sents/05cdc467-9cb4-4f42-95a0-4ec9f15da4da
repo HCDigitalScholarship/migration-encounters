@@ -1,0 +1,12 @@
+{
+  "start":69304,
+  "end":69328,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom told me that too.",
+  "id":"05cdc467-9cb4-4f42-95a0-4ec9f15da4da",
+  "params":{
+    "id":"686ce117-76e6-433e-83ac-20c3b455f857"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":33067,
+  "end":33092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I couldn't believe\n   it.",
+  "id":"90f303c0-87fc-45c3-84a5-568220a0e8b1",
+  "params":{
+    "id":"90f303c0-87fc-45c3-84a5-568220a0e8b1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

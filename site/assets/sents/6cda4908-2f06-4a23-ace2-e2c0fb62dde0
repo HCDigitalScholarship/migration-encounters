@@ -1,0 +1,12 @@
+{
+  "start":7594,
+  "end":7678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I know it was illegal, but I was trying to stick as much as I can to the\n   law.",
+  "id":"6cda4908-2f06-4a23-ace2-e2c0fb62dde0",
+  "params":{
+    "id":"4b1794a2-9657-4cc2-8dd7-1f61ecdd81ca"
+  },
+  "name":"Erik"
+}

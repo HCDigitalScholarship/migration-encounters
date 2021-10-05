@@ -1,0 +1,13 @@
+{
+  "start":8550,
+  "end":8617,
+  "label":"SENT",
+  "type":"sent",
+  "text":"La persona que nos rentaba el cuarto, ellos vinieron a\n     M\u00e9xico.",
+  "id":"39da5c4c-19f2-4d93-8cdf-7c2b58ed9feb",
+  "params":{
+    "id":"39da5c4c-19f2-4d93-8cdf-7c2b58ed9feb",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":27011,
+  "end":27044,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They have good quality, you know?",
+  "id":"b7420feb-6d00-46ad-b092-d9a0f4cc4f25",
+  "params":{
+    "id":"b7420feb-6d00-46ad-b092-d9a0f4cc4f25",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

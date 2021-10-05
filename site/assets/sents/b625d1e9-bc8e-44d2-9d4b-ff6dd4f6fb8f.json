@@ -1,0 +1,13 @@
+{
+  "start":2110,
+  "end":2121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"your\n   dad",
+  "id":"b625d1e9-bc8e-44d2-9d4b-ff6dd4f6fb8f",
+  "params":{
+    "id":"b625d1e9-bc8e-44d2-9d4b-ff6dd4f6fb8f",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

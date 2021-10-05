@@ -1,0 +1,13 @@
+{
+  "start":5061,
+  "end":5090,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They barely\n   got there too.",
+  "id":"e9080ba6-bfee-473e-a2ee-420503ce25ac",
+  "params":{
+    "id":"e9080ba6-bfee-473e-a2ee-420503ce25ac",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

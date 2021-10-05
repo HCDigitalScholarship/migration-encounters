@@ -1,0 +1,13 @@
+{
+  "start":45089,
+  "end":45135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because I've been a\n   mommas boy all my life.",
+  "id":"e4c238ea-e3d7-42f5-af11-a8ad35cab9ae",
+  "params":{
+    "id":"e4c238ea-e3d7-42f5-af11-a8ad35cab9ae",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25557,
+  "end":25618,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean did you go through therapy or counseling at this time?",
+  "id":"4e6292d0-068e-41b8-acbe-75856d9fb138",
+  "params":{
+    "id":"04d24918-b6d1-4044-bd08-2fe6d56e6270"
+  },
+  "name":"Mike"
+}

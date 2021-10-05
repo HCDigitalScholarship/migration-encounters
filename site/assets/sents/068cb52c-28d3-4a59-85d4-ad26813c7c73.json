@@ -1,0 +1,13 @@
+{
+  "start":6974,
+  "end":7035,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was arrested for\n   traffic violations and stuff like that.",
+  "id":"068cb52c-28d3-4a59-85d4-ad26813c7c73",
+  "params":{
+    "id":"068cb52c-28d3-4a59-85d4-ad26813c7c73",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

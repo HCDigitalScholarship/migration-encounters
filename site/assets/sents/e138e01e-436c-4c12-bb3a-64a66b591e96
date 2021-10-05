@@ -1,0 +1,12 @@
+{
+  "start":229,
+  "end":255,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I almost never\n   stutter.",
+  "id":"e138e01e-436c-4c12-bb3a-64a66b591e96",
+  "params":{
+    "id":"b32e2c22-dff0-4ab3-a51b-3939962229f6"
+  },
+  "name":"Donovan"
+}

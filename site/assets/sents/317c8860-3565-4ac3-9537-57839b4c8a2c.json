@@ -1,0 +1,13 @@
+{
+  "start":29071,
+  "end":29152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was just going to\n   visit her for two or three weeks, but I stayed two months.",
+  "id":"317c8860-3565-4ac3-9537-57839b4c8a2c",
+  "params":{
+    "id":"317c8860-3565-4ac3-9537-57839b4c8a2c",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

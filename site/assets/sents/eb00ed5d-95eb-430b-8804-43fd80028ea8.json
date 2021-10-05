@@ -1,0 +1,13 @@
+{
+  "start":24480,
+  "end":24505,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean it's a nice house.",
+  "id":"eb00ed5d-95eb-430b-8804-43fd80028ea8",
+  "params":{
+    "id":"eb00ed5d-95eb-430b-8804-43fd80028ea8",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

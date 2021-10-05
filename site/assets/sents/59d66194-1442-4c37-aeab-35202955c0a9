@@ -1,0 +1,12 @@
+{
+  "start":33423,
+  "end":33495,
+  "label":"SENT",
+  "type":"sent",
+  "text":"In this case, I have to\n   be in a certain spot to actually talk to him.",
+  "id":"59d66194-1442-4c37-aeab-35202955c0a9",
+  "params":{
+    "id":"bf874700-f7c2-4be6-b776-58936c6a5a39"
+  },
+  "name":"Carlos"
+}

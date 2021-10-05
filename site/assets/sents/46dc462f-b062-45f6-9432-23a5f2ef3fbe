@@ -1,0 +1,12 @@
+{
+  "start":452,
+  "end":496,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long were you in Mexico the second time?",
+  "id":"46dc462f-b062-45f6-9432-23a5f2ef3fbe",
+  "params":{
+    "id":"82cf1691-0f31-49d2-a9a7-16138a0e9552"
+  },
+  "name":"Daniel"
+}

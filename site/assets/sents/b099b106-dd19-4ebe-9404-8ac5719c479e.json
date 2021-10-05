@@ -1,0 +1,13 @@
+{
+  "start":20118,
+  "end":20198,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I told her, \"Probably about time we started explaining\n some things to her.\u201d",
+  "id":"b099b106-dd19-4ebe-9404-8ac5719c479e",
+  "params":{
+    "id":"b099b106-dd19-4ebe-9404-8ac5719c479e",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

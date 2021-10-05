@@ -1,0 +1,12 @@
+{
+  "start":34315,
+  "end":34406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   little bit better, but like over there in the hills, like I was saying\n   about Ilene.",
+  "id":"037bd24e-8446-428e-81a8-5e5d6836bad9",
+  "params":{
+    "id":"3ae40d83-493a-4373-ad13-6d3fd12a2223"
+  },
+  "name":"Hugo"
+}

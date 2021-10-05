@@ -1,0 +1,13 @@
+{
+  "start":26400,
+  "end":26430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But you\n   kind of understand.",
+  "id":"31271c0e-4191-4c16-b1ee-e108c7525360",
+  "params":{
+    "id":"31271c0e-4191-4c16-b1ee-e108c7525360",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

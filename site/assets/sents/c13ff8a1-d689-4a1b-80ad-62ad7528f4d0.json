@@ -1,0 +1,13 @@
+{
+  "start":14565,
+  "end":14589,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told her, \"Don't come.",
+  "id":"c13ff8a1-d689-4a1b-80ad-62ad7528f4d0",
+  "params":{
+    "id":"c13ff8a1-d689-4a1b-80ad-62ad7528f4d0",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

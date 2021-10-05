@@ -1,0 +1,13 @@
+{
+  "start":20387,
+  "end":20472,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It can be misconception, a misunderstanding, but they went\n   over and did it anyway.",
+  "id":"a4633e21-d360-4ec6-8870-d7d6c39b7bbd",
+  "params":{
+    "id":"a4633e21-d360-4ec6-8870-d7d6c39b7bbd",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

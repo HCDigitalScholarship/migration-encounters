@@ -1,0 +1,12 @@
+{
+  "start":46490,
+  "end":46522,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want you to do all that.",
+  "id":"d4b38ba1-f47f-4eb2-9d8f-d7a336d952ef",
+  "params":{
+    "id":"2d255e89-fbf6-4a8e-8048-b78f7c8937e9"
+  },
+  "name":"Cris"
+}

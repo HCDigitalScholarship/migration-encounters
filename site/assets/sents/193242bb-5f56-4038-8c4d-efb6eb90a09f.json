@@ -1,0 +1,13 @@
+{
+  "start":17855,
+  "end":17906,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a 15 year old kid and you're being deported.",
+  "id":"193242bb-5f56-4038-8c4d-efb6eb90a09f",
+  "params":{
+    "id":"193242bb-5f56-4038-8c4d-efb6eb90a09f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

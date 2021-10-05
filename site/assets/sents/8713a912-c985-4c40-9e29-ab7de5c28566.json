@@ -1,0 +1,13 @@
+{
+  "start":33441,
+  "end":33481,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had a lot\n     of pressure at school.",
+  "id":"8713a912-c985-4c40-9e29-ab7de5c28566",
+  "params":{
+    "id":"8713a912-c985-4c40-9e29-ab7de5c28566",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

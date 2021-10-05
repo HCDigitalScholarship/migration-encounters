@@ -1,0 +1,12 @@
+{
+  "start":20664,
+  "end":20686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And where do you work?",
+  "id":"7e152f28-6b78-492d-a391-7be02353dd7a",
+  "params":{
+    "id":"aea313af-820d-4cf0-aeff-a500fc34e467"
+  },
+  "name":"Edgar"
+}

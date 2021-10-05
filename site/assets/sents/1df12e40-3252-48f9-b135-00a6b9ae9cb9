@@ -1,0 +1,12 @@
+{
+  "start":20314,
+  "end":20345,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No one saw that I was crossing.",
+  "id":"1df12e40-3252-48f9-b135-00a6b9ae9cb9",
+  "params":{
+    "id":"eb6ced9a-4464-4ca8-9f6c-800be7319043"
+  },
+  "name":"Luis B"
+}

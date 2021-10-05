@@ -1,0 +1,12 @@
+{
+  "start":56588,
+  "end":56643,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, I'll just take whatever plea\n they gave me.",
+  "id":"1e31af17-b74f-4f55-ba30-a01600346d48",
+  "params":{
+    "id":"ae242e8d-2ab4-49ec-8ae6-1f473a12a8a0"
+  },
+  "name":"Axel"
+}

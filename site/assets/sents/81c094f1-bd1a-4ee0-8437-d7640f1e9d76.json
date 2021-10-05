@@ -1,0 +1,13 @@
+{
+  "start":50487,
+  "end":50528,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n doing exactly what they wanted me.",
+  "id":"81c094f1-bd1a-4ee0-8437-d7640f1e9d76",
+  "params":{
+    "id":"81c094f1-bd1a-4ee0-8437-d7640f1e9d76",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

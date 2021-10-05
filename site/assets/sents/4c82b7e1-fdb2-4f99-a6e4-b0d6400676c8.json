@@ -1,0 +1,13 @@
+{
+  "start":35527,
+  "end":35561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Isabel: That's incredible.",
+  "id":"4c82b7e1-fdb2-4f99-a6e4-b0d6400676c8",
+  "params":{
+    "id":"4c82b7e1-fdb2-4f99-a6e4-b0d6400676c8",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":45785,
+  "end":45807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still got the paper.",
+  "id":"bb44e84e-106d-4972-930b-88c673e437af",
+  "params":{
+    "id":"bb44e84e-106d-4972-930b-88c673e437af",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

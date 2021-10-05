@@ -1,0 +1,12 @@
+{
+  "start":10847,
+  "end":10866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't tell me that.",
+  "id":"a2225b23-2f7b-46b1-aecb-7b0fa4c78be1",
+  "params":{
+    "id":"10efc7f2-daa9-4fd0-a8fe-ca0a5ace2a4c"
+  },
+  "name":"Kevin"
+}

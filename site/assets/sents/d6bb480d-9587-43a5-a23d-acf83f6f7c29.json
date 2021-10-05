@@ -1,0 +1,13 @@
+{
+  "start":19819,
+  "end":19864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never had a bad experience at a restaurant.",
+  "id":"d6bb480d-9587-43a5-a23d-acf83f6f7c29",
+  "params":{
+    "id":"d6bb480d-9587-43a5-a23d-acf83f6f7c29",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

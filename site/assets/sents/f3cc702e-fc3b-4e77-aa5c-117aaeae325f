@@ -1,0 +1,12 @@
+{
+  "start":6402,
+  "end":6561,
+  "label":"SENT",
+  "type":"sent",
+  "text":"_ he invited me over for Thanksgiving, but my\n   pa was like, \"I don't want you getting used to that kind of stuff because\n   we're not going to celebrate it.\"",
+  "id":"f3cc702e-fc3b-4e77-aa5c-117aaeae325f",
+  "params":{
+    "id":"93d7d76b-8626-4128-b378-1e3dbae41d44"
+  },
+  "name":"Luis B"
+}

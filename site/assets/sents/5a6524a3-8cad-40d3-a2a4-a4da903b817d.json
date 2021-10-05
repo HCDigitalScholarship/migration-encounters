@@ -1,0 +1,13 @@
+{
+  "start":19200,
+  "end":19280,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After that, after my\n second year of school, it was actually pretty good breeze.",
+  "id":"5a6524a3-8cad-40d3-a2a4-a4da903b817d",
+  "params":{
+    "id":"5a6524a3-8cad-40d3-a2a4-a4da903b817d",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

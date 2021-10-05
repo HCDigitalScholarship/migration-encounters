@@ -1,0 +1,12 @@
+{
+  "start":10511,
+  "end":10612,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's doing her own thing, but I feel\n   like eventually my mom's going to have to move in with them.",
+  "id":"faa5245a-d0ba-47c3-b766-17f7a5d525dc",
+  "params":{
+    "id":"a8a2f61f-61a7-4835-b5be-d213864fd94e"
+  },
+  "name":"Jose"
+}

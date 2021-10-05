@@ -1,0 +1,12 @@
+{
+  "start":32965,
+  "end":32977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The Red Sox.",
+  "id":"5ced4ecd-3363-4e1b-aa26-503f697303e7",
+  "params":{
+    "id":"5233e27f-aa44-40fa-b96e-9d7eee8a0ac1"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10725,
+  "end":10774,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was stupid and I fell into that\n   number game.",
+  "id":"8dd3ba06-fb68-4d28-ba51-3caeea4c5dcc",
+  "params":{
+    "id":"8dd3ba06-fb68-4d28-ba51-3caeea4c5dcc",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

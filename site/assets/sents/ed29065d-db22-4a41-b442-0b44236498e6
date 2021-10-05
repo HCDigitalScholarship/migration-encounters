@@ -1,0 +1,12 @@
+{
+  "start":8361,
+  "end":8456,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was about to graduate there, but the reason we came\n   back here was because my mom got sick.",
+  "id":"ed29065d-db22-4a41-b442-0b44236498e6",
+  "params":{
+    "id":"d231bbea-6e30-4079-bc80-8e1189d7b3a8"
+  },
+  "name":"Yair"
+}

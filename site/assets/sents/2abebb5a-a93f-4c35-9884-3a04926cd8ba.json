@@ -1,0 +1,13 @@
+{
+  "start":29515,
+  "end":29533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were accepted.",
+  "id":"2abebb5a-a93f-4c35-9884-3a04926cd8ba",
+  "params":{
+    "id":"2abebb5a-a93f-4c35-9884-3a04926cd8ba",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

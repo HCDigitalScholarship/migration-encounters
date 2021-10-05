@@ -1,0 +1,13 @@
+{
+  "start":8564,
+  "end":8580,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I prayed to God.",
+  "id":"6c39471e-7f9e-430e-88e8-4681014f8642",
+  "params":{
+    "id":"6c39471e-7f9e-430e-88e8-4681014f8642",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

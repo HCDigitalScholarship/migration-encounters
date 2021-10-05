@@ -1,0 +1,13 @@
+{
+  "start":24505,
+  "end":24521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"your\n   paycheck",
+  "id":"d410e10f-b875-4f34-94ed-e39c96619aec",
+  "params":{
+    "id":"d410e10f-b875-4f34-94ed-e39c96619aec",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

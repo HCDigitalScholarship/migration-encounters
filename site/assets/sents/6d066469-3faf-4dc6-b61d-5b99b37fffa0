@@ -1,0 +1,12 @@
+{
+  "start":33254,
+  "end":33344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"Why are we going\n     to get a programmer project manager then switch over?\"",
+  "id":"6d066469-3faf-4dc6-b61d-5b99b37fffa0",
+  "params":{
+    "id":"4ae84abc-ed63-4929-80ac-9f632000e78a"
+  },
+  "name":"Joseph"
+}

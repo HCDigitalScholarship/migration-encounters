@@ -1,0 +1,13 @@
+{
+  "start":5870,
+  "end":5982,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As soon as my parents split up, my mom knew that she\n   wouldn't be able to sustain us so she moved out to Cali.",
+  "id":"ef6eba2e-e847-4cb9-b81d-3f65c69675b4",
+  "params":{
+    "id":"ef6eba2e-e847-4cb9-b81d-3f65c69675b4",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

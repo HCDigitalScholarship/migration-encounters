@@ -1,0 +1,13 @@
+{
+  "start":31682,
+  "end":31777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   knowledge, and even though I don't do nothing, they ask me, \"Hey, how do\n   you do this?",
+  "id":"7ad7cfff-861c-4e1a-9b68-e58254ce32d3",
+  "params":{
+    "id":"7ad7cfff-861c-4e1a-9b68-e58254ce32d3",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

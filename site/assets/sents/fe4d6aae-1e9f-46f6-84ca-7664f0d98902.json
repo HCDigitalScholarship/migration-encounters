@@ -1,0 +1,13 @@
+{
+  "start":52915,
+  "end":52948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you say\n   it's bad, it's bad.",
+  "id":"fe4d6aae-1e9f-46f6-84ca-7664f0d98902",
+  "params":{
+    "id":"fe4d6aae-1e9f-46f6-84ca-7664f0d98902",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

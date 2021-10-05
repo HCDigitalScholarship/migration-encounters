@@ -1,0 +1,13 @@
+{
+  "start":680,
+  "end":727,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad left Mexico because of economic reasons.",
+  "id":"1a894a72-55a2-4e24-9912-32a6e504ea80",
+  "params":{
+    "id":"1a894a72-55a2-4e24-9912-32a6e504ea80",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

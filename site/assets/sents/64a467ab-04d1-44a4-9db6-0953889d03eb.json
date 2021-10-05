@@ -1,0 +1,13 @@
+{
+  "start":23558,
+  "end":23581,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo me voy para M\u00e9xico\u201d.",
+  "id":"64a467ab-04d1-44a4-9db6-0953889d03eb",
+  "params":{
+    "id":"64a467ab-04d1-44a4-9db6-0953889d03eb",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

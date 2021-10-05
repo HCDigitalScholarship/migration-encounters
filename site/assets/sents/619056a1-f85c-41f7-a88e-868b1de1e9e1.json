@@ -1,0 +1,13 @@
+{
+  "start":51689,
+  "end":51731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We had\n   a lot of space around the house.",
+  "id":"619056a1-f85c-41f7-a88e-868b1de1e9e1",
+  "params":{
+    "id":"619056a1-f85c-41f7-a88e-868b1de1e9e1",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

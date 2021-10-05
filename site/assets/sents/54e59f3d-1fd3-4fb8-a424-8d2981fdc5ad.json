@@ -1,0 +1,13 @@
+{
+  "start":20668,
+  "end":20705,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it's been a learning\n experience.",
+  "id":"54e59f3d-1fd3-4fb8-a424-8d2981fdc5ad",
+  "params":{
+    "id":"54e59f3d-1fd3-4fb8-a424-8d2981fdc5ad",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

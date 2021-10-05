@@ -1,0 +1,12 @@
+{
+  "start":10484,
+  "end":10540,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Somebody came by, I took it, but it was a\n   stolen car.",
+  "id":"a434f592-1578-4ec3-a677-4588c03da18a",
+  "params":{
+    "id":"8c02d77c-b709-44a4-8eaf-08809b466505"
+  },
+  "name":"Hugo"
+}

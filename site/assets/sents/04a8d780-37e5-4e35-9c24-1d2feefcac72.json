@@ -1,0 +1,13 @@
+{
+  "start":52811,
+  "end":52861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"You're going to get married this time?\"",
+  "id":"04a8d780-37e5-4e35-9c24-1d2feefcac72",
+  "params":{
+    "id":"04a8d780-37e5-4e35-9c24-1d2feefcac72",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

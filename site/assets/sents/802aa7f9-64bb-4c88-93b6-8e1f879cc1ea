@@ -1,0 +1,12 @@
+{
+  "start":59,
+  "end":70,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Hello Anne.",
+  "id":"802aa7f9-64bb-4c88-93b6-8e1f879cc1ea",
+  "params":{
+    "id":"269b80c4-04c1-4988-b4a3-9d665bf481ac"
+  },
+  "name":"Ivan B"
+}

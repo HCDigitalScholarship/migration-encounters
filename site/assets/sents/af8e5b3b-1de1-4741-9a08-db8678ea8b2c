@@ -1,0 +1,12 @@
+{
+  "start":23026,
+  "end":23099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Or sometimes say, \"I want to cancel.\"\n \n \n   Anita: What?\n \n \n   Rodrigo:",
+  "id":"af8e5b3b-1de1-4741-9a08-db8678ea8b2c",
+  "params":{
+    "id":"38d81185-1c48-4b57-b608-603913f76d09"
+  },
+  "name":"Rodrigo"
+}

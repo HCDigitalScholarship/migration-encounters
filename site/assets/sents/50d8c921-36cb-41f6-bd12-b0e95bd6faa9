@@ -1,0 +1,12 @@
+{
+  "start":3820,
+  "end":3843,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Very interesting.",
+  "id":"50d8c921-36cb-41f6-bd12-b0e95bd6faa9",
+  "params":{
+    "id":"0f352fd0-ea6e-45e5-aa27-6fd402c6d631"
+  },
+  "name":"Luis A"
+}

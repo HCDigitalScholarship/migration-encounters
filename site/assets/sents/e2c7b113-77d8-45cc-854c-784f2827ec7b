@@ -1,0 +1,12 @@
+{
+  "start":30183,
+  "end":30213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're\n   not allowed to move.",
+  "id":"e2c7b113-77d8-45cc-854c-784f2827ec7b",
+  "params":{
+    "id":"644c7373-aaec-479e-a383-176e85b59fa9"
+  },
+  "name":"Luisa"
+}

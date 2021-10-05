@@ -1,0 +1,12 @@
+{
+  "start":65912,
+  "end":65950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because we\n   didn't like their jokes.",
+  "id":"58060b23-9bf6-43dd-a429-c9d56a85c3ca",
+  "params":{
+    "id":"5f176388-6aeb-41ed-b92e-932e65f2fc00"
+  },
+  "name":"Daniel B"
+}

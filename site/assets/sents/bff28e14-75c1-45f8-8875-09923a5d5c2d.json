@@ -1,0 +1,13 @@
+{
+  "start":18842,
+  "end":18909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Reception center, it's a place\nwhere you're settled.\n      \n      \n",
+  "id":"bff28e14-75c1-45f8-8875-09923a5d5c2d",
+  "params":{
+    "id":"bff28e14-75c1-45f8-8875-09923a5d5c2d",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

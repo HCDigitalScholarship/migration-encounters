@@ -1,0 +1,13 @@
+{
+  "start":5520,
+  "end":5566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I knew, of course, that my pa was Mexican.",
+  "id":"5ad74d6f-ab91-4af5-8d36-607011f7e4eb",
+  "params":{
+    "id":"5ad74d6f-ab91-4af5-8d36-607011f7e4eb",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

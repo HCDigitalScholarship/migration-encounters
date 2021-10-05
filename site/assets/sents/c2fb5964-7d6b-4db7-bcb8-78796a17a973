@@ -1,0 +1,12 @@
+{
+  "start":30742,
+  "end":30830,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said, \"The day you guys\n   lift a finger to your mom, you're going to know who I am.\"",
+  "id":"c2fb5964-7d6b-4db7-bcb8-78796a17a973",
+  "params":{
+    "id":"bf04c0f2-6ce4-4af6-80eb-e52806ad3f55"
+  },
+  "name":"Hugo"
+}

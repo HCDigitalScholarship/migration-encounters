@@ -1,0 +1,12 @@
+{
+  "start":24801,
+  "end":24902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got to Mexico, I turned around and I'm back in\n   Georgia, but in ____, Georgia, no longer in ____.",
+  "id":"be7a54ef-a9db-4501-aa67-c78ee24b2848",
+  "params":{
+    "id":"bdbc52b6-8dfc-40f7-bcf9-6fddc6d09cc9"
+  },
+  "name":"Daniel B"
+}

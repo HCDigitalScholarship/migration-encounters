@@ -1,0 +1,13 @@
+{
+  "start":27176,
+  "end":27227,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They go to jail and they smoke, and this and that.\"",
+  "id":"38ed1f05-d63e-4a47-9fd8-37c6f1904637",
+  "params":{
+    "id":"38ed1f05-d63e-4a47-9fd8-37c6f1904637",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

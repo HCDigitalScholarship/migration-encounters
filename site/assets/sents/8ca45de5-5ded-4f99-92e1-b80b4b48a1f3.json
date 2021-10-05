@@ -1,0 +1,13 @@
+{
+  "start":10694,
+  "end":10728,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The teacher\n   was not having it \u2026",
+  "id":"8ca45de5-5ded-4f99-92e1-b80b4b48a1f3",
+  "params":{
+    "id":"8ca45de5-5ded-4f99-92e1-b80b4b48a1f3",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

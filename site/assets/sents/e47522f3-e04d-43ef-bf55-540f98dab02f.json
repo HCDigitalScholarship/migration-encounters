@@ -1,0 +1,13 @@
+{
+  "start":12306,
+  "end":12365,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were like, \"Mr. S__, we can't find you\n in the system.",
+  "id":"e47522f3-e04d-43ef-bf55-540f98dab02f",
+  "params":{
+    "id":"e47522f3-e04d-43ef-bf55-540f98dab02f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

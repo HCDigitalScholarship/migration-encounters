@@ -1,0 +1,13 @@
+{
+  "start":19999,
+  "end":20003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes.",
+  "id":"76499235-03bc-406b-baf9-4dcb06233c98",
+  "params":{
+    "id":"76499235-03bc-406b-baf9-4dcb06233c98",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

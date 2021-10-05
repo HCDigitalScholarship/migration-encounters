@@ -1,0 +1,13 @@
+{
+  "start":16454,
+  "end":16470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's very smart.",
+  "id":"6ac6d3c3-aafc-4500-b527-47b7fef59dc3",
+  "params":{
+    "id":"6ac6d3c3-aafc-4500-b527-47b7fef59dc3",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

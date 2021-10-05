@@ -1,0 +1,12 @@
+{
+  "start":24999,
+  "end":25005,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Laura:",
+  "id":"e2c247c8-308a-4ff1-b1ae-35f4a0787a29",
+  "params":{
+    "id":"c68d11f6-7d27-4577-a815-4bb723d7038b"
+  },
+  "name":"Laura B"
+}

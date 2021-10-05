@@ -1,0 +1,12 @@
+{
+  "start":1846,
+  "end":1870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's what\n   happened.",
+  "id":"7a7df871-3c82-43fe-8fd2-6725f23ab189",
+  "params":{
+    "id":"b58e4152-50ef-45b7-b6f6-8365d7cf4c29"
+  },
+  "name":"Many"
+}

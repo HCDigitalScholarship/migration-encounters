@@ -1,0 +1,12 @@
+{
+  "start":41352,
+  "end":41384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"You\n   shouldn't do that.",
+  "id":"9070df8d-6b0b-495c-91cf-5ca7b943aae4",
+  "params":{
+    "id":"64f95992-b0dc-461a-83a2-1956088d543d"
+  },
+  "name":"Sylent"
+}

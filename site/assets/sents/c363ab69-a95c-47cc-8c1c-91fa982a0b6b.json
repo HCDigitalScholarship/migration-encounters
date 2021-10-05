@@ -1,0 +1,12 @@
+{
+  "start":6632,
+  "end":6649,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad came over.",
+  "id":"c363ab69-a95c-47cc-8c1c-91fa982a0b6b",
+  "params":{
+    "id":"b1cfd2e8-9ea5-4f03-8d3c-70ab61b4acda"
+  },
+  "name":"Daniel"
+}

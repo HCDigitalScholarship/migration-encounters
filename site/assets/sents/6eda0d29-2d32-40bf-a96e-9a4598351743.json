@@ -1,0 +1,13 @@
+{
+  "start":36011,
+  "end":36048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Jesus: Exactly.\n      \n      \n Lizzy:",
+  "id":"6eda0d29-2d32-40bf-a96e-9a4598351743",
+  "params":{
+    "id":"6eda0d29-2d32-40bf-a96e-9a4598351743",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

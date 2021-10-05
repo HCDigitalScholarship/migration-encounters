@@ -1,0 +1,12 @@
+{
+  "start":5312,
+  "end":5407,
+  "label":"SENT",
+  "type":"sent",
+  "text":"[the gringa is full of herself because\n   she\u2019s come from the United States and speaks English]",
+  "id":"5d3be5ce-b48c-45bb-95b2-626c9e8c18f8",
+  "params":{
+    "id":"b5db553f-cd2c-4c17-a62a-ffb58ad58c2d"
+  },
+  "name":"Jeimmy"
+}

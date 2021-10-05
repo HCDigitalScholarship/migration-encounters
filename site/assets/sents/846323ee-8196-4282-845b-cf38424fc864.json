@@ -1,0 +1,13 @@
+{
+  "start":9740,
+  "end":9780,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We didn't really know what was going on.",
+  "id":"846323ee-8196-4282-845b-cf38424fc864",
+  "params":{
+    "id":"846323ee-8196-4282-845b-cf38424fc864",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

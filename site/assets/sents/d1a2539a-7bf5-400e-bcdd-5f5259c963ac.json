@@ -1,0 +1,13 @@
+{
+  "start":15822,
+  "end":15858,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"I don't know what's a money order.\"",
+  "id":"d1a2539a-7bf5-400e-bcdd-5f5259c963ac",
+  "params":{
+    "id":"d1a2539a-7bf5-400e-bcdd-5f5259c963ac",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

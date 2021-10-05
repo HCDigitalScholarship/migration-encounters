@@ -1,0 +1,13 @@
+{
+  "start":10351,
+  "end":10451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n think healthcare in general is a whole 'nother world, but it definitely\n stopped the hemorrhages.",
+  "id":"c0e409d7-34c3-461f-bc0d-81f4f9149b49",
+  "params":{
+    "id":"c0e409d7-34c3-461f-bc0d-81f4f9149b49",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20992,
+  "end":21016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have other siblings?",
+  "id":"5e8c1e5c-d338-40c4-a02f-b8ca81d90554",
+  "params":{
+    "id":"5e8c1e5c-d338-40c4-a02f-b8ca81d90554",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

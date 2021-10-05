@@ -1,0 +1,12 @@
+{
+  "start":35666,
+  "end":35745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is there anything before we close that you'd like to add or let\n   people know?",
+  "id":"ddc8e135-bf76-4c33-8227-b70b4ca8161c",
+  "params":{
+    "id":"5e419582-5709-4e8e-9984-227d23ebd83d"
+  },
+  "name":"Daniel"
+}

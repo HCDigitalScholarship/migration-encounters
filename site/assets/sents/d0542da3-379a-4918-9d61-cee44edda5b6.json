@@ -1,0 +1,13 @@
+{
+  "start":35824,
+  "end":35873,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   country, which country we're talking about.",
+  "id":"d0542da3-379a-4918-9d61-cee44edda5b6",
+  "params":{
+    "id":"d0542da3-379a-4918-9d61-cee44edda5b6",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

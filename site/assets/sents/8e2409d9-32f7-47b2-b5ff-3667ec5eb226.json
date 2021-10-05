@@ -1,0 +1,13 @@
+{
+  "start":9756,
+  "end":9803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So she started dating some different\n   people.",
+  "id":"8e2409d9-32f7-47b2-b5ff-3667ec5eb226",
+  "params":{
+    "id":"8e2409d9-32f7-47b2-b5ff-3667ec5eb226",
+    "class":"anno"
+  },
+  "name":"Many"
+}

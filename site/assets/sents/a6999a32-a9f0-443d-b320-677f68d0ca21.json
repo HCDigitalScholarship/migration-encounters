@@ -1,0 +1,13 @@
+{
+  "start":35503,
+  "end":35527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were looking at me.",
+  "id":"a6999a32-a9f0-443d-b320-677f68d0ca21",
+  "params":{
+    "id":"a6999a32-a9f0-443d-b320-677f68d0ca21",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

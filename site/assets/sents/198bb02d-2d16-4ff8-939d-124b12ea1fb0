@@ -1,0 +1,12 @@
+{
+  "start":29827,
+  "end":29888,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   not going to do anything wrong, but it's too late now.",
+  "id":"198bb02d-2d16-4ff8-939d-124b12ea1fb0",
+  "params":{
+    "id":"80b81d0b-7d28-4aab-b4ea-6a91ccb3b12d"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7331,
+  "end":7376,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   really causes me to not talk to people.",
+  "id":"f4bc5560-7f3b-4842-85cb-bf0f2f197a08",
+  "params":{
+    "id":"f4bc5560-7f3b-4842-85cb-bf0f2f197a08",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

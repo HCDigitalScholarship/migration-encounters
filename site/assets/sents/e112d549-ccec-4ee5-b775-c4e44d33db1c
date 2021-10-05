@@ -1,0 +1,12 @@
+{
+  "start":23185,
+  "end":23233,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just started cutting the wires like,\n   \"Okay.",
+  "id":"e112d549-ccec-4ee5-b775-c4e44d33db1c",
+  "params":{
+    "id":"d414db37-bb81-4bd1-a661-bede1664db95"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4100,
+  "end":4213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We\n   would make about 600 sandwiches and give them to the people that will come\n   and you know, hear him speak.",
+  "id":"26306cf8-ebee-41b1-b615-af7eaac4f219",
+  "params":{
+    "id":"26306cf8-ebee-41b1-b615-af7eaac4f219",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":9771,
+  "end":9795,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They told him,\n   \"Hey.\"",
+  "id":"b71b7b0a-b0c0-4199-82ea-a8fd3e636afe",
+  "params":{
+    "id":"9089df6c-4c7b-43f9-bcaf-486fda8c834a"
+  },
+  "name":"Carlos"
+}

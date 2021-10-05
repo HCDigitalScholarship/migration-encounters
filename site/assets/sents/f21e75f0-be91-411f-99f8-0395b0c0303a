@@ -1,0 +1,12 @@
+{
+  "start":46267,
+  "end":46279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't do it.",
+  "id":"f21e75f0-be91-411f-99f8-0395b0c0303a",
+  "params":{
+    "id":"a795c33e-7b8e-457f-9414-461a32eeb7eb"
+  },
+  "name":"Mike"
+}

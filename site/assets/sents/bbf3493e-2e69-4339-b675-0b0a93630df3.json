@@ -1,0 +1,13 @@
+{
+  "start":25311,
+  "end":25388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll come back and visit every now and then, but\n I'm a city person [Laughs].",
+  "id":"bbf3493e-2e69-4339-b675-0b0a93630df3",
+  "params":{
+    "id":"bbf3493e-2e69-4339-b675-0b0a93630df3",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

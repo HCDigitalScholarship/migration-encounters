@@ -1,0 +1,12 @@
+{
+  "start":365,
+  "end":375,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Thank you.",
+  "id":"3741aaef-f45d-4a15-8023-2b252c026b2d",
+  "params":{
+    "id":"fbebb9fa-8ff3-4274-b784-79be747ddd52"
+  },
+  "name":"Yair"
+}

@@ -1,0 +1,13 @@
+{
+  "start":32346,
+  "end":32421,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was because of that same reason that she did not let me leave\n the room.",
+  "id":"d1fd57c0-eeef-4624-a60c-e8f14808d8a2",
+  "params":{
+    "id":"d1fd57c0-eeef-4624-a60c-e8f14808d8a2",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":51152,
+  "end":51215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My younger brothers are not from there, but my two sisters are.",
+  "id":"e024c75e-5b0e-4dc0-85f0-168d9231a767",
+  "params":{
+    "id":"e024c75e-5b0e-4dc0-85f0-168d9231a767",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

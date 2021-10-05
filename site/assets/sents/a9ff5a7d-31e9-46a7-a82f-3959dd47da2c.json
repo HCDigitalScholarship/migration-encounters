@@ -1,0 +1,13 @@
+{
+  "start":63030,
+  "end":63043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know.",
+  "id":"a9ff5a7d-31e9-46a7-a82f-3959dd47da2c",
+  "params":{
+    "id":"a9ff5a7d-31e9-46a7-a82f-3959dd47da2c",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

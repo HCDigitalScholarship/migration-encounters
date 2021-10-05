@@ -1,0 +1,13 @@
+{
+  "start":2434,
+  "end":2468,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was 13 I liked money a lot.",
+  "id":"4dd4854f-7ab2-4e71-8f43-9226e663a3d6",
+  "params":{
+    "id":"4dd4854f-7ab2-4e71-8f43-9226e663a3d6",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25311,
+  "end":25323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're good.",
+  "id":"2b7fd240-7b52-4aef-abd7-ab0b423c0758",
+  "params":{
+    "id":"2b7fd240-7b52-4aef-abd7-ab0b423c0758",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

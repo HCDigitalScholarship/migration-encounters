@@ -1,0 +1,12 @@
+{
+  "start":15412,
+  "end":15448,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're going to jump that\n border.\u201d",
+  "id":"673e253e-4280-4629-b1c8-1306669a96c7",
+  "params":{
+    "id":"6f3481d8-be62-45aa-9a03-6bf29b56fe4d"
+  },
+  "name":"Ben"
+}

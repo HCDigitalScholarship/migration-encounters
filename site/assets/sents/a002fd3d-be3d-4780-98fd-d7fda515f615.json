@@ -1,0 +1,13 @@
+{
+  "start":3312,
+  "end":3406,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've been to a\n     MasterCard, Kohls, I've even sold packages for cable TV, all those things.",
+  "id":"a002fd3d-be3d-4780-98fd-d7fda515f615",
+  "params":{
+    "id":"a002fd3d-be3d-4780-98fd-d7fda515f615",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

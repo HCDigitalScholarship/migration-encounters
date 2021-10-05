@@ -1,0 +1,13 @@
+{
+  "start":27096,
+  "end":27144,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew they weren't going to take me\n   to jail.",
+  "id":"e5990bf5-fc5c-4e5d-8f46-7988a0c48be9",
+  "params":{
+    "id":"e5990bf5-fc5c-4e5d-8f46-7988a0c48be9",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

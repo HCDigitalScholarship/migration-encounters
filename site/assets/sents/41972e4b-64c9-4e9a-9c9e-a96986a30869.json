@@ -1,0 +1,13 @@
+{
+  "start":35627,
+  "end":35638,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He left me.",
+  "id":"41972e4b-64c9-4e9a-9c9e-a96986a30869",
+  "params":{
+    "id":"41972e4b-64c9-4e9a-9c9e-a96986a30869",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

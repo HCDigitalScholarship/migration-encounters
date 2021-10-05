@@ -1,0 +1,13 @@
+{
+  "start":10834,
+  "end":10874,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And last year I broke a bone in my back.",
+  "id":"fbbb00db-908d-42c2-9dc0-c9fc0df779c6",
+  "params":{
+    "id":"fbbb00db-908d-42c2-9dc0-c9fc0df779c6",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

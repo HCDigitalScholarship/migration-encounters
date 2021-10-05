@@ -1,0 +1,13 @@
+{
+  "start":1444,
+  "end":1471,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, he doesn't have papers.",
+  "id":"548d4cc5-1b1a-46ae-9fa4-5bf38c140e22",
+  "params":{
+    "id":"548d4cc5-1b1a-46ae-9fa4-5bf38c140e22",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

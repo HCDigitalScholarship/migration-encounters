@@ -1,0 +1,13 @@
+{
+  "start":21437,
+  "end":21478,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We always\n   had dress shoes with shorts.",
+  "id":"940eee7e-4afd-49c4-ba24-ec9e3f0a7233",
+  "params":{
+    "id":"940eee7e-4afd-49c4-ba24-ec9e3f0a7233",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

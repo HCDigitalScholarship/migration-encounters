@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":28050,
+  "end":28056,
+  "text":" Yes.\n \n \n   Anita: Bureaucratic difficulties?\n \n \n   Melani: Yes, so many.\n \n \n   Anita: Have you been depressed?\n \n \n   Melani: Recently, yes.\n \n \n   Anita: Any substance abuse or addiction?\n \n \n   Melani: No.\n \n \n   Anita: So you still have family living in the US, your parents. Anybody\n   else?\n \n \n   Melani: No, I consider them my only family.\n \n \n   Anita: Are they US citizens?\n \n \n   Melani: No.\n",
+  "label":"PERSON",
+  "id":"31aadfe2-7384-4b8a-a00b-ff8f36b0abe9",
+  "name":"Melani"
+}

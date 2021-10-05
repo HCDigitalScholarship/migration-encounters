@@ -1,0 +1,12 @@
+{
+  "start":18000,
+  "end":18016,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's so awful.",
+  "id":"0b6b7419-d4b1-445f-b8e9-f874ff1eb98f",
+  "params":{
+    "id":"87bad630-47b1-4bee-9ebb-aaf87a0c9d25"
+  },
+  "name":"Frank"
+}

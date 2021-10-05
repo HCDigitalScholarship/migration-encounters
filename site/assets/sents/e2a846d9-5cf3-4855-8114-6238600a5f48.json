@@ -1,0 +1,13 @@
+{
+  "start":100,
+  "end":128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And, when did you come back?",
+  "id":"e2a846d9-5cf3-4855-8114-6238600a5f48",
+  "params":{
+    "id":"e2a846d9-5cf3-4855-8114-6238600a5f48",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

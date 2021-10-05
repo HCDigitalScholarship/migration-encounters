@@ -1,0 +1,13 @@
+{
+  "start":11201,
+  "end":11215,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's it.",
+  "id":"b08168db-8815-44c4-ab29-00dbf498c10a",
+  "params":{
+    "id":"b08168db-8815-44c4-ab29-00dbf498c10a",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

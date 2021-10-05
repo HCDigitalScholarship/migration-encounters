@@ -1,0 +1,12 @@
+{
+  "start":18792,
+  "end":18840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anything\n   you want us to understand about you?",
+  "id":"6427223a-4272-4d3d-a6d1-adc249b93f5e",
+  "params":{
+    "id":"78d0a7ff-e599-42b7-b199-0c77d927b924"
+  },
+  "name":"Frank"
+}

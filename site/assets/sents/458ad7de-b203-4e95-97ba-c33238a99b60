@@ -1,0 +1,12 @@
+{
+  "start":12396,
+  "end":12470,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You asked me about what happens to the\n     new immigrants that come here.",
+  "id":"458ad7de-b203-4e95-97ba-c33238a99b60",
+  "params":{
+    "id":"2fff678c-f008-4053-a2c2-f669f1537f0d"
+  },
+  "name":"Beto"
+}

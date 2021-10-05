@@ -1,0 +1,13 @@
+{
+  "start":38326,
+  "end":38342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\u2019s about race.",
+  "id":"3497b02f-e5b5-4b14-b1ee-9f3158f147a6",
+  "params":{
+    "id":"3497b02f-e5b5-4b14-b1ee-9f3158f147a6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

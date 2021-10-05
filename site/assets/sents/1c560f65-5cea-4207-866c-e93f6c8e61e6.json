@@ -1,0 +1,13 @@
+{
+  "start":2338,
+  "end":2344,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Rocio:",
+  "id":"1c560f65-5cea-4207-866c-e93f6c8e61e6",
+  "params":{
+    "id":"1c560f65-5cea-4207-866c-e93f6c8e61e6",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

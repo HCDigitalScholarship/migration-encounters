@@ -1,0 +1,12 @@
+{
+  "start":8066,
+  "end":8123,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Julian is nineteen, Julia is seventeen, and\n   that's it.",
+  "id":"0b4e045e-9619-4a55-bf93-c545556376fb",
+  "params":{
+    "id":"7e3951e2-1a15-4067-a54f-e3bff69a3eb9"
+  },
+  "name":"Julio Cesar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2049,
+  "end":2132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When we first got there, we lived in California for about a year,\n year-and-a-half.",
+  "id":"f4d19eb9-ebf5-4f56-affc-04799c00dfd5",
+  "params":{
+    "id":"f4d19eb9-ebf5-4f56-affc-04799c00dfd5",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

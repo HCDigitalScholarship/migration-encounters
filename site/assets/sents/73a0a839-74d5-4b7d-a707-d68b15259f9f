@@ -1,0 +1,12 @@
+{
+  "start":30740,
+  "end":30756,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We live in fear.",
+  "id":"73a0a839-74d5-4b7d-a707-d68b15259f9f",
+  "params":{
+    "id":"90934bf3-4611-475d-a7dd-eec0366c169d"
+  },
+  "name":"Joana"
+}

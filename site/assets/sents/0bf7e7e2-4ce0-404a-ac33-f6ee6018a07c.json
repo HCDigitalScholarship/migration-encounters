@@ -1,0 +1,13 @@
+{
+  "start":14541,
+  "end":14564,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, she came anyways.",
+  "id":"0bf7e7e2-4ce0-404a-ac33-f6ee6018a07c",
+  "params":{
+    "id":"0bf7e7e2-4ce0-404a-ac33-f6ee6018a07c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

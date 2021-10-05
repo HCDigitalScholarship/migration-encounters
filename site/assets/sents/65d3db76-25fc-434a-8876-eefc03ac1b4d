@@ -1,0 +1,12 @@
+{
+  "start":29158,
+  "end":29176,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a good son.",
+  "id":"65d3db76-25fc-434a-8876-eefc03ac1b4d",
+  "params":{
+    "id":"01a34e4a-b74a-4998-9774-aecf2a9a0168"
+  },
+  "name":"Hugo"
+}

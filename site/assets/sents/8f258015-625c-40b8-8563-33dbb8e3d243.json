@@ -1,0 +1,13 @@
+{
+  "start":8119,
+  "end":8203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pero dec\u00eda, \u201c\u00bfC\u00f3mo voy a ayudar\n     si no puedo trabajar porque no tengo papeles?\u201d.",
+  "id":"8f258015-625c-40b8-8563-33dbb8e3d243",
+  "params":{
+    "id":"8f258015-625c-40b8-8563-33dbb8e3d243",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

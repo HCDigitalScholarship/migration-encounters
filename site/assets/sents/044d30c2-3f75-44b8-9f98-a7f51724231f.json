@@ -1,0 +1,15 @@
+{
+  "start":8126,
+  "end":8203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"For example, as we know, most of the famous engineers, they\n   were Mexicans.",
+  "id":"044d30c2-3f75-44b8-9f98-a7f51724231f",
+  "params":{
+    "id":"044d30c2-3f75-44b8-9f98-a7f51724231f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

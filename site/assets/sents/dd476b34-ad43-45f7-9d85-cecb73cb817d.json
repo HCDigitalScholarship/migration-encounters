@@ -1,0 +1,13 @@
+{
+  "start":32445,
+  "end":32462,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n     \u00bfQue tiene?",
+  "id":"dd476b34-ad43-45f7-9d85-cecb73cb817d",
+  "params":{
+    "id":"dd476b34-ad43-45f7-9d85-cecb73cb817d",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

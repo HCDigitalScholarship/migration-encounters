@@ -1,0 +1,13 @@
+{
+  "start":13393,
+  "end":13418,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You know what I'm saying?",
+  "id":"5a9b7514-314d-44d1-b532-10e490d2901a",
+  "params":{
+    "id":"5a9b7514-314d-44d1-b532-10e490d2901a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

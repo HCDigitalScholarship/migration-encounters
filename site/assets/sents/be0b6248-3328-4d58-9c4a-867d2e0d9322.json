@@ -1,0 +1,13 @@
+{
+  "start":12540,
+  "end":12565,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I used\n   to dress weird.",
+  "id":"be0b6248-3328-4d58-9c4a-867d2e0d9322",
+  "params":{
+    "id":"be0b6248-3328-4d58-9c4a-867d2e0d9322",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

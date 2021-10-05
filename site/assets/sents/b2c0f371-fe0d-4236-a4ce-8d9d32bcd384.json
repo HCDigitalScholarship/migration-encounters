@@ -1,0 +1,13 @@
+{
+  "start":52118,
+  "end":52157,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   have to be here for a little bit.\"",
+  "id":"b2c0f371-fe0d-4236-a4ce-8d9d32bcd384",
+  "params":{
+    "id":"b2c0f371-fe0d-4236-a4ce-8d9d32bcd384",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

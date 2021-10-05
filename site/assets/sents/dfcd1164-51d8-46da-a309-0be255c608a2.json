@@ -1,0 +1,12 @@
+{
+  "start":100,
+  "end":120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where were you born?",
+  "id":"dfcd1164-51d8-46da-a309-0be255c608a2",
+  "params":{
+    "id":"758117fa-b44e-4cd0-b520-da881627dfd8"
+  },
+  "name":"Melani"
+}

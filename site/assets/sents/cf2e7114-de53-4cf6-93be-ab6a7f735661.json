@@ -1,0 +1,13 @@
+{
+  "start":295,
+  "end":393,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Bueno, mi primera pregunta ser\u00eda \u00bfPor qu\u00e9\n     usted tom\u00f3 la decisi\u00f3n de emigrar a Estados Unidos?",
+  "id":"cf2e7114-de53-4cf6-93be-ab6a7f735661",
+  "params":{
+    "id":"cf2e7114-de53-4cf6-93be-ab6a7f735661",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

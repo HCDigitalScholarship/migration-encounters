@@ -1,0 +1,13 @@
+{
+  "start":5985,
+  "end":6008,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was the food like?",
+  "id":"91c2ef56-b791-462f-abf3-cfe79374476a",
+  "params":{
+    "id":"91c2ef56-b791-462f-abf3-cfe79374476a",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

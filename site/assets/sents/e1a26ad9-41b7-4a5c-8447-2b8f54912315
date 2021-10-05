@@ -1,0 +1,12 @@
+{
+  "start":1342,
+  "end":1372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo\n     dije, \u201cS\u00ed, s\u00ed me voy\u201d.",
+  "id":"e1a26ad9-41b7-4a5c-8447-2b8f54912315",
+  "params":{
+    "id":"d30d62ce-ba1a-473f-a03b-e88e61311aa6"
+  },
+  "name":"Maria"
+}

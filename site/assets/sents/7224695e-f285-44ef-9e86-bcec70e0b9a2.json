@@ -1,0 +1,13 @@
+{
+  "start":2456,
+  "end":2558,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n     I'm pretty sure the call centers are doing their best to help us out, but I\n     don't know.",
+  "id":"7224695e-f285-44ef-9e86-bcec70e0b9a2",
+  "params":{
+    "id":"7224695e-f285-44ef-9e86-bcec70e0b9a2",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

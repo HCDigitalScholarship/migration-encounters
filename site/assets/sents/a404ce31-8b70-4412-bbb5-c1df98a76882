@@ -1,0 +1,12 @@
+{
+  "start":23689,
+  "end":23739,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n      \n      \n Billy: Yeah, he broke up with her.",
+  "id":"a404ce31-8b70-4412-bbb5-c1df98a76882",
+  "params":{
+    "id":"7e3ab182-f6c5-45a1-9cdb-d3bd834031d9"
+  },
+  "name":"Billy"
+}

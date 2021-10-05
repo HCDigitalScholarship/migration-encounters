@@ -1,0 +1,12 @@
+{
+  "start":32105,
+  "end":32124,
+  "label":"SENT",
+  "type":"sent",
+  "text":", es mejor hablarlo",
+  "id":"7cbcfc75-f1cb-4485-ac5b-ac771f16ec34",
+  "params":{
+    "id":"62ff2ac3-434e-4237-9e8c-2dbb41c4e33c"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":36043,
+  "end":36118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You always think\n   about your worst-case scenario, if you're ready for it.",
+  "id":"86c33a83-1132-4f40-aac0-4cbb2f4f622c",
+  "params":{
+    "id":"86c33a83-1132-4f40-aac0-4cbb2f4f622c",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

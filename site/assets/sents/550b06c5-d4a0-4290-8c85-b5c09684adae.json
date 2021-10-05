@@ -1,0 +1,13 @@
+{
+  "start":3340,
+  "end":3352,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   know?",
+  "id":"550b06c5-d4a0-4290-8c85-b5c09684adae",
+  "params":{
+    "id":"550b06c5-d4a0-4290-8c85-b5c09684adae",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

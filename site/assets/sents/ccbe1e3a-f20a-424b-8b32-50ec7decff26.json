@@ -1,0 +1,13 @@
+{
+  "start":49977,
+  "end":50073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When that happens, I want to be\n   able to go legally, and I want to go to work, do some things.",
+  "id":"ccbe1e3a-f20a-424b-8b32-50ec7decff26",
+  "params":{
+    "id":"ccbe1e3a-f20a-424b-8b32-50ec7decff26",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

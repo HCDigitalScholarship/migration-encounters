@@ -1,0 +1,12 @@
+{
+  "start":35234,
+  "end":35286,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would like to do\n   that, I see myself doing that.",
+  "id":"8160c0e8-81d9-4608-9e15-3e602ae02450",
+  "params":{
+    "id":"a4616e47-abb5-47b5-abc6-9563325fc29b"
+  },
+  "name":"Julio Cesar"
+}

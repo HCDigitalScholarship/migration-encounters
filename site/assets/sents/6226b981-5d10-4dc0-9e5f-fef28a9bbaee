@@ -1,0 +1,12 @@
+{
+  "start":6422,
+  "end":6455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I just went ahead and got up.",
+  "id":"6226b981-5d10-4dc0-9e5f-fef28a9bbaee",
+  "params":{
+    "id":"7af5a036-8a09-40a5-a97c-6956b96f98bc"
+  },
+  "name":"Kevin"
+}

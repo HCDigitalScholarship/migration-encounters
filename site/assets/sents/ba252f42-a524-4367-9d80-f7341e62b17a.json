@@ -1,0 +1,13 @@
+{
+  "start":38256,
+  "end":38315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just, \"I'm from LA\", and it's good to be\n   like that.",
+  "id":"ba252f42-a524-4367-9d80-f7341e62b17a",
+  "params":{
+    "id":"ba252f42-a524-4367-9d80-f7341e62b17a",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

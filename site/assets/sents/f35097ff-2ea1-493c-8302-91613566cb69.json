@@ -1,0 +1,13 @@
+{
+  "start":69054,
+  "end":69081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You eat this with ketchup.\"",
+  "id":"f35097ff-2ea1-493c-8302-91613566cb69",
+  "params":{
+    "id":"f35097ff-2ea1-493c-8302-91613566cb69",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

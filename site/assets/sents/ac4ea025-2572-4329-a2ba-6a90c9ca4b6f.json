@@ -1,0 +1,13 @@
+{
+  "start":12795,
+  "end":12833,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"Are you clean today\n too?\"",
+  "id":"ac4ea025-2572-4329-a2ba-6a90c9ca4b6f",
+  "params":{
+    "id":"ac4ea025-2572-4329-a2ba-6a90c9ca4b6f",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

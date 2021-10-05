@@ -1,0 +1,13 @@
+{
+  "start":39831,
+  "end":39886,
+  "label":"SENT",
+  "type":"sent",
+  "text":"First of all, I never expect that\n   phone call at all.",
+  "id":"e3c68b97-78ff-473b-9104-fe67b38a0ed6",
+  "params":{
+    "id":"e3c68b97-78ff-473b-9104-fe67b38a0ed6",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

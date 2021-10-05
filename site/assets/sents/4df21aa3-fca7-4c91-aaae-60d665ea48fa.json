@@ -1,0 +1,13 @@
+{
+  "start":24881,
+  "end":24907,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wanted to go to college.",
+  "id":"4df21aa3-fca7-4c91-aaae-60d665ea48fa",
+  "params":{
+    "id":"4df21aa3-fca7-4c91-aaae-60d665ea48fa",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

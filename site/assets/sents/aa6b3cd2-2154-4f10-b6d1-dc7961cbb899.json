@@ -1,0 +1,13 @@
+{
+  "start":12,
+  "end":33,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So my name is Sergio.",
+  "id":"aa6b3cd2-2154-4f10-b6d1-dc7961cbb899",
+  "params":{
+    "id":"aa6b3cd2-2154-4f10-b6d1-dc7961cbb899",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

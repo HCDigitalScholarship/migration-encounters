@@ -1,0 +1,13 @@
+{
+  "start":23050,
+  "end":23149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I came out, I just went to go see\n   him at the cemetery, but it's sad to lose somebody close.",
+  "id":"fc6573f3-942b-4a3f-9f92-a7fbe6cdcb4b",
+  "params":{
+    "id":"fc6573f3-942b-4a3f-9f92-a7fbe6cdcb4b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

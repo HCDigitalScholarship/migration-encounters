@@ -1,0 +1,12 @@
+{
+  "start":12548,
+  "end":12566,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have my license.",
+  "id":"cdad8c8c-b05d-413b-962c-dd9bb14d74ee",
+  "params":{
+    "id":"86f33eaf-b72d-4741-b157-4c71165daab9"
+  },
+  "name":"Hugo"
+}

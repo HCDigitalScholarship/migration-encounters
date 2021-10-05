@@ -1,0 +1,13 @@
+{
+  "start":7512,
+  "end":7583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Donovan: Because I have a lot of beards, so I'm not indigenous.",
+  "id":"2e175ad0-1bff-416e-9b0a-736d87df2d55",
+  "params":{
+    "id":"2e175ad0-1bff-416e-9b0a-736d87df2d55",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

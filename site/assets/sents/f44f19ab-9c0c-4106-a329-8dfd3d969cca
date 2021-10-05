@@ -1,0 +1,12 @@
+{
+  "start":3060,
+  "end":3088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   So I had a step-brother.",
+  "id":"f44f19ab-9c0c-4106-a329-8dfd3d969cca",
+  "params":{
+    "id":"62478988-46f3-417a-9a58-63d98fe34eff"
+  },
+  "name":"Edgar"
+}

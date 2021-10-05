@@ -1,0 +1,13 @@
+{
+  "start":3820,
+  "end":3876,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But my\n   pa didn't like me hanging out with those kids.",
+  "id":"57438cf9-d39f-4c04-acc1-d4c67d24739e",
+  "params":{
+    "id":"57438cf9-d39f-4c04-acc1-d4c67d24739e",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

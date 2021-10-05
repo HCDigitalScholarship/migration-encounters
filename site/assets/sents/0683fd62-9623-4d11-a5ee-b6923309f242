@@ -1,0 +1,12 @@
+{
+  "start":5432,
+  "end":5441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh I see.",
+  "id":"0683fd62-9623-4d11-a5ee-b6923309f242",
+  "params":{
+    "id":"1f05e40d-2b86-46f8-ac46-c7876f2c3752"
+  },
+  "name":"Ana"
+}

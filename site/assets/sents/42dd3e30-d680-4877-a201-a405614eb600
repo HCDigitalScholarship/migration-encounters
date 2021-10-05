@@ -1,0 +1,12 @@
+{
+  "start":36687,
+  "end":36720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I work from Monday to Friday.",
+  "id":"42dd3e30-d680-4877-a201-a405614eb600",
+  "params":{
+    "id":"80eaa107-47d5-413d-8eb3-7c0431e621db"
+  },
+  "name":"Rodrigo"
+}

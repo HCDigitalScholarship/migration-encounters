@@ -1,0 +1,13 @@
+{
+  "start":35294,
+  "end":35360,
+  "label":"SENT",
+  "type":"sent",
+  "text":", how do you\n   guarantee she was going to get to the house safe?\"",
+  "id":"470bc182-4b42-4058-89da-fc480bbf21e9",
+  "params":{
+    "id":"470bc182-4b42-4058-89da-fc480bbf21e9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

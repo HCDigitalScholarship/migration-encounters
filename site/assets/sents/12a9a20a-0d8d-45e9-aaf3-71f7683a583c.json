@@ -1,0 +1,13 @@
+{
+  "start":9946,
+  "end":9976,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   But that was boring to us.",
+  "id":"12a9a20a-0d8d-45e9-aaf3-71f7683a583c",
+  "params":{
+    "id":"12a9a20a-0d8d-45e9-aaf3-71f7683a583c",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

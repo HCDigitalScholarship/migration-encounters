@@ -1,0 +1,13 @@
+{
+  "start":35581,
+  "end":35671,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   When we walk in the street to go to that event, we would see beggars in the\n   street.",
+  "id":"93fe1de4-c43a-4503-a9cb-b4ca2e3d76ae",
+  "params":{
+    "id":"93fe1de4-c43a-4503-a9cb-b4ca2e3d76ae",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

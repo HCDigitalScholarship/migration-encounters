@@ -1,0 +1,13 @@
+{
+  "start":39563,
+  "end":39606,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'll be like,\n \"Hey, can I get a Gatorade?\"",
+  "id":"d61e1248-4181-469a-8e28-b7771c90fcb2",
+  "params":{
+    "id":"d61e1248-4181-469a-8e28-b7771c90fcb2",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

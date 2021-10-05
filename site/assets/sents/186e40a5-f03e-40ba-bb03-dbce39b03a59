@@ -1,0 +1,12 @@
+{
+  "start":1825,
+  "end":1855,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could you tell me a bit about\u2026",
+  "id":"186e40a5-f03e-40ba-bb03-dbce39b03a59",
+  "params":{
+    "id":"301a5540-cc55-43db-97e1-1dece36e9fe8"
+  },
+  "name":"Kevin"
+}

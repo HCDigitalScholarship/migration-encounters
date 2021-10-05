@@ -1,0 +1,12 @@
+{
+  "start":10786,
+  "end":10852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went to some\n   dude to take a picture of me and make me an ID.",
+  "id":"8691c6b7-6d25-477c-bca1-dd8ba1a76fe0",
+  "params":{
+    "id":"15bd153f-3bfc-4ee3-8e24-e7bcf8623998"
+  },
+  "name":"Luis A"
+}

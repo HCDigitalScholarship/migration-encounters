@@ -1,0 +1,13 @@
+{
+  "start":11358,
+  "end":11512,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since my sister's a citizen and she doesn't have any immigration\n   status, they're going to try to help her get some type of work permit or\n   something.",
+  "id":"f4dba9ab-417d-4b2f-9057-2ae0751a32b8",
+  "params":{
+    "id":"f4dba9ab-417d-4b2f-9057-2ae0751a32b8",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

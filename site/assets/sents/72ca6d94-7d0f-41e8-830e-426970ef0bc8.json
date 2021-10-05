@@ -1,0 +1,13 @@
+{
+  "start":18528,
+  "end":18553,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Jose: Everything.",
+  "id":"72ca6d94-7d0f-41e8-830e-426970ef0bc8",
+  "params":{
+    "id":"72ca6d94-7d0f-41e8-830e-426970ef0bc8",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

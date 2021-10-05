@@ -1,0 +1,13 @@
+{
+  "start":30013,
+  "end":30072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Rodolfo: They're gonna want to see what's going on.",
+  "id":"6b874bb6-ecfc-4eda-8bf1-784ca12a08ce",
+  "params":{
+    "id":"6b874bb6-ecfc-4eda-8bf1-784ca12a08ce",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

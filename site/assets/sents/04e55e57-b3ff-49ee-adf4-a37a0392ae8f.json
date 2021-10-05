@@ -1,0 +1,13 @@
+{
+  "start":30523,
+  "end":30687,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Of course, I\n   grew up watching TV, I've seen all the Budweiser commercials and all the\n   American flags flying and halftime at the Super Bowl and all of that\n   ",
+  "id":"04e55e57-b3ff-49ee-adf4-a37a0392ae8f",
+  "params":{
+    "id":"04e55e57-b3ff-49ee-adf4-a37a0392ae8f",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

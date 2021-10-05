@@ -1,0 +1,12 @@
+{
+  "start":15525,
+  "end":15583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I worked at Subway,\n   I worked at Chili's, I worked at...",
+  "id":"1f9ff56e-6341-498f-91c9-eef60deb9b50",
+  "params":{
+    "id":"b01a0854-0e0f-4428-a0b4-2ba88d3c2725"
+  },
+  "name":"Rodolfo"
+}

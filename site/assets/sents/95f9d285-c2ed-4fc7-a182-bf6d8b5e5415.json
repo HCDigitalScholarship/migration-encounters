@@ -1,0 +1,13 @@
+{
+  "start":12470,
+  "end":12571,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was nineteen with a first-degree charge\n   and it all went along, my parents, they got me a lawyer.",
+  "id":"95f9d285-c2ed-4fc7-a182-bf6d8b5e5415",
+  "params":{
+    "id":"95f9d285-c2ed-4fc7-a182-bf6d8b5e5415",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

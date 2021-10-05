@@ -1,0 +1,13 @@
+{
+  "start":1950,
+  "end":1999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We took off,\n   I got a tourist visa and we left.",
+  "id":"d3dc64c3-9a28-4115-b2e4-979fe23f51ea",
+  "params":{
+    "id":"d3dc64c3-9a28-4115-b2e4-979fe23f51ea",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

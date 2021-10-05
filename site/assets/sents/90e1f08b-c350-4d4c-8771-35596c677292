@@ -1,0 +1,12 @@
+{
+  "start":20537,
+  "end":20583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember Gerald\n   Ford always told me that.",
+  "id":"90e1f08b-c350-4d4c-8771-35596c677292",
+  "params":{
+    "id":"6ca28f41-49fa-4b49-9f39-119c20c8c4f7"
+  },
+  "name":"Rodolfo"
+}

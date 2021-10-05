@@ -1,0 +1,13 @@
+{
+  "start":16669,
+  "end":16695,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've seen a lot of fights.",
+  "id":"fc29c784-3ff9-4e4e-8aa9-fc1d4fc6b6fb",
+  "params":{
+    "id":"fc29c784-3ff9-4e4e-8aa9-fc1d4fc6b6fb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

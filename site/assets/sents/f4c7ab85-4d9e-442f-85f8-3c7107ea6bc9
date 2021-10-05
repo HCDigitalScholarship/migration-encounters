@@ -1,0 +1,12 @@
+{
+  "start":5835,
+  "end":5900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After\n   that I remember just waking up in the apartment complex.",
+  "id":"f4c7ab85-4d9e-442f-85f8-3c7107ea6bc9",
+  "params":{
+    "id":"cc017c45-7903-4ff0-8670-fc0db50db6e2"
+  },
+  "name":"Rodolfo"
+}

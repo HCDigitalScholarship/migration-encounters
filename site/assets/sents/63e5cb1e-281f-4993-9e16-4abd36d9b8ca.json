@@ -1,0 +1,13 @@
+{
+  "start":36079,
+  "end":36149,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You've got the gold teeth, you got the\n   little walk, you're a cholo.",
+  "id":"63e5cb1e-281f-4993-9e16-4abd36d9b8ca",
+  "params":{
+    "id":"63e5cb1e-281f-4993-9e16-4abd36d9b8ca",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

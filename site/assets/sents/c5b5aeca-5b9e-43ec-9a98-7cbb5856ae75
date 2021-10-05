@@ -1,0 +1,12 @@
+{
+  "start":11,
+  "end":59,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So how old were you when you went to the states?",
+  "id":"c5b5aeca-5b9e-43ec-9a98-7cbb5856ae75",
+  "params":{
+    "id":"47036fb3-e1e1-40df-bb35-898fb1f667ad"
+  },
+  "name":"Rodrigo"
+}

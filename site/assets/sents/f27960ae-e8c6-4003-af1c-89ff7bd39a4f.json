@@ -1,0 +1,13 @@
+{
+  "start":28736,
+  "end":28801,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n houses have cages and so I would be behind this cage all day",
+  "id":"f27960ae-e8c6-4003-af1c-89ff7bd39a4f",
+  "params":{
+    "id":"f27960ae-e8c6-4003-af1c-89ff7bd39a4f",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

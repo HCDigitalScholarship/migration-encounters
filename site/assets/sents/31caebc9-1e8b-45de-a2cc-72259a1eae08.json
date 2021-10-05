@@ -1,0 +1,13 @@
+{
+  "start":8186,
+  "end":8232,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My first two years, I just don't want to live.",
+  "id":"31caebc9-1e8b-45de-a2cc-72259a1eae08",
+  "params":{
+    "id":"31caebc9-1e8b-45de-a2cc-72259a1eae08",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

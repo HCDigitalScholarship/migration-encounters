@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":221,
+  "end":237,
+  "text":"e you Miguel?\n \n <br/>\n \n   Miguel: I'm 30. 30 years old. Just turned 30.\n \n <br/>\n \n   Anita: You were born in Mexico.\n \n <br/>\n \n   Miguel: Mexico, yes. We're Mexican [laughs].\n \n <br/>\n \n   Anita: Ciudad de Mexico?\n \n <br/>\n \n   Miguel: Ciudad de Mexico. I had a teacher in University that used to say,\n   \"Miguel.\u201d It's like, \"No it's Miguel.\" She was Chicana. And she was like,\n   \"No, Miguel.\" She was really i",
+  "label":"GPE",
+  "id":"c6d36e6e-7060-4f51-a2ee-bfaaba6f7335",
+  "name":"Miguel A"
+}

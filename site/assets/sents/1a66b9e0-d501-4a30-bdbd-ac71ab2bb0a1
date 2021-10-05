@@ -1,0 +1,12 @@
+{
+  "start":18560,
+  "end":18650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not sure what kind of lawyer he was, but he hated defending\n   people who were guilty.",
+  "id":"1a66b9e0-d501-4a30-bdbd-ac71ab2bb0a1",
+  "params":{
+    "id":"69cc3048-3553-4e24-932c-000e5aeecf9c"
+  },
+  "name":"Luisa"
+}

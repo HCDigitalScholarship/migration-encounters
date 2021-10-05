@@ -1,0 +1,13 @@
+{
+  "start":16855,
+  "end":16887,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We want\n     to go Olive Garden.",
+  "id":"4f9fb682-4def-42d4-b15b-2c1c3eae70f0",
+  "params":{
+    "id":"4f9fb682-4def-42d4-b15b-2c1c3eae70f0",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

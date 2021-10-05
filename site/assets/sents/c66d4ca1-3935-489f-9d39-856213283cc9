@@ -1,0 +1,12 @@
+{
+  "start":10,
+  "end":57,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Okay, this is Anne, and I am interviewing Yair?",
+  "id":"c66d4ca1-3935-489f-9d39-856213283cc9",
+  "params":{
+    "id":"464002ab-4e64-40e9-a376-07371ab7b0a2"
+  },
+  "name":"Yair"
+}

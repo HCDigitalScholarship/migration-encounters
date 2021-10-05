@@ -1,0 +1,13 @@
+{
+  "start":56175,
+  "end":56240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I was a little kid, I could hold it for a minute and a half.",
+  "id":"88e5a044-0073-4bf1-8ede-7a7bbf193b11",
+  "params":{
+    "id":"88e5a044-0073-4bf1-8ede-7a7bbf193b11",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

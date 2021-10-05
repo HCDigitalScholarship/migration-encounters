@@ -1,0 +1,12 @@
+{
+  "start":11082,
+  "end":11175,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Le dijo, \u201cT\u00fa b\u00e1jate aqu\u00ed, y\n     yo me voy a bajar m\u00e1s adelante y a ver qui\u00e9n llega primero\u201d.",
+  "id":"4523d349-794d-482c-9f73-4b5515c3018c",
+  "params":{
+    "id":"9cd08603-ec54-44c7-9a69-e323b9a768b2"
+  },
+  "name":"Maria"
+}

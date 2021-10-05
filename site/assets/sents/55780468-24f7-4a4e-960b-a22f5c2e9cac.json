@@ -1,0 +1,13 @@
+{
+  "start":6250,
+  "end":6272,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, they're Americans.",
+  "id":"55780468-24f7-4a4e-960b-a22f5c2e9cac",
+  "params":{
+    "id":"55780468-24f7-4a4e-960b-a22f5c2e9cac",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

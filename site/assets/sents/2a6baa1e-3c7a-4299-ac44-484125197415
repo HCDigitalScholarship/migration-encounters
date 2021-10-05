@@ -1,0 +1,12 @@
+{
+  "start":17290,
+  "end":17310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're a single dad.",
+  "id":"2a6baa1e-3c7a-4299-ac44-484125197415",
+  "params":{
+    "id":"11b3f81a-6a25-413b-b417-cf01cd964ebc"
+  },
+  "name":"Rodrigo"
+}

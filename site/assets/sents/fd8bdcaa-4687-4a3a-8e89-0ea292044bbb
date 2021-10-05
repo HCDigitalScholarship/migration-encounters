@@ -1,0 +1,12 @@
+{
+  "start":3306,
+  "end":3340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"by little, it led to other things.",
+  "id":"fd8bdcaa-4687-4a3a-8e89-0ea292044bbb",
+  "params":{
+    "id":"be07d679-9ae4-4206-8b16-658c39ef802f"
+  },
+  "name":"Abel"
+}

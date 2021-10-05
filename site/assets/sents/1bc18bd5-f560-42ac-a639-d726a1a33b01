@@ -1,0 +1,12 @@
+{
+  "start":46091,
+  "end":46118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Dije, \u201cMe voy con ustedes\u201d.",
+  "id":"1bc18bd5-f560-42ac-a639-d726a1a33b01",
+  "params":{
+    "id":"f031d280-558d-422c-b511-d87eeb768330"
+  },
+  "name":"Maria"
+}

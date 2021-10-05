@@ -1,0 +1,13 @@
+{
+  "start":7986,
+  "end":8004,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love poetry too.",
+  "id":"5a2c98ba-0cf1-4c29-a166-214be34a413a",
+  "params":{
+    "id":"5a2c98ba-0cf1-4c29-a166-214be34a413a",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

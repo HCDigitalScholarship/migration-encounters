@@ -1,0 +1,13 @@
+{
+  "start":12778,
+  "end":12827,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He said, \"We can't afford to pay\n   college here.",
+  "id":"e341ac79-e5bd-4087-b82b-3a133951c5d9",
+  "params":{
+    "id":"e341ac79-e5bd-4087-b82b-3a133951c5d9",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

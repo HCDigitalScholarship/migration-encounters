@@ -1,0 +1,12 @@
+{
+  "start":18317,
+  "end":18390,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said that one of your children, your daughter, had\n   a heart murmur.",
+  "id":"442e25f2-d84c-4778-8a8e-c3d82e5e5740",
+  "params":{
+    "id":"973851f9-7c67-4f50-ab43-c4835f746895"
+  },
+  "name":"Rocio"
+}

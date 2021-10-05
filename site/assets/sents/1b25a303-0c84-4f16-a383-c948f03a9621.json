@@ -1,0 +1,13 @@
+{
+  "start":96,
+  "end":159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like why you went, how old you were, your first\n   impressions?",
+  "id":"1b25a303-0c84-4f16-a383-c948f03a9621",
+  "params":{
+    "id":"1b25a303-0c84-4f16-a383-c948f03a9621",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

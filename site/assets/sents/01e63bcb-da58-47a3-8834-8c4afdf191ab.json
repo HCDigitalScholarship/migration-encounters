@@ -1,0 +1,13 @@
+{
+  "start":5277,
+  "end":5338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, she said that I was her daughter and that she loved me.",
+  "id":"01e63bcb-da58-47a3-8834-8c4afdf191ab",
+  "params":{
+    "id":"01e63bcb-da58-47a3-8834-8c4afdf191ab",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

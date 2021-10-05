@@ -1,0 +1,13 @@
+{
+  "start":38110,
+  "end":38135,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n   here is worse.",
+  "id":"d6843d48-9574-4a63-967a-ad3131f89559",
+  "params":{
+    "id":"d6843d48-9574-4a63-967a-ad3131f89559",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":28483,
+  "end":28514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm sure he loved to hear that.",
+  "id":"9cd54086-8774-46df-bc74-ca12f5d368d2",
+  "params":{
+    "id":"9cd54086-8774-46df-bc74-ca12f5d368d2",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

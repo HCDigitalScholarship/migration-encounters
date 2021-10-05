@@ -1,0 +1,12 @@
+{
+  "start":6805,
+  "end":6865,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When we moved to\n   Chicago, that's when everything changed.",
+  "id":"cb365476-9668-4932-a718-904c5a901273",
+  "params":{
+    "id":"d49c2543-f797-4688-8fdf-19dbc0c8eaa1"
+  },
+  "name":"Rodolfo"
+}

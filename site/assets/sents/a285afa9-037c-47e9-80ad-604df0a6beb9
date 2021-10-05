@@ -1,0 +1,12 @@
+{
+  "start":35269,
+  "end":35342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They dropped her down\n   to second grade because she didn't know Spanish.",
+  "id":"a285afa9-037c-47e9-80ad-604df0a6beb9",
+  "params":{
+    "id":"95b2290c-068e-46f6-b512-a7e1d16f72a6"
+  },
+  "name":"Daniel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":3750,
+  "end":3808,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n So, she would make a lot of food and go sell everywhere.",
+  "id":"ba7f48ca-f55e-4b95-aa4b-1f2a75ae0090",
+  "params":{
+    "id":"e44983bb-b365-4e58-89dc-165fdeee4703"
+  },
+  "name":"Brenda"
+}

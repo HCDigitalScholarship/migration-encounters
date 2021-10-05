@@ -1,0 +1,12 @@
+{
+  "start":4551,
+  "end":4582,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You could not be older than 21?",
+  "id":"c7f097ba-a994-4f77-9891-26029ad8b7ae",
+  "params":{
+    "id":"a53c4116-7cbf-4d42-8bf6-bb9eaac3c7bb"
+  },
+  "name":"Frank"
+}

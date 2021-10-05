@@ -1,0 +1,12 @@
+{
+  "start":74655,
+  "end":74714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Lizzy: Do you want to go there to live or to visit?",
+  "id":"74c5a9b5-5df8-4e61-9ea6-b202a3ea8a5f",
+  "params":{
+    "id":"e5ca6aa5-5dff-4463-bf6d-2efa1d5f9412"
+  },
+  "name":"Cris"
+}

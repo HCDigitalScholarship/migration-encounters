@@ -1,0 +1,13 @@
+{
+  "start":4066,
+  "end":4118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Once I discovered Louis Armstrong, that was just it.",
+  "id":"3e27a1cb-7f35-4bec-9b8e-656103c2bd11",
+  "params":{
+    "id":"3e27a1cb-7f35-4bec-9b8e-656103c2bd11",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

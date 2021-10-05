@@ -1,0 +1,13 @@
+{
+  "start":27813,
+  "end":27897,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At that time in the\n   suburbs, there's not much transportation short of a cab ride.",
+  "id":"b83b1b20-e832-4c88-8704-5651e57ebe5f",
+  "params":{
+    "id":"b83b1b20-e832-4c88-8704-5651e57ebe5f",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19381,
+  "end":19423,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know anything about call centers.",
+  "id":"1cafbde3-85e5-4510-b1b8-cb995980aea7",
+  "params":{
+    "id":"1cafbde3-85e5-4510-b1b8-cb995980aea7",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":37285,
+  "end":37329,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was very\n     unstable in certain jobs.",
+  "id":"d6ba1305-de6a-4752-909d-34e7a69e90e0",
+  "params":{
+    "id":"d6ba1305-de6a-4752-909d-34e7a69e90e0",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31975,
+  "end":32013,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What does your mother\n   do every day?",
+  "id":"2f01ab68-9499-4207-8140-ee09a30d47de",
+  "params":{
+    "id":"2f01ab68-9499-4207-8140-ee09a30d47de",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1277,
+  "end":1310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know how to communicate.",
+  "id":"dce4d99f-18e7-46a4-909f-e8a4639a8c27",
+  "params":{
+    "id":"dce4d99f-18e7-46a4-909f-e8a4639a8c27",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

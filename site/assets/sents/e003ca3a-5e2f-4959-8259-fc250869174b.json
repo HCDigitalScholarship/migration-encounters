@@ -1,0 +1,13 @@
+{
+  "start":17856,
+  "end":17911,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just went to court, paid my fine, and that was\n   it.",
+  "id":"e003ca3a-5e2f-4959-8259-fc250869174b",
+  "params":{
+    "id":"e003ca3a-5e2f-4959-8259-fc250869174b",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

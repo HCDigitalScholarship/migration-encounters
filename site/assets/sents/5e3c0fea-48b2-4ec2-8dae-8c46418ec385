@@ -1,0 +1,12 @@
+{
+  "start":1337,
+  "end":1355,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was in Red Hook.",
+  "id":"5e3c0fea-48b2-4ec2-8dae-8c46418ec385",
+  "params":{
+    "id":"138cb2ef-d9bd-4625-9473-4a754772d556"
+  },
+  "name":"Joseph"
+}

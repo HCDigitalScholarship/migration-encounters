@@ -1,0 +1,12 @@
+{
+  "start":28071,
+  "end":28150,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She's like, \"No, my son is not going to have a cell\n   phone until he's older.\"",
+  "id":"d35c9a00-cec1-4961-adb6-aab5f143033e",
+  "params":{
+    "id":"7b96e317-1002-4cf2-bfe4-efde3547c732"
+  },
+  "name":"Rodrigo"
+}

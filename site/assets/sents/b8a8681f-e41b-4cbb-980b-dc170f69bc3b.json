@@ -1,0 +1,13 @@
+{
+  "start":31763,
+  "end":31781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"Why?\"",
+  "id":"b8a8681f-e41b-4cbb-980b-dc170f69bc3b",
+  "params":{
+    "id":"b8a8681f-e41b-4cbb-980b-dc170f69bc3b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

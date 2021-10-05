@@ -1,0 +1,12 @@
+{
+  "start":1944,
+  "end":2063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They offered me a pretty good salary, and I\n   didn't have to pay rent, so I didn't think twice about moving out there.",
+  "id":"1c3038cb-a4bb-4ad5-b44f-e8c3b0fab655",
+  "params":{
+    "id":"5b7a79bd-c2fd-47f4-acc5-26c557bd3b61"
+  },
+  "name":"Noe"
+}

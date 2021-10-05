@@ -1,0 +1,13 @@
+{
+  "start":37591,
+  "end":37611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh yeah, drugs, man.",
+  "id":"d48a4129-3a7b-4bb9-ab0e-0820c1bc8ab9",
+  "params":{
+    "id":"d48a4129-3a7b-4bb9-ab0e-0820c1bc8ab9",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

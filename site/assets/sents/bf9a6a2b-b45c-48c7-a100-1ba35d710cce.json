@@ -1,0 +1,13 @@
+{
+  "start":31022,
+  "end":31152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I'll tell somebody,\n\"Hey, I mean, if you need something done, let people know I know how to do\ncertain type of work,\" whatever.",
+  "id":"bf9a6a2b-b45c-48c7-a100-1ba35d710cce",
+  "params":{
+    "id":"bf9a6a2b-b45c-48c7-a100-1ba35d710cce",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

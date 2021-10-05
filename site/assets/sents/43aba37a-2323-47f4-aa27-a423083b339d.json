@@ -1,0 +1,13 @@
+{
+  "start":30644,
+  "end":30669,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm complaining about it.",
+  "id":"43aba37a-2323-47f4-aa27-a423083b339d",
+  "params":{
+    "id":"43aba37a-2323-47f4-aa27-a423083b339d",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

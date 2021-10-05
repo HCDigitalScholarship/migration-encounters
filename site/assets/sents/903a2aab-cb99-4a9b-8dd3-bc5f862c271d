@@ -1,0 +1,12 @@
+{
+  "start":19086,
+  "end":19124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you ever talk about that together?",
+  "id":"903a2aab-cb99-4a9b-8dd3-bc5f862c271d",
+  "params":{
+    "id":"0105b750-9756-42c0-966a-6dbe38312207"
+  },
+  "name":"Kevin"
+}

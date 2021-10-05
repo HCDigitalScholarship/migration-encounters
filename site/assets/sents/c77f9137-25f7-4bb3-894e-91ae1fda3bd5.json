@@ -1,0 +1,13 @@
+{
+  "start":370,
+  "end":485,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why don't we start by you just telling me a little bit about what it\n   was like when you first came to the States.",
+  "id":"c77f9137-25f7-4bb3-894e-91ae1fda3bd5",
+  "params":{
+    "id":"c77f9137-25f7-4bb3-894e-91ae1fda3bd5",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

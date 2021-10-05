@@ -1,0 +1,12 @@
+{
+  "start":11138,
+  "end":11148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's done.",
+  "id":"826b7fa6-d82d-467c-8552-c84a7ccc8609",
+  "params":{
+    "id":"25f78fdf-c726-4697-af61-7f9a257c2e19"
+  },
+  "name":"Many"
+}

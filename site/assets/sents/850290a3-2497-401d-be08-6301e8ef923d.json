@@ -1,0 +1,13 @@
+{
+  "start":18766,
+  "end":18809,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a very\n   long ride, it took like 17 hours.",
+  "id":"850290a3-2497-401d-be08-6301e8ef923d",
+  "params":{
+    "id":"850290a3-2497-401d-be08-6301e8ef923d",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

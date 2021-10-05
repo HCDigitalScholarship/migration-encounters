@@ -1,0 +1,12 @@
+{
+  "start":42152,
+  "end":42172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can\n   just ...\"",
+  "id":"d2e627b0-3590-42e6-87a5-4746d723bc4a",
+  "params":{
+    "id":"f2af5ce6-3895-4677-b25e-7dcb4ad4bfa3"
+  },
+  "name":"Sylent"
+}

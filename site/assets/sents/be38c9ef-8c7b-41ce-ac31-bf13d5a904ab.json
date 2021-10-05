@@ -1,0 +1,13 @@
+{
+  "start":30279,
+  "end":30336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had my first\n   break for 15 minutes from 3:00 to 3:15.",
+  "id":"be38c9ef-8c7b-41ce-ac31-bf13d5a904ab",
+  "params":{
+    "id":"be38c9ef-8c7b-41ce-ac31-bf13d5a904ab",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

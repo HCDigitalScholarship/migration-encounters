@@ -1,0 +1,13 @@
+{
+  "start":35943,
+  "end":36021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The only thing that\n   will help you is call centers and it's not really help.",
+  "id":"753bcb6a-614d-48a4-8a47-1f560fa80776",
+  "params":{
+    "id":"753bcb6a-614d-48a4-8a47-1f560fa80776",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

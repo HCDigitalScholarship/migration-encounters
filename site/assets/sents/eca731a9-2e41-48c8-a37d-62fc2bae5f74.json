@@ -1,0 +1,13 @@
+{
+  "start":12808,
+  "end":12861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She went over and accused me of\n   credit card abuse.",
+  "id":"eca731a9-2e41-48c8-a37d-62fc2bae5f74",
+  "params":{
+    "id":"eca731a9-2e41-48c8-a37d-62fc2bae5f74",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

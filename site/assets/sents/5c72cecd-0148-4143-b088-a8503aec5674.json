@@ -1,0 +1,13 @@
+{
+  "start":7999,
+  "end":8021,
+  "label":"SENT",
+  "type":"sent",
+  "text":"These tats on my face.",
+  "id":"5c72cecd-0148-4143-b088-a8503aec5674",
+  "params":{
+    "id":"5c72cecd-0148-4143-b088-a8503aec5674",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

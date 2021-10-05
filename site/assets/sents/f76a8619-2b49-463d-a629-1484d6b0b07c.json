@@ -1,0 +1,13 @@
+{
+  "start":91890,
+  "end":91969,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This\n     isn't something that I'm just speaking, I'm inferring or I'm guessing",
+  "id":"f76a8619-2b49-463d-a629-1484d6b0b07c",
+  "params":{
+    "id":"f76a8619-2b49-463d-a629-1484d6b0b07c",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

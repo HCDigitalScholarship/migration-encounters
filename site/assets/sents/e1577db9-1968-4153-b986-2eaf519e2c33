@@ -1,0 +1,12 @@
+{
+  "start":33130,
+  "end":33146,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Si yo te lo doy.",
+  "id":"e1577db9-1968-4153-b986-2eaf519e2c33",
+  "params":{
+    "id":"31e7f199-45e3-4825-8006-c92bb17d6649"
+  },
+  "name":"Maria"
+}

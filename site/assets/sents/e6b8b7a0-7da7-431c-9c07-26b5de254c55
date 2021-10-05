@@ -1,0 +1,12 @@
+{
+  "start":75581,
+  "end":75671,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, do you think that's something you would want to get into for a\n   job or just for fun?",
+  "id":"e6b8b7a0-7da7-431c-9c07-26b5de254c55",
+  "params":{
+    "id":"459fd24b-bc23-4a4f-8fe7-5c66de525c3b"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3735,
+  "end":3755,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you like school?",
+  "id":"d9b33e3f-034e-4706-a2e7-d5eb7f6326be",
+  "params":{
+    "id":"d9b33e3f-034e-4706-a2e7-d5eb7f6326be",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

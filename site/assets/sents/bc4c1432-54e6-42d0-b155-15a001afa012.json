@@ -1,0 +1,13 @@
+{
+  "start":64846,
+  "end":65017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which of the following, I'm just going to read a list of\n     relatives and which of the following live in Mexico. Is it\n     grandparents-\n   \n   \n     Cuauht\u00e9moc : Dead.",
+  "id":"bc4c1432-54e6-42d0-b155-15a001afa012",
+  "params":{
+    "id":"bc4c1432-54e6-42d0-b155-15a001afa012",
+    "class":"anno"
+  },
+  "name":"Cuauht\u00e9moc"
+}

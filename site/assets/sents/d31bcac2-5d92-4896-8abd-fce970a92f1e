@@ -1,0 +1,12 @@
+{
+  "start":17472,
+  "end":17497,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He works in construction.",
+  "id":"d31bcac2-5d92-4896-8abd-fce970a92f1e",
+  "params":{
+    "id":"85d6e02a-62d9-44d8-823e-4b52145b7e6e"
+  },
+  "name":"Billy"
+}

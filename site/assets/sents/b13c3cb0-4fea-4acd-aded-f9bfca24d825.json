@@ -1,0 +1,13 @@
+{
+  "start":21940,
+  "end":22112,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, after that, they leave me in the hospital, and the doctor told me\n   that they have to do a surgery to take the skull, the little parts, they\n   take it out of my head.",
+  "id":"b13c3cb0-4fea-4acd-aded-f9bfca24d825",
+  "params":{
+    "id":"b13c3cb0-4fea-4acd-aded-f9bfca24d825",
+    "class":"anno"
+  },
+  "name":"Many"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13834,
+  "end":13861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does she check in with you?",
+  "id":"89d397a3-6b6f-4661-a42c-652fd44faaa9",
+  "params":{
+    "id":"89d397a3-6b6f-4661-a42c-652fd44faaa9",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

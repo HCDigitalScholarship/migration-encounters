@@ -1,0 +1,12 @@
+{
+  "start":18304,
+  "end":18354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't do anything stupid, something like\n   that.\u201d",
+  "id":"23db954b-b849-4874-8d2d-a0cee9943c57",
+  "params":{
+    "id":"bd2a971d-36fd-44fa-abaf-474a8f54e44d"
+  },
+  "name":"Noe"
+}

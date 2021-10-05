@@ -1,0 +1,13 @@
+{
+  "start":28014,
+  "end":28066,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did she tell you you're not allowed\n   to tell this?",
+  "id":"533b8802-de06-4921-a896-af5212737443",
+  "params":{
+    "id":"533b8802-de06-4921-a896-af5212737443",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

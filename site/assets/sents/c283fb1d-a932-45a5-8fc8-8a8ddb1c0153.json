@@ -1,0 +1,13 @@
+{
+  "start":30861,
+  "end":30910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You feel like you're in prison if you\u2019re at home?",
+  "id":"c283fb1d-a932-45a5-8fc8-8a8ddb1c0153",
+  "params":{
+    "id":"c283fb1d-a932-45a5-8fc8-8a8ddb1c0153",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30765,
+  "end":30802,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is the same father that hit her.",
+  "id":"d63cd105-c095-4925-be57-e54e581113f5",
+  "params":{
+    "id":"d63cd105-c095-4925-be57-e54e581113f5",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

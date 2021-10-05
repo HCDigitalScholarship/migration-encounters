@@ -1,0 +1,13 @@
+{
+  "start":3315,
+  "end":3340,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went to private school.",
+  "id":"cab409a4-a779-4db1-b1de-461ef86aeb36",
+  "params":{
+    "id":"cab409a4-a779-4db1-b1de-461ef86aeb36",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":6332,
+  "end":6384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You mentioned you didn't know you were undocumented.",
+  "id":"6be1b55e-b130-4a61-932c-d392fa4aa8fb",
+  "params":{
+    "id":"b9cacacb-eed2-4543-8827-5f00b0e24fed"
+  },
+  "name":"Roberto"
+}

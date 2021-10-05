@@ -1,0 +1,12 @@
+{
+  "start":28245,
+  "end":28305,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had to speak Spanish because my mom doesn't speak English.",
+  "id":"f108b466-46b2-4ad3-8603-949e34f32419",
+  "params":{
+    "id":"53e819cc-b6c8-4c7a-8a20-e451bc398cdd"
+  },
+  "name":"Billy"
+}

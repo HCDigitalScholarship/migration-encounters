@@ -1,0 +1,13 @@
+{
+  "start":16219,
+  "end":16240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo le entregu\u00e9 mi ID.",
+  "id":"70913d4e-da9e-45ca-9038-d58632a81909",
+  "params":{
+    "id":"70913d4e-da9e-45ca-9038-d58632a81909",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":20141,
+  "end":20179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's very\n   inspirational [chuckles].",
+  "id":"9d67d6f0-bf4c-4d17-86d1-585bbb155d54",
+  "params":{
+    "id":"9d67d6f0-bf4c-4d17-86d1-585bbb155d54",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

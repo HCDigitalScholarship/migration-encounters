@@ -1,0 +1,12 @@
+{
+  "start":8654,
+  "end":8679,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's really good\n   guy.\"",
+  "id":"c2085e73-a193-4758-a08d-ccf76a9eb947",
+  "params":{
+    "id":"6f8cb2f1-ba66-4394-9ea1-4f37fb8a9d2c"
+  },
+  "name":"Mike"
+}

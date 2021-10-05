@@ -1,0 +1,13 @@
+{
+  "start":42882,
+  "end":42968,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm kind of in a crutch when I'm\n   speaking in Spanish in terms of philosophy, right.",
+  "id":"6b95e242-8a56-435d-9a6b-307f4bae094c",
+  "params":{
+    "id":"6b95e242-8a56-435d-9a6b-307f4bae094c",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

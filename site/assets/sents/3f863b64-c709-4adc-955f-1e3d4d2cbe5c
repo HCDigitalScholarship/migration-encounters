@@ -1,0 +1,12 @@
+{
+  "start":2137,
+  "end":2236,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A two,\n   three year old in the middle of the desert, it definitely had to have an\n   impact on me.",
+  "id":"3f863b64-c709-4adc-955f-1e3d4d2cbe5c",
+  "params":{
+    "id":"bf37dc55-f58d-4ccf-8655-ac1467454166"
+  },
+  "name":"Rodolfo"
+}

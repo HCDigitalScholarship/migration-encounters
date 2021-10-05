@@ -1,0 +1,13 @@
+{
+  "start":21544,
+  "end":21626,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He spoke perfect Spanish, so he\n   and my mother were very\u2014they would joke around.",
+  "id":"6087bc55-3af9-4347-a03b-d3b035efd224",
+  "params":{
+    "id":"6087bc55-3af9-4347-a03b-d3b035efd224",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

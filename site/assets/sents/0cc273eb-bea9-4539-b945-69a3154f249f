@@ -1,0 +1,12 @@
+{
+  "start":14996,
+  "end":15043,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Billy: Just because I couldn't say I was white.",
+  "id":"0cc273eb-bea9-4539-b945-69a3154f249f",
+  "params":{
+    "id":"e022d9b6-6ade-43cf-85f0-5617ebd4c681"
+  },
+  "name":"Billy"
+}

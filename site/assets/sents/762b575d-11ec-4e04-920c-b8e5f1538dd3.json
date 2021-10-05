@@ -1,0 +1,12 @@
+{
+  "start":16160,
+  "end":16174,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What happened?",
+  "id":"762b575d-11ec-4e04-920c-b8e5f1538dd3",
+  "params":{
+    "id":"96bbfa27-51d1-4e59-a7ee-8a034a246058"
+  },
+  "name":"Brenda"
+}

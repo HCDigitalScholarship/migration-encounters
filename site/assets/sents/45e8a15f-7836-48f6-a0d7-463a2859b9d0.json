@@ -1,0 +1,13 @@
+{
+  "start":20050,
+  "end":20092,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My parents had that dream and followed it.",
+  "id":"45e8a15f-7836-48f6-a0d7-463a2859b9d0",
+  "params":{
+    "id":"45e8a15f-7836-48f6-a0d7-463a2859b9d0",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

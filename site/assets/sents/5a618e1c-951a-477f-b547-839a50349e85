@@ -1,0 +1,12 @@
+{
+  "start":10850,
+  "end":10893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are you going to\n   come raid a school?",
+  "id":"5a618e1c-951a-477f-b547-839a50349e85",
+  "params":{
+    "id":"e20a0bfe-1f2a-4d2b-a92d-4b7ceaca794d"
+  },
+  "name":"Laila"
+}

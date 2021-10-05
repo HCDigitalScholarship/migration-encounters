@@ -1,0 +1,13 @@
+{
+  "start":22403,
+  "end":22424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I bought a lot of ...",
+  "id":"1065776a-f5c4-44d3-bd7e-671ac313fbee",
+  "params":{
+    "id":"1065776a-f5c4-44d3-bd7e-671ac313fbee",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

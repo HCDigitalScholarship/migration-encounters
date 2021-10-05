@@ -1,0 +1,13 @@
+{
+  "start":10024,
+  "end":10114,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Name, everything, you have to know\n   everything about the person, or at least the basics.",
+  "id":"6e4ff1e9-be95-4cbf-ab33-94b40064f5ce",
+  "params":{
+    "id":"6e4ff1e9-be95-4cbf-ab33-94b40064f5ce",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

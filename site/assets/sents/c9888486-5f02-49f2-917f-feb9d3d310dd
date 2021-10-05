@@ -1,0 +1,12 @@
+{
+  "start":26018,
+  "end":26063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got\n   the record of not turning myself in.",
+  "id":"c9888486-5f02-49f2-917f-feb9d3d310dd",
+  "params":{
+    "id":"9197605c-8fb5-4eb0-b2ff-915431db941e"
+  },
+  "name":"Kevin"
+}

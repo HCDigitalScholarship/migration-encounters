@@ -1,0 +1,13 @@
+{
+  "start":14438,
+  "end":14460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Where\nwere you born?\"",
+  "id":"228eae31-618c-4a97-9429-69eea32a0ded",
+  "params":{
+    "id":"228eae31-618c-4a97-9429-69eea32a0ded",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

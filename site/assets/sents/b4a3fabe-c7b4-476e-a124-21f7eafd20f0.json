@@ -1,0 +1,13 @@
+{
+  "start":21102,
+  "end":21165,
+  "label":"SENT",
+  "type":"sent",
+  "text":"All of a sudden, we just got stopped by\n   two I.C.E. officers.",
+  "id":"b4a3fabe-c7b4-476e-a124-21f7eafd20f0",
+  "params":{
+    "id":"b4a3fabe-c7b4-476e-a124-21f7eafd20f0",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

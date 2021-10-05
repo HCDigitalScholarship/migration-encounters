@@ -1,0 +1,13 @@
+{
+  "start":30938,
+  "end":30951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"Wow.",
+  "id":"0efc8f3b-930a-406c-89db-8c42b8f9c985",
+  "params":{
+    "id":"0efc8f3b-930a-406c-89db-8c42b8f9c985",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

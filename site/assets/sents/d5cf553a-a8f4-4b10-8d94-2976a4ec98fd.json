@@ -1,0 +1,13 @@
+{
+  "start":49489,
+  "end":49511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This guy was a rookie.",
+  "id":"d5cf553a-a8f4-4b10-8d94-2976a4ec98fd",
+  "params":{
+    "id":"d5cf553a-a8f4-4b10-8d94-2976a4ec98fd",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4204,
+  "end":4242,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's when everything\n   started.",
+  "id":"8f0df0d2-5140-4614-84a5-1e78ba170a0c",
+  "params":{
+    "id":"8f0df0d2-5140-4614-84a5-1e78ba170a0c",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

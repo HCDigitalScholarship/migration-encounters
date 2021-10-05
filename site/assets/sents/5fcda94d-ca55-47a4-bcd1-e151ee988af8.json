@@ -1,0 +1,13 @@
+{
+  "start":39231,
+  "end":39263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And then you have a certificate.",
+  "id":"5fcda94d-ca55-47a4-bcd1-e151ee988af8",
+  "params":{
+    "id":"5fcda94d-ca55-47a4-bcd1-e151ee988af8",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30731,
+  "end":30762,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n     used to do it every day.",
+  "id":"104e0d09-a510-4ccc-bace-0e93bf18d6c0",
+  "params":{
+    "id":"104e0d09-a510-4ccc-bace-0e93bf18d6c0",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

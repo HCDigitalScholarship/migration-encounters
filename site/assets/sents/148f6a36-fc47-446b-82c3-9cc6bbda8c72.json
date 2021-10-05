@@ -1,0 +1,13 @@
+{
+  "start":4784,
+  "end":4861,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I always wanted to buy a house for my mom and just give her\n   peace of mind.",
+  "id":"148f6a36-fc47-446b-82c3-9cc6bbda8c72",
+  "params":{
+    "id":"148f6a36-fc47-446b-82c3-9cc6bbda8c72",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

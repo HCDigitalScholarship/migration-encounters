@@ -1,0 +1,13 @@
+{
+  "start":64419,
+  "end":64479,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If there's one thing that everybody believes in, it's death.",
+  "id":"e27a915f-2ef6-4cc2-9a02-b75b21e53855",
+  "params":{
+    "id":"e27a915f-2ef6-4cc2-9a02-b75b21e53855",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

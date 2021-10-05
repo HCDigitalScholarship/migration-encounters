@@ -1,0 +1,13 @@
+{
+  "start":8822,
+  "end":8847,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that's the\n word.",
+  "id":"77a3a26c-a992-47bb-8648-a40a846f3aff",
+  "params":{
+    "id":"77a3a26c-a992-47bb-8648-a40a846f3aff",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

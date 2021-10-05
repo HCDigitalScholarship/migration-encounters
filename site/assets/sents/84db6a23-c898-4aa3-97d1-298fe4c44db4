@@ -1,0 +1,12 @@
+{
+  "start":57126,
+  "end":57134,
+  "label":"SENT",
+  "type":"sent",
+  "text":"One day.",
+  "id":"84db6a23-c898-4aa3-97d1-298fe4c44db4",
+  "params":{
+    "id":"6a1c0b65-c488-44bb-b6db-9e2f258e7830"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":8083,
+  "end":8129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"couldn't say, \"Hey, can I borrow your pencil?\"",
+  "id":"044ec3b9-35c4-4e2c-8350-59438e274d17",
+  "params":{
+    "id":"044ec3b9-35c4-4e2c-8350-59438e274d17",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

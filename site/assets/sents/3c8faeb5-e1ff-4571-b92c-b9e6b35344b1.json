@@ -1,0 +1,13 @@
+{
+  "start":992,
+  "end":1078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me about school, what teachers were like, what your\n   friends were like?",
+  "id":"3c8faeb5-e1ff-4571-b92c-b9e6b35344b1",
+  "params":{
+    "id":"3c8faeb5-e1ff-4571-b92c-b9e6b35344b1",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

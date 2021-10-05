@@ -1,0 +1,13 @@
+{
+  "start":19410,
+  "end":19457,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The cook was my friend and, he knew me already.",
+  "id":"e422bfcf-43fc-4014-abd8-688ee7f6d228",
+  "params":{
+    "id":"e422bfcf-43fc-4014-abd8-688ee7f6d228",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

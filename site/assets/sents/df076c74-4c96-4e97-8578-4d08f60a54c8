@@ -1,0 +1,12 @@
+{
+  "start":16743,
+  "end":16777,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I lived over there, but that's it.",
+  "id":"df076c74-4c96-4e97-8578-4d08f60a54c8",
+  "params":{
+    "id":"77dc0a37-e3da-43b7-9f1f-e869e0b02558"
+  },
+  "name":"Pablo"
+}

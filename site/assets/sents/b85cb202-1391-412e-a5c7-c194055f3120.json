@@ -1,0 +1,13 @@
+{
+  "start":50419,
+  "end":50511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You don't have to wait those six months since we\n   didn't fire you, or anything like that.\"",
+  "id":"b85cb202-1391-412e-a5c7-c194055f3120",
+  "params":{
+    "id":"b85cb202-1391-412e-a5c7-c194055f3120",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

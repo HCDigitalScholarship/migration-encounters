@@ -1,0 +1,12 @@
+{
+  "start":16403,
+  "end":16435,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Actually, it was a $10,000 bond.",
+  "id":"f51cc114-7db8-49ed-9072-5349c249225c",
+  "params":{
+    "id":"e113e27d-adf1-45aa-a73a-2eaf15da99a9"
+  },
+  "name":"Juan B"
+}

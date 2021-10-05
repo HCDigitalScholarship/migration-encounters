@@ -1,0 +1,13 @@
+{
+  "start":36070,
+  "end":36118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I will never go back and live in the US.",
+  "id":"111f857f-6f80-44f2-a458-79ff4743913c",
+  "params":{
+    "id":"111f857f-6f80-44f2-a458-79ff4743913c",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

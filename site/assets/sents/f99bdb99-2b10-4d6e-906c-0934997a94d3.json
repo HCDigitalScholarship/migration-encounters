@@ -1,0 +1,12 @@
+{
+  "start":12,
+  "end":32,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is your gender?",
+  "id":"f99bdb99-2b10-4d6e-906c-0934997a94d3",
+  "params":{
+    "id":"1f087fbe-87c0-499e-848e-ce823676c7a7"
+  },
+  "name":"Josue"
+}

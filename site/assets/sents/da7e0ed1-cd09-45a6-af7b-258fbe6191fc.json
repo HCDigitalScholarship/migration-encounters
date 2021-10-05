@@ -1,0 +1,13 @@
+{
+  "start":15144,
+  "end":15162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   other guys?",
+  "id":"da7e0ed1-cd09-45a6-af7b-258fbe6191fc",
+  "params":{
+    "id":"da7e0ed1-cd09-45a6-af7b-258fbe6191fc",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

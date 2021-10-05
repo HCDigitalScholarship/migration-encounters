@@ -1,0 +1,13 @@
+{
+  "start":19529,
+  "end":19551,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He has green\n   eyes.\"",
+  "id":"1802e0c7-e8c0-438d-b222-b66b5dd2a82c",
+  "params":{
+    "id":"1802e0c7-e8c0-438d-b222-b66b5dd2a82c",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":30915,
+  "end":30931,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't want to.",
+  "id":"9e89c5b0-e8e2-49ad-aea0-87398cf1cee9",
+  "params":{
+    "id":"9e89c5b0-e8e2-49ad-aea0-87398cf1cee9",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7816,
+  "end":7888,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Can you tell me more about what\n   happened and what led to the process?",
+  "id":"da5955fe-0c09-472c-8315-dce166508ad9",
+  "params":{
+    "id":"d49c37d1-1071-4df3-9bd6-43603c44e45b"
+  },
+  "name":"Miguel B"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13303,
+  "end":13348,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You came back to visit your family, you mean?",
+  "id":"f780bfff-61b4-492b-bdac-e09dff8b7b36",
+  "params":{
+    "id":"5c106d63-1cfe-405b-82f6-de4121b6e92c"
+  },
+  "name":"Joana"
+}

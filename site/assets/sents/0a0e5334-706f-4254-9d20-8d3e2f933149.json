@@ -1,0 +1,13 @@
+{
+  "start":27756,
+  "end":27790,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you\n   can't tell me anything.",
+  "id":"0a0e5334-706f-4254-9d20-8d3e2f933149",
+  "params":{
+    "id":"0a0e5334-706f-4254-9d20-8d3e2f933149",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":25700,
+  "end":25752,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's industrial\n   processes or something like that?",
+  "id":"ae7fd0d7-4536-405a-b35a-da455ffa22c4",
+  "params":{
+    "id":"a89c17ce-9d2f-4e5d-b804-fca3d138338a"
+  },
+  "name":"Carlos"
+}

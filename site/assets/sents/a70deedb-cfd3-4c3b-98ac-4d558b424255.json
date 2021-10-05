@@ -1,0 +1,13 @@
+{
+  "start":33343,
+  "end":33477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"S\u00ed porque yo ve\u00eda el americano de alguna\n     manera dicen, \u201cEl ni\u00f1o tiene 18 a\u00f1os, ya es momento de que salga y busque\n     lo suyo\u201d.",
+  "id":"a70deedb-cfd3-4c3b-98ac-4d558b424255",
+  "params":{
+    "id":"a70deedb-cfd3-4c3b-98ac-4d558b424255",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

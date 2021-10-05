@@ -1,0 +1,13 @@
+{
+  "start":11130,
+  "end":11160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I really didn't care about it.",
+  "id":"6378ab9f-4917-472b-a92a-7f0e1b66005f",
+  "params":{
+    "id":"6378ab9f-4917-472b-a92a-7f0e1b66005f",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

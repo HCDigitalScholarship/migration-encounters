@@ -1,0 +1,13 @@
+{
+  "start":4092,
+  "end":4111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everything changed.",
+  "id":"f792e18a-74a9-4c8b-8560-f0a62005bf0a",
+  "params":{
+    "id":"f792e18a-74a9-4c8b-8560-f0a62005bf0a",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

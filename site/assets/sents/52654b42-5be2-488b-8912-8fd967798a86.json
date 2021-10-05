@@ -1,0 +1,13 @@
+{
+  "start":25235,
+  "end":25265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't look at the person.",
+  "id":"52654b42-5be2-488b-8912-8fd967798a86",
+  "params":{
+    "id":"52654b42-5be2-488b-8912-8fd967798a86",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

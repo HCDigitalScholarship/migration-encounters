@@ -1,0 +1,12 @@
+{
+  "start":3980,
+  "end":4017,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were fine,\n   but I miss my mom.",
+  "id":"a92d5e9e-21b1-4344-a8c3-f30c8a8ac19b",
+  "params":{
+    "id":"c7080462-5e48-4d64-bcc3-b483d44e4c72"
+  },
+  "name":"Ivan B"
+}

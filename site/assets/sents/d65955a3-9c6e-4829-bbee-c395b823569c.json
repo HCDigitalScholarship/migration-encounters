@@ -1,0 +1,13 @@
+{
+  "start":2224,
+  "end":2281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I started going in\n   and out, doing time, till I hit 18.",
+  "id":"d65955a3-9c6e-4829-bbee-c395b823569c",
+  "params":{
+    "id":"d65955a3-9c6e-4829-bbee-c395b823569c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

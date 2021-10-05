@@ -1,0 +1,12 @@
+{
+  "start":10151,
+  "end":10162,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's sad.",
+  "id":"a108dcc9-13cb-4235-bb21-b9f8e8b66008",
+  "params":{
+    "id":"cb7c7f34-9ebb-431a-b89a-ac7d52942360"
+  },
+  "name":"Jose"
+}

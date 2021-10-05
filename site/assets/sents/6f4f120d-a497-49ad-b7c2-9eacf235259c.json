@@ -1,0 +1,13 @@
+{
+  "start":49880,
+  "end":49902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me give it a try.\"",
+  "id":"6f4f120d-a497-49ad-b7c2-9eacf235259c",
+  "params":{
+    "id":"6f4f120d-a497-49ad-b7c2-9eacf235259c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

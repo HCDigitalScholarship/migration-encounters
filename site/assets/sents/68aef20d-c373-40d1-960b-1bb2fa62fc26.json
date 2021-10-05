@@ -1,0 +1,13 @@
+{
+  "start":9024,
+  "end":9111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why do you think that we're speaking about\n   you when we don't even mention your name?",
+  "id":"68aef20d-c373-40d1-960b-1bb2fa62fc26",
+  "params":{
+    "id":"68aef20d-c373-40d1-960b-1bb2fa62fc26",
+    "class":"anno"
+  },
+  "name":"Zayuri"
+}

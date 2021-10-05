@@ -1,0 +1,12 @@
+{
+  "start":30619,
+  "end":30647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The guy used to beat her up.",
+  "id":"ba2ce26a-3543-475a-a26b-f6c3242964ea",
+  "params":{
+    "id":"b404f0e0-9465-46b9-a43c-0301eee21b91"
+  },
+  "name":"Hugo"
+}

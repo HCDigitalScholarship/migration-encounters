@@ -1,0 +1,12 @@
+{
+  "start":17624,
+  "end":17646,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What food do you miss?",
+  "id":"733f4b50-8c34-4940-b132-d87228120e77",
+  "params":{
+    "id":"d20f6b41-a09d-448e-be56-c450b441eef0"
+  },
+  "name":"Diana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":13615,
+  "end":13699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I went out of school at 3:00\n   PM, whenever I went out of West, I went to work.",
+  "id":"439fec44-f7fd-47cb-b0a4-8e2f541665bb",
+  "params":{
+    "id":"fcc3e4da-ee78-44bb-a1da-8359a67a9ef2"
+  },
+  "name":"Luis B"
+}

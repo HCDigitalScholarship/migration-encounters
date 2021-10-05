@@ -1,0 +1,12 @@
+{
+  "start":39760,
+  "end":39866,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was still alive and\n   they told us that they could take him out, but he was going to have\n   problems.",
+  "id":"a8d243ea-817b-42a8-802c-3e85b2a86e44",
+  "params":{
+    "id":"41230e67-83f2-4806-8db0-e32b5353d35d"
+  },
+  "name":"Mike"
+}

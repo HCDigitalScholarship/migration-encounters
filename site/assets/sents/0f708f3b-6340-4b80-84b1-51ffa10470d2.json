@@ -1,0 +1,13 @@
+{
+  "start":21718,
+  "end":21747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not living a\n   dream.",
+  "id":"0f708f3b-6340-4b80-84b1-51ffa10470d2",
+  "params":{
+    "id":"0f708f3b-6340-4b80-84b1-51ffa10470d2",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

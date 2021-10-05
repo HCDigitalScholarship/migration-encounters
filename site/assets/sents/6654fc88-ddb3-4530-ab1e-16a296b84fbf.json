@@ -1,0 +1,13 @@
+{
+  "start":2586,
+  "end":2614,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So this is Lizzy with Laila.",
+  "id":"6654fc88-ddb3-4530-ab1e-16a296b84fbf",
+  "params":{
+    "id":"6654fc88-ddb3-4530-ab1e-16a296b84fbf",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

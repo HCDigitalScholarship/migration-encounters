@@ -1,0 +1,12 @@
+{
+  "start":32305,
+  "end":32347,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad put me in this little Mexican team.",
+  "id":"d3a52c9d-8a89-4128-b8e9-f44fc2ae2f98",
+  "params":{
+    "id":"f126cd5f-0b06-46e1-8d4e-c53e54ab7d89"
+  },
+  "name":"Billy"
+}

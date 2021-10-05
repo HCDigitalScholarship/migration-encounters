@@ -1,0 +1,12 @@
+{
+  "start":37165,
+  "end":37252,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Could we talk about what happened to you in the United States to make\n you end up here?",
+  "id":"a916c283-e5a5-42e4-9305-4767e079b3ab",
+  "params":{
+    "id":"1ef602fc-f6d8-4e97-bf16-39022596ce21"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,12 @@
+{
+  "start":33071,
+  "end":33168,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He goes,\n   \"I'm investigating a crime that happened around here and you fit the\n   description.\"",
+  "id":"52a473a9-df99-469b-b2f3-875a518bfa9a",
+  "params":{
+    "id":"150be8f8-e49a-42f9-84c2-979b73450422"
+  },
+  "name":"Cris"
+}

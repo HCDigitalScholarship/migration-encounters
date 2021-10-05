@@ -1,0 +1,12 @@
+{
+  "start":28313,
+  "end":28325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's that?",
+  "id":"e9ff86d1-937f-4a8b-9c02-ed32b50d73c7",
+  "params":{
+    "id":"c6a5f10f-32d8-4142-a759-4b0cd1fa46dd"
+  },
+  "name":"Noe"
+}

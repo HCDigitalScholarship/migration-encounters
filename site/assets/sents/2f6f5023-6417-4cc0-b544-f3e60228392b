@@ -1,0 +1,12 @@
+{
+  "start":7039,
+  "end":7063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The nurse misspelled it.",
+  "id":"2f6f5023-6417-4cc0-b544-f3e60228392b",
+  "params":{
+    "id":"1bfe24cb-810d-4624-9dc4-21f4634d474f"
+  },
+  "name":"Donovan"
+}

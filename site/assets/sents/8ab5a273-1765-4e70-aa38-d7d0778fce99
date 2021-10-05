@@ -1,0 +1,12 @@
+{
+  "start":52851,
+  "end":52882,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're not supposed to be here.",
+  "id":"8ab5a273-1765-4e70-aa38-d7d0778fce99",
+  "params":{
+    "id":"b7ae7e70-99d2-4482-971d-f65e4858ad99"
+  },
+  "name":"Angelo"
+}

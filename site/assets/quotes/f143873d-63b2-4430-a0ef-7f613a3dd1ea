@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":1234,
+  "end":1247,
+  "text":"New York City",
+  "label":"GPE",
+  "id":"f143873d-63b2-4430-a0ef-7f613a3dd1ea",
+  "name":"Joseph"
+}

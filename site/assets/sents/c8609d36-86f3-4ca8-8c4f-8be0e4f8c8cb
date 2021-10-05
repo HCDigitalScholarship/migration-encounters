@@ -1,0 +1,12 @@
+{
+  "start":8716,
+  "end":8747,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went all the way to Nebraska.",
+  "id":"c8609d36-86f3-4ca8-8c4f-8be0e4f8c8cb",
+  "params":{
+    "id":"15d566d3-10df-4270-9a2a-e42ddb10b5c0"
+  },
+  "name":"Cris"
+}

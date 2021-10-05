@@ -1,0 +1,13 @@
+{
+  "start":6880,
+  "end":6906,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, they took me to a...",
+  "id":"0ceedc8f-d5b4-424a-80c9-6da1b497b08b",
+  "params":{
+    "id":"0ceedc8f-d5b4-424a-80c9-6da1b497b08b",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

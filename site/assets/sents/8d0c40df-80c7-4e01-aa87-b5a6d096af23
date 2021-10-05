@@ -1,0 +1,12 @@
+{
+  "start":40568,
+  "end":40592,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They just\n   don't care.",
+  "id":"8d0c40df-80c7-4e01-aa87-b5a6d096af23",
+  "params":{
+    "id":"b2ac6d62-9326-4be7-a347-8ec008a955ec"
+  },
+  "name":"Laila"
+}

@@ -1,0 +1,12 @@
+{
+  "start":2581,
+  "end":2640,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're actually waiting to see what's\n     going to happen.",
+  "id":"6a7f5385-aa63-4310-bca8-2a67d5ac329f",
+  "params":{
+    "id":"1b984ec3-416c-4cff-884c-3333404620ce"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,13 @@
+{
+  "start":21221,
+  "end":21277,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you faced discrimination since you've been\n   back?",
+  "id":"7f9bb8f0-8916-4815-ad52-45d5b88d96b8",
+  "params":{
+    "id":"7f9bb8f0-8916-4815-ad52-45d5b88d96b8",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

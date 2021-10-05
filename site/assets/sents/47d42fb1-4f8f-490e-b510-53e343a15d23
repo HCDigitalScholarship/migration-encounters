@@ -1,0 +1,12 @@
+{
+  "start":15854,
+  "end":15883,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I threw chairs\n   over there.",
+  "id":"47d42fb1-4f8f-490e-b510-53e343a15d23",
+  "params":{
+    "id":"9b496da7-f604-470a-9cf3-6d4d8b3d3e26"
+  },
+  "name":"Luis B"
+}

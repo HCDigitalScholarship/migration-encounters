@@ -1,0 +1,13 @@
+{
+  "start":37114,
+  "end":37160,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think she didn't want me to be by\n   myself.",
+  "id":"7de36593-d2aa-4146-bf2f-ffca97694c7e",
+  "params":{
+    "id":"7de36593-d2aa-4146-bf2f-ffca97694c7e",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

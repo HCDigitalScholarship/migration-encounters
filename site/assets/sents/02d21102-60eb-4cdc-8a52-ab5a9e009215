@@ -1,0 +1,12 @@
+{
+  "start":24632,
+  "end":24666,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad came when I was about nine.",
+  "id":"02d21102-60eb-4cdc-8a52-ab5a9e009215",
+  "params":{
+    "id":"f25855ad-1f91-465d-a8c6-0541d9bd9f59"
+  },
+  "name":"Luisa"
+}

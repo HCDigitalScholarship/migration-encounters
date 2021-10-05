@@ -1,0 +1,13 @@
+{
+  "start":29777,
+  "end":29800,
+  "label":"SENT",
+  "type":"sent",
+  "text":"La pareja es un equipo.",
+  "id":"8e367f18-16fb-47ed-b04a-2a9d4dffe2a3",
+  "params":{
+    "id":"8e367f18-16fb-47ed-b04a-2a9d4dffe2a3",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,12 @@
+{
+  "start":22644,
+  "end":22680,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was your return to Mexico difficult?",
+  "id":"0563a3be-50cb-4f3e-8623-67726bce71a0",
+  "params":{
+    "id":"c205fe7e-3fd7-4975-b571-361c2b054aff"
+  },
+  "name":"Josue"
+}

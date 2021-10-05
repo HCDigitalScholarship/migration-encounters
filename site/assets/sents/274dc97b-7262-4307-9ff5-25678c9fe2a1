@@ -1,0 +1,12 @@
+{
+  "start":9710,
+  "end":9765,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean, I didn't do it, but you can't tell\nhow it goes.",
+  "id":"274dc97b-7262-4307-9ff5-25678c9fe2a1",
+  "params":{
+    "id":"045423ca-a7c6-4917-821c-2e3727d0c24b"
+  },
+  "name":"Abel"
+}

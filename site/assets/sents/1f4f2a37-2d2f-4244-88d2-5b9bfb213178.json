@@ -1,0 +1,13 @@
+{
+  "start":15156,
+  "end":15180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you go back to ____?",
+  "id":"1f4f2a37-2d2f-4244-88d2-5b9bfb213178",
+  "params":{
+    "id":"1f4f2a37-2d2f-4244-88d2-5b9bfb213178",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

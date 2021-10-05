@@ -1,0 +1,13 @@
+{
+  "start":1479,
+  "end":1520,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We painted the inside\n   of that stadium.",
+  "id":"9a0e32c5-6cf8-4283-a967-0c4eeabb4f9b",
+  "params":{
+    "id":"9a0e32c5-6cf8-4283-a967-0c4eeabb4f9b",
+    "class":"anno"
+  },
+  "name":"Ivan"
+}

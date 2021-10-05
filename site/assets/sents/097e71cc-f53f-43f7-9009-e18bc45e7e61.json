@@ -1,0 +1,13 @@
+{
+  "start":23574,
+  "end":23590,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She forgave him.",
+  "id":"097e71cc-f53f-43f7-9009-e18bc45e7e61",
+  "params":{
+    "id":"097e71cc-f53f-43f7-9009-e18bc45e7e61",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

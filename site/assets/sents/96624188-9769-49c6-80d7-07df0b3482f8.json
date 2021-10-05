@@ -1,0 +1,13 @@
+{
+  "start":35341,
+  "end":35422,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just like I did a lot of stuff,\n   because I felt like I got robbed of that time.",
+  "id":"96624188-9769-49c6-80d7-07df0b3482f8",
+  "params":{
+    "id":"96624188-9769-49c6-80d7-07df0b3482f8",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

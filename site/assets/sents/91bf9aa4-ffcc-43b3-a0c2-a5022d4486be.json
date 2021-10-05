@@ -1,0 +1,13 @@
+{
+  "start":21328,
+  "end":21381,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My son, just barely last week he went to get settled.",
+  "id":"91bf9aa4-ffcc-43b3-a0c2-a5022d4486be",
+  "params":{
+    "id":"91bf9aa4-ffcc-43b3-a0c2-a5022d4486be",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,15 @@
+{
+  "start":16937,
+  "end":17020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes they say, \"I don't trust Mexicans because Mexicans,\n   they're criminals.",
+  "id":"4e71dd0f-e83f-4343-a625-1ac65e85edcc",
+  "params":{
+    "id":"4e71dd0f-e83f-4343-a625-1ac65e85edcc",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

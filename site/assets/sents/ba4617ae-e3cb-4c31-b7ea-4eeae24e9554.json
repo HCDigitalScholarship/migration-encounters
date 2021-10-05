@@ -1,0 +1,13 @@
+{
+  "start":31873,
+  "end":31990,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I asked my dad a lot of\n     stuff, and I believe I mentioned when you asked me how I felt, American or\n     Mexican?",
+  "id":"ba4617ae-e3cb-4c31-b7ea-4eeae24e9554",
+  "params":{
+    "id":"ba4617ae-e3cb-4c31-b7ea-4eeae24e9554",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,12 @@
+{
+  "start":22952,
+  "end":22992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, it's better to stick with the agent?",
+  "id":"1958b34c-edb7-46c9-9659-10923793b3eb",
+  "params":{
+    "id":"89a6c108-4c65-4652-97b7-912b07d2d8d6"
+  },
+  "name":"Rodrigo"
+}

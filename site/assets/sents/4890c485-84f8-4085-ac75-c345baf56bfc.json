@@ -1,0 +1,13 @@
+{
+  "start":11405,
+  "end":11459,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And they're\n   like, \"What is this kid doing outside?\"",
+  "id":"4890c485-84f8-4085-ac75-c345baf56bfc",
+  "params":{
+    "id":"4890c485-84f8-4085-ac75-c345baf56bfc",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,13 @@
+{
+  "start":4032,
+  "end":4095,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   so, we met up in the city and we traveled to the border.",
+  "id":"a2692307-c918-4cd4-9089-ac66bbf03f2d",
+  "params":{
+    "id":"a2692307-c918-4cd4-9089-ac66bbf03f2d",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

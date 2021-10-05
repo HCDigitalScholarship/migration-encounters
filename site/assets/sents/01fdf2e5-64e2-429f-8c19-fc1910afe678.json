@@ -1,0 +1,13 @@
+{
+  "start":25263,
+  "end":25297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's a mechanic and he's a farmer.",
+  "id":"01fdf2e5-64e2-429f-8c19-fc1910afe678",
+  "params":{
+    "id":"01fdf2e5-64e2-429f-8c19-fc1910afe678",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

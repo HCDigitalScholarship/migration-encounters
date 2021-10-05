@@ -1,0 +1,13 @@
+{
+  "start":25299,
+  "end":25337,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was something that\n   was my dream.",
+  "id":"8dd4d2c3-b058-4b53-b098-11d4e442b129",
+  "params":{
+    "id":"8dd4d2c3-b058-4b53-b098-11d4e442b129",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

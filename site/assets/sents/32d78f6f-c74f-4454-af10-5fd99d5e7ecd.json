@@ -1,0 +1,12 @@
+{
+  "start":23218,
+  "end":23250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you currently follow US news?",
+  "id":"32d78f6f-c74f-4454-af10-5fd99d5e7ecd",
+  "params":{
+    "id":"8ae1b275-c65a-4597-8c13-ab4503230b0f"
+  },
+  "name":"Josue"
+}

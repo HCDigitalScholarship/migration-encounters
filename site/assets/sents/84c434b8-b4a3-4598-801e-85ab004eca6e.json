@@ -1,0 +1,15 @@
+{
+  "start":19874,
+  "end":20046,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's our goal to hear from you in your own words and then to\n   trying to figure out how to get other people, other Americans to have\n   compassion too and to understand.",
+  "id":"84c434b8-b4a3-4598-801e-85ab004eca6e",
+  "params":{
+    "id":"84c434b8-b4a3-4598-801e-85ab004eca6e",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

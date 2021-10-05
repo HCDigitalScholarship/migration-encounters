@@ -1,0 +1,13 @@
+{
+  "start":52683,
+  "end":52712,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, what do you say to her?",
+  "id":"9b0532f9-4ba6-4bfb-9049-9ee44878c155",
+  "params":{
+    "id":"9b0532f9-4ba6-4bfb-9049-9ee44878c155",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

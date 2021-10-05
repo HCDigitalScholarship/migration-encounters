@@ -1,0 +1,13 @@
+{
+  "start":4777,
+  "end":4851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, la cosa era que la\n     persona que nos cruz\u00f3 se enamor\u00f3 de mis hijos.",
+  "id":"65b6a821-b2a7-4112-82fa-e5f2fcbd6c9e",
+  "params":{
+    "id":"65b6a821-b2a7-4112-82fa-e5f2fcbd6c9e",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

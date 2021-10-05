@@ -1,0 +1,12 @@
+{
+  "start":7143,
+  "end":7148,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Abel:",
+  "id":"26dcbe18-71e3-49af-85cf-0497d9b28f52",
+  "params":{
+    "id":"03ee321a-366d-4a39-9b91-37f9c0613723"
+  },
+  "name":"Abel"
+}

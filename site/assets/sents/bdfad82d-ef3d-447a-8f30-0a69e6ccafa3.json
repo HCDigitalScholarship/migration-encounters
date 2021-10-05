@@ -1,0 +1,13 @@
+{
+  "start":14190,
+  "end":14233,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   don't know how long the process takes.",
+  "id":"bdfad82d-ef3d-447a-8f30-0a69e6ccafa3",
+  "params":{
+    "id":"bdfad82d-ef3d-447a-8f30-0a69e6ccafa3",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

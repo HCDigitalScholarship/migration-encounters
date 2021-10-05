@@ -1,0 +1,13 @@
+{
+  "start":26478,
+  "end":26506,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I rent from one of my aunts.",
+  "id":"43279df4-34a4-4f14-8e4d-c019c5ce7b33",
+  "params":{
+    "id":"43279df4-34a4-4f14-8e4d-c019c5ce7b33",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67779,
+  "end":67798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's my\n   thing.",
+  "id":"a23a85ff-d8d5-4ef7-a37b-8dfdb027f06f",
+  "params":{
+    "id":"a23a85ff-d8d5-4ef7-a37b-8dfdb027f06f",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

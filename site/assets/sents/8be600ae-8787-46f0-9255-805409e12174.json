@@ -1,0 +1,13 @@
+{
+  "start":22082,
+  "end":22121,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u00bfLa se\u00f1ora me llamaba?\n \n <br/>\n \n     ",
+  "id":"8be600ae-8787-46f0-9255-805409e12174",
+  "params":{
+    "id":"8be600ae-8787-46f0-9255-805409e12174",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

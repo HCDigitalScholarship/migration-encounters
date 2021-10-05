@@ -1,0 +1,13 @@
+{
+  "start":52771,
+  "end":52789,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're very young.",
+  "id":"edfc712e-4270-489c-8a0d-99516845c907",
+  "params":{
+    "id":"edfc712e-4270-489c-8a0d-99516845c907",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

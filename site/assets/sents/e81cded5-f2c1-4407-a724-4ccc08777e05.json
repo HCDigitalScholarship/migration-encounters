@@ -1,0 +1,12 @@
+{
+  "start":60290,
+  "end":60334,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Since you're over there, just help them out.",
+  "id":"e81cded5-f2c1-4407-a724-4ccc08777e05",
+  "params":{
+    "id":"1dddb4fc-b41b-4000-bf56-6896cb26bacf"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":35772,
+  "end":35844,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he found the supervisor and he's like, \"Oh, you're Mexican,\n   huh?\"",
+  "id":"01bb1603-8936-4153-8936-1ad583998861",
+  "params":{
+    "id":"01bb1603-8936-4153-8936-1ad583998861",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

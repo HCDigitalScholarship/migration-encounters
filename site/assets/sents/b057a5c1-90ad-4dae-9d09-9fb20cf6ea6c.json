@@ -1,0 +1,13 @@
+{
+  "start":65893,
+  "end":65914,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   don't try to be.",
+  "id":"b057a5c1-90ad-4dae-9d09-9fb20cf6ea6c",
+  "params":{
+    "id":"b057a5c1-90ad-4dae-9d09-9fb20cf6ea6c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

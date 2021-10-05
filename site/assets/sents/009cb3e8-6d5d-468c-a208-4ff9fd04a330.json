@@ -1,0 +1,13 @@
+{
+  "start":10391,
+  "end":10427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's\n   where I knew more English.",
+  "id":"009cb3e8-6d5d-468c-a208-4ff9fd04a330",
+  "params":{
+    "id":"009cb3e8-6d5d-468c-a208-4ff9fd04a330",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

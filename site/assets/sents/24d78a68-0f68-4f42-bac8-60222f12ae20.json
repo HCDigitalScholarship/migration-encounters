@@ -1,0 +1,13 @@
+{
+  "start":26088,
+  "end":26117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember that Chicano girl.",
+  "id":"24d78a68-0f68-4f42-bac8-60222f12ae20",
+  "params":{
+    "id":"24d78a68-0f68-4f42-bac8-60222f12ae20",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

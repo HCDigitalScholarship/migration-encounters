@@ -1,0 +1,12 @@
+{
+  "start":1188,
+  "end":1207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was different?",
+  "id":"2c3d0b05-904e-4ec9-b0dd-64dc59c3e0b0",
+  "params":{
+    "id":"e4af478a-fc75-43ca-bb80-dee8990c1825"
+  },
+  "name":"Pablo"
+}

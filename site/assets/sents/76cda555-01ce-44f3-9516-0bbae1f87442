@@ -1,0 +1,12 @@
+{
+  "start":7200,
+  "end":7207,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yosell:",
+  "id":"76cda555-01ce-44f3-9516-0bbae1f87442",
+  "params":{
+    "id":"575dbd13-74c8-491e-9082-e515ddcaf658"
+  },
+  "name":"Yosell"
+}

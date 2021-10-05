@@ -1,0 +1,13 @@
+{
+  "start":9841,
+  "end":9936,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Actually, about a year ago, he was incarcerated, and he was just convicted\n   for 12 years.",
+  "id":"1c48f96b-defd-4cf9-8eb5-d51e645ddf4a",
+  "params":{
+    "id":"1c48f96b-defd-4cf9-8eb5-d51e645ddf4a",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2018,
+  "end":2023,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne:",
+  "id":"f392cf68-7c30-4ef7-8f30-c627900e337f",
+  "params":{
+    "id":"f392cf68-7c30-4ef7-8f30-c627900e337f",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

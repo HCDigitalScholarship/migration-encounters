@@ -1,0 +1,13 @@
+{
+  "start":24089,
+  "end":24140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   think that's like a great thing that they did.",
+  "id":"727f69b4-9440-4978-9dfd-028c9ff32a70",
+  "params":{
+    "id":"727f69b4-9440-4978-9dfd-028c9ff32a70",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

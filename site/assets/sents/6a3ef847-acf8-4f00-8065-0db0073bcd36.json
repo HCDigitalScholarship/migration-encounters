@@ -1,0 +1,13 @@
+{
+  "start":17955,
+  "end":18020,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're like \"Yeah man, we used to be friends at this\n   school.\u201d",
+  "id":"6a3ef847-acf8-4f00-8065-0db0073bcd36",
+  "params":{
+    "id":"6a3ef847-acf8-4f00-8065-0db0073bcd36",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

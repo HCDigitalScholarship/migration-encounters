@@ -1,0 +1,12 @@
+{
+  "start":17138,
+  "end":17151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Pay my bills.",
+  "id":"1b9dbf4a-7687-4b05-80e9-74e81b877f20",
+  "params":{
+    "id":"5f73b262-5d05-4600-8894-0908492d3251"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":37345,
+  "end":37446,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I paid\n   him 180 pesos and he would clean both of them, so we can have water flowing\n   if it rains.",
+  "id":"6e277722-efb2-4b25-8ddf-f683b8e8905e",
+  "params":{
+    "id":"6e277722-efb2-4b25-8ddf-f683b8e8905e",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

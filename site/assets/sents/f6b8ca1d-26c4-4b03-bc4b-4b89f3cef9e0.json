@@ -1,0 +1,13 @@
+{
+  "start":40022,
+  "end":40048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I miss the snow like crazy",
+  "id":"f6b8ca1d-26c4-4b03-bc4b-4b89f3cef9e0",
+  "params":{
+    "id":"f6b8ca1d-26c4-4b03-bc4b-4b89f3cef9e0",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

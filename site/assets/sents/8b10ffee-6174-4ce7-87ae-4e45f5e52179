@@ -1,0 +1,12 @@
+{
+  "start":12020,
+  "end":12084,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We stationed in\n Indianapolis although I did travel quite a bit.",
+  "id":"8b10ffee-6174-4ce7-87ae-4e45f5e52179",
+  "params":{
+    "id":"0bace770-364d-4a76-adf6-85316ab32ed6"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":15686,
+  "end":15711,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I haven't seen the movie.",
+  "id":"5496be3b-3603-47a4-af5b-829955554cbe",
+  "params":{
+    "id":"5496be3b-3603-47a4-af5b-829955554cbe",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

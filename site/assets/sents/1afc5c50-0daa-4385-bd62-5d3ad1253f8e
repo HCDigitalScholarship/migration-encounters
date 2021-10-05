@@ -1,0 +1,12 @@
+{
+  "start":28273,
+  "end":28294,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We paid the\n   taxes.",
+  "id":"1afc5c50-0daa-4385-bd62-5d3ad1253f8e",
+  "params":{
+    "id":"7c84095d-c71c-4b05-9cd0-fc36fe3847b9"
+  },
+  "name":"Daniel"
+}

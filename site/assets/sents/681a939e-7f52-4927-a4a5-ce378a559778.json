@@ -1,0 +1,12 @@
+{
+  "start":29575,
+  "end":29605,
+  "label":"SENT",
+  "type":"sent",
+  "text":"His name is Richard\n   Perkin.",
+  "id":"681a939e-7f52-4927-a4a5-ce378a559778",
+  "params":{
+    "id":"2f076f87-5382-41ee-8df4-7ff9f55a653c"
+  },
+  "name":"Mike"
+}

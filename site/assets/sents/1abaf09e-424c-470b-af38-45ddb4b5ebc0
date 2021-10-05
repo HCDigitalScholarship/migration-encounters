@@ -1,0 +1,12 @@
+{
+  "start":23545,
+  "end":23570,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How about any newspapers?",
+  "id":"1abaf09e-424c-470b-af38-45ddb4b5ebc0",
+  "params":{
+    "id":"c6aa4f01-a00c-490c-94f1-3cdbf23442be"
+  },
+  "name":"Josue"
+}

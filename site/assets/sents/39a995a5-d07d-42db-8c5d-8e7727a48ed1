@@ -1,0 +1,12 @@
+{
+  "start":11198,
+  "end":11230,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I can do nothing to fix this\n   ",
+  "id":"39a995a5-d07d-42db-8c5d-8e7727a48ed1",
+  "params":{
+    "id":"ac865ae6-5e2e-4253-a93e-eefadb624042"
+  },
+  "name":"Many"
+}

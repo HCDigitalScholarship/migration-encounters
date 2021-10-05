@@ -1,0 +1,13 @@
+{
+  "start":13683,
+  "end":13714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"El agarro y\n     dijo, \u201cBueno\u201d.",
+  "id":"7341a989-e089-4fcd-93f6-ce7d68a85c87",
+  "params":{
+    "id":"7341a989-e089-4fcd-93f6-ce7d68a85c87",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":63729,
+  "end":63851,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I do know that if I have a child, the first thing I want them to\n     do is to understand how things are working in world.",
+  "id":"79a5c3cc-217d-4388-8412-3c2aa68c9e8f",
+  "params":{
+    "id":"79a5c3cc-217d-4388-8412-3c2aa68c9e8f",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

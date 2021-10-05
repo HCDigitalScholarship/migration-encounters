@@ -1,0 +1,13 @@
+{
+  "start":38344,
+  "end":38400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Estuvo trabajando tres a\u00f1os as\u00ed en todas las vacaciones.",
+  "id":"5dc50bfb-15d6-46b5-8841-6def22bec736",
+  "params":{
+    "id":"5dc50bfb-15d6-46b5-8841-6def22bec736",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":26943,
+  "end":26962,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She gets paid good.",
+  "id":"c9691c33-87d6-41dc-9cc1-1acfe8c19dc1",
+  "params":{
+    "id":"c9691c33-87d6-41dc-9cc1-1acfe8c19dc1",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

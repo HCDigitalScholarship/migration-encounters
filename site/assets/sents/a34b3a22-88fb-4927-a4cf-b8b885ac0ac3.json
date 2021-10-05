@@ -1,0 +1,13 @@
+{
+  "start":67058,
+  "end":67111,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even Burger King don't taste the same here in Mexico.",
+  "id":"a34b3a22-88fb-4927-a4cf-b8b885ac0ac3",
+  "params":{
+    "id":"a34b3a22-88fb-4927-a4cf-b8b885ac0ac3",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

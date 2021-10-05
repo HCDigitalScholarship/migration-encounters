@@ -1,0 +1,12 @@
+{
+  "start":7300,
+  "end":7378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom didn't like it,\n   but she's the one that actually paid for us to stay.",
+  "id":"a48bb5f7-56b0-4f21-9719-774e98f3f741",
+  "params":{
+    "id":"8ef15c52-d948-466b-9524-9215273e13bb"
+  },
+  "name":"Ruben"
+}

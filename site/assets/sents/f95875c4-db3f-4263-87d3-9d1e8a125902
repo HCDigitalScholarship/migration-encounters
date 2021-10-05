@@ -1,0 +1,12 @@
+{
+  "start":46555,
+  "end":46587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And how long have you been back?",
+  "id":"f95875c4-db3f-4263-87d3-9d1e8a125902",
+  "params":{
+    "id":"1436a4d6-24bb-415b-b525-737bdab2a002"
+  },
+  "name":"Mike"
+}

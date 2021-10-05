@@ -1,0 +1,12 @@
+{
+  "start":30121,
+  "end":30159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was an\n   accident\u2019 [mimics voice].",
+  "id":"a97499f3-517d-40eb-ad37-525d314e0b99",
+  "params":{
+    "id":"cece8462-a314-4ec5-b0f8-a51f98e18b97"
+  },
+  "name":"Miguel A"
+}

@@ -1,0 +1,13 @@
+{
+  "start":7213,
+  "end":7250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"With the V, like the regular Donovan.",
+  "id":"9c603636-c610-4ff5-9a46-39ec4c531d87",
+  "params":{
+    "id":"9c603636-c610-4ff5-9a46-39ec4c531d87",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

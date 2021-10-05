@@ -1,0 +1,13 @@
+{
+  "start":16259,
+  "end":16282,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some point, that's why.",
+  "id":"55bf973e-e969-4a6c-b2ed-7d47a20b2b46",
+  "params":{
+    "id":"55bf973e-e969-4a6c-b2ed-7d47a20b2b46",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

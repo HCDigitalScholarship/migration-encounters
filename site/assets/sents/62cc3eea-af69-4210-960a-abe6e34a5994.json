@@ -1,0 +1,13 @@
+{
+  "start":9101,
+  "end":9190,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I guess the feedback that he gave me,\n   it's like I guess I didn't want to tell anybody.",
+  "id":"62cc3eea-af69-4210-960a-abe6e34a5994",
+  "params":{
+    "id":"62cc3eea-af69-4210-960a-abe6e34a5994",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

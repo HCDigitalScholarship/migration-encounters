@@ -1,0 +1,12 @@
+{
+  "type":"text",
+  "start":7422,
+  "end":7479,
+  "label":"Time in the US, Arriving in the United States, Age",
+  "id":"072eecdf-a42e-4e04-8a83-5ef11d0b1f2a",
+  "params":{
+    "id":"4cfdde8a-005a-496b-9095-71b967add911"
+  },
+  "name":"Mike",
+  "text":"Anne: How old were you?\n \n \n   Mike: I was 11, 12.\n \n \n  "
+}

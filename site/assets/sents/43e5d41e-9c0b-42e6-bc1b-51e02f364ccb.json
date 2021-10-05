@@ -1,0 +1,13 @@
+{
+  "start":2578,
+  "end":2627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So did you start in high school or middle school?",
+  "id":"43e5d41e-9c0b-42e6-bc1b-51e02f364ccb",
+  "params":{
+    "id":"43e5d41e-9c0b-42e6-bc1b-51e02f364ccb",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

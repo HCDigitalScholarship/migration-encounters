@@ -1,0 +1,12 @@
+{
+  "start":53804,
+  "end":53839,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But that's\n   another conversation.",
+  "id":"d76a533e-68cf-4ba1-82fe-a9f568a02abe",
+  "params":{
+    "id":"25515492-9f22-4cec-98d5-f67232878fee"
+  },
+  "name":"Rodolfo"
+}

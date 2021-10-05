@@ -1,0 +1,12 @@
+{
+  "start":8063,
+  "end":8203,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And from what I know, my uncle told\n my mom, \"You're either going to let her die there or you're going to send\n her so that I can help her.\"",
+  "id":"fbb2ac4b-04b9-4f03-ae76-cefd0a794710",
+  "params":{
+    "id":"1afc8eb2-a7af-4f9b-9085-be6a979dd2f1"
+  },
+  "name":"Ana"
+}

@@ -1,0 +1,13 @@
+{
+  "start":127,
+  "end":170,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well I guess you wondering\n where I'd been.",
+  "id":"5e2cb4ea-bfee-41df-a589-3a228462b796",
+  "params":{
+    "id":"5e2cb4ea-bfee-41df-a589-3a228462b796",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

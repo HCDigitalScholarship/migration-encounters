@@ -1,0 +1,13 @@
+{
+  "start":28273,
+  "end":28382,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I've got a little girl, she's eleven, her name's Layla,\n   and the youngest one her name's Rosita, she's six.",
+  "id":"0710c81d-24ea-4bf3-ad96-b34aa3a930d6",
+  "params":{
+    "id":"0710c81d-24ea-4bf3-ad96-b34aa3a930d6",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

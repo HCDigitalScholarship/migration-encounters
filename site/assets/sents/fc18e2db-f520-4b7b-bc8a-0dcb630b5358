@@ -1,0 +1,12 @@
+{
+  "start":7157,
+  "end":7228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   told her, \u201cNo, you need to stay over there and finish your school.",
+  "id":"fc18e2db-f520-4b7b-bc8a-0dcb630b5358",
+  "params":{
+    "id":"62fe9939-f016-4869-96b2-c226074296c4"
+  },
+  "name":"Rocio"
+}

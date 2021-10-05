@@ -1,0 +1,12 @@
+{
+  "start":1280,
+  "end":1315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Joseph: Brooklyn, New York.",
+  "id":"02266e7a-46db-4565-9c9d-a2d2e1c2dd06",
+  "params":{
+    "id":"bae9ab14-1a93-4ab3-ba7c-41a46817cc72"
+  },
+  "name":"Joseph"
+}

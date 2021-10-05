@@ -1,0 +1,13 @@
+{
+  "start":25416,
+  "end":25461,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have Alejandro, there's Miranda and Brenda.",
+  "id":"a6cbe60a-7525-406a-9cb7-1b4d42104e1e",
+  "params":{
+    "id":"a6cbe60a-7525-406a-9cb7-1b4d42104e1e",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

@@ -1,0 +1,13 @@
+{
+  "start":6481,
+  "end":6527,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Don't you have to know about the\n     product?",
+  "id":"480e90b7-a05a-4627-8c5e-943680fdc00b",
+  "params":{
+    "id":"480e90b7-a05a-4627-8c5e-943680fdc00b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

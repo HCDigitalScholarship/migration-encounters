@@ -1,0 +1,12 @@
+{
+  "start":61485,
+  "end":61719,
+  "label":"SENT",
+  "type":"sent",
+  "text":"To wrap this up, I want\n   to give you the chance to tell me anything else that you want to add,\n   anything that you felt that you may not have gotten across or anything that\n   you want to add or clarify or whatever you want to say.",
+  "id":"4a87cc65-b2c2-40bc-a465-27aea620bde6",
+  "params":{
+    "id":"3aecb1a3-368a-427a-9d8b-754515f6f071"
+  },
+  "name":"Daniel B"
+}

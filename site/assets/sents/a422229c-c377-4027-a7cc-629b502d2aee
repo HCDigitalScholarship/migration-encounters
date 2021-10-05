@@ -1,0 +1,12 @@
+{
+  "start":16383,
+  "end":16424,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was never really an issue with them.",
+  "id":"a422229c-c377-4027-a7cc-629b502d2aee",
+  "params":{
+    "id":"da400c97-87a7-4c2b-8e34-b79d979489e1"
+  },
+  "name":"Axel"
+}

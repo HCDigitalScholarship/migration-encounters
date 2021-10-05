@@ -1,0 +1,13 @@
+{
+  "start":52194,
+  "end":52240,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   said, \"No, I'm not in jail no more, baby.",
+  "id":"1dfdc5bc-3c26-4f3a-8bb4-4406cf35068c",
+  "params":{
+    "id":"1dfdc5bc-3c26-4f3a-8bb4-4406cf35068c",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

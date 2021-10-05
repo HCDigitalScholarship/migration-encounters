@@ -1,0 +1,12 @@
+{
+  "start":30002,
+  "end":30019,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Para quien le va?",
+  "id":"dfa3bdd0-5167-461d-bd83-134c3729811d",
+  "params":{
+    "id":"8ed73a75-6155-446b-89a4-8617235b9129"
+  },
+  "name":"Rodrigo"
+}

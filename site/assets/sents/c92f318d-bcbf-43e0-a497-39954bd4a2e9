@@ -1,0 +1,12 @@
+{
+  "start":17643,
+  "end":17658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you say?",
+  "id":"c92f318d-bcbf-43e0-a497-39954bd4a2e9",
+  "params":{
+    "id":"c7cf86ca-9ca4-4da3-a918-3502e3515967"
+  },
+  "name":"Many"
+}

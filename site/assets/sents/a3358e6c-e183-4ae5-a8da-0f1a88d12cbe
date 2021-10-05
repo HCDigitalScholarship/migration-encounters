@@ -1,0 +1,12 @@
+{
+  "start":13982,
+  "end":14040,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you were detained in the ICE facility or were you not?",
+  "id":"a3358e6c-e183-4ae5-a8da-0f1a88d12cbe",
+  "params":{
+    "id":"1efef576-2011-4053-95b3-11711ed3c356"
+  },
+  "name":"Josue"
+}

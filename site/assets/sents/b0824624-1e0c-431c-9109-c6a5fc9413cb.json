@@ -1,0 +1,13 @@
+{
+  "start":10611,
+  "end":10681,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even though I turned my back\n   against them, they still have my back.",
+  "id":"b0824624-1e0c-431c-9109-c6a5fc9413cb",
+  "params":{
+    "id":"b0824624-1e0c-431c-9109-c6a5fc9413cb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

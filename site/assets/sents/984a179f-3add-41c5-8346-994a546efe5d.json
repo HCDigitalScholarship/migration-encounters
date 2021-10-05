@@ -1,0 +1,13 @@
+{
+  "start":30579,
+  "end":30657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And so I'm like, \"Hey,\n     you're a developer, but you're a project manager.\"",
+  "id":"984a179f-3add-41c5-8346-994a546efe5d",
+  "params":{
+    "id":"984a179f-3add-41c5-8346-994a546efe5d",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

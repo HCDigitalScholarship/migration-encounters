@@ -1,0 +1,13 @@
+{
+  "start":22573,
+  "end":22598,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What do you mean by that?",
+  "id":"dd5bad0b-30d8-48c3-9d9b-62ff83181d81",
+  "params":{
+    "id":"dd5bad0b-30d8-48c3-9d9b-62ff83181d81",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

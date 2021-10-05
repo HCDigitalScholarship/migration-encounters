@@ -1,0 +1,13 @@
+{
+  "start":11270,
+  "end":11311,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, she was a really awesome\n   person.",
+  "id":"11073bf8-c2b9-4271-86ec-95ad76b20f29",
+  "params":{
+    "id":"11073bf8-c2b9-4271-86ec-95ad76b20f29",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

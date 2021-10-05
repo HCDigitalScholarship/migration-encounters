@@ -1,0 +1,13 @@
+{
+  "start":5723,
+  "end":5742,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You went to school.",
+  "id":"611f3fde-6300-46c9-8cd0-de7f9231cbb8",
+  "params":{
+    "id":"611f3fde-6300-46c9-8cd0-de7f9231cbb8",
+    "class":"anno"
+  },
+  "name":"Melani"
+}

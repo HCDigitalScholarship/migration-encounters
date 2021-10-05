@@ -1,0 +1,13 @@
+{
+  "start":14261,
+  "end":14303,
+  "label":"SENT",
+  "type":"sent",
+  "text":"At one point I was like, \"Dude, what am I?",
+  "id":"00bb5738-f40a-47c6-9e8b-e78e72899388",
+  "params":{
+    "id":"00bb5738-f40a-47c6-9e8b-e78e72899388",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

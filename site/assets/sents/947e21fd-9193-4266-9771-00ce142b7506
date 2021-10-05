@@ -1,0 +1,12 @@
+{
+  "start":23076,
+  "end":23099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh, it's a call center.",
+  "id":"947e21fd-9193-4266-9771-00ce142b7506",
+  "params":{
+    "id":"838d13f8-88b9-466a-9b20-c6811073262a"
+  },
+  "name":"Melani"
+}

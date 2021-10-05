@@ -1,0 +1,12 @@
+{
+  "start":29066,
+  "end":29106,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sometimes things go from good to\n   bad.",
+  "id":"eae4e6c1-a6b5-49f6-b19a-72119c13af6f",
+  "params":{
+    "id":"cd664723-2d9b-443c-9a23-62980631bfe5"
+  },
+  "name":"Kevin"
+}

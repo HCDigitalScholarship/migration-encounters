@@ -1,0 +1,12 @@
+{
+  "start":20008,
+  "end":20080,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got $3,000 back, put my taxes on my wall,\n   like I'm really doing it.",
+  "id":"f0971b6f-6414-4fe8-a028-40e4386822f1",
+  "params":{
+    "id":"e0920230-6ae8-4d2d-80b7-3edc2ae9ba0e"
+  },
+  "name":"Mike"
+}

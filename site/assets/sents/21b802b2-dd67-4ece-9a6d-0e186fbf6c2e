@@ -1,0 +1,12 @@
+{
+  "start":1601,
+  "end":1633,
+  "label":"SENT",
+  "type":"sent",
+  "text":"From there, I went to Minnesota.",
+  "id":"21b802b2-dd67-4ece-9a6d-0e186fbf6c2e",
+  "params":{
+    "id":"4e9c8718-c665-4fa6-8202-777b97dae091"
+  },
+  "name":"Rodrigo"
+}

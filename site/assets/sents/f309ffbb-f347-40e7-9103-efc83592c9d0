@@ -1,0 +1,12 @@
+{
+  "start":35954,
+  "end":36073,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We went to school in the States, so you couldn't\n   speak Spanish in school because all of your teachers spoke English.",
+  "id":"f309ffbb-f347-40e7-9103-efc83592c9d0",
+  "params":{
+    "id":"c0678e24-e140-4e95-b87d-cfdc46c5a7f0"
+  },
+  "name":"Laila"
+}

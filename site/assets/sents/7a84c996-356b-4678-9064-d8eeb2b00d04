@@ -1,0 +1,12 @@
+{
+  "start":2352,
+  "end":2400,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't understand what the teacher said to me.",
+  "id":"7a84c996-356b-4678-9064-d8eeb2b00d04",
+  "params":{
+    "id":"9fb7b430-f49e-44b8-936a-1baa6b3dec58"
+  },
+  "name":"Jeimmy"
+}

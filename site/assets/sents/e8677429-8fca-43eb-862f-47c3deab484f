@@ -1,0 +1,12 @@
+{
+  "start":69,
+  "end":89,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was\n   it like?",
+  "id":"e8677429-8fca-43eb-862f-47c3deab484f",
+  "params":{
+    "id":"09267d69-b9a9-431e-8946-48987fe171c3"
+  },
+  "name":"Rocio"
+}

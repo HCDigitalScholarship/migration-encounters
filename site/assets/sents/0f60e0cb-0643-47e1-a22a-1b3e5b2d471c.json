@@ -1,0 +1,13 @@
+{
+  "start":32193,
+  "end":32211,
+  "label":"SENT",
+  "type":"sent",
+  "text":"all\n this to them.",
+  "id":"0f60e0cb-0643-47e1-a22a-1b3e5b2d471c",
+  "params":{
+    "id":"0f60e0cb-0643-47e1-a22a-1b3e5b2d471c",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

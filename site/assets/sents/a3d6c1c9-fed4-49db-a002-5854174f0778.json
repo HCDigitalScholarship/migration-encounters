@@ -1,0 +1,13 @@
+{
+  "start":39303,
+  "end":39322,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now that I'm older.",
+  "id":"a3d6c1c9-fed4-49db-a002-5854174f0778",
+  "params":{
+    "id":"a3d6c1c9-fed4-49db-a002-5854174f0778",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

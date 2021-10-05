@@ -1,0 +1,13 @@
+{
+  "start":20194,
+  "end":20254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just got to go back to the old things that we\n   were doing.",
+  "id":"0e31fbda-8775-4b95-a5c4-9ffe87a21d1b",
+  "params":{
+    "id":"0e31fbda-8775-4b95-a5c4-9ffe87a21d1b",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

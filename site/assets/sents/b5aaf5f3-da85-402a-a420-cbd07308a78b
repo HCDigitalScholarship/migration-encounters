@@ -1,0 +1,12 @@
+{
+  "start":31171,
+  "end":31192,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He talks\n   that way.",
+  "id":"b5aaf5f3-da85-402a-a420-cbd07308a78b",
+  "params":{
+    "id":"24d8008e-4354-4f2d-b992-8ed372d94016"
+  },
+  "name":"Rodrigo"
+}

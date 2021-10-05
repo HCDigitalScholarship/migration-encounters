@@ -1,0 +1,13 @@
+{
+  "start":16758,
+  "end":16831,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came over here with my daughter, and she was with my son over\n   there.",
+  "id":"6dd75f7c-6418-4f22-8982-a02306dfb913",
+  "params":{
+    "id":"6dd75f7c-6418-4f22-8982-a02306dfb913",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

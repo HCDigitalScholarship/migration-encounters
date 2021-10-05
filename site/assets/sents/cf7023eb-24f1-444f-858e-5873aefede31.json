@@ -1,0 +1,13 @@
+{
+  "start":4471,
+  "end":4491,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were just a kid.",
+  "id":"cf7023eb-24f1-444f-858e-5873aefede31",
+  "params":{
+    "id":"cf7023eb-24f1-444f-858e-5873aefede31",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

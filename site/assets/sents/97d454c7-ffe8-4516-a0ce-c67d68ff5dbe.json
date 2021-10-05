@@ -1,0 +1,13 @@
+{
+  "start":28353,
+  "end":28385,
+  "label":"SENT",
+  "type":"sent",
+  "text":", I quit AT&amp;T, that was one.",
+  "id":"97d454c7-ffe8-4516-a0ce-c67d68ff5dbe",
+  "params":{
+    "id":"97d454c7-ffe8-4516-a0ce-c67d68ff5dbe",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

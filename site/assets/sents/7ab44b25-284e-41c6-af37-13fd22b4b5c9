@@ -1,0 +1,12 @@
+{
+  "start":27637,
+  "end":27677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I am off on\n Fridays, I'm off Saturdays.",
+  "id":"7ab44b25-284e-41c6-af37-13fd22b4b5c9",
+  "params":{
+    "id":"6b275cab-c767-4be4-85ad-d1de501e2a12"
+  },
+  "name":"Brenda"
+}

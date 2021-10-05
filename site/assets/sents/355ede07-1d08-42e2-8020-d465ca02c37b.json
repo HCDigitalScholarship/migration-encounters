@@ -1,0 +1,13 @@
+{
+  "start":9949,
+  "end":9978,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm here at this call center.",
+  "id":"355ede07-1d08-42e2-8020-d465ca02c37b",
+  "params":{
+    "id":"355ede07-1d08-42e2-8020-d465ca02c37b",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

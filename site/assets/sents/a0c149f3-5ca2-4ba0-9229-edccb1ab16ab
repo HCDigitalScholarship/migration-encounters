@@ -1,0 +1,12 @@
+{
+  "start":7321,
+  "end":7339,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like tattoo too.",
+  "id":"a0c149f3-5ca2-4ba0-9229-edccb1ab16ab",
+  "params":{
+    "id":"219ee969-f7c8-498e-8b82-0e8a03967192"
+  },
+  "name":"Many"
+}

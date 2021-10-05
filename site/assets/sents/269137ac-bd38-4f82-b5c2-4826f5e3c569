@@ -1,0 +1,12 @@
+{
+  "start":7778,
+  "end":7803,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She came to live with me.",
+  "id":"269137ac-bd38-4f82-b5c2-4826f5e3c569",
+  "params":{
+    "id":"643c0e07-cfa7-4e88-bc29-5444fb3aa1fc"
+  },
+  "name":"Pablo"
+}

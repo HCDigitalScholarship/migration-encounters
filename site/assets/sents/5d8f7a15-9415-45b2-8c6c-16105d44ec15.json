@@ -1,0 +1,13 @@
+{
+  "start":13767,
+  "end":13860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's when I lost my house, I lost my trucks, my trailers, my\n   tools, my home, everything.",
+  "id":"5d8f7a15-9415-45b2-8c6c-16105d44ec15",
+  "params":{
+    "id":"5d8f7a15-9415-45b2-8c6c-16105d44ec15",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

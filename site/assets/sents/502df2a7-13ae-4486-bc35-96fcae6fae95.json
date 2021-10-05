@@ -1,0 +1,13 @@
+{
+  "start":10200,
+  "end":10212,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's fine.",
+  "id":"502df2a7-13ae-4486-bc35-96fcae6fae95",
+  "params":{
+    "id":"502df2a7-13ae-4486-bc35-96fcae6fae95",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

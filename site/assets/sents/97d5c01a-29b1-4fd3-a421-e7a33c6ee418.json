@@ -1,0 +1,13 @@
+{
+  "start":12103,
+  "end":12120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I barely made it.",
+  "id":"97d5c01a-29b1-4fd3-a421-e7a33c6ee418",
+  "params":{
+    "id":"97d5c01a-29b1-4fd3-a421-e7a33c6ee418",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

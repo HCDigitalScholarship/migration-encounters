@@ -1,0 +1,12 @@
+{
+  "start":35971,
+  "end":35993,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's been difficult?",
+  "id":"9d72f30e-e53d-4982-95eb-0d17b7a643bb",
+  "params":{
+    "id":"b982e5b1-3d1d-4c3a-a777-f045320ffe74"
+  },
+  "name":"Rodrigo"
+}

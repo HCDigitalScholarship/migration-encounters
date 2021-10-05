@@ -1,0 +1,13 @@
+{
+  "start":4017,
+  "end":4053,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You said you came with your brother?",
+  "id":"6c5d0062-5397-4a3c-a10b-074d64f91164",
+  "params":{
+    "id":"6c5d0062-5397-4a3c-a10b-074d64f91164",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

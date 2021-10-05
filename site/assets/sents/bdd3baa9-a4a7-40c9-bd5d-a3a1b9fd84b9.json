@@ -1,0 +1,13 @@
+{
+  "start":35517,
+  "end":35541,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He tenido lo que quiero.",
+  "id":"bdd3baa9-a4a7-40c9-bd5d-a3a1b9fd84b9",
+  "params":{
+    "id":"bdd3baa9-a4a7-40c9-bd5d-a3a1b9fd84b9",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

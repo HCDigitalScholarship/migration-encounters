@@ -1,0 +1,12 @@
+{
+  "start":37408,
+  "end":37432,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What are you being paid?",
+  "id":"fee02dde-ffca-4eec-9bd8-99e3d9084a2d",
+  "params":{
+    "id":"0b6ab8f6-1fd3-49f3-9872-2e0567cace56"
+  },
+  "name":"Rodrigo"
+}

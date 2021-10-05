@@ -1,0 +1,13 @@
+{
+  "start":4232,
+  "end":4291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was too young, too, but I\n   didn't want to leave my mom.",
+  "id":"e9428f42-b124-49a4-bbfa-37b55034e867",
+  "params":{
+    "id":"e9428f42-b124-49a4-bbfa-37b55034e867",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

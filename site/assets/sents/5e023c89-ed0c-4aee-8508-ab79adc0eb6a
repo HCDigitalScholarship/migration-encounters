@@ -1,0 +1,12 @@
+{
+  "start":2165,
+  "end":2180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's awesome.",
+  "id":"5e023c89-ed0c-4aee-8508-ab79adc0eb6a",
+  "params":{
+    "id":"31710e59-2344-490a-a4d1-c3c5961b50ca"
+  },
+  "name":"Ana"
+}

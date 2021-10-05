@@ -1,0 +1,13 @@
+{
+  "start":20141,
+  "end":20220,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was like, \"Well\n   you should have thought of that when you ran your mouth.\"",
+  "id":"28bd2edf-6859-4dc0-adae-8c84341cdbef",
+  "params":{
+    "id":"28bd2edf-6859-4dc0-adae-8c84341cdbef",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

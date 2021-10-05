@@ -1,0 +1,13 @@
+{
+  "start":4103,
+  "end":4117,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old is he?",
+  "id":"7624b93d-3361-4965-9bda-b8594eeab1a2",
+  "params":{
+    "id":"7624b93d-3361-4965-9bda-b8594eeab1a2",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

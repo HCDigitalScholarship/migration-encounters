@@ -1,0 +1,13 @@
+{
+  "start":6868,
+  "end":6890,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Where were you born?\"",
+  "id":"5bee54d6-3a92-408d-ae54-2c97d5e5bfed",
+  "params":{
+    "id":"5bee54d6-3a92-408d-ae54-2c97d5e5bfed",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

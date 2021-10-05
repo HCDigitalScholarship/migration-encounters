@@ -1,0 +1,13 @@
+{
+  "start":25702,
+  "end":25781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think they had a marine\n   biology program there, and I wanted to go to UCLA.",
+  "id":"94bc9d16-4ca8-4940-8c36-595aa4dcd1e9",
+  "params":{
+    "id":"94bc9d16-4ca8-4940-8c36-595aa4dcd1e9",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

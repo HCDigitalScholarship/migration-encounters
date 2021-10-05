@@ -1,0 +1,13 @@
+{
+  "start":6603,
+  "end":6639,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you came back?",
+  "id":"c059d424-7234-4f7e-9220-d45b9f1dd7ac",
+  "params":{
+    "id":"c059d424-7234-4f7e-9220-d45b9f1dd7ac",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

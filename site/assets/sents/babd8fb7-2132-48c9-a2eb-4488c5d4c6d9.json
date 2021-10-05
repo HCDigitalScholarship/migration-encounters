@@ -1,0 +1,13 @@
+{
+  "start":323,
+  "end":336,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What\n   else?",
+  "id":"babd8fb7-2132-48c9-a2eb-4488c5d4c6d9",
+  "params":{
+    "id":"babd8fb7-2132-48c9-a2eb-4488c5d4c6d9",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

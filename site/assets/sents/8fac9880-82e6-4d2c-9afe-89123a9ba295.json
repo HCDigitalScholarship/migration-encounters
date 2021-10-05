@@ -1,0 +1,13 @@
+{
+  "start":22202,
+  "end":22238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He was just a really cool\n   friend.",
+  "id":"8fac9880-82e6-4d2c-9afe-89123a9ba295",
+  "params":{
+    "id":"8fac9880-82e6-4d2c-9afe-89123a9ba295",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

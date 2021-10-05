@@ -1,0 +1,13 @@
+{
+  "start":7370,
+  "end":7410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And she told me many times not to do it.",
+  "id":"266a7991-f8d9-4a14-b0db-6f15f7088cc3",
+  "params":{
+    "id":"266a7991-f8d9-4a14-b0db-6f15f7088cc3",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

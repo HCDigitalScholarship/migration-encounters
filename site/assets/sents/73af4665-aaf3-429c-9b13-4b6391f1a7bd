@@ -1,0 +1,12 @@
+{
+  "start":3095,
+  "end":3159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't work, I didn't go to school, I was just watching\n   TV.",
+  "id":"73af4665-aaf3-429c-9b13-4b6391f1a7bd",
+  "params":{
+    "id":"b43c1e92-6ab3-4644-9bfe-268250ae9d8c"
+  },
+  "name":"Luis A"
+}

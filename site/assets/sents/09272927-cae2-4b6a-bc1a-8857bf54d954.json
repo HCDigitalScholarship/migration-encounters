@@ -1,0 +1,12 @@
+{
+  "start":50895,
+  "end":50943,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My sister's going to get\n   married pretty soon.",
+  "id":"09272927-cae2-4b6a-bc1a-8857bf54d954",
+  "params":{
+    "id":"da8fd683-08dc-46b9-aa94-1b685c97d40c"
+  },
+  "name":"Mike"
+}

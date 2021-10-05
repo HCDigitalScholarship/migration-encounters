@@ -1,0 +1,12 @@
+{
+  "start":722,
+  "end":745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well, I left by myself.",
+  "id":"8dea095f-24a9-4c55-bf60-daf6392c8a60",
+  "params":{
+    "id":"c3cc442b-1186-4f06-b536-592c8a63e8a7"
+  },
+  "name":"Joana"
+}

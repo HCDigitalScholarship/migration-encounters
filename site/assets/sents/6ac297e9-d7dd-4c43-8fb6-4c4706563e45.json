@@ -1,0 +1,13 @@
+{
+  "start":367,
+  "end":410,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if you work hard, you make less money.",
+  "id":"6ac297e9-d7dd-4c43-8fb6-4c4706563e45",
+  "params":{
+    "id":"6ac297e9-d7dd-4c43-8fb6-4c4706563e45",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

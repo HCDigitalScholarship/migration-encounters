@@ -1,0 +1,12 @@
+{
+  "start":4802,
+  "end":4840,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n You can become somebody if you want.",
+  "id":"e3d8eea6-a963-4418-9ebc-b1f550d6b37c",
+  "params":{
+    "id":"5a2487f5-2941-46a6-8f2d-e3fe392fb663"
+  },
+  "name":"Billy"
+}

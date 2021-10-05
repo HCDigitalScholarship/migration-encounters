@@ -1,0 +1,13 @@
+{
+  "start":6312,
+  "end":6453,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She took us to Los Angeles to live with my uncle, and I remember we\n   moved back to Arizona, because we thought my dad wasn't there anymore.",
+  "id":"28888873-4ee6-4050-ab8a-79d2e7c40b5e",
+  "params":{
+    "id":"28888873-4ee6-4050-ab8a-79d2e7c40b5e",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

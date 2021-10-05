@@ -1,0 +1,12 @@
+{
+  "start":51230,
+  "end":51251,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Do you ever see them?",
+  "id":"2ba906b2-6a94-4fb3-9b64-8c82664478cc",
+  "params":{
+    "id":"e20daf18-25a0-473c-af0a-917eef19af40"
+  },
+  "name":"Joseph"
+}

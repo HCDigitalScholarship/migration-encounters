@@ -1,0 +1,13 @@
+{
+  "start":2360,
+  "end":2451,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We always use different\n   vocabulary than the ones they use just to be different, I guess.",
+  "id":"b205ad33-34df-4d50-b0a5-4555379a7dfa",
+  "params":{
+    "id":"b205ad33-34df-4d50-b0a5-4555379a7dfa",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

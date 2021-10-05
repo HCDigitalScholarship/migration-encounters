@@ -1,0 +1,13 @@
+{
+  "start":25085,
+  "end":25209,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Our school offered scuba diving lessons for free, they would take\n   us to the Catalina Islands to scuba dive in California.",
+  "id":"2fc60789-56f5-43c3-9ca0-1d228d619e8b",
+  "params":{
+    "id":"2fc60789-56f5-43c3-9ca0-1d228d619e8b",
+    "class":"anno"
+  },
+  "name":"Laila"
+}

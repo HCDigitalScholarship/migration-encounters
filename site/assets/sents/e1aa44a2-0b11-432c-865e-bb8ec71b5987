@@ -1,0 +1,12 @@
+{
+  "start":30341,
+  "end":30385,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   you don\u2019t know what it\u2019s like out there.",
+  "id":"e1aa44a2-0b11-432c-865e-bb8ec71b5987",
+  "params":{
+    "id":"dc654b1e-5e88-43ec-9276-fc4b8dad1fa6"
+  },
+  "name":"Luisa"
+}

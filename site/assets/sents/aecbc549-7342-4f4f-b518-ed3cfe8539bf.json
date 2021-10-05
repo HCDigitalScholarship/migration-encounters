@@ -1,0 +1,12 @@
+{
+  "start":10045,
+  "end":10102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mom called the cops, and you were\n   taken to jail at 17?",
+  "id":"aecbc549-7342-4f4f-b518-ed3cfe8539bf",
+  "params":{
+    "id":"e2ed8fb2-1710-46f2-9804-3f273b6c129f"
+  },
+  "name":"Pablo"
+}

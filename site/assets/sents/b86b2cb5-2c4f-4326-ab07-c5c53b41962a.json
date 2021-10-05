@@ -1,0 +1,13 @@
+{
+  "start":3235,
+  "end":3264,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like me, I'm dark-complected.",
+  "id":"b86b2cb5-2c4f-4326-ab07-c5c53b41962a",
+  "params":{
+    "id":"b86b2cb5-2c4f-4326-ab07-c5c53b41962a",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

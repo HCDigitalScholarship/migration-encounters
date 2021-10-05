@@ -1,0 +1,13 @@
+{
+  "start":6275,
+  "end":6333,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Those are the times I\n   realized, this is not my country.",
+  "id":"3a128005-d90e-4315-9b33-7fcebf94352a",
+  "params":{
+    "id":"3a128005-d90e-4315-9b33-7fcebf94352a",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

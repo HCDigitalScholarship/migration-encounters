@@ -1,0 +1,13 @@
+{
+  "start":26950,
+  "end":26986,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Her sister would call me like, \"Hey.",
+  "id":"f1148da3-4af1-4641-be3d-231ebe6e2b1c",
+  "params":{
+    "id":"f1148da3-4af1-4641-be3d-231ebe6e2b1c",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

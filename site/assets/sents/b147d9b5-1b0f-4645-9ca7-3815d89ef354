@@ -1,0 +1,12 @@
+{
+  "start":52391,
+  "end":52409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Whatever\n   it is.",
+  "id":"b147d9b5-1b0f-4645-9ca7-3815d89ef354",
+  "params":{
+    "id":"5e960ac5-b1ac-4d98-93cc-1d60ce697ada"
+  },
+  "name":"Mike"
+}

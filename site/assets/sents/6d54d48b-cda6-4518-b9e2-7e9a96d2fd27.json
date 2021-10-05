@@ -1,0 +1,13 @@
+{
+  "start":6862,
+  "end":6921,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n     don't have to learn about each and every clothing.",
+  "id":"6d54d48b-cda6-4518-b9e2-7e9a96d2fd27",
+  "params":{
+    "id":"6d54d48b-cda6-4518-b9e2-7e9a96d2fd27",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

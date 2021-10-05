@@ -1,0 +1,13 @@
+{
+  "start":41732,
+  "end":41754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What does he tell you?",
+  "id":"d7a3b9c4-b849-480a-b1f3-e4ed2cb56591",
+  "params":{
+    "id":"d7a3b9c4-b849-480a-b1f3-e4ed2cb56591",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

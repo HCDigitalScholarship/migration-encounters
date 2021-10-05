@@ -1,0 +1,13 @@
+{
+  "start":2452,
+  "end":2477,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We have\n   our own lingo.",
+  "id":"14cbe0db-0f82-4893-861a-8290ca07463e",
+  "params":{
+    "id":"14cbe0db-0f82-4893-861a-8290ca07463e",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":57296,
+  "end":57354,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, that's something that doesn't happen\n     quite often.",
+  "id":"29834a15-01c6-4adc-8cd1-ccc21d9ffaf7",
+  "params":{
+    "id":"29834a15-01c6-4adc-8cd1-ccc21d9ffaf7",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

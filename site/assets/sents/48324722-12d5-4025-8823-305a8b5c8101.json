@@ -1,0 +1,13 @@
+{
+  "start":29653,
+  "end":29730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's never lived in the US, but his English is as if he had lived\n in the US.",
+  "id":"48324722-12d5-4025-8823-305a8b5c8101",
+  "params":{
+    "id":"48324722-12d5-4025-8823-305a8b5c8101",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

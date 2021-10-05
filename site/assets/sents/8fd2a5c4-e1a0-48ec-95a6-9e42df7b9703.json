@@ -1,0 +1,13 @@
+{
+  "start":1654,
+  "end":1708,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was so surprised I had a bus\n   taking me to school.",
+  "id":"8fd2a5c4-e1a0-48ec-95a6-9e42df7b9703",
+  "params":{
+    "id":"8fd2a5c4-e1a0-48ec-95a6-9e42df7b9703",
+    "class":"anno"
+  },
+  "name":"Ivan B"
+}

@@ -1,0 +1,13 @@
+{
+  "start":23580,
+  "end":23638,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   they have a little bit more years to serve than me.",
+  "id":"be9a405d-2a6f-4eb4-a76c-97cb23d43b27",
+  "params":{
+    "id":"be9a405d-2a6f-4eb4-a76c-97cb23d43b27",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

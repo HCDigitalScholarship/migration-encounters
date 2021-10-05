@@ -1,0 +1,13 @@
+{
+  "start":13831,
+  "end":13900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My uncle worked at a restaurant called, Baker's Square in\n   Chicago.",
+  "id":"936ded4b-c48a-403e-8353-0bf5385bd776",
+  "params":{
+    "id":"936ded4b-c48a-403e-8353-0bf5385bd776",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

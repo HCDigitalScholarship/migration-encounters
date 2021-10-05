@@ -1,0 +1,12 @@
+{
+  "start":7073,
+  "end":7132,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't want to give\n   them my name because I was scared.",
+  "id":"ce82ce7c-95c7-43ff-9b89-02e369552d92",
+  "params":{
+    "id":"808ed819-37c6-4ada-b2e2-f9fa05d1512f"
+  },
+  "name":"Ivan"
+}

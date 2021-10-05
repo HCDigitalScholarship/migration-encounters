@@ -1,0 +1,15 @@
+{
+  "start":9577,
+  "end":9647,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want to continue\n   with that because it's okay if I say on Spanish?",
+  "id":"802940d5-939b-48de-ad01-1ee25f5070f8",
+  "params":{
+    "id":"802940d5-939b-48de-ad01-1ee25f5070f8",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

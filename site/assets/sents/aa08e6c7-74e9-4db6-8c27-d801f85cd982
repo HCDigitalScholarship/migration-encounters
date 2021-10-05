@@ -1,0 +1,12 @@
+{
+  "start":40319,
+  "end":40369,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What's that separation been like from all of them?",
+  "id":"aa08e6c7-74e9-4db6-8c27-d801f85cd982",
+  "params":{
+    "id":"08233dd9-e308-4c5f-b7a0-cc7cb0c6b1f1"
+  },
+  "name":"Daniel B"
+}

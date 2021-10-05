@@ -1,0 +1,13 @@
+{
+  "start":44382,
+  "end":44449,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I hope it never\n   happens, but I don't think I want to be Mexican.",
+  "id":"4d898c7b-cbb9-4619-9f20-00fa2bab9a41",
+  "params":{
+    "id":"4d898c7b-cbb9-4619-9f20-00fa2bab9a41",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

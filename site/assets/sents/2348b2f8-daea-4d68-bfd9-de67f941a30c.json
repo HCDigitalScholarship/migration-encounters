@@ -1,0 +1,13 @@
+{
+  "start":7492,
+  "end":7567,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Talk a little bit about that, about the papers, because that's\ninteresting.",
+  "id":"2348b2f8-daea-4d68-bfd9-de67f941a30c",
+  "params":{
+    "id":"2348b2f8-daea-4d68-bfd9-de67f941a30c",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":25027,
+  "end":25069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I want someone from the United\n   States.\"",
+  "id":"274fd688-418a-48e7-a6a2-5386e535d93e",
+  "params":{
+    "id":"274fd688-418a-48e7-a6a2-5386e535d93e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

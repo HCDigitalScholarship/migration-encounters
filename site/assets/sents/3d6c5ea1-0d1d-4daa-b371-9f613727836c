@@ -1,0 +1,12 @@
+{
+  "start":11199,
+  "end":11239,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Was there something you wanted to study?",
+  "id":"3d6c5ea1-0d1d-4daa-b371-9f613727836c",
+  "params":{
+    "id":"d5d484cf-b4e2-475f-ab54-507ae5b161d3"
+  },
+  "name":"Ivan B"
+}

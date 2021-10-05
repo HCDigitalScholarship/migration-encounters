@@ -1,0 +1,13 @@
+{
+  "start":5353,
+  "end":5425,
+  "label":"SENT",
+  "type":"sent",
+  "text":"When I got older, I went to high school, I didn't like\n   going anymore.",
+  "id":"32169911-ced8-42e3-ad6d-0c314281d287",
+  "params":{
+    "id":"32169911-ced8-42e3-ad6d-0c314281d287",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

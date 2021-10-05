@@ -1,0 +1,13 @@
+{
+  "start":81,
+  "end":201,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I know we covered in the survey, but just like reiterating what\n motivated your family to migrate from Mexico to the US.",
+  "id":"19d0ba2a-5b31-4690-9f0d-de371858ca31",
+  "params":{
+    "id":"19d0ba2a-5b31-4690-9f0d-de371858ca31",
+    "class":"anno"
+  },
+  "name":"Angelo"
+}

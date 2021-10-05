@@ -1,0 +1,12 @@
+{
+  "start":19295,
+  "end":19330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which family met you at the border?",
+  "id":"8e57e7b0-c13e-4fcc-853e-3f5ac22482ac",
+  "params":{
+    "id":"d33f726d-38b4-4613-b2d6-646c17732916"
+  },
+  "name":"Carlos"
+}

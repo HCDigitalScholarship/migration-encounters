@@ -1,0 +1,12 @@
+{
+  "start":9976,
+  "end":10012,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita: Really?\n      \n      \n Billy:",
+  "id":"d97c69f9-4785-455a-bdcb-253c94b19e32",
+  "params":{
+    "id":"d550099a-b3bb-4b4e-8238-75fb6edb00d2"
+  },
+  "name":"Billy"
+}

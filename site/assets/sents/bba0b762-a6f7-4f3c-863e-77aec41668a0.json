@@ -1,0 +1,13 @@
+{
+  "start":25379,
+  "end":25408,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was feeling\n     like home.",
+  "id":"bba0b762-a6f7-4f3c-863e-77aec41668a0",
+  "params":{
+    "id":"bba0b762-a6f7-4f3c-863e-77aec41668a0",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

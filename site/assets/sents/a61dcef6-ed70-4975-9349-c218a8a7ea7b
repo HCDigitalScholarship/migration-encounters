@@ -1,0 +1,12 @@
+{
+  "start":21185,
+  "end":21234,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But it was drastically [unintelligible\n   43:48].",
+  "id":"a61dcef6-ed70-4975-9349-c218a8a7ea7b",
+  "params":{
+    "id":"b6b0e507-7f84-4c95-a32b-2e01d3948d69"
+  },
+  "name":"Sylent"
+}

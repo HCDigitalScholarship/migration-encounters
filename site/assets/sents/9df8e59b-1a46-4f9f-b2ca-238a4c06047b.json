@@ -1,0 +1,13 @@
+{
+  "start":43234,
+  "end":43396,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He can influence another\n   person to think the same thing because I think that here in Mexico, it's\n   all about what I can do for myself, not really for others.",
+  "id":"9df8e59b-1a46-4f9f-b2ca-238a4c06047b",
+  "params":{
+    "id":"9df8e59b-1a46-4f9f-b2ca-238a4c06047b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9991,
+  "end":10003,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Mexico City.",
+  "id":"e1f0f37c-b797-4928-9551-2f3224b198eb",
+  "params":{
+    "id":"e1f0f37c-b797-4928-9551-2f3224b198eb",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

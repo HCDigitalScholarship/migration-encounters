@@ -1,0 +1,13 @@
+{
+  "start":23490,
+  "end":23587,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They never tell you that the promotions, they will\n   probably hook you up with another contract.",
+  "id":"d79be55e-d4f5-4b8c-9cf9-074ee8e000fb",
+  "params":{
+    "id":"d79be55e-d4f5-4b8c-9cf9-074ee8e000fb",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

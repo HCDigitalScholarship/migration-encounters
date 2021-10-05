@@ -1,0 +1,12 @@
+{
+  "start":10666,
+  "end":10697,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long were you\u2014\n \n \n   Hugo:",
+  "id":"6bbe468e-e303-479e-bc8e-7e121bf2efd2",
+  "params":{
+    "id":"ca5d510d-3b4d-499c-aa6d-4a39da72fad9"
+  },
+  "name":"Hugo"
+}

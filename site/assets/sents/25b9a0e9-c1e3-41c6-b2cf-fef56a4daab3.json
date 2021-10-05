@@ -1,0 +1,13 @@
+{
+  "start":13089,
+  "end":13124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think I'm going to\n   like a lot.",
+  "id":"25b9a0e9-c1e3-41c6-b2cf-fef56a4daab3",
+  "params":{
+    "id":"25b9a0e9-c1e3-41c6-b2cf-fef56a4daab3",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

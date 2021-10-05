@@ -1,0 +1,13 @@
+{
+  "start":27143,
+  "end":27173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're an amazing storyteller.",
+  "id":"e1425ad3-4f04-40f9-a880-8129bb0701b3",
+  "params":{
+    "id":"e1425ad3-4f04-40f9-a880-8129bb0701b3",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

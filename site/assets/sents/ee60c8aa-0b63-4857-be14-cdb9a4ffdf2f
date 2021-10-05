@@ -1,0 +1,12 @@
+{
+  "start":8200,
+  "end":8250,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was basically not a really big choice for me.",
+  "id":"ee60c8aa-0b63-4857-be14-cdb9a4ffdf2f",
+  "params":{
+    "id":"33e0aa2b-2fb2-4117-a20e-6ff57e613866"
+  },
+  "name":"Yosell"
+}

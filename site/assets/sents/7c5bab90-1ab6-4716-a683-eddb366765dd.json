@@ -1,0 +1,13 @@
+{
+  "start":9392,
+  "end":9409,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is she a citizen?",
+  "id":"7c5bab90-1ab6-4716-a683-eddb366765dd",
+  "params":{
+    "id":"7c5bab90-1ab6-4716-a683-eddb366765dd",
+    "class":"anno"
+  },
+  "name":"Juan B"
+}

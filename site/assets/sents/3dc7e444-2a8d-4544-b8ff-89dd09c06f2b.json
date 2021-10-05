@@ -1,0 +1,13 @@
+{
+  "start":41868,
+  "end":41894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my\n   friend and that's it",
+  "id":"3dc7e444-2a8d-4544-b8ff-89dd09c06f2b",
+  "params":{
+    "id":"3dc7e444-2a8d-4544-b8ff-89dd09c06f2b",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

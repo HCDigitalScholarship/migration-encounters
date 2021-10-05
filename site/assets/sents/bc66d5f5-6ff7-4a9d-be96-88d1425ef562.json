@@ -1,0 +1,13 @@
+{
+  "start":44586,
+  "end":44600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me\n   see.",
+  "id":"bc66d5f5-6ff7-4a9d-be96-88d1425ef562",
+  "params":{
+    "id":"bc66d5f5-6ff7-4a9d-be96-88d1425ef562",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

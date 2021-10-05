@@ -1,0 +1,13 @@
+{
+  "start":20935,
+  "end":20975,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They can't find a job, they can't\n   ...",
+  "id":"a78c290a-e122-4d1e-801c-bb1cf45ac311",
+  "params":{
+    "id":"a78c290a-e122-4d1e-801c-bb1cf45ac311",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

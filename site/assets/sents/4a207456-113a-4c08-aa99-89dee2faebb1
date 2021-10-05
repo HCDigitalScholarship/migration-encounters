@@ -1,0 +1,12 @@
+{
+  "start":1080,
+  "end":1101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Where did you arrive?",
+  "id":"4a207456-113a-4c08-aa99-89dee2faebb1",
+  "params":{
+    "id":"bf31f066-4bf9-43be-8a04-39daae6c2bb0"
+  },
+  "name":"Rodrigo"
+}

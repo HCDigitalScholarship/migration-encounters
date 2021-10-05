@@ -1,0 +1,13 @@
+{
+  "start":20997,
+  "end":21045,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I live\n   here and then over there, it's like...",
+  "id":"080b31f2-6e58-4dc2-a0cf-64cf05a45251",
+  "params":{
+    "id":"080b31f2-6e58-4dc2-a0cf-64cf05a45251",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

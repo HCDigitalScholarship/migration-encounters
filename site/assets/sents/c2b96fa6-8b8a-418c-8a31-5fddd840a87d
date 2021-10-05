@@ -1,0 +1,12 @@
+{
+  "start":53509,
+  "end":53545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me da mucho miedo\n     sinceramente.",
+  "id":"c2b96fa6-8b8a-418c-8a31-5fddd840a87d",
+  "params":{
+    "id":"ecfab648-e3ba-447d-9e83-ac8d3b98101f"
+  },
+  "name":"Maria"
+}

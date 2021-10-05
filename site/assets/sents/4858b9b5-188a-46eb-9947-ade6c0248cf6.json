@@ -1,0 +1,13 @@
+{
+  "start":9694,
+  "end":9706,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got a job.",
+  "id":"4858b9b5-188a-46eb-9947-ade6c0248cf6",
+  "params":{
+    "id":"4858b9b5-188a-46eb-9947-ade6c0248cf6",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

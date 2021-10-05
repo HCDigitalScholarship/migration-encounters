@@ -1,0 +1,12 @@
+{
+  "start":63701,
+  "end":63730,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're going to get deported.",
+  "id":"d8b162a1-61e9-4870-8559-2b0f1bf23008",
+  "params":{
+    "id":"0cc33d50-005d-453c-9061-402235752c6d"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3065,
+  "end":3125,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He didn't quite want to\n   let me go drink some water alone.",
+  "id":"c06b6202-f679-4918-b540-cff581403a1a",
+  "params":{
+    "id":"c06b6202-f679-4918-b540-cff581403a1a",
+    "class":"anno"
+  },
+  "name":"Valeria"
+}

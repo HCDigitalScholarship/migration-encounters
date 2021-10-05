@@ -1,0 +1,13 @@
+{
+  "start":20107,
+  "end":20152,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\n   yeah, then I'm , \"Nah, I'm Mexican too.",
+  "id":"dd41f3f2-8e1b-488c-8fe6-2eba54033e1b",
+  "params":{
+    "id":"dd41f3f2-8e1b-488c-8fe6-2eba54033e1b",
+    "class":"anno"
+  },
+  "name":"Yordani"
+}

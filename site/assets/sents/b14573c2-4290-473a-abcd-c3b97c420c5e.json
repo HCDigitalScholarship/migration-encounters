@@ -1,0 +1,13 @@
+{
+  "start":24314,
+  "end":24338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"not so great\n over there",
+  "id":"b14573c2-4290-473a-abcd-c3b97c420c5e",
+  "params":{
+    "id":"b14573c2-4290-473a-abcd-c3b97c420c5e",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

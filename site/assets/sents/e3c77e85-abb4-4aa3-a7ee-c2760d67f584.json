@@ -1,0 +1,13 @@
+{
+  "start":175,
+  "end":254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I was born in the city of\n   Puebla, Mexico, which is a state south of here.",
+  "id":"e3c77e85-abb4-4aa3-a7ee-c2760d67f584",
+  "params":{
+    "id":"e3c77e85-abb4-4aa3-a7ee-c2760d67f584",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31268,
+  "end":31307,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was\n     difficult for the language.",
+  "id":"7d419f03-9ff5-41f9-9905-8b761ac49b9e",
+  "params":{
+    "id":"7d419f03-9ff5-41f9-9905-8b761ac49b9e",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

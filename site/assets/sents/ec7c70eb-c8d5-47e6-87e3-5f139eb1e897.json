@@ -1,0 +1,13 @@
+{
+  "start":10935,
+  "end":10961,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She even kicked\n   us out.",
+  "id":"ec7c70eb-c8d5-47e6-87e3-5f139eb1e897",
+  "params":{
+    "id":"ec7c70eb-c8d5-47e6-87e3-5f139eb1e897",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,12 @@
+{
+  "start":45345,
+  "end":45397,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is just something that I felt like I had to do.",
+  "id":"3459b778-33d5-40df-9403-c8ae0d410587",
+  "params":{
+    "id":"738a9aec-b603-4126-84ed-46313b6635bd"
+  },
+  "name":"Mike"
+}

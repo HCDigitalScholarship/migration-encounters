@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":3872,
+  "end":3877,
+  "text":": I was in college, _____ for about a year and a half.\n \n \n   Sergio: So, college. What did you study in college?\n \n \n   Josue: Culinary arts.\n \n \n   Sergio: Culinary arts. That's pretty cool.\n \n \n   Josue: Yeah, I mean I like cooking, but not working in a restaurant.\n \n \n   Sergio: Did you have to pay for the school or how was the financial aid\n   situation?\n \n \n   Josue: Oh no, I had to pay, I used t",
+  "label":"PERSON",
+  "id":"b44fbed5-ddee-4e40-b4f7-61e8701ecc53",
+  "name":"Josue"
+}

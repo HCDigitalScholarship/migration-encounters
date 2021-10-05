@@ -1,0 +1,13 @@
+{
+  "start":53719,
+  "end":53757,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told him, \"Hey, look, I want to go.\"",
+  "id":"fe9dfe19-324c-4519-81d9-9492f1057da8",
+  "params":{
+    "id":"fe9dfe19-324c-4519-81d9-9492f1057da8",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

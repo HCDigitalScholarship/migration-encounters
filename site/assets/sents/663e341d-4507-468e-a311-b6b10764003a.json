@@ -1,0 +1,13 @@
+{
+  "start":30280,
+  "end":30378,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My dad here in Mexico, he's very like esos son mis\n   derechos [these are my rights] very contra-.",
+  "id":"663e341d-4507-468e-a311-b6b10764003a",
+  "params":{
+    "id":"663e341d-4507-468e-a311-b6b10764003a",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

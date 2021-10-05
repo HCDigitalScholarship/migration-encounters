@@ -1,0 +1,12 @@
+{
+  "start":14965,
+  "end":14991,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Man, I forgot\n   his name.",
+  "id":"bb34c3bc-9e25-4092-98f8-3c1a0ccd6171",
+  "params":{
+    "id":"286bc4d0-e05e-4e6e-8ac0-40723a9967a1"
+  },
+  "name":"Rodolfo"
+}

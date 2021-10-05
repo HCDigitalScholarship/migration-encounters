@@ -1,0 +1,13 @@
+{
+  "start":20371,
+  "end":20420,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You just happened to have your passport with you?",
+  "id":"bdfc4229-b292-4de4-bb06-fb2243efdd09",
+  "params":{
+    "id":"bdfc4229-b292-4de4-bb06-fb2243efdd09",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":20577,
+  "end":20616,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel\n   like I'm nobody, I'm nothing.",
+  "id":"58d5b55e-cba8-4aab-b5c1-4d828b1ff500",
+  "params":{
+    "id":"40634d74-b80d-4feb-a2ad-18b7159ed893"
+  },
+  "name":"Cris"
+}

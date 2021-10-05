@@ -1,0 +1,13 @@
+{
+  "start":6787,
+  "end":6806,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had some friends\u2014",
+  "id":"75afdb2a-ee5a-49f4-aa74-a7774d7a0725",
+  "params":{
+    "id":"75afdb2a-ee5a-49f4-aa74-a7774d7a0725",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

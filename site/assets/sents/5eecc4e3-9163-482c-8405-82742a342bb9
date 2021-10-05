@@ -1,0 +1,12 @@
+{
+  "start":16294,
+  "end":16314,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things have changed.",
+  "id":"5eecc4e3-9163-482c-8405-82742a342bb9",
+  "params":{
+    "id":"55bc6f89-bc32-4b5b-84bc-921042cb96fe"
+  },
+  "name":"Abel"
+}

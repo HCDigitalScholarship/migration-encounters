@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":15760,
+  "end":15766,
+  "text":"'m not sure. I have to ask my dad. He knows all about\n   it, but we never talk about that stuff. We always talk about, \"How are you?\n   What you've been doing?\"\n \n \n   Anne: Was there a trial?\n \n \n   Carlos: Yep.\n \n \n   Anne: There was a trial?\n \n \n   Carlos: Hm?\n \n \n   Anne: Was there a trial for the crime?\n \n \n   Carlos: Yeah, I think. Yeah, I think it was, but I really don't remember\n   that as well.",
+  "label":"PERSON",
+  "id":"b6d37b86-7dd7-4a24-9b2b-b4c611cbe50f",
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31374,
+  "end":31417,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm like, \"Oh, what are\n     you offering?\"",
+  "id":"75c3e906-7340-49aa-a15f-b504cd5a1389",
+  "params":{
+    "id":"75c3e906-7340-49aa-a15f-b504cd5a1389",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

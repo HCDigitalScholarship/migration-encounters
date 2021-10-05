@@ -1,0 +1,13 @@
+{
+  "start":29098,
+  "end":29163,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He could be one Mexican, and he's completely the Mexican\n   flag.",
+  "id":"9ff8ffff-4879-4414-b184-da95b0e03f0c",
+  "params":{
+    "id":"9ff8ffff-4879-4414-b184-da95b0e03f0c",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

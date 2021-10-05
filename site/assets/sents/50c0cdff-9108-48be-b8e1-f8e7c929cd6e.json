@@ -1,0 +1,13 @@
+{
+  "start":4482,
+  "end":4511,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because they live over there.",
+  "id":"50c0cdff-9108-48be-b8e1-f8e7c929cd6e",
+  "params":{
+    "id":"50c0cdff-9108-48be-b8e1-f8e7c929cd6e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

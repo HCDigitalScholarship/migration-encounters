@@ -1,0 +1,12 @@
+{
+  "start":31809,
+  "end":31834,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How did you end up there?",
+  "id":"b2f8ce53-e93b-447d-90f9-6d32330b294b",
+  "params":{
+    "id":"d42d5621-3c0f-4496-b535-4d187bb9d177"
+  },
+  "name":"Cris"
+}

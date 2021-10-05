@@ -1,0 +1,12 @@
+{
+  "start":14305,
+  "end":14363,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How old were you when you were a chef for that restaurant?",
+  "id":"e044bf1e-f837-47e0-a202-9bab43ac2996",
+  "params":{
+    "id":"133c146e-b61c-4847-9804-78436a0eaaf8"
+  },
+  "name":"Angelo"
+}

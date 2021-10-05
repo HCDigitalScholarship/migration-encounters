@@ -1,0 +1,13 @@
+{
+  "start":32144,
+  "end":32180,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was\n playing basketball and stuff.",
+  "id":"12454efc-1be9-4938-9e81-0d04c5fa443a",
+  "params":{
+    "id":"12454efc-1be9-4938-9e81-0d04c5fa443a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

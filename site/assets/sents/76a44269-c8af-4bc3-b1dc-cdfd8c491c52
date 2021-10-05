@@ -1,0 +1,12 @@
+{
+  "start":6946,
+  "end":6974,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the correct spelling.",
+  "id":"76a44269-c8af-4bc3-b1dc-cdfd8c491c52",
+  "params":{
+    "id":"29de2ec8-d751-4369-b942-67c0865fa677"
+  },
+  "name":"Donovan"
+}

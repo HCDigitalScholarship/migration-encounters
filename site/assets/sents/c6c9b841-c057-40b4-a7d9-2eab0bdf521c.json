@@ -1,0 +1,13 @@
+{
+  "start":2585,
+  "end":2609,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Erik: Huh?\n \n \n   Anita:",
+  "id":"c6c9b841-c057-40b4-a7d9-2eab0bdf521c",
+  "params":{
+    "id":"c6c9b841-c057-40b4-a7d9-2eab0bdf521c",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

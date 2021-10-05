@@ -1,0 +1,13 @@
+{
+  "start":1567,
+  "end":1594,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n \n \n   Joana: With my mom.",
+  "id":"f1091a25-3f1b-493c-a1d1-49d89caf87bc",
+  "params":{
+    "id":"f1091a25-3f1b-493c-a1d1-49d89caf87bc",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

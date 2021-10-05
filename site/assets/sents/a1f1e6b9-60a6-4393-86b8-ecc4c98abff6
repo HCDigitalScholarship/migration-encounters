@@ -1,0 +1,12 @@
+{
+  "start":15310,
+  "end":15330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It better come back.",
+  "id":"a1f1e6b9-60a6-4393-86b8-ecc4c98abff6",
+  "params":{
+    "id":"2748ded8-f632-4e4e-9004-24622fde9965"
+  },
+  "name":"Hugo"
+}

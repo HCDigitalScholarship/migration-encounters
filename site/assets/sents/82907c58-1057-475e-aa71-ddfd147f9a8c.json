@@ -1,0 +1,13 @@
+{
+  "start":1819,
+  "end":1846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: Uh-huh (affirmative).",
+  "id":"82907c58-1057-475e-aa71-ddfd147f9a8c",
+  "params":{
+    "id":"82907c58-1057-475e-aa71-ddfd147f9a8c",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

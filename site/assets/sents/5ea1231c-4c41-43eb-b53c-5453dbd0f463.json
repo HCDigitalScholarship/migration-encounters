@@ -1,0 +1,13 @@
+{
+  "start":35989,
+  "end":36076,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   was more into the historic part of things rather than to look at it how it\n   is.",
+  "id":"5ea1231c-4c41-43eb-b53c-5453dbd0f463",
+  "params":{
+    "id":"5ea1231c-4c41-43eb-b53c-5453dbd0f463",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":67245,
+  "end":67256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's weird.",
+  "id":"e6aa5cc0-41d6-4838-8caa-1a0e82f05819",
+  "params":{
+    "id":"e6aa5cc0-41d6-4838-8caa-1a0e82f05819",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

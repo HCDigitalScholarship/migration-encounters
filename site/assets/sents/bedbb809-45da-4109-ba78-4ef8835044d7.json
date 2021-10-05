@@ -1,0 +1,12 @@
+{
+  "start":200,
+  "end":228,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Ivan: In the city of Mexico.",
+  "id":"bedbb809-45da-4109-ba78-4ef8835044d7",
+  "params":{
+    "id":"77ff07f7-865f-4699-a7c2-6c18c04efd50"
+  },
+  "name":"Ivan"
+}

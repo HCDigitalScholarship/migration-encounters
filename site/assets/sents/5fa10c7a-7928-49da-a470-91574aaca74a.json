@@ -1,0 +1,13 @@
+{
+  "start":13055,
+  "end":13079,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was somewhere in ____.",
+  "id":"5fa10c7a-7928-49da-a470-91574aaca74a",
+  "params":{
+    "id":"5fa10c7a-7928-49da-a470-91574aaca74a",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

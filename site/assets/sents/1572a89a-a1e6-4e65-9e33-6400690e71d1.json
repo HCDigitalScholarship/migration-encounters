@@ -1,0 +1,13 @@
+{
+  "start":34840,
+  "end":34862,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm just being honest.",
+  "id":"1572a89a-a1e6-4e65-9e33-6400690e71d1",
+  "params":{
+    "id":"1572a89a-a1e6-4e65-9e33-6400690e71d1",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

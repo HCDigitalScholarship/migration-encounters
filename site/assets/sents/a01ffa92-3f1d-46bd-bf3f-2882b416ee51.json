@@ -1,0 +1,15 @@
+{
+  "start":8334,
+  "end":8431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   history of Mexico and have a special project an invent that could help the\n   whole world.",
+  "id":"a01ffa92-3f1d-46bd-bf3f-2882b416ee51",
+  "params":{
+    "id":"a01ffa92-3f1d-46bd-bf3f-2882b416ee51",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

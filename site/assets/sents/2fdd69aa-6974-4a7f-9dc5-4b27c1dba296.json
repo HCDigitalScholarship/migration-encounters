@@ -1,0 +1,13 @@
+{
+  "start":11070,
+  "end":11128,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, actually, they started deporting people at the time.",
+  "id":"2fdd69aa-6974-4a7f-9dc5-4b27c1dba296",
+  "params":{
+    "id":"2fdd69aa-6974-4a7f-9dc5-4b27c1dba296",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

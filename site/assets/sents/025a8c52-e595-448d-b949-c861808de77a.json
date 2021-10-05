@@ -1,0 +1,13 @@
+{
+  "start":2024,
+  "end":2028,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Wow.",
+  "id":"025a8c52-e595-448d-b949-c861808de77a",
+  "params":{
+    "id":"025a8c52-e595-448d-b949-c861808de77a",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

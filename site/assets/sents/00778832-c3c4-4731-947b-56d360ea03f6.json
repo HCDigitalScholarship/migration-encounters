@@ -1,0 +1,13 @@
+{
+  "start":28020,
+  "end":28081,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm trying to hurry up as quick as\n   possible and get a job.",
+  "id":"00778832-c3c4-4731-947b-56d360ea03f6",
+  "params":{
+    "id":"00778832-c3c4-4731-947b-56d360ea03f6",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

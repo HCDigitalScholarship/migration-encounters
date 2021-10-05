@@ -1,0 +1,13 @@
+{
+  "start":3935,
+  "end":3948,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He moved out.",
+  "id":"f0a6413a-0867-4a6d-81f4-61601fcbea8e",
+  "params":{
+    "id":"f0a6413a-0867-4a6d-81f4-61601fcbea8e",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

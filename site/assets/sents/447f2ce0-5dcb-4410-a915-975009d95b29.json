@@ -1,0 +1,13 @@
+{
+  "start":15451,
+  "end":15514,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It must have been hard, because you didn't know\n   any English.",
+  "id":"447f2ce0-5dcb-4410-a915-975009d95b29",
+  "params":{
+    "id":"447f2ce0-5dcb-4410-a915-975009d95b29",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

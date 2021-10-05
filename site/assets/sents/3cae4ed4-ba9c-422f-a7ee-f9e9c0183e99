@@ -1,0 +1,12 @@
+{
+  "start":30987,
+  "end":31037,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The day I got picked up, I was driving to\n   work.",
+  "id":"3cae4ed4-ba9c-422f-a7ee-f9e9c0183e99",
+  "params":{
+    "id":"bf7349a2-5807-4f37-b51d-31f5df0bd4c9"
+  },
+  "name":"Rodolfo"
+}

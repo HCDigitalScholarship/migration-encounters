@@ -1,0 +1,13 @@
+{
+  "start":19870,
+  "end":19912,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Edgar: From here, like an hour and a half.",
+  "id":"06435562-fc8f-4091-8cd8-9f86d54e56ec",
+  "params":{
+    "id":"06435562-fc8f-4091-8cd8-9f86d54e56ec",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

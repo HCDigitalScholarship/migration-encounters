@@ -1,0 +1,13 @@
+{
+  "start":820,
+  "end":864,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was your favorite thing about Oklahoma?",
+  "id":"ce27de7e-a1c1-41dc-a091-0e8b04743d26",
+  "params":{
+    "id":"ce27de7e-a1c1-41dc-a091-0e8b04743d26",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

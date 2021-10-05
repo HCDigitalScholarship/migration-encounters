@@ -1,0 +1,13 @@
+{
+  "start":23499,
+  "end":23516,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Things like that.",
+  "id":"8d2eaa82-9e48-4c8e-967d-ff0a92dee144",
+  "params":{
+    "id":"8d2eaa82-9e48-4c8e-967d-ff0a92dee144",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

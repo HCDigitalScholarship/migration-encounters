@@ -1,0 +1,13 @@
+{
+  "start":29013,
+  "end":29065,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can\n   plan something for now, but shit changes.",
+  "id":"0b1c21d3-a5c8-458e-b605-176e57870273",
+  "params":{
+    "id":"0b1c21d3-a5c8-458e-b605-176e57870273",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

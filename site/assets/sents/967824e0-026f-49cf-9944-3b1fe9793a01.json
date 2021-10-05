@@ -1,0 +1,13 @@
+{
+  "start":54308,
+  "end":54395,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I felt like I was actually a part of that, but it sucks when you\n   realize you're not.",
+  "id":"967824e0-026f-49cf-9944-3b1fe9793a01",
+  "params":{
+    "id":"967824e0-026f-49cf-9944-3b1fe9793a01",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

@@ -1,0 +1,12 @@
+{
+  "start":7273,
+  "end":7320,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love\n   tattoos because I like to draw a lot.",
+  "id":"bd00accc-69e9-4458-a84a-c868846689d6",
+  "params":{
+    "id":"f94ba53d-0d0d-4945-a9d0-5ebf35a7e41b"
+  },
+  "name":"Many"
+}

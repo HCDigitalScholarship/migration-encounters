@@ -1,0 +1,12 @@
+{
+  "start":20950,
+  "end":20980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They're quick\n   to judge you.",
+  "id":"e3414412-2571-470a-9c6e-5716631428ee",
+  "params":{
+    "id":"3ca94b73-4778-4226-819f-7a3fbf6d9678"
+  },
+  "name":"Kevin"
+}

@@ -1,0 +1,13 @@
+{
+  "start":5385,
+  "end":5402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, my stepdad.",
+  "id":"f16acf24-8ca1-46b0-99d2-2c6eee0bc5ba",
+  "params":{
+    "id":"f16acf24-8ca1-46b0-99d2-2c6eee0bc5ba",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

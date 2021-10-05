@@ -1,0 +1,13 @@
+{
+  "start":17645,
+  "end":17650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yair:",
+  "id":"08de30b5-8a54-4c56-8375-8b62e2ca0893",
+  "params":{
+    "id":"08de30b5-8a54-4c56-8375-8b62e2ca0893",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

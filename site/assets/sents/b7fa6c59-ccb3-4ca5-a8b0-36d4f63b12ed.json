@@ -1,0 +1,13 @@
+{
+  "start":18732,
+  "end":18757,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to do something.",
+  "id":"b7fa6c59-ccb3-4ca5-a8b0-36d4f63b12ed",
+  "params":{
+    "id":"b7fa6c59-ccb3-4ca5-a8b0-36d4f63b12ed",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

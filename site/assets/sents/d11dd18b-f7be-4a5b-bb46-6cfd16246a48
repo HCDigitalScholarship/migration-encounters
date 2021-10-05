@@ -1,0 +1,12 @@
+{
+  "start":30383,
+  "end":30434,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   didn't like the fried rice with the shrimp.",
+  "id":"d11dd18b-f7be-4a5b-bb46-6cfd16246a48",
+  "params":{
+    "id":"b605c872-9ce2-4f84-9267-d46bc84e394e"
+  },
+  "name":"Noe"
+}

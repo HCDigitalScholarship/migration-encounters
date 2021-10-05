@@ -1,0 +1,12 @@
+{
+  "start":14986,
+  "end":15015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"I\n   became a rebel.",
+  "id":"b28d72fd-95eb-44fc-9c4c-bb14163e37d2",
+  "params":{
+    "id":"1a19b4f9-3858-4a99-be78-aaf2f7f0c0d1"
+  },
+  "name":"Ruben"
+}

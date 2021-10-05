@@ -1,0 +1,12 @@
+{
+  "start":2002,
+  "end":2097,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They were taking my mom's information, but didn't take ours\n   because it was me and my sister.",
+  "id":"135a8459-6060-486b-a0df-5e7aee53b39f",
+  "params":{
+    "id":"3cb5f95c-5412-4e01-bebd-93ca1ae059fe"
+  },
+  "name":"Yair"
+}

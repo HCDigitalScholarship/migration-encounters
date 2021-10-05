@@ -1,0 +1,13 @@
+{
+  "start":15502,
+  "end":15572,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, he asked me for if I was a resident, if I\n   could show any proof.",
+  "id":"7868f4a2-8a45-4c86-a168-c4b9b8d46d5e",
+  "params":{
+    "id":"7868f4a2-8a45-4c86-a168-c4b9b8d46d5e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

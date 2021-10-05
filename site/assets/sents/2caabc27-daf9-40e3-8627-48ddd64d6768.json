@@ -1,0 +1,13 @@
+{
+  "start":12716,
+  "end":12738,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Just give me a minute.",
+  "id":"2caabc27-daf9-40e3-8627-48ddd64d6768",
+  "params":{
+    "id":"2caabc27-daf9-40e3-8627-48ddd64d6768",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

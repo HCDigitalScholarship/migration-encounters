@@ -1,0 +1,12 @@
+{
+  "start":51995,
+  "end":52088,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Now that you're back in Mexico and you have been back, what do you\n   think you'd like to do?",
+  "id":"e9059c2c-e84c-4714-9006-ceea96b125f4",
+  "params":{
+    "id":"1c9ff389-c2ee-42d0-872d-9fe16eabe282"
+  },
+  "name":"Daniel B"
+}

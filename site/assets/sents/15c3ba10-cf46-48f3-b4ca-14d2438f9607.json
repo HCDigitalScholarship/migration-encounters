@@ -1,0 +1,13 @@
+{
+  "start":25391,
+  "end":25414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I spent a week at home.",
+  "id":"15c3ba10-cf46-48f3-b4ca-14d2438f9607",
+  "params":{
+    "id":"15c3ba10-cf46-48f3-b4ca-14d2438f9607",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

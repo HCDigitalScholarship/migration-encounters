@@ -1,0 +1,13 @@
+{
+  "start":12051,
+  "end":12078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's Jack in the\n   Box.",
+  "id":"40cf5e87-af35-452f-860b-9104204505ac",
+  "params":{
+    "id":"40cf5e87-af35-452f-860b-9104204505ac",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

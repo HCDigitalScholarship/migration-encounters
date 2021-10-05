@@ -1,0 +1,12 @@
+{
+  "start":3836,
+  "end":3911,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Your friend was arrested for reckless driving, and what was your\n   charge?",
+  "id":"5cdfa3ec-e847-4408-8978-1e20a554aa3a",
+  "params":{
+    "id":"b4ae15e2-3484-4c7f-8682-2822e596734e"
+  },
+  "name":"Noe"
+}

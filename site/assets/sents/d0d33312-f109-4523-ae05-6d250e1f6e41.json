@@ -1,0 +1,13 @@
+{
+  "start":134,
+  "end":179,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you've been to the\n   United States twice?",
+  "id":"d0d33312-f109-4523-ae05-6d250e1f6e41",
+  "params":{
+    "id":"d0d33312-f109-4523-ae05-6d250e1f6e41",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

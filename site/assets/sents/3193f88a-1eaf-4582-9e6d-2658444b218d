@@ -1,0 +1,12 @@
+{
+  "start":25600,
+  "end":25627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She fell out of a building.",
+  "id":"3193f88a-1eaf-4582-9e6d-2658444b218d",
+  "params":{
+    "id":"04bb6e18-55c9-4fd7-8696-8445c66ef1c7"
+  },
+  "name":"Billy"
+}

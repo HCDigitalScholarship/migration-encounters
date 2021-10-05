@@ -1,0 +1,12 @@
+{
+  "start":7740,
+  "end":7781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because\n   it\u2019s hard taking care of kids.",
+  "id":"ef436c48-f60e-4691-aa39-b01f970bebad",
+  "params":{
+    "id":"528d22ea-52f5-4e9e-bfdc-bb7ef1ff90d7"
+  },
+  "name":"Mike"
+}

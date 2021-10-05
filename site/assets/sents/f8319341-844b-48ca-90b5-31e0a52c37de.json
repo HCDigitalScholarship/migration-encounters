@@ -1,0 +1,13 @@
+{
+  "start":9321,
+  "end":9358,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: Just newspaper?\n \n \n   Josue:",
+  "id":"f8319341-844b-48ca-90b5-31e0a52c37de",
+  "params":{
+    "id":"f8319341-844b-48ca-90b5-31e0a52c37de",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

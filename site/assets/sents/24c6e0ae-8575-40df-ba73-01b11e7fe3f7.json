@@ -1,0 +1,13 @@
+{
+  "start":25168,
+  "end":25185,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But he went back.",
+  "id":"24c6e0ae-8575-40df-ba73-01b11e7fe3f7",
+  "params":{
+    "id":"24c6e0ae-8575-40df-ba73-01b11e7fe3f7",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

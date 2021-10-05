@@ -1,0 +1,13 @@
+{
+  "start":27450,
+  "end":27482,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He says,\n   \"You're not Robert.\"",
+  "id":"29b94904-3341-4c15-9ab1-96518806a494",
+  "params":{
+    "id":"29b94904-3341-4c15-9ab1-96518806a494",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

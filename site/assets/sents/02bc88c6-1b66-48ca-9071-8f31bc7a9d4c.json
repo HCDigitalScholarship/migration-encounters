@@ -1,0 +1,13 @@
+{
+  "start":35047,
+  "end":35100,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Everywhere in the\n   world there's going to be drugs.",
+  "id":"02bc88c6-1b66-48ca-9071-8f31bc7a9d4c",
+  "params":{
+    "id":"02bc88c6-1b66-48ca-9071-8f31bc7a9d4c",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

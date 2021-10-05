@@ -1,0 +1,12 @@
+{
+  "start":6688,
+  "end":6699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's a lot.",
+  "id":"f558278e-e46f-4909-b77d-8cbdf932c4eb",
+  "params":{
+    "id":"fe343c40-3441-4eec-a18b-897a430c68aa"
+  },
+  "name":"Many"
+}

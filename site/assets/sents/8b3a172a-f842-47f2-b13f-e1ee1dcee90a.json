@@ -1,0 +1,13 @@
+{
+  "start":48886,
+  "end":48935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We ask which of your relatives live in\n   Mexico?",
+  "id":"8b3a172a-f842-47f2-b13f-e1ee1dcee90a",
+  "params":{
+    "id":"8b3a172a-f842-47f2-b13f-e1ee1dcee90a",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

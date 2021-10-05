@@ -1,0 +1,13 @@
+{
+  "start":40446,
+  "end":40536,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My best guess\n   is languages, not only English but other languages like French or German.",
+  "id":"8e3ead03-08e5-4e53-afb1-533989f6c36b",
+  "params":{
+    "id":"8e3ead03-08e5-4e53-afb1-533989f6c36b",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,12 @@
+{
+  "start":19654,
+  "end":19677,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They say Mexico is bad.",
+  "id":"bebfe4d4-f0b0-4e6c-b4db-0e1697d5b0f3",
+  "params":{
+    "id":"c315c750-81cc-4922-a167-d4e3170e4542"
+  },
+  "name":"Kevin"
+}

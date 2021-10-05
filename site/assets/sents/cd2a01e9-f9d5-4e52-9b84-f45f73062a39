@@ -1,0 +1,12 @@
+{
+  "start":48000,
+  "end":48127,
+  "label":"SENT",
+  "type":"sent",
+  "text":"O\n     a custodia de otra familia americana que pudieran verla porque seg\u00fan\n     nosotros no la cuidamos porque se las llevaron",
+  "id":"cd2a01e9-f9d5-4e52-9b84-f45f73062a39",
+  "params":{
+    "id":"acbb2876-6249-4e9b-8d68-4cf8199e3c8d"
+  },
+  "name":"Maria"
+}

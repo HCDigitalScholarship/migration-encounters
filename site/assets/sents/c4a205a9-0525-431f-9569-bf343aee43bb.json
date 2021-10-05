@@ -1,0 +1,13 @@
+{
+  "start":3810,
+  "end":3852,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You come out at night, it looks like Iraq.",
+  "id":"c4a205a9-0525-431f-9569-bf343aee43bb",
+  "params":{
+    "id":"c4a205a9-0525-431f-9569-bf343aee43bb",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

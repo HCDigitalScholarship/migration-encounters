@@ -1,0 +1,13 @@
+{
+  "start":30029,
+  "end":30063,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   just barely moving my head.",
+  "id":"6a91edbb-dde3-4672-86cb-4f7ebdd60466",
+  "params":{
+    "id":"6a91edbb-dde3-4672-86cb-4f7ebdd60466",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

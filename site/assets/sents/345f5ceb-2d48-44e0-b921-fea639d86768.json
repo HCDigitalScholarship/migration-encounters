@@ -1,0 +1,13 @@
+{
+  "start":5479,
+  "end":5552,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a lady from the Taco Bell\n   gave us some food, and let us stay with her.",
+  "id":"345f5ceb-2d48-44e0-b921-fea639d86768",
+  "params":{
+    "id":"345f5ceb-2d48-44e0-b921-fea639d86768",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

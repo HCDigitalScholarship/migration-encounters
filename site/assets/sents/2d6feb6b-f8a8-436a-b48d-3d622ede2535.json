@@ -1,0 +1,13 @@
+{
+  "start":31121,
+  "end":31138,
+  "label":"SENT",
+  "type":"sent",
+  "text":"the\n   IB program",
+  "id":"2d6feb6b-f8a8-436a-b48d-3d622ede2535",
+  "params":{
+    "id":"2d6feb6b-f8a8-436a-b48d-3d622ede2535",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

@@ -1,0 +1,15 @@
+{
+  "start":18587,
+  "end":18610,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even if they're a jerk.",
+  "id":"8d5ab242-4307-4a9e-8ad7-d31d9041e4db",
+  "params":{
+    "id":"8d5ab242-4307-4a9e-8ad7-d31d9041e4db",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

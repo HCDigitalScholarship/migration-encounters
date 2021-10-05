@@ -1,0 +1,12 @@
+{
+  "start":32052,
+  "end":32126,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You're either too American to be Mexican or\n   too Mexican to be American.",
+  "id":"ea64b459-60bf-4327-956f-d220e3a91deb",
+  "params":{
+    "id":"089abab3-cd01-4138-8bfd-6f4bf292bcaf"
+  },
+  "name":"Zayuri"
+}

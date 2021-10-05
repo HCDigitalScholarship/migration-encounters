@@ -1,0 +1,13 @@
+{
+  "start":17053,
+  "end":17069,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's who I am.",
+  "id":"e5a4d283-86c1-4ef1-a7bf-c3a80916efc8",
+  "params":{
+    "id":"e5a4d283-86c1-4ef1-a7bf-c3a80916efc8",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

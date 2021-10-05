@@ -1,0 +1,12 @@
+{
+  "start":32312,
+  "end":32359,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I took that to my\n   advantage and said, \"Okay.",
+  "id":"0868eeff-c1f7-4f25-bad1-0d593b444572",
+  "params":{
+    "id":"8a035be7-6767-49c0-8e06-6182cbedbf41"
+  },
+  "name":"Sylent"
+}

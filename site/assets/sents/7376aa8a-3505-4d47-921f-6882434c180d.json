@@ -1,0 +1,13 @@
+{
+  "start":28965,
+  "end":29000,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was living with him until August.",
+  "id":"7376aa8a-3505-4d47-921f-6882434c180d",
+  "params":{
+    "id":"7376aa8a-3505-4d47-921f-6882434c180d",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

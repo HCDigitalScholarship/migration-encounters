@@ -1,0 +1,12 @@
+{
+  "start":16242,
+  "end":16265,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's kind of different.",
+  "id":"5ec48880-01c8-4af1-acb4-71fe9a8aafa2",
+  "params":{
+    "id":"fc2e2458-a249-46ce-8a08-15fa331ec814"
+  },
+  "name":"Kevin"
+}

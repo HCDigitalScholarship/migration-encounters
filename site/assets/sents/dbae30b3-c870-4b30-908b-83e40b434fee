@@ -1,0 +1,12 @@
+{
+  "start":18968,
+  "end":19007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm about to go to work in a few hours.",
+  "id":"dbae30b3-c870-4b30-908b-83e40b434fee",
+  "params":{
+    "id":"5eacc438-b55a-42cb-8a53-850bd456ea4f"
+  },
+  "name":"Hugo"
+}

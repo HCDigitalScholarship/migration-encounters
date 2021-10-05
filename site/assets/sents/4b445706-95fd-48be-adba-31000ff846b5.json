@@ -1,0 +1,13 @@
+{
+  "start":6364,
+  "end":6386,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I came back by myself.",
+  "id":"4b445706-95fd-48be-adba-31000ff846b5",
+  "params":{
+    "id":"4b445706-95fd-48be-adba-31000ff846b5",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

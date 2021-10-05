@@ -1,0 +1,13 @@
+{
+  "start":1899,
+  "end":1985,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why did she choose to go to ____ if she didn't have any relationship\n   with your dad?",
+  "id":"ff97b49a-69e4-47f7-a505-44e765739106",
+  "params":{
+    "id":"ff97b49a-69e4-47f7-a505-44e765739106",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

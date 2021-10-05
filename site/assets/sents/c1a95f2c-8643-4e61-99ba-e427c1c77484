@@ -1,0 +1,12 @@
+{
+  "start":2813,
+  "end":2909,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That was _______ and then you know _______, ________, and then\n   after that we went to Florida.",
+  "id":"c1a95f2c-8643-4e61-99ba-e427c1c77484",
+  "params":{
+    "id":"160f167d-782d-4f73-aa9b-c1a7c1013fc0"
+  },
+  "name":"Miguel A"
+}

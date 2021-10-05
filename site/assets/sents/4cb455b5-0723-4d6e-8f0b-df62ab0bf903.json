@@ -1,0 +1,13 @@
+{
+  "start":67138,
+  "end":67159,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They take the cheese.",
+  "id":"4cb455b5-0723-4d6e-8f0b-df62ab0bf903",
+  "params":{
+    "id":"4cb455b5-0723-4d6e-8f0b-df62ab0bf903",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

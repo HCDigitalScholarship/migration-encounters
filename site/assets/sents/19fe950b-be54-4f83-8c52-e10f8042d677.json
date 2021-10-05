@@ -1,0 +1,13 @@
+{
+  "start":523,
+  "end":560,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Then we went to Buffalo, New\n   York.",
+  "id":"19fe950b-be54-4f83-8c52-e10f8042d677",
+  "params":{
+    "id":"19fe950b-be54-4f83-8c52-e10f8042d677",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

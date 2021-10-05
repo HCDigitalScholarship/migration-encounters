@@ -1,0 +1,12 @@
+{
+  "start":45422,
+  "end":45430,
+  "label":"SENT",
+  "type":"sent",
+  "text":"A human.",
+  "id":"88d88eb4-966f-4109-92e8-7639147f53b5",
+  "params":{
+    "id":"43370382-8d69-499e-abbf-1e5425144c03"
+  },
+  "name":"Sylent"
+}

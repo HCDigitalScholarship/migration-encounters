@@ -1,0 +1,13 @@
+{
+  "start":14374,
+  "end":14402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I wouldn't say Abel Martine.",
+  "id":"778efb98-26aa-4e6a-9d6a-affd6eab2782",
+  "params":{
+    "id":"778efb98-26aa-4e6a-9d6a-affd6eab2782",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

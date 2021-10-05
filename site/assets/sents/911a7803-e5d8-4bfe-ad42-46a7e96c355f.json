@@ -1,0 +1,13 @@
+{
+  "start":32912,
+  "end":32937,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I did that in three days.",
+  "id":"911a7803-e5d8-4bfe-ad42-46a7e96c355f",
+  "params":{
+    "id":"911a7803-e5d8-4bfe-ad42-46a7e96c355f",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

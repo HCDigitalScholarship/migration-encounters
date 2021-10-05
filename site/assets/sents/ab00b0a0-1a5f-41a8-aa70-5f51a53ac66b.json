@@ -1,0 +1,13 @@
+{
+  "start":14297,
+  "end":14323,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Claudia: Wow.\n \n \n   Ilse:",
+  "id":"ab00b0a0-1a5f-41a8-aa70-5f51a53ac66b",
+  "params":{
+    "id":"ab00b0a0-1a5f-41a8-aa70-5f51a53ac66b",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

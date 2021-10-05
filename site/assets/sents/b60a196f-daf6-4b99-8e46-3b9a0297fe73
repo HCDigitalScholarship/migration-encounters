@@ -1,0 +1,12 @@
+{
+  "start":1861,
+  "end":1894,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I went right away and hugged her.",
+  "id":"b60a196f-daf6-4b99-8e46-3b9a0297fe73",
+  "params":{
+    "id":"367d2cfd-450e-45e7-b956-5cafbbdc96f0"
+  },
+  "name":"Edgar"
+}

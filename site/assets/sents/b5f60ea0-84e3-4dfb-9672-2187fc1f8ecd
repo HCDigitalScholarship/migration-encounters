@@ -1,0 +1,12 @@
+{
+  "start":43887,
+  "end":43918,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Have you seen this Cuban cigar?",
+  "id":"b5f60ea0-84e3-4dfb-9672-2187fc1f8ecd",
+  "params":{
+    "id":"2de17a49-99d7-41fd-92fe-c755098e2fde"
+  },
+  "name":"Mike"
+}

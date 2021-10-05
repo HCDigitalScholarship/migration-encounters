@@ -1,0 +1,13 @@
+{
+  "start":61751,
+  "end":61814,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She ended up buying another car later on, a couple years later,",
+  "id":"a54d5cb9-c006-4bfd-8ba0-7e8bf6599632",
+  "params":{
+    "id":"a54d5cb9-c006-4bfd-8ba0-7e8bf6599632",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

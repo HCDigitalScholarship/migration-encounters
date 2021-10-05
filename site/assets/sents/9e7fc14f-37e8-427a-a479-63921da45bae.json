@@ -1,0 +1,13 @@
+{
+  "start":4172,
+  "end":4244,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did your parents have anything to say about that or were they\n   not...?",
+  "id":"9e7fc14f-37e8-427a-a479-63921da45bae",
+  "params":{
+    "id":"9e7fc14f-37e8-427a-a479-63921da45bae",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1554,
+  "end":1662,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me ask you a question about that because I've thought about that in the\n   past year or so of this work.",
+  "id":"b73f0963-5575-455e-9102-8600e788b15c",
+  "params":{
+    "id":"b73f0963-5575-455e-9102-8600e788b15c",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

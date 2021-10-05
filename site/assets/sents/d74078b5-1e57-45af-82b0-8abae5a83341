@@ -1,0 +1,12 @@
+{
+  "start":33983,
+  "end":33997,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm trying to.",
+  "id":"d74078b5-1e57-45af-82b0-8abae5a83341",
+  "params":{
+    "id":"8fd2f524-03fe-42e7-9f97-1aca6ac18672"
+  },
+  "name":"Rodrigo"
+}

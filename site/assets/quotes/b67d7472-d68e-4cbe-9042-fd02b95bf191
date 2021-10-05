@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":15234,
+  "end":15241,
+  "text":"d you have an uncle that was deported?\n \n \n   Yordani: Yeah, but I wasn't really that close to him. I just know he's my\n   uncle.\n \n \n   Lizzy: So you don't have any close family members here?\n \n \n   Yordani: No, not really. Here in Mexico? Like here, here? No, I'm here\n   alone. Like most of my family's in Nayarit. My grandma, my aunts and\n   cousins.\n \n \n   Lizzy: Do you ever go to visit them there?\n \n",
+  "label":"PERSON",
+  "id":"b67d7472-d68e-4cbe-9042-fd02b95bf191",
+  "name":"Yordani"
+}

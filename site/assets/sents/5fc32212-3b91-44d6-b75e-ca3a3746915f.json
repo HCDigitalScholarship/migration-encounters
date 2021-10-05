@@ -1,0 +1,13 @@
+{
+  "start":43227,
+  "end":43263,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo trabajaba dieciseis horas al d\u00eda.",
+  "id":"5fc32212-3b91-44d6-b75e-ca3a3746915f",
+  "params":{
+    "id":"5fc32212-3b91-44d6-b75e-ca3a3746915f",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

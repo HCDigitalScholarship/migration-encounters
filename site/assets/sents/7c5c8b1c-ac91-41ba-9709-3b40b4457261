@@ -1,0 +1,12 @@
+{
+  "start":15529,
+  "end":15554,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n     don't ask much.",
+  "id":"7c5c8b1c-ac91-41ba-9709-3b40b4457261",
+  "params":{
+    "id":"bff3f073-ba13-4156-96a4-aae990e10e12"
+  },
+  "name":"Beto"
+}

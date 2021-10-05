@@ -1,0 +1,12 @@
+{
+  "start":10964,
+  "end":11014,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never\n   work at McDonald's, but my brother did.",
+  "id":"b50de1f0-aa06-43d3-9f28-ae4706e8b45e",
+  "params":{
+    "id":"8ccc834d-c7ad-4567-aa03-4aacaecf2f79"
+  },
+  "name":"Laura B"
+}

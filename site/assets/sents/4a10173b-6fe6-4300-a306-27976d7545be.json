@@ -1,0 +1,13 @@
+{
+  "start":53388,
+  "end":53414,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Es muy dif\u00edcil vivir aqu\u00ed.",
+  "id":"4a10173b-6fe6-4300-a306-27976d7545be",
+  "params":{
+    "id":"4a10173b-6fe6-4300-a306-27976d7545be",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

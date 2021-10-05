@@ -1,0 +1,13 @@
+{
+  "start":18281,
+  "end":18331,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"We\n     don't even know where it is,\u201d \u201cLet's go.\"",
+  "id":"5799d6c7-5804-4ec9-ba4a-8a6a04f6f598",
+  "params":{
+    "id":"5799d6c7-5804-4ec9-ba4a-8a6a04f6f598",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

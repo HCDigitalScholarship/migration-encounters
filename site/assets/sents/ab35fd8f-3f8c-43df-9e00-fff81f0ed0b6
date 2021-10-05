@@ -1,0 +1,12 @@
+{
+  "start":17125,
+  "end":17164,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My brother and I graduated high school.",
+  "id":"ab35fd8f-3f8c-43df-9e00-fff81f0ed0b6",
+  "params":{
+    "id":"931902eb-b5a6-4014-9718-cac7550c4b16"
+  },
+  "name":"Juan B"
+}

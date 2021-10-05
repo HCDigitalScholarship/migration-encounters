@@ -1,0 +1,12 @@
+{
+  "start":28316,
+  "end":28338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   offer me food.",
+  "id":"5c368b0a-e7bf-4362-9d94-92758f9833cd",
+  "params":{
+    "id":"2a2679f0-8eb6-4fb8-9fbf-97bad7d06663"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19337,
+  "end":19455,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I took computing courses and some data management courses, and I\n   started looking for better jobs until I came here.",
+  "id":"b7bc7f78-eaf1-44b1-9cc9-a4cf8a7cd73a",
+  "params":{
+    "id":"b7bc7f78-eaf1-44b1-9cc9-a4cf8a7cd73a",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

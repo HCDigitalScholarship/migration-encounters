@@ -1,0 +1,13 @@
+{
+  "start":6491,
+  "end":6507,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You like\n   her.",
+  "id":"d81b304a-3416-42e3-990e-a99daf2a3821",
+  "params":{
+    "id":"d81b304a-3416-42e3-990e-a99daf2a3821",
+    "class":"anno"
+  },
+  "name":"Olimpya"
+}

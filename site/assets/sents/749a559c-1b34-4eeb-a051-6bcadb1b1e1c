@@ -1,0 +1,12 @@
+{
+  "start":46696,
+  "end":46720,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So what is it like here?",
+  "id":"749a559c-1b34-4eeb-a051-6bcadb1b1e1c",
+  "params":{
+    "id":"192cbbe9-4dab-46f1-9007-6c21669b3dce"
+  },
+  "name":"Mike"
+}

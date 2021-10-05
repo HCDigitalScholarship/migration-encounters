@@ -1,0 +1,12 @@
+{
+  "start":9484,
+  "end":9521,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Well you never spoke till you're six.",
+  "id":"8c9094bd-8ed1-447d-b88c-d5b9d24dbcad",
+  "params":{
+    "id":"cb7d692c-b763-4414-b3f7-0d986364816b"
+  },
+  "name":"Luis A"
+}

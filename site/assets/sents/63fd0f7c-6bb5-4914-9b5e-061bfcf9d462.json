@@ -1,0 +1,13 @@
+{
+  "start":6129,
+  "end":6171,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't the best move I could have made.",
+  "id":"63fd0f7c-6bb5-4914-9b5e-061bfcf9d462",
+  "params":{
+    "id":"63fd0f7c-6bb5-4914-9b5e-061bfcf9d462",
+    "class":"anno"
+  },
+  "name":"Jose"
+}

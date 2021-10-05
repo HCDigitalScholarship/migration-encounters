@@ -1,0 +1,12 @@
+{
+  "start":11454,
+  "end":11498,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She said, \"Well I\n   don't have any papers.\"",
+  "id":"f85ed721-f0d4-4a46-ad1d-5719dbb4f56a",
+  "params":{
+    "id":"d3050422-8399-45ba-9b01-0fa1b0e7b192"
+  },
+  "name":"Laila"
+}

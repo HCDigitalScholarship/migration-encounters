@@ -1,0 +1,12 @@
+{
+  "start":3298,
+  "end":3325,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It was something like that.",
+  "id":"aa4b51b0-4d28-467f-852c-8958114acf51",
+  "params":{
+    "id":"cf25c2df-df93-4201-b2a4-e987c0cdc5a8"
+  },
+  "name":"Many"
+}

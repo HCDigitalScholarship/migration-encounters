@@ -1,0 +1,12 @@
+{
+  "start":18273,
+  "end":18357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There's a\n   book that I love to read called, The Four Agreements by Luis Rodriguez.",
+  "id":"cc7895fa-3c34-49c3-a98c-fd7414b3ad78",
+  "params":{
+    "id":"fe751fd7-cf2c-45aa-a67c-68447f31f1c3"
+  },
+  "name":"Donovan"
+}

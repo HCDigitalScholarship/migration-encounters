@@ -1,0 +1,12 @@
+{
+  "start":13575,
+  "end":13608,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I knew the\n   librarians by name.",
+  "id":"cb9c12ab-be45-4023-a768-e65f5a6d74b9",
+  "params":{
+    "id":"27c41370-131e-44fc-a856-df61a6d9303a"
+  },
+  "name":"Luisa"
+}

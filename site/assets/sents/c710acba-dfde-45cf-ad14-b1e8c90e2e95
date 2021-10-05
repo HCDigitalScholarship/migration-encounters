@@ -1,0 +1,12 @@
+{
+  "start":45492,
+  "end":45504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is this her?",
+  "id":"c710acba-dfde-45cf-ad14-b1e8c90e2e95",
+  "params":{
+    "id":"db86729b-8784-4cac-b555-2b3aebbc06a0"
+  },
+  "name":"Rodrigo"
+}

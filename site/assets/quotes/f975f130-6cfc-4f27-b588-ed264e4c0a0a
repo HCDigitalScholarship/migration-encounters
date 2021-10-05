@@ -1,0 +1,13 @@
+{
+  "id":"f975f130-6cfc-4f27-b588-ed264e4c0a0a",
+  "type":"text",
+  "start":3491,
+  "end":3574,
+  "label":"Time in the US, Feelings, Disappointment, Despair, Frustration",
+  "params":{
+    "id":"f975f130-6cfc-4f27-b588-ed264e4c0a0a",
+    "class":"anno"
+  },
+  "name":"Mike",
+  "text":"I just said, \"Screw it. Nothing's ever going to happen for\n   me, so why even try?\""
+}

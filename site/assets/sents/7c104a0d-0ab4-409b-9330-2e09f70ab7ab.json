@@ -1,0 +1,13 @@
+{
+  "start":24656,
+  "end":24686,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I couldn't work with them.",
+  "id":"7c104a0d-0ab4-409b-9330-2e09f70ab7ab",
+  "params":{
+    "id":"7c104a0d-0ab4-409b-9330-2e09f70ab7ab",
+    "class":"anno"
+  },
+  "name":"Many"
+}

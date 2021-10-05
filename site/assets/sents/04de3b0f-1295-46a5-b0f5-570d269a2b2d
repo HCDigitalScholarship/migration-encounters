@@ -1,0 +1,12 @@
+{
+  "start":6930,
+  "end":6992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I moved to Chicago and that's where I started going to school.",
+  "id":"04de3b0f-1295-46a5-b0f5-570d269a2b2d",
+  "params":{
+    "id":"781e7c87-7323-42e4-a912-44888ce1eaf3"
+  },
+  "name":"Luisa"
+}

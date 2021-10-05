@@ -1,0 +1,12 @@
+{
+  "start":12290,
+  "end":12330,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I guess that can come back\n   to me?",
+  "id":"f14adce8-d6c7-4ded-a0e8-64b6755d258f",
+  "params":{
+    "id":"aef940ca-0700-44f8-984c-5dc5bc604b9d"
+  },
+  "name":"Ilse"
+}

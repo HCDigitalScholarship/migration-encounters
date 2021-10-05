@@ -1,0 +1,12 @@
+{
+  "start":5282,
+  "end":5389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They never asked\n   me, \"Hey, where do you come from or why do you speak like that?\u201d or stuff\n   like that.",
+  "id":"7a7545d6-f60c-4cfe-979f-f56f1e7a1b3d",
+  "params":{
+    "id":"ff314fa1-13dd-48d9-aeee-218ebae50121"
+  },
+  "name":"Luis B"
+}

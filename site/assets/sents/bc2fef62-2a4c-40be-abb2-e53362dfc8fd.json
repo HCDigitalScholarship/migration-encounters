@@ -1,0 +1,13 @@
+{
+  "start":22251,
+  "end":22261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Oh my god.",
+  "id":"bc2fef62-2a4c-40be-abb2-e53362dfc8fd",
+  "params":{
+    "id":"bc2fef62-2a4c-40be-abb2-e53362dfc8fd",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

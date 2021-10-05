@@ -1,0 +1,13 @@
+{
+  "start":42338,
+  "end":42367,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's helped me through a lot.",
+  "id":"1e2767d2-df8f-4836-9dd5-64f673d6f863",
+  "params":{
+    "id":"1e2767d2-df8f-4836-9dd5-64f673d6f863",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

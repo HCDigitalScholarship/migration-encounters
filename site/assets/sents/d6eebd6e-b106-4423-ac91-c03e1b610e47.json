@@ -1,0 +1,13 @@
+{
+  "start":21227,
+  "end":21267,
+  "label":"SENT",
+  "type":"sent",
+  "text":"my family told me, \"What are you doing?\"",
+  "id":"d6eebd6e-b106-4423-ac91-c03e1b610e47",
+  "params":{
+    "id":"d6eebd6e-b106-4423-ac91-c03e1b610e47",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

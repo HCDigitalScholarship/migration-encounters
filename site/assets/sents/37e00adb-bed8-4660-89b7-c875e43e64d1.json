@@ -1,0 +1,13 @@
+{
+  "start":28764,
+  "end":28836,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's just like you\n   think you like the person but you don't like them.",
+  "id":"37e00adb-bed8-4660-89b7-c875e43e64d1",
+  "params":{
+    "id":"37e00adb-bed8-4660-89b7-c875e43e64d1",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

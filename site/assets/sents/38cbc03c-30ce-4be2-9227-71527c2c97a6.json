@@ -1,0 +1,13 @@
+{
+  "start":6799,
+  "end":6820,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's kind of\n   hard.",
+  "id":"38cbc03c-30ce-4be2-9227-71527c2c97a6",
+  "params":{
+    "id":"38cbc03c-30ce-4be2-9227-71527c2c97a6",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

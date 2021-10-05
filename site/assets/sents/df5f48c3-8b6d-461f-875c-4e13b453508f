@@ -1,0 +1,12 @@
+{
+  "start":30816,
+  "end":30846,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I like being\n   out and about.",
+  "id":"df5f48c3-8b6d-461f-875c-4e13b453508f",
+  "params":{
+    "id":"c6d6cc84-b08a-4916-b67b-90567e52e42a"
+  },
+  "name":"Cris"
+}

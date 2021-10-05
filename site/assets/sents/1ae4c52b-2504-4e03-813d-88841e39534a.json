@@ -1,0 +1,13 @@
+{
+  "start":13604,
+  "end":13658,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I had an attorney, we had hired an attorney, but the\n ",
+  "id":"1ae4c52b-2504-4e03-813d-88841e39534a",
+  "params":{
+    "id":"1ae4c52b-2504-4e03-813d-88841e39534a",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

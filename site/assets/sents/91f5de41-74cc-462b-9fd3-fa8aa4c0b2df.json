@@ -1,0 +1,13 @@
+{
+  "start":44348,
+  "end":44443,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I was like, \"Aw damn, I'm done.\"\n   I knew it so I was like, \"Dude, I'm done.\"\n \n \n   Mike:",
+  "id":"91f5de41-74cc-462b-9fd3-fa8aa4c0b2df",
+  "params":{
+    "id":"91f5de41-74cc-462b-9fd3-fa8aa4c0b2df",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

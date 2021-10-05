@@ -1,0 +1,13 @@
+{
+  "start":30131,
+  "end":30208,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like,\n   \"For everything that you carry, at least eight thousand pesos.\"",
+  "id":"bd4aa3b7-fc9e-49a1-a733-cb4621ef39f3",
+  "params":{
+    "id":"bd4aa3b7-fc9e-49a1-a733-cb4621ef39f3",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}

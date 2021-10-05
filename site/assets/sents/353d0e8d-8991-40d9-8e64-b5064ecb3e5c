@@ -1,0 +1,12 @@
+{
+  "start":16385,
+  "end":16464,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was real young, and I never really cared\n   about that to be honest with you.",
+  "id":"353d0e8d-8991-40d9-8e64-b5064ecb3e5c",
+  "params":{
+    "id":"be2e9c8e-4005-4379-981f-4fa768f35822"
+  },
+  "name":"Julio Cesar"
+}

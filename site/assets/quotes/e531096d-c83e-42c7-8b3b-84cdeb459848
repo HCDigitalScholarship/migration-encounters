@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":21408,
+  "end":21413,
+  "text":"olunteer.\n \n \n   Anne: Volunteer?\n \n \n   Edgar: Yeah. I volunteered before.\n \n \n   Anne: So we'll see how this EG works, right?\n \n \n   Edgar: Yeah, yeah.\n \n \n   Anne: Hopefully, it'll be good.\n \n \n   Edgar: Yeah. Hopefully, it will be good.\n \n \n   Anne: Uh-huh (affirmative).\n \n \n   Edgar: Well we get paid with commission so I don't know how much we get\n   paid. It all depends on me.\n \n \n   Anne: Yeah.\n",
+  "label":"PERSON",
+  "id":"e531096d-c83e-42c7-8b3b-84cdeb459848",
+  "name":"Edgar"
+}

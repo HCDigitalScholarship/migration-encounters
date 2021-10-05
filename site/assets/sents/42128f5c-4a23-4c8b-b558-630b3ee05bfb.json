@@ -1,0 +1,13 @@
+{
+  "start":1305,
+  "end":1353,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   But the language, I think I learned English.",
+  "id":"42128f5c-4a23-4c8b-b558-630b3ee05bfb",
+  "params":{
+    "id":"42128f5c-4a23-4c8b-b558-630b3ee05bfb",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

@@ -1,0 +1,13 @@
+{
+  "start":13159,
+  "end":13254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"when\n   I was over there, families that would come from here and they would all get\n   to work.",
+  "id":"9c5d8049-e2a2-4e79-b171-841afa3ca9ac",
+  "params":{
+    "id":"9c5d8049-e2a2-4e79-b171-841afa3ca9ac",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

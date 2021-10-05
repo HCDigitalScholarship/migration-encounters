@@ -1,0 +1,12 @@
+{
+  "start":26792,
+  "end":26824,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And he's always up to something.",
+  "id":"c1ee38f4-e918-4b15-9f4c-19e899bed3f1",
+  "params":{
+    "id":"eff4e383-596f-4b57-9777-dc49695f688a"
+  },
+  "name":"Hugo"
+}

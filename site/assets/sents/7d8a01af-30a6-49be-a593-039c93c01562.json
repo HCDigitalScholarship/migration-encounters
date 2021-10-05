@@ -1,0 +1,13 @@
+{
+  "start":1874,
+  "end":1965,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Back in the day it\n   was cheaper and safe because we were going in the airplane, you know?",
+  "id":"7d8a01af-30a6-49be-a593-039c93c01562",
+  "params":{
+    "id":"7d8a01af-30a6-49be-a593-039c93c01562",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

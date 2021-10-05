@@ -1,0 +1,13 @@
+{
+  "start":9341,
+  "end":9377,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They want you to give them\n   money.",
+  "id":"11d78ae8-d8bf-4574-b633-32391537958b",
+  "params":{
+    "id":"11d78ae8-d8bf-4574-b633-32391537958b",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

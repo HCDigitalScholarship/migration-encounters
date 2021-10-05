@@ -1,0 +1,13 @@
+{
+  "start":31126,
+  "end":31172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They don't really used to\n   a different type.",
+  "id":"40b61d16-6498-4a29-8a96-072fc776ff4e",
+  "params":{
+    "id":"40b61d16-6498-4a29-8a96-072fc776ff4e",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

@@ -1,0 +1,12 @@
+{
+  "start":48610,
+  "end":48644,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You've been in jail all this time.",
+  "id":"e438be31-960e-46ff-9eda-649300b82f28",
+  "params":{
+    "id":"06e02e2c-ce89-420b-a676-68a211702fe5"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":17647,
+  "end":17709,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   I went to school, I went to work, I went back to my house.",
+  "id":"eb12b29b-bd41-4827-8f4f-52bc107d6f52",
+  "params":{
+    "id":"eb12b29b-bd41-4827-8f4f-52bc107d6f52",
+    "class":"anno"
+  },
+  "name":"Luis B"
+}

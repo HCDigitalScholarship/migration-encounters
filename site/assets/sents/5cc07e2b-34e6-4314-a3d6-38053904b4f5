@@ -1,0 +1,12 @@
+{
+  "start":27110,
+  "end":27173,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And you said your wife and children live here\n   with you, too?",
+  "id":"5cc07e2b-34e6-4314-a3d6-38053904b4f5",
+  "params":{
+    "id":"c595cdc3-51fc-4eab-8f47-cc453c181b73"
+  },
+  "name":"Daniel"
+}

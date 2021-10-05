@@ -1,0 +1,15 @@
+{
+  "start":9802,
+  "end":9910,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I want to\n   continue with that spirit and, yeah, like I was telling you leave my mark\n   here on Mexico.",
+  "id":"5555406d-b5b4-407a-bd81-d6c777257c4f",
+  "params":{
+    "id":"5555406d-b5b4-407a-bd81-d6c777257c4f",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

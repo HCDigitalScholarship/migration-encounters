@@ -1,0 +1,13 @@
+{
+  "start":10261,
+  "end":10342,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I would talk to them on the phone, but\n   surprisingly that was the hardest part.",
+  "id":"3be322b8-790b-41a0-8f51-fb8f9c52f735",
+  "params":{
+    "id":"3be322b8-790b-41a0-8f51-fb8f9c52f735",
+    "class":"anno"
+  },
+  "name":"Miguel B"
+}

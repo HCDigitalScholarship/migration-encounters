@@ -1,0 +1,12 @@
+{
+  "start":33095,
+  "end":33142,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't think\n   anyone should go through that.",
+  "id":"7895d5f9-2ee1-4d9b-828c-54fdfe04278f",
+  "params":{
+    "id":"4bc36e5a-b300-4699-9bf8-ba2e8a50789b"
+  },
+  "name":"Joana"
+}

@@ -1,0 +1,12 @@
+{
+  "start":51879,
+  "end":51919,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was\n   like, \"Are you going to come?",
+  "id":"9ffcf71b-e736-44fe-8033-bde44c2ed789",
+  "params":{
+    "id":"51581466-a90d-46b5-8194-12acc243f1e1"
+  },
+  "name":"Cris"
+}

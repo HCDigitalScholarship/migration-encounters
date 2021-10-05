@@ -1,0 +1,13 @@
+{
+  "start":10753,
+  "end":10781,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I worked at a truck\n   wash.",
+  "id":"2554f9cc-c018-4770-88b5-8fb8eb5c5c2a",
+  "params":{
+    "id":"2554f9cc-c018-4770-88b5-8fb8eb5c5c2a",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

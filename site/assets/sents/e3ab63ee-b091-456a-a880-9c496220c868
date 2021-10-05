@@ -1,0 +1,12 @@
+{
+  "start":51732,
+  "end":51789,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   then she'd say, \"When are you going to come home?\"",
+  "id":"e3ab63ee-b091-456a-a880-9c496220c868",
+  "params":{
+    "id":"90cdc46e-4d04-469c-ae1d-674ea4581221"
+  },
+  "name":"Cris"
+}

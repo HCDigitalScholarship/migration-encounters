@@ -1,0 +1,12 @@
+{
+  "start":22910,
+  "end":22950,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm not going to leave my little\n baby.\"",
+  "id":"ce96dce3-d09a-4ba7-a155-8403de4b8d76",
+  "params":{
+    "id":"98b130e6-3626-42a1-bbd1-ca5bff2ba1c0"
+  },
+  "name":"Angelo"
+}

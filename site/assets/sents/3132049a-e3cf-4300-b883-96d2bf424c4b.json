@@ -1,0 +1,13 @@
+{
+  "start":15616,
+  "end":15650,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's go, we're leaving tomorrow\".",
+  "id":"3132049a-e3cf-4300-b883-96d2bf424c4b",
+  "params":{
+    "id":"3132049a-e3cf-4300-b883-96d2bf424c4b",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

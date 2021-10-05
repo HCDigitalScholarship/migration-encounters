@@ -1,0 +1,13 @@
+{
+  "start":496,
+  "end":517,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What age did I leave?",
+  "id":"53ec78fd-292a-4645-b049-1b1228ac3abe",
+  "params":{
+    "id":"53ec78fd-292a-4645-b049-1b1228ac3abe",
+    "class":"anno"
+  },
+  "name":"Roberto"
+}

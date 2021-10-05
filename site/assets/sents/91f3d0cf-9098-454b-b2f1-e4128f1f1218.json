@@ -1,0 +1,13 @@
+{
+  "start":55801,
+  "end":55858,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I feel sad that people forget how that country was built.",
+  "id":"91f3d0cf-9098-454b-b2f1-e4128f1f1218",
+  "params":{
+    "id":"91f3d0cf-9098-454b-b2f1-e4128f1f1218",
+    "class":"anno"
+  },
+  "name":"Joseph"
+}

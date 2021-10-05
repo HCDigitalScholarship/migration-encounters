@@ -1,0 +1,12 @@
+{
+  "start":6343,
+  "end":6373,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So you said that you were six.",
+  "id":"57d67500-85c3-402a-a93b-c53e7ad80e39",
+  "params":{
+    "id":"fbcb17b5-fc12-47e5-a5da-becac9208bfd"
+  },
+  "name":"Edgar"
+}

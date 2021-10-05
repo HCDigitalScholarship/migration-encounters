@@ -1,0 +1,13 @@
+{
+  "start":24047,
+  "end":24089,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You need a lot of money\n   to be a doctor.",
+  "id":"39b8f2f1-f638-499d-8477-11d67359c9d0",
+  "params":{
+    "id":"39b8f2f1-f638-499d-8477-11d67359c9d0",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

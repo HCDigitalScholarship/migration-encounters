@@ -1,0 +1,12 @@
+{
+  "start":102,
+  "end":136,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was born in a city called Tasco.",
+  "id":"e6f5a9de-12fb-434f-ba35-919dfd3094d7",
+  "params":{
+    "id":"9e640b36-bae1-4358-8986-5fa45bd252ec"
+  },
+  "name":"Noe"
+}

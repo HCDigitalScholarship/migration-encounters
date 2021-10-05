@@ -1,0 +1,13 @@
+{
+  "start":3938,
+  "end":3955,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was so small.",
+  "id":"c2c8693e-7175-4465-8b52-dc11e22f579d",
+  "params":{
+    "id":"c2c8693e-7175-4465-8b52-dc11e22f579d",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

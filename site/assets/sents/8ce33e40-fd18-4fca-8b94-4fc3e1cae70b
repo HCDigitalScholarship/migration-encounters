@@ -1,0 +1,12 @@
+{
+  "start":39403,
+  "end":39431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She told me, \u201cYou know what?",
+  "id":"8ce33e40-fd18-4fca-8b94-4fc3e1cae70b",
+  "params":{
+    "id":"3c4937e1-9d38-442c-b4f7-b63e8774c1b0"
+  },
+  "name":"Rodolfo"
+}

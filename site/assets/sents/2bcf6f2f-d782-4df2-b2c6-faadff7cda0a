@@ -1,0 +1,12 @@
+{
+  "start":32711,
+  "end":32767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I'm like, \"Whoa officer, you don't have to do this.\"",
+  "id":"2bcf6f2f-d782-4df2-b2c6-faadff7cda0a",
+  "params":{
+    "id":"09a36654-e059-4fd4-bd82-05bb2e7d62e2"
+  },
+  "name":"Cris"
+}

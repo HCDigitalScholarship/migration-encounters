@@ -1,0 +1,12 @@
+{
+  "start":47506,
+  "end":47600,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He basically said that\n   things were one price, but they were totally different.\n \n \n   Anne:",
+  "id":"86881bd1-f1e9-41e9-a5c2-98c0e1d53f19",
+  "params":{
+    "id":"cfc5f01e-8efa-45b3-8abb-def04fdb7ff1"
+  },
+  "name":"Mike"
+}

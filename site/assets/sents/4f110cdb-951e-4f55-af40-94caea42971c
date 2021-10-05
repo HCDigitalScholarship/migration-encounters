@@ -1,0 +1,12 @@
+{
+  "start":8443,
+  "end":8464,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I40, that's this one.",
+  "id":"4f110cdb-951e-4f55-af40-94caea42971c",
+  "params":{
+    "id":"ec17bb47-97fb-48b3-8156-b29151cf4456"
+  },
+  "name":"Cris"
+}

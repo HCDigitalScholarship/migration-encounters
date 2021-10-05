@@ -1,0 +1,12 @@
+{
+  "start":5233,
+  "end":5279,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That is one of the\n   best memories I do have.",
+  "id":"dbaf25a1-7054-4b2a-bbc1-bdab131f4d9d",
+  "params":{
+    "id":"38f08258-7e44-4ae8-a210-7c5b037dcca2"
+  },
+  "name":"Ivan"
+}

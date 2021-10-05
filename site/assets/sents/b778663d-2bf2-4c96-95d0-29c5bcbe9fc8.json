@@ -1,0 +1,13 @@
+{
+  "start":10014,
+  "end":10057,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You can see the whole city and\n everything.",
+  "id":"b778663d-2bf2-4c96-95d0-29c5bcbe9fc8",
+  "params":{
+    "id":"b778663d-2bf2-4c96-95d0-29c5bcbe9fc8",
+    "class":"anno"
+  },
+  "name":"Jesus C"
+}

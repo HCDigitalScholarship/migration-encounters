@@ -1,0 +1,13 @@
+{
+  "start":7446,
+  "end":7473,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Is that just start a fight?",
+  "id":"7d4c25ed-05cf-4a2d-b9f2-7892265699a1",
+  "params":{
+    "id":"7d4c25ed-05cf-4a2d-b9f2-7892265699a1",
+    "class":"anno"
+  },
+  "name":"Pablo"
+}

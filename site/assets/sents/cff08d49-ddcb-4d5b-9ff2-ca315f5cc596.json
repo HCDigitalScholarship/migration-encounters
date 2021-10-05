@@ -1,0 +1,12 @@
+{
+  "start":1900,
+  "end":1935,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She worked at the same place I did.",
+  "id":"cff08d49-ddcb-4d5b-9ff2-ca315f5cc596",
+  "params":{
+    "id":"0a0e7f55-8f67-4af4-a1a9-d708e906ce8b"
+  },
+  "name":"Abel"
+}

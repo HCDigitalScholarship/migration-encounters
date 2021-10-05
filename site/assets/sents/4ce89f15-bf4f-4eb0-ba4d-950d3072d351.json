@@ -1,0 +1,13 @@
+{
+  "start":7211,
+  "end":7297,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yo siempre he sido una\n     persona que no me conformo en las situaciones donde estoy.",
+  "id":"4ce89f15-bf4f-4eb0-ba4d-950d3072d351",
+  "params":{
+    "id":"4ce89f15-bf4f-4eb0-ba4d-950d3072d351",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

@@ -1,0 +1,13 @@
+{
+  "start":10505,
+  "end":10545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We took our kitchen,\n   our living room.",
+  "id":"c4dd5401-6341-49c0-a98c-d8dc7bc4095b",
+  "params":{
+    "id":"c4dd5401-6341-49c0-a98c-d8dc7bc4095b",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

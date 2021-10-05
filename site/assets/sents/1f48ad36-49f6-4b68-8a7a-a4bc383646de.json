@@ -1,0 +1,13 @@
+{
+  "start":11830,
+  "end":11900,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And\n   that's how they took us down to the detention center in Tacoma.",
+  "id":"1f48ad36-49f6-4b68-8a7a-a4bc383646de",
+  "params":{
+    "id":"1f48ad36-49f6-4b68-8a7a-a4bc383646de",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

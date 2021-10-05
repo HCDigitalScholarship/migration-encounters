@@ -1,0 +1,13 @@
+{
+  "start":9704,
+  "end":9754,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You had open brain surgery already at that\n   age.",
+  "id":"44d84136-1f24-417e-8b39-63b3200e595d",
+  "params":{
+    "id":"44d84136-1f24-417e-8b39-63b3200e595d",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

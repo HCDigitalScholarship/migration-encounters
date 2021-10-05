@@ -1,0 +1,12 @@
+{
+  "start":11038,
+  "end":11115,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Right now, it's probably closer to $40,000 because we're\n talking about 1996.",
+  "id":"a2d438cb-f53d-4f99-8280-7cb2b5258130",
+  "params":{
+    "id":"0ffd1c94-98bc-4118-9246-bb4d94404ca0"
+  },
+  "name":"Ben"
+}

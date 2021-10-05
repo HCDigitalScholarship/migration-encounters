@@ -1,0 +1,12 @@
+{
+  "start":23345,
+  "end":23384,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And are you still in contact with them?",
+  "id":"e5b687f7-9eee-4f41-b84e-a87d19f4a992",
+  "params":{
+    "id":"22c3f103-1096-4ecc-8156-f41536b1d1f2"
+  },
+  "name":"Joseph"
+}

@@ -1,0 +1,13 @@
+{
+  "start":22315,
+  "end":22389,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They\n   had to give me a titanium plate to cover my head because they took",
+  "id":"c501dc5d-8f46-4aea-8966-b6312ec47c36",
+  "params":{
+    "id":"c501dc5d-8f46-4aea-8966-b6312ec47c36",
+    "class":"anno"
+  },
+  "name":"Many"
+}

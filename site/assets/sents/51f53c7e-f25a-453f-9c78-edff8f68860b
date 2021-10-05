@@ -1,0 +1,12 @@
+{
+  "start":1118,
+  "end":1151,
+  "label":"SENT",
+  "type":"sent",
+  "text":"First of all, I arrived in Texas.",
+  "id":"51f53c7e-f25a-453f-9c78-edff8f68860b",
+  "params":{
+    "id":"afc55a23-f729-43b8-b08f-fd519d76148d"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,12 @@
+{
+  "start":58559,
+  "end":58585,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're going to Cuernavaca.",
+  "id":"0e6da5a1-df8e-4383-a177-a11349b5f837",
+  "params":{
+    "id":"3961aee9-b524-4426-9275-b4e06477672d"
+  },
+  "name":"Cris"
+}

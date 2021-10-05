@@ -1,0 +1,13 @@
+{
+  "start":42689,
+  "end":42714,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let's try another place.\"",
+  "id":"a7ffd6ea-c68f-4a3d-b12a-8df84f29f37e",
+  "params":{
+    "id":"a7ffd6ea-c68f-4a3d-b12a-8df84f29f37e",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

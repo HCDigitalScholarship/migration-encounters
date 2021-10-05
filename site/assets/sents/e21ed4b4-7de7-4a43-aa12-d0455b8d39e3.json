@@ -1,0 +1,13 @@
+{
+  "start":10431,
+  "end":10463,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   A lot of people followed me.",
+  "id":"e21ed4b4-7de7-4a43-aa12-d0455b8d39e3",
+  "params":{
+    "id":"e21ed4b4-7de7-4a43-aa12-d0455b8d39e3",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

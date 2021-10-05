@@ -1,0 +1,12 @@
+{
+  "start":38086,
+  "end":38102,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, I sat there.",
+  "id":"1ed99e23-eefe-4fcb-a7e7-f99ad22f8d7b",
+  "params":{
+    "id":"6cbeb926-35f1-4f56-925b-effffe20a5dd"
+  },
+  "name":"Rodolfo"
+}

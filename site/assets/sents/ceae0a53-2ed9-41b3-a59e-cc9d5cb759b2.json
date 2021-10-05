@@ -1,0 +1,13 @@
+{
+  "start":9149,
+  "end":9301,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's not true\n and it also it's like, \u201cOh, once you get pregnant, I guess now you can\n leave, now you're a woman and that you can do all these things.",
+  "id":"ceae0a53-2ed9-41b3-a59e-cc9d5cb759b2",
+  "params":{
+    "id":"ceae0a53-2ed9-41b3-a59e-cc9d5cb759b2",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

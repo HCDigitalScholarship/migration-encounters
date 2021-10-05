@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":3597,
+  "end":3599,
+  "text":"t cities did you live in? You mentioned ___?\n \n \n   Josue: ____ Washington was the only one.\n \n \n   Sergio: _____ Washington?\n \n \n   Josue: Yeah. that area.\n \n \n   Sergio: Did you go to school in the US?\n \n \n   Josue: I did, yeah.\n \n \n   Sergio: Up to what year?\n \n \n   Josue: I was in college, _____ for about a year and a half.\n \n \n   Sergio: So, college. What did you study in college?\n \n \n   Josue:",
+  "label":"GPE",
+  "id":"54ae639b-84fc-4996-9161-982471fe3c7c",
+  "name":"Josue"
+}

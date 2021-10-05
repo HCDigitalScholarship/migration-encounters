@@ -1,0 +1,12 @@
+{
+  "start":30577,
+  "end":30602,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I told him what I wanted.",
+  "id":"13f76d7f-98a4-4766-9c1d-934f879e200b",
+  "params":{
+    "id":"480b2d8b-b7cc-4db1-bdbd-bb152cecad04"
+  },
+  "name":"Zayuri"
+}

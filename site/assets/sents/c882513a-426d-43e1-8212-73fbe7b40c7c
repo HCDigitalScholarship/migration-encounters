@@ -1,0 +1,12 @@
+{
+  "start":4375,
+  "end":4415,
+  "label":"SENT",
+  "type":"sent",
+  "text":"There were like 13\n   brothers in total.",
+  "id":"c882513a-426d-43e1-8212-73fbe7b40c7c",
+  "params":{
+    "id":"b23c7a68-5380-4d06-b845-27edd3111f7f"
+  },
+  "name":"Rodrigo"
+}

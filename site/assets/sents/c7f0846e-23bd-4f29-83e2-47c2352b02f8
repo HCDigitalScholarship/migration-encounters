@@ -1,0 +1,12 @@
+{
+  "start":306,
+  "end":357,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you grow up knowing that you were undocumented?",
+  "id":"c7f0846e-23bd-4f29-83e2-47c2352b02f8",
+  "params":{
+    "id":"1a61666e-e156-4b63-b87d-8256e4e6001c"
+  },
+  "name":"Kevin"
+}

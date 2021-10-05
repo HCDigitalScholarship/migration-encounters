@@ -1,0 +1,13 @@
+{
+  "start":45908,
+  "end":46015,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I could go apply anytime I want, but just because of that, I feel\n   like that's going to have some issues.",
+  "id":"4cdb9ba3-8aeb-4946-af99-1c1687f59e00",
+  "params":{
+    "id":"4cdb9ba3-8aeb-4946-af99-1c1687f59e00",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

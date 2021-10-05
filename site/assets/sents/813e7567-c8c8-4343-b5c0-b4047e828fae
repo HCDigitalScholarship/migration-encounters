@@ -1,0 +1,12 @@
+{
+  "start":1009,
+  "end":1034,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you work in the U.S.?",
+  "id":"813e7567-c8c8-4343-b5c0-b4047e828fae",
+  "params":{
+    "id":"bb3e2aaf-976b-4c70-a916-6aa53b6d6e80"
+  },
+  "name":"Ivan"
+}

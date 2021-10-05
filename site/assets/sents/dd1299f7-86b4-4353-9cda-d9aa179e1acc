@@ -1,0 +1,12 @@
+{
+  "start":20002,
+  "end":20018,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, to travel.",
+  "id":"dd1299f7-86b4-4353-9cda-d9aa179e1acc",
+  "params":{
+    "id":"d9b61cc8-7120-44cd-a4e3-f20adb69ca9b"
+  },
+  "name":"Diana"
+}

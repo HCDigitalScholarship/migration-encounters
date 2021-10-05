@@ -1,0 +1,13 @@
+{
+  "start":1290,
+  "end":1296,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Diana:",
+  "id":"d477f866-9a11-4387-a5a1-6d6bdb4546b9",
+  "params":{
+    "id":"d477f866-9a11-4387-a5a1-6d6bdb4546b9",
+    "class":"anno"
+  },
+  "name":"Diana"
+}

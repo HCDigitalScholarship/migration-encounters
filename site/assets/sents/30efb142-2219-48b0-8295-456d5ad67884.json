@@ -1,0 +1,13 @@
+{
+  "start":9372,
+  "end":9476,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Sergio: So, while you were in the United States, did you follow Mexican\n   political news?\n \n \n   Josue:",
+  "id":"30efb142-2219-48b0-8295-456d5ad67884",
+  "params":{
+    "id":"30efb142-2219-48b0-8295-456d5ad67884",
+    "class":"anno"
+  },
+  "name":"Josue"
+}

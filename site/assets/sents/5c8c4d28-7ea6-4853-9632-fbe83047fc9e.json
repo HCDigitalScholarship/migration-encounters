@@ -1,0 +1,13 @@
+{
+  "start":15332,
+  "end":15404,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I got stopped by the stop sign, for the light, for the back-up\n   light.",
+  "id":"5c8c4d28-7ea6-4853-9632-fbe83047fc9e",
+  "params":{
+    "id":"5c8c4d28-7ea6-4853-9632-fbe83047fc9e",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

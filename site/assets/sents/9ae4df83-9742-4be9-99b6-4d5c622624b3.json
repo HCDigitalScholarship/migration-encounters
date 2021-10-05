@@ -1,0 +1,13 @@
+{
+  "start":3117,
+  "end":3213,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I didn't understand what it was\n   until I grew older and started looking at the vocabulary.",
+  "id":"9ae4df83-9742-4be9-99b6-4d5c622624b3",
+  "params":{
+    "id":"9ae4df83-9742-4be9-99b6-4d5c622624b3",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

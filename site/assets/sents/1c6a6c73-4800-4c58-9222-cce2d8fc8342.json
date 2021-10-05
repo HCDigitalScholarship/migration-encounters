@@ -1,0 +1,13 @@
+{
+  "start":37219,
+  "end":37368,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Su\n     primer trabajo de Sylent fue picar piedra con su pap\u00e1 y \u00e9l llegaba con sus\n     manos hinchadas, ensangrentadas, a veces hasta con calentura.",
+  "id":"1c6a6c73-4800-4c58-9222-cce2d8fc8342",
+  "params":{
+    "id":"1c6a6c73-4800-4c58-9222-cce2d8fc8342",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

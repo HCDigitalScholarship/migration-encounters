@@ -1,0 +1,13 @@
+{
+  "start":7415,
+  "end":7437,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And it's really Billy\u2026",
+  "id":"fc4b03e8-d0a7-4655-9c3d-2a9bb1da72e7",
+  "params":{
+    "id":"fc4b03e8-d0a7-4655-9c3d-2a9bb1da72e7",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

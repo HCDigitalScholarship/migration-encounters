@@ -1,0 +1,12 @@
+{
+  "start":35122,
+  "end":35172,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How do you know they're going to get\n   home safe?",
+  "id":"db6ad6fb-17b1-4f45-8632-32db86b108c2",
+  "params":{
+    "id":"46a672c7-e54a-43dd-9115-377f30eb70b3"
+  },
+  "name":"Hugo"
+}

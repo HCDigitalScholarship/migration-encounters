@@ -1,0 +1,13 @@
+{
+  "start":32881,
+  "end":32925,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   Could you have done your papers earlier?",
+  "id":"de77dd88-dc9c-403a-8e01-c1ca4e0113a6",
+  "params":{
+    "id":"de77dd88-dc9c-403a-8e01-c1ca4e0113a6",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

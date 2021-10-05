@@ -1,0 +1,12 @@
+{
+  "start":6922,
+  "end":6939,
+  "label":"SENT",
+  "type":"sent",
+  "text":"No, it's numbers.",
+  "id":"e00c7222-0bc9-4bc0-9951-05f62b045de3",
+  "params":{
+    "id":"ecd64689-8bcc-4abf-9939-1de64d7d68bc"
+  },
+  "name":"Beto"
+}

@@ -1,0 +1,9 @@
+{
+  "type":"text",
+  "start":13227,
+  "end":13233,
+  "text":"h kids?\n \n \n   Carlos: Yes. I was somewhere in ____.\n \n \n   Anne: In Oregon?\n \n \n   Carlos: Yeah, in ___ Oregon. What basically they told me after the 10 days,\n   \"All right, you need to come back to Mexico.\" I needed to come back, so\n   that's why they deported me. I don't know what, but they got it, too, with\n   the lawyer and the judge and everything, but I had to come back to Mexico.\n   After that, ",
+  "label":"GPE",
+  "id":"7d267e86-1c14-432b-b191-18dbd28d694e",
+  "name":"Carlos"
+}

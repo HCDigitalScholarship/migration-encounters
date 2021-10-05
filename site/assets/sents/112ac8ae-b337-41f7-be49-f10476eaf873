@@ -1,0 +1,12 @@
+{
+  "start":14263,
+  "end":14281,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He had a fake one.",
+  "id":"112ac8ae-b337-41f7-be49-f10476eaf873",
+  "params":{
+    "id":"da55d75c-ac77-4826-b778-ac42c05019fd"
+  },
+  "name":"Edgar"
+}

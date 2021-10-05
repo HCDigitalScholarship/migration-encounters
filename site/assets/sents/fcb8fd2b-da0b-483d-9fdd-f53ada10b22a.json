@@ -1,0 +1,13 @@
+{
+  "start":8345,
+  "end":8419,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Maybe he just wanted\n me to have a white name or something [Anita laughs].",
+  "id":"fcb8fd2b-da0b-483d-9fdd-f53ada10b22a",
+  "params":{
+    "id":"fcb8fd2b-da0b-483d-9fdd-f53ada10b22a",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

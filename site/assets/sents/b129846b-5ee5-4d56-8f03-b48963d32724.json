@@ -1,0 +1,13 @@
+{
+  "start":28393,
+  "end":28434,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We all sat down at the same table to eat.",
+  "id":"b129846b-5ee5-4d56-8f03-b48963d32724",
+  "params":{
+    "id":"b129846b-5ee5-4d56-8f03-b48963d32724",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

@@ -1,0 +1,13 @@
+{
+  "start":44647,
+  "end":44678,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's too hard\n   to keep going.",
+  "id":"c058c760-6960-42ee-a59e-3a5070d9dd58",
+  "params":{
+    "id":"c058c760-6960-42ee-a59e-3a5070d9dd58",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

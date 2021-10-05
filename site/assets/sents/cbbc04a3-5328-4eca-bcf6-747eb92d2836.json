@@ -1,0 +1,13 @@
+{
+  "start":26322,
+  "end":26335,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's working.",
+  "id":"cbbc04a3-5328-4eca-bcf6-747eb92d2836",
+  "params":{
+    "id":"cbbc04a3-5328-4eca-bcf6-747eb92d2836",
+    "class":"anno"
+  },
+  "name":"Noe"
+}

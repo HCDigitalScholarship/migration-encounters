@@ -1,0 +1,13 @@
+{
+  "start":20766,
+  "end":20807,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You\n   really understand what's going on.",
+  "id":"d6949e5c-64fc-4909-959f-fa07a206c6ea",
+  "params":{
+    "id":"d6949e5c-64fc-4909-959f-fa07a206c6ea",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

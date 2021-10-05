@@ -1,0 +1,12 @@
+{
+  "start":4334,
+  "end":4372,
+  "label":"SENT",
+  "type":"sent",
+  "text":"How long have you been back in Mexico?",
+  "id":"e711a9b6-1fb7-485f-92c5-834cfe092279",
+  "params":{
+    "id":"082fcbcd-c73b-490d-afb0-53509e31aea3"
+  },
+  "name":"Ivan"
+}

@@ -1,0 +1,13 @@
+{
+  "start":1901,
+  "end":1922,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I still talk to them.",
+  "id":"a278e296-4c19-43a5-98c2-bac4aba049c4",
+  "params":{
+    "id":"a278e296-4c19-43a5-98c2-bac4aba049c4",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

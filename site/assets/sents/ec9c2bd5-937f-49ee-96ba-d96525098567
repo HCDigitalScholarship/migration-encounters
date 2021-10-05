@@ -1,0 +1,12 @@
+{
+  "start":6027,
+  "end":6052,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What was it in your case?",
+  "id":"ec9c2bd5-937f-49ee-96ba-d96525098567",
+  "params":{
+    "id":"0e8fe3fb-8f5a-453f-a3de-6c4812d0800e"
+  },
+  "name":"Pablo"
+}

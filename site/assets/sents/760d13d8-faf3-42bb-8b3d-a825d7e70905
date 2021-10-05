@@ -1,0 +1,12 @@
+{
+  "start":54605,
+  "end":54767,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   understand you're not from here, and okay, they're in deportation\n   proceedings and everything, but that's why there's so many fights in there,\n   you know?",
+  "id":"760d13d8-faf3-42bb-8b3d-a825d7e70905",
+  "params":{
+    "id":"c1de6ad8-57d0-480d-8df0-680d22dc2109"
+  },
+  "name":"Rodolfo"
+}

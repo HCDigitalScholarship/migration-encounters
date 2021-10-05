@@ -1,0 +1,12 @@
+{
+  "start":6492,
+  "end":6533,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My wife was pregnant with my\n   daughter.",
+  "id":"ff01e331-f0e3-4768-bfdc-272745acceb5",
+  "params":{
+    "id":"c086066a-2351-4aaf-808a-a3f92f7e1ada"
+  },
+  "name":"Daniel"
+}

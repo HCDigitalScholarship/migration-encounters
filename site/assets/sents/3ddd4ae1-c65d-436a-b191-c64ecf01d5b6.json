@@ -1,0 +1,13 @@
+{
+  "start":19718,
+  "end":19751,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You were a flight risk, whatever.",
+  "id":"3ddd4ae1-c65d-436a-b191-c64ecf01d5b6",
+  "params":{
+    "id":"3ddd4ae1-c65d-436a-b191-c64ecf01d5b6",
+    "class":"anno"
+  },
+  "name":"Abel"
+}

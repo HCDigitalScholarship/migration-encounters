@@ -1,0 +1,13 @@
+{
+  "start":25893,
+  "end":25934,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was like, \"I can't see you right now.",
+  "id":"d7ff3709-ea97-47ce-b0d2-3e4852802ca8",
+  "params":{
+    "id":"d7ff3709-ea97-47ce-b0d2-3e4852802ca8",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

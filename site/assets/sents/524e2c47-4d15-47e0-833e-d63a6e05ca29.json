@@ -1,0 +1,13 @@
+{
+  "start":12898,
+  "end":12938,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We won, in the\n   whole district we won.",
+  "id":"524e2c47-4d15-47e0-833e-d63a6e05ca29",
+  "params":{
+    "id":"524e2c47-4d15-47e0-833e-d63a6e05ca29",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

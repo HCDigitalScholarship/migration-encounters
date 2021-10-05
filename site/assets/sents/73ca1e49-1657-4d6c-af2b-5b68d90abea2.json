@@ -1,0 +1,13 @@
+{
+  "start":17918,
+  "end":17999,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He\n   would give me a bunch of books from his collection and we would discuss it.",
+  "id":"73ca1e49-1657-4d6c-af2b-5b68d90abea2",
+  "params":{
+    "id":"73ca1e49-1657-4d6c-af2b-5b68d90abea2",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

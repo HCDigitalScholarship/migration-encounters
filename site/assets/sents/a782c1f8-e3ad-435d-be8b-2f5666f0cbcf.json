@@ -1,0 +1,13 @@
+{
+  "start":18575,
+  "end":18627,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I\n   mean, it was good when there were strawberries.",
+  "id":"a782c1f8-e3ad-435d-be8b-2f5666f0cbcf",
+  "params":{
+    "id":"a782c1f8-e3ad-435d-be8b-2f5666f0cbcf",
+    "class":"anno"
+  },
+  "name":"Luis A"
+}

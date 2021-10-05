@@ -1,0 +1,13 @@
+{
+  "start":3353,
+  "end":3444,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember my mom telling him,\n   \"No, but I have a sandwich here and some snacks for him.\"",
+  "id":"b6eb22a2-f24f-4eac-ad86-e12252aca7aa",
+  "params":{
+    "id":"b6eb22a2-f24f-4eac-ad86-e12252aca7aa",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

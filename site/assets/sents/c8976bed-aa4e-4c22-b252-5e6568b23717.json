@@ -1,0 +1,13 @@
+{
+  "start":3302,
+  "end":3388,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Because Palm Springs is in\n   summer it's so hot, they go away for three, four months.",
+  "id":"c8976bed-aa4e-4c22-b252-5e6568b23717",
+  "params":{
+    "id":"c8976bed-aa4e-4c22-b252-5e6568b23717",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

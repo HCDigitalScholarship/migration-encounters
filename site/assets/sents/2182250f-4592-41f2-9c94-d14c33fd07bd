@@ -1,0 +1,12 @@
+{
+  "start":22520,
+  "end":22531,
+  "label":"SENT",
+  "type":"sent",
+  "text":"an\n   adult",
+  "id":"2182250f-4592-41f2-9c94-d14c33fd07bd",
+  "params":{
+    "id":"6fe6de98-3631-40e6-990e-84d71eb8ef2b"
+  },
+  "name":"Hugo"
+}

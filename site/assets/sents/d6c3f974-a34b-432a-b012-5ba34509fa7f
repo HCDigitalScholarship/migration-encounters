@@ -1,0 +1,12 @@
+{
+  "start":5085,
+  "end":5120,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She didn't ask, \"How are you doing?",
+  "id":"d6c3f974-a34b-432a-b012-5ba34509fa7f",
+  "params":{
+    "id":"ff9a52e9-7848-4b25-adac-85c5ebac3dac"
+  },
+  "name":"Joana"
+}

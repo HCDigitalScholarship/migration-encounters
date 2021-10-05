@@ -1,0 +1,13 @@
+{
+  "start":8190,
+  "end":8222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have a Maryland license?",
+  "id":"4f045058-0537-4529-a3f1-05cb36b8d28f",
+  "params":{
+    "id":"4f045058-0537-4529-a3f1-05cb36b8d28f",
+    "class":"anno"
+  },
+  "name":"Erik"
+}

@@ -1,0 +1,13 @@
+{
+  "start":2480,
+  "end":2529,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We tried to wake her up,\n   and she never answer.",
+  "id":"e391cd8b-ffcc-4602-b386-4930c88cfcf3",
+  "params":{
+    "id":"e391cd8b-ffcc-4602-b386-4930c88cfcf3",
+    "class":"anno"
+  },
+  "name":"Laura A"
+}

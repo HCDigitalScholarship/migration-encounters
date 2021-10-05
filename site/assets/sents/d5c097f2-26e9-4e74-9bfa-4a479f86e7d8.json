@@ -1,0 +1,13 @@
+{
+  "start":2469,
+  "end":2504,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They split up when I was about one.",
+  "id":"d5c097f2-26e9-4e74-9bfa-4a479f86e7d8",
+  "params":{
+    "id":"d5c097f2-26e9-4e74-9bfa-4a479f86e7d8",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

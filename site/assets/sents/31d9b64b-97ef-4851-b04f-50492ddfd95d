@@ -1,0 +1,12 @@
+{
+  "start":15356,
+  "end":15427,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some of them ask\n     us, \"Hey, you've been in the States, how is this?",
+  "id":"31d9b64b-97ef-4851-b04f-50492ddfd95d",
+  "params":{
+    "id":"80ea7018-7760-4534-be4c-1f4be199fa08"
+  },
+  "name":"Beto"
+}

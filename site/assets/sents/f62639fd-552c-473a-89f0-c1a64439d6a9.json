@@ -1,0 +1,13 @@
+{
+  "start":1985,
+  "end":2007,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You went just to L.A.?",
+  "id":"f62639fd-552c-473a-89f0-c1a64439d6a9",
+  "params":{
+    "id":"f62639fd-552c-473a-89f0-c1a64439d6a9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

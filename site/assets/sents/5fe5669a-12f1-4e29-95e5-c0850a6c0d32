@@ -1,0 +1,12 @@
+{
+  "start":1476,
+  "end":1525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I cross the\n   border, and I went to Texas first.",
+  "id":"5fe5669a-12f1-4e29-95e5-c0850a6c0d32",
+  "params":{
+    "id":"e7cec8b1-33ba-4300-a2dc-92dd8a41dc92"
+  },
+  "name":"Rodrigo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":9584,
+  "end":9621,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yes, they gave me a sandwich, a comb.",
+  "id":"31bce26b-7e83-42c1-9bc0-2567b95550d9",
+  "params":{
+    "id":"31bce26b-7e83-42c1-9bc0-2567b95550d9",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

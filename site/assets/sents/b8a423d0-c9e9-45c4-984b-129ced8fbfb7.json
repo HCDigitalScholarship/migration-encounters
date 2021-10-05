@@ -1,0 +1,12 @@
+{
+  "start":1666,
+  "end":1713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Robert Johnson is the king of the Delta\n blues.",
+  "id":"b8a423d0-c9e9-45c4-984b-129ced8fbfb7",
+  "params":{
+    "id":"b285de6e-ed98-4319-8c5b-a27a6ab8ca04"
+  },
+  "name":"Billy"
+}

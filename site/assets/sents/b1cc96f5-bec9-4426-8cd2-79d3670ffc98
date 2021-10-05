@@ -1,0 +1,12 @@
+{
+  "start":6200,
+  "end":6238,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Were you frightened of US authorities?",
+  "id":"b1cc96f5-bec9-4426-8cd2-79d3670ffc98",
+  "params":{
+    "id":"3a150949-39e0-40e7-b5bf-0374cd845f7a"
+  },
+  "name":"Melani"
+}

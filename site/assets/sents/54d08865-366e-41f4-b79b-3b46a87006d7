@@ -1,0 +1,12 @@
+{
+  "start":8967,
+  "end":8983,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It\n   was scary.",
+  "id":"54d08865-366e-41f4-b79b-3b46a87006d7",
+  "params":{
+    "id":"e59c8afe-ab39-4317-bd44-b480ac282a02"
+  },
+  "name":"Ruben"
+}

@@ -1,0 +1,12 @@
+{
+  "start":10314,
+  "end":10338,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I have a younger sister.",
+  "id":"344b6d99-9f00-4582-ab08-dbf531f7d3ca",
+  "params":{
+    "id":"658b27e6-2231-4a41-9c35-9460ee09985a"
+  },
+  "name":"Jose"
+}

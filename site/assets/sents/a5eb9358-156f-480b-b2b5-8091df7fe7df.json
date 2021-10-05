@@ -1,0 +1,13 @@
+{
+  "start":29742,
+  "end":29798,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Here, people from\n   Mexico, they do whatever they want.",
+  "id":"a5eb9358-156f-480b-b2b5-8091df7fe7df",
+  "params":{
+    "id":"a5eb9358-156f-480b-b2b5-8091df7fe7df",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

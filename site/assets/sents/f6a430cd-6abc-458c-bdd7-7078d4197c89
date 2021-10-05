@@ -1,0 +1,12 @@
+{
+  "start":15525,
+  "end":15611,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did they put you in a detention center at all or did they just send\n   you right back?",
+  "id":"f6a430cd-6abc-458c-bdd7-7078d4197c89",
+  "params":{
+    "id":"b48bcf6e-9cbb-42b4-aa78-f93c901fbb9a"
+  },
+  "name":"Many"
+}

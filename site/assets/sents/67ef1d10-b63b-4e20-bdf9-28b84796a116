@@ -1,0 +1,12 @@
+{
+  "start":8666,
+  "end":8699,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So the kids just go to visit him?",
+  "id":"67ef1d10-b63b-4e20-bdf9-28b84796a116",
+  "params":{
+    "id":"acc2d448-7319-43ba-9e23-4625986a75fb"
+  },
+  "name":"Carolina"
+}

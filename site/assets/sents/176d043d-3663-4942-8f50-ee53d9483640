@@ -1,0 +1,12 @@
+{
+  "start":27350,
+  "end":27367,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I told him.",
+  "id":"176d043d-3663-4942-8f50-ee53d9483640",
+  "params":{
+    "id":"9047a02b-3242-4f07-bd93-32696a4cb1b6"
+  },
+  "name":"Kevin"
+}

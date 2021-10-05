@@ -1,0 +1,13 @@
+{
+  "start":37512,
+  "end":37525,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I'm\n   sorry.",
+  "id":"12a734fe-e3bc-4ff8-843c-012c7c095ca3",
+  "params":{
+    "id":"12a734fe-e3bc-4ff8-843c-012c7c095ca3",
+    "class":"anno"
+  },
+  "name":"Rodrigo"
+}

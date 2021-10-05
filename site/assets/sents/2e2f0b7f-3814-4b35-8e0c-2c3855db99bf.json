@@ -1,0 +1,13 @@
+{
+  "start":26814,
+  "end":26884,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So when she\n   told me this, it took me back to when I was a teenager.",
+  "id":"2e2f0b7f-3814-4b35-8e0c-2c3855db99bf",
+  "params":{
+    "id":"2e2f0b7f-3814-4b35-8e0c-2c3855db99bf",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

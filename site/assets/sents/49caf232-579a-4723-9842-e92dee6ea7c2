@@ -1,0 +1,12 @@
+{
+  "start":20088,
+  "end":20129,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But I think\n   she dropped out of school.",
+  "id":"49caf232-579a-4723-9842-e92dee6ea7c2",
+  "params":{
+    "id":"9138fffe-d3d0-428b-aff4-1be1c818cad6"
+  },
+  "name":"Valeria"
+}

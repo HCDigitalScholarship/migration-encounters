@@ -1,0 +1,12 @@
+{
+  "start":13766,
+  "end":13811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Did you have a lawyer helping you through it?",
+  "id":"1d63fed0-0d99-4688-b64b-ff80777da855",
+  "params":{
+    "id":"abc0b829-2a9e-4ce1-8394-b1081ca86cda"
+  },
+  "name":"Josue"
+}

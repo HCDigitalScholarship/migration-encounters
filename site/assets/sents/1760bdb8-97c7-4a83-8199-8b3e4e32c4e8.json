@@ -1,0 +1,13 @@
+{
+  "start":30830,
+  "end":30854,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And I was with that guy.",
+  "id":"1760bdb8-97c7-4a83-8199-8b3e4e32c4e8",
+  "params":{
+    "id":"1760bdb8-97c7-4a83-8199-8b3e4e32c4e8",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

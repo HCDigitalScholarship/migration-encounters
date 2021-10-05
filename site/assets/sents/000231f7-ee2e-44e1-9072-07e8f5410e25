@@ -1,0 +1,12 @@
+{
+  "start":19135,
+  "end":19158,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I said, \"I don't know.\"",
+  "id":"000231f7-ee2e-44e1-9072-07e8f5410e25",
+  "params":{
+    "id":"1a9a316b-5169-498d-a54c-03f7cde80d20"
+  },
+  "name":"Ruben"
+}

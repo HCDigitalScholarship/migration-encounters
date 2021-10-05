@@ -1,0 +1,12 @@
+{
+  "start":30756,
+  "end":30775,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's vacation time.",
+  "id":"5740c5ba-3f77-4281-ac19-6652116f2b74",
+  "params":{
+    "id":"f9f81f60-6859-4d52-a20d-1fe359292ad7"
+  },
+  "name":"Daniel"
+}

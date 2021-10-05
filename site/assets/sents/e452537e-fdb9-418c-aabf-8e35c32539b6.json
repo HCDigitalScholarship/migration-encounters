@@ -1,0 +1,13 @@
+{
+  "start":12833,
+  "end":12870,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That's the story of how we got there.",
+  "id":"e452537e-fdb9-418c-aabf-8e35c32539b6",
+  "params":{
+    "id":"e452537e-fdb9-418c-aabf-8e35c32539b6",
+    "class":"anno"
+  },
+  "name":"Ilse"
+}

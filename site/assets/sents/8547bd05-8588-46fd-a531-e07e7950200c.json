@@ -1,0 +1,13 @@
+{
+  "start":31065,
+  "end":31099,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I just\n   want to keep doing that.",
+  "id":"8547bd05-8588-46fd-a531-e07e7950200c",
+  "params":{
+    "id":"8547bd05-8588-46fd-a531-e07e7950200c",
+    "class":"anno"
+  },
+  "name":"Yair"
+}

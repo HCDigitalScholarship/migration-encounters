@@ -1,0 +1,12 @@
+{
+  "start":9394,
+  "end":9431,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I warned my brother about everything.",
+  "id":"1d284c33-65f9-4d70-b6eb-0e05cd592eb0",
+  "params":{
+    "id":"6bd8eef2-36d0-4b6d-8220-f456da83aea2"
+  },
+  "name":"Jose"
+}

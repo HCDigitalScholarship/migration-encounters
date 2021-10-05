@@ -1,0 +1,13 @@
+{
+  "start":8528,
+  "end":8545,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We're in a gang.\"",
+  "id":"abb0747c-dc93-4f4a-8c2b-65ae1f8dd27f",
+  "params":{
+    "id":"abb0747c-dc93-4f4a-8c2b-65ae1f8dd27f",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

@@ -1,0 +1,13 @@
+{
+  "start":24538,
+  "end":24657,
+  "label":"SENT",
+  "type":"sent",
+  "text":"We ask that question partially because there's a lot of\n   assumptions and stereotypes about who the U.S. is deporting.",
+  "id":"e1d0369c-521f-4484-bf82-36db7bcbb55e",
+  "params":{
+    "id":"e1d0369c-521f-4484-bf82-36db7bcbb55e",
+    "class":"anno"
+  },
+  "name":"Kevin"
+}

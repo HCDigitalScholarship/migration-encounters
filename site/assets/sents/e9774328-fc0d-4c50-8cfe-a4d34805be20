@@ -1,0 +1,12 @@
+{
+  "start":32869,
+  "end":32893,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I gave my wife a choice.",
+  "id":"e9774328-fc0d-4c50-8cfe-a4d34805be20",
+  "params":{
+    "id":"2431f3f5-ee07-45fc-a13f-a11ac69ff58e"
+  },
+  "name":"Daniel"
+}

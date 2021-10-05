@@ -1,0 +1,13 @@
+{
+  "start":36178,
+  "end":36243,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But then when you do it,\n   you're like, \"Damn, why did I do it?\"",
+  "id":"31cf23d3-94ce-4d02-8f20-dd53e4618b19",
+  "params":{
+    "id":"31cf23d3-94ce-4d02-8f20-dd53e4618b19",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

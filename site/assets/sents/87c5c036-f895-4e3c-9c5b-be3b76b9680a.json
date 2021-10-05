@@ -1,0 +1,13 @@
+{
+  "start":34606,
+  "end":34634,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What is your dad\u2019s business?",
+  "id":"87c5c036-f895-4e3c-9c5b-be3b76b9680a",
+  "params":{
+    "id":"87c5c036-f895-4e3c-9c5b-be3b76b9680a",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

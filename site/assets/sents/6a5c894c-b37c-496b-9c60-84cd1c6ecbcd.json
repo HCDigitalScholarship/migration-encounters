@@ -1,0 +1,13 @@
+{
+  "start":29935,
+  "end":29970,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You have to live in the\n   shadows.",
+  "id":"6a5c894c-b37c-496b-9c60-84cd1c6ecbcd",
+  "params":{
+    "id":"6a5c894c-b37c-496b-9c60-84cd1c6ecbcd",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

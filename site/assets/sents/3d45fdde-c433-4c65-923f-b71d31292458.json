@@ -1,0 +1,13 @@
+{
+  "start":29949,
+  "end":29980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Are you staying out of trouble?",
+  "id":"3d45fdde-c433-4c65-923f-b71d31292458",
+  "params":{
+    "id":"3d45fdde-c433-4c65-923f-b71d31292458",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

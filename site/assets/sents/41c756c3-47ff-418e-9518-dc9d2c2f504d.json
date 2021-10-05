@@ -1,0 +1,13 @@
+{
+  "start":38774,
+  "end":38811,
+  "label":"SENT",
+  "type":"sent",
+  "text":"because my\n   Spanish wasn't the best",
+  "id":"41c756c3-47ff-418e-9518-dc9d2c2f504d",
+  "params":{
+    "id":"41c756c3-47ff-418e-9518-dc9d2c2f504d",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

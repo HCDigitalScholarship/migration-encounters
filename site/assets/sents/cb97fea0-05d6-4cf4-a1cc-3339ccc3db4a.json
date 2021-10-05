@@ -1,0 +1,13 @@
+{
+  "start":12824,
+  "end":12857,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It tastes so good when it's cold.",
+  "id":"cb97fea0-05d6-4cf4-a1cc-3339ccc3db4a",
+  "params":{
+    "id":"cb97fea0-05d6-4cf4-a1cc-3339ccc3db4a",
+    "class":"anno"
+  },
+  "name":"Jeimmy"
+}

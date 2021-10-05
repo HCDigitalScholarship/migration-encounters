@@ -1,0 +1,13 @@
+{
+  "start":22711,
+  "end":22826,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Me daba mucho susto y\n     ella me dec\u00eda, \u201cMadre no te preocupes, todo va a estar bien, todo va a\n     estar bien\u201d.",
+  "id":"fe982f05-0a15-4c32-bcbc-d074d99fb912",
+  "params":{
+    "id":"fe982f05-0a15-4c32-bcbc-d074d99fb912",
+    "class":"anno"
+  },
+  "name":"Maria"
+}

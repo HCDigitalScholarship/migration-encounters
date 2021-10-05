@@ -1,0 +1,13 @@
+{
+  "start":23837,
+  "end":23860,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was great in English.",
+  "id":"0c011336-5a28-4819-b1e1-c46c76539636",
+  "params":{
+    "id":"0c011336-5a28-4819-b1e1-c46c76539636",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

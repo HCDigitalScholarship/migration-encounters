@@ -1,0 +1,13 @@
+{
+  "start":34172,
+  "end":34249,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Like, \"Oh, I don't want to take the Metro\n   because I'd rather take a taxi.\"",
+  "id":"b13740a4-2027-41f4-b8a6-7c4c7c57f5cf",
+  "params":{
+    "id":"b13740a4-2027-41f4-b8a6-7c4c7c57f5cf",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

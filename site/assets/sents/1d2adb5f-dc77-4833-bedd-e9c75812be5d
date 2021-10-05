@@ -1,0 +1,12 @@
+{
+  "start":30235,
+  "end":30291,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Yeah, I mean it's okay, it's just you struggle way more.",
+  "id":"1d2adb5f-dc77-4833-bedd-e9c75812be5d",
+  "params":{
+    "id":"e9d54c0e-003d-4e36-80a9-a062a2df469d"
+  },
+  "name":"Hugo"
+}

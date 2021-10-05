@@ -1,0 +1,13 @@
+{
+  "start":21508,
+  "end":21538,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The first time it was in ____.",
+  "id":"10255d13-7c40-4871-a1e5-1121e7a41545",
+  "params":{
+    "id":"10255d13-7c40-4871-a1e5-1121e7a41545",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

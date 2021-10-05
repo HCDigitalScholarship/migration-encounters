@@ -1,0 +1,12 @@
+{
+  "start":7692,
+  "end":7731,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So, you can't receive that certificate.",
+  "id":"062b6474-3984-4ec6-b1bf-4152d3bed8bf",
+  "params":{
+    "id":"1d487cf6-c9b5-4a47-8962-e0ca21385d46"
+  },
+  "name":"Angelo"
+}

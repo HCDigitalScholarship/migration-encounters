@@ -1,0 +1,13 @@
+{
+  "start":6245,
+  "end":6310,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So tell me about when you came back, the first day, to\n   Mexico.",
+  "id":"7cac88a9-de41-4289-bab8-ec19f67a3869",
+  "params":{
+    "id":"7cac88a9-de41-4289-bab8-ec19f67a3869",
+    "class":"anno"
+  },
+  "name":"Juan A"
+}

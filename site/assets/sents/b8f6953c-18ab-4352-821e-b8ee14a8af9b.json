@@ -1,0 +1,13 @@
+{
+  "start":51615,
+  "end":51646,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's like, \"You're good to go.\"",
+  "id":"b8f6953c-18ab-4352-821e-b8ee14a8af9b",
+  "params":{
+    "id":"b8f6953c-18ab-4352-821e-b8ee14a8af9b",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

@@ -1,0 +1,13 @@
+{
+  "start":193,
+  "end":246,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anita:\n \n \n   Illegal Mexican.\n \n \n   Sylent:\n \n \n   ",
+  "id":"2b632cec-36d8-4afa-b99d-7a37639918b2",
+  "params":{
+    "id":"2b632cec-36d8-4afa-b99d-7a37639918b2",
+    "class":"anno"
+  },
+  "name":"Sylent"
+}

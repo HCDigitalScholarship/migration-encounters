@@ -1,0 +1,12 @@
+{
+  "start":22190,
+  "end":22222,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I was like, \"What are\n   these?\"",
+  "id":"90b2e491-7f66-43a8-863e-556958e8794a",
+  "params":{
+    "id":"a9bd2c8d-b958-4fcc-b891-6e15bbd023dd"
+  },
+  "name":"Carlos"
+}

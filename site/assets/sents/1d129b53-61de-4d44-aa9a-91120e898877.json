@@ -1,0 +1,13 @@
+{
+  "start":15918,
+  "end":15966,
+  "label":"SENT",
+  "type":"sent",
+  "text":"She was working inside a restaurant in the mall.",
+  "id":"1d129b53-61de-4d44-aa9a-91120e898877",
+  "params":{
+    "id":"1d129b53-61de-4d44-aa9a-91120e898877",
+    "class":"anno"
+  },
+  "name":"Axel"
+}

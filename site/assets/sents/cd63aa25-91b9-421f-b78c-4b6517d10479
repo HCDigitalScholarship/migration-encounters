@@ -1,0 +1,12 @@
+{
+  "start":49683,
+  "end":49736,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Even my lawyer told\n me it wasn't really recommended.",
+  "id":"cd63aa25-91b9-421f-b78c-4b6517d10479",
+  "params":{
+    "id":"31cede1a-21a6-4c71-8563-b0db3ba23cad"
+  },
+  "name":"Axel"
+}

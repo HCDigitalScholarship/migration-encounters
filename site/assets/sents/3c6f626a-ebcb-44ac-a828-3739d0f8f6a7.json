@@ -1,0 +1,13 @@
+{
+  "start":51134,
+  "end":51202,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My mom's asleep, and she's in the living room with her\n   boyfriend.",
+  "id":"3c6f626a-ebcb-44ac-a828-3739d0f8f6a7",
+  "params":{
+    "id":"3c6f626a-ebcb-44ac-a828-3739d0f8f6a7",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

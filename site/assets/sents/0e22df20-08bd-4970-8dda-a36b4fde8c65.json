@@ -1,0 +1,13 @@
+{
+  "start":29918,
+  "end":29992,
+  "label":"SENT",
+  "type":"sent",
+  "text":"They used to get\n   other people to fix their stuff, and now they call me.",
+  "id":"0e22df20-08bd-4970-8dda-a36b4fde8c65",
+  "params":{
+    "id":"0e22df20-08bd-4970-8dda-a36b4fde8c65",
+    "class":"anno"
+  },
+  "name":"Ruben"
+}

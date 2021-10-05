@@ -1,0 +1,13 @@
+{
+  "start":2209,
+  "end":2254,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I never thought I would, because I thought...",
+  "id":"17bf4017-b9ce-45b9-8b2c-0fd0db9b1bf0",
+  "params":{
+    "id":"17bf4017-b9ce-45b9-8b2c-0fd0db9b1bf0",
+    "class":"anno"
+  },
+  "name":"Donovan"
+}

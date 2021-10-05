@@ -1,0 +1,13 @@
+{
+  "start":19437,
+  "end":19463,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's not like over\n there.",
+  "id":"94a5bfba-3015-410a-97c4-3afaffe822f8",
+  "params":{
+    "id":"94a5bfba-3015-410a-97c4-3afaffe822f8",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

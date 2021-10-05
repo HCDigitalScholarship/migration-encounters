@@ -1,0 +1,12 @@
+{
+  "start":60039,
+  "end":60059,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Violence solves war.",
+  "id":"7b6165a1-5de1-4d42-8b82-fd8238673b93",
+  "params":{
+    "id":"db50f8fa-d3bf-4011-97d2-6bdc17d96c58"
+  },
+  "name":"Joseph"
+}

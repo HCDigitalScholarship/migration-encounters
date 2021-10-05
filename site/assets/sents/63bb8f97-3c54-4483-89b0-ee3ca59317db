@@ -1,0 +1,12 @@
+{
+  "start":15481,
+  "end":15503,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\"Mickey mouse is big?\"",
+  "id":"63bb8f97-3c54-4483-89b0-ee3ca59317db",
+  "params":{
+    "id":"60aa1102-77a3-462e-ad60-436e8232213a"
+  },
+  "name":"Beto"
+}

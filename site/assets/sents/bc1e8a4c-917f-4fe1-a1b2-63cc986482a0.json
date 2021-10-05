@@ -1,0 +1,13 @@
+{
+  "start":20432,
+  "end":20490,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So I got out the car and I was like, \"What's going\n   on?\"",
+  "id":"bc1e8a4c-917f-4fe1-a1b2-63cc986482a0",
+  "params":{
+    "id":"bc1e8a4c-917f-4fe1-a1b2-63cc986482a0",
+    "class":"anno"
+  },
+  "name":"Miguel C"
+}

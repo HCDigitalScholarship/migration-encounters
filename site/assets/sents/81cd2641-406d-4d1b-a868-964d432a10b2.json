@@ -1,0 +1,13 @@
+{
+  "start":8190,
+  "end":8214,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Anne: In the restaurant?",
+  "id":"81cd2641-406d-4d1b-a868-964d432a10b2",
+  "params":{
+    "id":"81cd2641-406d-4d1b-a868-964d432a10b2",
+    "class":"anno"
+  },
+  "name":"Laura B"
+}

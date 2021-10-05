@@ -1,0 +1,12 @@
+{
+  "start":21925,
+  "end":21951,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I don't know if you heard.",
+  "id":"646dadd5-6eaf-49d1-9e53-c6bf09afa3b0",
+  "params":{
+    "id":"6a0e7519-9b5f-4c29-8e1b-92893f67181e"
+  },
+  "name":"Daniel"
+}

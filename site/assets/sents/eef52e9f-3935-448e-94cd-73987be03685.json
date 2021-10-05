@@ -1,0 +1,13 @@
+{
+  "start":13946,
+  "end":14038,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What I heard from a friend is that it also takes another ten years,\n   so it's basically 20.",
+  "id":"eef52e9f-3935-448e-94cd-73987be03685",
+  "params":{
+    "id":"eef52e9f-3935-448e-94cd-73987be03685",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

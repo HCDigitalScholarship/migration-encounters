@@ -1,0 +1,13 @@
+{
+  "start":30242,
+  "end":30312,
+  "label":"SENT",
+  "type":"sent",
+  "text":"After a while, I just started\n     comprehending English and learning.",
+  "id":"16c9a1c5-517f-4d1a-9445-4feb7a642af5",
+  "params":{
+    "id":"16c9a1c5-517f-4d1a-9445-4feb7a642af5",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

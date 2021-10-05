@@ -1,0 +1,13 @@
+{
+  "start":13022,
+  "end":13048,
+  "label":"SENT",
+  "type":"sent",
+  "text":"But what was the question?",
+  "id":"014c8f39-5ae1-45ee-9051-145db45c4bd4",
+  "params":{
+    "id":"014c8f39-5ae1-45ee-9051-145db45c4bd4",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

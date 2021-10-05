@@ -1,0 +1,13 @@
+{
+  "start":3445,
+  "end":3655,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He went, \"No,\n   here, you're in America now, you're in Phoenix now, let's go get a burger.\"\n   I remember that somebody bought me\u2014I don't know if it was her or him, the\n   driver\u2014a kid's meal from MacDonald's.",
+  "id":"b29676d4-a362-4f05-a149-f8cce92a4588",
+  "params":{
+    "id":"b29676d4-a362-4f05-a149-f8cce92a4588",
+    "class":"anno"
+  },
+  "name":"Rodolfo"
+}

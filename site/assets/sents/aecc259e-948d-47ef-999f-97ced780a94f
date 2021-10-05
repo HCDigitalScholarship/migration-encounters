@@ -1,0 +1,12 @@
+{
+  "start":12224,
+  "end":12261,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\n   You spent so much time in the US.",
+  "id":"aecc259e-948d-47ef-999f-97ced780a94f",
+  "params":{
+    "id":"540f33ee-bbea-4ddd-b55b-8357a5c3f2ce"
+  },
+  "name":"Pablo"
+}

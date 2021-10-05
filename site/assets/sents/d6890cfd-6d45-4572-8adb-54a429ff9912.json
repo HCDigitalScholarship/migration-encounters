@@ -1,0 +1,13 @@
+{
+  "start":27562,
+  "end":27660,
+  "label":"SENT",
+  "type":"sent",
+  "text":"If you are going to do division,\n     you just put the answer in and put the few steps down there.",
+  "id":"d6890cfd-6d45-4572-8adb-54a429ff9912",
+  "params":{
+    "id":"d6890cfd-6d45-4572-8adb-54a429ff9912",
+    "class":"anno"
+  },
+  "name":"Beto"
+}

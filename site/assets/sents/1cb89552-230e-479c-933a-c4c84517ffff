@@ -1,0 +1,12 @@
+{
+  "start":7570,
+  "end":7604,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I mean\n     it's been a long time.",
+  "id":"1cb89552-230e-479c-933a-c4c84517ffff",
+  "params":{
+    "id":"1f96d2b4-9dfb-4cc1-b39e-60a5f7fdf567"
+  },
+  "name":"Beto"
+}

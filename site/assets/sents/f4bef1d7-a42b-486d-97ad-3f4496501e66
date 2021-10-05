@@ -1,0 +1,12 @@
+{
+  "start":3423,
+  "end":3441,
+  "label":"SENT",
+  "type":"sent",
+  "text":"You mentioned ___?",
+  "id":"f4bef1d7-a42b-486d-97ad-3f4496501e66",
+  "params":{
+    "id":"2bc52898-410e-48f0-bfbc-d49e3fda908e"
+  },
+  "name":"Josue"
+}

@@ -1,0 +1,12 @@
+{
+  "start":42796,
+  "end":42980,
+  "label":"SENT",
+  "type":"sent",
+  "text":"This is more of a general question, but have you received any help\n   since you've been permanently back in Mexico, either from the government or\n   an organization like New Comienzos?",
+  "id":"310c5b94-edb4-4a77-93db-c2ed11fdad7e",
+  "params":{
+    "id":"3054a454-721b-4bdb-bf05-042f63bf49cb"
+  },
+  "name":"Daniel B"
+}

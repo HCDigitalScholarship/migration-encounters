@@ -1,0 +1,13 @@
+{
+  "start":15434,
+  "end":15460,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Let me show you a picture.",
+  "id":"551c6c8b-ed33-42ee-8240-72fdead9e4e9",
+  "params":{
+    "id":"551c6c8b-ed33-42ee-8240-72fdead9e4e9",
+    "class":"anno"
+  },
+  "name":"Hugo"
+}

@@ -1,0 +1,13 @@
+{
+  "start":19843,
+  "end":19871,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That\n   was when I was here.",
+  "id":"80dbe5c9-d269-4eca-972c-bb0d71d48ac1",
+  "params":{
+    "id":"80dbe5c9-d269-4eca-972c-bb0d71d48ac1",
+    "class":"anno"
+  },
+  "name":"Carlos"
+}

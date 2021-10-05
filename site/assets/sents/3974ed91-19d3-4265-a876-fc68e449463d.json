@@ -1,0 +1,13 @@
+{
+  "start":20626,
+  "end":20701,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Some people just\n   listen to the brass, but everybody has a story to tell.",
+  "id":"3974ed91-19d3-4265-a876-fc68e449463d",
+  "params":{
+    "id":"3974ed91-19d3-4265-a876-fc68e449463d",
+    "class":"anno"
+  },
+  "name":"Miguel A"
+}

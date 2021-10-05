@@ -1,0 +1,13 @@
+{
+  "start":12367,
+  "end":12399,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Many: A year and a half.\n \n \n   ",
+  "id":"569b8c68-f817-49cb-91b2-0def561f4bd7",
+  "params":{
+    "id":"569b8c68-f817-49cb-91b2-0def561f4bd7",
+    "class":"anno"
+  },
+  "name":"Many"
+}

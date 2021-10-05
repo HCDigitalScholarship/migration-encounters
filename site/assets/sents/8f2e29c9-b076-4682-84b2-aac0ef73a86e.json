@@ -1,0 +1,13 @@
+{
+  "start":52726,
+  "end":52745,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I tell her, \"Yeah.\"",
+  "id":"8f2e29c9-b076-4682-84b2-aac0ef73a86e",
+  "params":{
+    "id":"8f2e29c9-b076-4682-84b2-aac0ef73a86e",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

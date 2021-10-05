@@ -1,0 +1,13 @@
+{
+  "start":14102,
+  "end":14140,
+  "label":"SENT",
+  "type":"sent",
+  "text":"\u201cCan I\n   have a job?\u201d \u201dNo you can't.\u201d",
+  "id":"afd235df-8932-4e41-881b-5891f0c3b1b0",
+  "params":{
+    "id":"afd235df-8932-4e41-881b-5891f0c3b1b0",
+    "class":"anno"
+  },
+  "name":"Julio Cesar"
+}

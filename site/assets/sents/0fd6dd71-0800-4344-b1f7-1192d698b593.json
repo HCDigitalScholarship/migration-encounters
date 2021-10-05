@@ -1,0 +1,13 @@
+{
+  "start":37798,
+  "end":37816,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I remember my dad.",
+  "id":"0fd6dd71-0800-4344-b1f7-1192d698b593",
+  "params":{
+    "id":"0fd6dd71-0800-4344-b1f7-1192d698b593",
+    "class":"anno"
+  },
+  "name":"Luisa"
+}

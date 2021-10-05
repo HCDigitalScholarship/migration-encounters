@@ -1,0 +1,13 @@
+{
+  "start":4302,
+  "end":4315,
+  "label":"SENT",
+  "type":"sent",
+  "text":"He's younger?",
+  "id":"23bcf758-f2ef-4fa2-b232-5431defa32c8",
+  "params":{
+    "id":"23bcf758-f2ef-4fa2-b232-5431defa32c8",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

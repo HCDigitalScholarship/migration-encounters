@@ -1,0 +1,13 @@
+{
+  "start":19047,
+  "end":19072,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Does she have her papers?",
+  "id":"a41cf178-62e9-4855-a709-006d60f8f514",
+  "params":{
+    "id":"a41cf178-62e9-4855-a709-006d60f8f514",
+    "class":"anno"
+  },
+  "name":"Joana"
+}

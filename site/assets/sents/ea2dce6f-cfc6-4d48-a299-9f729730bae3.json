@@ -1,0 +1,12 @@
+{
+  "start":2073,
+  "end":2091,
+  "label":"SENT",
+  "type":"sent",
+  "text":"What month was it?",
+  "id":"ea2dce6f-cfc6-4d48-a299-9f729730bae3",
+  "params":{
+    "id":"4e64d396-7e44-4b53-b34a-147cb4711a52"
+  },
+  "name":"Rodrigo"
+}

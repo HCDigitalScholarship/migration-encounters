@@ -1,0 +1,12 @@
+{
+  "start":2236,
+  "end":2256,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Which part of Texas?",
+  "id":"8714777b-7cf8-404f-aa13-c1c55a9c5a5e",
+  "params":{
+    "id":"19fbac30-60ac-41ce-8d95-3a44c09a4459"
+  },
+  "name":"Many"
+}

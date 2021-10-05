@@ -1,0 +1,12 @@
+{
+  "start":22290,
+  "end":22324,
+  "label":"SENT",
+  "type":"sent",
+  "text":"Why are you wearing those colors?\"",
+  "id":"aceb1401-e8ce-4c51-beb0-4d2cc7537f97",
+  "params":{
+    "id":"24ec07da-553d-486f-982f-e22b2802a948"
+  },
+  "name":"Luis A"
+}

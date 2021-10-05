@@ -1,0 +1,13 @@
+{
+  "start":47611,
+  "end":47637,
+  "label":"SENT",
+  "type":"sent",
+  "text":"The one who kidnapped you?",
+  "id":"b67a0d77-0b69-4ba0-8e1a-b0b35bbba638",
+  "params":{
+    "id":"b67a0d77-0b69-4ba0-8e1a-b0b35bbba638",
+    "class":"anno"
+  },
+  "name":"Mike"
+}

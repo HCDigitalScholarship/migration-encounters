@@ -1,0 +1,12 @@
+{
+  "start":2060,
+  "end":2101,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So then you went to school in the States.",
+  "id":"e533649f-f143-46d2-b94f-147a84030358",
+  "params":{
+    "id":"22ef12cf-67c7-4a6b-ba67-49d2a585755a"
+  },
+  "name":"Carolina"
+}

@@ -1,0 +1,13 @@
+{
+  "start":31657,
+  "end":31713,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I left when Obama\n had just gotten into the White House.",
+  "id":"e589c17e-b642-403f-8df2-d517d2312169",
+  "params":{
+    "id":"e589c17e-b642-403f-8df2-d517d2312169",
+    "class":"anno"
+  },
+  "name":"Brenda"
+}

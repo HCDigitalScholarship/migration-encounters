@@ -1,0 +1,13 @@
+{
+  "start":5891,
+  "end":5902,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I loved it.",
+  "id":"7d582fad-9e05-4a0c-9b8b-85109f45e369",
+  "params":{
+    "id":"7d582fad-9e05-4a0c-9b8b-85109f45e369",
+    "class":"anno"
+  },
+  "name":"Many"
+}

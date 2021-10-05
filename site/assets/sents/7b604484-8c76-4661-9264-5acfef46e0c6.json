@@ -1,0 +1,13 @@
+{
+  "start":622,
+  "end":651,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I love music, I love to sing.",
+  "id":"7b604484-8c76-4661-9264-5acfef46e0c6",
+  "params":{
+    "id":"7b604484-8c76-4661-9264-5acfef46e0c6",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

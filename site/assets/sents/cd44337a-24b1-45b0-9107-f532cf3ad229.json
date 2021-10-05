@@ -1,0 +1,15 @@
+{
+  "start":2663,
+  "end":2694,
+  "label":"SENT",
+  "type":"sent",
+  "text":"going to be a really expensive.",
+  "id":"cd44337a-24b1-45b0-9107-f532cf3ad229",
+  "params":{
+    "id":"cd44337a-24b1-45b0-9107-f532cf3ad229",
+    "class":"anno",
+    "data_url":""
+  },
+  "class":"anno",
+  "name":"Frank"
+}

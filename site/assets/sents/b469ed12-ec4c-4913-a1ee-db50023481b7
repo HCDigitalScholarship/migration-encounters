@@ -1,0 +1,12 @@
+{
+  "start":23919,
+  "end":23977,
+  "label":"SENT",
+  "type":"sent",
+  "text":"a\n   guy that doesn't know how much time he's going to do.",
+  "id":"b469ed12-ec4c-4913-a1ee-db50023481b7",
+  "params":{
+    "id":"33fb3b3f-afbd-4f8f-94b2-e34d36b3e1ba"
+  },
+  "name":"Hugo"
+}

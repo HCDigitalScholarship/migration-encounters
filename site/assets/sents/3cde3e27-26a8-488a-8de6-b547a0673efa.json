@@ -1,0 +1,13 @@
+{
+  "start":34023,
+  "end":34078,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I think that's part of the reason I got into music too.",
+  "id":"3cde3e27-26a8-488a-8de6-b547a0673efa",
+  "params":{
+    "id":"3cde3e27-26a8-488a-8de6-b547a0673efa",
+    "class":"anno"
+  },
+  "name":"Billy"
+}

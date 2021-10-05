@@ -1,0 +1,13 @@
+{
+  "start":15502,
+  "end":15583,
+  "label":"SENT",
+  "type":"sent",
+  "text":"As\n   you know, Palm Springs is very close to the beach, the snow, and mountains.",
+  "id":"3c408b83-12ee-4e37-80b6-63d2168e7e11",
+  "params":{
+    "id":"3c408b83-12ee-4e37-80b6-63d2168e7e11",
+    "class":"anno"
+  },
+  "name":"Rocio"
+}

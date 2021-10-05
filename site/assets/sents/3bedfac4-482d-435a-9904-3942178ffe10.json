@@ -1,0 +1,13 @@
+{
+  "start":20785,
+  "end":20812,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I work there for right now.",
+  "id":"3bedfac4-482d-435a-9904-3942178ffe10",
+  "params":{
+    "id":"3bedfac4-482d-435a-9904-3942178ffe10",
+    "class":"anno"
+  },
+  "name":"Edgar"
+}

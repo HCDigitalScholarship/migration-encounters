@@ -1,0 +1,12 @@
+{
+  "start":16086,
+  "end":16118,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It wasn't like it is\n right now.",
+  "id":"e8afab60-f514-4f95-9fcd-083b05fb24f5",
+  "params":{
+    "id":"adc10bc9-b748-4165-9581-034ce229dcb9"
+  },
+  "name":"Ben"
+}

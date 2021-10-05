@@ -1,0 +1,13 @@
+{
+  "start":13032,
+  "end":13083,
+  "label":"SENT",
+  "type":"sent",
+  "text":"It's like, \"We can still\n tell you have an accent.\"",
+  "id":"c3810c07-f8d5-4f40-a7bb-601e0f0b2253",
+  "params":{
+    "id":"c3810c07-f8d5-4f40-a7bb-601e0f0b2253",
+    "class":"anno"
+  },
+  "name":"Ana"
+}

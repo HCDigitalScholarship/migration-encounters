@@ -1,0 +1,13 @@
+{
+  "start":28635,
+  "end":28673,
+  "label":"SENT",
+  "type":"sent",
+  "text":"My wife, she's got a\n pretty good job.",
+  "id":"0f8cbc6b-09d9-4358-a091-fe9d85800b87",
+  "params":{
+    "id":"0f8cbc6b-09d9-4358-a091-fe9d85800b87",
+    "class":"anno"
+  },
+  "name":"Ben"
+}

@@ -1,0 +1,13 @@
+{
+  "start":3062,
+  "end":3110,
+  "label":"SENT",
+  "type":"sent",
+  "text":"So\n   it's like, I'm really patient with people.",
+  "id":"7ac2c001-2295-42f7-b32d-5011142f7624",
+  "params":{
+    "id":"7ac2c001-2295-42f7-b32d-5011142f7624",
+    "class":"anno"
+  },
+  "name":"Cris"
+}

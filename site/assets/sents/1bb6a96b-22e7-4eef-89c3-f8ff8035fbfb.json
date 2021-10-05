@@ -1,0 +1,13 @@
+{
+  "start":70371,
+  "end":70383,
+  "label":"SENT",
+  "type":"sent",
+  "text":"That is $40.",
+  "id":"1bb6a96b-22e7-4eef-89c3-f8ff8035fbfb",
+  "params":{
+    "id":"1bb6a96b-22e7-4eef-89c3-f8ff8035fbfb",
+    "class":"anno"
+  },
+  "name":"Daniel B"
+}

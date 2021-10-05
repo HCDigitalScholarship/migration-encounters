@@ -1,0 +1,12 @@
+{
+  "start":16099,
+  "end":16124,
+  "label":"SENT",
+  "type":"sent",
+  "text":"I didn't know what to do.",
+  "id":"ebc67f1b-dafa-4fe2-a036-51bbb736bab3",
+  "params":{
+    "id":"3985c3c9-7f17-4b40-b50a-212c1c57ea94"
+  },
+  "name":"Luis B"
+}

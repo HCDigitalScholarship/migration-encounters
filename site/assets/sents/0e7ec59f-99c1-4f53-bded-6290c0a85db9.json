@@ -1,0 +1,13 @@
+{
+  "start":9339,
+  "end":9402,
+  "label":"SENT",
+  "type":"sent",
+  "text":"And at one point, the\n   guy that I was working with, he moved.",
+  "id":"0e7ec59f-99c1-4f53-bded-6290c0a85db9",
+  "params":{
+    "id":"0e7ec59f-99c1-4f53-bded-6290c0a85db9",
+    "class":"anno"
+  },
+  "name":"Daniel"
+}
