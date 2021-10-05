@@ -227,14 +227,18 @@
     
 
 
-    async function interview_sents(element, query){
-          let sent_idx;    
+  async function interview_sents(element, name, query){
+      
+      
+      let sent_idx;
+      element.classList.remove("bi-arrow-bar-right")
+      element.classList.add("bi-arrow-bar-down")
           fetch("../assets/lunr/sents.json").then(
             function(u){ return u.json();}
           ).then(
             function(json){
               sent_idx = lunr.Index.load(json);
-              let sents = sent_idx.search(`+name:${element.id} +text:${query}`);
+              let sents = sent_idx.search(`+name:${name} +text:${query}`);
               let results = []
               for (i in sents){
                 // limit to the first 10 results, page freezes if you have 40 interviews with dozens of sents each.
@@ -247,20 +251,22 @@
                       text = text.replace(query, `<mark>${query}</mark>`);
 
                     }
-                    element.appendChild(
+                    element.parentElement.querySelector("ul").appendChild(
                       htmlToElement(
-                        `<a href="../interview/${element.id}.html#${sents[i].ref}">${text}</a>`
+                        `<li><a style="color:black;" href="../interview/${name}.html#${sents[i].ref}">${text}</a></li>`
                       )
                     );
                   });
                 
                 }
               }
-              element.children[1].classList.remove('spinner-border');
+              element.style.display = "none";
               return results
             }
           )
     }
+    
+      
     
 
     // Access query from the URL
@@ -306,11 +312,9 @@
                   .appendChild(
                     htmlToElement(
                       `<div id="${interview_results[i].ref}" style="border: 1px inset rgba(95,81,164,0.26);
-                      border-radius: 20px; padding:50px;" onclick="window.location.href='../interview/${interview_results[i].ref}.html'">
-                      <h4>${interview_results[i].ref}</h4> 
-                      <div class="spinner-border spinner-border-sm" role="status">
-                        <span class="visually-hidden">Loading...</span>
-                      </div>
+                      border-radius: 20px; padding:50px;">
+                      <h4 onclick="window.location.href='../interview/${interview_results[i].ref}.html'">${interview_results[i].ref}</h4><i onclick="interview_sents(this, interview_results[i].ref, query);"class="bi bi-arrow-bar-right"></i>
+                      <ul></ul>
                       </div>`
                     )
                   );
@@ -324,13 +328,13 @@
           }
 
           // For each of the interview results, populate sentence links 
-          let interview_elems = document.querySelector(".interviews").children; 
-          [].forEach.call(interview_elems, function(e) {
-            interview_sents(e, query);
+          //let interview_elems = document.querySelector(".interviews").children; 
+          //[].forEach.call(interview_elems, function(e) {
+          //  interview_sents(e, query);
             
             
             
-          });
+          //});
 
           return interview_results;
         });

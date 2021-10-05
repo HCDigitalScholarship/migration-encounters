@@ -20,23 +20,23 @@ var shuffleInstance;
 // Fetch first page of results from the API.
 // You should probably polyfill `fetch` if you're going to copy this demo.
 // https://github.com/github/fetch
-fetch('https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounters/main/shuffle-data.json')
+fetch('../assets/lunr/shuffle.json')
   .then(function (response) {
     return response.json();
   })
   .then(function (response) {
     // Store the total number of pages so we know when to disable the "load more" button.
     totalPages = response.length;
-    let counter = 10;
+    let counter = 9;
     // Create and insert the markup.
-    var markup = getItemMarkup(response.slice(0, 10));
+    var markup = getItemMarkup(response.slice(0, 9));
     appendMarkupToGrid(markup);
-    function addTen() {
+    function addMore() {
         if (counter <= totalPages) {
-        var markup = getItemMarkup(response.slice(counter, counter+10));
+        var markup = getItemMarkup(response.slice(counter, counter+9));
         appendMarkupToGrid(markup);
         // Save the total number of new items returned from the API.
-      var itemsFromResponse = 10;
+      var itemsFromResponse = 9;
       // Get an array of elements that were just added to the grid above.
       var allItemsInGrid = Array.from(gridContainerElement.children);
       // Use negative beginning index to extract items from the end of the array.
@@ -44,13 +44,13 @@ fetch('https://raw.githubusercontent.com/HCDigitalScholarship/migration-encounte
 
       // Notify the shuffle instance that new items were added.
       shuffleInstance.add(newItems);
-        counter += 10;
+        counter += 9;
        
         }
     }
 
     // Add click listener to button to load the next page.
-    loadMoreButton.addEventListener('click', addTen);
+    loadMoreButton.addEventListener('click', addMore);
 
     // Initialize Shuffle now that there are items.
     shuffleInstance = new Shuffle(gridContainerElement, {
@@ -120,16 +120,3 @@ function replaceLoadMoreButton() {
   loadMoreButton.parentNode.replaceChild(replacement, loadMoreButton);
 }
 
-/*
-to make shuffle-data.json
-outs = []
-for f in data.iterdir():
-    d = srsly.read_json(f)
-    datas.append(d)
-    meow = {"name":d['name'], "date":d['date'],"location":d['location']
-,"thumbnail":d['thumbnail']}
-    annos = [a['label'] for a in d['annotations'] if a['label'] != 'SEN
-T']
-    meow.update({'labels':list(set(annos))})
-    outs.append(meow)
-*/

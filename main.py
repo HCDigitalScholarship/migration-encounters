@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request,HTTPException
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
-from typing import Optional, List
+from typing import Optional, List, Tuple
 from functools import cache
 import json 
 import spacy
@@ -48,18 +48,18 @@ templates.env.filters['nl2br'] = nl2br
 
 class Interview(BaseModel):
     name: str
-    date: str
-    location: str
-    interviewer: str
-    portrait: str
-    thumbnail: str
+    date: Optional[str] = ''
+    location: Optional[str] = ''
+    interviewer: Optional[str] = ''
+    portrait: Optional[str] = ''
+    thumbnail: Optional[str] = ''
     text: Optional[str] = ''
     annotations: List[dict] #for both audio, text and images
     audio: Optional[List[dict]] = None
     subjects: Optional[List[str]] = None
 
 @cache
-def load_data():
+def load_data() -> Tuple[List[Interview], List[str]]:
     interviews = []
     subjects = []
     data_dir = Path.cwd() / 'data'  
@@ -74,24 +74,7 @@ def load_data():
             print('error',data)
     return interviews, list(set(subjects))
 
-green = [
-        "Abel_6-2-2019_Portrait.jpg", #
-        #"Angelo_6-2-2019_Portrait.jpg",
-        "Bernabe_6-1-2019_Portrait.jpg", #
-        #"Billy_6-4-2019_Portrait.jpg",
-        "Cuauhtemoc_6-9-2019_Portrait.jpg", #
-        "Daniel_6-3-2019_Portrait.jpg", #
-        "Diana_6-6-2019_Portrait.jpg",
-        "Hugo_6-9-2019_Portrait.jpg", ##
-        #"Frank_6-8-2019_Portrait.jpg",
-        'Laura_1_6-10-2019_Portrait.jpg', #
-        #"Lucero_6--2019_Portrait.jpg",
-        "Miguel_3_6-10-2019_Portrait.jpg", #
-        #"Olimpya_6-7-2019_Portrait.jpg",
-        "Roberto_6-3-2019_Portrait.jpg", ##
-        #Yosell_6-12-2019_Portrait.jpg",
-        "Zayuri_6-10-2019_Portrait.jpg",
-        ]
+
 brick = [
         "Ivan_6-3-2019_Portrait.jpg",
         "Jeimmy_6-17-18_Portrait.jpg", 
@@ -101,27 +84,19 @@ brick = [
         ]
 photos = brick
 
-interviews = Path.cwd() / "assets"/ "img" / "thumbnails"
-interviews = [{"file":a.name,"title":a.stem,"subjects":"","date":2018} for a in interviews.iterdir()]
-#add random subjects 
-temp = ["Migration","Mexico City","ICE","California", "Nogales", "Dallas"]
-for i in interviews:
-    eek = random.randrange(len(temp))
-    i['subjects'] = f'"[{temp[eek]}]"'
-
-filters = temp
-
 
 def add_spans_to_text(interview:Interview):
     renderer = EntityRenderer()
-    renderer.colors = {"PERSON": "#03fc41", "SENT":"transparent" }
-    renderer.ent_template = """<span id="{id}" style="background: {bg}" class="entity" value="{label}">{text}</span>"""
+    renderer.colors = {"PERSON": "transparent", "SENT":"transparent" }
+    renderer.ent_template = """<span id="{id}" onclick="" style="background: {bg}" class="{class}" data-url="{data_url}" value="{label}">{text}</span>"""
     parsed = dict(text=interview.text,ents=interview.annotations, settings={'lang': 'en', 'direction': 'ltr'})
     return renderer.render([parsed], page=False, minify=False).strip()
-    
 
+def add_audio_to_annotations(interview:Interview):
+    audio = [a for a in interview.audio if a['start'] and a['end']]
+    interview.annotations.extend(audio)
+    return interview
 
-#TODO, change interviews to list of Interview objects, which load from TEI files in a data directory
 @app.get("/")
 def index(request:Request):
     #choose three random images from the photographs with a green background
@@ -130,7 +105,7 @@ def index(request:Request):
     context = dict(
         request=request,
         interviews=interviews,
-        filters= filters,
+        filters= subjects,
         oral_histories= oral_histories, 
         photographs=photographs,
         subjects=subjects, 
@@ -144,8 +119,10 @@ def interview(request:Request,person:str):
     interviews, subjects = load_data()
     person = [i for i in interviews if i.name.lower() == str(person).lower()]
     context['person'] = person[0]
+    context['person'] = add_audio_to_annotations(context['person'])
     #mark_sentence_spans_with_ids(person[0])
     context['text'] = add_spans_to_text(person[0])
+    
     return templates.TemplateResponse("interview.html", context)
 
 @app.get("/interview_json/{person}")

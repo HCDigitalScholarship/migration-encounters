@@ -122,7 +122,7 @@ def search_ignore_space(pattern_text, string):
     return [matched_string, start, end]
 
 
-def collect_annotations(interview_name: str):
+def collect_annotations(interview_name: str, summer=False):
     """This program re-formats the annotations from a *specific* hypothesis interview into a list of dictionaries that
     align more closely with the Spacy auto-generated annotations."""
 
@@ -131,6 +131,8 @@ def collect_annotations(interview_name: str):
     interview_name = str(interview_name).lower()
 
     # finding the number of annotations
+    
+    
     data = httpx.get(
         'https://api.hypothes.is/api/search?uri=https://www.migrationencounters.org/stories/' + interview_name +
         '&limit=1')
@@ -167,7 +169,7 @@ def collect_annotations(interview_name: str):
         raw_text_document = raw_text_document.json()
         raw_text_document = raw_text_document.get('text')
     else:  # error loading json file
-        return "error"
+        return None
     # defining a list of un-parsed annotations
     unparsed_annotations = []
 
