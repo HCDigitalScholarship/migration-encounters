@@ -3,7 +3,6 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Json
 from typing import Optional, List, Tuple
-from functools import cache
 import json 
 import spacy
 from spacy import displacy
@@ -58,7 +57,6 @@ class Interview(BaseModel):
     audio: Optional[List[dict]] = None
     subjects: Optional[List[str]] = None
 
-@cache
 def load_data() -> Tuple[List[Interview], List[str]]:
     interviews = []
     subjects = []
@@ -88,12 +86,12 @@ photos = brick
 def add_spans_to_text(interview:Interview):
     renderer = EntityRenderer()
     renderer.colors = {"PERSON": "transparent", "SENT":"transparent" }
-    renderer.ent_template = """<span id="{id}" onclick="" style="background: {bg}" class="{class}" data-url="{data_url}" value="{label}">{text}</span>"""
+    renderer.ent_template = """<span id="{id}" onclick="" style="background: {bg}" class="{class}" value="{label}">{text}</span>"""
     parsed = dict(text=interview.text,ents=interview.annotations, settings={'lang': 'en', 'direction': 'ltr'})
     return renderer.render([parsed], page=False, minify=False).strip()
 
 def add_audio_to_annotations(interview:Interview):
-    audio = [a for a in interview.audio if a['start'] and a['end']]
+    audio = [a for a in interview.audio if a.get('start',None) and a.get('end',None)]
     interview.annotations.extend(audio)
     return interview
 
