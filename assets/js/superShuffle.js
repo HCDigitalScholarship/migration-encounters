@@ -71,8 +71,13 @@ function getMarkupFromData(dataForSingleItem) {
   var name = dataForSingleItem.name;
   // https://www.paulirish.com/2009/random-hex-color-code-snippets/
   var randomColor = ('000000' + Math.random().toString(16).slice(2, 8)).slice(-6);
-  console.log(dataForSingleItem);
-  return `<figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups="${dataForSingleItem.labels}"
+  
+  let dataGroups= JSON.stringify(dataForSingleItem.labels);
+  
+  if (dataGroups === undefined) {
+    dataGroups = "";
+  }
+  return `<figure style="padding-right:10px;" class="picture-item rounded js-item img-item col-4@sm col-4@xs" data-groups='${dataGroups}'
   data-date-created="${dataForSingleItem.date}" data-title=""
   data-author="Anne Preston">
     <div >
@@ -120,3 +125,7 @@ function replaceLoadMoreButton() {
   loadMoreButton.parentNode.replaceChild(replacement, loadMoreButton);
 }
 
+function filterShuffle(filter) {
+  shuffleInstance.filter(filter);
+  console.log(filter);
+}

@@ -32,9 +32,12 @@ function autocomplete(inp, arr) {
               inp.value = this.getElementsByTagName("input")[0].value;
               /*close the list of autocompleted values,
               (or any other open lists of autocompleted values:*/
+            
               closeAllLists();
+        filterShuffle(inp.value);
           });
           a.appendChild(b);
+          
         }
       }
   });
@@ -72,6 +75,7 @@ function autocomplete(inp, arr) {
     if (currentFocus < 0) currentFocus = (x.length - 1);
     /*add class "autocomplete-active":*/
     x[currentFocus].classList.add("autocomplete-active");
+    
   }
   function removeActive(x) {
     /*a function to remove the "active" class from all autocomplete items:*/

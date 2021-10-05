@@ -1,4 +1,7 @@
 {% extends 'base.html' %}
+{% block extra_style %}
+<link rel="stylesheet" href="../assets/css/shuffle.css">
+{% endblock %}
 
 {% block content %}
   
@@ -125,9 +128,9 @@
 <section id="interviews" class="cta">
     <div class="container-fluid" data-aos="zoom-in">
 
-      <div class="text-center">
+      <div class="text-center" style="margin-bottom:15px;">
         <h3>Interviews</h3>
-        <input id="myInput" type="text" name="filters" placeholder="Filter">
+        <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter">
         
       </div>
 
