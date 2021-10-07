@@ -86,7 +86,7 @@ photos = brick
 def add_spans_to_text(interview:Interview):
     renderer = EntityRenderer()
     renderer.colors = {"PERSON": "transparent", "SENT":"transparent" }
-    renderer.ent_template = """<span id="{id}" onclick="" style="background: {bg}" class="{class}" value="{label}">{text}</span>"""
+    renderer.ent_template = """<span id="{id}" onclick="" style="background: {bg}" class="{class}" value="{label}">{text}</span>""" #data-url="{data_url}"
     parsed = dict(text=interview.text,ents=interview.annotations, settings={'lang': 'en', 'direction': 'ltr'})
     return renderer.render([parsed], page=False, minify=False).strip()
 
