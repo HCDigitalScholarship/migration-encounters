@@ -91,7 +91,15 @@
     }
     
     
+  
+  // create global variable for sents index, used whenever interview_sents is called 
+  let sentsJSON;
+  fetch('../assets/lunr/sents.json')
+  .then(res => res.json())
+  .then(data => sentsJSON = data)
 
+ 
+  
 
   async function interview_sents(element, name, query){
       
@@ -99,11 +107,10 @@
       let sent_idx;
       element.classList.remove("bi-arrow-bar-right")
       element.classList.add("bi-arrow-bar-down")
-          fetch("../assets/lunr/sents.json").then(
-            function(u){ return u.json();}
-          ).then(
-            function(json){
-              sent_idx = lunr.Index.load(json);
+    
+            
+              
+              sent_idx = lunr.Index.load(sentsJSON);
               let sents = sent_idx.search(`+name:${name} +text:${query}`);
               let results = []
               for (i in sents){
@@ -128,8 +135,8 @@
               }
               element.style.display = "none";
               return results
-            }
-          )
+            
+          
     }
     
       
