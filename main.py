@@ -119,7 +119,7 @@ def interview(request:Request,person:str):
     context['person'] = person[0]
     context['person'] = add_audio_to_annotations(context['person'])
     #mark_sentence_spans_with_ids(person[0])
-    context['text'] = add_spans_to_text(person[0])
+    context['text'] = person[0].text #add_spans_to_text(person[0])
     
     return templates.TemplateResponse("interview.html", context)
 
