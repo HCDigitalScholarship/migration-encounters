@@ -24,7 +24,7 @@ templates = Jinja2Templates(directory="templates")
 def nl2br(value):
     br = "<br>\n"
     result = "\n\n".join(
-        f"<p>{br.join(p.splitlines())}<\p>"
+        f"<p>{br.join(p.splitlines())}</p>"
         for p in re.split(r"(?:\r\n|\r(?!\n)|\n){2,}", value)
     )
     return result
