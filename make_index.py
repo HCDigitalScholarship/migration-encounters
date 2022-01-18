@@ -3,6 +3,7 @@ from pathlib import Path
 from lunr import lunr
 from tqdm import tqdm
 from main import load_data
+from typing import List
 # Generate search index for use by lunr.js https://lunr.readthedocs.io/en/latest/lunrjs-interop.html
 
 data = Path.cwd() / 'data'
@@ -91,21 +92,41 @@ for sent in tqdm(sents):
 # right column is a list of snippets (with link to the snippet in the full interview, so snippets need anchors in the interview page)
 # each snippet needs a uuid
 
+def make_select2_filters(subjects:List[str]): 
+    """Convert subjects to select2 format"""
+    i = 1
+    results = []
+    lookup = {}
+    for s in subjects:
+        results.append({'id':i,'text':s})
+        lookup[s] = i
+        i += 1
+    select2 = {
+        "results": results,
+        "pagination": {
+            "more": True
+        }
+    }
+    return select2, lookup
+
+
 # The shuffle grid on index.html loads from a json file with the name and labels of each interview
 def make_shuffle_json(): 
     interviews, subjects = load_data()
+    select2, lookup = make_select2_filters(subjects)
     result = {}
     outs = []
     for i in tqdm(interviews):
         meow = {"name":i.name, "date":i.date,"location":i.location,"thumbnail":i.thumbnail}
-        annos = [a['label'] for a in i.annotations if a['label'] != 'SENT']
+        annos = [lookup[a['label']] for a in i.annotations if a['label'] != 'SENT']
         meow.update({'labels':list(set(annos))})
         outs.append(meow)
     # Sort interviews alphabetically by name
     outs = sorted(outs, key = lambda i: i['name'])
     result.update({'interviews':outs})
-    result.update({'subjects':subjects})
+    result.update({'select2':select2})
+
     #result.
     data_path = Path.cwd() / 'assets' / 'lunr'/ 'shuffle.json'
     srsly.write_json(data_path, result)
-make_shuffle_json()
+make_shuffle_json()    

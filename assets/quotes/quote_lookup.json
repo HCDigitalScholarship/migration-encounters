@@ -448,19 +448,318 @@
   "School, School":[
     "9ce85b30-eb1e-4595-a3cb-cd52e5135bce"
   ],
+  "Time in the US, Arriving in the United States, Age":[
+    "2d13063f-3904-49d2-9725-e62cf7426f36",
+    "4020ce27-a8cb-4647-8ca3-fdb4216db101",
+    "f35e174a-a9bc-406d-a9b6-69bf3570d71b",
+    "3fa45141-1f81-4d8f-873f-b777f0ee2d59"
+  ],
+  "Reflections":[
+    "20c8f8bf-f3d3-4231-9d08-2b02ced85f94",
+    "25d32c1e-b4d6-452b-817d-1b8556cde1ea",
+    "05cf5bb2-9d68-47cc-b511-70984075d6b6",
+    "25e2514e-5bd1-4da2-b81c-73044d859ab5",
+    "fe0fc2db-7e2f-43db-808c-657c5cd96241"
+  ],
+  "Ice":[
+    "d51afdc4-5304-4d5c-b5c1-73617035cbd4",
+    "0c0e98a1-2dc8-48f5-b93a-0bbeadeaa4d8",
+    "58b266f6-30f9-4813-90f9-59c8c18bdcca",
+    "aa8359f0-4e69-4074-b980-ca0d327a952f",
+    "cb89c073-8293-4497-9627-fca5ce64f8c5",
+    "afea4200-a158-487b-8bdb-e226eb01b620"
+  ],
+  "Mexico":[
+    "7e753997-65c3-4d4e-a019-16db954626ec",
+    "5c10cd90-f93f-40a3-989d-83d428b8c6c2",
+    "85b32a6d-21b3-4532-83c0-1ab7aa471b13",
+    "548663ba-5b11-4ead-9825-d970ba0db9bd",
+    "8adb3c45-df2c-4bad-9f32-50ef26c97de2",
+    "c16ccc08-d252-4915-b372-9b7f6a7fbf26",
+    "0648e15e-f532-4d96-8a56-d37261a0ed65",
+    "e79721fd-0f08-41d1-aefb-f402efaf416a"
+  ],
+  "Deportation":[
+    "8c388b5f-31d4-47ef-9454-d66a377b7f6f",
+    "03d5891a-2d9e-4d4f-b653-916ea4cd1d50",
+    "5da7ac42-10b9-4031-bc70-08698314d7d7",
+    "382cdb06-0324-4b5b-a83c-ed20900793fd",
+    "bef2bd4e-3c68-4dff-98b0-3df586d757f8",
+    "1f1ef2c9-08f0-4526-98f8-f1462cef0133",
+    "cf8f1530-e2d4-46ea-9c70-0d2cfa061d47"
+  ],
+  "paperwork":[
+    "898c9e6a-2e5c-429e-8eaa-d3a594be7d36",
+    "0f7330dc-01a2-4c5c-a3ed-eb3a73bee54f",
+    "292c01d6-21b1-4076-8694-387737d38ead"
+  ],
+  "Policy to help migrants":[
+    "3cd5ba0b-2cbc-4740-b76c-f9bc390b6a34",
+    "dc2d7f18-f997-457f-a955-8471be7770bf"
+  ],
+  "Return to Mexico, Jobs, Community, Opportunity, Family Relationships, Feelings, Dreams, Reflections, Mexico, The United States":[
+    "adc2f007-bdab-4da6-acf1-966311e4ae6c"
+  ],
+  "Family":[
+    "cad96987-0177-4b3b-9425-e13eedc925c8",
+    "5e5da5ea-3404-4c1a-8e4d-6ae365e6771d",
+    "05529c5f-c15d-4782-89bd-f3e7c894f7e1",
+    "89d82b26-a76a-4040-99ca-ff7de893297a",
+    "7d00b943-390e-429f-a7ec-36bc46966478",
+    "03d12c36-b0c1-4197-b1dc-730ea3426c20",
+    "39889ccb-7825-47b3-a420-1bfe3c90d7d7",
+    "41ff2bb1-21d6-4199-9ae5-3db06e19b328",
+    "415d0894-7104-4a11-8094-feadca11719d",
+    "0c49635e-a7f9-4132-a148-3015fbd6358f",
+    "83b1579a-97e3-4525-b492-747973a6f670",
+    "3ceb1bed-f194-45fd-aa5f-5d24804003cc",
+    "ec29a691-c9ac-4b71-8ff5-93402c8f875b",
+    "30800646-5d3d-4ce0-abdb-6e9f16f05f95",
+    "fc903540-4fa3-4859-8724-0cbb28d9124d",
+    "332f2438-b68b-47e1-9adf-16e494cbf6ad",
+    "b50ba334-7a16-49e3-9e13-befd6192d54d",
+    "271da7de-04bc-4a70-9785-2a2e2159009c",
+    "40b77a5e-2363-4850-931b-177cd9e61c87",
+    "7be78300-6ec6-4ada-baf0-3cd80fb3c5b8",
+    "a1d38967-9941-4f93-b231-396f2e15bbaa",
+    "8ff1f448-0089-4526-a3aa-c7b51706ea0a",
+    "3e1648b6-eafe-4c2e-a9e5-31165c433fb5",
+    "ccb2e7a6-2103-49d6-8e7a-72c4b948d17a",
+    "f033b816-e973-4e3f-aa3a-178ab98dd447",
+    "7b4d44ee-7186-4722-a861-030419812eae",
+    "ba80a484-2cd8-4ce8-8ed1-3a6fa3c3b718",
+    "e3f0be84-81d0-4a9f-89a0-39838dc0c887",
+    "7f5a53f0-0187-4a43-9ae7-524022afb2e4",
+    "351d4777-d9e8-449c-86e5-5c2ee0fee6c0",
+    "ed880422-2364-4569-b850-f7bd715b31cd",
+    "41a71322-7f4e-45e9-8889-051137976533",
+    "e4f7edee-eb20-498f-a416-65b216d2db97",
+    "6c175621-5bbb-4452-a927-7ffa792a6cee",
+    "3a0e99b7-4206-41db-afc1-7f9ed1f140a8",
+    "a27d3bc3-8821-4301-8f0a-86a5fee11761",
+    "57a5d12f-ae44-49f6-918a-702b0eb9b5b6",
+    "2403867a-cf9f-4c37-b121-de4e6263f005",
+    "f687f3b6-498e-48fa-8fcf-8ee9718a21a8",
+    "94d15236-3490-46cf-bc2f-4b4a521e99de",
+    "276e4655-82eb-49f1-8827-0ffbfb5a16fa",
+    "e310fcea-9f80-4373-b1d4-a345d6cdef3f",
+    "71385c9d-9615-45d5-bc0e-0577767ef886",
+    "18a65bf0-1867-4003-9ec9-affd926aa0e4",
+    "c763d6b2-537b-46a6-a355-7b2b25ce962e",
+    "fc2c60ca-3e2a-4f3c-802c-39390caab7a6",
+    "e70d00d1-2c90-47ea-b371-932965ae357f",
+    "50ee6db7-7243-4a4e-9142-4f289fc18a28",
+    "abee9a9d-3a2c-475d-a1d5-64e1a49165e4",
+    "e662fecc-9749-49ee-b0eb-d52e7634ad4a",
+    "c9687eec-74d7-4a3e-8577-4dd3085f278e",
+    "3d950782-edae-4690-ba92-319a324381a1",
+    "ab20ccc3-efa6-4324-841b-f86bb85d9ad9",
+    "7c919e5f-284d-41ea-92ec-1e95b7358898"
+  ],
+  "single parent":[
+    "129c5e8e-6957-48e5-a37a-0f57a8fc6218"
+  ],
+  "College":[
+    "3a718a33-d8b3-475b-826f-f93f31a05c45"
+  ],
+  "Time in the US, Immigration status, Being secretive, Family, Children":[
+    "2508be3b-53b1-4328-9d82-4857ec914646",
+    "f4137fa0-0bee-4abb-9f96-12bed3fc025a"
+  ],
+  "scholarships":[
+    "888778b7-2320-47d5-92f5-fb727bfb634e"
+  ],
+  "Time in the US, Jobs/employment/work, Small business owner,  Careers,  Construction":[
+    "190b973a-2d00-44a6-8a6e-9c55fdbca7a2"
+  ],
+  "Time in the US, Immigration status, Feelings, Fear, Legal Status":[
+    "ae6d8839-018c-42fa-9e6a-4469b69da2cd"
+  ],
+  "invisibility":[
+    "9ced894c-1c4b-4620-b876-ef44e8d4db9c"
+  ],
+  "Police raids":[
+    "d14ebdb0-a49f-4668-bd32-00827ee00d27"
+  ],
+  "Time in the US, Arriving in the United States":[
+    "d84c294b-074f-4ad4-895f-78a6fce4b681"
+  ],
+  "returning":[
+    "ff95eec2-0364-4bdf-b6ef-905afe828596",
+    "ec1d0cc2-00bc-4694-b546-4fa24fb6cd61",
+    "75f07464-1948-44a3-93c1-fc939fb379e9"
+  ],
+  "bridge":[
+    "d2a4f075-2538-4187-82a0-6cd417fa37f1"
+  ],
+  "Leaving the US, Ice, Deportation, Return to Mexico, Family Relationships, Family reunification":[
+    "3cd03f05-7014-46c7-b898-a0940f3d7fed"
+  ],
+  "Leaving the US":[
+    "2663e0e7-cf8c-4504-9aea-686b554cfefd",
+    "304f64ea-a985-4f38-9cf9-ff992f0b9fcb",
+    "04b11ba3-3573-4f45-aef6-24c0aba9927e",
+    "b9b042e4-de44-4b79-8f5a-d311da287b9c"
+  ],
+  "Time in the US, Documents, Driver\u2019s license":[
+    "5436b5c1-bcda-4880-a597-6f18d2e7de83"
+  ],
+  "Time in the US, Jobs/employment/work, Small business owner, Earnings,  Careers,  Construction, Time in the US, States, Texas, Oklahoma, Arkansas, Georgia, Oklahoma":[
+    "37b16040-d93f-4ea7-8a7b-246242202486"
+  ],
+  "Moving":[
+    "2f1df595-4157-400e-bbc6-f9140edf3c50",
+    "8ac7db3c-464c-439b-bd94-3a6cec2078b0"
+  ],
+  "traveling":[
+    "496d22f0-d9b8-45a7-8845-a850088f6465",
+    "dab171e8-1861-47ff-b81b-9980af102602",
+    "877bae9f-83b9-490d-9934-84b4f9457c43"
+  ],
+  "negotiations":[
+    "832c27c2-be74-47ad-ac00-f2f45bd50d69"
+  ],
+  "Small business owner":[
+    "968c1783-d4d0-49ef-853c-bf73596d82a4",
+    "6ebbd68d-4115-415a-9bd9-ebc913cee1f0"
+  ],
+  "Time in the US, States, Texas":[
+    "f9174308-e072-4f09-8d16-a17fc9c35d8e"
+  ],
+  "Age":[
+    "31b75b51-49a7-4b56-8173-ddf6daea3ec5",
+    "84f255a8-b4d9-4958-b4a2-65ecd4760953",
+    "d87b913d-2b09-4e98-bc5a-06d5ea7ba6d1",
+    "da99daf5-5de2-4000-90e3-9baaa1e3caa0",
+    "760089bd-5fd6-44e5-a19f-0e9ddd9bc039",
+    "3ed3f896-beb2-42a3-9dd7-5ab3e4704735"
+  ],
+  "Time in the US, School, Higher Education":[
+    "e1c7e3e9-0eae-4fa9-9ac5-b231d73ebfc2"
+  ],
+  "Tragedy":[
+    "e4a230b8-0476-4a93-8f15-bd43b7b4f4ee",
+    "45c9e86d-48cc-4d6c-acd9-108d6aa0fdd2"
+  ],
+  "Time in the US, Family, Parents/step-parents, Jobs, Children, Time in the US, Jobs/employment/work,  Careers,  Construction":[
+    "de541059-88a1-41ee-ad6c-6faf588ff25f"
+  ],
+  "Christian":[
+    "18497ca5-e63a-4a6e-88c7-c211a62106b6"
+  ],
+  "Baptist":[
+    "b56e0507-afca-4277-af76-8c477927314f"
+  ],
+  "Faith":[
+    "194807be-d096-4d09-bb92-bfbd9765e282",
+    "9f8618ca-4b47-4106-8a2b-6d69dacecc0f",
+    "de09c738-1926-4880-9b7d-450eb4b39ff3"
+  ],
+  "church":[
+    "f209313c-7b7e-44a3-b036-27e47f22bb1b"
+  ],
+  "Time in the US, School, High school, Fitting in/belonging":[
+    "68b594d9-19e9-4aee-8cd2-14cb7ac2c8f7"
+  ],
+  "Confederate flag":[
+    "e4113abb-ab64-4114-a3af-d9b1a76054fe"
+  ],
+  "Time in the US, School, Working hard, getting good grades, Graduation,  Self-taught, Higher Education, Jobs/employment/work,  Careers,  Construction":[
+    "5d41bb98-d3c7-4193-84d1-c37c0977ac12"
+  ],
+  "Return to Mexico, Challenges, Bureaucracy":[
+    "6f153cf2-6671-4055-bc31-b9f626688803",
+    "b6aa5ad9-8fb4-422c-bc8a-d7a9972fe800"
+  ],
+  "Reflections, The United States, US government and immigration, Policy to help migrants":[
+    "97e01786-9d31-45d7-9580-c0a28e7ce46a"
+  ],
+  "Reflections, Mexico, Migrants, Jobs":[
+    "989e7d2e-abc0-4328-a54a-b4364685a3c9"
+  ],
+  "Return to Mexico, Jobs, Community, Opportunity":[
+    "c43f241d-b106-4f51-845a-53f5802b86fd"
+  ],
+  "Leaving the US, Reasons for Exit, Deportation, Detention":[
+    "2be7a7af-c84d-48fb-8f0c-727bb6b5604e"
+  ],
+  "Leaving the US, Reasons for Exit, Deportation":[
+    "c52a66ae-f401-4fe7-a6bb-ef6bc9e15e07"
+  ],
+  "Time in the US, Police raids":[
+    "f7483732-4a27-4573-8351-c0d04aed05d4"
+  ],
+  "Mexico, Before the US, Migration from Mexico, Border crossing":[
+    "9f2a2aa9-9c5a-490b-8e57-6c3103e4b7f3",
+    "21121256-5069-4ff0-9962-0bb62689aee2",
+    "ef155dc8-8c03-410b-a688-bb636b4283e3",
+    "39759af8-785d-4f8b-8dbf-1f80109c05a5",
+    "02ada3e3-d6f7-490e-8d78-78ed57f02820",
+    "8d5fae2c-fdd4-4858-bced-6b5e9321aa9a",
+    "0c66172b-f239-46e4-aa1a-d3334d665940",
+    "fce6b2e0-cb77-4a78-b921-be9e3269e9e8",
+    "befccd22-9516-4bed-bc3b-2a058bc21280"
+  ],
+  "Time in the US, Arrests, Leaving the US, Ice, Deportation":[
+    "0007c2d6-5ad0-4a8f-a85c-ca2debb0bab3"
+  ],
+  "Time in the US, Higher Education, Attending, Opportunities from":[
+    "d44480df-8401-4d0a-a4e1-5c5c3a629e43"
+  ],
+  "Time in the US, School, Elementary, Middle school, High school, Learning English/ ESL, Working hard, getting good grades, Struggling, Suspension, Dropping out, Illness, Jobs/employment/work":[
+    "2fda16d2-088f-4656-8e53-c51d1795ba64"
+  ],
+  "Time in the US, School, Kindergarten, Elementary, Learning English, Arriving in the United States, Living situation, Homelife, Parents/step-parents, Expectations":[
+    "eedafbf4-d556-4e0e-a1f7-8e8264747637"
+  ],
+  "bilingual":[
+    "50ebf0df-9224-4776-b924-3fc6a537c830"
+  ],
+  "bilingualism":[
+    "81183763-886c-4b61-82ff-6ead3a2c61cf"
+  ],
+  "Spanish":[
+    "fc685547-5bf1-44d4-8477-56a405cfa2bf",
+    "2119a5fe-5b5c-4e1c-ae05-86764cf167b4"
+  ],
+  "Learning English":[
+    "9d548003-3b9f-4eae-a54d-d3ce784ee45a",
+    "b6eda5d3-da1a-455d-a39f-630461a34340",
+    "7157272b-2aef-4a1f-8919-464998a15835",
+    "3281e649-cbed-4415-a145-35a09ce23672",
+    "f009ff1f-8117-411a-a5e6-43f494f2448d",
+    "71fa4c1a-02d3-426d-a3f9-057b280c258e"
+  ],
+  "Time in the US, Arriving in the United States, Learning English":[
+    "aa293d4f-486d-4bbd-94ae-90d878227151",
+    "f80667ff-4762-4113-a70d-0ad86ef03e57"
+  ],
+  "Time in the US, School, High school, Friends, Diversity, Social acceptance":[
+    "eefa36dd-ec36-4c65-882f-2c1f88f2e81c"
+  ],
+  "Time in the US, Jobs, Small business owner":[
+    "506d3234-f49f-4f15-8362-004083c0e1ec"
+  ],
+  "Reflections, Feelings, Regret":[
+    "2fc13dc0-96f6-4a26-a953-9103a9459ed0"
+  ],
+  "Time in the US, Higher Education, Attending":[
+    "2ac3dd22-0b04-4521-a298-2620fa12152d"
+  ],
+  "Time in the US, Illness, School, Struggling, Suspension, Dropping out":[
+    "47172108-c181-4b03-bbdc-b4d240166c16"
+  ],
+  "Time in the US, Mexican traditions,  Spanish language":[
+    "3ca1144f-94d1-4bb2-b41a-82611fc85c95"
+  ],
+  "Mexico, Mexico, Before the US, Migration from Mexico, Reasons, Economic, Family reunification":[
+    "437022a1-f4a9-4bf3-b29a-abee5246ef48"
+  ],
   "First impressions, The United States":[
     "6b08b361-deab-4471-a337-9d46065e4127"
   ],
   "Reflections, The United States, Worst parts, Time in the US, Arrests, False Accusations, Prison, Feelings, Despair, Frustration, Leaving the US, Court Proceedings, Reasons for Exit, Deportation":[
     "8b0bcc11-5022-4470-8f25-27f58b5fd1a2"
-  ],
-  "Ice":[
-    "58b266f6-30f9-4813-90f9-59c8c18bdcca",
-    "aa8359f0-4e69-4074-b980-ca0d327a952f",
-    "d51afdc4-5304-4d5c-b5c1-73617035cbd4",
-    "0c0e98a1-2dc8-48f5-b93a-0bbeadeaa4d8",
-    "cb89c073-8293-4497-9627-fca5ce64f8c5",
-    "afea4200-a158-487b-8bdb-e226eb01b620"
   ],
   "Reflections, The United States, Favorite parts,  missing, Worst parts, US government and immigration, Mexico, Worst parts about being back":[
     "77d9a8f6-87d1-4c68-8604-1dbccec68505"
@@ -1056,305 +1355,6 @@
   ],
   "Time in the US, School, Kindergarten, Middle school, High school, Time in the US, Friends, Gangs, California, Oklahoma":[
     "e37247c1-09d2-47f0-8b31-f692e2736fd1"
-  ],
-  "Time in the US, Arriving in the United States, Age":[
-    "2d13063f-3904-49d2-9725-e62cf7426f36",
-    "4020ce27-a8cb-4647-8ca3-fdb4216db101",
-    "f35e174a-a9bc-406d-a9b6-69bf3570d71b",
-    "3fa45141-1f81-4d8f-873f-b777f0ee2d59"
-  ],
-  "Reflections":[
-    "20c8f8bf-f3d3-4231-9d08-2b02ced85f94",
-    "25d32c1e-b4d6-452b-817d-1b8556cde1ea",
-    "05cf5bb2-9d68-47cc-b511-70984075d6b6",
-    "25e2514e-5bd1-4da2-b81c-73044d859ab5",
-    "fe0fc2db-7e2f-43db-808c-657c5cd96241"
-  ],
-  "Mexico":[
-    "7e753997-65c3-4d4e-a019-16db954626ec",
-    "5c10cd90-f93f-40a3-989d-83d428b8c6c2",
-    "85b32a6d-21b3-4532-83c0-1ab7aa471b13",
-    "548663ba-5b11-4ead-9825-d970ba0db9bd",
-    "8adb3c45-df2c-4bad-9f32-50ef26c97de2",
-    "c16ccc08-d252-4915-b372-9b7f6a7fbf26",
-    "0648e15e-f532-4d96-8a56-d37261a0ed65",
-    "e79721fd-0f08-41d1-aefb-f402efaf416a"
-  ],
-  "Deportation":[
-    "8c388b5f-31d4-47ef-9454-d66a377b7f6f",
-    "03d5891a-2d9e-4d4f-b653-916ea4cd1d50",
-    "5da7ac42-10b9-4031-bc70-08698314d7d7",
-    "382cdb06-0324-4b5b-a83c-ed20900793fd",
-    "bef2bd4e-3c68-4dff-98b0-3df586d757f8",
-    "1f1ef2c9-08f0-4526-98f8-f1462cef0133",
-    "cf8f1530-e2d4-46ea-9c70-0d2cfa061d47"
-  ],
-  "paperwork":[
-    "898c9e6a-2e5c-429e-8eaa-d3a594be7d36",
-    "0f7330dc-01a2-4c5c-a3ed-eb3a73bee54f",
-    "292c01d6-21b1-4076-8694-387737d38ead"
-  ],
-  "Policy to help migrants":[
-    "3cd5ba0b-2cbc-4740-b76c-f9bc390b6a34",
-    "dc2d7f18-f997-457f-a955-8471be7770bf"
-  ],
-  "Return to Mexico, Jobs, Community, Opportunity, Family Relationships, Feelings, Dreams, Reflections, Mexico, The United States":[
-    "adc2f007-bdab-4da6-acf1-966311e4ae6c"
-  ],
-  "Family":[
-    "cad96987-0177-4b3b-9425-e13eedc925c8",
-    "5e5da5ea-3404-4c1a-8e4d-6ae365e6771d",
-    "05529c5f-c15d-4782-89bd-f3e7c894f7e1",
-    "89d82b26-a76a-4040-99ca-ff7de893297a",
-    "7d00b943-390e-429f-a7ec-36bc46966478",
-    "03d12c36-b0c1-4197-b1dc-730ea3426c20",
-    "39889ccb-7825-47b3-a420-1bfe3c90d7d7",
-    "41ff2bb1-21d6-4199-9ae5-3db06e19b328",
-    "415d0894-7104-4a11-8094-feadca11719d",
-    "0c49635e-a7f9-4132-a148-3015fbd6358f",
-    "83b1579a-97e3-4525-b492-747973a6f670",
-    "3ceb1bed-f194-45fd-aa5f-5d24804003cc",
-    "ec29a691-c9ac-4b71-8ff5-93402c8f875b",
-    "30800646-5d3d-4ce0-abdb-6e9f16f05f95",
-    "fc903540-4fa3-4859-8724-0cbb28d9124d",
-    "332f2438-b68b-47e1-9adf-16e494cbf6ad",
-    "b50ba334-7a16-49e3-9e13-befd6192d54d",
-    "271da7de-04bc-4a70-9785-2a2e2159009c",
-    "40b77a5e-2363-4850-931b-177cd9e61c87",
-    "7be78300-6ec6-4ada-baf0-3cd80fb3c5b8",
-    "a1d38967-9941-4f93-b231-396f2e15bbaa",
-    "8ff1f448-0089-4526-a3aa-c7b51706ea0a",
-    "3e1648b6-eafe-4c2e-a9e5-31165c433fb5",
-    "ccb2e7a6-2103-49d6-8e7a-72c4b948d17a",
-    "f033b816-e973-4e3f-aa3a-178ab98dd447",
-    "7b4d44ee-7186-4722-a861-030419812eae",
-    "ba80a484-2cd8-4ce8-8ed1-3a6fa3c3b718",
-    "e3f0be84-81d0-4a9f-89a0-39838dc0c887",
-    "7f5a53f0-0187-4a43-9ae7-524022afb2e4",
-    "351d4777-d9e8-449c-86e5-5c2ee0fee6c0",
-    "ed880422-2364-4569-b850-f7bd715b31cd",
-    "41a71322-7f4e-45e9-8889-051137976533",
-    "e4f7edee-eb20-498f-a416-65b216d2db97",
-    "6c175621-5bbb-4452-a927-7ffa792a6cee",
-    "3a0e99b7-4206-41db-afc1-7f9ed1f140a8",
-    "a27d3bc3-8821-4301-8f0a-86a5fee11761",
-    "57a5d12f-ae44-49f6-918a-702b0eb9b5b6",
-    "2403867a-cf9f-4c37-b121-de4e6263f005",
-    "f687f3b6-498e-48fa-8fcf-8ee9718a21a8",
-    "94d15236-3490-46cf-bc2f-4b4a521e99de",
-    "276e4655-82eb-49f1-8827-0ffbfb5a16fa",
-    "e310fcea-9f80-4373-b1d4-a345d6cdef3f",
-    "71385c9d-9615-45d5-bc0e-0577767ef886",
-    "18a65bf0-1867-4003-9ec9-affd926aa0e4",
-    "c763d6b2-537b-46a6-a355-7b2b25ce962e",
-    "fc2c60ca-3e2a-4f3c-802c-39390caab7a6",
-    "e70d00d1-2c90-47ea-b371-932965ae357f",
-    "50ee6db7-7243-4a4e-9142-4f289fc18a28",
-    "abee9a9d-3a2c-475d-a1d5-64e1a49165e4",
-    "e662fecc-9749-49ee-b0eb-d52e7634ad4a",
-    "c9687eec-74d7-4a3e-8577-4dd3085f278e",
-    "3d950782-edae-4690-ba92-319a324381a1",
-    "ab20ccc3-efa6-4324-841b-f86bb85d9ad9",
-    "7c919e5f-284d-41ea-92ec-1e95b7358898"
-  ],
-  "single parent":[
-    "129c5e8e-6957-48e5-a37a-0f57a8fc6218"
-  ],
-  "College":[
-    "3a718a33-d8b3-475b-826f-f93f31a05c45"
-  ],
-  "Time in the US, Immigration status, Being secretive, Family, Children":[
-    "2508be3b-53b1-4328-9d82-4857ec914646",
-    "f4137fa0-0bee-4abb-9f96-12bed3fc025a"
-  ],
-  "scholarships":[
-    "888778b7-2320-47d5-92f5-fb727bfb634e"
-  ],
-  "Time in the US, Jobs/employment/work, Small business owner,  Careers,  Construction":[
-    "190b973a-2d00-44a6-8a6e-9c55fdbca7a2"
-  ],
-  "Time in the US, Immigration status, Feelings, Fear, Legal Status":[
-    "ae6d8839-018c-42fa-9e6a-4469b69da2cd"
-  ],
-  "invisibility":[
-    "9ced894c-1c4b-4620-b876-ef44e8d4db9c"
-  ],
-  "Police raids":[
-    "d14ebdb0-a49f-4668-bd32-00827ee00d27"
-  ],
-  "Time in the US, Arriving in the United States":[
-    "d84c294b-074f-4ad4-895f-78a6fce4b681"
-  ],
-  "returning":[
-    "ff95eec2-0364-4bdf-b6ef-905afe828596",
-    "ec1d0cc2-00bc-4694-b546-4fa24fb6cd61",
-    "75f07464-1948-44a3-93c1-fc939fb379e9"
-  ],
-  "bridge":[
-    "d2a4f075-2538-4187-82a0-6cd417fa37f1"
-  ],
-  "Leaving the US, Ice, Deportation, Return to Mexico, Family Relationships, Family reunification":[
-    "3cd03f05-7014-46c7-b898-a0940f3d7fed"
-  ],
-  "Leaving the US":[
-    "2663e0e7-cf8c-4504-9aea-686b554cfefd",
-    "304f64ea-a985-4f38-9cf9-ff992f0b9fcb",
-    "04b11ba3-3573-4f45-aef6-24c0aba9927e",
-    "b9b042e4-de44-4b79-8f5a-d311da287b9c"
-  ],
-  "Time in the US, Documents, Driver\u2019s license":[
-    "5436b5c1-bcda-4880-a597-6f18d2e7de83"
-  ],
-  "Time in the US, Jobs/employment/work, Small business owner, Earnings,  Careers,  Construction, Time in the US, States, Texas, Oklahoma, Arkansas, Georgia, Oklahoma":[
-    "37b16040-d93f-4ea7-8a7b-246242202486"
-  ],
-  "Moving":[
-    "2f1df595-4157-400e-bbc6-f9140edf3c50",
-    "8ac7db3c-464c-439b-bd94-3a6cec2078b0"
-  ],
-  "traveling":[
-    "496d22f0-d9b8-45a7-8845-a850088f6465",
-    "dab171e8-1861-47ff-b81b-9980af102602",
-    "877bae9f-83b9-490d-9934-84b4f9457c43"
-  ],
-  "negotiations":[
-    "832c27c2-be74-47ad-ac00-f2f45bd50d69"
-  ],
-  "Small business owner":[
-    "968c1783-d4d0-49ef-853c-bf73596d82a4",
-    "6ebbd68d-4115-415a-9bd9-ebc913cee1f0"
-  ],
-  "Time in the US, States, Texas":[
-    "f9174308-e072-4f09-8d16-a17fc9c35d8e"
-  ],
-  "Age":[
-    "31b75b51-49a7-4b56-8173-ddf6daea3ec5",
-    "84f255a8-b4d9-4958-b4a2-65ecd4760953",
-    "d87b913d-2b09-4e98-bc5a-06d5ea7ba6d1",
-    "da99daf5-5de2-4000-90e3-9baaa1e3caa0",
-    "760089bd-5fd6-44e5-a19f-0e9ddd9bc039",
-    "3ed3f896-beb2-42a3-9dd7-5ab3e4704735"
-  ],
-  "Time in the US, School, Higher Education":[
-    "e1c7e3e9-0eae-4fa9-9ac5-b231d73ebfc2"
-  ],
-  "Tragedy":[
-    "e4a230b8-0476-4a93-8f15-bd43b7b4f4ee",
-    "45c9e86d-48cc-4d6c-acd9-108d6aa0fdd2"
-  ],
-  "Time in the US, Family, Parents/step-parents, Jobs, Children, Time in the US, Jobs/employment/work,  Careers,  Construction":[
-    "de541059-88a1-41ee-ad6c-6faf588ff25f"
-  ],
-  "Christian":[
-    "18497ca5-e63a-4a6e-88c7-c211a62106b6"
-  ],
-  "Baptist":[
-    "b56e0507-afca-4277-af76-8c477927314f"
-  ],
-  "Faith":[
-    "194807be-d096-4d09-bb92-bfbd9765e282",
-    "9f8618ca-4b47-4106-8a2b-6d69dacecc0f",
-    "de09c738-1926-4880-9b7d-450eb4b39ff3"
-  ],
-  "church":[
-    "f209313c-7b7e-44a3-b036-27e47f22bb1b"
-  ],
-  "Time in the US, School, High school, Fitting in/belonging":[
-    "68b594d9-19e9-4aee-8cd2-14cb7ac2c8f7"
-  ],
-  "Confederate flag":[
-    "e4113abb-ab64-4114-a3af-d9b1a76054fe"
-  ],
-  "Time in the US, School, Working hard, getting good grades, Graduation,  Self-taught, Higher Education, Jobs/employment/work,  Careers,  Construction":[
-    "5d41bb98-d3c7-4193-84d1-c37c0977ac12"
-  ],
-  "Return to Mexico, Challenges, Bureaucracy":[
-    "6f153cf2-6671-4055-bc31-b9f626688803",
-    "b6aa5ad9-8fb4-422c-bc8a-d7a9972fe800"
-  ],
-  "Reflections, The United States, US government and immigration, Policy to help migrants":[
-    "97e01786-9d31-45d7-9580-c0a28e7ce46a"
-  ],
-  "Reflections, Mexico, Migrants, Jobs":[
-    "989e7d2e-abc0-4328-a54a-b4364685a3c9"
-  ],
-  "Return to Mexico, Jobs, Community, Opportunity":[
-    "c43f241d-b106-4f51-845a-53f5802b86fd"
-  ],
-  "Leaving the US, Reasons for Exit, Deportation, Detention":[
-    "2be7a7af-c84d-48fb-8f0c-727bb6b5604e"
-  ],
-  "Leaving the US, Reasons for Exit, Deportation":[
-    "c52a66ae-f401-4fe7-a6bb-ef6bc9e15e07"
-  ],
-  "Time in the US, Police raids":[
-    "f7483732-4a27-4573-8351-c0d04aed05d4"
-  ],
-  "Mexico, Before the US, Migration from Mexico, Border crossing":[
-    "9f2a2aa9-9c5a-490b-8e57-6c3103e4b7f3",
-    "21121256-5069-4ff0-9962-0bb62689aee2",
-    "ef155dc8-8c03-410b-a688-bb636b4283e3",
-    "39759af8-785d-4f8b-8dbf-1f80109c05a5",
-    "02ada3e3-d6f7-490e-8d78-78ed57f02820",
-    "8d5fae2c-fdd4-4858-bced-6b5e9321aa9a",
-    "0c66172b-f239-46e4-aa1a-d3334d665940",
-    "fce6b2e0-cb77-4a78-b921-be9e3269e9e8",
-    "befccd22-9516-4bed-bc3b-2a058bc21280"
-  ],
-  "Time in the US, Arrests, Leaving the US, Ice, Deportation":[
-    "0007c2d6-5ad0-4a8f-a85c-ca2debb0bab3"
-  ],
-  "Time in the US, Higher Education, Attending, Opportunities from":[
-    "d44480df-8401-4d0a-a4e1-5c5c3a629e43"
-  ],
-  "Time in the US, School, Elementary, Middle school, High school, Learning English/ ESL, Working hard, getting good grades, Struggling, Suspension, Dropping out, Illness, Jobs/employment/work":[
-    "2fda16d2-088f-4656-8e53-c51d1795ba64"
-  ],
-  "Time in the US, School, Kindergarten, Elementary, Learning English, Arriving in the United States, Living situation, Homelife, Parents/step-parents, Expectations":[
-    "eedafbf4-d556-4e0e-a1f7-8e8264747637"
-  ],
-  "bilingual":[
-    "50ebf0df-9224-4776-b924-3fc6a537c830"
-  ],
-  "bilingualism":[
-    "81183763-886c-4b61-82ff-6ead3a2c61cf"
-  ],
-  "Spanish":[
-    "fc685547-5bf1-44d4-8477-56a405cfa2bf",
-    "2119a5fe-5b5c-4e1c-ae05-86764cf167b4"
-  ],
-  "Learning English":[
-    "9d548003-3b9f-4eae-a54d-d3ce784ee45a",
-    "b6eda5d3-da1a-455d-a39f-630461a34340",
-    "7157272b-2aef-4a1f-8919-464998a15835",
-    "3281e649-cbed-4415-a145-35a09ce23672",
-    "f009ff1f-8117-411a-a5e6-43f494f2448d",
-    "71fa4c1a-02d3-426d-a3f9-057b280c258e"
-  ],
-  "Time in the US, Arriving in the United States, Learning English":[
-    "aa293d4f-486d-4bbd-94ae-90d878227151",
-    "f80667ff-4762-4113-a70d-0ad86ef03e57"
-  ],
-  "Time in the US, School, High school, Friends, Diversity, Social acceptance":[
-    "eefa36dd-ec36-4c65-882f-2c1f88f2e81c"
-  ],
-  "Time in the US, Jobs, Small business owner":[
-    "506d3234-f49f-4f15-8362-004083c0e1ec"
-  ],
-  "Reflections, Feelings, Regret":[
-    "2fc13dc0-96f6-4a26-a953-9103a9459ed0"
-  ],
-  "Time in the US, Higher Education, Attending":[
-    "2ac3dd22-0b04-4521-a298-2620fa12152d"
-  ],
-  "Time in the US, Illness, School, Struggling, Suspension, Dropping out":[
-    "47172108-c181-4b03-bbdc-b4d240166c16"
-  ],
-  "Time in the US, Mexican traditions,  Spanish language":[
-    "3ca1144f-94d1-4bb2-b41a-82611fc85c95"
-  ],
-  "Mexico, Mexico, Before the US, Migration from Mexico, Reasons, Economic, Family reunification":[
-    "437022a1-f4a9-4bf3-b29a-abee5246ef48"
   ],
   "Time in the US, Pastimes, Music, Playing, Favorite":[
     "911eacb4-3894-41d3-9796-49ad855edd44"

@@ -1,6 +1,8 @@
 {% extends 'base.html' %}
 {% block extra_style %}
 <link rel="stylesheet" href="../assets/css/shuffle.css">
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
 {% endblock %}
 
 {% block content %}
@@ -130,8 +132,8 @@
 
       <div class="text-center" style="margin-bottom:15px;">
         <h3>Interviews</h3>
-        <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter">
-        
+        <!-- <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter"> -->
+        <select style="width:60%" class="interview-filters-multiple" name="filters[]" multiple="multiple"></select>
       </div>
 
       
@@ -324,11 +326,30 @@
     {% endblock %}
 
     {% block extra_js %}
-  
-  
-    <script src="/assets/js/superShuffle.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <script>
+    // In your Javascript (external .js resource or tag)
+    let filters = {{ filters|tojson|safe }}
+    var data = $.map(filters, function (obj) {
+      obj.id = obj.id || obj.pk; // replace pk with your identifier
+      return obj;
+    });
+    $(document).ready(function() {
+      $('.interview-filters-multiple').select2({
+        data: data,
+        placeholder: 'Select Interview Filters',
+        allowClear: true,
+        multiple: true,
+        
+      });
+    });
+    
+  </script>
+    <!-- <script src="/assets/js/superShuffle.js"></script>
     <script src="/assets/js/autocomplete.js"></script>
     <script>
       autocomplete(document.getElementById("myInput"), {{ filters|tojson|safe }});
-    </script>
+    </script> -->
+    
     {% endblock %}
