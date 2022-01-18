@@ -101,7 +101,11 @@ def make_shuffle_json():
         annos = [a['label'] for a in i.annotations if a['label'] != 'SENT']
         meow.update({'labels':list(set(annos))})
         outs.append(meow)
+    # Sort interviews alphabetically by name
+    outs = sorted(outs, key = lambda i: i['name'])
     result.update({'interviews':outs})
     result.update({'subjects':subjects})
+    #result.
     data_path = Path.cwd() / 'assets' / 'lunr'/ 'shuffle.json'
     srsly.write_json(data_path, result)
+make_shuffle_json()
