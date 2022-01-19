@@ -70,29 +70,37 @@
     
     let query = data.join(' ');
     annotations_results = annotations_idx.search(query);
-
+        let elements = [];
         for (i in annotations_results) {
-            if (annotations_results[i].score > 0) {
+            if (annotations_results[i].score > 0 && i < 10) {
             let url = '../assets/quotes/'+annotations_results[i].ref;
+            
             fetch(url).then((resp) => resp.json())
             .then(function(data) {
-                document
-                .querySelector(".interviews")
-                .appendChild(
-                htmlToElement(
-                    `<div style="border: 1px inset rgba(95,81,164,0.26);
+                let element = htmlToElement(
+                     `<div style="border: 1px inset rgba(95,81,164,0.26);
                     border-radius: 20px; padding:50px;">
                     <a href="../interview/${data.name}.html">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
                     <p>${data.text.replace(/\n/g, "<br />")}</p>
                     <p></p>
                     </div>`
-                )
-                );
+                    )
+
+                shuffleInstance.element.appendChild(element);
+                shuffleInstance.add([element]);
+
             });
+            
+
+
+
             }
         // run search for filter, 
         // for each result, add text to the grid
         };
+        
+        
+        
     });
         
     function htmlToElement(html) {
