@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+{% block extra_style %}
+<link rel="stylesheet" href="../assets/css/shuffle.css">
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+{% endblock %}
+
+{% block content %}
+
+ <!-- ======= Interviews Section ======= -->
+ <section id="interviews" class="cta">
+    <div class="container-fluid" data-aos="zoom-in">
+
+      <div class="text-center" style="margin-bottom:15px;">
+        <h3>Topics</h3>
+        <!-- <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter"> -->
+        <select style="width:60%" class="interview-filters-multiple" name="filters[]" multiple="multiple"></select>
+      </div>
+
+      
+        
+        
+          <div id="grid" class="row my-shuffle-container"></div>
+          <div class="mx-auto cta-inner0 text-center">
+          <!-- <button id='load-more-button' class="btn-learn-more">Load More</button> -->
+          </div>
+          <div class="interviews"></div>
+      </div>
+    </div>
+  </section><!-- End Interviews Section -->
+
+
+  {% endblock %}
+
+    {% block extra_js %}
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="../assets/js/topicShuffle.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+  
+  <script>
+    // Select2 filter for interview grid
+    let filters = {{ select2|tojson|safe }}
+    let annotations_idx;
+    
+    $.getJSON("../assets/lunr/annotations.json", function(json){
+        annotations_idx = lunr.Index.load(json);
+    });
+
+    let s2 = $('.interview-filters-multiple').select2({
+    data: filters.results,
+    placeholder: 'Select Topic Filters',
+    allowClear: true,
+    multiple: true,
+    
+    });
+
+    s2.on('change.select2', function () {
+    // Get id of selected filters
+    
+    let data = s2.select2('data').map( item => item.text );
+    
+    // clear results if no filters selected
+    if (data.length == 0) {
+        let parent = document.querySelector(".interviews");
+        while (parent.firstChild) {
+            parent.removeChild(parent.firstChild);
+        }
+    }
+    
+    
+    let query = data.join(' ');
+    annotations_results = annotations_idx.search(query);
+
+        for (i in annotations_results) {
+            if (annotations_results[i].score > 0) {
+            let url = '../assets/quotes/'+annotations_results[i].ref;
+            fetch(url).then((resp) => resp.json())
+            .then(function(data) {
+                document
+                .querySelector(".interviews")
+                .appendChild(
+                htmlToElement(
+                    `<div style="border: 1px inset rgba(95,81,164,0.26);
+                    border-radius: 20px; padding:50px;">
+                    <a href="../interview/${data.name}.html">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
+                    <p>${data.text.replace(/\n/g, "<br />")}</p>
+                    <p></p>
+                    </div>`
+                )
+                );
+            });
+            }
+        // run search for filter, 
+        // for each result, add text to the grid
+        };
+    });
+        
+    function htmlToElement(html) {
+      var template = document.createElement("template");
+      html = html.trim(); // Never return a text node of whitespace as the result
+      template.innerHTML = html;
+      return template.content.firstChild;
+    }   
+  </script>
+  
+  
+
+
+    
+    {% endblock %}

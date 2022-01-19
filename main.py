@@ -62,7 +62,7 @@ def load_data() -> Tuple[List[Interview], List[str]]:
     select2 = (Path.cwd() / 'assets' / 'lunr'/ 'shuffle.json')
     select2 = srsly.read_json(select2)
     select2 = select2['select2']
-    
+
     data_dir = Path.cwd() / 'data'  
     for item in data_dir.iterdir():
         data = srsly.read_json(item)
@@ -109,6 +109,34 @@ def index(request:Request):
         photographs=photographs,
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
+
+@app.get("/interviews")
+def interviews(request:Request):
+    #choose three random images from the photographs with a green background
+    oral_histories, photographs, teaching = random.sample(photos, 3)
+    interviews, select2 = load_data()
+    context = dict(
+        request=request,
+        interviews=interviews,
+        select2= select2,
+        oral_histories= oral_histories, 
+        photographs=photographs,
+        teaching=teaching)
+    return templates.TemplateResponse("interviews.html", context)
+
+@app.get("/topics")
+def topics(request:Request):
+    #choose three random images from the photographs with a green background
+    oral_histories, photographs, teaching = random.sample(photos, 3)
+    interviews, select2 = load_data()
+    context = dict(
+        request=request,
+        interviews=interviews,
+        select2= select2,
+        oral_histories= oral_histories, 
+        photographs=photographs,
+        teaching=teaching)
+    return templates.TemplateResponse("topics.html", context)
 
 @app.get("/interview/{person}.html")
 def interview(request:Request,person:str):

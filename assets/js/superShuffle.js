@@ -15,7 +15,7 @@ var Shuffle = window.Shuffle;
 var currentPage = 1;
 var totalPages;
 var gridContainerElement = document.getElementById('grid');
-var loadMoreButton = document.getElementById('load-more-button');
+//var loadMoreButton = document.getElementById('load-more-button');
 var shuffleInstance;
 // Fetch first page of results from the API.
 // You should probably polyfill `fetch` if you're going to copy this demo.
@@ -29,7 +29,7 @@ fetch('../assets/lunr/shuffle.json')
     totalPages = response.interviews.length;
     let counter = 12;
     // Create and insert the markup.
-    var markup = getItemMarkup(response.interviews.slice(0, 12));
+    var markup = getItemMarkup(response.interviews); //.slice(0, 12));
     appendMarkupToGrid(markup);
     function addMore() {
         if (counter <= totalPages) {
@@ -50,7 +50,7 @@ fetch('../assets/lunr/shuffle.json')
     }
 
     // Add click listener to button to load the next page.
-    loadMoreButton.addEventListener('click', addMore);
+    //loadMoreButton.addEventListener('click', addMore);
 
     // Initialize Shuffle now that there are items.
     shuffleInstance = new Shuffle(gridContainerElement, {

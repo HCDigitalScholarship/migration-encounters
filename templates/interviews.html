@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% block extra_style %}
+<link rel="stylesheet" href="../assets/css/shuffle.css">
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+{% endblock %}
+
+{% block content %}
+
+ <!-- ======= Interviews Section ======= -->
+ <section id="interviews" class="cta">
+    <div class="container-fluid" data-aos="zoom-in">
+
+      <div class="text-center" style="margin-bottom:15px;">
+        <h3>Interviews</h3>
+        <!-- <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter"> -->
+        <select style="width:60%" class="interview-filters-multiple" name="filters[]" multiple="multiple"></select>
+      </div>
+
+      
+        
+        
+          <div id="grid" class="row my-shuffle-container"></div>
+          <div class="mx-auto cta-inner0 text-center">
+          <!-- <button id='load-more-button' class="btn-learn-more">Load More</button> -->
+          </div>
+
+      </div>
+    </div>
+  </section><!-- End Interviews Section -->
+
+
+  {% endblock %}
+
+    {% block extra_js %}
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="../assets/js/superShuffle.js"></script>
+
+  <script>
+    // Select2 filter for interview grid
+    let filters = {{ select2|tojson|safe }}
+    
+    
+      let s2 = $('.interview-filters-multiple').select2({
+        data: filters.results,
+        placeholder: 'Select Interview Filters',
+        allowClear: true,
+        multiple: true,
+        
+      });
+    
+      s2.on('change.select2', function () {
+        // Get id of selected filters
+        let data = s2.select2('data').map( item => parseInt(item.id) );
+        shuffleInstance.filter(data);
+        
+      });
+  </script>
+  
+  
+    
+    
+    {% endblock %}
