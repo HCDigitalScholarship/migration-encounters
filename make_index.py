@@ -112,7 +112,11 @@ def make_select2_filters(subjects:List[str]):
 
 # The shuffle grid on index.html loads from a json file with the name and labels of each interview
 def make_shuffle_json(): 
-    interviews, subjects = load_data()
+    interviews, _ = load_data()
+    subjects = []
+    for i in interviews:
+        subjects.extend([a['label'] for a in i.annotations if a['label'] != 'SENT'])
+    subjects = list(set(subjects))
     select2, lookup = make_select2_filters(subjects)
     result = {}
     outs = []
