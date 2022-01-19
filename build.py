@@ -1,13 +1,21 @@
 import time 
 from fastapi import Request
-from main import index, interview,load_data, search
+from main import index, interview,load_data, search, topics, interviews
 import shutil
 from pathlib import Path 
 
 def build_home():
     page = index(Request)
     (site_path / 'index.html').write_bytes(page.body)
-    
+
+def build_topics():
+    page = topics(Request)
+    (site_path / 'topics.html').write_bytes(page.body)
+
+def build_inteviews_page():
+    page = interviews(Request)
+    (site_path / 'interviews.html').write_bytes(page.body)
+
 def build_interviews():
     interviews, subjects = load_data()
     for person in interviews:
@@ -45,6 +53,8 @@ if __name__ == '__main__':
         shutil.copytree((Path.cwd() / 'assets'), (site_path / 'assets')) 
 
     build_home()
+    build_inteviews_page()
+    build_topics()
     build_interviews()
     build_interviews_json()
     build_search()
