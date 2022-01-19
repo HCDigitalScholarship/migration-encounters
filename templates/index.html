@@ -343,7 +343,12 @@
         
       });
     
-    
+      s2.on('change.select2', function () {
+        // Get id of selected filters
+        let data = s2.select2('data').map( item => parseInt(item.id) );
+        shuffleInstance.filter(data);
+        
+      });
   </script>
   
   

@@ -127,5 +127,4 @@ function replaceLoadMoreButton() {
 
 function filterShuffle(filter) {
   shuffleInstance.filter(filter);
-  console.log(filter);
 }
