@@ -328,28 +328,25 @@
     {% block extra_js %}
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="../assets/js/superShuffle.js"></script>
+
   <script>
-    // In your Javascript (external .js resource or tag)
-    let filters = {{ filters|tojson|safe }}
-    var data = $.map(filters, function (obj) {
-      obj.id = obj.id || obj.pk; // replace pk with your identifier
-      return obj;
-    });
-    $(document).ready(function() {
-      $('.interview-filters-multiple').select2({
-        data: data,
+    // Select2 filter for interview grid
+    let filters = {{ select2|tojson|safe }}
+    
+    
+      let s2 = $('.interview-filters-multiple').select2({
+        data: filters.results,
         placeholder: 'Select Interview Filters',
         allowClear: true,
         multiple: true,
         
       });
-    });
+    
     
   </script>
-    <!-- <script src="/assets/js/superShuffle.js"></script>
-    <script src="/assets/js/autocomplete.js"></script>
-    <script>
-      autocomplete(document.getElementById("myInput"), {{ filters|tojson|safe }});
-    </script> -->
+  
+  
+    
     
     {% endblock %}

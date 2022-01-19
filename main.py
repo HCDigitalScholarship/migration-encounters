@@ -55,22 +55,23 @@ class Interview(BaseModel):
     text: Optional[str] = ''
     annotations: List[dict] #for both audio, text and images
     audio: Optional[List[dict]] = None
-    subjects: Optional[List[str]] = None
+    select2: Optional[List[dict]] = None
 
 def load_data() -> Tuple[List[Interview], List[str]]:
     interviews = []
-    subjects = []
+    select2 = (Path.cwd() / 'assets' / 'lunr'/ 'shuffle.json')
+    select2 = srsly.read_json(select2)
+    select2 = select2['select2']
+    
     data_dir = Path.cwd() / 'data'  
     for item in data_dir.iterdir():
         data = srsly.read_json(item)
         if data:
             i = Interview(**data)
-            i.subjects = list(set([a['label'] for a in i.annotations if a['label'] !='SENT']))
             interviews.append(i)
-            subjects.extend(i.subjects)
         else:
             print('error',data)
-    return interviews, list(set(subjects))
+    return interviews, select2
 
 
 brick = [
@@ -99,14 +100,13 @@ def add_audio_to_annotations(interview:Interview):
 def index(request:Request):
     #choose three random images from the photographs with a green background
     oral_histories, photographs, teaching = random.sample(photos, 3)
-    interviews, subjects = load_data()
+    interviews, select2 = load_data()
     context = dict(
         request=request,
         interviews=interviews,
-        filters= subjects,
+        select2= select2,
         oral_histories= oral_histories, 
         photographs=photographs,
-        subjects=subjects, 
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
