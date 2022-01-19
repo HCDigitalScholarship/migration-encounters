@@ -12,7 +12,7 @@
     <div class="container-fluid" data-aos="zoom-in">
 
       <div class="text-center" style="margin-bottom:15px;">
-        <h3>Topics</h3>
+        <h3>Search by Topic</h3>
         <!-- <input id="myInput" style="width:40%;" type="text"name="filters" placeholder="Filter"> -->
         <select style="width:60%" class="interview-filters-multiple" name="filters[]" multiple="multiple"></select>
       </div>
@@ -61,10 +61,12 @@
     
     // clear results if no filters selected
     if (data.length == 0) {
-        let parent = document.querySelector(".interviews");
-        while (parent.firstChild) {
-            parent.removeChild(parent.firstChild);
-        }
+        let items = shuffleInstance.items;
+        for (i in items) {
+            shuffleInstance.element.removeChild(items[i].element);
+        }    
+        shuffleInstance.remove(items);
+        shuffleInstance.items = [];
     }
     
     
@@ -79,9 +81,9 @@
             .then(function(data) {
                 let element = htmlToElement(
                      `<div style="border: 1px inset rgba(95,81,164,0.26);
-                    border-radius: 20px; padding:50px;">
-                    <a href="../interview/${data.name}.html">${data.name}</a><a href="../label/${data.label}">${data.label}</a>
-                    <p>${data.text.replace(/\n/g, "<br />")}</p>
+                    border-radius: 20px; padding:50px; width:100%">
+                    <strong><a href="../interview/${data.name}.html">${data.name}</a></strong><br><p>${data.label}</p>
+                    <p>${data.text}</p>
                     <p></p>
                     </div>`
                     )
