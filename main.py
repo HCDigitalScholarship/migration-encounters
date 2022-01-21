@@ -96,6 +96,28 @@ def add_audio_to_annotations(interview:Interview):
     interview.annotations.extend(audio)
     return interview
 
+def break_topics_into_parts(select2:dict):
+    """For the interviews, we want to break the topics into parts."""
+    # Create a list of distinct topic parts
+    parts = []
+    topics = select2['results']
+    for topic in topics:
+        topic_parts = topic['text'].split(',')
+        topic_parts = [p.strip() for p in topic_parts]
+        parts.extend(topic_parts)
+    parts = list(set(parts))
+    #reformat as select2 data for the template
+    i = 1 
+    results = []
+    for part in parts:
+        p = {}
+        p['id'] = i
+        p['text'] = part
+        i += 1
+        results.append(p)
+
+    return {'results':results, "pagination":{'more':False}}
+
 @app.get("/")
 def index(request:Request):
     #choose three random images from the photographs with a green background
@@ -110,7 +132,7 @@ def index(request:Request):
         teaching=teaching)
     return templates.TemplateResponse("index.html", context)
 
-@app.get("/interviews")
+@app.get("/interviews.html")
 def interviews(request:Request):
     #choose three random images from the photographs with a green background
     oral_histories, photographs, teaching = random.sample(photos, 3)
@@ -124,11 +146,13 @@ def interviews(request:Request):
         teaching=teaching)
     return templates.TemplateResponse("interviews.html", context)
 
-@app.get("/topics")
+@app.get("/topics.html")
 def topics(request:Request):
     #choose three random images from the photographs with a green background
     oral_histories, photographs, teaching = random.sample(photos, 3)
     interviews, select2 = load_data()
+    # On this page we want the topic parts, not topic ids
+    select2 = break_topics_into_parts(select2)
     context = dict(
         request=request,
         interviews=interviews,

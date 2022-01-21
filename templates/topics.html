@@ -42,7 +42,7 @@
     let filters = {{ select2|tojson|safe }}
     let annotations_idx;
     
-    $.getJSON("../assets/lunr/annotations.json", function(json){
+    $.getJSON("../assets/lunr/topics.json", function(json){
         annotations_idx = lunr.Index.load(json);
     });
 
@@ -60,17 +60,17 @@
     let data = s2.select2('data').map( item => item.text );
     
     // clear results if no filters selected
-    if (data.length == 0) {
+   
         let items = shuffleInstance.items;
         for (i in items) {
             shuffleInstance.element.removeChild(items[i].element);
         }    
         shuffleInstance.remove(items);
         shuffleInstance.items = [];
-    }
+   
     
     
-    let query = data.join(' ');
+    let query = data.join('&');
     annotations_results = annotations_idx.search(query);
         let elements = [];
         for (i in annotations_results) {

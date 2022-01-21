@@ -43,6 +43,11 @@ serialized_idx = idx.serialize()
 annos_path = data = Path.cwd() / 'assets' / 'lunr' / 'annotations.json'
 srsly.write_json(annos_path, serialized_idx)
 
+idx = lunr(ref="id", fields=["label"], documents=annos)
+serialized_idx = idx.serialize()
+annos_path = data = Path.cwd() / 'assets' / 'lunr' / 'topics.json'
+srsly.write_json(annos_path, serialized_idx)
+
 quotes_path = Path.cwd() / 'assets' / 'quotes'
 if not quotes_path.exists():
     quotes_path.mkdir(parents=True, exist_ok=True)
