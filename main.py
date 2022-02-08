@@ -56,6 +56,7 @@ class Interview(BaseModel):
     annotations: List[dict] #for both audio, text and images
     audio: Optional[List[dict]] = None
     select2: Optional[List[dict]] = None
+    bio: Optional[str] = ''
 
 def load_data() -> Tuple[List[Interview], List[str]]:
     interviews = []
