@@ -1,31 +1,30 @@
 {
-  "name":"Lucero",
-  "date":"June 7, 2019",
-  "location":"Mexico City, Mexico",
-  "interviewer":"Anita Isaacs",
-  "portrait":"Lucero_6--2019_Portrait.jpg",
-  "thumbnail":"Lucero_6--2019_Thumbnail.jpg",
-  "text":"",
-  "annotations":[
-
-  ],
-  "audio":[
+  "name": "Lucero",
+  "date": "June 7, 2019",
+  "location": "Mexico City, Mexico",
+  "interviewer": "Anita Isaacs",
+  "portrait": "Lucero_6--2019_Portrait.jpg",
+  "thumbnail": "Lucero_6--2019_Thumbnail.jpg",
+  "text": "",
+  "annotations": [],
+  "audio": [
     {
-      "name":"Reuniting with her mom",
-      "src":"Lucero_On_reuniting_with_her_mom.mp3"
+      "name": "Reuniting with her mom",
+      "src": "Lucero_On_reuniting_with_her_mom.mp3"
     },
     {
-      "name":"Being separated from her US-born Children",
-      "src":"Lucero_On_being_separated_from_her_US-born_Children.mp3"
+      "name": "Being separated from her US-born Children",
+      "src": "Lucero_On_being_separated_from_her_US-born_Children.mp3"
     },
     {
-      "name":"Culture shock in the US",
-      "src":"Lucero_On_culture_shock_in_the_US.mp3"
+      "name": "Culture shock in the US",
+      "src": "Lucero_On_culture_shock_in_the_US.mp3"
     },
     {
-      "name":"Growing up without parents",
-      "src":"Lucero_On_growing_up_without_parents.mp3"
+      "name": "Growing up without parents",
+      "src": "Lucero_On_growing_up_without_parents.mp3"
     }
   ],
-  "subjects":null
+  "subjects": null,
+  "bio": "Lucero \n\n\nFemale, Age \nCrossed the border at 9 fleeing domestic violence and reuniting with her mother \nUS high school sophomore; Us occupation: restaurant worker, homemaker\nDetained for speeding and deported at 27\nLeft Behind: parents, siblings, four children\nMexican Occupation: call center worker"
 }
