@@ -2,10 +2,13 @@ import uuid
 import requests
 import re
 import json
+import os
 from utils import search_ignore_space, find_fuzzy_match, find_semantic_match
 
+base_path = os.path.dirname(os.path.realpath(__file__))
+annotationJsonFile = f"{base_path}/interviewee_annotation_url.json"
 interviewee_annotation_url = {}
-with open("./interviewee_annotation_url.json", "r") as f:
+with open(annotationJsonFile, "r") as f:
 	interviewee_annotation_url = json.load(f)
 
 def get_annotations(interviewee, full_text):
@@ -65,25 +68,3 @@ def parse_annotations(annotations_raw, full_text):
 		del annotations_all[idx]["text"]
 		annotations_all[idx]["label"] = ",".join(matched_parts)
 	return annotations_all
-
-# get_annotations("Abel")
-
-# def foo():
-# 	import csv
-# 	import json
-# 	d = {}
-# 	with open('../interviews/file.csv', newline='') as f:
-# 		reader = csv.reader(f)
-# 		for n, row in enumerate(reader):
-# 			if 6 <= n <= 158:
-# 				interviewee = row[0]
-# 				url = row[2]
-# 				d[interviewee] = url
-# 	out = "./hypothesis_constants.json"
-# 	with open(out, "w") as a:
-# 		json.dump(d, a, indent = 4)
-# foo()
-
-
-
-	

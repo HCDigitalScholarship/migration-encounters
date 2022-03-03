@@ -11,7 +11,8 @@ if __name__ == '__main__':
 	# sets up a flag argument for the parser
 	parser.add_argument('-f', '--file', help="path to interview file")
 	parser.add_argument('-b', '--bio', help="path to bio file")
-	parser.add_argument('-a', '--annotation', help="hypothesis api name")
+	parser.add_argument('-an', '--annotation', nargs='*', help="hypothesis api name")
+	parser.add_argument('-au', '--audio', nargs='*', help="audio name")
 	parser.add_argument('-o', '--out', help="output directory for json file")
 
 	# parses the arguments into a variable
@@ -19,7 +20,8 @@ if __name__ == '__main__':
  
 	file = args.file
 	bio_file = args.bio
-	annotation_name = args.annotation
+	annotation_name = None if args.annotation is None or len(args.annotation) == 0 else " ".join(args.annotation)
+	audio_name = None if args.audio is None or len(args.audio) == 0 else " ".join(args.annotation)
 	out = args.out
 	
 	interview_lines = {}
@@ -43,7 +45,7 @@ if __name__ == '__main__':
 	portrait = f'{interviewee}_{date_mm_dd_yyyy}_Portrait.jpg'
 	thumbnail = f'{interviewee}_{date_mm_dd_yyyy}_Thumbnail.jpg'
 	annotations = get_annotations(annotation_name, text)
-	audio = get_audio(interviewee, text)
+	audio = get_audio(audio_name, text)
 
 	data = {
 		"name": interviewee,
