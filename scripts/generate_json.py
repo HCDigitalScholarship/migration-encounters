@@ -21,9 +21,9 @@ if __name__ == '__main__':
 	file = args.file
 	bio_file = args.bio
 	annotation_name = None if args.annotation is None or len(args.annotation) == 0 else " ".join(args.annotation)
-	audio_name = None if args.audio is None or len(args.audio) == 0 else " ".join(args.annotation)
+	audio_name = None if args.audio is None or len(args.audio) == 0 else " ".join(args.audio)
 	out = args.out
-	
+
 	interview_lines = {}
 	with open(file, mode="r", encoding="utf-8-sig") as f:
 		for n, line in enumerate(f):
