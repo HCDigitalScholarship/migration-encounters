@@ -13,7 +13,7 @@ with open(annotationJsonFile, "r") as f:
 
 def get_annotations(interviewee, full_text):
 	uri = interviewee_annotation_url.get(interviewee, None)
-	if uri is None:
+	if interviewee is None or uri is None:
 		return []
 	base_url = "https://api.hypothes.is/api/search"
 	url = f"{base_url}?uri={uri}"
@@ -47,7 +47,9 @@ def parse_annotations(annotations_raw, full_text):
 				"text": annotation_text,
 			}
 			annotations_all.append(annotation)
-	bank = open("../index_themes.txt").read().splitlines()
+	dirname = os.path.dirname(__file__)
+	index_themes_path = os.path.join(dirname, '../index_themes.txt')
+	bank = open(index_themes_path).read().splitlines()
 	for idx, annotation in enumerate(annotations_all):
 		annotation_text_and_tags = [annotation["text"], *annotation["label"]]
 		matched_parts = []

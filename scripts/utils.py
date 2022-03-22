@@ -128,6 +128,8 @@ with open(audioJsonFile, "r") as f:
 	interviewee_audio_url = json.load(f)
 
 def get_audio(interviewee, full_text):
+	if interviewee is None:
+		return []
 	name = interviewee.lower()
 	interviewee_raw_audio = None
 	if name in interviewee_audio_url:
