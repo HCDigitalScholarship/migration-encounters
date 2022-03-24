@@ -77,8 +77,11 @@ if __name__ == '__main__':
 		with Image.open(portrait) as img:
 			# save portrait in assets
 			portrait_dir = os.path.join(dirname, '../assets/img/portraits/')
+			size = (1500, 1125)
+			img = img.resize(size)
 			img.save(portrait_dir + portrait_filename, "JPEG")
 
+		with Image.open(portrait) as img:
 			# save thumbnail in assets
 			thumbnail_dir = os.path.join(dirname, '../assets/img/thumbnails/')
 			size = (720, 540)

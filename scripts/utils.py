@@ -4,6 +4,7 @@ import json
 import spacy
 from rapidfuzz import process, fuzz
 import os
+import requests
 
 nlp = spacy.load("en_core_web_lg")
 
@@ -24,6 +25,7 @@ def search_ignore_space(pattern_text, string):
 	#
 	matched_string_start = string_no_space.find(pattern_text)
 	matched_string_end = matched_string_start + len(pattern_text)
+
 	if matched_string_start == -1:
 		return [None, None, None]
 
@@ -31,7 +33,7 @@ def search_ignore_space(pattern_text, string):
 	# of the found string in the spaceless string
 	# (as we have searched in it).
 	start = original_string_char_positions[matched_string_start]  # in the original string
-	end = original_string_char_positions[matched_string_end] - 1  # in the original string
+	end = original_string_char_positions[matched_string_end] - 1 if matched_string_end < len(original_string_char_positions) else original_string_char_positions[-1] # in the original string
 	matched_string = string[start:end]
 
 	# the match WITH spaces, and the start and end locations in the original string is returned.
@@ -143,16 +145,16 @@ def get_audio(interviewee, full_text):
 		interviewee_raw_audio = interviewee_audio_url[similar[0]]
 	all_audio = []
 	for raw_audio in interviewee_raw_audio:
-		topic = raw_audio["topic"]
+		topic_raw = raw_audio["topic"]
 		src = raw_audio["src"]
 		interview_part = raw_audio["interview_part"]
+		topic = " ".join(topic_raw.replace("On_", "").split("_"))
 		audio = {
-				"name": name,
+				"name": topic,
 				"src": src,
 			}
 		if interview_part:
 			_, start, end = search_ignore_space(interview_part, full_text)
-			name = " ".join(topic.replace("On_", "").split("_"))
 			audio["start"] = start
 			audio["end"] = end
 		else:
@@ -160,3 +162,10 @@ def get_audio(interviewee, full_text):
 			audio["end"] = None
 		all_audio.append(audio)
 	return all_audio
+
+# def get_filename_from_google_drive_download(url):
+# 	# https://stackoverflow.com/a/61363759
+# 	res = requests.get(url)
+# 	header = res.headers["Content-Disposition"]
+# 	filename = re.search(r'filename="(.*)"', header).group(1)
+# 	return filename 

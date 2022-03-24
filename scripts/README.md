@@ -5,13 +5,14 @@
 1. -f path to interview file (transcripts v2)
 2. -b path to bio file
 3. -an hypothesis annotation name for api (can handle argument with spaces)
-4. -an audio name in google drive (can handle argument with spaces)
-5. -o the output file (if not provided file will be generated in current directory)
+4. -au audio name in google drive (can handle argument with spaces)
+5. -p path to portrait file
+6. -o the output file (if not provided file will be generated in current directory)
 
 ## Example Usage
 
 ```bash
-python generateJson.py -f interview.txt -b bio.txt -an john -au john doe
+python generateJson.py -f interview.txt -b bio.txt -an john -au john doe -p portrait.jpg
 ```
 
 ## About

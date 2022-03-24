@@ -17,6 +17,7 @@ if __name__ == "__main__":
 			if 6 <= n <= 158:
 				url = row[2]
 				interviewee = url.split("/")[-1]
-				data[interviewee] = url
+				key = f"{interviewee}_{'v1' if n <= 67 else 'v2'}"
+				data[key] = url
 	with open(out, "w") as f:
 		json.dump(data, f, indent = 4)
