@@ -22,6 +22,7 @@ def search_ignore_space(pattern_text, string):
 	# removing whitespace from pattern text
 	pattern_text = "".join(pattern_text.split())
 	string_no_space = "".join(string.split())
+
 	#
 	matched_string_start = string_no_space.find(pattern_text)
 	matched_string_end = matched_string_start + len(pattern_text)
